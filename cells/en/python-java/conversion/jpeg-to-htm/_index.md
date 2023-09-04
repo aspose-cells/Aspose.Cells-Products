@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to HTM - Online JPEG to HTM Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to HTM saveformat. Python JPEG to HTM format. Save JPEG to HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to HTM saveformat., Free Online JPEG to HTM Python., Python Convert JPEG to HTM]
+title: Python JPEG to HTM - JPEG to HTM Converter
+description: Aspose Excel. Python Aspose.Cells. JPEG to HTM in Python. Python Convert JPEG to HTM saveformat. Python JPEG to HTM format. Save JPEG to HTM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPEG to HTM in Python., Python JPEG to HTM saveformat., JPEG to HTM Python., Python Convert JPEG to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JPEG to HTM? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to HTM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to HTM in Python" %}}
 
 The following example demonstrates how to convert JPEG to HTM in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to HTM. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to HTM via Python" %}}
 

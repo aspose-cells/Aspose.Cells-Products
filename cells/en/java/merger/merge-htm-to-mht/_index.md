@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MHT - Combine HTM to MHT in Java
 url: /java/merger/merge-htm-to-mht/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to MHT saveformat. Java Combine HTM to MHT format. Merge HTM to MHT in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to MHT in Java., Free Online Java Merge HTM to mht., Java Combine HTM to MHT Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTM to MHT saveformat. Java Combine HTM to MHT format. Merge HTM to MHT in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to MHT in Java., Java Merge HTM to mht., Java Combine HTM to MHT., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTM to MHT? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to MHT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to MHT in Java" %}}
 
 The following example demonstrates how to merge HTM to MHT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTM to MHT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to MHT in Java" InputFormat="htm" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTM to MHT in Java" InputFormat="htm" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to MHT via Java" %}}
 

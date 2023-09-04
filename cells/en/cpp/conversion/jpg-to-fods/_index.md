@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to FODS - Online JPG to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to FODS saveformat. C++ JPG to FODS format. Save JPG to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to FODS saveformat., Free Online JPG to FODS C++., C++ Convert JPG to FODS]
+title: C++ JPG to FODS - JPG to FODS Converter
+description: Aspose Excel. C++ Aspose.Cells. JPG to FODS in C++. C++ Convert JPG to FODS saveformat. C++ JPG to FODS format. Save JPG to FODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPG to FODS in C++., C++ JPG to FODS saveformat., JPG to FODS C++., C++ Convert JPG to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to FODS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to FODS in C++" %}}
 
 The following example demonstrates how to convert JPG to FODS in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPG to FODS. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to FODS via C++" %}}
 

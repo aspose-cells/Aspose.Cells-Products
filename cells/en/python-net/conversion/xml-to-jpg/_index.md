@@ -1,7 +1,7 @@
 ---
-title: Python XML to JPG - Online XML to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to JPG saveformat. Python XML to JPG format. Save XML to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to JPG saveformat., Free Online XML to JPG Python., Python Convert XML to JPG]
+title: Python XML to JPG - XML to JPG Converter
+description: Aspose Excel. Python Aspose.Cells. XML to JPG in Python. Python Convert XML to JPG saveformat. Python XML to JPG format. Save XML to JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XML to JPG in Python., Python XML to JPG saveformat., XML to JPG Python., Python Convert XML to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XML to JPG? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XML to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to JPG in Python" %}}
 
 The following example demonstrates how to convert XML to JPG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XML to JPG. Upload your XML file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XML to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to JPG" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XPS - Combine IMAGE to XPS in Python
 url: /python-net/merger/merge-image-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to XPS saveformat. Python Combine IMAGE to XPS format. Merge IMAGE to XPS in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XPS in Python., Free Online Python Merge IMAGE to xps., Python Combine IMAGE to XPS Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge IMAGE to XPS saveformat. Python Combine IMAGE to XPS format. Merge IMAGE to XPS in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XPS in Python., Python Merge IMAGE to xps., Python Combine IMAGE to XPS., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge IMAGE to XPS? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to XPS in Python" %}}
 
 The following example demonstrates how to merge IMAGE to XPS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge IMAGE to XPS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to XPS in Python" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to XPS in Python" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to XPS via Python" %}}
 

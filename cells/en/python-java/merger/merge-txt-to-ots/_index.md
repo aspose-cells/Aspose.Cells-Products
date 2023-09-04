@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to OTS - Combine TXT to OTS in Python
 url: /python-java/merger/merge-txt-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to OTS saveformat. Python Combine TXT to OTS format. Merge TXT to OTS in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to OTS in Python., Free Online Python Merge TXT to ots., Python Combine TXT to OTS Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to OTS saveformat. Python Combine TXT to OTS format. Merge TXT to OTS in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to OTS in Python., Python Merge TXT to ots., Python Combine TXT to OTS., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to OTS? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to OTS in Python" %}}
 
 The following example demonstrates how to merge TXT to OTS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to OTS in Python" InputFormat="txt" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TXT to OTS in Python" InputFormat="txt" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to OTS via Python" %}}
 

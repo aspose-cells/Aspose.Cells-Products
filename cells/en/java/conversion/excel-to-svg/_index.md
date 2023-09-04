@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to SVG - Online EXCEL to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to SVG saveformat. Java EXCEL to SVG format. Save EXCEL to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to SVG saveformat., Free Online EXCEL to SVG Java., Java Convert EXCEL to SVG]
+title: Java EXCEL to SVG - EXCEL to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to SVG in Java. Java Convert EXCEL to SVG saveformat. Java EXCEL to SVG format. Save EXCEL to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to SVG in Java., Java EXCEL to SVG saveformat., EXCEL to SVG Java., Java Convert EXCEL to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to SVG? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to SVG in Java" %}}
 
 The following example demonstrates how to convert EXCEL to SVG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to SVG. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to SVG via Java" %}}
 

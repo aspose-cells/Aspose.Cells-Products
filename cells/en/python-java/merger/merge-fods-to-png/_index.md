@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PNG - Combine FODS to PNG in Python
 url: /python-java/merger/merge-fods-to-png/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to PNG saveformat. Python Combine FODS to PNG format. Merge FODS to PNG in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PNG in Python., Free Online Python Merge FODS to png., Python Combine FODS to PNG Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to PNG saveformat. Python Combine FODS to PNG format. Merge FODS to PNG in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PNG in Python., Python Merge FODS to png., Python Combine FODS to PNG., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to PNG? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to PNG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to PNG in Python" %}}
 
 The following example demonstrates how to merge FODS to PNG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to PNG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to PNG in Python" InputFormat="fods" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge FODS to PNG in Python" InputFormat="fods" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to PNG via Python" %}}
 

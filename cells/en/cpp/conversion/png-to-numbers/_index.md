@@ -1,7 +1,7 @@
 ---
-title: C++ PNG to NUMBERS - Online PNG to NUMBERS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to NUMBERS saveformat. C++ PNG to NUMBERS format. Save PNG to NUMBERS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to NUMBERS saveformat., Free Online PNG to NUMBERS C++., C++ Convert PNG to NUMBERS]
+title: C++ PNG to NUMBERS - PNG to NUMBERS Converter
+description: Aspose Excel. C++ Aspose.Cells. PNG to NUMBERS in C++. C++ Convert PNG to NUMBERS saveformat. C++ PNG to NUMBERS format. Save PNG to NUMBERS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., PNG to NUMBERS in C++., C++ PNG to NUMBERS saveformat., PNG to NUMBERS C++., C++ Convert PNG to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to NUMBERS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to NUMBERS in C++" %}}
 
 The following example demonstrates how to convert PNG to NUMBERS in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert PNG to NUMBERS. Upload your PNG file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="numbers" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert PNG to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="numbers" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to NUMBERS via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PNG - Combine HTM to PNG in C#
 url: /net/merger/merge-htm-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to PNG saveformat. C# Combine HTM to PNG format. Merge HTM to PNG in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PNG in C#., Free Online C# Merge HTM to png., C# Combine HTM to PNG Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge HTM to PNG saveformat. C# Combine HTM to PNG format. Merge HTM to PNG in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PNG in C#., C# Merge HTM to png., C# Combine HTM to PNG., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to PNG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to PNG in C#" %}}
 
 The following example demonstrates how to merge HTM to PNG in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge HTM to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to PNG in C#" InputFormat="htm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge HTM to PNG in C#" InputFormat="htm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to PNG via C#" %}}
 

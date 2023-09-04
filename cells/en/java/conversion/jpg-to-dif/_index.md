@@ -1,7 +1,7 @@
 ---
-title: Java JPG to DIF - Online JPG to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to DIF saveformat. Java JPG to DIF format. Save JPG to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to DIF saveformat., Free Online JPG to DIF Java., Java Convert JPG to DIF]
+title: Java JPG to DIF - JPG to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. JPG to DIF in Java. Java Convert JPG to DIF saveformat. Java JPG to DIF format. Save JPG to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to DIF in Java., Java JPG to DIF saveformat., JPG to DIF Java., Java Convert JPG to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPG to DIF? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to DIF in Java" %}}
 
 The following example demonstrates how to convert JPG to DIF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to DIF. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to DIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to DIF via Java" %}}
 

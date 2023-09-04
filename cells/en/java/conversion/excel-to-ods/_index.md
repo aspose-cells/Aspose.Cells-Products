@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to ODS - Online EXCEL to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to ODS saveformat. Java EXCEL to ODS format. Save EXCEL to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to ODS saveformat., Free Online EXCEL to ODS Java., Java Convert EXCEL to ODS]
+title: Java EXCEL to ODS - EXCEL to ODS Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to ODS in Java. Java Convert EXCEL to ODS saveformat. Java EXCEL to ODS format. Save EXCEL to ODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to ODS in Java., Java EXCEL to ODS saveformat., EXCEL to ODS Java., Java Convert EXCEL to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to ODS? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to ODS in Java" %}}
 
 The following example demonstrates how to convert EXCEL to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to ODS. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to ODS via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to EXCEL - Combine JSON to EXCEL in C#
 url: /net/merger/merge-json-to-excel/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to EXCEL saveformat. C# Combine JSON to EXCEL format. Merge JSON to EXCEL in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to EXCEL in C#., Free Online C# Merge JSON to excel., C# Combine JSON to EXCEL Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JSON to EXCEL saveformat. C# Combine JSON to EXCEL format. Merge JSON to EXCEL in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to EXCEL in C#., C# Merge JSON to excel., C# Combine JSON to EXCEL., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to EXCEL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to EXCEL in C#" %}}
 
 The following example demonstrates how to merge JSON to EXCEL in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JSON to EXCEL. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to EXCEL in C#" InputFormat="json" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JSON to EXCEL in C#" InputFormat="json" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to EXCEL via C#" %}}
 

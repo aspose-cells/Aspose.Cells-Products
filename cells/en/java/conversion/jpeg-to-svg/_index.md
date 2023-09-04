@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to SVG - Online JPEG to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to SVG saveformat. Java JPEG to SVG format. Save JPEG to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to SVG saveformat., Free Online JPEG to SVG Java., Java Convert JPEG to SVG]
+title: Java JPEG to SVG - JPEG to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to SVG in Java. Java Convert JPEG to SVG saveformat. Java JPEG to SVG format. Save JPEG to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to SVG in Java., Java JPEG to SVG saveformat., JPEG to SVG Java., Java Convert JPEG to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to SVG? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to SVG in Java" %}}
 
 The following example demonstrates how to convert JPEG to SVG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to SVG. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to SVG via Java" %}}
 

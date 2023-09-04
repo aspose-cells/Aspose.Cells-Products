@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to XLTX - Online XLSB to XLTX Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to XLTX saveformat. C# XLSB to XLTX format. Save XLSB to XLTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to XLTX saveformat., Free Online XLSB to XLTX C#., C# Convert XLSB to XLTX]
+title: C# XLSB to XLTX - XLSB to XLTX Converter
+description: Aspose Excel. C# Aspose.Cells. XLSB to XLTX in C#. C# Convert XLSB to XLTX saveformat. C# XLSB to XLTX format. Save XLSB to XLTX C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLSB to XLTX in C#., C# XLSB to XLTX saveformat., XLSB to XLTX C#., C# Convert XLSB to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XLTX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLTX in C#" %}}
 
 The following example demonstrates how to convert XLSB to XLTX in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSB to XLTX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xltx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xltx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLTX via C#" %}}
 

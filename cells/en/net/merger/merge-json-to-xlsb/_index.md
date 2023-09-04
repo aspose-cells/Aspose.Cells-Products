@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLSB - Combine JSON to XLSB in C#
 url: /net/merger/merge-json-to-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to XLSB saveformat. C# Combine JSON to XLSB format. Merge JSON to XLSB in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to XLSB in C#., Free Online C# Merge JSON to xlsb., C# Combine JSON to XLSB Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JSON to XLSB saveformat. C# Combine JSON to XLSB format. Merge JSON to XLSB in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to XLSB in C#., C# Merge JSON to xlsb., C# Combine JSON to XLSB., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to XLSB in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to XLSB in C#" %}}
 
 The following example demonstrates how to merge JSON to XLSB in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JSON to XLSB. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to XLSB in C#" InputFormat="json" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JSON to XLSB in C#" InputFormat="json" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to XLSB via C#" %}}
 

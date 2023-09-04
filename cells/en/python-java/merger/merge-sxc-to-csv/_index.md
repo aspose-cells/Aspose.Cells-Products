@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to CSV - Combine SXC to CSV in Python
 url: /python-java/merger/merge-sxc-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to CSV saveformat. Python Combine SXC to CSV format. Merge SXC to CSV in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to CSV in Python., Free Online Python Merge SXC to csv., Python Combine SXC to CSV Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SXC to CSV saveformat. Python Combine SXC to CSV format. Merge SXC to CSV in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to CSV in Python., Python Merge SXC to csv., Python Combine SXC to CSV., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SXC to CSV? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to CSV in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to CSV in Python" %}}
 
 The following example demonstrates how to merge SXC to CSV in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SXC to CSV. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to CSV in Python" InputFormat="sxc" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SXC to CSV in Python" InputFormat="sxc" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to CSV via Python" %}}
 

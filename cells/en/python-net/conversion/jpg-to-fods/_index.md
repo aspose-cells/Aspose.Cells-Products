@@ -1,7 +1,7 @@
 ---
-title: Python JPG to FODS - Online JPG to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to FODS saveformat. Python JPG to FODS format. Save JPG to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to FODS saveformat., Free Online JPG to FODS Python., Python Convert JPG to FODS]
+title: Python JPG to FODS - JPG to FODS Converter
+description: Aspose Excel. Python Aspose.Cells. JPG to FODS in Python. Python Convert JPG to FODS saveformat. Python JPG to FODS format. Save JPG to FODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to FODS in Python., Python JPG to FODS saveformat., JPG to FODS Python., Python Convert JPG to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert JPG to FODS? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save JPG to FODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to FODS in Python" %}}
 
 The following example demonstrates how to convert JPG to FODS in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPG to FODS. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to FODS" %}}
 

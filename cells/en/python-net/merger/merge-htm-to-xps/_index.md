@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XPS - Combine HTM to XPS in Python
 url: /python-net/merger/merge-htm-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XPS saveformat. Python Combine HTM to XPS format. Merge HTM to XPS in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XPS in Python., Free Online Python Merge HTM to xps., Python Combine HTM to XPS Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to XPS saveformat. Python Combine HTM to XPS format. Merge HTM to XPS in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XPS in Python., Python Merge HTM to xps., Python Combine HTM to XPS., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to XPS? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to XPS in Python" %}}
 
 The following example demonstrates how to merge HTM to XPS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to XPS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to XPS in Python" InputFormat="htm" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTM to XPS in Python" InputFormat="htm" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to XPS via Python" %}}
 

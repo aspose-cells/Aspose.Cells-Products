@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to BMP - Combine MHTML to BMP in C++
 url: /cpp/merger/merge-mhtml-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to BMP saveformat. C++ Combine MHTML to BMP format. Merge MHTML to BMP in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to BMP in C++., Free Online C++ Merge MHTML to bmp., C++ Combine MHTML to BMP Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge MHTML to BMP saveformat. C++ Combine MHTML to BMP format. Merge MHTML to BMP in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to BMP in C++., C++ Merge MHTML to bmp., C++ Combine MHTML to BMP., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to BMP in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to BMP in C++" %}}
 
 The following example demonstrates how to merge MHTML to BMP in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to BMP. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to BMP in C++" InputFormat="mhtml" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to BMP in C++" InputFormat="mhtml" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to BMP via C++" %}}
 

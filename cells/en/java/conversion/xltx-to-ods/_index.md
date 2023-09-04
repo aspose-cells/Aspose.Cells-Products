@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to ODS - Online XLTX to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to ODS saveformat. Java XLTX to ODS format. Save XLTX to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to ODS saveformat., Free Online XLTX to ODS Java., Java Convert XLTX to ODS]
+title: Java XLTX to ODS - XLTX to ODS Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to ODS in Java. Java Convert XLTX to ODS saveformat. Java XLTX to ODS format. Save XLTX to ODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to ODS in Java., Java XLTX to ODS saveformat., XLTX to ODS Java., Java Convert XLTX to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to ODS? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to ODS in Java" %}}
 
 The following example demonstrates how to convert XLTX to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to ODS. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ODS via Java" %}}
 

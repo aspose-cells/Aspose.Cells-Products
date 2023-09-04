@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to MARKDOWN - Online XLSX to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to MARKDOWN saveformat. Java XLSX to MARKDOWN format. Save XLSX to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to MARKDOWN saveformat., Free Online XLSX to MARKDOWN Java., Java Convert XLSX to MARKDOWN]
+title: Java XLSX to MARKDOWN - XLSX to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to MARKDOWN in Java. Java Convert XLSX to MARKDOWN saveformat. Java XLSX to MARKDOWN format. Save XLSX to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to MARKDOWN in Java., Java XLSX to MARKDOWN saveformat., XLSX to MARKDOWN Java., Java Convert XLSX to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to MARKDOWN? With Aspose.Cells for Java library, you can e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert XLSX to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to MARKDOWN. Upload your XLSX file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to MARKDOWN via Java" %}}
 

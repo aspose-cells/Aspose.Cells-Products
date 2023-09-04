@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TIFF - Combine IMAGE to TIFF in C#
 url: /net/merger/merge-image-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to TIFF saveformat. C# Combine IMAGE to TIFF format. Merge IMAGE to TIFF in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to TIFF in C#., Free Online C# Merge IMAGE to tiff., C# Combine IMAGE to TIFF Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge IMAGE to TIFF saveformat. C# Combine IMAGE to TIFF format. Merge IMAGE to TIFF in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to TIFF in C#., C# Merge IMAGE to tiff., C# Combine IMAGE to TIFF., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to TIFF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to TIFF in C#" %}}
 
 The following example demonstrates how to merge IMAGE to TIFF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to TIFF. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to TIFF in C#" InputFormat="png" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to TIFF in C#" InputFormat="png" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to TIFF via C#" %}}
 

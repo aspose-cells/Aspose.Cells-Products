@@ -1,7 +1,7 @@
 ---
-title: Python HTM to ETT - Online HTM to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to ETT saveformat. Python HTM to ETT format. Save HTM to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to ETT saveformat., Free Online HTM to ETT Python., Python Convert HTM to ETT]
+title: Python HTM to ETT - HTM to ETT Converter
+description: Aspose Excel. Python Aspose.Cells. HTM to ETT in Python. Python Convert HTM to ETT saveformat. Python HTM to ETT format. Save HTM to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTM to ETT in Python., Python HTM to ETT saveformat., HTM to ETT Python., Python Convert HTM to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTM to ETT? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to ETT in Python" %}}
 
 The following example demonstrates how to convert HTM to ETT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to ETT. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to ETT via Python" %}}
 

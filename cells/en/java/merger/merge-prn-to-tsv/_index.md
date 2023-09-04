@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TSV - Combine PRN to TSV in Java
 url: /java/merger/merge-prn-to-tsv/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to TSV saveformat. Java Combine PRN to TSV format. Merge PRN to TSV in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to TSV in Java., Free Online Java Merge PRN to tsv., Java Combine PRN to TSV Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PRN to TSV saveformat. Java Combine PRN to TSV format. Merge PRN to TSV in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to TSV in Java., Java Merge PRN to tsv., Java Combine PRN to TSV., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PRN to TSV? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to TSV in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to TSV in Java" %}}
 
 The following example demonstrates how to merge PRN to TSV in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PRN to TSV. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to TSV in Java" InputFormat="prn" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PRN to TSV in Java" InputFormat="prn" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to TSV via Java" %}}
 

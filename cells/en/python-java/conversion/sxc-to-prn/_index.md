@@ -1,7 +1,7 @@
 ---
-title: Python SXC to PRN - Online SXC to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to PRN saveformat. Python SXC to PRN format. Save SXC to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to PRN saveformat., Free Online SXC to PRN Python., Python Convert SXC to PRN]
+title: Python SXC to PRN - SXC to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to PRN in Python. Python Convert SXC to PRN saveformat. Python SXC to PRN format. Save SXC to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to PRN in Python., Python SXC to PRN saveformat., SXC to PRN Python., Python Convert SXC to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to PRN? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to PRN in Python" %}}
 
 The following example demonstrates how to convert SXC to PRN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to PRN. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to PRN via Python" %}}
 

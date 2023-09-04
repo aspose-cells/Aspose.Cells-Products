@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to GIF - Online XLTX to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to GIF saveformat. Python XLTX to GIF format. Save XLTX to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to GIF saveformat., Free Online XLTX to GIF Python., Python Convert XLTX to GIF]
+title: Python XLTX to GIF - XLTX to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to GIF in Python. Python Convert XLTX to GIF saveformat. Python XLTX to GIF format. Save XLTX to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to GIF in Python., Python XLTX to GIF saveformat., XLTX to GIF Python., Python Convert XLTX to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTX to GIF? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to GIF in Python" %}}
 
 The following example demonstrates how to convert XLTX to GIF in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTX to GIF. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to GIF" %}}
 

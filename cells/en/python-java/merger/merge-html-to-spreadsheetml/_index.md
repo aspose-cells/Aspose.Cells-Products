@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SPREADSHEETML - Combine HTML to SPREADSHEETML in Python
 url: /python-java/merger/merge-html-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to SPREADSHEETML saveformat. Python Combine HTML to SPREADSHEETML format. Merge HTML to SPREADSHEETML in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to SPREADSHEETML in Python., Free Online Python Merge HTML to spreadsheetml., Python Combine HTML to SPREADSHEETML Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTML to SPREADSHEETML saveformat. Python Combine HTML to SPREADSHEETML format. Merge HTML to SPREADSHEETML in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to SPREADSHEETML in Python., Python Merge HTML to spreadsheetml., Python Combine HTML to SPREADSHEETML., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTML to SPREADSHEETML? With Aspose.Cells for Python via Java libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge HTML to SPREADSHEETML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTML to SPREADSHEETML. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to SPREADSHEETML in Python" InputFormat="html" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge HTML to SPREADSHEETML in Python" InputFormat="html" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to SPREADSHEETML via Python" %}}
 

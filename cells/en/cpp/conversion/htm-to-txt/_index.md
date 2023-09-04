@@ -1,7 +1,7 @@
 ---
-title: C++ HTM to TXT - Online HTM to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTM to TXT saveformat. C++ HTM to TXT format. Save HTM to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to TXT saveformat., Free Online HTM to TXT C++., C++ Convert HTM to TXT]
+title: C++ HTM to TXT - HTM to TXT Converter
+description: Aspose Excel. C++ Aspose.Cells. HTM to TXT in C++. C++ Convert HTM to TXT saveformat. C++ HTM to TXT format. Save HTM to TXT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTM to TXT in C++., C++ HTM to TXT saveformat., HTM to TXT C++., C++ Convert HTM to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to TXT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to TXT in C++" %}}
 
 The following example demonstrates how to convert HTM to TXT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTM to TXT. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="txt" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTM to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="txt" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to TXT via C++" %}}
 

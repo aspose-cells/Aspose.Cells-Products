@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TXT - Combine JPG to TXT in Python
 url: /python-net/merger/merge-jpg-to-txt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to TXT saveformat. Python Combine JPG to TXT format. Merge JPG to TXT in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to TXT in Python., Free Online Python Merge JPG to txt., Python Combine JPG to TXT Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to TXT saveformat. Python Combine JPG to TXT format. Merge JPG to TXT in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to TXT in Python., Python Merge JPG to txt., Python Combine JPG to TXT., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to TXT? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to TXT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to TXT in Python" %}}
 
 The following example demonstrates how to merge JPG to TXT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to TXT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to TXT in Python" InputFormat="jpg" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPG to TXT in Python" InputFormat="jpg" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to TXT via Python" %}}
 

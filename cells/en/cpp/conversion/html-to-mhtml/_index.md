@@ -1,7 +1,7 @@
 ---
-title: C++ HTML to MHTML - Online HTML to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to MHTML saveformat. C++ HTML to MHTML format. Save HTML to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to MHTML saveformat., Free Online HTML to MHTML C++., C++ Convert HTML to MHTML]
+title: C++ HTML to MHTML - HTML to MHTML Converter
+description: Aspose Excel. C++ Aspose.Cells. HTML to MHTML in C++. C++ Convert HTML to MHTML saveformat. C++ HTML to MHTML format. Save HTML to MHTML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTML to MHTML in C++., C++ HTML to MHTML saveformat., HTML to MHTML C++., C++ Convert HTML to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to MHTML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to MHTML in C++" %}}
 
 The following example demonstrates how to convert HTML to MHTML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTML to MHTML. Upload your HTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTML to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHTML via C++" %}}
 

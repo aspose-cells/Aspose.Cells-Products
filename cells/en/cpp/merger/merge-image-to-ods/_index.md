@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ODS - Combine IMAGE to ODS in C++
 url: /cpp/merger/merge-image-to-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to ODS saveformat. C++ Combine IMAGE to ODS format. Merge IMAGE to ODS in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to ODS in C++., Free Online C++ Merge IMAGE to ods., C++ Combine IMAGE to ODS Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge IMAGE to ODS saveformat. C++ Combine IMAGE to ODS format. Merge IMAGE to ODS in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to ODS in C++., C++ Merge IMAGE to ods., C++ Combine IMAGE to ODS., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to ODS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to ODS in C++" %}}
 
 The following example demonstrates how to merge IMAGE to ODS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to ODS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to ODS in C++" InputFormat="png" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to ODS in C++" InputFormat="png" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to ODS via C++" %}}
 

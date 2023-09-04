@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to JPG - Combine HTM to JPG in Python
 url: /python-java/merger/merge-htm-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to JPG saveformat. Python Combine HTM to JPG format. Merge HTM to JPG in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to JPG in Python., Free Online Python Merge HTM to jpg., Python Combine HTM to JPG Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to JPG saveformat. Python Combine HTM to JPG format. Merge HTM to JPG in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to JPG in Python., Python Merge HTM to jpg., Python Combine HTM to JPG., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to JPG? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to JPG in Python" %}}
 
 The following example demonstrates how to merge HTM to JPG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to JPG in Python" InputFormat="htm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge HTM to JPG in Python" InputFormat="htm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to JPG via Python" %}}
 

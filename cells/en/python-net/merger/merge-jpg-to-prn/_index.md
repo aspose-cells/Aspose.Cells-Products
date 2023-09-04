@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PRN - Combine JPG to PRN in Python
 url: /python-net/merger/merge-jpg-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to PRN saveformat. Python Combine JPG to PRN format. Merge JPG to PRN in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PRN in Python., Free Online Python Merge JPG to prn., Python Combine JPG to PRN Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to PRN saveformat. Python Combine JPG to PRN format. Merge JPG to PRN in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PRN in Python., Python Merge JPG to prn., Python Combine JPG to PRN., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to PRN? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to PRN in Python" %}}
 
 The following example demonstrates how to merge JPG to PRN in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to PRN. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to PRN in Python" InputFormat="jpg" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPG to PRN in Python" InputFormat="jpg" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to PRN via Python" %}}
 

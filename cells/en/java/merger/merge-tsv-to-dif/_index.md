@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to DIF - Combine TSV to DIF in Java
 url: /java/merger/merge-tsv-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to DIF saveformat. Java Combine TSV to DIF format. Merge TSV to DIF in Java. TSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to DIF in Java., Free Online Java Merge TSV to dif., Java Combine TSV to DIF Online for Free., TSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TSV to DIF saveformat. Java Combine TSV to DIF format. Merge TSV to DIF in Java. TSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to DIF in Java., Java Merge TSV to dif., Java Combine TSV to DIF., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TSV to DIF? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to DIF in Java" %}}
 
 The following example demonstrates how to merge TSV to DIF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TSV to DIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to DIF in Java" InputFormat="tsv" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TSV to DIF in Java" InputFormat="tsv" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to DIF via Java" %}}
 

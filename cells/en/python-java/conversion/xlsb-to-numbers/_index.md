@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to NUMBERS - Online XLSB to NUMBERS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to NUMBERS saveformat. Python XLSB to NUMBERS format. Save XLSB to NUMBERS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to NUMBERS saveformat., Free Online XLSB to NUMBERS Python., Python Convert XLSB to NUMBERS]
+title: Python XLSB to NUMBERS - XLSB to NUMBERS Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to NUMBERS in Python. Python Convert XLSB to NUMBERS saveformat. Python XLSB to NUMBERS format. Save XLSB to NUMBERS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to NUMBERS in Python., Python XLSB to NUMBERS saveformat., XLSB to NUMBERS Python., Python Convert XLSB to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSB to NUMBERS? With Aspose.Cells for Python library, you can 
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to NUMBERS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to NUMBERS in Python" %}}
 
 The following example demonstrates how to convert XLSB to NUMBERS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to NUMBERS. Upload your XLSB file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="numbers" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="numbers" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to NUMBERS via Python" %}}
 

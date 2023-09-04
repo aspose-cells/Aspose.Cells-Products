@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to HTM - Combine JPEG to HTM in C#
 url: /net/merger/merge-jpeg-to-htm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to HTM saveformat. C# Combine JPEG to HTM format. Merge JPEG to HTM in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to HTM in C#., Free Online C# Merge JPEG to htm., C# Combine JPEG to HTM Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JPEG to HTM saveformat. C# Combine JPEG to HTM format. Merge JPEG to HTM in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to HTM in C#., C# Merge JPEG to htm., C# Combine JPEG to HTM., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to HTM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to HTM in C#" %}}
 
 The following example demonstrates how to merge JPEG to HTM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPEG to HTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to HTM in C#" InputFormat="jpg" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to HTM in C#" InputFormat="jpg" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to HTM via C#" %}}
 

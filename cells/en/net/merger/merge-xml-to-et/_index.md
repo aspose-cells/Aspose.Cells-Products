@@ -1,8 +1,8 @@
 ---
 title: Merge XML to ET - Combine XML to ET in C#
 url: /net/merger/merge-xml-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to ET saveformat. C# Combine XML to ET format. Merge XML to ET in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to ET in C#., Free Online C# Merge XML to et., C# Combine XML to ET Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XML to ET saveformat. C# Combine XML to ET format. Merge XML to ET in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to ET in C#., C# Merge XML to et., C# Combine XML to ET., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to ET in C#" %}}
 
 The following example demonstrates how to merge XML to ET in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XML to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to ET in C#" InputFormat="xml" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XML to ET in C#" InputFormat="xml" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to ET via C#" %}}
 

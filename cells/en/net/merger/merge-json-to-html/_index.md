@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to HTML - Combine JSON to HTML in C#
 url: /net/merger/merge-json-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to HTML saveformat. C# Combine JSON to HTML format. Merge JSON to HTML in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to HTML in C#., Free Online C# Merge JSON to html., C# Combine JSON to HTML Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JSON to HTML saveformat. C# Combine JSON to HTML format. Merge JSON to HTML in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to HTML in C#., C# Merge JSON to html., C# Combine JSON to HTML., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to HTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to HTML in C#" %}}
 
 The following example demonstrates how to merge JSON to HTML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JSON to HTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to HTML in C#" InputFormat="json" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JSON to HTML in C#" InputFormat="json" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to HTML via C#" %}}
 

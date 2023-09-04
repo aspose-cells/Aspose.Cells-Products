@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to EXCEL - Combine SXC to EXCEL in Python
 url: /python-net/merger/merge-sxc-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to EXCEL saveformat. Python Combine SXC to EXCEL format. Merge SXC to EXCEL in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to EXCEL in Python., Free Online Python Merge SXC to excel., Python Combine SXC to EXCEL Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SXC to EXCEL saveformat. Python Combine SXC to EXCEL format. Merge SXC to EXCEL in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to EXCEL in Python., Python Merge SXC to excel., Python Combine SXC to EXCEL., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SXC to EXCEL? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to EXCEL in Python" %}}
 
 The following example demonstrates how to merge SXC to EXCEL in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SXC to EXCEL. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to EXCEL in Python" InputFormat="sxc" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SXC to EXCEL in Python" InputFormat="sxc" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to EXCEL via Python" %}}
 

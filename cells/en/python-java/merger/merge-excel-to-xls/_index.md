@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLS - Combine EXCEL to XLS in Python
 url: /python-java/merger/merge-excel-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to XLS saveformat. Python Combine EXCEL to XLS format. Merge EXCEL to XLS in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLS in Python., Free Online Python Merge EXCEL to xls., Python Combine EXCEL to XLS Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge EXCEL to XLS saveformat. Python Combine EXCEL to XLS format. Merge EXCEL to XLS in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLS in Python., Python Merge EXCEL to xls., Python Combine EXCEL to XLS., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge EXCEL to XLS? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to XLS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to XLS in Python" %}}
 
 The following example demonstrates how to merge EXCEL to XLS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge EXCEL to XLS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to XLS in Python" InputFormat="xlsx" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to XLS in Python" InputFormat="xlsx" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to XLS via Python" %}}
 

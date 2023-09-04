@@ -1,7 +1,7 @@
 ---
-title: C# XLSX to NUMBERS - Online XLSX to NUMBERS Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to NUMBERS saveformat. C# XLSX to NUMBERS format. Save XLSX to NUMBERS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS C#., C# Convert XLSX to NUMBERS]
+title: C# XLSX to NUMBERS - XLSX to NUMBERS Converter
+description: Aspose Excel. C# Aspose.Cells. XLSX to NUMBERS in C#. C# Convert XLSX to NUMBERS saveformat. C# XLSX to NUMBERS format. Save XLSX to NUMBERS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLSX to NUMBERS in C#., C# XLSX to NUMBERS saveformat., XLSX to NUMBERS C#., C# Convert XLSX to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to NUMBERS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to NUMBERS in C#" %}}
 
 The following example demonstrates how to convert XLSX to NUMBERS in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSX to NUMBERS. Upload your XLSX file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="numbers" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="numbers" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to NUMBERS via C#" %}}
 

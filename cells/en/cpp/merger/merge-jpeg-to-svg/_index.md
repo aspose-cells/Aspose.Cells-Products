@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SVG - Combine JPEG to SVG in C++
 url: /cpp/merger/merge-jpeg-to-svg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to SVG saveformat. C++ Combine JPEG to SVG format. Merge JPEG to SVG in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to SVG in C++., Free Online C++ Merge JPEG to svg., C++ Combine JPEG to SVG Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JPEG to SVG saveformat. C++ Combine JPEG to SVG format. Merge JPEG to SVG in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to SVG in C++., C++ Merge JPEG to svg., C++ Combine JPEG to SVG., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to SVG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to SVG in C++" %}}
 
 The following example demonstrates how to merge JPEG to SVG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPEG to SVG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to SVG in C++" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to SVG in C++" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to SVG via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ODS - Combine EXCEL to ODS in C#
 url: /net/merger/merge-excel-to-ods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to ODS saveformat. C# Combine EXCEL to ODS format. Merge EXCEL to ODS in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to ODS in C#., Free Online C# Merge EXCEL to ods., C# Combine EXCEL to ODS Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge EXCEL to ODS saveformat. C# Combine EXCEL to ODS format. Merge EXCEL to ODS in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to ODS in C#., C# Merge EXCEL to ods., C# Combine EXCEL to ODS., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to ODS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to ODS in C#" %}}
 
 The following example demonstrates how to merge EXCEL to ODS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge EXCEL to ODS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to ODS in C#" InputFormat="xlsx" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to ODS in C#" InputFormat="xlsx" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to ODS via C#" %}}
 

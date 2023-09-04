@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to OTS - Combine ODS to OTS in C++
 url: /cpp/merger/merge-ods-to-ots/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to OTS saveformat. C++ Combine ODS to OTS format. Merge ODS to OTS in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to OTS in C++., Free Online C++ Merge ODS to ots., C++ Combine ODS to OTS Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge ODS to OTS saveformat. C++ Combine ODS to OTS format. Merge ODS to OTS in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to OTS in C++., C++ Merge ODS to ots., C++ Combine ODS to OTS., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to OTS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to OTS in C++" %}}
 
 The following example demonstrates how to merge ODS to OTS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to OTS in C++" InputFormat="ods" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge ODS to OTS in C++" InputFormat="ods" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to OTS via C++" %}}
 

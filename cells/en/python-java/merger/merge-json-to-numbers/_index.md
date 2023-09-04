@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to NUMBERS - Combine JSON to NUMBERS in Python
 url: /python-java/merger/merge-json-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to NUMBERS saveformat. Python Combine JSON to NUMBERS format. Merge JSON to NUMBERS in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to NUMBERS in Python., Free Online Python Merge JSON to numbers., Python Combine JSON to NUMBERS Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JSON to NUMBERS saveformat. Python Combine JSON to NUMBERS format. Merge JSON to NUMBERS in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to NUMBERS in Python., Python Merge JSON to numbers., Python Combine JSON to NUMBERS., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JSON to NUMBERS? With Aspose.Cells for Python via Java library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to NUMBERS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to NUMBERS in Python" %}}
 
 The following example demonstrates how to merge JSON to NUMBERS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JSON to NUMBERS. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to NUMBERS in Python" InputFormat="json" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JSON to NUMBERS in Python" InputFormat="json" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to NUMBERS via Python" %}}
 

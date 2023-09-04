@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SPREADSHEETML - Combine MHTML to SPREADSHEETML in Python
 url: /python-net/merger/merge-mhtml-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to SPREADSHEETML saveformat. Python Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SPREADSHEETML in Python., Free Online Python Merge MHTML to spreadsheetml., Python Combine MHTML to SPREADSHEETML Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHTML to SPREADSHEETML saveformat. Python Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SPREADSHEETML in Python., Python Merge MHTML to spreadsheetml., Python Combine MHTML to SPREADSHEETML., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHTML to SPREADSHEETML? With Aspose.Cells for Python via .NET lib
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge MHTML to SPREADSHEETML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHTML to SPREADSHEETML. Upload your files, call W
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to SPREADSHEETML in Python" InputFormat="mhtml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to SPREADSHEETML in Python" InputFormat="mhtml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to SPREADSHEETML via Python" %}}
 

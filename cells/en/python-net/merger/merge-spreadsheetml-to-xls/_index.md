@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLS - Combine SPREADSHEETML to XLS in Python
 url: /python-net/merger/merge-spreadsheetml-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to XLS saveformat. Python Combine SPREADSHEETML to XLS format. Merge SPREADSHEETML to XLS in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to XLS in Python., Free Online Python Merge SPREADSHEETML to xls., Python Combine SPREADSHEETML to XLS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to XLS saveformat. Python Combine SPREADSHEETML to XLS format. Merge SPREADSHEETML to XLS in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to XLS in Python., Python Merge SPREADSHEETML to xls., Python Combine SPREADSHEETML to XLS., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to XLS? With Aspose.Cells for Python via .NET libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLS in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to XLS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to XLS. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to XLS in Python" InputFormat="xml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to XLS in Python" InputFormat="xml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to XLS via Python" %}}
 

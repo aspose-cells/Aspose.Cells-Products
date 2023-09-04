@@ -1,7 +1,7 @@
 ---
-title: C++ XLT to NUMBERS - Online XLT to NUMBERS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLT to NUMBERS saveformat. C++ XLT to NUMBERS format. Save XLT to NUMBERS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to NUMBERS saveformat., Free Online XLT to NUMBERS C++., C++ Convert XLT to NUMBERS]
+title: C++ XLT to NUMBERS - XLT to NUMBERS Converter
+description: Aspose Excel. C++ Aspose.Cells. XLT to NUMBERS in C++. C++ Convert XLT to NUMBERS saveformat. C++ XLT to NUMBERS format. Save XLT to NUMBERS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLT to NUMBERS in C++., C++ XLT to NUMBERS saveformat., XLT to NUMBERS C++., C++ Convert XLT to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to NUMBERS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to NUMBERS in C++" %}}
 
 The following example demonstrates how to convert XLT to NUMBERS in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLT to NUMBERS. Upload your XLT file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="numbers" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLT to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="numbers" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to NUMBERS via C++" %}}
 

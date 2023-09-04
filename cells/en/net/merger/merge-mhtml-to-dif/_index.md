@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DIF - Combine MHTML to DIF in C#
 url: /net/merger/merge-mhtml-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to DIF saveformat. C# Combine MHTML to DIF format. Merge MHTML to DIF in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DIF in C#., Free Online C# Merge MHTML to dif., C# Combine MHTML to DIF Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHTML to DIF saveformat. C# Combine MHTML to DIF format. Merge MHTML to DIF in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DIF in C#., C# Merge MHTML to dif., C# Combine MHTML to DIF., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to DIF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to DIF in C#" %}}
 
 The following example demonstrates how to merge MHTML to DIF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to DIF. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to DIF in C#" InputFormat="mhtml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to DIF in C#" InputFormat="mhtml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to DIF via C#" %}}
 

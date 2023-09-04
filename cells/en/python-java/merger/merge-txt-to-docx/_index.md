@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DOCX - Combine TXT to DOCX in Python
 url: /python-java/merger/merge-txt-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to DOCX saveformat. Python Combine TXT to DOCX format. Merge TXT to DOCX in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to DOCX in Python., Free Online Python Merge TXT to docx., Python Combine TXT to DOCX Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to DOCX saveformat. Python Combine TXT to DOCX format. Merge TXT to DOCX in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to DOCX in Python., Python Merge TXT to docx., Python Combine TXT to DOCX., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to DOCX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to DOCX in Python" %}}
 
 The following example demonstrates how to merge TXT to DOCX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to DOCX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to DOCX in Python" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TXT to DOCX in Python" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to DOCX via Python" %}}
 

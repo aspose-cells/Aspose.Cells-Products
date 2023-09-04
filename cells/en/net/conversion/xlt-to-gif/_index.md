@@ -1,7 +1,7 @@
 ---
-title: C# XLT to GIF - Online XLT to GIF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLT to GIF saveformat. C# XLT to GIF format. Save XLT to GIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLT to GIF saveformat., Free Online XLT to GIF C#., C# Convert XLT to GIF]
+title: C# XLT to GIF - XLT to GIF Converter
+description: Aspose Excel. C# Aspose.Cells. XLT to GIF in C#. C# Convert XLT to GIF saveformat. C# XLT to GIF format. Save XLT to GIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLT to GIF in C#., C# XLT to GIF saveformat., XLT to GIF C#., C# Convert XLT to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to GIF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to GIF in C#" %}}
 
 The following example demonstrates how to convert XLT to GIF in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to GIF. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="gif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="gif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to GIF via C#" %}}
 

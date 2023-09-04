@@ -1,7 +1,7 @@
 ---
-title: C++ OTS to XPS - Online OTS to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert OTS to XPS saveformat. C++ OTS to XPS format. Save OTS to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to XPS saveformat., Free Online OTS to XPS C++., C++ Convert OTS to XPS]
+title: C++ OTS to XPS - OTS to XPS Converter
+description: Aspose Excel. C++ Aspose.Cells. OTS to XPS in C++. C++ Convert OTS to XPS saveformat. C++ OTS to XPS format. Save OTS to XPS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., OTS to XPS in C++., C++ OTS to XPS saveformat., OTS to XPS C++., C++ Convert OTS to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to XPS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to XPS in C++" %}}
 
 The following example demonstrates how to convert OTS to XPS in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert OTS to XPS. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert OTS to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to XPS via C++" %}}
 

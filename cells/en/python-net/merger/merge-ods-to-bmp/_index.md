@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to BMP - Combine ODS to BMP in Python
 url: /python-net/merger/merge-ods-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to BMP saveformat. Python Combine ODS to BMP format. Merge ODS to BMP in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to BMP in Python., Free Online Python Merge ODS to bmp., Python Combine ODS to BMP Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge ODS to BMP saveformat. Python Combine ODS to BMP format. Merge ODS to BMP in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to BMP in Python., Python Merge ODS to bmp., Python Combine ODS to BMP., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge ODS to BMP? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to BMP in Python" %}}
 
 The following example demonstrates how to merge ODS to BMP in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge ODS to BMP. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to BMP in Python" InputFormat="ods" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge ODS to BMP in Python" InputFormat="ods" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to BMP via Python" %}}
 

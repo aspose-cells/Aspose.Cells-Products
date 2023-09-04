@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XPS - Combine TABDELIMITED to XPS in Java
 url: /java/merger/merge-tabdelimited-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to XPS saveformat. Java Combine TABDELIMITED to XPS format. Merge TABDELIMITED to XPS in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to XPS in Java., Free Online Java Merge TABDELIMITED to xps., Java Combine TABDELIMITED to XPS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TABDELIMITED to XPS saveformat. Java Combine TABDELIMITED to XPS format. Merge TABDELIMITED to XPS in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to XPS in Java., Java Merge TABDELIMITED to xps., Java Combine TABDELIMITED to XPS., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TABDELIMITED to XPS? With Aspose.Cells for Java library, you can 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to XPS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to XPS in Java" %}}
 
 The following example demonstrates how to merge TABDELIMITED to XPS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TABDELIMITED to XPS. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to XPS in Java" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to XPS in Java" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to XPS via Java" %}}
 

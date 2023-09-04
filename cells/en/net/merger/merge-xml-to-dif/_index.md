@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DIF - Combine XML to DIF in C#
 url: /net/merger/merge-xml-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to DIF saveformat. C# Combine XML to DIF format. Merge XML to DIF in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to DIF in C#., Free Online C# Merge XML to dif., C# Combine XML to DIF Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XML to DIF saveformat. C# Combine XML to DIF format. Merge XML to DIF in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to DIF in C#., C# Merge XML to dif., C# Combine XML to DIF., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to DIF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to DIF in C#" %}}
 
 The following example demonstrates how to merge XML to DIF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XML to DIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to DIF in C#" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XML to DIF in C#" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to DIF via C#" %}}
 

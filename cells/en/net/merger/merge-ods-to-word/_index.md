@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to WORD - Combine ODS to WORD in C#
 url: /net/merger/merge-ods-to-word/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to WORD saveformat. C# Combine ODS to WORD format. Merge ODS to WORD in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to WORD in C#., Free Online C# Merge ODS to word., C# Combine ODS to WORD Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge ODS to WORD saveformat. C# Combine ODS to WORD format. Merge ODS to WORD in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to WORD in C#., C# Merge ODS to word., C# Combine ODS to WORD., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to WORD in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to WORD in C#" %}}
 
 The following example demonstrates how to merge ODS to WORD in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to WORD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to WORD in C#" InputFormat="ods" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge ODS to WORD in C#" InputFormat="ods" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to WORD via C#" %}}
 

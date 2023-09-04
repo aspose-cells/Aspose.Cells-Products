@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to EMF - Combine OTS to EMF in C++
 url: /cpp/merger/merge-ots-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to EMF saveformat. C++ Combine OTS to EMF format. Merge OTS to EMF in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to EMF in C++., Free Online C++ Merge OTS to emf., C++ Combine OTS to EMF Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge OTS to EMF saveformat. C++ Combine OTS to EMF format. Merge OTS to EMF in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to EMF in C++., C++ Merge OTS to emf., C++ Combine OTS to EMF., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in C++" %}}
 
 The following example demonstrates how to merge OTS to EMF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to EMF in C++" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge OTS to EMF in C++" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to EMF via C++" %}}
 

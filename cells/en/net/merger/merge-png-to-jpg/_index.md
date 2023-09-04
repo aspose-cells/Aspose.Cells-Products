@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JPG - Combine PNG to JPG in C#
 url: /net/merger/merge-png-to-jpg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to JPG saveformat. C# Combine PNG to JPG format. Merge PNG to JPG in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to JPG in C#., Free Online C# Merge PNG to jpg., C# Combine PNG to JPG Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PNG to JPG saveformat. C# Combine PNG to JPG format. Merge PNG to JPG in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to JPG in C#., C# Merge PNG to jpg., C# Combine PNG to JPG., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to JPG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to JPG in C#" %}}
 
 The following example demonstrates how to merge PNG to JPG in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PNG to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to JPG in C#" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PNG to JPG in C#" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to JPG via C#" %}}
 

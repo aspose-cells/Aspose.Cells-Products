@@ -1,7 +1,7 @@
 ---
-title: Python CSV to SVG - Online CSV to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert CSV to SVG saveformat. Python CSV to SVG format. Save CSV to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to SVG saveformat., Free Online CSV to SVG Python., Python Convert CSV to SVG]
+title: Python CSV to SVG - CSV to SVG Converter
+description: Aspose Excel. Python Aspose.Cells. CSV to SVG in Python. Python Convert CSV to SVG saveformat. Python CSV to SVG format. Save CSV to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., CSV to SVG in Python., Python CSV to SVG saveformat., CSV to SVG Python., Python Convert CSV to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert CSV to SVG? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save CSV to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save CSV to SVG in Python" %}}
 
 The following example demonstrates how to convert CSV to SVG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert CSV to SVG. Upload your CSV file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert CSV to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert CSV to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to SVG" %}}
 

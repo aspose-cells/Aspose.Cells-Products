@@ -1,7 +1,7 @@
 ---
-title: Python HTML to TIFF - Online HTML to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to TIFF saveformat. Python HTML to TIFF format. Save HTML to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to TIFF saveformat., Free Online HTML to TIFF Python., Python Convert HTML to TIFF]
+title: Python HTML to TIFF - HTML to TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. HTML to TIFF in Python. Python Convert HTML to TIFF saveformat. Python HTML to TIFF format. Save HTML to TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTML to TIFF in Python., Python HTML to TIFF saveformat., HTML to TIFF Python., Python Convert HTML to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTML to TIFF? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to TIFF in Python" %}}
 
 The following example demonstrates how to convert HTML to TIFF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to TIFF. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to TIFF via Python" %}}
 

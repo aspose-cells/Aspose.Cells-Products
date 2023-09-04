@@ -1,7 +1,7 @@
 ---
-title: Python TXT to SXC - Online TXT to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to SXC saveformat. Python TXT to SXC format. Save TXT to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to SXC saveformat., Free Online TXT to SXC Python., Python Convert TXT to SXC]
+title: Python TXT to SXC - TXT to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. TXT to SXC in Python. Python Convert TXT to SXC saveformat. Python TXT to SXC format. Save TXT to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., TXT to SXC in Python., Python TXT to SXC saveformat., TXT to SXC Python., Python Convert TXT to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert TXT to SXC? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to SXC in Python" %}}
 
 The following example demonstrates how to convert TXT to SXC in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to SXC. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to SXC via Python" %}}
 

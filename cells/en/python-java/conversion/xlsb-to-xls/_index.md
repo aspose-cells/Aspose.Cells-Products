@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to XLS - Online XLSB to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to XLS saveformat. Python XLSB to XLS format. Save XLSB to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLS saveformat., Free Online XLSB to XLS Python., Python Convert XLSB to XLS]
+title: Python XLSB to XLS - XLSB to XLS Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to XLS in Python. Python Convert XLSB to XLS saveformat. Python XLSB to XLS format. Save XLSB to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to XLS in Python., Python XLSB to XLS saveformat., XLSB to XLS Python., Python Convert XLSB to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSB to XLS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XLS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLS in Python" %}}
 
 The following example demonstrates how to convert XLSB to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to XLS. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLS via Python" %}}
 

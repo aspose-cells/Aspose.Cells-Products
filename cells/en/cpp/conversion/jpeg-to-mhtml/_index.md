@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to MHTML - Online JPEG to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to MHTML saveformat. C++ JPEG to MHTML format. Save JPEG to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to MHTML saveformat., Free Online JPEG to MHTML C++., C++ Convert JPEG to MHTML]
+title: C++ JPEG to MHTML - JPEG to MHTML Converter
+description: Aspose Excel. C++ Aspose.Cells. JPEG to MHTML in C++. C++ Convert JPEG to MHTML saveformat. C++ JPEG to MHTML format. Save JPEG to MHTML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to MHTML in C++., C++ JPEG to MHTML saveformat., JPEG to MHTML C++., C++ Convert JPEG to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to MHTML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to MHTML in C++" %}}
 
 The following example demonstrates how to convert JPEG to MHTML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPEG to MHTML. Upload your JPEG file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to MHTML via C++" %}}
 

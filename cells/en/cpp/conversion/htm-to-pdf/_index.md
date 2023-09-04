@@ -1,7 +1,7 @@
 ---
-title: C++ HTM to PDF - Online HTM to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTM to PDF saveformat. C++ HTM to PDF format. Save HTM to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to PDF saveformat., Free Online HTM to PDF C++., C++ Convert HTM to PDF]
+title: C++ HTM to PDF - HTM to PDF Converter
+description: Aspose Excel. C++ Aspose.Cells. HTM to PDF in C++. C++ Convert HTM to PDF saveformat. C++ HTM to PDF format. Save HTM to PDF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTM to PDF in C++., C++ HTM to PDF saveformat., HTM to PDF C++., C++ Convert HTM to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to PDF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to PDF in C++" %}}
 
 The following example demonstrates how to convert HTM to PDF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTM to PDF. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTM to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to PDF via C++" %}}
 

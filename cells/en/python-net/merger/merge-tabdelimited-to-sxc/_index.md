@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SXC - Combine TABDELIMITED to SXC in Python
 url: /python-net/merger/merge-tabdelimited-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to SXC saveformat. Python Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SXC in Python., Free Online Python Merge TABDELIMITED to sxc., Python Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TABDELIMITED to SXC saveformat. Python Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SXC in Python., Python Merge TABDELIMITED to sxc., Python Combine TABDELIMITED to SXC., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TABDELIMITED to SXC? With Aspose.Cells for Python via .NET librar
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to SXC in Python" %}}
 
 The following example demonstrates how to merge TABDELIMITED to SXC in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TABDELIMITED to SXC. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to SXC in Python" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to SXC in Python" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to SXC via Python" %}}
 

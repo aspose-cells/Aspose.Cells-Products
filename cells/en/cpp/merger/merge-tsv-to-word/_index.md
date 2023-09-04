@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to WORD - Combine TSV to WORD in C++
 url: /cpp/merger/merge-tsv-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TSV to WORD saveformat. C++ Combine TSV to WORD format. Merge TSV to WORD in C++. TSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to WORD in C++., Free Online C++ Merge TSV to word., C++ Combine TSV to WORD Online for Free., TSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge TSV to WORD saveformat. C++ Combine TSV to WORD format. Merge TSV to WORD in C++. TSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to WORD in C++., C++ Merge TSV to word., C++ Combine TSV to WORD., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to WORD in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to WORD in C++" %}}
 
 The following example demonstrates how to merge TSV to WORD in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to WORD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to WORD in C++" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TSV to WORD in C++" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to WORD via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ ODS to HTM - Online ODS to HTM Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert ODS to HTM saveformat. C++ ODS to HTM format. Save ODS to HTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ ODS to HTM saveformat., Free Online ODS to HTM C++., C++ Convert ODS to HTM]
+title: C++ ODS to HTM - ODS to HTM Converter
+description: Aspose Excel. C++ Aspose.Cells. ODS to HTM in C++. C++ Convert ODS to HTM saveformat. C++ ODS to HTM format. Save ODS to HTM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., ODS to HTM in C++., C++ ODS to HTM saveformat., ODS to HTM C++., C++ Convert ODS to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to HTM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to HTM in C++" %}}
 
 The following example demonstrates how to convert ODS to HTM in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert ODS to HTM. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert ODS to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to HTM via C++" %}}
 

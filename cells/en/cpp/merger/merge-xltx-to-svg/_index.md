@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SVG - Combine XLTX to SVG in C++
 url: /cpp/merger/merge-xltx-to-svg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to SVG saveformat. C++ Combine XLTX to SVG format. Merge XLTX to SVG in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to SVG in C++., Free Online C++ Merge XLTX to svg., C++ Combine XLTX to SVG Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLTX to SVG saveformat. C++ Combine XLTX to SVG format. Merge XLTX to SVG in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to SVG in C++., C++ Merge XLTX to svg., C++ Combine XLTX to SVG., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to SVG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to SVG in C++" %}}
 
 The following example demonstrates how to merge XLTX to SVG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTX to SVG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to SVG in C++" InputFormat="xltx" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to SVG in C++" InputFormat="xltx" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to SVG via C++" %}}
 

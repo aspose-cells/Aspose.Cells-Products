@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML to MARKDOWN - Online SPREADSHEETML to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to MARKDOWN saveformat. Java SPREADSHEETML to MARKDOWN format. Save SPREADSHEETML to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to MARKDOWN saveformat., Free Online SPREADSHEETML to MARKDOWN Java., Java Convert SPREADSHEETML to MARKDOWN]
+title: Java SPREADSHEETML to MARKDOWN - SPREADSHEETML to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to MARKDOWN in Java. Java Convert SPREADSHEETML to MARKDOWN saveformat. Java SPREADSHEETML to MARKDOWN format. Save SPREADSHEETML to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to MARKDOWN in Java., Java SPREADSHEETML to MARKDOWN saveformat., SPREADSHEETML to MARKDOWN Java., Java Convert SPREADSHEETML to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SPREADSHEETML to MARKDOWN? With Aspose.Cells for Java library, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to MARKDOWN. Upload your SPREADSH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to MARKDOWN via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DIF - Combine HTM to DIF in Python
 url: /python-java/merger/merge-htm-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to DIF saveformat. Python Combine HTM to DIF format. Merge HTM to DIF in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DIF in Python., Free Online Python Merge HTM to dif., Python Combine HTM to DIF Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to DIF saveformat. Python Combine HTM to DIF format. Merge HTM to DIF in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DIF in Python., Python Merge HTM to dif., Python Combine HTM to DIF., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to DIF? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to DIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to DIF in Python" %}}
 
 The following example demonstrates how to merge HTM to DIF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to DIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to DIF in Python" InputFormat="htm" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge HTM to DIF in Python" InputFormat="htm" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to DIF via Python" %}}
 

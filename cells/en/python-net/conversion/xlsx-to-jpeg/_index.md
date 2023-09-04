@@ -1,7 +1,7 @@
 ---
-title: Python XLSX to JPEG - Online XLSX to JPEG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to JPEG saveformat. Python XLSX to JPEG format. Save XLSX to JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to JPEG saveformat., Free Online XLSX to JPEG Python., Python Convert XLSX to JPEG]
+title: Python XLSX to JPEG - XLSX to JPEG Converter
+description: Aspose Excel. Python Aspose.Cells. XLSX to JPEG in Python. Python Convert XLSX to JPEG saveformat. Python XLSX to JPEG format. Save XLSX to JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSX to JPEG in Python., Python XLSX to JPEG saveformat., XLSX to JPEG Python., Python Convert XLSX to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSX to JPEG? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to JPEG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to JPEG in Python" %}}
 
 The following example demonstrates how to convert XLSX to JPEG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSX to JPEG. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to JPEG" %}}
 

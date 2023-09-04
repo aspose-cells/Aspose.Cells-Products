@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JPG - Combine XLSM to JPG in Java
 url: /java/merger/merge-xlsm-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to JPG saveformat. Java Combine XLSM to JPG format. Merge XLSM to JPG in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to JPG in Java., Free Online Java Merge XLSM to jpg., Java Combine XLSM to JPG Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSM to JPG saveformat. Java Combine XLSM to JPG format. Merge XLSM to JPG in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to JPG in Java., Java Merge XLSM to jpg., Java Combine XLSM to JPG., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSM to JPG? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to JPG in Java" %}}
 
 The following example demonstrates how to merge XLSM to JPG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSM to JPG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to JPG in Java" InputFormat="xlsm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to JPG in Java" InputFormat="xlsm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to JPG via Java" %}}
 

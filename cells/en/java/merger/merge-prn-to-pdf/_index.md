@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PDF - Combine PRN to PDF in Java
 url: /java/merger/merge-prn-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to PDF saveformat. Java Combine PRN to PDF format. Merge PRN to PDF in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to PDF in Java., Free Online Java Merge PRN to pdf., Java Combine PRN to PDF Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PRN to PDF saveformat. Java Combine PRN to PDF format. Merge PRN to PDF in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to PDF in Java., Java Merge PRN to pdf., Java Combine PRN to PDF., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PRN to PDF? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to PDF in Java" %}}
 
 The following example demonstrates how to merge PRN to PDF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PRN to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to PDF in Java" InputFormat="prn" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PRN to PDF in Java" InputFormat="prn" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to PDF via Java" %}}
 

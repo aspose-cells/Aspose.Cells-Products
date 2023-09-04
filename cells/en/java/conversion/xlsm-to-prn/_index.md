@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to PRN - Online XLSM to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to PRN saveformat. Java XLSM to PRN format. Save XLSM to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to PRN saveformat., Free Online XLSM to PRN Java., Java Convert XLSM to PRN]
+title: Java XLSM to PRN - XLSM to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to PRN in Java. Java Convert XLSM to PRN saveformat. Java XLSM to PRN format. Save XLSM to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to PRN in Java., Java XLSM to PRN saveformat., XLSM to PRN Java., Java Convert XLSM to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to PRN? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to PRN in Java" %}}
 
 The following example demonstrates how to convert XLSM to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to PRN. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to PRN via Java" %}}
 

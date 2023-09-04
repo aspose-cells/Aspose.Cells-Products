@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLAM - Combine XML to XLAM in Python
 url: /python-java/merger/merge-xml-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to XLAM saveformat. Python Combine XML to XLAM format. Merge XML to XLAM in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLAM in Python., Free Online Python Merge XML to xlam., Python Combine XML to XLAM Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to XLAM saveformat. Python Combine XML to XLAM format. Merge XML to XLAM in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLAM in Python., Python Merge XML to xlam., Python Combine XML to XLAM., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to XLAM? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to XLAM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to XLAM in Python" %}}
 
 The following example demonstrates how to merge XML to XLAM in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to XLAM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to XLAM in Python" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XML to XLAM in Python" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to XLAM via Python" %}}
 

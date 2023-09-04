@@ -1,7 +1,7 @@
 ---
-title: Python SXC to DIF - Online SXC to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to DIF saveformat. Python SXC to DIF format. Save SXC to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to DIF saveformat., Free Online SXC to DIF Python., Python Convert SXC to DIF]
+title: Python SXC to DIF - SXC to DIF Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to DIF in Python. Python Convert SXC to DIF saveformat. Python SXC to DIF format. Save SXC to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to DIF in Python., Python SXC to DIF saveformat., SXC to DIF Python., Python Convert SXC to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to DIF? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to DIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to DIF in Python" %}}
 
 The following example demonstrates how to convert SXC to DIF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to DIF. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to DIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to DIF via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ETT - Combine EXCEL to ETT in Java
 url: /java/merger/merge-excel-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to ETT saveformat. Java Combine EXCEL to ETT format. Merge EXCEL to ETT in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to ETT in Java., Free Online Java Merge EXCEL to ett., Java Combine EXCEL to ETT Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge EXCEL to ETT saveformat. Java Combine EXCEL to ETT format. Merge EXCEL to ETT in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to ETT in Java., Java Merge EXCEL to ett., Java Combine EXCEL to ETT., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge EXCEL to ETT? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to ETT in Java" %}}
 
 The following example demonstrates how to merge EXCEL to ETT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge EXCEL to ETT. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to ETT in Java" InputFormat="xlsx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to ETT in Java" InputFormat="xlsx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to ETT via Java" %}}
 

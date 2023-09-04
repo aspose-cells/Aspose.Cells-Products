@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLAM - Combine FODS to XLAM in Python
 url: /python-net/merger/merge-fods-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XLAM saveformat. Python Combine FODS to XLAM format. Merge FODS to XLAM in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLAM in Python., Free Online Python Merge FODS to xlam., Python Combine FODS to XLAM Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to XLAM saveformat. Python Combine FODS to XLAM format. Merge FODS to XLAM in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLAM in Python., Python Merge FODS to xlam., Python Combine FODS to XLAM., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to XLAM? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to XLAM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to XLAM in Python" %}}
 
 The following example demonstrates how to merge FODS to XLAM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to XLAM. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to XLAM in Python" InputFormat="fods" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge FODS to XLAM in Python" InputFormat="fods" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to XLAM via Python" %}}
 

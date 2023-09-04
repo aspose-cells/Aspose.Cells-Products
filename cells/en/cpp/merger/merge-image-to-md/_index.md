@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MD - Combine IMAGE to MD in C++
 url: /cpp/merger/merge-image-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to MD saveformat. C++ Combine IMAGE to MD format. Merge IMAGE to MD in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to MD in C++., Free Online C++ Merge IMAGE to md., C++ Combine IMAGE to MD Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge IMAGE to MD saveformat. C++ Combine IMAGE to MD format. Merge IMAGE to MD in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to MD in C++., C++ Merge IMAGE to md., C++ Combine IMAGE to MD., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to MD in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to MD in C++" %}}
 
 The following example demonstrates how to merge IMAGE to MD in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to MD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to MD in C++" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to MD in C++" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to MD via C++" %}}
 

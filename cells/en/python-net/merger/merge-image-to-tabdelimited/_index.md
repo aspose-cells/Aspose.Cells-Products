@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TABDELIMITED - Combine IMAGE to TABDELIMITED in Python
 url: /python-net/merger/merge-image-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to TABDELIMITED saveformat. Python Combine IMAGE to TABDELIMITED format. Merge IMAGE to TABDELIMITED in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to TABDELIMITED in Python., Free Online Python Merge IMAGE to tabdelimited., Python Combine IMAGE to TABDELIMITED Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge IMAGE to TABDELIMITED saveformat. Python Combine IMAGE to TABDELIMITED format. Merge IMAGE to TABDELIMITED in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to TABDELIMITED in Python., Python Merge IMAGE to tabdelimited., Python Combine IMAGE to TABDELIMITED., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge IMAGE to TABDELIMITED? With Aspose.Cells for Python via .NET libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to merge IMAGE to TABDELIMITED in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge IMAGE to TABDELIMITED. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to TABDELIMITED in Python" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to TABDELIMITED in Python" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to TABDELIMITED via Python" %}}
 

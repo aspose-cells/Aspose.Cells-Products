@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to DOCX - Online IMAGE to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to DOCX saveformat. Java IMAGE to DOCX format. Save IMAGE to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to DOCX saveformat., Free Online IMAGE to DOCX Java., Java Convert IMAGE to DOCX]
+title: Java IMAGE to DOCX - IMAGE to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to DOCX in Java. Java Convert IMAGE to DOCX saveformat. Java IMAGE to DOCX format. Save IMAGE to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to DOCX in Java., Java IMAGE to DOCX saveformat., IMAGE to DOCX Java., Java Convert IMAGE to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to DOCX? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to DOCX in Java" %}}
 
 The following example demonstrates how to convert IMAGE to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to DOCX. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to DOCX via Java" %}}
 

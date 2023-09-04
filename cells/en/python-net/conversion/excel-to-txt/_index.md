@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL to TXT - Online EXCEL to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to TXT saveformat. Python EXCEL to TXT format. Save EXCEL to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to TXT saveformat., Free Online EXCEL to TXT Python., Python Convert EXCEL to TXT]
+title: Python EXCEL to TXT - EXCEL to TXT Converter
+description: Aspose Excel. Python Aspose.Cells. EXCEL to TXT in Python. Python Convert EXCEL to TXT saveformat. Python EXCEL to TXT format. Save EXCEL to TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to TXT in Python., Python EXCEL to TXT saveformat., EXCEL to TXT Python., Python Convert EXCEL to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert EXCEL to TXT? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to TXT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to TXT in Python" %}}
 
 The following example demonstrates how to convert EXCEL to TXT in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert EXCEL to TXT. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to TXT" %}}
 

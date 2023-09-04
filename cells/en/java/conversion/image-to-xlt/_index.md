@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to XLT - Online IMAGE to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to XLT saveformat. Java IMAGE to XLT format. Save IMAGE to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to XLT saveformat., Free Online IMAGE to XLT Java., Java Convert IMAGE to XLT]
+title: Java IMAGE to XLT - IMAGE to XLT Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to XLT in Java. Java Convert IMAGE to XLT saveformat. Java IMAGE to XLT format. Save IMAGE to XLT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to XLT in Java., Java IMAGE to XLT saveformat., IMAGE to XLT Java., Java Convert IMAGE to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to XLT? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to XLT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to XLT in Java" %}}
 
 The following example demonstrates how to convert IMAGE to XLT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to XLT. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to XLT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLT via Java" %}}
 

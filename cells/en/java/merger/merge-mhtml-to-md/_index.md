@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MD - Combine MHTML to MD in Java
 url: /java/merger/merge-mhtml-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to MD saveformat. Java Combine MHTML to MD format. Merge MHTML to MD in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MD in Java., Free Online Java Merge MHTML to md., Java Combine MHTML to MD Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to MD saveformat. Java Combine MHTML to MD format. Merge MHTML to MD in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MD in Java., Java Merge MHTML to md., Java Combine MHTML to MD., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to MD? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to MD in Java" %}}
 
 The following example demonstrates how to merge MHTML to MD in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to MD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to MD in Java" InputFormat="mhtml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to MD in Java" InputFormat="mhtml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to MD via Java" %}}
 

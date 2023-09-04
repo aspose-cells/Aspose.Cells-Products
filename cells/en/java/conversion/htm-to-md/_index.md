@@ -1,7 +1,7 @@
 ---
-title: Java HTM to MD - Online HTM to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to MD saveformat. Java HTM to MD format. Save HTM to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to MD saveformat., Free Online HTM to MD Java., Java Convert HTM to MD]
+title: Java HTM to MD - HTM to MD Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to MD in Java. Java Convert HTM to MD saveformat. Java HTM to MD format. Save HTM to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to MD in Java., Java HTM to MD saveformat., HTM to MD Java., Java Convert HTM to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to MD in Java" %}}
 
 The following example demonstrates how to convert HTM to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to MD. Upload your HTM file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to MD via Java" %}}
 

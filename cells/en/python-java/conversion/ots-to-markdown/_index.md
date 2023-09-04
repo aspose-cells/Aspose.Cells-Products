@@ -1,7 +1,7 @@
 ---
-title: Python OTS to MARKDOWN - Online OTS to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to MARKDOWN saveformat. Python OTS to MARKDOWN format. Save OTS to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to MARKDOWN saveformat., Free Online OTS to MARKDOWN Python., Python Convert OTS to MARKDOWN]
+title: Python OTS to MARKDOWN - OTS to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. OTS to MARKDOWN in Python. Python Convert OTS to MARKDOWN saveformat. Python OTS to MARKDOWN format. Save OTS to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., OTS to MARKDOWN in Python., Python OTS to MARKDOWN saveformat., OTS to MARKDOWN Python., Python Convert OTS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert OTS to MARKDOWN? With Aspose.Cells for Python library, you can 
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to MARKDOWN in Python" %}}
 
 The following example demonstrates how to convert OTS to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to MARKDOWN. Upload your OTS file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to MARKDOWN via Python" %}}
 

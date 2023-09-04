@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DIF - Combine IMAGE to DIF in Java
 url: /java/merger/merge-image-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to DIF saveformat. Java Combine IMAGE to DIF format. Merge IMAGE to DIF in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to DIF in Java., Free Online Java Merge IMAGE to dif., Java Combine IMAGE to DIF Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge IMAGE to DIF saveformat. Java Combine IMAGE to DIF format. Merge IMAGE to DIF in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to DIF in Java., Java Merge IMAGE to dif., Java Combine IMAGE to DIF., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge IMAGE to DIF? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to DIF in Java" %}}
 
 The following example demonstrates how to merge IMAGE to DIF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge IMAGE to DIF. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to DIF in Java" InputFormat="png" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to DIF in Java" InputFormat="png" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to DIF via Java" %}}
 

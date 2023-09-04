@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to BMP - Combine XLTX to BMP in C++
 url: /cpp/merger/merge-xltx-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to BMP saveformat. C++ Combine XLTX to BMP format. Merge XLTX to BMP in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to BMP in C++., Free Online C++ Merge XLTX to bmp., C++ Combine XLTX to BMP Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLTX to BMP saveformat. C++ Combine XLTX to BMP format. Merge XLTX to BMP in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to BMP in C++., C++ Merge XLTX to bmp., C++ Combine XLTX to BMP., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to BMP in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to BMP in C++" %}}
 
 The following example demonstrates how to merge XLTX to BMP in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTX to BMP. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to BMP in C++" InputFormat="xltx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to BMP in C++" InputFormat="xltx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to BMP via C++" %}}
 

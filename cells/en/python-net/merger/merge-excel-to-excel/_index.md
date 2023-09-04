@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to EXCEL - Combine EXCEL to EXCEL in Python
 url: /python-net/merger/merge-excel-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to EXCEL saveformat. Python Combine EXCEL to EXCEL format. Merge EXCEL to EXCEL in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to EXCEL in Python., Free Online Python Merge EXCEL to excel., Python Combine EXCEL to EXCEL Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge EXCEL to EXCEL saveformat. Python Combine EXCEL to EXCEL format. Merge EXCEL to EXCEL in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to EXCEL in Python., Python Merge EXCEL to excel., Python Combine EXCEL to EXCEL., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge EXCEL to EXCEL? With Aspose.Cells for Python via .NET library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to EXCEL in Python" %}}
 
 The following example demonstrates how to merge EXCEL to EXCEL in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge EXCEL to EXCEL. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to EXCEL in Python" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to EXCEL in Python" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to EXCEL via Python" %}}
 

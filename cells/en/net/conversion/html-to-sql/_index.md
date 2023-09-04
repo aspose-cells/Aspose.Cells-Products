@@ -1,7 +1,7 @@
 ---
-title: C# HTML to SQL - Online HTML to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTML to SQL saveformat. C# HTML to SQL format. Save HTML to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTML to SQL saveformat., Free Online HTML to SQL C#., C# Convert HTML to SQL]
+title: C# HTML to SQL - HTML to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. HTML to SQL in C#. C# Convert HTML to SQL saveformat. C# HTML to SQL format. Save HTML to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., HTML to SQL in C#., C# HTML to SQL saveformat., HTML to SQL C#., C# Convert HTML to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to SQL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to SQL in C#" %}}
 
 The following example demonstrates how to convert HTML to SQL in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTML to SQL. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sql" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTML to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sql" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to SQL via C#" %}}
 

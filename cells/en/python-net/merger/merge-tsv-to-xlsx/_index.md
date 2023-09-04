@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLSX - Combine TSV to XLSX in Python
 url: /python-net/merger/merge-tsv-to-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XLSX saveformat. Python Combine TSV to XLSX format. Merge TSV to XLSX in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLSX in Python., Free Online Python Merge TSV to xlsx., Python Combine TSV to XLSX Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to XLSX saveformat. Python Combine TSV to XLSX format. Merge TSV to XLSX in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLSX in Python., Python Merge TSV to xlsx., Python Combine TSV to XLSX., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to XLSX? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to XLSX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to XLSX in Python" %}}
 
 The following example demonstrates how to merge TSV to XLSX in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to XLSX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to XLSX in Python" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TSV to XLSX in Python" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XLSX via Python" %}}
 

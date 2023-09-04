@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to PNG - Online XLTM to PNG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to PNG saveformat. Java XLTM to PNG format. Save XLTM to PNG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to PNG saveformat., Free Online XLTM to PNG Java., Java Convert XLTM to PNG]
+title: Java XLTM to PNG - XLTM to PNG Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to PNG in Java. Java Convert XLTM to PNG saveformat. Java XLTM to PNG format. Save XLTM to PNG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to PNG in Java., Java XLTM to PNG saveformat., XLTM to PNG Java., Java Convert XLTM to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to PNG? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to PNG in Java" %}}
 
 The following example demonstrates how to convert XLTM to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to PNG. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to PNG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to PNG via Java" %}}
 

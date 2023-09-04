@@ -1,7 +1,7 @@
 ---
-title: Java XLS to MHT - Online XLS to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to MHT saveformat. Java XLS to MHT format. Save XLS to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MHT saveformat., Free Online XLS to MHT Java., Java Convert XLS to MHT]
+title: Java XLS to MHT - XLS to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. XLS to MHT in Java. Java Convert XLS to MHT saveformat. Java XLS to MHT format. Save XLS to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLS to MHT in Java., Java XLS to MHT saveformat., XLS to MHT Java., Java Convert XLS to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLS to MHT? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to MHT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to MHT in Java" %}}
 
 The following example demonstrates how to convert XLS to MHT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLS to MHT. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to MHT via Java" %}}
 

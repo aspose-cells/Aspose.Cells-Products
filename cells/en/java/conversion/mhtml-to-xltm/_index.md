@@ -1,7 +1,7 @@
 ---
-title: Java MHTML to XLTM - Online MHTML to XLTM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to XLTM saveformat. Java MHTML to XLTM format. Save MHTML to XLTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to XLTM saveformat., Free Online MHTML to XLTM Java., Java Convert MHTML to XLTM]
+title: Java MHTML to XLTM - MHTML to XLTM Converter
+description: Aspose Excel. Java Aspose.Cells. MHTML to XLTM in Java. Java Convert MHTML to XLTM saveformat. Java MHTML to XLTM format. Save MHTML to XLTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHTML to XLTM in Java., Java MHTML to XLTM saveformat., MHTML to XLTM Java., Java Convert MHTML to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHTML to XLTM? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to XLTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to XLTM in Java" %}}
 
 The following example demonstrates how to convert MHTML to XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to XLTM. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to XLTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLTM via Java" %}}
 

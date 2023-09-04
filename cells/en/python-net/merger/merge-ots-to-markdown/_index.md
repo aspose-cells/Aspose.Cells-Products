@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MARKDOWN - Combine OTS to MARKDOWN in Python
 url: /python-net/merger/merge-ots-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to MARKDOWN saveformat. Python Combine OTS to MARKDOWN format. Merge OTS to MARKDOWN in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MARKDOWN in Python., Free Online Python Merge OTS to markdown., Python Combine OTS to MARKDOWN Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to MARKDOWN saveformat. Python Combine OTS to MARKDOWN format. Merge OTS to MARKDOWN in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MARKDOWN in Python., Python Merge OTS to markdown., Python Combine OTS to MARKDOWN., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to MARKDOWN? With Aspose.Cells for Python via .NET library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to MARKDOWN in Python" %}}
 
 The following example demonstrates how to merge OTS to MARKDOWN in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to MARKDOWN in Python" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge OTS to MARKDOWN in Python" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to MARKDOWN via Python" %}}
 

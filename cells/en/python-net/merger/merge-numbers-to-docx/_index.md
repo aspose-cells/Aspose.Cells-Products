@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DOCX - Combine NUMBERS to DOCX in Python
 url: /python-net/merger/merge-numbers-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to DOCX saveformat. Python Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to DOCX in Python., Free Online Python Merge NUMBERS to docx., Python Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to DOCX saveformat. Python Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to DOCX in Python., Python Merge NUMBERS to docx., Python Combine NUMBERS to DOCX., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to DOCX? With Aspose.Cells for Python via .NET library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to DOCX in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to DOCX in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to DOCX. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to DOCX in Python" InputFormat="numbers" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to DOCX in Python" InputFormat="numbers" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to DOCX via Python" %}}
 

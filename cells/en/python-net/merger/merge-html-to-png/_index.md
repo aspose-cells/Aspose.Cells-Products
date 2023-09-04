@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PNG - Combine HTML to PNG in Python
 url: /python-net/merger/merge-html-to-png/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to PNG saveformat. Python Combine HTML to PNG format. Merge HTML to PNG in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PNG in Python., Free Online Python Merge HTML to png., Python Combine HTML to PNG Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTML to PNG saveformat. Python Combine HTML to PNG format. Merge HTML to PNG in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PNG in Python., Python Merge HTML to png., Python Combine HTML to PNG., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTML to PNG? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to PNG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to PNG in Python" %}}
 
 The following example demonstrates how to merge HTML to PNG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTML to PNG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to PNG in Python" InputFormat="html" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTML to PNG in Python" InputFormat="html" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to PNG via Python" %}}
 

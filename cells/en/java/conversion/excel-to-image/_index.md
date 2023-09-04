@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to IMAGE - Online EXCEL to IMAGE Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to IMAGE saveformat. Java EXCEL to IMAGE format. Save EXCEL to IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to IMAGE saveformat., Free Online EXCEL to IMAGE Java., Java Convert EXCEL to IMAGE]
+title: Java EXCEL to IMAGE - EXCEL to IMAGE Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to IMAGE in Java. Java Convert EXCEL to IMAGE saveformat. Java EXCEL to IMAGE format. Save EXCEL to IMAGE Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to IMAGE in Java., Java EXCEL to IMAGE saveformat., EXCEL to IMAGE Java., Java Convert EXCEL to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to IMAGE? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to IMAGE in Java" %}}
 
 The following example demonstrates how to convert EXCEL to IMAGE in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to IMAGE. Upload your EXCEL file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to IMAGE via Java" %}}
 

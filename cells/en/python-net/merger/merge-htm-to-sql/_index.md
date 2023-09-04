@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SQL - Combine HTM to SQL in Python
 url: /python-net/merger/merge-htm-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to SQL saveformat. Python Combine HTM to SQL format. Merge HTM to SQL in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to SQL in Python., Free Online Python Merge HTM to sql., Python Combine HTM to SQL Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to SQL saveformat. Python Combine HTM to SQL format. Merge HTM to SQL in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to SQL in Python., Python Merge HTM to sql., Python Combine HTM to SQL., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to SQL? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to SQL in Python" %}}
 
 The following example demonstrates how to merge HTM to SQL in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to SQL. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to SQL in Python" InputFormat="htm" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTM to SQL in Python" InputFormat="htm" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to SQL via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLT to NUMBERS - Online XLT to NUMBERS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to NUMBERS saveformat. Python XLT to NUMBERS format. Save XLT to NUMBERS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to NUMBERS saveformat., Free Online XLT to NUMBERS Python., Python Convert XLT to NUMBERS]
+title: Python XLT to NUMBERS - XLT to NUMBERS Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to NUMBERS in Python. Python Convert XLT to NUMBERS saveformat. Python XLT to NUMBERS format. Save XLT to NUMBERS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to NUMBERS in Python., Python XLT to NUMBERS saveformat., XLT to NUMBERS Python., Python Convert XLT to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to NUMBERS? With Aspose.Cells for Python library, you can e
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to NUMBERS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to NUMBERS in Python" %}}
 
 The following example demonstrates how to convert XLT to NUMBERS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to NUMBERS. Upload your XLT file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="numbers" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="numbers" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to NUMBERS via Python" %}}
 

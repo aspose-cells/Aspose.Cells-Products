@@ -1,7 +1,7 @@
 ---
-title: Python PNG to ET - Online PNG to ET Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to ET saveformat. Python PNG to ET format. Save PNG to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to ET saveformat., Free Online PNG to ET Python., Python Convert PNG to ET]
+title: Python PNG to ET - PNG to ET Converter
+description: Aspose Excel. Python Aspose.Cells. PNG to ET in Python. Python Convert PNG to ET saveformat. Python PNG to ET format. Save PNG to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PNG to ET in Python., Python PNG to ET saveformat., PNG to ET Python., Python Convert PNG to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert PNG to ET? With Aspose.Cells for Python library, you can easily
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to ET in Python" %}}
 
 The following example demonstrates how to convert PNG to ET in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to ET. Upload your PNG file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to ET via Python" %}}
 

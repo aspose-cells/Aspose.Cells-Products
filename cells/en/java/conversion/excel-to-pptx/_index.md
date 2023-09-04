@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to PPTX - Online EXCEL to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to PPTX saveformat. Java EXCEL to PPTX format. Save EXCEL to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to PPTX saveformat., Free Online EXCEL to PPTX Java., Java Convert EXCEL to PPTX]
+title: Java EXCEL to PPTX - EXCEL to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to PPTX in Java. Java Convert EXCEL to PPTX saveformat. Java EXCEL to PPTX format. Save EXCEL to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to PPTX in Java., Java EXCEL to PPTX saveformat., EXCEL to PPTX Java., Java Convert EXCEL to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to PPTX? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to PPTX in Java" %}}
 
 The following example demonstrates how to convert EXCEL to PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to PPTX. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PPTX via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SVG - Combine NUMBERS to SVG in Python
 url: /python-net/merger/merge-numbers-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to SVG saveformat. Python Combine NUMBERS to SVG format. Merge NUMBERS to SVG in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python., Free Online Python Merge NUMBERS to svg., Python Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to SVG saveformat. Python Combine NUMBERS to SVG format. Merge NUMBERS to SVG in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python., Python Merge NUMBERS to svg., Python Combine NUMBERS to SVG., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to SVG? With Aspose.Cells for Python via .NET library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to SVG in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to SVG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to SVG. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to SVG in Python" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to SVG in Python" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to SVG via Python" %}}
 

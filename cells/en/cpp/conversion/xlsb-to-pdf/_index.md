@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to PDF - Online XLSB to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to PDF saveformat. C++ XLSB to PDF format. Save XLSB to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to PDF saveformat., Free Online XLSB to PDF C++., C++ Convert XLSB to PDF]
+title: C++ XLSB to PDF - XLSB to PDF Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSB to PDF in C++. C++ Convert XLSB to PDF saveformat. C++ XLSB to PDF format. Save XLSB to PDF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to PDF in C++., C++ XLSB to PDF saveformat., XLSB to PDF C++., C++ Convert XLSB to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to PDF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to PDF in C++" %}}
 
 The following example demonstrates how to convert XLSB to PDF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSB to PDF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="pdf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="pdf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to PDF via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java HTML to PDF - Online HTML to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to PDF saveformat. Java HTML to PDF format. Save HTML to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to PDF saveformat., Free Online HTML to PDF Java., Java Convert HTML to PDF]
+title: Java HTML to PDF - HTML to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to PDF in Java. Java Convert HTML to PDF saveformat. Java HTML to PDF format. Save HTML to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to PDF in Java., Java HTML to PDF saveformat., HTML to PDF Java., Java Convert HTML to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to PDF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to PDF in Java" %}}
 
 The following example demonstrates how to convert HTML to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to PDF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PDF via Java" %}}
 

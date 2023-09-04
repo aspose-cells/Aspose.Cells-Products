@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to SXC - Online JPEG to SXC Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to SXC saveformat. C++ JPEG to SXC format. Save JPEG to SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to SXC saveformat., Free Online JPEG to SXC C++., C++ Convert JPEG to SXC]
+title: C++ JPEG to SXC - JPEG to SXC Converter
+description: Aspose Excel. C++ Aspose.Cells. JPEG to SXC in C++. C++ Convert JPEG to SXC saveformat. C++ JPEG to SXC format. Save JPEG to SXC C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to SXC in C++., C++ JPEG to SXC saveformat., JPEG to SXC C++., C++ Convert JPEG to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to SXC in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to SXC in C++" %}}
 
 The following example demonstrates how to convert JPEG to SXC in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPEG to SXC. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to SXC via C++" %}}
 

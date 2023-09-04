@@ -1,7 +1,7 @@
 ---
-title: Java PNG to XLTX - Online PNG to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to XLTX saveformat. Java PNG to XLTX format. Save PNG to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to XLTX saveformat., Free Online PNG to XLTX Java., Java Convert PNG to XLTX]
+title: Java PNG to XLTX - PNG to XLTX Converter
+description: Aspose Excel. Java Aspose.Cells. PNG to XLTX in Java. Java Convert PNG to XLTX saveformat. Java PNG to XLTX format. Save PNG to XLTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., PNG to XLTX in Java., Java PNG to XLTX saveformat., PNG to XLTX Java., Java Convert PNG to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert PNG to XLTX? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to XLTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to XLTX in Java" %}}
 
 The following example demonstrates how to convert PNG to XLTX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to XLTX. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLTX via Java" %}}
 

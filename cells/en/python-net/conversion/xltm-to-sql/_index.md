@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to SQL - Online XLTM to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTM to SQL saveformat. Python XLTM to SQL format. Save XLTM to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to SQL saveformat., Free Online XLTM to SQL Python., Python Convert XLTM to SQL]
+title: Python XLTM to SQL - XLTM to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. XLTM to SQL in Python. Python Convert XLTM to SQL saveformat. Python XLTM to SQL format. Save XLTM to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTM to SQL in Python., Python XLTM to SQL saveformat., XLTM to SQL Python., Python Convert XLTM to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTM to SQL? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to SQL in Python" %}}
 
 The following example demonstrates how to convert XLTM to SQL in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTM to SQL. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to SQL" %}}
 

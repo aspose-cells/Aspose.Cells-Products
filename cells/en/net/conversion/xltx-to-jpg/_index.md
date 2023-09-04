@@ -1,7 +1,7 @@
 ---
-title: C# XLTX to JPG - Online XLTX to JPG Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to JPG saveformat. C# XLTX to JPG format. Save XLTX to JPG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to JPG saveformat., Free Online XLTX to JPG C#., C# Convert XLTX to JPG]
+title: C# XLTX to JPG - XLTX to JPG Converter
+description: Aspose Excel. C# Aspose.Cells. XLTX to JPG in C#. C# Convert XLTX to JPG saveformat. C# XLTX to JPG format. Save XLTX to JPG C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLTX to JPG in C#., C# XLTX to JPG saveformat., XLTX to JPG C#., C# Convert XLTX to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to JPG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to JPG in C#" %}}
 
 The following example demonstrates how to convert XLTX to JPG in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTX to JPG. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to JPG via C#" %}}
 

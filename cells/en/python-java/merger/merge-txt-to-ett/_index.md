@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ETT - Combine TXT to ETT in Python
 url: /python-java/merger/merge-txt-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to ETT saveformat. Python Combine TXT to ETT format. Merge TXT to ETT in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to ETT in Python., Free Online Python Merge TXT to ett., Python Combine TXT to ETT Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to ETT saveformat. Python Combine TXT to ETT format. Merge TXT to ETT in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to ETT in Python., Python Merge TXT to ett., Python Combine TXT to ETT., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to ETT? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to ETT in Python" %}}
 
 The following example demonstrates how to merge TXT to ETT in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to ETT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to ETT in Python" InputFormat="txt" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TXT to ETT in Python" InputFormat="txt" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to ETT via Python" %}}
 

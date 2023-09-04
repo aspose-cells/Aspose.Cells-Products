@@ -1,8 +1,8 @@
 ---
-title: C++ Repair ods File - Repair ods File Online for Free
+title: C++ Repair ods File - Recover ods File
 url: /cpp/recovery/repair-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Repair ods file. Free Online ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within C++ application.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: Aspose Excel. C++ Aspose.Cells. C++ Repair ods file. ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within C++ application.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Repair a corrupted ods file., C++ Recover ods file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -42,7 +42,7 @@ Need to repair ods file programmatically? C++ developers can easily load & repai
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair ODS file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Sample Code to repair ODS file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ library to repair ODS file" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python OTS to CSV - Online OTS to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to CSV saveformat. Python OTS to CSV format. Save OTS to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to CSV saveformat., Free Online OTS to CSV Python., Python Convert OTS to CSV]
+title: Python OTS to CSV - OTS to CSV Converter
+description: Aspose Excel. Python Aspose.Cells. OTS to CSV in Python. Python Convert OTS to CSV saveformat. Python OTS to CSV format. Save OTS to CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., OTS to CSV in Python., Python OTS to CSV saveformat., OTS to CSV Python., Python Convert OTS to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert OTS to CSV? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save OTS to CSV in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to CSV in Python" %}}
 
 The following example demonstrates how to convert OTS to CSV in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert OTS to CSV. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to CSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert OTS to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to CSV" %}}
 

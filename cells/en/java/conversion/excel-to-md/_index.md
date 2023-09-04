@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to MD - Online EXCEL to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to MD saveformat. Java EXCEL to MD format. Save EXCEL to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to MD saveformat., Free Online EXCEL to MD Java., Java Convert EXCEL to MD]
+title: Java EXCEL to MD - EXCEL to MD Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to MD in Java. Java Convert EXCEL to MD saveformat. Java EXCEL to MD format. Save EXCEL to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to MD in Java., Java EXCEL to MD saveformat., EXCEL to MD Java., Java Convert EXCEL to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to MD? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to MD in Java" %}}
 
 The following example demonstrates how to convert EXCEL to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to MD. Upload your EXCEL file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to MD via Java" %}}
 

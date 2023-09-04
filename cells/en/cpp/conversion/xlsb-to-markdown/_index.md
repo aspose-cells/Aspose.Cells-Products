@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to MARKDOWN - Online XLSB to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to MARKDOWN saveformat. C++ XLSB to MARKDOWN format. Save XLSB to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to MARKDOWN saveformat., Free Online XLSB to MARKDOWN C++., C++ Convert XLSB to MARKDOWN]
+title: C++ XLSB to MARKDOWN - XLSB to MARKDOWN Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSB to MARKDOWN in C++. C++ Convert XLSB to MARKDOWN saveformat. C++ XLSB to MARKDOWN format. Save XLSB to MARKDOWN C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to MARKDOWN in C++., C++ XLSB to MARKDOWN saveformat., XLSB to MARKDOWN C++., C++ Convert XLSB to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to MARKDOWN in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to MARKDOWN in C++" %}}
 
 The following example demonstrates how to convert XLSB to MARKDOWN in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSB to MARKDOWN. Upload your XLSB file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to MARKDOWN via C++" %}}
 

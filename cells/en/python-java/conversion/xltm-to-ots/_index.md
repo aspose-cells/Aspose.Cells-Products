@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to OTS - Online XLTM to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTM to OTS saveformat. Python XLTM to OTS format. Save XLTM to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to OTS saveformat., Free Online XLTM to OTS Python., Python Convert XLTM to OTS]
+title: Python XLTM to OTS - XLTM to OTS Converter
+description: Aspose Excel. Python Aspose.Cells. XLTM to OTS in Python. Python Convert XLTM to OTS saveformat. Python XLTM to OTS format. Save XLTM to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTM to OTS in Python., Python XLTM to OTS saveformat., XLTM to OTS Python., Python Convert XLTM to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTM to OTS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to OTS in Python" %}}
 
 The following example demonstrates how to convert XLTM to OTS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTM to OTS. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to OTS via Python" %}}
 

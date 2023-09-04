@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to HTM - Combine PRN to HTM in C++
 url: /cpp/merger/merge-prn-to-htm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to HTM saveformat. C++ Combine PRN to HTM format. Merge PRN to HTM in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to HTM in C++., Free Online C++ Merge PRN to htm., C++ Combine PRN to HTM Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge PRN to HTM saveformat. C++ Combine PRN to HTM format. Merge PRN to HTM in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to HTM in C++., C++ Merge PRN to htm., C++ Combine PRN to HTM., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to HTM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to HTM in C++" %}}
 
 The following example demonstrates how to merge PRN to HTM in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to HTM. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to HTM in C++" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge PRN to HTM in C++" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to HTM via C++" %}}
 

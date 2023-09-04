@@ -1,7 +1,7 @@
 ---
-title: Java MHTML to XLSX - Online MHTML to XLSX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to XLSX saveformat. Java MHTML to XLSX format. Save MHTML to XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to XLSX saveformat., Free Online MHTML to XLSX Java., Java Convert MHTML to XLSX]
+title: Java MHTML to XLSX - MHTML to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. MHTML to XLSX in Java. Java Convert MHTML to XLSX saveformat. Java MHTML to XLSX format. Save MHTML to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHTML to XLSX in Java., Java MHTML to XLSX saveformat., MHTML to XLSX Java., Java Convert MHTML to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHTML to XLSX? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to XLSX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to XLSX in Java" %}}
 
 The following example demonstrates how to convert MHTML to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to XLSX. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLSX via Java" %}}
 

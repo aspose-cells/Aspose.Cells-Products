@@ -1,7 +1,7 @@
 ---
-title: Python HTML to MHTML - Online HTML to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to MHTML saveformat. Python HTML to MHTML format. Save HTML to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to MHTML saveformat., Free Online HTML to MHTML Python., Python Convert HTML to MHTML]
+title: Python HTML to MHTML - HTML to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. HTML to MHTML in Python. Python Convert HTML to MHTML saveformat. Python HTML to MHTML format. Save HTML to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTML to MHTML in Python., Python HTML to MHTML saveformat., HTML to MHTML Python., Python Convert HTML to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert HTML to MHTML? With Aspose.Cells for Python via NET library, yo
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save HTML to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to MHTML in Python" %}}
 
 The following example demonstrates how to convert HTML to MHTML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert HTML to MHTML. Upload your HTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert HTML to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHTML" %}}
 

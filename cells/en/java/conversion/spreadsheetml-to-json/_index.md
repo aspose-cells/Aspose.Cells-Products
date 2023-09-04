@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML to JSON - Online SPREADSHEETML to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to JSON saveformat. Java SPREADSHEETML to JSON format. Save SPREADSHEETML to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to JSON saveformat., Free Online SPREADSHEETML to JSON Java., Java Convert SPREADSHEETML to JSON]
+title: Java SPREADSHEETML to JSON - SPREADSHEETML to JSON Converter
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to JSON in Java. Java Convert SPREADSHEETML to JSON saveformat. Java SPREADSHEETML to JSON format. Save SPREADSHEETML to JSON Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to JSON in Java., Java SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON Java., Java Convert SPREADSHEETML to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SPREADSHEETML to JSON? With Aspose.Cells for Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to JSON in Java" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to JSON in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to JSON. Upload your SPREADSHEETM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to JSON via Java" %}}
 

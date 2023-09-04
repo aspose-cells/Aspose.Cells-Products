@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ET - Combine CSV to ET in C++
 url: /cpp/merger/merge-csv-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to ET saveformat. C++ Combine CSV to ET format. Merge CSV to ET in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to ET in C++., Free Online C++ Merge CSV to et., C++ Combine CSV to ET Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge CSV to ET saveformat. C++ Combine CSV to ET format. Merge CSV to ET in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to ET in C++., C++ Merge CSV to et., C++ Combine CSV to ET., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to ET in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to ET in C++" %}}
 
 The following example demonstrates how to merge CSV to ET in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge CSV to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to ET in C++" InputFormat="csv" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge CSV to ET in C++" InputFormat="csv" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to ET via C++" %}}
 

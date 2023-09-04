@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TABDELIMITED - Combine PRN to TABDELIMITED in Python
 url: /python-net/merger/merge-prn-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to TABDELIMITED saveformat. Python Combine PRN to TABDELIMITED format. Merge PRN to TABDELIMITED in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to TABDELIMITED in Python., Free Online Python Merge PRN to tabdelimited., Python Combine PRN to TABDELIMITED Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PRN to TABDELIMITED saveformat. Python Combine PRN to TABDELIMITED format. Merge PRN to TABDELIMITED in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to TABDELIMITED in Python., Python Merge PRN to tabdelimited., Python Combine PRN to TABDELIMITED., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PRN to TABDELIMITED? With Aspose.Cells for Python via .NET librar
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to merge PRN to TABDELIMITED in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PRN to TABDELIMITED. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to TABDELIMITED in Python" InputFormat="prn" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge PRN to TABDELIMITED in Python" InputFormat="prn" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to TABDELIMITED via Python" %}}
 

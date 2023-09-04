@@ -1,7 +1,7 @@
 ---
-title: Java ODS to SVG - Online ODS to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to SVG saveformat. Java ODS to SVG format. Save ODS to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SVG saveformat., Free Online ODS to SVG Java., Java Convert ODS to SVG]
+title: Java ODS to SVG - ODS to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. ODS to SVG in Java. Java Convert ODS to SVG saveformat. Java ODS to SVG format. Save ODS to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., ODS to SVG in Java., Java ODS to SVG saveformat., ODS to SVG Java., Java Convert ODS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert ODS to SVG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to SVG in Java" %}}
 
 The following example demonstrates how to convert ODS to SVG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to SVG. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to SVG via Java" %}}
 

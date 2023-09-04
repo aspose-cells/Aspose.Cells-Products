@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to ODS - Online XLTX to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to ODS saveformat. Python XLTX to ODS format. Save XLTX to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to ODS saveformat., Free Online XLTX to ODS Python., Python Convert XLTX to ODS]
+title: Python XLTX to ODS - XLTX to ODS Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to ODS in Python. Python Convert XLTX to ODS saveformat. Python XLTX to ODS format. Save XLTX to ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to ODS in Python., Python XLTX to ODS saveformat., XLTX to ODS Python., Python Convert XLTX to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTX to ODS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to ODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to ODS in Python" %}}
 
 The following example demonstrates how to convert XLTX to ODS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to ODS. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ODS via Python" %}}
 

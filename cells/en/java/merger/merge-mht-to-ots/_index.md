@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to OTS - Combine MHT to OTS in Java
 url: /java/merger/merge-mht-to-ots/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to OTS saveformat. Java Combine MHT to OTS format. Merge MHT to OTS in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to OTS in Java., Free Online Java Merge MHT to ots., Java Combine MHT to OTS Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHT to OTS saveformat. Java Combine MHT to OTS format. Merge MHT to OTS in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to OTS in Java., Java Merge MHT to ots., Java Combine MHT to OTS., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHT to OTS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to OTS in Java" %}}
 
 The following example demonstrates how to merge MHT to OTS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHT to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to OTS in Java" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHT to OTS in Java" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to OTS via Java" %}}
 

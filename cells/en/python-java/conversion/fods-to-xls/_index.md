@@ -1,7 +1,7 @@
 ---
-title: Python FODS to XLS - Online FODS to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert FODS to XLS saveformat. Python FODS to XLS format. Save FODS to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to XLS saveformat., Free Online FODS to XLS Python., Python Convert FODS to XLS]
+title: Python FODS to XLS - FODS to XLS Converter
+description: Aspose Excel. Python Aspose.Cells. FODS to XLS in Python. Python Convert FODS to XLS saveformat. Python FODS to XLS format. Save FODS to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., FODS to XLS in Python., Python FODS to XLS saveformat., FODS to XLS Python., Python Convert FODS to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert FODS to XLS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to XLS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to XLS in Python" %}}
 
 The following example demonstrates how to convert FODS to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to XLS. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to XLS via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python ODS to MD - Online ODS to MD Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to MD saveformat. Python ODS to MD format. Save ODS to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to MD saveformat., Free Online ODS to MD Python., Python Convert ODS to MD]
+title: Python ODS to MD - ODS to MD Converter
+description: Aspose Excel. Python Aspose.Cells. ODS to MD in Python. Python Convert ODS to MD saveformat. Python ODS to MD format. Save ODS to MD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., ODS to MD in Python., Python ODS to MD saveformat., ODS to MD Python., Python Convert ODS to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert ODS to MD? With Aspose.Cells for Python library, you can easily
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to MD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to MD in Python" %}}
 
 The following example demonstrates how to convert ODS to MD in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to MD. Upload your ODS file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to MD via Python" %}}
 

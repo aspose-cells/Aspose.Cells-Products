@@ -1,7 +1,7 @@
 ---
-title: Java XML to SPREADSHEETML - Online XML to SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to SPREADSHEETML saveformat. Java XML to SPREADSHEETML format. Save XML to SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to SPREADSHEETML saveformat., Free Online XML to SPREADSHEETML Java., Java Convert XML to SPREADSHEETML]
+title: Java XML to SPREADSHEETML - XML to SPREADSHEETML Converter
+description: Aspose Excel. Java Aspose.Cells. XML to SPREADSHEETML in Java. Java Convert XML to SPREADSHEETML saveformat. Java XML to SPREADSHEETML format. Save XML to SPREADSHEETML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XML to SPREADSHEETML in Java., Java XML to SPREADSHEETML saveformat., XML to SPREADSHEETML Java., Java Convert XML to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XML to SPREADSHEETML? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to convert XML to SPREADSHEETML in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XML to SPREADSHEETML. Upload your XML file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to SPREADSHEETML via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python SXC to JSON - Online SXC to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to JSON saveformat. Python SXC to JSON format. Save SXC to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to JSON saveformat., Free Online SXC to JSON Python., Python Convert SXC to JSON]
+title: Python SXC to JSON - SXC to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to JSON in Python. Python Convert SXC to JSON saveformat. Python SXC to JSON format. Save SXC to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to JSON in Python., Python SXC to JSON saveformat., SXC to JSON Python., Python Convert SXC to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to JSON? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to JSON in Python" %}}
 
 The following example demonstrates how to convert SXC to JSON in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to JSON. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to JSON via Python" %}}
 

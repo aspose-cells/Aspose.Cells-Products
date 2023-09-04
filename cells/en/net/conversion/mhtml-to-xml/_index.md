@@ -1,7 +1,7 @@
 ---
-title: C# MHTML to XML - Online MHTML to XML Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHTML to XML saveformat. C# MHTML to XML format. Save MHTML to XML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHTML to XML saveformat., Free Online MHTML to XML C#., C# Convert MHTML to XML]
+title: C# MHTML to XML - MHTML to XML Converter
+description: Aspose Excel. C# Aspose.Cells. MHTML to XML in C#. C# Convert MHTML to XML saveformat. C# MHTML to XML format. Save MHTML to XML C#.
+keywords: [Aspose Excel., C# Aspose.Cells., MHTML to XML in C#., C# MHTML to XML saveformat., MHTML to XML C#., C# Convert MHTML to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to XML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to XML in C#" %}}
 
 The following example demonstrates how to convert MHTML to XML in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to XML. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XML via C#" %}}
 

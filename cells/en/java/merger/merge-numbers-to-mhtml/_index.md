@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MHTML - Combine NUMBERS to MHTML in Java
 url: /java/merger/merge-numbers-to-mhtml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to MHTML saveformat. Java Combine NUMBERS to MHTML format. Merge NUMBERS to MHTML in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MHTML in Java., Free Online Java Merge NUMBERS to mhtml., Java Combine NUMBERS to MHTML Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge NUMBERS to MHTML saveformat. Java Combine NUMBERS to MHTML format. Merge NUMBERS to MHTML in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MHTML in Java., Java Merge NUMBERS to mhtml., Java Combine NUMBERS to MHTML., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge NUMBERS to MHTML? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to MHTML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to MHTML in Java" %}}
 
 The following example demonstrates how to merge NUMBERS to MHTML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge NUMBERS to MHTML. Upload your files, call Workboo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to MHTML in Java" InputFormat="numbers" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to MHTML in Java" InputFormat="numbers" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to MHTML via Java" %}}
 

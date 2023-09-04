@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to GIF - Combine ODS to GIF in Python
 url: /python-java/merger/merge-ods-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to GIF saveformat. Python Combine ODS to GIF format. Merge ODS to GIF in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to GIF in Python., Free Online Python Merge ODS to gif., Python Combine ODS to GIF Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge ODS to GIF saveformat. Python Combine ODS to GIF format. Merge ODS to GIF in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to GIF in Python., Python Merge ODS to gif., Python Combine ODS to GIF., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge ODS to GIF? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to GIF in Python" %}}
 
 The following example demonstrates how to merge ODS to GIF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge ODS to GIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to GIF in Python" InputFormat="ods" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge ODS to GIF in Python" InputFormat="ods" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to GIF via Python" %}}
 

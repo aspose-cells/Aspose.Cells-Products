@@ -1,7 +1,7 @@
 ---
-title: Python MHT to ETT - Online MHT to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to ETT saveformat. Python MHT to ETT format. Save MHT to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to ETT saveformat., Free Online MHT to ETT Python., Python Convert MHT to ETT]
+title: Python MHT to ETT - MHT to ETT Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to ETT in Python. Python Convert MHT to ETT saveformat. Python MHT to ETT format. Save MHT to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to ETT in Python., Python MHT to ETT saveformat., MHT to ETT Python., Python Convert MHT to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHT to ETT? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to ETT in Python" %}}
 
 The following example demonstrates how to convert MHT to ETT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to ETT. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to ETT via Python" %}}
 

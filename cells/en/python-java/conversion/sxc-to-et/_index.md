@@ -1,7 +1,7 @@
 ---
-title: Python SXC to ET - Online SXC to ET Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to ET saveformat. Python SXC to ET format. Save SXC to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to ET saveformat., Free Online SXC to ET Python., Python Convert SXC to ET]
+title: Python SXC to ET - SXC to ET Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to ET in Python. Python Convert SXC to ET saveformat. Python SXC to ET format. Save SXC to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to ET in Python., Python SXC to ET saveformat., SXC to ET Python., Python Convert SXC to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to ET? With Aspose.Cells for Python library, you can easily
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to ET in Python" %}}
 
 The following example demonstrates how to convert SXC to ET in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to ET. Upload your SXC file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to ET via Python" %}}
 

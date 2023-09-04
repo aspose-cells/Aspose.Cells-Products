@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XPS - Combine XLTX to XPS in Python
 url: /python-net/merger/merge-xltx-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to XPS saveformat. Python Combine XLTX to XPS format. Merge XLTX to XPS in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XPS in Python., Free Online Python Merge XLTX to xps., Python Combine XLTX to XPS Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTX to XPS saveformat. Python Combine XLTX to XPS format. Merge XLTX to XPS in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XPS in Python., Python Merge XLTX to xps., Python Combine XLTX to XPS., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTX to XPS? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to XPS in Python" %}}
 
 The following example demonstrates how to merge XLTX to XPS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTX to XPS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to XPS in Python" InputFormat="xltx" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to XPS in Python" InputFormat="xltx" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to XPS via Python" %}}
 

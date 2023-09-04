@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to JPG - Combine OTS to JPG in Java
 url: /java/merger/merge-ots-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to JPG saveformat. Java Combine OTS to JPG format. Merge OTS to JPG in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to JPG in Java., Free Online Java Merge OTS to jpg., Java Combine OTS to JPG Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge OTS to JPG saveformat. Java Combine OTS to JPG format. Merge OTS to JPG in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to JPG in Java., Java Merge OTS to jpg., Java Combine OTS to JPG., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge OTS to JPG? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to JPG in Java" %}}
 
 The following example demonstrates how to merge OTS to JPG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge OTS to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to JPG in Java" InputFormat="ots" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge OTS to JPG in Java" InputFormat="ots" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to JPG via Java" %}}
 

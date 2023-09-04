@@ -1,7 +1,7 @@
 ---
-title: Python CSV to ET - Online CSV to ET Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert CSV to ET saveformat. Python CSV to ET format. Save CSV to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to ET saveformat., Free Online CSV to ET Python., Python Convert CSV to ET]
+title: Python CSV to ET - CSV to ET Converter
+description: Aspose Excel. Python Aspose.Cells. CSV to ET in Python. Python Convert CSV to ET saveformat. Python CSV to ET format. Save CSV to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., CSV to ET in Python., Python CSV to ET saveformat., CSV to ET Python., Python Convert CSV to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert CSV to ET? With Aspose.Cells for Python library, you can easily
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save CSV to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save CSV to ET in Python" %}}
 
 The following example demonstrates how to convert CSV to ET in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert CSV to ET. Upload your CSV file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert CSV to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert CSV to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to ET via Python" %}}
 

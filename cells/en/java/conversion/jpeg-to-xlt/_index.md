@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to XLT - Online JPEG to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to XLT saveformat. Java JPEG to XLT format. Save JPEG to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to XLT saveformat., Free Online JPEG to XLT Java., Java Convert JPEG to XLT]
+title: Java JPEG to XLT - JPEG to XLT Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to XLT in Java. Java Convert JPEG to XLT saveformat. Java JPEG to XLT format. Save JPEG to XLT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to XLT in Java., Java JPEG to XLT saveformat., JPEG to XLT Java., Java Convert JPEG to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to XLT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to XLT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to XLT in Java" %}}
 
 The following example demonstrates how to convert JPEG to XLT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to XLT. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to XLT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to XLT via Java" %}}
 

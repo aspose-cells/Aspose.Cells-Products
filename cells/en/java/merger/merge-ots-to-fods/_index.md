@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to FODS - Combine OTS to FODS in Java
 url: /java/merger/merge-ots-to-fods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to FODS saveformat. Java Combine OTS to FODS format. Merge OTS to FODS in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to FODS in Java., Free Online Java Merge OTS to fods., Java Combine OTS to FODS Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge OTS to FODS saveformat. Java Combine OTS to FODS format. Merge OTS to FODS in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to FODS in Java., Java Merge OTS to fods., Java Combine OTS to FODS., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge OTS to FODS? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to FODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to FODS in Java" %}}
 
 The following example demonstrates how to merge OTS to FODS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge OTS to FODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to FODS in Java" InputFormat="ots" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge OTS to FODS in Java" InputFormat="ots" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to FODS via Java" %}}
 

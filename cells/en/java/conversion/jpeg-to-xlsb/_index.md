@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to XLSB - Online JPEG to XLSB Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to XLSB saveformat. Java JPEG to XLSB format. Save JPEG to XLSB Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to XLSB saveformat., Free Online JPEG to XLSB Java., Java Convert JPEG to XLSB]
+title: Java JPEG to XLSB - JPEG to XLSB Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to XLSB in Java. Java Convert JPEG to XLSB saveformat. Java JPEG to XLSB format. Save JPEG to XLSB Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to XLSB in Java., Java JPEG to XLSB saveformat., JPEG to XLSB Java., Java Convert JPEG to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to XLSB? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to XLSB in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to XLSB in Java" %}}
 
 The following example demonstrates how to convert JPEG to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to XLSB. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to XLSB via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLSM to TIFF - Online XLSM to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSM to TIFF saveformat. Python XLSM to TIFF format. Save XLSM to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to TIFF saveformat., Free Online XLSM to TIFF Python., Python Convert XLSM to TIFF]
+title: Python XLSM to TIFF - XLSM to TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. XLSM to TIFF in Python. Python Convert XLSM to TIFF saveformat. Python XLSM to TIFF format. Save XLSM to TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSM to TIFF in Python., Python XLSM to TIFF saveformat., XLSM to TIFF Python., Python Convert XLSM to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSM to TIFF? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to TIFF in Python" %}}
 
 The following example demonstrates how to convert XLSM to TIFF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSM to TIFF. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to TIFF via Python" %}}
 

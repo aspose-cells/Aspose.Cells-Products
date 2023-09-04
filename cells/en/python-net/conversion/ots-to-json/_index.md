@@ -1,7 +1,7 @@
 ---
-title: Python OTS to JSON - Online OTS to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to JSON saveformat. Python OTS to JSON format. Save OTS to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to JSON saveformat., Free Online OTS to JSON Python., Python Convert OTS to JSON]
+title: Python OTS to JSON - OTS to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. OTS to JSON in Python. Python Convert OTS to JSON saveformat. Python OTS to JSON format. Save OTS to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., OTS to JSON in Python., Python OTS to JSON saveformat., OTS to JSON Python., Python Convert OTS to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert OTS to JSON? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save OTS to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to JSON in Python" %}}
 
 The following example demonstrates how to convert OTS to JSON in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert OTS to JSON. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert OTS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to JSON" %}}
 

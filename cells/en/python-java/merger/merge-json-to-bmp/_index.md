@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to BMP - Combine JSON to BMP in Python
 url: /python-java/merger/merge-json-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to BMP saveformat. Python Combine JSON to BMP format. Merge JSON to BMP in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to BMP in Python., Free Online Python Merge JSON to bmp., Python Combine JSON to BMP Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JSON to BMP saveformat. Python Combine JSON to BMP format. Merge JSON to BMP in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to BMP in Python., Python Merge JSON to bmp., Python Combine JSON to BMP., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JSON to BMP? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to BMP in Python" %}}
 
 The following example demonstrates how to merge JSON to BMP in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JSON to BMP. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to BMP in Python" InputFormat="json" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JSON to BMP in Python" InputFormat="json" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to BMP via Python" %}}
 

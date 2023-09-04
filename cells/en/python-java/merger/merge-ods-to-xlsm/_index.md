@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLSM - Combine ODS to XLSM in Python
 url: /python-java/merger/merge-ods-to-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to XLSM saveformat. Python Combine ODS to XLSM format. Merge ODS to XLSM in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to XLSM in Python., Free Online Python Merge ODS to xlsm., Python Combine ODS to XLSM Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge ODS to XLSM saveformat. Python Combine ODS to XLSM format. Merge ODS to XLSM in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to XLSM in Python., Python Merge ODS to xlsm., Python Combine ODS to XLSM., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge ODS to XLSM? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to XLSM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to XLSM in Python" %}}
 
 The following example demonstrates how to merge ODS to XLSM in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge ODS to XLSM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to XLSM in Python" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge ODS to XLSM in Python" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to XLSM via Python" %}}
 

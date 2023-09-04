@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to IMAGE - Combine HTM to IMAGE in Python
 url: /python-net/merger/merge-htm-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to IMAGE saveformat. Python Combine HTM to IMAGE format. Merge HTM to IMAGE in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to IMAGE in Python., Free Online Python Merge HTM to image., Python Combine HTM to IMAGE Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to IMAGE saveformat. Python Combine HTM to IMAGE format. Merge HTM to IMAGE in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to IMAGE in Python., Python Merge HTM to image., Python Combine HTM to IMAGE., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to IMAGE? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to IMAGE in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to IMAGE in Python" %}}
 
 The following example demonstrates how to merge HTM to IMAGE in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to IMAGE. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to IMAGE in Python" InputFormat="htm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTM to IMAGE in Python" InputFormat="htm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to IMAGE via Python" %}}
 

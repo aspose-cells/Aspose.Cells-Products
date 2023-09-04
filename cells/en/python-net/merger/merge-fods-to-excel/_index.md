@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to EXCEL - Combine FODS to EXCEL in Python
 url: /python-net/merger/merge-fods-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to EXCEL saveformat. Python Combine FODS to EXCEL format. Merge FODS to EXCEL in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to EXCEL in Python., Free Online Python Merge FODS to excel., Python Combine FODS to EXCEL Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to EXCEL saveformat. Python Combine FODS to EXCEL format. Merge FODS to EXCEL in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to EXCEL in Python., Python Merge FODS to excel., Python Combine FODS to EXCEL., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to EXCEL? With Aspose.Cells for Python via .NET library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to EXCEL in Python" %}}
 
 The following example demonstrates how to merge FODS to EXCEL in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to EXCEL. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to EXCEL in Python" InputFormat="fods" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge FODS to EXCEL in Python" InputFormat="fods" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to EXCEL via Python" %}}
 

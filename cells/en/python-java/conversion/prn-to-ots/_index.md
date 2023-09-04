@@ -1,7 +1,7 @@
 ---
-title: Python PRN to OTS - Online PRN to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PRN to OTS saveformat. Python PRN to OTS format. Save PRN to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to OTS saveformat., Free Online PRN to OTS Python., Python Convert PRN to OTS]
+title: Python PRN to OTS - PRN to OTS Converter
+description: Aspose Excel. Python Aspose.Cells. PRN to OTS in Python. Python Convert PRN to OTS saveformat. Python PRN to OTS format. Save PRN to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PRN to OTS in Python., Python PRN to OTS saveformat., PRN to OTS Python., Python Convert PRN to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert PRN to OTS? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PRN to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PRN to OTS in Python" %}}
 
 The following example demonstrates how to convert PRN to OTS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to OTS. Upload your PRN file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PRN to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert PRN to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to OTS via Python" %}}
 

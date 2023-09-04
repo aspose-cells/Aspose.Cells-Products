@@ -1,7 +1,7 @@
 ---
-title: C++ TSV to PPTX - Online TSV to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TSV to PPTX saveformat. C++ TSV to PPTX format. Save TSV to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TSV to PPTX saveformat., Free Online TSV to PPTX C++., C++ Convert TSV to PPTX]
+title: C++ TSV to PPTX - TSV to PPTX Converter
+description: Aspose Excel. C++ Aspose.Cells. TSV to PPTX in C++. C++ Convert TSV to PPTX saveformat. C++ TSV to PPTX format. Save TSV to PPTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., TSV to PPTX in C++., C++ TSV to PPTX saveformat., TSV to PPTX C++., C++ Convert TSV to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TSV to PPTX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TSV to PPTX in C++" %}}
 
 The following example demonstrates how to convert TSV to PPTX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TSV to PPTX. Upload your TSV file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TSV to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TSV to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to PPTX via C++" %}}
 

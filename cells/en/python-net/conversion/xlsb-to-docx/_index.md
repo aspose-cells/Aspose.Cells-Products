@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to DOCX - Online XLSB to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to DOCX saveformat. Python XLSB to DOCX format. Save XLSB to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to DOCX saveformat., Free Online XLSB to DOCX Python., Python Convert XLSB to DOCX]
+title: Python XLSB to DOCX - XLSB to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to DOCX in Python. Python Convert XLSB to DOCX saveformat. Python XLSB to DOCX format. Save XLSB to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to DOCX in Python., Python XLSB to DOCX saveformat., XLSB to DOCX Python., Python Convert XLSB to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSB to DOCX? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to DOCX in Python" %}}
 
 The following example demonstrates how to convert XLSB to DOCX in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSB to DOCX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to DOCX" %}}
 

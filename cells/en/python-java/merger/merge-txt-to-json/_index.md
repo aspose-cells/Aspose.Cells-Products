@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to JSON - Combine TXT to JSON in Python
 url: /python-java/merger/merge-txt-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to JSON saveformat. Python Combine TXT to JSON format. Merge TXT to JSON in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to JSON in Python., Free Online Python Merge TXT to json., Python Combine TXT to JSON Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to JSON saveformat. Python Combine TXT to JSON format. Merge TXT to JSON in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to JSON in Python., Python Merge TXT to json., Python Combine TXT to JSON., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to JSON? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to JSON in Python" %}}
 
 The following example demonstrates how to merge TXT to JSON in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to JSON. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to JSON in Python" InputFormat="txt" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TXT to JSON in Python" InputFormat="txt" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to JSON via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XPS - Combine XLTX to XPS in C#
 url: /net/merger/merge-xltx-to-xps/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to XPS saveformat. C# Combine XLTX to XPS format. Merge XLTX to XPS in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to XPS in C#., Free Online C# Merge XLTX to xps., C# Combine XLTX to XPS Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLTX to XPS saveformat. C# Combine XLTX to XPS format. Merge XLTX to XPS in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to XPS in C#., C# Merge XLTX to xps., C# Combine XLTX to XPS., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to XPS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to XPS in C#" %}}
 
 The following example demonstrates how to merge XLTX to XPS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTX to XPS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to XPS in C#" InputFormat="xltx" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to XPS in C#" InputFormat="xltx" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to XPS via C#" %}}
 

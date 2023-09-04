@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ODS - Combine XLSB to ODS in Java
 url: /java/merger/merge-xlsb-to-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to ODS saveformat. Java Combine XLSB to ODS format. Merge XLSB to ODS in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to ODS in Java., Free Online Java Merge XLSB to ods., Java Combine XLSB to ODS Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSB to ODS saveformat. Java Combine XLSB to ODS format. Merge XLSB to ODS in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to ODS in Java., Java Merge XLSB to ods., Java Combine XLSB to ODS., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSB to ODS? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to ODS in Java" %}}
 
 The following example demonstrates how to merge XLSB to ODS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSB to ODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to ODS in Java" InputFormat="xlsb" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to ODS in Java" InputFormat="xlsb" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to ODS via Java" %}}
 

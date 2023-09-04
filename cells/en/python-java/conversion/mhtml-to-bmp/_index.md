@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to BMP - Online MHTML to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to BMP saveformat. Python MHTML to BMP format. Save MHTML to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to BMP saveformat., Free Online MHTML to BMP Python., Python Convert MHTML to BMP]
+title: Python MHTML to BMP - MHTML to BMP Converter
+description: Aspose Excel. Python Aspose.Cells. MHTML to BMP in Python. Python Convert MHTML to BMP saveformat. Python MHTML to BMP format. Save MHTML to BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHTML to BMP in Python., Python MHTML to BMP saveformat., MHTML to BMP Python., Python Convert MHTML to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHTML to BMP? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to BMP in Python" %}}
 
 The following example demonstrates how to convert MHTML to BMP in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to BMP. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to BMP via Python" %}}
 

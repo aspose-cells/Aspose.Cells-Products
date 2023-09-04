@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XPS - Combine PNG to XPS in Python
 url: /python-java/merger/merge-png-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to XPS saveformat. Python Combine PNG to XPS format. Merge PNG to XPS in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XPS in Python., Free Online Python Merge PNG to xps., Python Combine PNG to XPS Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to XPS saveformat. Python Combine PNG to XPS format. Merge PNG to XPS in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XPS in Python., Python Merge PNG to xps., Python Combine PNG to XPS., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to XPS? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to XPS in Python" %}}
 
 The following example demonstrates how to merge PNG to XPS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to XPS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to XPS in Python" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge PNG to XPS in Python" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to XPS via Python" %}}
 

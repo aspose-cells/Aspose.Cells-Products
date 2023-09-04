@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to PDF - Online EXCEL to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to PDF saveformat. Java EXCEL to PDF format. Save EXCEL to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to PDF saveformat., Free Online EXCEL to PDF Java., Java Convert EXCEL to PDF]
+title: Java EXCEL to PDF - EXCEL to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to PDF in Java. Java Convert EXCEL to PDF saveformat. Java EXCEL to PDF format. Save EXCEL to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to PDF in Java., Java EXCEL to PDF saveformat., EXCEL to PDF Java., Java Convert EXCEL to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to PDF? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in Java" %}}
 
 The following example demonstrates how to convert EXCEL to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to PDF. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PDF via Java" %}}
 

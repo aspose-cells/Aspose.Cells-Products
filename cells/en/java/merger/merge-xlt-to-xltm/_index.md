@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTM - Combine XLT to XLTM in Java
 url: /java/merger/merge-xlt-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to XLTM saveformat. Java Combine XLT to XLTM format. Merge XLT to XLTM in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XLTM in Java., Free Online Java Merge XLT to xltm., Java Combine XLT to XLTM Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLT to XLTM saveformat. Java Combine XLT to XLTM format. Merge XLT to XLTM in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XLTM in Java., Java Merge XLT to xltm., Java Combine XLT to XLTM., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLT to XLTM? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to XLTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to XLTM in Java" %}}
 
 The following example demonstrates how to merge XLT to XLTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLT to XLTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to XLTM in Java" InputFormat="xlt" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLT to XLTM in Java" InputFormat="xlt" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to XLTM via Java" %}}
 

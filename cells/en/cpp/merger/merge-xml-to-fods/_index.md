@@ -1,8 +1,8 @@
 ---
 title: Merge XML to FODS - Combine XML to FODS in C++
 url: /cpp/merger/merge-xml-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to FODS saveformat. C++ Combine XML to FODS format. Merge XML to FODS in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to FODS in C++., Free Online C++ Merge XML to fods., C++ Combine XML to FODS Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XML to FODS saveformat. C++ Combine XML to FODS format. Merge XML to FODS in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to FODS in C++., C++ Merge XML to fods., C++ Combine XML to FODS., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to FODS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to FODS in C++" %}}
 
 The following example demonstrates how to merge XML to FODS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XML to FODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to FODS in C++" InputFormat="xml" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XML to FODS in C++" InputFormat="xml" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to FODS via C++" %}}
 

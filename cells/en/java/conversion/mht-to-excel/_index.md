@@ -1,7 +1,7 @@
 ---
-title: Java MHT to EXCEL - Online MHT to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to EXCEL saveformat. Java MHT to EXCEL format. Save MHT to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to EXCEL saveformat., Free Online MHT to EXCEL Java., Java Convert MHT to EXCEL]
+title: Java MHT to EXCEL - MHT to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to EXCEL in Java. Java Convert MHT to EXCEL saveformat. Java MHT to EXCEL format. Save MHT to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to EXCEL in Java., Java MHT to EXCEL saveformat., MHT to EXCEL Java., Java Convert MHT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to EXCEL? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to EXCEL in Java" %}}
 
 The following example demonstrates how to convert MHT to EXCEL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to EXCEL. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to EXCEL via Java" %}}
 

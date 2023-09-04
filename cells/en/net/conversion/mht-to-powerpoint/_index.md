@@ -1,7 +1,7 @@
 ---
-title: C# MHT to POWERPOINT - Online MHT to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to POWERPOINT saveformat. C# MHT to POWERPOINT format. Save MHT to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to POWERPOINT saveformat., Free Online MHT to POWERPOINT C#., C# Convert MHT to POWERPOINT]
+title: C# MHT to POWERPOINT - MHT to POWERPOINT Converter
+description: Aspose Excel. C# Aspose.Cells. MHT to POWERPOINT in C#. C# Convert MHT to POWERPOINT saveformat. C# MHT to POWERPOINT format. Save MHT to POWERPOINT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., MHT to POWERPOINT in C#., C# MHT to POWERPOINT saveformat., MHT to POWERPOINT C#., C# Convert MHT to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to POWERPOINT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to POWERPOINT in C#" %}}
 
 The following example demonstrates how to convert MHT to POWERPOINT in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to POWERPOINT. Upload your MHT file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="pptx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="pptx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to POWERPOINT via C#" %}}
 

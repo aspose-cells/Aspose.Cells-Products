@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to BMP - Online JPEG to BMP Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to BMP saveformat. Java JPEG to BMP format. Save JPEG to BMP Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to BMP saveformat., Free Online JPEG to BMP Java., Java Convert JPEG to BMP]
+title: Java JPEG to BMP - JPEG to BMP Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to BMP in Java. Java Convert JPEG to BMP saveformat. Java JPEG to BMP format. Save JPEG to BMP Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to BMP in Java., Java JPEG to BMP saveformat., JPEG to BMP Java., Java Convert JPEG to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to BMP? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to BMP in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to BMP in Java" %}}
 
 The following example demonstrates how to convert JPEG to BMP in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to BMP. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to BMP via Java" %}}
 

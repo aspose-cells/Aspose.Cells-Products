@@ -1,7 +1,7 @@
 ---
-title: Java ODS to XLS - Online ODS to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to XLS saveformat. Java ODS to XLS format. Save ODS to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to XLS saveformat., Free Online ODS to XLS Java., Java Convert ODS to XLS]
+title: Java ODS to XLS - ODS to XLS Converter
+description: Aspose Excel. Java Aspose.Cells. ODS to XLS in Java. Java Convert ODS to XLS saveformat. Java ODS to XLS format. Save ODS to XLS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., ODS to XLS in Java., Java ODS to XLS saveformat., ODS to XLS Java., Java Convert ODS to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert ODS to XLS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to XLS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to XLS in Java" %}}
 
 The following example demonstrates how to convert ODS to XLS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to XLS. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLS via Java" %}}
 

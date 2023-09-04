@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to JPEG - Combine OTS to JPEG in Python
 url: /python-java/merger/merge-ots-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to JPEG saveformat. Python Combine OTS to JPEG format. Merge OTS to JPEG in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to JPEG in Python., Free Online Python Merge OTS to jpeg., Python Combine OTS to JPEG Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to JPEG saveformat. Python Combine OTS to JPEG format. Merge OTS to JPEG in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to JPEG in Python., Python Merge OTS to jpeg., Python Combine OTS to JPEG., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to JPEG? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to JPEG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to JPEG in Python" %}}
 
 The following example demonstrates how to merge OTS to JPEG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to JPEG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to JPEG in Python" InputFormat="ots" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge OTS to JPEG in Python" InputFormat="ots" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to JPEG via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java TXT to ET - Online TXT to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to ET saveformat. Java TXT to ET format. Save TXT to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to ET saveformat., Free Online TXT to ET Java., Java Convert TXT to ET]
+title: Java TXT to ET - TXT to ET Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to ET in Java. Java Convert TXT to ET saveformat. Java TXT to ET format. Save TXT to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to ET in Java., Java TXT to ET saveformat., TXT to ET Java., Java Convert TXT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to ET? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to ET in Java" %}}
 
 The following example demonstrates how to convert TXT to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to ET. Upload your TXT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to ET via Java" %}}
 

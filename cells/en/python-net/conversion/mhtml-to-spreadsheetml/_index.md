@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to SPREADSHEETML - Online MHTML to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to SPREADSHEETML saveformat. Python MHTML to SPREADSHEETML format. Save MHTML to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to SPREADSHEETML saveformat., Free Online MHTML to SPREADSHEETML Python., Python Convert MHTML to SPREADSHEETML]
+title: Python MHTML to SPREADSHEETML - MHTML to SPREADSHEETML Converter
+description: Aspose Excel. Python Aspose.Cells. MHTML to SPREADSHEETML in Python. Python Convert MHTML to SPREADSHEETML saveformat. Python MHTML to SPREADSHEETML format. Save MHTML to SPREADSHEETML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHTML to SPREADSHEETML in Python., Python MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Python., Python Convert MHTML to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHTML to SPREADSHEETML? With Aspose.Cells for Python via NET li
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to convert MHTML to SPREADSHEETML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHTML to SPREADSHEETML. Upload your MHTML file,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to SPREADSHEETML" %}}
 

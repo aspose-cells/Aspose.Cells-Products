@@ -1,7 +1,7 @@
 ---
-title: Python ODS to JSON - Online ODS to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to JSON saveformat. Python ODS to JSON format. Save ODS to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to JSON saveformat., Free Online ODS to JSON Python., Python Convert ODS to JSON]
+title: Python ODS to JSON - ODS to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. ODS to JSON in Python. Python Convert ODS to JSON saveformat. Python ODS to JSON format. Save ODS to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., ODS to JSON in Python., Python ODS to JSON saveformat., ODS to JSON Python., Python Convert ODS to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert ODS to JSON? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to JSON in Python" %}}
 
 The following example demonstrates how to convert ODS to JSON in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to JSON. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to JSON via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLSX - Combine CSV to XLSX in Python
 url: /python-java/merger/merge-csv-to-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to XLSX saveformat. Python Combine CSV to XLSX format. Merge CSV to XLSX in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLSX in Python., Free Online Python Merge CSV to xlsx., Python Combine CSV to XLSX Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge CSV to XLSX saveformat. Python Combine CSV to XLSX format. Merge CSV to XLSX in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLSX in Python., Python Merge CSV to xlsx., Python Combine CSV to XLSX., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge CSV to XLSX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to XLSX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to XLSX in Python" %}}
 
 The following example demonstrates how to merge CSV to XLSX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge CSV to XLSX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to XLSX in Python" InputFormat="csv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge CSV to XLSX in Python" InputFormat="csv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to XLSX via Python" %}}
 

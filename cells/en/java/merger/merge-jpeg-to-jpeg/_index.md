@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to JPEG - Combine JPEG to JPEG in Java
 url: /java/merger/merge-jpeg-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to JPEG saveformat. Java Combine JPEG to JPEG format. Merge JPEG to JPEG in Java. JPEG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to JPEG in Java., Free Online Java Merge JPEG to jpeg., Java Combine JPEG to JPEG Online for Free., JPEG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPEG to JPEG saveformat. Java Combine JPEG to JPEG format. Merge JPEG to JPEG in Java. JPEG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to JPEG in Java., Java Merge JPEG to jpeg., Java Combine JPEG to JPEG., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPEG to JPEG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to JPEG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to JPEG in Java" %}}
 
 The following example demonstrates how to merge JPEG to JPEG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPEG to JPEG. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to JPEG in Java" InputFormat="jpg" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to JPEG in Java" InputFormat="jpg" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to JPEG via Java" %}}
 

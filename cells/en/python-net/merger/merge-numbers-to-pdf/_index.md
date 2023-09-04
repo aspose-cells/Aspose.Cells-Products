@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PDF - Combine NUMBERS to PDF in Python
 url: /python-net/merger/merge-numbers-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to PDF saveformat. Python Combine NUMBERS to PDF format. Merge NUMBERS to PDF in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PDF in Python., Free Online Python Merge NUMBERS to pdf., Python Combine NUMBERS to PDF Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to PDF saveformat. Python Combine NUMBERS to PDF format. Merge NUMBERS to PDF in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PDF in Python., Python Merge NUMBERS to pdf., Python Combine NUMBERS to PDF., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to PDF? With Aspose.Cells for Python via .NET library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to PDF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to PDF in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to PDF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to PDF. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to PDF in Python" InputFormat="numbers" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to PDF in Python" InputFormat="numbers" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to PDF via Python" %}}
 

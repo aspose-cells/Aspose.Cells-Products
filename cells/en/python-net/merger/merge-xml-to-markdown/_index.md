@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MARKDOWN - Combine XML to MARKDOWN in Python
 url: /python-net/merger/merge-xml-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to MARKDOWN saveformat. Python Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MARKDOWN in Python., Free Online Python Merge XML to markdown., Python Combine XML to MARKDOWN Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to MARKDOWN saveformat. Python Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MARKDOWN in Python., Python Merge XML to markdown., Python Combine XML to MARKDOWN., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to MARKDOWN? With Aspose.Cells for Python via .NET library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to MARKDOWN in Python" %}}
 
 The following example demonstrates how to merge XML to MARKDOWN in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to MARKDOWN in Python" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XML to MARKDOWN in Python" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to MARKDOWN via Python" %}}
 

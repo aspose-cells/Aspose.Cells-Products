@@ -1,7 +1,7 @@
 ---
-title: Python MHT to DOCX - Online MHT to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to DOCX saveformat. Python MHT to DOCX format. Save MHT to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to DOCX saveformat., Free Online MHT to DOCX Python., Python Convert MHT to DOCX]
+title: Python MHT to DOCX - MHT to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to DOCX in Python. Python Convert MHT to DOCX saveformat. Python MHT to DOCX format. Save MHT to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to DOCX in Python., Python MHT to DOCX saveformat., MHT to DOCX Python., Python Convert MHT to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHT to DOCX? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHT to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to DOCX in Python" %}}
 
 The following example demonstrates how to convert MHT to DOCX in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to DOCX. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to DOCX" %}}
 

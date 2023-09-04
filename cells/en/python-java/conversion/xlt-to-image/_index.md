@@ -1,7 +1,7 @@
 ---
-title: Python XLT to IMAGE - Online XLT to IMAGE Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to IMAGE saveformat. Python XLT to IMAGE format. Save XLT to IMAGE Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to IMAGE saveformat., Free Online XLT to IMAGE Python., Python Convert XLT to IMAGE]
+title: Python XLT to IMAGE - XLT to IMAGE Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to IMAGE in Python. Python Convert XLT to IMAGE saveformat. Python XLT to IMAGE format. Save XLT to IMAGE Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to IMAGE in Python., Python XLT to IMAGE saveformat., XLT to IMAGE Python., Python Convert XLT to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to IMAGE? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to IMAGE in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to IMAGE in Python" %}}
 
 The following example demonstrates how to convert XLT to IMAGE in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to IMAGE. Upload your XLT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to IMAGE via Python" %}}
 

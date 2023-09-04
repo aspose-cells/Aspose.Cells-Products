@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLSM - Combine NUMBERS to XLSM in C#
 url: /net/merger/merge-numbers-to-xlsm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to XLSM saveformat. C# Combine NUMBERS to XLSM format. Merge NUMBERS to XLSM in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLSM in C#., Free Online C# Merge NUMBERS to xlsm., C# Combine NUMBERS to XLSM Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge NUMBERS to XLSM saveformat. C# Combine NUMBERS to XLSM format. Merge NUMBERS to XLSM in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLSM in C#., C# Merge NUMBERS to xlsm., C# Combine NUMBERS to XLSM., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to XLSM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to XLSM in C#" %}}
 
 The following example demonstrates how to merge NUMBERS to XLSM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge NUMBERS to XLSM. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to XLSM in C#" InputFormat="numbers" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to XLSM in C#" InputFormat="numbers" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to XLSM via C#" %}}
 

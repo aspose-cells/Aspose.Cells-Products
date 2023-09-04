@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SVG - Combine EXCEL to SVG in Java
 url: /java/merger/merge-excel-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to SVG saveformat. Java Combine EXCEL to SVG format. Merge EXCEL to SVG in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to SVG in Java., Free Online Java Merge EXCEL to svg., Java Combine EXCEL to SVG Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge EXCEL to SVG saveformat. Java Combine EXCEL to SVG format. Merge EXCEL to SVG in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to SVG in Java., Java Merge EXCEL to svg., Java Combine EXCEL to SVG., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge EXCEL to SVG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to SVG in Java" %}}
 
 The following example demonstrates how to merge EXCEL to SVG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge EXCEL to SVG. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to SVG in Java" InputFormat="xlsx" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to SVG in Java" InputFormat="xlsx" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to SVG via Java" %}}
 

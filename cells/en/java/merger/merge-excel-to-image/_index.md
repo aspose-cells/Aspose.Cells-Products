@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to IMAGE - Combine EXCEL to IMAGE in Java
 url: /java/merger/merge-excel-to-image/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to IMAGE saveformat. Java Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to IMAGE in Java., Free Online Java Merge EXCEL to image., Java Combine EXCEL to IMAGE Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge EXCEL to IMAGE saveformat. Java Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to IMAGE in Java., Java Merge EXCEL to image., Java Combine EXCEL to IMAGE., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge EXCEL to IMAGE? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to IMAGE in Java" %}}
 
 The following example demonstrates how to merge EXCEL to IMAGE in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge EXCEL to IMAGE. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to IMAGE in Java" InputFormat="xlsx" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to IMAGE in Java" InputFormat="xlsx" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to IMAGE via Java" %}}
 

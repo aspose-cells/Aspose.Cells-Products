@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL to XPS - Online EXCEL to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert EXCEL to XPS saveformat. C++ EXCEL to XPS format. Save EXCEL to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XPS saveformat., Free Online EXCEL to XPS C++., C++ Convert EXCEL to XPS]
+title: C++ EXCEL to XPS - EXCEL to XPS Converter
+description: Aspose Excel. C++ Aspose.Cells. EXCEL to XPS in C++. C++ Convert EXCEL to XPS saveformat. C++ EXCEL to XPS format. Save EXCEL to XPS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to XPS in C++., C++ EXCEL to XPS saveformat., EXCEL to XPS C++., C++ Convert EXCEL to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to XPS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to XPS in C++" %}}
 
 The following example demonstrates how to convert EXCEL to XPS in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert EXCEL to XPS. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to XPS via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SXC - Combine XLTM to SXC in Python
 url: /python-net/merger/merge-xltm-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to SXC saveformat. Python Combine XLTM to SXC format. Merge XLTM to SXC in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SXC in Python., Free Online Python Merge XLTM to sxc., Python Combine XLTM to SXC Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTM to SXC saveformat. Python Combine XLTM to SXC format. Merge XLTM to SXC in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SXC in Python., Python Merge XLTM to sxc., Python Combine XLTM to SXC., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTM to SXC? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to SXC in Python" %}}
 
 The following example demonstrates how to merge XLTM to SXC in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTM to SXC. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to SXC in Python" InputFormat="xltm" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to SXC in Python" InputFormat="xltm" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to SXC via Python" %}}
 

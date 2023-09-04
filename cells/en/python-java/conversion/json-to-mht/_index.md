@@ -1,7 +1,7 @@
 ---
-title: Python JSON to MHT - Online JSON to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JSON to MHT saveformat. Python JSON to MHT format. Save JSON to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to MHT saveformat., Free Online JSON to MHT Python., Python Convert JSON to MHT]
+title: Python JSON to MHT - JSON to MHT Converter
+description: Aspose Excel. Python Aspose.Cells. JSON to MHT in Python. Python Convert JSON to MHT saveformat. Python JSON to MHT format. Save JSON to MHT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JSON to MHT in Python., Python JSON to MHT saveformat., JSON to MHT Python., Python Convert JSON to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JSON to MHT? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JSON to MHT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JSON to MHT in Python" %}}
 
 The following example demonstrates how to convert JSON to MHT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JSON to MHT. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JSON to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mht" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JSON to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mht" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to MHT via Python" %}}
 

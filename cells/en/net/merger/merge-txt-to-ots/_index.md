@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to OTS - Combine TXT to OTS in C#
 url: /net/merger/merge-txt-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to OTS saveformat. C# Combine TXT to OTS format. Merge TXT to OTS in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to OTS in C#., Free Online C# Merge TXT to ots., C# Combine TXT to OTS Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TXT to OTS saveformat. C# Combine TXT to OTS format. Merge TXT to OTS in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to OTS in C#., C# Merge TXT to ots., C# Combine TXT to OTS., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to OTS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to OTS in C#" %}}
 
 The following example demonstrates how to merge TXT to OTS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TXT to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to OTS in C#" InputFormat="txt" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TXT to OTS in C#" InputFormat="txt" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to OTS via C#" %}}
 

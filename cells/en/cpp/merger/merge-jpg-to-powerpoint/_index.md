@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to POWERPOINT - Combine JPG to POWERPOINT in C++
 url: /cpp/merger/merge-jpg-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to POWERPOINT saveformat. C++ Combine JPG to POWERPOINT format. Merge JPG to POWERPOINT in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to POWERPOINT in C++., Free Online C++ Merge JPG to powerpoint., C++ Combine JPG to POWERPOINT Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JPG to POWERPOINT saveformat. C++ Combine JPG to POWERPOINT format. Merge JPG to POWERPOINT in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to POWERPOINT in C++., C++ Merge JPG to powerpoint., C++ Combine JPG to POWERPOINT., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to POWERPOINT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to POWERPOINT in C++" %}}
 
 The following example demonstrates how to merge JPG to POWERPOINT in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPG to POWERPOINT. Upload your files, call Workbo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to POWERPOINT in C++" InputFormat="jpg" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JPG to POWERPOINT in C++" InputFormat="jpg" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to POWERPOINT via C++" %}}
 

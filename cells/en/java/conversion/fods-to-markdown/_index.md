@@ -1,7 +1,7 @@
 ---
-title: Java FODS to MARKDOWN - Online FODS to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to MARKDOWN saveformat. Java FODS to MARKDOWN format. Save FODS to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Java., Java Convert FODS to MARKDOWN]
+title: Java FODS to MARKDOWN - FODS to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. FODS to MARKDOWN in Java. Java Convert FODS to MARKDOWN saveformat. Java FODS to MARKDOWN format. Save FODS to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., FODS to MARKDOWN in Java., Java FODS to MARKDOWN saveformat., FODS to MARKDOWN Java., Java Convert FODS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert FODS to MARKDOWN? With Aspose.Cells for Java library, you can e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert FODS to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to MARKDOWN. Upload your FODS file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to MARKDOWN via Java" %}}
 

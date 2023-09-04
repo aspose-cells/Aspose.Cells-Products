@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to POWERPOINT - Online TXT to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to POWERPOINT saveformat. C++ TXT to POWERPOINT format. Save TXT to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT C++., C++ Convert TXT to POWERPOINT]
+title: C++ TXT to POWERPOINT - TXT to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. TXT to POWERPOINT in C++. C++ Convert TXT to POWERPOINT saveformat. C++ TXT to POWERPOINT format. Save TXT to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., TXT to POWERPOINT in C++., C++ TXT to POWERPOINT saveformat., TXT to POWERPOINT C++., C++ Convert TXT to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to POWERPOINT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to POWERPOINT in C++" %}}
 
 The following example demonstrates how to convert TXT to POWERPOINT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TXT to POWERPOINT. Upload your TXT file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TXT to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to POWERPOINT via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLT to JPG - Online XLT to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to JPG saveformat. Python XLT to JPG format. Save XLT to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to JPG saveformat., Free Online XLT to JPG Python., Python Convert XLT to JPG]
+title: Python XLT to JPG - XLT to JPG Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to JPG in Python. Python Convert XLT to JPG saveformat. Python XLT to JPG format. Save XLT to JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to JPG in Python., Python XLT to JPG saveformat., XLT to JPG Python., Python Convert XLT to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to JPG? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to JPG in Python" %}}
 
 The following example demonstrates how to convert XLT to JPG in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to JPG. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to JPG via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DIF - Combine XLSB to DIF in Java
 url: /java/merger/merge-xlsb-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to DIF saveformat. Java Combine XLSB to DIF format. Merge XLSB to DIF in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to DIF in Java., Free Online Java Merge XLSB to dif., Java Combine XLSB to DIF Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSB to DIF saveformat. Java Combine XLSB to DIF format. Merge XLSB to DIF in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to DIF in Java., Java Merge XLSB to dif., Java Combine XLSB to DIF., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSB to DIF? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to DIF in Java" %}}
 
 The following example demonstrates how to merge XLSB to DIF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSB to DIF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to DIF in Java" InputFormat="xlsb" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to DIF in Java" InputFormat="xlsb" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to DIF via Java" %}}
 

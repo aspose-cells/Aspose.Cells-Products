@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SVG - Combine XLSB to SVG in Java
 url: /java/merger/merge-xlsb-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to SVG saveformat. Java Combine XLSB to SVG format. Merge XLSB to SVG in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to SVG in Java., Free Online Java Merge XLSB to svg., Java Combine XLSB to SVG Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSB to SVG saveformat. Java Combine XLSB to SVG format. Merge XLSB to SVG in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to SVG in Java., Java Merge XLSB to svg., Java Combine XLSB to SVG., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSB to SVG? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to SVG in Java" %}}
 
 The following example demonstrates how to merge XLSB to SVG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSB to SVG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to SVG in Java" InputFormat="xlsb" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to SVG in Java" InputFormat="xlsb" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to SVG via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to TSV - Combine SPREADSHEETML to TSV in C++
 url: /cpp/merger/merge-spreadsheetml-to-tsv/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to TSV saveformat. C++ Combine SPREADSHEETML to TSV format. Merge SPREADSHEETML to TSV in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to TSV in C++., Free Online C++ Merge SPREADSHEETML to tsv., C++ Combine SPREADSHEETML to TSV Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge SPREADSHEETML to TSV saveformat. C++ Combine SPREADSHEETML to TSV format. Merge SPREADSHEETML to TSV in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to TSV in C++., C++ Merge SPREADSHEETML to tsv., C++ Combine SPREADSHEETML to TSV., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TSV in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TSV in C++" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to TSV in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to TSV. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to TSV in C++" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to TSV in C++" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to TSV via C++" %}}
 

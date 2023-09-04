@@ -1,7 +1,7 @@
 ---
-title: C# TXT to ET - Online TXT to ET Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to ET saveformat. C# TXT to ET format. Save TXT to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to ET saveformat., Free Online TXT to ET C#., C# Convert TXT to ET]
+title: C# TXT to ET - TXT to ET Converter
+description: Aspose Excel. C# Aspose.Cells. TXT to ET in C#. C# Convert TXT to ET saveformat. C# TXT to ET format. Save TXT to ET C#.
+keywords: [Aspose Excel., C# Aspose.Cells., TXT to ET in C#., C# TXT to ET saveformat., TXT to ET C#., C# Convert TXT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to ET in C#" %}}
 
 The following example demonstrates how to convert TXT to ET in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TXT to ET. Upload your TXT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TXT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to ET via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PRN - Combine ODS to PRN in C#
 url: /net/merger/merge-ods-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to PRN saveformat. C# Combine ODS to PRN format. Merge ODS to PRN in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to PRN in C#., Free Online C# Merge ODS to prn., C# Combine ODS to PRN Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge ODS to PRN saveformat. C# Combine ODS to PRN format. Merge ODS to PRN in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to PRN in C#., C# Merge ODS to prn., C# Combine ODS to PRN., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to PRN in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to PRN in C#" %}}
 
 The following example demonstrates how to merge ODS to PRN in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to PRN. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to PRN in C#" InputFormat="ods" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge ODS to PRN in C#" InputFormat="ods" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to PRN via C#" %}}
 

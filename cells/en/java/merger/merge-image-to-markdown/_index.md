@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MARKDOWN - Combine IMAGE to MARKDOWN in Java
 url: /java/merger/merge-image-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to MARKDOWN saveformat. Java Combine IMAGE to MARKDOWN format. Merge IMAGE to MARKDOWN in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MARKDOWN in Java., Free Online Java Merge IMAGE to markdown., Java Combine IMAGE to MARKDOWN Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge IMAGE to MARKDOWN saveformat. Java Combine IMAGE to MARKDOWN format. Merge IMAGE to MARKDOWN in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MARKDOWN in Java., Java Merge IMAGE to markdown., Java Combine IMAGE to MARKDOWN., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge IMAGE to MARKDOWN? With Aspose.Cells for Java library, you can ea
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to MARKDOWN in Java" %}}
 
 The following example demonstrates how to merge IMAGE to MARKDOWN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge IMAGE to MARKDOWN. Upload your files, call Workbo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to MARKDOWN in Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to MARKDOWN in Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to MARKDOWN via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MARKDOWN - Combine XLTM to MARKDOWN in Java
 url: /java/merger/merge-xltm-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to MARKDOWN saveformat. Java Combine XLTM to MARKDOWN format. Merge XLTM to MARKDOWN in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MARKDOWN in Java., Free Online Java Merge XLTM to markdown., Java Combine XLTM to MARKDOWN Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLTM to MARKDOWN saveformat. Java Combine XLTM to MARKDOWN format. Merge XLTM to MARKDOWN in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MARKDOWN in Java., Java Merge XLTM to markdown., Java Combine XLTM to MARKDOWN., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLTM to MARKDOWN? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to MARKDOWN in Java" %}}
 
 The following example demonstrates how to merge XLTM to MARKDOWN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLTM to MARKDOWN. Upload your files, call Workboo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to MARKDOWN in Java" InputFormat="xltm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to MARKDOWN in Java" InputFormat="xltm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to MARKDOWN via Java" %}}
 

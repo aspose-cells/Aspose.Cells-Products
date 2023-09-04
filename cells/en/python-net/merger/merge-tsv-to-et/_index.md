@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to ET - Combine TSV to ET in Python
 url: /python-net/merger/merge-tsv-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to ET saveformat. Python Combine TSV to ET format. Merge TSV to ET in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ET in Python., Free Online Python Merge TSV to et., Python Combine TSV to ET Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to ET saveformat. Python Combine TSV to ET format. Merge TSV to ET in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ET in Python., Python Merge TSV to et., Python Combine TSV to ET., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to ET? With Aspose.Cells for Python via .NET library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to ET in Python" %}}
 
 The following example demonstrates how to merge TSV to ET in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to ET in Python" InputFormat="tsv" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TSV to ET in Python" InputFormat="tsv" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to ET via Python" %}}
 

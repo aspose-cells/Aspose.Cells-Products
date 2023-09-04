@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to FODS - Combine XLS to FODS in Python
 url: /python-net/merger/merge-xls-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to FODS saveformat. Python Combine XLS to FODS format. Merge XLS to FODS in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to FODS in Python., Free Online Python Merge XLS to fods., Python Combine XLS to FODS Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to FODS saveformat. Python Combine XLS to FODS format. Merge XLS to FODS in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to FODS in Python., Python Merge XLS to fods., Python Combine XLS to FODS., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to FODS? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to FODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to FODS in Python" %}}
 
 The following example demonstrates how to merge XLS to FODS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to FODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to FODS in Python" InputFormat="xls" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLS to FODS in Python" InputFormat="xls" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to FODS via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SQL - Combine PNG to SQL in Python
 url: /python-java/merger/merge-png-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to SQL saveformat. Python Combine PNG to SQL format. Merge PNG to SQL in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to SQL in Python., Free Online Python Merge PNG to sql., Python Combine PNG to SQL Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to SQL saveformat. Python Combine PNG to SQL format. Merge PNG to SQL in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to SQL in Python., Python Merge PNG to sql., Python Combine PNG to SQL., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to SQL? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to SQL in Python" %}}
 
 The following example demonstrates how to merge PNG to SQL in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to SQL. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to SQL in Python" InputFormat="png" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge PNG to SQL in Python" InputFormat="png" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to SQL via Python" %}}
 

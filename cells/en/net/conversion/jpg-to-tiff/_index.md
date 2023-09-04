@@ -1,7 +1,7 @@
 ---
-title: C# JPG to TIFF - Online JPG to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to TIFF saveformat. C# JPG to TIFF format. Save JPG to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to TIFF saveformat., Free Online JPG to TIFF C#., C# Convert JPG to TIFF]
+title: C# JPG to TIFF - JPG to TIFF Converter
+description: Aspose Excel. C# Aspose.Cells. JPG to TIFF in C#. C# Convert JPG to TIFF saveformat. C# JPG to TIFF format. Save JPG to TIFF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., JPG to TIFF in C#., C# JPG to TIFF saveformat., JPG to TIFF C#., C# Convert JPG to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to TIFF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to TIFF in C#" %}}
 
 The following example demonstrates how to convert JPG to TIFF in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to TIFF. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to TIFF via C#" %}}
 

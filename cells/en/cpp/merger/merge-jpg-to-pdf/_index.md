@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PDF - Combine JPG to PDF in C++
 url: /cpp/merger/merge-jpg-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to PDF saveformat. C++ Combine JPG to PDF format. Merge JPG to PDF in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to PDF in C++., Free Online C++ Merge JPG to pdf., C++ Combine JPG to PDF Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JPG to PDF saveformat. C++ Combine JPG to PDF format. Merge JPG to PDF in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to PDF in C++., C++ Merge JPG to pdf., C++ Combine JPG to PDF., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to PDF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to PDF in C++" %}}
 
 The following example demonstrates how to merge JPG to PDF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPG to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to PDF in C++" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JPG to PDF in C++" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to PDF via C++" %}}
 

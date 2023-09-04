@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TIFF - Combine MHTML to TIFF in Python
 url: /python-java/merger/merge-mhtml-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to TIFF saveformat. Python Combine MHTML to TIFF format. Merge MHTML to TIFF in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TIFF in Python., Free Online Python Merge MHTML to tiff., Python Combine MHTML to TIFF Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHTML to TIFF saveformat. Python Combine MHTML to TIFF format. Merge MHTML to TIFF in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TIFF in Python., Python Merge MHTML to tiff., Python Combine MHTML to TIFF., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHTML to TIFF? With Aspose.Cells for Python via Java library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to TIFF in Python" %}}
 
 The following example demonstrates how to merge MHTML to TIFF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHTML to TIFF. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to TIFF in Python" InputFormat="mhtml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to TIFF in Python" InputFormat="mhtml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to TIFF via Python" %}}
 

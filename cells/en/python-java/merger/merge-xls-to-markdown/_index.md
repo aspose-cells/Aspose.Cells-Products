@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to MARKDOWN - Combine XLS to MARKDOWN in Python
 url: /python-java/merger/merge-xls-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to MARKDOWN saveformat. Python Combine XLS to MARKDOWN format. Merge XLS to MARKDOWN in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MARKDOWN in Python., Free Online Python Merge XLS to markdown., Python Combine XLS to MARKDOWN Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to MARKDOWN saveformat. Python Combine XLS to MARKDOWN format. Merge XLS to MARKDOWN in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MARKDOWN in Python., Python Merge XLS to markdown., Python Combine XLS to MARKDOWN., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to MARKDOWN? With Aspose.Cells for Python via Java library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to MARKDOWN in Python" %}}
 
 The following example demonstrates how to merge XLS to MARKDOWN in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to MARKDOWN in Python" InputFormat="xls" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLS to MARKDOWN in Python" InputFormat="xls" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to MARKDOWN via Python" %}}
 

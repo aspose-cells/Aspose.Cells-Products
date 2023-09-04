@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to EXCEL - Combine JPEG to EXCEL in C++
 url: /cpp/merger/merge-jpeg-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to EXCEL saveformat. C++ Combine JPEG to EXCEL format. Merge JPEG to EXCEL in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to EXCEL in C++., Free Online C++ Merge JPEG to excel., C++ Combine JPEG to EXCEL Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JPEG to EXCEL saveformat. C++ Combine JPEG to EXCEL format. Merge JPEG to EXCEL in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to EXCEL in C++., C++ Merge JPEG to excel., C++ Combine JPEG to EXCEL., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to EXCEL in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to EXCEL in C++" %}}
 
 The following example demonstrates how to merge JPEG to EXCEL in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPEG to EXCEL. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to EXCEL in C++" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to EXCEL in C++" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to EXCEL via C++" %}}
 

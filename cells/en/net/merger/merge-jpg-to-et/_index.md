@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ET - Combine JPG to ET in C#
 url: /net/merger/merge-jpg-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to ET saveformat. C# Combine JPG to ET format. Merge JPG to ET in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to ET in C#., Free Online C# Merge JPG to et., C# Combine JPG to ET Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JPG to ET saveformat. C# Combine JPG to ET format. Merge JPG to ET in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to ET in C#., C# Merge JPG to et., C# Combine JPG to ET., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to ET in C#" %}}
 
 The following example demonstrates how to merge JPG to ET in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPG to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to ET in C#" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JPG to ET in C#" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to ET via C#" %}}
 

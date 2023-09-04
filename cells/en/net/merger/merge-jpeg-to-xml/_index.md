@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XML - Combine JPEG to XML in C#
 url: /net/merger/merge-jpeg-to-xml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to XML saveformat. C# Combine JPEG to XML format. Merge JPEG to XML in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XML in C#., Free Online C# Merge JPEG to xml., C# Combine JPEG to XML Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JPEG to XML saveformat. C# Combine JPEG to XML format. Merge JPEG to XML in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XML in C#., C# Merge JPEG to xml., C# Combine JPEG to XML., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to XML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to XML in C#" %}}
 
 The following example demonstrates how to merge JPEG to XML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPEG to XML. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to XML in C#" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to XML in C#" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to XML via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to HTM - Online JPEG to HTM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to HTM saveformat. Java JPEG to HTM format. Save JPEG to HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to HTM saveformat., Free Online JPEG to HTM Java., Java Convert JPEG to HTM]
+title: Java JPEG to HTM - JPEG to HTM Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to HTM in Java. Java Convert JPEG to HTM saveformat. Java JPEG to HTM format. Save JPEG to HTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to HTM in Java., Java JPEG to HTM saveformat., JPEG to HTM Java., Java Convert JPEG to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to HTM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to HTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to HTM in Java" %}}
 
 The following example demonstrates how to convert JPEG to HTM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to HTM. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to HTM via Java" %}}
 

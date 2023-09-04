@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to JPG - Combine XLS to JPG in C#
 url: /net/merger/merge-xls-to-jpg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to JPG saveformat. C# Combine XLS to JPG format. Merge XLS to JPG in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to JPG in C#., Free Online C# Merge XLS to jpg., C# Combine XLS to JPG Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLS to JPG saveformat. C# Combine XLS to JPG format. Merge XLS to JPG in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to JPG in C#., C# Merge XLS to jpg., C# Combine XLS to JPG., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to JPG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to JPG in C#" %}}
 
 The following example demonstrates how to merge XLS to JPG in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLS to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to JPG in C#" InputFormat="xls" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLS to JPG in C#" InputFormat="xls" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to JPG via C#" %}}
 

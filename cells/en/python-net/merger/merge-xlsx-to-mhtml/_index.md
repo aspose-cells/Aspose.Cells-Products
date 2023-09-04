@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MHTML - Combine XLSX to MHTML in Python
 url: /python-net/merger/merge-xlsx-to-mhtml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to MHTML saveformat. Python Combine XLSX to MHTML format. Merge XLSX to MHTML in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MHTML in Python., Free Online Python Merge XLSX to mhtml., Python Combine XLSX to MHTML Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSX to MHTML saveformat. Python Combine XLSX to MHTML format. Merge XLSX to MHTML in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MHTML in Python., Python Merge XLSX to mhtml., Python Combine XLSX to MHTML., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSX to MHTML? With Aspose.Cells for Python via .NET library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to MHTML in Python" %}}
 
 The following example demonstrates how to merge XLSX to MHTML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSX to MHTML. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to MHTML in Python" InputFormat="xlsx" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to MHTML in Python" InputFormat="xlsx" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to MHTML via Python" %}}
 

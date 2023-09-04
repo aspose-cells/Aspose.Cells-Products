@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to HTM - Online XLSM to HTM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to HTM saveformat. Java XLSM to HTM format. Save XLSM to HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to HTM saveformat., Free Online XLSM to HTM Java., Java Convert XLSM to HTM]
+title: Java XLSM to HTM - XLSM to HTM Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to HTM in Java. Java Convert XLSM to HTM saveformat. Java XLSM to HTM format. Save XLSM to HTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to HTM in Java., Java XLSM to HTM saveformat., XLSM to HTM Java., Java Convert XLSM to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to HTM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to HTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to HTM in Java" %}}
 
 The following example demonstrates how to convert XLSM to HTM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to HTM. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to HTM via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to JPG - Online TXT to JPG Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to JPG saveformat. C++ TXT to JPG format. Save TXT to JPG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to JPG saveformat., Free Online TXT to JPG C++., C++ Convert TXT to JPG]
+title: C++ TXT to JPG - TXT to JPG Converter
+description: Aspose Excel. C++ Aspose.Cells. TXT to JPG in C++. C++ Convert TXT to JPG saveformat. C++ TXT to JPG format. Save TXT to JPG C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., TXT to JPG in C++., C++ TXT to JPG saveformat., TXT to JPG C++., C++ Convert TXT to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to JPG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to JPG in C++" %}}
 
 The following example demonstrates how to convert TXT to JPG in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TXT to JPG. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TXT to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to JPG via C++" %}}
 

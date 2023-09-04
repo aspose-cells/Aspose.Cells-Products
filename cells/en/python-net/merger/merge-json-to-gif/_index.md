@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to GIF - Combine JSON to GIF in Python
 url: /python-net/merger/merge-json-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to GIF saveformat. Python Combine JSON to GIF format. Merge JSON to GIF in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to GIF in Python., Free Online Python Merge JSON to gif., Python Combine JSON to GIF Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JSON to GIF saveformat. Python Combine JSON to GIF format. Merge JSON to GIF in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to GIF in Python., Python Merge JSON to gif., Python Combine JSON to GIF., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JSON to GIF? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to GIF in Python" %}}
 
 The following example demonstrates how to merge JSON to GIF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JSON to GIF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to GIF in Python" InputFormat="json" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JSON to GIF in Python" InputFormat="json" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to GIF via Python" %}}
 

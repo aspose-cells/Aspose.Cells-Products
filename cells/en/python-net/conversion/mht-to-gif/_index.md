@@ -1,7 +1,7 @@
 ---
-title: Python MHT to GIF - Online MHT to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to GIF saveformat. Python MHT to GIF format. Save MHT to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to GIF saveformat., Free Online MHT to GIF Python., Python Convert MHT to GIF]
+title: Python MHT to GIF - MHT to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to GIF in Python. Python Convert MHT to GIF saveformat. Python MHT to GIF format. Save MHT to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to GIF in Python., Python MHT to GIF saveformat., MHT to GIF Python., Python Convert MHT to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHT to GIF? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHT to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to GIF in Python" %}}
 
 The following example demonstrates how to convert MHT to GIF in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to GIF. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to GIF" %}}
 

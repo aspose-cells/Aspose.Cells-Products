@@ -1,7 +1,7 @@
 ---
-title: Java HTML to BMP - Online HTML to BMP Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to BMP saveformat. Java HTML to BMP format. Save HTML to BMP Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to BMP saveformat., Free Online HTML to BMP Java., Java Convert HTML to BMP]
+title: Java HTML to BMP - HTML to BMP Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to BMP in Java. Java Convert HTML to BMP saveformat. Java HTML to BMP format. Save HTML to BMP Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to BMP in Java., Java HTML to BMP saveformat., HTML to BMP Java., Java Convert HTML to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to BMP? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to BMP in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to BMP in Java" %}}
 
 The following example demonstrates how to convert HTML to BMP in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to BMP. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to BMP via Java" %}}
 

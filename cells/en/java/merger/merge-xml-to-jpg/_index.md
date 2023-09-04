@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JPG - Combine XML to JPG in Java
 url: /java/merger/merge-xml-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to JPG saveformat. Java Combine XML to JPG format. Merge XML to JPG in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JPG in Java., Free Online Java Merge XML to jpg., Java Combine XML to JPG Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XML to JPG saveformat. Java Combine XML to JPG format. Merge XML to JPG in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JPG in Java., Java Merge XML to jpg., Java Combine XML to JPG., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XML to JPG? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to JPG in Java" %}}
 
 The following example demonstrates how to merge XML to JPG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XML to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to JPG in Java" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XML to JPG in Java" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to JPG via Java" %}}
 

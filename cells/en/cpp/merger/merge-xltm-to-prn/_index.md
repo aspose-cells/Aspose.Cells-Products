@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PRN - Combine XLTM to PRN in C++
 url: /cpp/merger/merge-xltm-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to PRN saveformat. C++ Combine XLTM to PRN format. Merge XLTM to PRN in C++. XLTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to PRN in C++., Free Online C++ Merge XLTM to prn., C++ Combine XLTM to PRN Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLTM to PRN saveformat. C++ Combine XLTM to PRN format. Merge XLTM to PRN in C++. XLTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to PRN in C++., C++ Merge XLTM to prn., C++ Combine XLTM to PRN., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to PRN in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to PRN in C++" %}}
 
 The following example demonstrates how to merge XLTM to PRN in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTM to PRN. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to PRN in C++" InputFormat="xltm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to PRN in C++" InputFormat="xltm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to PRN via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to HTML - Combine PRN to HTML in C#
 url: /net/merger/merge-prn-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to HTML saveformat. C# Combine PRN to HTML format. Merge PRN to HTML in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to HTML in C#., Free Online C# Merge PRN to html., C# Combine PRN to HTML Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PRN to HTML saveformat. C# Combine PRN to HTML format. Merge PRN to HTML in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to HTML in C#., C# Merge PRN to html., C# Combine PRN to HTML., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to HTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to HTML in C#" %}}
 
 The following example demonstrates how to merge PRN to HTML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to HTML. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to HTML in C#" InputFormat="prn" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PRN to HTML in C#" InputFormat="prn" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to HTML via C#" %}}
 

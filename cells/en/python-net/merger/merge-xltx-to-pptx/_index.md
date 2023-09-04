@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PPTX - Combine XLTX to PPTX in Python
 url: /python-net/merger/merge-xltx-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to PPTX saveformat. Python Combine XLTX to PPTX format. Merge XLTX to PPTX in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., Free Online Python Merge XLTX to pptx., Python Combine XLTX to PPTX Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTX to PPTX saveformat. Python Combine XLTX to PPTX format. Merge XLTX to PPTX in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., Python Merge XLTX to pptx., Python Combine XLTX to PPTX., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTX to PPTX? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to PPTX in Python" %}}
 
 The following example demonstrates how to merge XLTX to PPTX in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTX to PPTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to PPTX in Python" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to PPTX in Python" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to PPTX via Python" %}}
 

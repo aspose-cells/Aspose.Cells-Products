@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PPTX - Combine JSON to PPTX in Python
 url: /python-net/merger/merge-json-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to PPTX saveformat. Python Combine JSON to PPTX format. Merge JSON to PPTX in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PPTX in Python., Free Online Python Merge JSON to pptx., Python Combine JSON to PPTX Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JSON to PPTX saveformat. Python Combine JSON to PPTX format. Merge JSON to PPTX in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PPTX in Python., Python Merge JSON to pptx., Python Combine JSON to PPTX., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JSON to PPTX? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to PPTX in Python" %}}
 
 The following example demonstrates how to merge JSON to PPTX in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JSON to PPTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to PPTX in Python" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JSON to PPTX in Python" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to PPTX via Python" %}}
 

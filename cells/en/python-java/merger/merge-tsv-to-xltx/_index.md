@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLTX - Combine TSV to XLTX in Python
 url: /python-java/merger/merge-tsv-to-xltx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XLTX saveformat. Python Combine TSV to XLTX format. Merge TSV to XLTX in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLTX in Python., Free Online Python Merge TSV to xltx., Python Combine TSV to XLTX Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to XLTX saveformat. Python Combine TSV to XLTX format. Merge TSV to XLTX in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLTX in Python., Python Merge TSV to xltx., Python Combine TSV to XLTX., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to XLTX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to XLTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to XLTX in Python" %}}
 
 The following example demonstrates how to merge TSV to XLTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to XLTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to XLTX in Python" InputFormat="tsv" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TSV to XLTX in Python" InputFormat="tsv" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XLTX via Python" %}}
 

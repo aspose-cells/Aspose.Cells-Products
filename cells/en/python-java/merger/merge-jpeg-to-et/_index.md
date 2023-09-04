@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to ET - Combine JPEG to ET in Python
 url: /python-java/merger/merge-jpeg-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to ET saveformat. Python Combine JPEG to ET format. Merge JPEG to ET in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to ET in Python., Free Online Python Merge JPEG to et., Python Combine JPEG to ET Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPEG to ET saveformat. Python Combine JPEG to ET format. Merge JPEG to ET in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to ET in Python., Python Merge JPEG to et., Python Combine JPEG to ET., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPEG to ET? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to ET in Python" %}}
 
 The following example demonstrates how to merge JPEG to ET in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPEG to ET. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to ET in Python" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to ET in Python" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to ET via Python" %}}
 

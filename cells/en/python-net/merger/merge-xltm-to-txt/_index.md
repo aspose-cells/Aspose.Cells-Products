@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to TXT - Combine XLTM to TXT in Python
 url: /python-net/merger/merge-xltm-to-txt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to TXT saveformat. Python Combine XLTM to TXT format. Merge XLTM to TXT in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TXT in Python., Free Online Python Merge XLTM to txt., Python Combine XLTM to TXT Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTM to TXT saveformat. Python Combine XLTM to TXT format. Merge XLTM to TXT in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TXT in Python., Python Merge XLTM to txt., Python Combine XLTM to TXT., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTM to TXT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to TXT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to TXT in Python" %}}
 
 The following example demonstrates how to merge XLTM to TXT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTM to TXT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to TXT in Python" InputFormat="xltm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to TXT in Python" InputFormat="xltm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to TXT via Python" %}}
 

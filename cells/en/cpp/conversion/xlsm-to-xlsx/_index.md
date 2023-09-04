@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM to XLSX - Online XLSM to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to XLSX saveformat. C++ XLSM to XLSX format. Save XLSM to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to XLSX saveformat., Free Online XLSM to XLSX C++., C++ Convert XLSM to XLSX]
+title: C++ XLSM to XLSX - XLSM to XLSX Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSM to XLSX in C++. C++ Convert XLSM to XLSX saveformat. C++ XLSM to XLSX format. Save XLSM to XLSX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSM to XLSX in C++., C++ XLSM to XLSX saveformat., XLSM to XLSX C++., C++ Convert XLSM to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to XLSX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to XLSX in C++" %}}
 
 The following example demonstrates how to convert XLSM to XLSX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSM to XLSX. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to XLSX via C++" %}}
 

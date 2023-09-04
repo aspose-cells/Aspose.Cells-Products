@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to POWERPOINT - Online JPEG to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to POWERPOINT saveformat. Java JPEG to POWERPOINT format. Save JPEG to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT Java., Java Convert JPEG to POWERPOINT]
+title: Java JPEG to POWERPOINT - JPEG to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to POWERPOINT in Java. Java Convert JPEG to POWERPOINT saveformat. Java JPEG to POWERPOINT format. Save JPEG to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to POWERPOINT in Java., Java JPEG to POWERPOINT saveformat., JPEG to POWERPOINT Java., Java Convert JPEG to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to POWERPOINT? With Aspose.Cells for Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to POWERPOINT in Java" %}}
 
 The following example demonstrates how to convert JPEG to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to POWERPOINT. Upload your JPEG file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to POWERPOINT via Java" %}}
 

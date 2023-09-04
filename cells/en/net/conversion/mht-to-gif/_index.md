@@ -1,7 +1,7 @@
 ---
-title: C# MHT to GIF - Online MHT to GIF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to GIF saveformat. C# MHT to GIF format. Save MHT to GIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to GIF saveformat., Free Online MHT to GIF C#., C# Convert MHT to GIF]
+title: C# MHT to GIF - MHT to GIF Converter
+description: Aspose Excel. C# Aspose.Cells. MHT to GIF in C#. C# Convert MHT to GIF saveformat. C# MHT to GIF format. Save MHT to GIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., MHT to GIF in C#., C# MHT to GIF saveformat., MHT to GIF C#., C# Convert MHT to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to GIF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to GIF in C#" %}}
 
 The following example demonstrates how to convert MHT to GIF in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to GIF. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to GIF via C#" %}}
 

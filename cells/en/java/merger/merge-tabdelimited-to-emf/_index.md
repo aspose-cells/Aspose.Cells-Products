@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to EMF - Combine TABDELIMITED to EMF in Java
 url: /java/merger/merge-tabdelimited-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to EMF saveformat. Java Combine TABDELIMITED to EMF format. Merge TABDELIMITED to EMF in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to EMF in Java., Free Online Java Merge TABDELIMITED to emf., Java Combine TABDELIMITED to EMF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TABDELIMITED to EMF saveformat. Java Combine TABDELIMITED to EMF format. Merge TABDELIMITED to EMF in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to EMF in Java., Java Merge TABDELIMITED to emf., Java Combine TABDELIMITED to EMF., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TABDELIMITED to EMF? With Aspose.Cells for Java library, you can 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to EMF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to EMF in Java" %}}
 
 The following example demonstrates how to merge TABDELIMITED to EMF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TABDELIMITED to EMF. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to EMF in Java" InputFormat="tsv" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to EMF in Java" InputFormat="tsv" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to EMF via Java" %}}
 

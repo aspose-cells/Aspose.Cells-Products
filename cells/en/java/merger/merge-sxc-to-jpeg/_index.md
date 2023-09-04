@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to JPEG - Combine SXC to JPEG in Java
 url: /java/merger/merge-sxc-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to JPEG saveformat. Java Combine SXC to JPEG format. Merge SXC to JPEG in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to JPEG in Java., Free Online Java Merge SXC to jpeg., Java Combine SXC to JPEG Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge SXC to JPEG saveformat. Java Combine SXC to JPEG format. Merge SXC to JPEG in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to JPEG in Java., Java Merge SXC to jpeg., Java Combine SXC to JPEG., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge SXC to JPEG? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to JPEG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to JPEG in Java" %}}
 
 The following example demonstrates how to merge SXC to JPEG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge SXC to JPEG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to JPEG in Java" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge SXC to JPEG in Java" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to JPEG via Java" %}}
 

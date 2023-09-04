@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TXT - Combine JPG to TXT in C#
 url: /net/merger/merge-jpg-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to TXT saveformat. C# Combine JPG to TXT format. Merge JPG to TXT in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TXT in C#., Free Online C# Merge JPG to txt., C# Combine JPG to TXT Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JPG to TXT saveformat. C# Combine JPG to TXT format. Merge JPG to TXT in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TXT in C#., C# Merge JPG to txt., C# Combine JPG to TXT., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to TXT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to TXT in C#" %}}
 
 The following example demonstrates how to merge JPG to TXT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPG to TXT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to TXT in C#" InputFormat="jpg" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JPG to TXT in C#" InputFormat="jpg" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to TXT via C#" %}}
 

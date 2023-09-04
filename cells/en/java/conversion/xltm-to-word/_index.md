@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to WORD - Online XLTM to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to WORD saveformat. Java XLTM to WORD format. Save XLTM to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to WORD saveformat., Free Online XLTM to WORD Java., Java Convert XLTM to WORD]
+title: Java XLTM to WORD - XLTM to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to WORD in Java. Java Convert XLTM to WORD saveformat. Java XLTM to WORD format. Save XLTM to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to WORD in Java., Java XLTM to WORD saveformat., XLTM to WORD Java., Java Convert XLTM to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to WORD? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to WORD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to WORD in Java" %}}
 
 The following example demonstrates how to convert XLTM to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to WORD. Upload your XLTM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to WORD via Java" %}}
 

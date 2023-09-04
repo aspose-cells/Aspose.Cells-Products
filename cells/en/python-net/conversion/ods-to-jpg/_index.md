@@ -1,7 +1,7 @@
 ---
-title: Python ODS to JPG - Online ODS to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to JPG saveformat. Python ODS to JPG format. Save ODS to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to JPG saveformat., Free Online ODS to JPG Python., Python Convert ODS to JPG]
+title: Python ODS to JPG - ODS to JPG Converter
+description: Aspose Excel. Python Aspose.Cells. ODS to JPG in Python. Python Convert ODS to JPG saveformat. Python ODS to JPG format. Save ODS to JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., ODS to JPG in Python., Python ODS to JPG saveformat., ODS to JPG Python., Python Convert ODS to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert ODS to JPG? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save ODS to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to JPG in Python" %}}
 
 The following example demonstrates how to convert ODS to JPG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert ODS to JPG. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert ODS to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to JPG" %}}
 

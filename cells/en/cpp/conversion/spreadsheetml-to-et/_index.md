@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML to ET - Online SPREADSHEETML to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SPREADSHEETML to ET saveformat. C++ SPREADSHEETML to ET format. Save SPREADSHEETML to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to ET saveformat., Free Online SPREADSHEETML to ET C++., C++ Convert SPREADSHEETML to ET]
+title: C++ SPREADSHEETML to ET - SPREADSHEETML to ET Converter
+description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to ET in C++. C++ Convert SPREADSHEETML to ET saveformat. C++ SPREADSHEETML to ET format. Save SPREADSHEETML to ET C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to ET in C++., C++ SPREADSHEETML to ET saveformat., SPREADSHEETML to ET C++., C++ Convert SPREADSHEETML to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to ET in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to ET in C++" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to ET in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert SPREADSHEETML to ET. Upload your SPREADSHEETML 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to ET via C++" %}}
 

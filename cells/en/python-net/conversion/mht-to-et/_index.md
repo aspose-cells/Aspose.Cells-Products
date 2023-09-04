@@ -1,7 +1,7 @@
 ---
-title: Python MHT to ET - Online MHT to ET Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to ET saveformat. Python MHT to ET format. Save MHT to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to ET saveformat., Free Online MHT to ET Python., Python Convert MHT to ET]
+title: Python MHT to ET - MHT to ET Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to ET in Python. Python Convert MHT to ET saveformat. Python MHT to ET format. Save MHT to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to ET in Python., Python MHT to ET saveformat., MHT to ET Python., Python Convert MHT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHT to ET? With Aspose.Cells for Python via NET library, you ca
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHT to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to ET in Python" %}}
 
 The following example demonstrates how to convert MHT to ET in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to ET. Upload your MHT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to ET" %}}
 

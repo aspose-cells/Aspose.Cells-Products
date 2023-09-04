@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PNG - Combine XLT to PNG in Python
 url: /python-java/merger/merge-xlt-to-png/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to PNG saveformat. Python Combine XLT to PNG format. Merge XLT to PNG in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PNG in Python., Free Online Python Merge XLT to png., Python Combine XLT to PNG Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLT to PNG saveformat. Python Combine XLT to PNG format. Merge XLT to PNG in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PNG in Python., Python Merge XLT to png., Python Combine XLT to PNG., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLT to PNG? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to PNG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to PNG in Python" %}}
 
 The following example demonstrates how to merge XLT to PNG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLT to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to PNG in Python" InputFormat="xlt" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLT to PNG in Python" InputFormat="xlt" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to PNG via Python" %}}
 

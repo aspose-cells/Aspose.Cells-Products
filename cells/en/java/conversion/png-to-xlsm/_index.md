@@ -1,7 +1,7 @@
 ---
-title: Java PNG to XLSM - Online PNG to XLSM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to XLSM saveformat. Java PNG to XLSM format. Save PNG to XLSM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to XLSM saveformat., Free Online PNG to XLSM Java., Java Convert PNG to XLSM]
+title: Java PNG to XLSM - PNG to XLSM Converter
+description: Aspose Excel. Java Aspose.Cells. PNG to XLSM in Java. Java Convert PNG to XLSM saveformat. Java PNG to XLSM format. Save PNG to XLSM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., PNG to XLSM in Java., Java PNG to XLSM saveformat., PNG to XLSM Java., Java Convert PNG to XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert PNG to XLSM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to XLSM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to XLSM in Java" %}}
 
 The following example demonstrates how to convert PNG to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to XLSM. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to XLSM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLSM via Java" %}}
 

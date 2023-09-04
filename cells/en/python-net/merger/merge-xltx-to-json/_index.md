@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to JSON - Combine XLTX to JSON in Python
 url: /python-net/merger/merge-xltx-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to JSON saveformat. Python Combine XLTX to JSON format. Merge XLTX to JSON in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to JSON in Python., Free Online Python Merge XLTX to json., Python Combine XLTX to JSON Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTX to JSON saveformat. Python Combine XLTX to JSON format. Merge XLTX to JSON in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to JSON in Python., Python Merge XLTX to json., Python Combine XLTX to JSON., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTX to JSON? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to JSON in Python" %}}
 
 The following example demonstrates how to merge XLTX to JSON in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTX to JSON. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to JSON in Python" InputFormat="xltx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to JSON in Python" InputFormat="xltx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to JSON via Python" %}}
 

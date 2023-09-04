@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to SXC - Online XLTM to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTM to SXC saveformat. Python XLTM to SXC format. Save XLTM to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to SXC saveformat., Free Online XLTM to SXC Python., Python Convert XLTM to SXC]
+title: Python XLTM to SXC - XLTM to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. XLTM to SXC in Python. Python Convert XLTM to SXC saveformat. Python XLTM to SXC format. Save XLTM to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTM to SXC in Python., Python XLTM to SXC saveformat., XLTM to SXC Python., Python Convert XLTM to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTM to SXC? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to SXC in Python" %}}
 
 The following example demonstrates how to convert XLTM to SXC in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTM to SXC. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to SXC via Python" %}}
 

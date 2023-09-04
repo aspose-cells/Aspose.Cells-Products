@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JSON - Combine PNG to JSON in C++
 url: /cpp/merger/merge-png-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to JSON saveformat. C++ Combine PNG to JSON format. Merge PNG to JSON in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to JSON in C++., Free Online C++ Merge PNG to json., C++ Combine PNG to JSON Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge PNG to JSON saveformat. C++ Combine PNG to JSON format. Merge PNG to JSON in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to JSON in C++., C++ Merge PNG to json., C++ Combine PNG to JSON., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to JSON in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to JSON in C++" %}}
 
 The following example demonstrates how to merge PNG to JSON in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PNG to JSON. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to JSON in C++" InputFormat="png" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge PNG to JSON in C++" InputFormat="png" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to JSON via C++" %}}
 

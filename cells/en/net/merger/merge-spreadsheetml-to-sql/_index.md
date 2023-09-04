@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to SQL - Combine SPREADSHEETML to SQL in C#
 url: /net/merger/merge-spreadsheetml-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to SQL saveformat. C# Combine SPREADSHEETML to SQL format. Merge SPREADSHEETML to SQL in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to SQL in C#., Free Online C# Merge SPREADSHEETML to sql., C# Combine SPREADSHEETML to SQL Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SPREADSHEETML to SQL saveformat. C# Combine SPREADSHEETML to SQL format. Merge SPREADSHEETML to SQL in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to SQL in C#., C# Merge SPREADSHEETML to sql., C# Combine SPREADSHEETML to SQL., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to SQL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to SQL in C#" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to SQL in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to SQL. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to SQL in C#" InputFormat="xml" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to SQL in C#" InputFormat="xml" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to SQL via C#" %}}
 

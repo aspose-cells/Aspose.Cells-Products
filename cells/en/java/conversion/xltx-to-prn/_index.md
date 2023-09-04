@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to PRN - Online XLTX to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PRN saveformat. Java XLTX to PRN format. Save XLTX to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PRN saveformat., Free Online XLTX to PRN Java., Java Convert XLTX to PRN]
+title: Java XLTX to PRN - XLTX to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to PRN in Java. Java Convert XLTX to PRN saveformat. Java XLTX to PRN format. Save XLTX to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to PRN in Java., Java XLTX to PRN saveformat., XLTX to PRN Java., Java Convert XLTX to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to PRN? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to PRN in Java" %}}
 
 The following example demonstrates how to convert XLTX to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to PRN. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to PRN via Java" %}}
 

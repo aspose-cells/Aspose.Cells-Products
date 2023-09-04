@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to JPG - Online IMAGE to JPG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to JPG saveformat. Java IMAGE to JPG format. Save IMAGE to JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to JPG saveformat., Free Online IMAGE to JPG Java., Java Convert IMAGE to JPG]
+title: Java IMAGE to JPG - IMAGE to JPG Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to JPG in Java. Java Convert IMAGE to JPG saveformat. Java IMAGE to JPG format. Save IMAGE to JPG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to JPG in Java., Java IMAGE to JPG saveformat., IMAGE to JPG Java., Java Convert IMAGE to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to JPG? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to JPG in Java" %}}
 
 The following example demonstrates how to convert IMAGE to JPG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to JPG. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to JPG via Java" %}}
 

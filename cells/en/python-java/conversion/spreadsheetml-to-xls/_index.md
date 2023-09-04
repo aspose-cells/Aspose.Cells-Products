@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML to XLS - Online SPREADSHEETML to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SPREADSHEETML to XLS saveformat. Python SPREADSHEETML to XLS format. Save SPREADSHEETML to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to XLS saveformat., Free Online SPREADSHEETML to XLS Python., Python Convert SPREADSHEETML to XLS]
+title: Python SPREADSHEETML to XLS - SPREADSHEETML to XLS Converter
+description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to XLS in Python. Python Convert SPREADSHEETML to XLS saveformat. Python SPREADSHEETML to XLS format. Save SPREADSHEETML to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to XLS in Python., Python SPREADSHEETML to XLS saveformat., SPREADSHEETML to XLS Python., Python Convert SPREADSHEETML to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SPREADSHEETML to XLS? With Aspose.Cells for Python library, you
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to XLS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to XLS in Python" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SPREADSHEETML to XLS. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to XLS via Python" %}}
 

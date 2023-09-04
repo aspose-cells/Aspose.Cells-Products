@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SPREADSHEETML - Combine XLSB to SPREADSHEETML in Python
 url: /python-java/merger/merge-xlsb-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to SPREADSHEETML saveformat. Python Combine XLSB to SPREADSHEETML format. Merge XLSB to SPREADSHEETML in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in Python., Free Online Python Merge XLSB to spreadsheetml., Python Combine XLSB to SPREADSHEETML Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSB to SPREADSHEETML saveformat. Python Combine XLSB to SPREADSHEETML format. Merge XLSB to SPREADSHEETML in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in Python., Python Merge XLSB to spreadsheetml., Python Combine XLSB to SPREADSHEETML., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSB to SPREADSHEETML? With Aspose.Cells for Python via Java libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge XLSB to SPREADSHEETML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSB to SPREADSHEETML. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to SPREADSHEETML in Python" InputFormat="xlsb" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to SPREADSHEETML in Python" InputFormat="xlsb" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to SPREADSHEETML via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python SXC to XML - Online SXC to XML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to XML saveformat. Python SXC to XML format. Save SXC to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to XML saveformat., Free Online SXC to XML Python., Python Convert SXC to XML]
+title: Python SXC to XML - SXC to XML Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to XML in Python. Python Convert SXC to XML saveformat. Python SXC to XML format. Save SXC to XML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to XML in Python., Python SXC to XML saveformat., SXC to XML Python., Python Convert SXC to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to XML? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to XML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to XML in Python" %}}
 
 The following example demonstrates how to convert SXC to XML in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to XML. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XML via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java HTML to POWERPOINT - Online HTML to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to POWERPOINT saveformat. Java HTML to POWERPOINT format. Save HTML to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to POWERPOINT saveformat., Free Online HTML to POWERPOINT Java., Java Convert HTML to POWERPOINT]
+title: Java HTML to POWERPOINT - HTML to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to POWERPOINT in Java. Java Convert HTML to POWERPOINT saveformat. Java HTML to POWERPOINT format. Save HTML to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to POWERPOINT in Java., Java HTML to POWERPOINT saveformat., HTML to POWERPOINT Java., Java Convert HTML to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to POWERPOINT? With Aspose.Cells for Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to POWERPOINT in Java" %}}
 
 The following example demonstrates how to convert HTML to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to POWERPOINT. Upload your HTML file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to POWERPOINT via Java" %}}
 

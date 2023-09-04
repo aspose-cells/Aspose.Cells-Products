@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLSX - Combine IMAGE to XLSX in C#
 url: /net/merger/merge-image-to-xlsx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to XLSX saveformat. C# Combine IMAGE to XLSX format. Merge IMAGE to XLSX in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLSX in C#., Free Online C# Merge IMAGE to xlsx., C# Combine IMAGE to XLSX Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge IMAGE to XLSX saveformat. C# Combine IMAGE to XLSX format. Merge IMAGE to XLSX in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLSX in C#., C# Merge IMAGE to xlsx., C# Combine IMAGE to XLSX., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to XLSX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to XLSX in C#" %}}
 
 The following example demonstrates how to merge IMAGE to XLSX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to XLSX. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to XLSX in C#" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to XLSX in C#" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to XLSX via C#" %}}
 

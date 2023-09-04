@@ -1,7 +1,7 @@
 ---
-title: C++ JSON to XLTX - Online JSON to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JSON to XLTX saveformat. C++ JSON to XLTX format. Save JSON to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to XLTX saveformat., Free Online JSON to XLTX C++., C++ Convert JSON to XLTX]
+title: C++ JSON to XLTX - JSON to XLTX Converter
+description: Aspose Excel. C++ Aspose.Cells. JSON to XLTX in C++. C++ Convert JSON to XLTX saveformat. C++ JSON to XLTX format. Save JSON to XLTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JSON to XLTX in C++., C++ JSON to XLTX saveformat., JSON to XLTX C++., C++ Convert JSON to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JSON to XLTX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JSON to XLTX in C++" %}}
 
 The following example demonstrates how to convert JSON to XLTX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JSON to XLTX. Upload your JSON file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JSON to XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JSON to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to XLTX via C++" %}}
 

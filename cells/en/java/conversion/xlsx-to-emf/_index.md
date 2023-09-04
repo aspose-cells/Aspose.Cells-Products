@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to EMF - Online XLSX to EMF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to EMF saveformat. Java XLSX to EMF format. Save XLSX to EMF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to EMF saveformat., Free Online XLSX to EMF Java., Java Convert XLSX to EMF]
+title: Java XLSX to EMF - XLSX to EMF Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to EMF in Java. Java Convert XLSX to EMF saveformat. Java XLSX to EMF format. Save XLSX to EMF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to EMF in Java., Java XLSX to EMF saveformat., XLSX to EMF Java., Java Convert XLSX to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to EMF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to EMF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to EMF in Java" %}}
 
 The following example demonstrates how to convert XLSX to EMF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to EMF. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to EMF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to EMF via Java" %}}
 

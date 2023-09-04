@@ -1,7 +1,7 @@
 ---
-title: Python OTS to DOCX - Online OTS to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to DOCX saveformat. Python OTS to DOCX format. Save OTS to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to DOCX saveformat., Free Online OTS to DOCX Python., Python Convert OTS to DOCX]
+title: Python OTS to DOCX - OTS to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. OTS to DOCX in Python. Python Convert OTS to DOCX saveformat. Python OTS to DOCX format. Save OTS to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., OTS to DOCX in Python., Python OTS to DOCX saveformat., OTS to DOCX Python., Python Convert OTS to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert OTS to DOCX? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to DOCX in Python" %}}
 
 The following example demonstrates how to convert OTS to DOCX in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to DOCX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to DOCX via Python" %}}
 

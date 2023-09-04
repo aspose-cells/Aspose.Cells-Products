@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to ETT - Combine XLTM to ETT in Python
 url: /python-net/merger/merge-xltm-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to ETT saveformat. Python Combine XLTM to ETT format. Merge XLTM to ETT in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to ETT in Python., Free Online Python Merge XLTM to ett., Python Combine XLTM to ETT Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTM to ETT saveformat. Python Combine XLTM to ETT format. Merge XLTM to ETT in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to ETT in Python., Python Merge XLTM to ett., Python Combine XLTM to ETT., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTM to ETT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to ETT in Python" %}}
 
 The following example demonstrates how to merge XLTM to ETT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTM to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to ETT in Python" InputFormat="xltm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to ETT in Python" InputFormat="xltm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to ETT via Python" %}}
 

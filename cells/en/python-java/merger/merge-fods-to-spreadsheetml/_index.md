@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SPREADSHEETML - Combine FODS to SPREADSHEETML in Python
 url: /python-java/merger/merge-fods-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to SPREADSHEETML saveformat. Python Combine FODS to SPREADSHEETML format. Merge FODS to SPREADSHEETML in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SPREADSHEETML in Python., Free Online Python Merge FODS to spreadsheetml., Python Combine FODS to SPREADSHEETML Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to SPREADSHEETML saveformat. Python Combine FODS to SPREADSHEETML format. Merge FODS to SPREADSHEETML in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SPREADSHEETML in Python., Python Merge FODS to spreadsheetml., Python Combine FODS to SPREADSHEETML., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to SPREADSHEETML? With Aspose.Cells for Python via Java libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge FODS to SPREADSHEETML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to SPREADSHEETML. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to SPREADSHEETML in Python" InputFormat="fods" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge FODS to SPREADSHEETML in Python" InputFormat="fods" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to SPREADSHEETML via Python" %}}
 

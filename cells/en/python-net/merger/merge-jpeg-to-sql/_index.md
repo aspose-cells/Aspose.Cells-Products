@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SQL - Combine JPEG to SQL in Python
 url: /python-net/merger/merge-jpeg-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to SQL saveformat. Python Combine JPEG to SQL format. Merge JPEG to SQL in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SQL in Python., Free Online Python Merge JPEG to sql., Python Combine JPEG to SQL Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPEG to SQL saveformat. Python Combine JPEG to SQL format. Merge JPEG to SQL in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SQL in Python., Python Merge JPEG to sql., Python Combine JPEG to SQL., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPEG to SQL? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to SQL in Python" %}}
 
 The following example demonstrates how to merge JPEG to SQL in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPEG to SQL. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to SQL in Python" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to SQL in Python" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to SQL via Python" %}}
 

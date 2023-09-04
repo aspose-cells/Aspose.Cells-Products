@@ -1,7 +1,7 @@
 ---
-title: Python HTML to XPS - Online HTML to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to XPS saveformat. Python HTML to XPS format. Save HTML to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to XPS saveformat., Free Online HTML to XPS Python., Python Convert HTML to XPS]
+title: Python HTML to XPS - HTML to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. HTML to XPS in Python. Python Convert HTML to XPS saveformat. Python HTML to XPS format. Save HTML to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTML to XPS in Python., Python HTML to XPS saveformat., HTML to XPS Python., Python Convert HTML to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTML to XPS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to XPS in Python" %}}
 
 The following example demonstrates how to convert HTML to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to XPS. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XPS via Python" %}}
 

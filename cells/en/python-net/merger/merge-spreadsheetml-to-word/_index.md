@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to WORD - Combine SPREADSHEETML to WORD in Python
 url: /python-net/merger/merge-spreadsheetml-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to WORD saveformat. Python Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to WORD in Python., Free Online Python Merge SPREADSHEETML to word., Python Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to WORD saveformat. Python Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to WORD in Python., Python Merge SPREADSHEETML to word., Python Combine SPREADSHEETML to WORD., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to WORD? With Aspose.Cells for Python via .NET libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to WORD in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to WORD in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to WORD. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to WORD in Python" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to WORD in Python" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to WORD via Python" %}}
 

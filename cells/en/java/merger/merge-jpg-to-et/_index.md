@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ET - Combine JPG to ET in Java
 url: /java/merger/merge-jpg-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to ET saveformat. Java Combine JPG to ET format. Merge JPG to ET in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to ET in Java., Free Online Java Merge JPG to et., Java Combine JPG to ET Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPG to ET saveformat. Java Combine JPG to ET format. Merge JPG to ET in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to ET in Java., Java Merge JPG to et., Java Combine JPG to ET., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPG to ET? With Aspose.Cells for Java library, you can easily mer
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to ET in Java" %}}
 
 The following example demonstrates how to merge JPG to ET in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPG to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to ET in Java" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPG to ET in Java" InputFormat="jpg" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to ET via Java" %}}
 

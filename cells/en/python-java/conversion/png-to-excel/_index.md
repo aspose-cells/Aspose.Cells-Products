@@ -1,7 +1,7 @@
 ---
-title: Python PNG to EXCEL - Online PNG to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to EXCEL saveformat. Python PNG to EXCEL format. Save PNG to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to EXCEL saveformat., Free Online PNG to EXCEL Python., Python Convert PNG to EXCEL]
+title: Python PNG to EXCEL - PNG to EXCEL Converter
+description: Aspose Excel. Python Aspose.Cells. PNG to EXCEL in Python. Python Convert PNG to EXCEL saveformat. Python PNG to EXCEL format. Save PNG to EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PNG to EXCEL in Python., Python PNG to EXCEL saveformat., PNG to EXCEL Python., Python Convert PNG to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert PNG to EXCEL? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to EXCEL in Python" %}}
 
 The following example demonstrates how to convert PNG to EXCEL in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to EXCEL. Upload your PNG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to EXCEL via Python" %}}
 

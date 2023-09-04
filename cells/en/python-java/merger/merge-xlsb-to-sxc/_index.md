@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SXC - Combine XLSB to SXC in Python
 url: /python-java/merger/merge-xlsb-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to SXC saveformat. Python Combine XLSB to SXC format. Merge XLSB to SXC in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SXC in Python., Free Online Python Merge XLSB to sxc., Python Combine XLSB to SXC Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSB to SXC saveformat. Python Combine XLSB to SXC format. Merge XLSB to SXC in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SXC in Python., Python Merge XLSB to sxc., Python Combine XLSB to SXC., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSB to SXC? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to SXC in Python" %}}
 
 The following example demonstrates how to merge XLSB to SXC in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSB to SXC. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to SXC in Python" InputFormat="xlsb" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to SXC in Python" InputFormat="xlsb" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to SXC via Python" %}}
 

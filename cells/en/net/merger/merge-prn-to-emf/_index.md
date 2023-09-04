@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to EMF - Combine PRN to EMF in C#
 url: /net/merger/merge-prn-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to EMF saveformat. C# Combine PRN to EMF format. Merge PRN to EMF in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to EMF in C#., Free Online C# Merge PRN to emf., C# Combine PRN to EMF Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PRN to EMF saveformat. C# Combine PRN to EMF format. Merge PRN to EMF in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to EMF in C#., C# Merge PRN to emf., C# Combine PRN to EMF., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to EMF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to EMF in C#" %}}
 
 The following example demonstrates how to merge PRN to EMF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to EMF in C#" InputFormat="prn" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PRN to EMF in C#" InputFormat="prn" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to EMF via C#" %}}
 

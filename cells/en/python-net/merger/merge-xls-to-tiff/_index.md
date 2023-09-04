@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to TIFF - Combine XLS to TIFF in Python
 url: /python-net/merger/merge-xls-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to TIFF saveformat. Python Combine XLS to TIFF format. Merge XLS to TIFF in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to TIFF in Python., Free Online Python Merge XLS to tiff., Python Combine XLS to TIFF Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to TIFF saveformat. Python Combine XLS to TIFF format. Merge XLS to TIFF in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to TIFF in Python., Python Merge XLS to tiff., Python Combine XLS to TIFF., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to TIFF? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to TIFF in Python" %}}
 
 The following example demonstrates how to merge XLS to TIFF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to TIFF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to TIFF in Python" InputFormat="xls" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLS to TIFF in Python" InputFormat="xls" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to TIFF via Python" %}}
 

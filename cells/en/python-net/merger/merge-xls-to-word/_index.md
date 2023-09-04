@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to WORD - Combine XLS to WORD in Python
 url: /python-net/merger/merge-xls-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to WORD saveformat. Python Combine XLS to WORD format. Merge XLS to WORD in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to WORD in Python., Free Online Python Merge XLS to word., Python Combine XLS to WORD Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to WORD saveformat. Python Combine XLS to WORD format. Merge XLS to WORD in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to WORD in Python., Python Merge XLS to word., Python Combine XLS to WORD., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to WORD? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to WORD in Python" %}}
 
 The following example demonstrates how to merge XLS to WORD in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to WORD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to WORD in Python" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLS to WORD in Python" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to WORD via Python" %}}
 

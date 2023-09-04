@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PPTX - Combine XLTX to PPTX in Java
 url: /java/merger/merge-xltx-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to PPTX saveformat. Java Combine XLTX to PPTX format. Merge XLTX to PPTX in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to PPTX in Java., Free Online Java Merge XLTX to pptx., Java Combine XLTX to PPTX Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLTX to PPTX saveformat. Java Combine XLTX to PPTX format. Merge XLTX to PPTX in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to PPTX in Java., Java Merge XLTX to pptx., Java Combine XLTX to PPTX., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLTX to PPTX? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to PPTX in Java" %}}
 
 The following example demonstrates how to merge XLTX to PPTX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLTX to PPTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to PPTX in Java" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to PPTX in Java" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to PPTX via Java" %}}
 

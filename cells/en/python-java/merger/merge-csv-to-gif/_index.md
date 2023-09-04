@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to GIF - Combine CSV to GIF in Python
 url: /python-java/merger/merge-csv-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to GIF saveformat. Python Combine CSV to GIF format. Merge CSV to GIF in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to GIF in Python., Free Online Python Merge CSV to gif., Python Combine CSV to GIF Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge CSV to GIF saveformat. Python Combine CSV to GIF format. Merge CSV to GIF in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to GIF in Python., Python Merge CSV to gif., Python Combine CSV to GIF., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge CSV to GIF? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to GIF in Python" %}}
 
 The following example demonstrates how to merge CSV to GIF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge CSV to GIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to GIF in Python" InputFormat="csv" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge CSV to GIF in Python" InputFormat="csv" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to GIF via Python" %}}
 

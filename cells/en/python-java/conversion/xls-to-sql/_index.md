@@ -1,7 +1,7 @@
 ---
-title: Python XLS to SQL - Online XLS to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to SQL saveformat. Python XLS to SQL format. Save XLS to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to SQL saveformat., Free Online XLS to SQL Python., Python Convert XLS to SQL]
+title: Python XLS to SQL - XLS to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to SQL in Python. Python Convert XLS to SQL saveformat. Python XLS to SQL format. Save XLS to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to SQL in Python., Python XLS to SQL saveformat., XLS to SQL Python., Python Convert XLS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLS to SQL? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to SQL in Python" %}}
 
 The following example demonstrates how to convert XLS to SQL in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to SQL. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to SQL via Python" %}}
 

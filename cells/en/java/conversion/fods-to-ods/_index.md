@@ -1,7 +1,7 @@
 ---
-title: Java FODS to ODS - Online FODS to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to ODS saveformat. Java FODS to ODS format. Save FODS to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to ODS saveformat., Free Online FODS to ODS Java., Java Convert FODS to ODS]
+title: Java FODS to ODS - FODS to ODS Converter
+description: Aspose Excel. Java Aspose.Cells. FODS to ODS in Java. Java Convert FODS to ODS saveformat. Java FODS to ODS format. Save FODS to ODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., FODS to ODS in Java., Java FODS to ODS saveformat., FODS to ODS Java., Java Convert FODS to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert FODS to ODS? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to ODS in Java" %}}
 
 The following example demonstrates how to convert FODS to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to ODS. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to ODS via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to ETT - Combine XLTX to ETT in C#
 url: /net/merger/merge-xltx-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to ETT saveformat. C# Combine XLTX to ETT format. Merge XLTX to ETT in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to ETT in C#., Free Online C# Merge XLTX to ett., C# Combine XLTX to ETT Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLTX to ETT saveformat. C# Combine XLTX to ETT format. Merge XLTX to ETT in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to ETT in C#., C# Merge XLTX to ett., C# Combine XLTX to ETT., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to ETT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to ETT in C#" %}}
 
 The following example demonstrates how to merge XLTX to ETT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTX to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to ETT in C#" InputFormat="xltx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to ETT in C#" InputFormat="xltx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to ETT via C#" %}}
 

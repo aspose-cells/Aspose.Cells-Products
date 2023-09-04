@@ -1,7 +1,7 @@
 ---
-title: Java XML to XLTM - Online XML to XLTM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to XLTM saveformat. Java XML to XLTM format. Save XML to XLTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to XLTM saveformat., Free Online XML to XLTM Java., Java Convert XML to XLTM]
+title: Java XML to XLTM - XML to XLTM Converter
+description: Aspose Excel. Java Aspose.Cells. XML to XLTM in Java. Java Convert XML to XLTM saveformat. Java XML to XLTM format. Save XML to XLTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XML to XLTM in Java., Java XML to XLTM saveformat., XML to XLTM Java., Java Convert XML to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XML to XLTM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to XLTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to XLTM in Java" %}}
 
 The following example demonstrates how to convert XML to XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XML to XLTM. Upload your XML file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to XLTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XML to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to XLTM via Java" %}}
 

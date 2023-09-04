@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLT - Combine FODS to XLT in Java
 url: /java/merger/merge-fods-to-xlt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLT saveformat. Java Combine FODS to XLT format. Merge FODS to XLT in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLT in Java., Free Online Java Merge FODS to xlt., Java Combine FODS to XLT Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge FODS to XLT saveformat. Java Combine FODS to XLT format. Merge FODS to XLT in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLT in Java., Java Merge FODS to xlt., Java Combine FODS to XLT., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge FODS to XLT? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to XLT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to XLT in Java" %}}
 
 The following example demonstrates how to merge FODS to XLT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge FODS to XLT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to XLT in Java" InputFormat="fods" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge FODS to XLT in Java" InputFormat="fods" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to XLT via Java" %}}
 

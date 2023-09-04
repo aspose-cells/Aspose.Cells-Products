@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to GIF - Online JPEG to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to GIF saveformat. C++ JPEG to GIF format. Save JPEG to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to GIF saveformat., Free Online JPEG to GIF C++., C++ Convert JPEG to GIF]
+title: C++ JPEG to GIF - JPEG to GIF Converter
+description: Aspose Excel. C++ Aspose.Cells. JPEG to GIF in C++. C++ Convert JPEG to GIF saveformat. C++ JPEG to GIF format. Save JPEG to GIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to GIF in C++., C++ JPEG to GIF saveformat., JPEG to GIF C++., C++ Convert JPEG to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to GIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to GIF in C++" %}}
 
 The following example demonstrates how to convert JPEG to GIF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPEG to GIF. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to GIF via C++" %}}
 

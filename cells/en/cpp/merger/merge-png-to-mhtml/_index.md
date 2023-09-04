@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MHTML - Combine PNG to MHTML in C++
 url: /cpp/merger/merge-png-to-mhtml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to MHTML saveformat. C++ Combine PNG to MHTML format. Merge PNG to MHTML in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHTML in C++., Free Online C++ Merge PNG to mhtml., C++ Combine PNG to MHTML Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge PNG to MHTML saveformat. C++ Combine PNG to MHTML format. Merge PNG to MHTML in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHTML in C++., C++ Merge PNG to mhtml., C++ Combine PNG to MHTML., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to MHTML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to MHTML in C++" %}}
 
 The following example demonstrates how to merge PNG to MHTML in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PNG to MHTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to MHTML in C++" InputFormat="png" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge PNG to MHTML in C++" InputFormat="png" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to MHTML via C++" %}}
 

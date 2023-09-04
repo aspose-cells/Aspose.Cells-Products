@@ -1,7 +1,7 @@
 ---
-title: Java HTML to PRN - Online HTML to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to PRN saveformat. Java HTML to PRN format. Save HTML to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to PRN saveformat., Free Online HTML to PRN Java., Java Convert HTML to PRN]
+title: Java HTML to PRN - HTML to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to PRN in Java. Java Convert HTML to PRN saveformat. Java HTML to PRN format. Save HTML to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to PRN in Java., Java HTML to PRN saveformat., HTML to PRN Java., Java Convert HTML to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to PRN? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to PRN in Java" %}}
 
 The following example demonstrates how to convert HTML to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to PRN. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PRN via Java" %}}
 

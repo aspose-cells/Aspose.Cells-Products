@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to IMAGE - Online XLTM to IMAGE Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to IMAGE saveformat. Java XLTM to IMAGE format. Save XLTM to IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to IMAGE saveformat., Free Online XLTM to IMAGE Java., Java Convert XLTM to IMAGE]
+title: Java XLTM to IMAGE - XLTM to IMAGE Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to IMAGE in Java. Java Convert XLTM to IMAGE saveformat. Java XLTM to IMAGE format. Save XLTM to IMAGE Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to IMAGE in Java., Java XLTM to IMAGE saveformat., XLTM to IMAGE Java., Java Convert XLTM to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to IMAGE? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to IMAGE in Java" %}}
 
 The following example demonstrates how to convert XLTM to IMAGE in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to IMAGE. Upload your XLTM file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to IMAGE via Java" %}}
 

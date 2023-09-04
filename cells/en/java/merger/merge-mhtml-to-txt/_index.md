@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TXT - Combine MHTML to TXT in Java
 url: /java/merger/merge-mhtml-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to TXT saveformat. Java Combine MHTML to TXT format. Merge MHTML to TXT in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to TXT in Java., Free Online Java Merge MHTML to txt., Java Combine MHTML to TXT Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to TXT saveformat. Java Combine MHTML to TXT format. Merge MHTML to TXT in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to TXT in Java., Java Merge MHTML to txt., Java Combine MHTML to TXT., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to TXT? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to TXT in Java" %}}
 
 The following example demonstrates how to merge MHTML to TXT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to TXT. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to TXT in Java" InputFormat="mhtml" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to TXT in Java" InputFormat="mhtml" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to TXT via Java" %}}
 

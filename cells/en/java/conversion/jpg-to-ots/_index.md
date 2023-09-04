@@ -1,7 +1,7 @@
 ---
-title: Java JPG to OTS - Online JPG to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to OTS saveformat. Java JPG to OTS format. Save JPG to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to OTS saveformat., Free Online JPG to OTS Java., Java Convert JPG to OTS]
+title: Java JPG to OTS - JPG to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. JPG to OTS in Java. Java Convert JPG to OTS saveformat. Java JPG to OTS format. Save JPG to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to OTS in Java., Java JPG to OTS saveformat., JPG to OTS Java., Java Convert JPG to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPG to OTS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to OTS in Java" %}}
 
 The following example demonstrates how to convert JPG to OTS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to OTS. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to OTS via Java" %}}
 

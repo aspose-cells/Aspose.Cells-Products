@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TABDELIMITED - Combine MHT to TABDELIMITED in Python
 url: /python-net/merger/merge-mht-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to TABDELIMITED saveformat. Python Combine MHT to TABDELIMITED format. Merge MHT to TABDELIMITED in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to TABDELIMITED in Python., Free Online Python Merge MHT to tabdelimited., Python Combine MHT to TABDELIMITED Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHT to TABDELIMITED saveformat. Python Combine MHT to TABDELIMITED format. Merge MHT to TABDELIMITED in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to TABDELIMITED in Python., Python Merge MHT to tabdelimited., Python Combine MHT to TABDELIMITED., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHT to TABDELIMITED? With Aspose.Cells for Python via .NET librar
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to merge MHT to TABDELIMITED in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHT to TABDELIMITED. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to TABDELIMITED in Python" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHT to TABDELIMITED in Python" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to TABDELIMITED via Python" %}}
 

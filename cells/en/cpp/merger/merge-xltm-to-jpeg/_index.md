@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JPEG - Combine XLTM to JPEG in C++
 url: /cpp/merger/merge-xltm-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to JPEG saveformat. C++ Combine XLTM to JPEG format. Merge XLTM to JPEG in C++. XLTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to JPEG in C++., Free Online C++ Merge XLTM to jpeg., C++ Combine XLTM to JPEG Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLTM to JPEG saveformat. C++ Combine XLTM to JPEG format. Merge XLTM to JPEG in C++. XLTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to JPEG in C++., C++ Merge XLTM to jpeg., C++ Combine XLTM to JPEG., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to JPEG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to JPEG in C++" %}}
 
 The following example demonstrates how to merge XLTM to JPEG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTM to JPEG. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to JPEG in C++" InputFormat="xltm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to JPEG in C++" InputFormat="xltm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to JPEG via C++" %}}
 

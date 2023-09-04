@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MARKDOWN - Combine XML to MARKDOWN in Java
 url: /java/merger/merge-xml-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to MARKDOWN saveformat. Java Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to MARKDOWN in Java., Free Online Java Merge XML to markdown., Java Combine XML to MARKDOWN Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XML to MARKDOWN saveformat. Java Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to MARKDOWN in Java., Java Merge XML to markdown., Java Combine XML to MARKDOWN., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XML to MARKDOWN? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to MARKDOWN in Java" %}}
 
 The following example demonstrates how to merge XML to MARKDOWN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XML to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to MARKDOWN in Java" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XML to MARKDOWN in Java" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to MARKDOWN via Java" %}}
 

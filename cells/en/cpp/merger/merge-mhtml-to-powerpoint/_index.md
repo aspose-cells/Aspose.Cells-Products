@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to POWERPOINT - Combine MHTML to POWERPOINT in C++
 url: /cpp/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to POWERPOINT saveformat. C++ Combine MHTML to POWERPOINT format. Merge MHTML to POWERPOINT in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT in C++., Free Online C++ Merge MHTML to powerpoint., C++ Combine MHTML to POWERPOINT Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge MHTML to POWERPOINT saveformat. C++ Combine MHTML to POWERPOINT format. Merge MHTML to POWERPOINT in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT in C++., C++ Merge MHTML to powerpoint., C++ Combine MHTML to POWERPOINT., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to POWERPOINT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to POWERPOINT in C++" %}}
 
 The following example demonstrates how to merge MHTML to POWERPOINT in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to POWERPOINT. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to POWERPOINT in C++" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to POWERPOINT in C++" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to POWERPOINT via C++" %}}
 

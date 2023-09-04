@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLSB - Combine JPEG to XLSB in Python
 url: /python-net/merger/merge-jpeg-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to XLSB saveformat. Python Combine JPEG to XLSB format. Merge JPEG to XLSB in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., Free Online Python Merge JPEG to xlsb., Python Combine JPEG to XLSB Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPEG to XLSB saveformat. Python Combine JPEG to XLSB format. Merge JPEG to XLSB in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., Python Merge JPEG to xlsb., Python Combine JPEG to XLSB., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPEG to XLSB? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to XLSB in Python" %}}
 
 The following example demonstrates how to merge JPEG to XLSB in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPEG to XLSB. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to XLSB in Python" InputFormat="jpg" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to XLSB in Python" InputFormat="jpg" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to XLSB via Python" %}}
 

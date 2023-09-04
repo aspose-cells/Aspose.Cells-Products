@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to WORD - Combine SPREADSHEETML to WORD in Java
 url: /java/merger/merge-spreadsheetml-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to WORD saveformat. Java Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to WORD in Java., Free Online Java Merge SPREADSHEETML to word., Java Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge SPREADSHEETML to WORD saveformat. Java Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to WORD in Java., Java Merge SPREADSHEETML to word., Java Combine SPREADSHEETML to WORD., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge SPREADSHEETML to WORD? With Aspose.Cells for Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to WORD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to WORD in Java" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to WORD in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge SPREADSHEETML to WORD. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to WORD in Java" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to WORD in Java" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to WORD via Java" %}}
 

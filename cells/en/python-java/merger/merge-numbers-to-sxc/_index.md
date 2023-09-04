@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SXC - Combine NUMBERS to SXC in Python
 url: /python-java/merger/merge-numbers-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to SXC saveformat. Python Combine NUMBERS to SXC format. Merge NUMBERS to SXC in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SXC in Python., Free Online Python Merge NUMBERS to sxc., Python Combine NUMBERS to SXC Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to SXC saveformat. Python Combine NUMBERS to SXC format. Merge NUMBERS to SXC in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SXC in Python., Python Merge NUMBERS to sxc., Python Combine NUMBERS to SXC., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to SXC? With Aspose.Cells for Python via Java library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to SXC in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to SXC in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to SXC. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to SXC in Python" InputFormat="numbers" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to SXC in Python" InputFormat="numbers" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to SXC via Python" %}}
 

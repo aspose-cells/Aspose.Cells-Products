@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to GIF - Online XLSB to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to GIF saveformat. Python XLSB to GIF format. Save XLSB to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to GIF saveformat., Free Online XLSB to GIF Python., Python Convert XLSB to GIF]
+title: Python XLSB to GIF - XLSB to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to GIF in Python. Python Convert XLSB to GIF saveformat. Python XLSB to GIF format. Save XLSB to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to GIF in Python., Python XLSB to GIF saveformat., XLSB to GIF Python., Python Convert XLSB to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSB to GIF? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in Python" %}}
 
 The following example demonstrates how to convert XLSB to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to GIF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to GIF via Python" %}}
 

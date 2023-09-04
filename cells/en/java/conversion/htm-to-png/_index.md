@@ -1,7 +1,7 @@
 ---
-title: Java HTM to PNG - Online HTM to PNG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to PNG saveformat. Java HTM to PNG format. Save HTM to PNG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to PNG saveformat., Free Online HTM to PNG Java., Java Convert HTM to PNG]
+title: Java HTM to PNG - HTM to PNG Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to PNG in Java. Java Convert HTM to PNG saveformat. Java HTM to PNG format. Save HTM to PNG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to PNG in Java., Java HTM to PNG saveformat., HTM to PNG Java., Java Convert HTM to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to PNG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to PNG in Java" %}}
 
 The following example demonstrates how to convert HTM to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to PNG. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to PNG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to PNG via Java" %}}
 

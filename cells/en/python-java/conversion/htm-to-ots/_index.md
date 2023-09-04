@@ -1,7 +1,7 @@
 ---
-title: Python HTM to OTS - Online HTM to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to OTS saveformat. Python HTM to OTS format. Save HTM to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to OTS saveformat., Free Online HTM to OTS Python., Python Convert HTM to OTS]
+title: Python HTM to OTS - HTM to OTS Converter
+description: Aspose Excel. Python Aspose.Cells. HTM to OTS in Python. Python Convert HTM to OTS saveformat. Python HTM to OTS format. Save HTM to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTM to OTS in Python., Python HTM to OTS saveformat., HTM to OTS Python., Python Convert HTM to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTM to OTS? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to OTS in Python" %}}
 
 The following example demonstrates how to convert HTM to OTS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to OTS. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to OTS via Python" %}}
 

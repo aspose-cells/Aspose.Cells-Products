@@ -1,7 +1,7 @@
 ---
-title: Java XML to PPTX - Online XML to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to PPTX saveformat. Java XML to PPTX format. Save XML to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to PPTX saveformat., Free Online XML to PPTX Java., Java Convert XML to PPTX]
+title: Java XML to PPTX - XML to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. XML to PPTX in Java. Java Convert XML to PPTX saveformat. Java XML to PPTX format. Save XML to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XML to PPTX in Java., Java XML to PPTX saveformat., XML to PPTX Java., Java Convert XML to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XML to PPTX? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to PPTX in Java" %}}
 
 The following example demonstrates how to convert XML to PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XML to PPTX. Upload your XML file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XML to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to PPTX via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python TXT to FODS - Online TXT to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to FODS saveformat. Python TXT to FODS format. Save TXT to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to FODS saveformat., Free Online TXT to FODS Python., Python Convert TXT to FODS]
+title: Python TXT to FODS - TXT to FODS Converter
+description: Aspose Excel. Python Aspose.Cells. TXT to FODS in Python. Python Convert TXT to FODS saveformat. Python TXT to FODS format. Save TXT to FODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., TXT to FODS in Python., Python TXT to FODS saveformat., TXT to FODS Python., Python Convert TXT to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert TXT to FODS? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to FODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to FODS in Python" %}}
 
 The following example demonstrates how to convert TXT to FODS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to FODS. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to FODS via Python" %}}
 

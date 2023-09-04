@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PPTX - Combine SPREADSHEETML to PPTX in Python
 url: /python-java/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to PPTX saveformat. Python Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in Python., Free Online Python Merge SPREADSHEETML to pptx., Python Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to PPTX saveformat. Python Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in Python., Python Merge SPREADSHEETML to pptx., Python Combine SPREADSHEETML to PPTX., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to PPTX? With Aspose.Cells for Python via Java libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to PPTX in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to PPTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to PPTX. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to PPTX in Python" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to PPTX in Python" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to PPTX via Python" %}}
 

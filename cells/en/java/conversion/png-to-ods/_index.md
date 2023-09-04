@@ -1,7 +1,7 @@
 ---
-title: Java PNG to ODS - Online PNG to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to ODS saveformat. Java PNG to ODS format. Save PNG to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to ODS saveformat., Free Online PNG to ODS Java., Java Convert PNG to ODS]
+title: Java PNG to ODS - PNG to ODS Converter
+description: Aspose Excel. Java Aspose.Cells. PNG to ODS in Java. Java Convert PNG to ODS saveformat. Java PNG to ODS format. Save PNG to ODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., PNG to ODS in Java., Java PNG to ODS saveformat., PNG to ODS Java., Java Convert PNG to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert PNG to ODS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to ODS in Java" %}}
 
 The following example demonstrates how to convert PNG to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to ODS. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to ODS via Java" %}}
 

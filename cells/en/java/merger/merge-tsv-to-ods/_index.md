@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to ODS - Combine TSV to ODS in Java
 url: /java/merger/merge-tsv-to-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to ODS saveformat. Java Combine TSV to ODS format. Merge TSV to ODS in Java. TSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to ODS in Java., Free Online Java Merge TSV to ods., Java Combine TSV to ODS Online for Free., TSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TSV to ODS saveformat. Java Combine TSV to ODS format. Merge TSV to ODS in Java. TSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to ODS in Java., Java Merge TSV to ods., Java Combine TSV to ODS., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TSV to ODS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to ODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to ODS in Java" %}}
 
 The following example demonstrates how to merge TSV to ODS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TSV to ODS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to ODS in Java" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TSV to ODS in Java" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to ODS via Java" %}}
 

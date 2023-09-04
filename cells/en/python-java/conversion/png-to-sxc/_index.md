@@ -1,7 +1,7 @@
 ---
-title: Python PNG to SXC - Online PNG to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to SXC saveformat. Python PNG to SXC format. Save PNG to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to SXC saveformat., Free Online PNG to SXC Python., Python Convert PNG to SXC]
+title: Python PNG to SXC - PNG to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. PNG to SXC in Python. Python Convert PNG to SXC saveformat. Python PNG to SXC format. Save PNG to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PNG to SXC in Python., Python PNG to SXC saveformat., PNG to SXC Python., Python Convert PNG to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert PNG to SXC? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to SXC in Python" %}}
 
 The following example demonstrates how to convert PNG to SXC in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to SXC. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to SXC via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to TXT - Online XLSX to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to TXT saveformat. Java XLSX to TXT format. Save XLSX to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to TXT saveformat., Free Online XLSX to TXT Java., Java Convert XLSX to TXT]
+title: Java XLSX to TXT - XLSX to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to TXT in Java. Java Convert XLSX to TXT saveformat. Java XLSX to TXT format. Save XLSX to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to TXT in Java., Java XLSX to TXT saveformat., XLSX to TXT Java., Java Convert XLSX to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to TXT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to TXT in Java" %}}
 
 The following example demonstrates how to convert XLSX to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to TXT. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to TXT via Java" %}}
 

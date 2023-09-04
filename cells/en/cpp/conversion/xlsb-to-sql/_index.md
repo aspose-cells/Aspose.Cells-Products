@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to SQL - Online XLSB to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to SQL saveformat. C++ XLSB to SQL format. Save XLSB to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SQL saveformat., Free Online XLSB to SQL C++., C++ Convert XLSB to SQL]
+title: C++ XLSB to SQL - XLSB to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSB to SQL in C++. C++ Convert XLSB to SQL saveformat. C++ XLSB to SQL format. Save XLSB to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to SQL in C++., C++ XLSB to SQL saveformat., XLSB to SQL C++., C++ Convert XLSB to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to SQL in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to SQL in C++" %}}
 
 The following example demonstrates how to convert XLSB to SQL in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSB to SQL. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to SQL via C++" %}}
 

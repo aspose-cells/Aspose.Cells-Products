@@ -1,7 +1,7 @@
 ---
-title: Java SXC to PDF - Online SXC to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to PDF saveformat. Java SXC to PDF format. Save SXC to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to PDF saveformat., Free Online SXC to PDF Java., Java Convert SXC to PDF]
+title: Java SXC to PDF - SXC to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. SXC to PDF in Java. Java Convert SXC to PDF saveformat. Java SXC to PDF format. Save SXC to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SXC to PDF in Java., Java SXC to PDF saveformat., SXC to PDF Java., Java Convert SXC to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SXC to PDF? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to PDF in Java" %}}
 
 The following example demonstrates how to convert SXC to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to PDF. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to PDF via Java" %}}
 

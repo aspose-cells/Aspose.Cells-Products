@@ -1,7 +1,7 @@
 ---
-title: Java ODS to ET - Online ODS to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to ET saveformat. Java ODS to ET format. Save ODS to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to ET saveformat., Free Online ODS to ET Java., Java Convert ODS to ET]
+title: Java ODS to ET - ODS to ET Converter
+description: Aspose Excel. Java Aspose.Cells. ODS to ET in Java. Java Convert ODS to ET saveformat. Java ODS to ET format. Save ODS to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., ODS to ET in Java., Java ODS to ET saveformat., ODS to ET Java., Java Convert ODS to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert ODS to ET? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to ET in Java" %}}
 
 The following example demonstrates how to convert ODS to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to ET. Upload your ODS file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to ET via Java" %}}
 

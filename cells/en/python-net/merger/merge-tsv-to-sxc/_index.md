@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to SXC - Combine TSV to SXC in Python
 url: /python-net/merger/merge-tsv-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to SXC saveformat. Python Combine TSV to SXC format. Merge TSV to SXC in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to SXC in Python., Free Online Python Merge TSV to sxc., Python Combine TSV to SXC Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to SXC saveformat. Python Combine TSV to SXC format. Merge TSV to SXC in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to SXC in Python., Python Merge TSV to sxc., Python Combine TSV to SXC., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to SXC? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to SXC in Python" %}}
 
 The following example demonstrates how to merge TSV to SXC in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to SXC. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to SXC in Python" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TSV to SXC in Python" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to SXC via Python" %}}
 

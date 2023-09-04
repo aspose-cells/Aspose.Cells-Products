@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to HTML - Online JPG to HTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to HTML saveformat. C++ JPG to HTML format. Save JPG to HTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to HTML saveformat., Free Online JPG to HTML C++., C++ Convert JPG to HTML]
+title: C++ JPG to HTML - JPG to HTML Converter
+description: Aspose Excel. C++ Aspose.Cells. JPG to HTML in C++. C++ Convert JPG to HTML saveformat. C++ JPG to HTML format. Save JPG to HTML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPG to HTML in C++., C++ JPG to HTML saveformat., JPG to HTML C++., C++ Convert JPG to HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to HTML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to HTML in C++" %}}
 
 The following example demonstrates how to convert JPG to HTML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPG to HTML. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to HTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="html" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="html" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to HTML via C++" %}}
 

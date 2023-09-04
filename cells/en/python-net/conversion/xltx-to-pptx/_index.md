@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to PPTX - Online XLTX to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to PPTX saveformat. Python XLTX to PPTX format. Save XLTX to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to PPTX saveformat., Free Online XLTX to PPTX Python., Python Convert XLTX to PPTX]
+title: Python XLTX to PPTX - XLTX to PPTX Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to PPTX in Python. Python Convert XLTX to PPTX saveformat. Python XLTX to PPTX format. Save XLTX to PPTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to PPTX in Python., Python XLTX to PPTX saveformat., XLTX to PPTX Python., Python Convert XLTX to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTX to PPTX? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to PPTX in Python" %}}
 
 The following example demonstrates how to convert XLTX to PPTX in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTX to PPTX. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to PPTX" %}}
 

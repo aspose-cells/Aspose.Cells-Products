@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLSM - Combine XLSM to XLSM in C++
 url: /cpp/merger/merge-xlsm-to-xlsm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to XLSM saveformat. C++ Combine XLSM to XLSM format. Merge XLSM to XLSM in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to XLSM in C++., Free Online C++ Merge XLSM to xlsm., C++ Combine XLSM to XLSM Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSM to XLSM saveformat. C++ Combine XLSM to XLSM format. Merge XLSM to XLSM in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to XLSM in C++., C++ Merge XLSM to xlsm., C++ Combine XLSM to XLSM., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to XLSM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to XLSM in C++" %}}
 
 The following example demonstrates how to merge XLSM to XLSM in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSM to XLSM. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to XLSM in C++" InputFormat="xlsm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to XLSM in C++" InputFormat="xlsm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to XLSM via C++" %}}
 

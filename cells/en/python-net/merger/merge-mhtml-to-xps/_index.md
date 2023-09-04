@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XPS - Combine MHTML to XPS in Python
 url: /python-net/merger/merge-mhtml-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XPS saveformat. Python Combine MHTML to XPS format. Merge MHTML to XPS in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XPS in Python., Free Online Python Merge MHTML to xps., Python Combine MHTML to XPS Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHTML to XPS saveformat. Python Combine MHTML to XPS format. Merge MHTML to XPS in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XPS in Python., Python Merge MHTML to xps., Python Combine MHTML to XPS., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHTML to XPS? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to XPS in Python" %}}
 
 The following example demonstrates how to merge MHTML to XPS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHTML to XPS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to XPS in Python" InputFormat="mhtml" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to XPS in Python" InputFormat="mhtml" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to XPS via Python" %}}
 

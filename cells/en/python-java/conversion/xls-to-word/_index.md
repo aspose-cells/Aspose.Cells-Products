@@ -1,7 +1,7 @@
 ---
-title: Python XLS to WORD - Online XLS to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to WORD saveformat. Python XLS to WORD format. Save XLS to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to WORD saveformat., Free Online XLS to WORD Python., Python Convert XLS to WORD]
+title: Python XLS to WORD - XLS to WORD Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to WORD in Python. Python Convert XLS to WORD saveformat. Python XLS to WORD format. Save XLS to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to WORD in Python., Python XLS to WORD saveformat., XLS to WORD Python., Python Convert XLS to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLS to WORD? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to WORD in Python" %}}
 
 The following example demonstrates how to convert XLS to WORD in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to WORD. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to WORD via Python" %}}
 

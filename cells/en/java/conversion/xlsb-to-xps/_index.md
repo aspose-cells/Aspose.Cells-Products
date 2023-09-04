@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to XPS - Online XLSB to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to XPS saveformat. Java XLSB to XPS format. Save XLSB to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to XPS saveformat., Free Online XLSB to XPS Java., Java Convert XLSB to XPS]
+title: Java XLSB to XPS - XLSB to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. XLSB to XPS in Java. Java Convert XLSB to XPS saveformat. Java XLSB to XPS format. Save XLSB to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSB to XPS in Java., Java XLSB to XPS saveformat., XLSB to XPS Java., Java Convert XLSB to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSB to XPS? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XPS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XPS in Java" %}}
 
 The following example demonstrates how to convert XLSB to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to XPS. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XPS via Java" %}}
 

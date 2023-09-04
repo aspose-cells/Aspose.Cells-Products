@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TSV - Combine XLSM to TSV in C++
 url: /cpp/merger/merge-xlsm-to-tsv/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to TSV saveformat. C++ Combine XLSM to TSV format. Merge XLSM to TSV in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to TSV in C++., Free Online C++ Merge XLSM to tsv., C++ Combine XLSM to TSV Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSM to TSV saveformat. C++ Combine XLSM to TSV format. Merge XLSM to TSV in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to TSV in C++., C++ Merge XLSM to tsv., C++ Combine XLSM to TSV., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to TSV in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to TSV in C++" %}}
 
 The following example demonstrates how to merge XLSM to TSV in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSM to TSV. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to TSV in C++" InputFormat="xlsm" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to TSV in C++" InputFormat="xlsm" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to TSV via C++" %}}
 

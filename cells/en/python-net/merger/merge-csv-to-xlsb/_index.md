@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLSB - Combine CSV to XLSB in Python
 url: /python-net/merger/merge-csv-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to XLSB saveformat. Python Combine CSV to XLSB format. Merge CSV to XLSB in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLSB in Python., Free Online Python Merge CSV to xlsb., Python Combine CSV to XLSB Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge CSV to XLSB saveformat. Python Combine CSV to XLSB format. Merge CSV to XLSB in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLSB in Python., Python Merge CSV to xlsb., Python Combine CSV to XLSB., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge CSV to XLSB? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to XLSB in Python" %}}
 
 The following example demonstrates how to merge CSV to XLSB in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge CSV to XLSB. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to XLSB in Python" InputFormat="csv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge CSV to XLSB in Python" InputFormat="csv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to XLSB via Python" %}}
 

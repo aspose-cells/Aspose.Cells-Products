@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to DIF - Combine SPREADSHEETML to DIF in C++
 url: /cpp/merger/merge-spreadsheetml-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to DIF saveformat. C++ Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to DIF in C++., Free Online C++ Merge SPREADSHEETML to dif., C++ Combine SPREADSHEETML to DIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge SPREADSHEETML to DIF saveformat. C++ Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to DIF in C++., C++ Merge SPREADSHEETML to dif., C++ Combine SPREADSHEETML to DIF., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to DIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to DIF in C++" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to DIF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to DIF. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to DIF in C++" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to DIF in C++" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to DIF via C++" %}}
 

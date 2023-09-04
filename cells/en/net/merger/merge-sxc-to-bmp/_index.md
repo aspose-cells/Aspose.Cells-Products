@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to BMP - Combine SXC to BMP in C#
 url: /net/merger/merge-sxc-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to BMP saveformat. C# Combine SXC to BMP format. Merge SXC to BMP in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to BMP in C#., Free Online C# Merge SXC to bmp., C# Combine SXC to BMP Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SXC to BMP saveformat. C# Combine SXC to BMP format. Merge SXC to BMP in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to BMP in C#., C# Merge SXC to bmp., C# Combine SXC to BMP., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to BMP in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to BMP in C#" %}}
 
 The following example demonstrates how to merge SXC to BMP in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SXC to BMP. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to BMP in C#" InputFormat="sxc" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SXC to BMP in C#" InputFormat="sxc" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to BMP via C#" %}}
 

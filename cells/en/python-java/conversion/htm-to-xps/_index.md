@@ -1,7 +1,7 @@
 ---
-title: Python HTM to XPS - Online HTM to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to XPS saveformat. Python HTM to XPS format. Save HTM to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to XPS saveformat., Free Online HTM to XPS Python., Python Convert HTM to XPS]
+title: Python HTM to XPS - HTM to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. HTM to XPS in Python. Python Convert HTM to XPS saveformat. Python HTM to XPS format. Save HTM to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTM to XPS in Python., Python HTM to XPS saveformat., HTM to XPS Python., Python Convert HTM to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTM to XPS? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to XPS in Python" %}}
 
 The following example demonstrates how to convert HTM to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to XPS. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to XPS via Python" %}}
 

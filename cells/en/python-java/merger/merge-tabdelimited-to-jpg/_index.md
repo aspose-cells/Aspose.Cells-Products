@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to JPG - Combine TABDELIMITED to JPG in Python
 url: /python-java/merger/merge-tabdelimited-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to JPG saveformat. Python Combine TABDELIMITED to JPG format. Merge TABDELIMITED to JPG in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to JPG in Python., Free Online Python Merge TABDELIMITED to jpg., Python Combine TABDELIMITED to JPG Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TABDELIMITED to JPG saveformat. Python Combine TABDELIMITED to JPG format. Merge TABDELIMITED to JPG in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to JPG in Python., Python Merge TABDELIMITED to jpg., Python Combine TABDELIMITED to JPG., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TABDELIMITED to JPG? With Aspose.Cells for Python via Java librar
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to JPG in Python" %}}
 
 The following example demonstrates how to merge TABDELIMITED to JPG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TABDELIMITED to JPG. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to JPG in Python" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to JPG in Python" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to JPG via Python" %}}
 

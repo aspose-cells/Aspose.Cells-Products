@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PRN - Combine XLSX to PRN in Java
 url: /java/merger/merge-xlsx-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to PRN saveformat. Java Combine XLSX to PRN format. Merge XLSX to PRN in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PRN in Java., Free Online Java Merge XLSX to prn., Java Combine XLSX to PRN Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSX to PRN saveformat. Java Combine XLSX to PRN format. Merge XLSX to PRN in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PRN in Java., Java Merge XLSX to prn., Java Combine XLSX to PRN., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSX to PRN? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to PRN in Java" %}}
 
 The following example demonstrates how to merge XLSX to PRN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSX to PRN. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to PRN in Java" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to PRN in Java" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to PRN via Java" %}}
 

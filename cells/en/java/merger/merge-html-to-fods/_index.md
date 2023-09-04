@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to FODS - Combine HTML to FODS in Java
 url: /java/merger/merge-html-to-fods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to FODS saveformat. Java Combine HTML to FODS format. Merge HTML to FODS in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to FODS in Java., Free Online Java Merge HTML to fods., Java Combine HTML to FODS Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTML to FODS saveformat. Java Combine HTML to FODS format. Merge HTML to FODS in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to FODS in Java., Java Merge HTML to fods., Java Combine HTML to FODS., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTML to FODS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to FODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to FODS in Java" %}}
 
 The following example demonstrates how to merge HTML to FODS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTML to FODS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to FODS in Java" InputFormat="html" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTML to FODS in Java" InputFormat="html" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to FODS via Java" %}}
 

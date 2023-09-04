@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ODS - Combine TABDELIMITED to ODS in C#
 url: /net/merger/merge-tabdelimited-to-ods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to ODS saveformat. C# Combine TABDELIMITED to ODS format. Merge TABDELIMITED to ODS in C#. TABDELIMITED Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to ODS in C#., Free Online C# Merge TABDELIMITED to ods., C# Combine TABDELIMITED to ODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TABDELIMITED to ODS saveformat. C# Combine TABDELIMITED to ODS format. Merge TABDELIMITED to ODS in C#. TABDELIMITED Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to ODS in C#., C# Merge TABDELIMITED to ods., C# Combine TABDELIMITED to ODS., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to ODS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to ODS in C#" %}}
 
 The following example demonstrates how to merge TABDELIMITED to ODS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TABDELIMITED to ODS. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to ODS in C#" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to ODS in C#" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to ODS via C#" %}}
 

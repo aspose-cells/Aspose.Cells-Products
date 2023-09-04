@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to JSON - Combine SPREADSHEETML to JSON in Python
 url: /python-java/merger/merge-spreadsheetml-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to JSON saveformat. Python Combine SPREADSHEETML to JSON format. Merge SPREADSHEETML to JSON in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to JSON in Python., Free Online Python Merge SPREADSHEETML to json., Python Combine SPREADSHEETML to JSON Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to JSON saveformat. Python Combine SPREADSHEETML to JSON format. Merge SPREADSHEETML to JSON in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to JSON in Python., Python Merge SPREADSHEETML to json., Python Combine SPREADSHEETML to JSON., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to JSON? With Aspose.Cells for Python via Java libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to JSON in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to JSON in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to JSON. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to JSON in Python" InputFormat="xml" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to JSON in Python" InputFormat="xml" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to JSON via Python" %}}
 

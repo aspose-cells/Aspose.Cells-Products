@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to SXC - Combine IMAGE to SXC in Java
 url: /java/merger/merge-image-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to SXC saveformat. Java Combine IMAGE to SXC format. Merge IMAGE to SXC in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SXC in Java., Free Online Java Merge IMAGE to sxc., Java Combine IMAGE to SXC Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge IMAGE to SXC saveformat. Java Combine IMAGE to SXC format. Merge IMAGE to SXC in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SXC in Java., Java Merge IMAGE to sxc., Java Combine IMAGE to SXC., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge IMAGE to SXC? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to SXC in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to SXC in Java" %}}
 
 The following example demonstrates how to merge IMAGE to SXC in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge IMAGE to SXC. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to SXC in Java" InputFormat="png" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to SXC in Java" InputFormat="png" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to SXC via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MHTML - Combine PRN to MHTML in Python
 url: /python-net/merger/merge-prn-to-mhtml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to MHTML saveformat. Python Combine PRN to MHTML format. Merge PRN to MHTML in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHTML in Python., Free Online Python Merge PRN to mhtml., Python Combine PRN to MHTML Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PRN to MHTML saveformat. Python Combine PRN to MHTML format. Merge PRN to MHTML in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHTML in Python., Python Merge PRN to mhtml., Python Combine PRN to MHTML., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PRN to MHTML? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to MHTML in Python" %}}
 
 The following example demonstrates how to merge PRN to MHTML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PRN to MHTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to MHTML in Python" InputFormat="prn" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge PRN to MHTML in Python" InputFormat="prn" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to MHTML via Python" %}}
 

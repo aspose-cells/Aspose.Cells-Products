@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to TIFF - Online XLSM to TIFF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to TIFF saveformat. Java XLSM to TIFF format. Save XLSM to TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to TIFF saveformat., Free Online XLSM to TIFF Java., Java Convert XLSM to TIFF]
+title: Java XLSM to TIFF - XLSM to TIFF Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to TIFF in Java. Java Convert XLSM to TIFF saveformat. Java XLSM to TIFF format. Save XLSM to TIFF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to TIFF in Java., Java XLSM to TIFF saveformat., XLSM to TIFF Java., Java Convert XLSM to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to TIFF? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to TIFF in Java" %}}
 
 The following example demonstrates how to convert XLSM to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to TIFF. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to TIFF via Java" %}}
 

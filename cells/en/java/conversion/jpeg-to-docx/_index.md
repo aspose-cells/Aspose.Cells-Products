@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to DOCX - Online JPEG to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to DOCX saveformat. Java JPEG to DOCX format. Save JPEG to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to DOCX saveformat., Free Online JPEG to DOCX Java., Java Convert JPEG to DOCX]
+title: Java JPEG to DOCX - JPEG to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to DOCX in Java. Java Convert JPEG to DOCX saveformat. Java JPEG to DOCX format. Save JPEG to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to DOCX in Java., Java JPEG to DOCX saveformat., JPEG to DOCX Java., Java Convert JPEG to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to DOCX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to DOCX in Java" %}}
 
 The following example demonstrates how to convert JPEG to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to DOCX. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to DOCX via Java" %}}
 

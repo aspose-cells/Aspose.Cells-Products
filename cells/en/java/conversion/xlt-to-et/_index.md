@@ -1,7 +1,7 @@
 ---
-title: Java XLT to ET - Online XLT to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to ET saveformat. Java XLT to ET format. Save XLT to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to ET saveformat., Free Online XLT to ET Java., Java Convert XLT to ET]
+title: Java XLT to ET - XLT to ET Converter
+description: Aspose Excel. Java Aspose.Cells. XLT to ET in Java. Java Convert XLT to ET saveformat. Java XLT to ET format. Save XLT to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLT to ET in Java., Java XLT to ET saveformat., XLT to ET Java., Java Convert XLT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLT to ET? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to ET in Java" %}}
 
 The following example demonstrates how to convert XLT to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to ET. Upload your XLT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to ET via Java" %}}
 

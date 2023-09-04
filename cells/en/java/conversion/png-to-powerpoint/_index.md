@@ -1,7 +1,7 @@
 ---
-title: Java PNG to POWERPOINT - Online PNG to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to POWERPOINT saveformat. Java PNG to POWERPOINT format. Save PNG to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to POWERPOINT saveformat., Free Online PNG to POWERPOINT Java., Java Convert PNG to POWERPOINT]
+title: Java PNG to POWERPOINT - PNG to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. PNG to POWERPOINT in Java. Java Convert PNG to POWERPOINT saveformat. Java PNG to POWERPOINT format. Save PNG to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., PNG to POWERPOINT in Java., Java PNG to POWERPOINT saveformat., PNG to POWERPOINT Java., Java Convert PNG to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert PNG to POWERPOINT? With Aspose.Cells for Java library, you can 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to POWERPOINT in Java" %}}
 
 The following example demonstrates how to convert PNG to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to POWERPOINT. Upload your PNG file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to POWERPOINT via Java" %}}
 

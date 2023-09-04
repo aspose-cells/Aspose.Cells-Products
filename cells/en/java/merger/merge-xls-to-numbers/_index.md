@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to NUMBERS - Combine XLS to NUMBERS in Java
 url: /java/merger/merge-xls-to-numbers/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to NUMBERS saveformat. Java Combine XLS to NUMBERS format. Merge XLS to NUMBERS in Java. XLS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to NUMBERS in Java., Free Online Java Merge XLS to numbers., Java Combine XLS to NUMBERS Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLS to NUMBERS saveformat. Java Combine XLS to NUMBERS format. Merge XLS to NUMBERS in Java. XLS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to NUMBERS in Java., Java Merge XLS to numbers., Java Combine XLS to NUMBERS., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLS to NUMBERS? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to NUMBERS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to NUMBERS in Java" %}}
 
 The following example demonstrates how to merge XLS to NUMBERS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLS to NUMBERS. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to NUMBERS in Java" InputFormat="xls" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLS to NUMBERS in Java" InputFormat="xls" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to NUMBERS via Java" %}}
 

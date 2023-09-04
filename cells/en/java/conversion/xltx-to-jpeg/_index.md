@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to JPEG - Online XLTX to JPEG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to JPEG saveformat. Java XLTX to JPEG format. Save XLTX to JPEG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to JPEG saveformat., Free Online XLTX to JPEG Java., Java Convert XLTX to JPEG]
+title: Java XLTX to JPEG - XLTX to JPEG Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to JPEG in Java. Java Convert XLTX to JPEG saveformat. Java XLTX to JPEG format. Save XLTX to JPEG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to JPEG in Java., Java XLTX to JPEG saveformat., XLTX to JPEG Java., Java Convert XLTX to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to JPEG? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to JPEG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to JPEG in Java" %}}
 
 The following example demonstrates how to convert XLTX to JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to JPEG. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to JPEG via Java" %}}
 

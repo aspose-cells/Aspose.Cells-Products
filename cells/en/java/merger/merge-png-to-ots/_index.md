@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to OTS - Combine PNG to OTS in Java
 url: /java/merger/merge-png-to-ots/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to OTS saveformat. Java Combine PNG to OTS format. Merge PNG to OTS in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to OTS in Java., Free Online Java Merge PNG to ots., Java Combine PNG to OTS Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PNG to OTS saveformat. Java Combine PNG to OTS format. Merge PNG to OTS in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to OTS in Java., Java Merge PNG to ots., Java Combine PNG to OTS., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PNG to OTS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to OTS in Java" %}}
 
 The following example demonstrates how to merge PNG to OTS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PNG to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to OTS in Java" InputFormat="png" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PNG to OTS in Java" InputFormat="png" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to OTS via Java" %}}
 

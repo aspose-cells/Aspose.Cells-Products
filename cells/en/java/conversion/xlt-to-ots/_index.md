@@ -1,7 +1,7 @@
 ---
-title: Java XLT to OTS - Online XLT to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to OTS saveformat. Java XLT to OTS format. Save XLT to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to OTS saveformat., Free Online XLT to OTS Java., Java Convert XLT to OTS]
+title: Java XLT to OTS - XLT to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. XLT to OTS in Java. Java Convert XLT to OTS saveformat. Java XLT to OTS format. Save XLT to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLT to OTS in Java., Java XLT to OTS saveformat., XLT to OTS Java., Java Convert XLT to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLT to OTS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to OTS in Java" %}}
 
 The following example demonstrates how to convert XLT to OTS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to OTS. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to OTS via Java" %}}
 

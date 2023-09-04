@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsb File - Repair xlsb File Online for Free
+title: Python Repair xlsb File - Recover xlsb File
 url: /python-java/recovery/repair-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsb file. Free Online xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Free Online Repair a corrupted xlsb file., Python Recover xlsb file.]
+description: Aspose Excel. Python Aspose.Cells. Python Repair xlsb file. xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within Python application.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Repair a corrupted xlsb file., Python Recover xlsb file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -33,7 +33,7 @@ Need to repair xlsb file programmatically? Python developers can easily load & r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSB file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Sample Code to repair XLSB file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python library to repair XLSB file" %}}
 

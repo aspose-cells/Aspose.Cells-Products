@@ -1,8 +1,8 @@
 ---
-title: Python Repair xls File - Repair xls File Online for Free
+title: Python Repair xls File - Recover xls File
 url: /python-java/recovery/repair-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xls file. Free Online xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Free Online Repair a corrupted xls file., Python Recover xls file.]
+description: Aspose Excel. Python Aspose.Cells. Python Repair xls file. xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Python application.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Repair a corrupted xls file., Python Recover xls file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -33,7 +33,7 @@ Need to repair xls file programmatically? Python developers can easily load & re
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLS file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Sample Code to repair XLS file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python library to repair XLS file" %}}
 

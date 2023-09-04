@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to FODS - Combine TABDELIMITED to FODS in Python
 url: /python-net/merger/merge-tabdelimited-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to FODS saveformat. Python Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to FODS in Python., Free Online Python Merge TABDELIMITED to fods., Python Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TABDELIMITED to FODS saveformat. Python Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to FODS in Python., Python Merge TABDELIMITED to fods., Python Combine TABDELIMITED to FODS., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TABDELIMITED to FODS? With Aspose.Cells for Python via .NET libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to FODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to FODS in Python" %}}
 
 The following example demonstrates how to merge TABDELIMITED to FODS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TABDELIMITED to FODS. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to FODS in Python" InputFormat="tsv" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to FODS in Python" InputFormat="tsv" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to FODS via Python" %}}
 

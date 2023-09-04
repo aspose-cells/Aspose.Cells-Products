@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsm File - Repair xlsm File Online for Free
+title: Python Repair xlsm File - Recover xlsm File
 url: /python-net/recovery/repair-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsm file. Free Online xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Aspose Excel. Python Aspose.Cells. Python Repair xlsm file. xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within Python application.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Repair a corrupted xlsm file., Python Recover xlsm file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -33,7 +33,7 @@ Need to repair xlsm file programmatically? Python developers can easily load & r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSM file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Sample Code to repair XLSM file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python library to repair XLSM file" %}}
 

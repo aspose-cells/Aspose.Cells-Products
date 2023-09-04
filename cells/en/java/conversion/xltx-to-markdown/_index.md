@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to MARKDOWN - Online XLTX to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to MARKDOWN saveformat. Java XLTX to MARKDOWN format. Save XLTX to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to MARKDOWN saveformat., Free Online XLTX to MARKDOWN Java., Java Convert XLTX to MARKDOWN]
+title: Java XLTX to MARKDOWN - XLTX to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to MARKDOWN in Java. Java Convert XLTX to MARKDOWN saveformat. Java XLTX to MARKDOWN format. Save XLTX to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to MARKDOWN in Java., Java XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Java., Java Convert XLTX to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to MARKDOWN? With Aspose.Cells for Java library, you can e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert XLTX to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to MARKDOWN. Upload your XLTX file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to MARKDOWN via Java" %}}
 

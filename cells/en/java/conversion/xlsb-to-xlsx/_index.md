@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to XLSX - Online XLSB to XLSX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to XLSX saveformat. Java XLSB to XLSX format. Save XLSB to XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to XLSX saveformat., Free Online XLSB to XLSX Java., Java Convert XLSB to XLSX]
+title: Java XLSB to XLSX - XLSB to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. XLSB to XLSX in Java. Java Convert XLSB to XLSX saveformat. Java XLSB to XLSX format. Save XLSB to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSB to XLSX in Java., Java XLSB to XLSX saveformat., XLSB to XLSX Java., Java Convert XLSB to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSB to XLSX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XLSX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLSX in Java" %}}
 
 The following example demonstrates how to convert XLSB to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to XLSX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLSX via Java" %}}
 

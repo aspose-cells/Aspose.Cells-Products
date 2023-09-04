@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to WORD - Combine HTM to WORD in Python
 url: /python-net/merger/merge-htm-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to WORD saveformat. Python Combine HTM to WORD format. Merge HTM to WORD in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to WORD in Python., Free Online Python Merge HTM to word., Python Combine HTM to WORD Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to WORD saveformat. Python Combine HTM to WORD format. Merge HTM to WORD in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to WORD in Python., Python Merge HTM to word., Python Combine HTM to WORD., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to WORD? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to WORD in Python" %}}
 
 The following example demonstrates how to merge HTM to WORD in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to WORD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to WORD in Python" InputFormat="htm" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTM to WORD in Python" InputFormat="htm" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to WORD via Python" %}}
 

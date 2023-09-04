@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to JPEG - Combine TSV to JPEG in C#
 url: /net/merger/merge-tsv-to-jpeg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to JPEG saveformat. C# Combine TSV to JPEG format. Merge TSV to JPEG in C#. TSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to JPEG in C#., Free Online C# Merge TSV to jpeg., C# Combine TSV to JPEG Online for Free., TSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TSV to JPEG saveformat. C# Combine TSV to JPEG format. Merge TSV to JPEG in C#. TSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to JPEG in C#., C# Merge TSV to jpeg., C# Combine TSV to JPEG., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to JPEG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to JPEG in C#" %}}
 
 The following example demonstrates how to merge TSV to JPEG in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to JPEG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to JPEG in C#" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TSV to JPEG in C#" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to JPEG via C#" %}}
 

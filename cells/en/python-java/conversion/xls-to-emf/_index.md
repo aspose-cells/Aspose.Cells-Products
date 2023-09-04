@@ -1,7 +1,7 @@
 ---
-title: Python XLS to EMF - Online XLS to EMF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to EMF saveformat. Python XLS to EMF format. Save XLS to EMF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to EMF saveformat., Free Online XLS to EMF Python., Python Convert XLS to EMF]
+title: Python XLS to EMF - XLS to EMF Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to EMF in Python. Python Convert XLS to EMF saveformat. Python XLS to EMF format. Save XLS to EMF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to EMF in Python., Python XLS to EMF saveformat., XLS to EMF Python., Python Convert XLS to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLS to EMF? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to EMF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to EMF in Python" %}}
 
 The following example demonstrates how to convert XLS to EMF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to EMF. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to EMF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to EMF via Python" %}}
 

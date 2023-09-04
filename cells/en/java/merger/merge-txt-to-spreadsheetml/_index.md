@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SPREADSHEETML - Combine TXT to SPREADSHEETML in Java
 url: /java/merger/merge-txt-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to SPREADSHEETML saveformat. Java Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to SPREADSHEETML in Java., Free Online Java Merge TXT to spreadsheetml., Java Combine TXT to SPREADSHEETML Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TXT to SPREADSHEETML saveformat. Java Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to SPREADSHEETML in Java., Java Merge TXT to spreadsheetml., Java Combine TXT to SPREADSHEETML., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TXT to SPREADSHEETML? With Aspose.Cells for Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to merge TXT to SPREADSHEETML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TXT to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to SPREADSHEETML in Java" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TXT to SPREADSHEETML in Java" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to SPREADSHEETML via Java" %}}
 

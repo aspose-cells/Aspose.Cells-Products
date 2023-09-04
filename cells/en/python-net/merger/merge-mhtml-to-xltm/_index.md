@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLTM - Combine MHTML to XLTM in Python
 url: /python-net/merger/merge-mhtml-to-xltm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XLTM saveformat. Python Combine MHTML to XLTM format. Merge MHTML to XLTM in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XLTM in Python., Free Online Python Merge MHTML to xltm., Python Combine MHTML to XLTM Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHTML to XLTM saveformat. Python Combine MHTML to XLTM format. Merge MHTML to XLTM in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XLTM in Python., Python Merge MHTML to xltm., Python Combine MHTML to XLTM., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHTML to XLTM? With Aspose.Cells for Python via .NET library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to XLTM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to XLTM in Python" %}}
 
 The following example demonstrates how to merge MHTML to XLTM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHTML to XLTM. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to XLTM in Python" InputFormat="mhtml" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to XLTM in Python" InputFormat="mhtml" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to XLTM via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to TIFF - Combine SPREADSHEETML to TIFF in Python
 url: /python-net/merger/merge-spreadsheetml-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to TIFF saveformat. Python Combine SPREADSHEETML to TIFF format. Merge SPREADSHEETML to TIFF in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to TIFF in Python., Free Online Python Merge SPREADSHEETML to tiff., Python Combine SPREADSHEETML to TIFF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to TIFF saveformat. Python Combine SPREADSHEETML to TIFF format. Merge SPREADSHEETML to TIFF in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to TIFF in Python., Python Merge SPREADSHEETML to tiff., Python Combine SPREADSHEETML to TIFF., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to TIFF? With Aspose.Cells for Python via .NET libr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TIFF in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to TIFF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to TIFF. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to TIFF in Python" InputFormat="xml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to TIFF in Python" InputFormat="xml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to TIFF via Python" %}}
 

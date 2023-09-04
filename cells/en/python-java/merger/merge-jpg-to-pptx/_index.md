@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PPTX - Combine JPG to PPTX in Python
 url: /python-java/merger/merge-jpg-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to PPTX saveformat. Python Combine JPG to PPTX format. Merge JPG to PPTX in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PPTX in Python., Free Online Python Merge JPG to pptx., Python Combine JPG to PPTX Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to PPTX saveformat. Python Combine JPG to PPTX format. Merge JPG to PPTX in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PPTX in Python., Python Merge JPG to pptx., Python Combine JPG to PPTX., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to PPTX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to PPTX in Python" %}}
 
 The following example demonstrates how to merge JPG to PPTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to PPTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to PPTX in Python" InputFormat="jpg" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JPG to PPTX in Python" InputFormat="jpg" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to PPTX via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java HTM to SQL - Online HTM to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to SQL saveformat. Java HTM to SQL format. Save HTM to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to SQL saveformat., Free Online HTM to SQL Java., Java Convert HTM to SQL]
+title: Java HTM to SQL - HTM to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to SQL in Java. Java Convert HTM to SQL saveformat. Java HTM to SQL format. Save HTM to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to SQL in Java., Java HTM to SQL saveformat., HTM to SQL Java., Java Convert HTM to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to SQL? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to SQL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to SQL in Java" %}}
 
 The following example demonstrates how to convert HTM to SQL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to SQL. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to SQL via Java" %}}
 

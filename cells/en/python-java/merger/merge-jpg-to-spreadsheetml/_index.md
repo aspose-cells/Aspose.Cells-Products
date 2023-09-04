@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SPREADSHEETML - Combine JPG to SPREADSHEETML in Python
 url: /python-java/merger/merge-jpg-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to SPREADSHEETML saveformat. Python Combine JPG to SPREADSHEETML format. Merge JPG to SPREADSHEETML in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to SPREADSHEETML in Python., Free Online Python Merge JPG to spreadsheetml., Python Combine JPG to SPREADSHEETML Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to SPREADSHEETML saveformat. Python Combine JPG to SPREADSHEETML format. Merge JPG to SPREADSHEETML in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to SPREADSHEETML in Python., Python Merge JPG to spreadsheetml., Python Combine JPG to SPREADSHEETML., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to SPREADSHEETML? With Aspose.Cells for Python via Java libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge JPG to SPREADSHEETML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to SPREADSHEETML in Python" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JPG to SPREADSHEETML in Python" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to SPREADSHEETML via Python" %}}
 

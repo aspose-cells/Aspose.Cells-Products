@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MHTML - Combine MHTML to MHTML in Java
 url: /java/merger/merge-mhtml-to-mhtml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to MHTML saveformat. Java Combine MHTML to MHTML format. Merge MHTML to MHTML in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MHTML in Java., Free Online Java Merge MHTML to mhtml., Java Combine MHTML to MHTML Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to MHTML saveformat. Java Combine MHTML to MHTML format. Merge MHTML to MHTML in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MHTML in Java., Java Merge MHTML to mhtml., Java Combine MHTML to MHTML., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to MHTML? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to MHTML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to MHTML in Java" %}}
 
 The following example demonstrates how to merge MHTML to MHTML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to MHTML. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to MHTML in Java" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to MHTML in Java" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to MHTML via Java" %}}
 

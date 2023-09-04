@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to ODS - Online MHTML to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to ODS saveformat. Python MHTML to ODS format. Save MHTML to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to ODS saveformat., Free Online MHTML to ODS Python., Python Convert MHTML to ODS]
+title: Python MHTML to ODS - MHTML to ODS Converter
+description: Aspose Excel. Python Aspose.Cells. MHTML to ODS in Python. Python Convert MHTML to ODS saveformat. Python MHTML to ODS format. Save MHTML to ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHTML to ODS in Python., Python MHTML to ODS saveformat., MHTML to ODS Python., Python Convert MHTML to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHTML to ODS? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to ODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to ODS in Python" %}}
 
 The following example demonstrates how to convert MHTML to ODS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to ODS. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to ODS via Python" %}}
 

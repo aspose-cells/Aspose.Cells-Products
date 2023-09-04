@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML to MHT - Online SPREADSHEETML to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to MHT saveformat. Java SPREADSHEETML to MHT format. Save SPREADSHEETML to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to MHT saveformat., Free Online SPREADSHEETML to MHT Java., Java Convert SPREADSHEETML to MHT]
+title: Java SPREADSHEETML to MHT - SPREADSHEETML to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to MHT in Java. Java Convert SPREADSHEETML to MHT saveformat. Java SPREADSHEETML to MHT format. Save SPREADSHEETML to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to MHT in Java., Java SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Java., Java Convert SPREADSHEETML to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SPREADSHEETML to MHT? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to MHT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to MHT in Java" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to MHT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to MHT. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to MHT via Java" %}}
 

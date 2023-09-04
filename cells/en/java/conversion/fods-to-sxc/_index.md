@@ -1,7 +1,7 @@
 ---
-title: Java FODS to SXC - Online FODS to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to SXC saveformat. Java FODS to SXC format. Save FODS to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to SXC saveformat., Free Online FODS to SXC Java., Java Convert FODS to SXC]
+title: Java FODS to SXC - FODS to SXC Converter
+description: Aspose Excel. Java Aspose.Cells. FODS to SXC in Java. Java Convert FODS to SXC saveformat. Java FODS to SXC format. Save FODS to SXC Java.
+keywords: [Aspose Excel., Java Aspose.Cells., FODS to SXC in Java., Java FODS to SXC saveformat., FODS to SXC Java., Java Convert FODS to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert FODS to SXC? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to SXC in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to SXC in Java" %}}
 
 The following example demonstrates how to convert FODS to SXC in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to SXC. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to SXC via Java" %}}
 

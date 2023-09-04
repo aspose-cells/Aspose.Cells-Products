@@ -1,7 +1,7 @@
 ---
-title: Python XLSM to XLSB - Online XLSM to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSM to XLSB saveformat. Python XLSM to XLSB format. Save XLSM to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to XLSB saveformat., Free Online XLSM to XLSB Python., Python Convert XLSM to XLSB]
+title: Python XLSM to XLSB - XLSM to XLSB Converter
+description: Aspose Excel. Python Aspose.Cells. XLSM to XLSB in Python. Python Convert XLSM to XLSB saveformat. Python XLSM to XLSB format. Save XLSM to XLSB Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSM to XLSB in Python., Python XLSM to XLSB saveformat., XLSM to XLSB Python., Python Convert XLSM to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSM to XLSB? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to XLSB in Python" %}}
 
 The following example demonstrates how to convert XLSM to XLSB in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSM to XLSB. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to XLSB via Python" %}}
 

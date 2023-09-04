@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ET - Combine IMAGE to ET in Java
 url: /java/merger/merge-image-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to ET saveformat. Java Combine IMAGE to ET format. Merge IMAGE to ET in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Free Online Java Merge IMAGE to et., Java Combine IMAGE to ET Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge IMAGE to ET saveformat. Java Combine IMAGE to ET format. Merge IMAGE to ET in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Java Merge IMAGE to et., Java Combine IMAGE to ET., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge IMAGE to ET? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to ET in Java" %}}
 
 The following example demonstrates how to merge IMAGE to ET in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge IMAGE to ET. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to ET in Java" InputFormat="png" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to ET in Java" InputFormat="png" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to ET via Java" %}}
 

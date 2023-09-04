@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to NUMBERS - Combine ODS to NUMBERS in C#
 url: /net/merger/merge-ods-to-numbers/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to NUMBERS saveformat. C# Combine ODS to NUMBERS format. Merge ODS to NUMBERS in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to NUMBERS in C#., Free Online C# Merge ODS to numbers., C# Combine ODS to NUMBERS Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge ODS to NUMBERS saveformat. C# Combine ODS to NUMBERS format. Merge ODS to NUMBERS in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to NUMBERS in C#., C# Merge ODS to numbers., C# Combine ODS to NUMBERS., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to NUMBERS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to NUMBERS in C#" %}}
 
 The following example demonstrates how to merge ODS to NUMBERS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to NUMBERS. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to NUMBERS in C#" InputFormat="ods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge ODS to NUMBERS in C#" InputFormat="ods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to NUMBERS via C#" %}}
 

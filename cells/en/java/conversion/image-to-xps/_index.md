@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to XPS - Online IMAGE to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to XPS saveformat. Java IMAGE to XPS format. Save IMAGE to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to XPS saveformat., Free Online IMAGE to XPS Java., Java Convert IMAGE to XPS]
+title: Java IMAGE to XPS - IMAGE to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to XPS in Java. Java Convert IMAGE to XPS saveformat. Java IMAGE to XPS format. Save IMAGE to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to XPS in Java., Java IMAGE to XPS saveformat., IMAGE to XPS Java., Java Convert IMAGE to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to XPS? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to XPS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to XPS in Java" %}}
 
 The following example demonstrates how to convert IMAGE to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to XPS. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XPS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java MHT to TIFF - Online MHT to TIFF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to TIFF saveformat. Java MHT to TIFF format. Save MHT to TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to TIFF saveformat., Free Online MHT to TIFF Java., Java Convert MHT to TIFF]
+title: Java MHT to TIFF - MHT to TIFF Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to TIFF in Java. Java Convert MHT to TIFF saveformat. Java MHT to TIFF format. Save MHT to TIFF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to TIFF in Java., Java MHT to TIFF saveformat., MHT to TIFF Java., Java Convert MHT to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to TIFF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to TIFF in Java" %}}
 
 The following example demonstrates how to convert MHT to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to TIFF. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to TIFF via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to PNG - Combine XLS to PNG in Java
 url: /java/merger/merge-xls-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to PNG saveformat. Java Combine XLS to PNG format. Merge XLS to PNG in Java. XLS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to PNG in Java., Free Online Java Merge XLS to png., Java Combine XLS to PNG Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLS to PNG saveformat. Java Combine XLS to PNG format. Merge XLS to PNG in Java. XLS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to PNG in Java., Java Merge XLS to png., Java Combine XLS to PNG., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLS to PNG? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to PNG in Java" %}}
 
 The following example demonstrates how to merge XLS to PNG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLS to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to PNG in Java" InputFormat="xls" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLS to PNG in Java" InputFormat="xls" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to PNG via Java" %}}
 

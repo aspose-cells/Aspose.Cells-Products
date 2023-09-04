@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to ETT - Online XLTX to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to ETT saveformat. Python XLTX to ETT format. Save XLTX to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to ETT saveformat., Free Online XLTX to ETT Python., Python Convert XLTX to ETT]
+title: Python XLTX to ETT - XLTX to ETT Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to ETT in Python. Python Convert XLTX to ETT saveformat. Python XLTX to ETT format. Save XLTX to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to ETT in Python., Python XLTX to ETT saveformat., XLTX to ETT Python., Python Convert XLTX to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTX to ETT? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to ETT in Python" %}}
 
 The following example demonstrates how to convert XLTX to ETT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to ETT. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ETT via Python" %}}
 

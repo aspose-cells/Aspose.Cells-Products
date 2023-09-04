@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLSB - Combine PRN to XLSB in C#
 url: /net/merger/merge-prn-to-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to XLSB saveformat. C# Combine PRN to XLSB format. Merge PRN to XLSB in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to XLSB in C#., Free Online C# Merge PRN to xlsb., C# Combine PRN to XLSB Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PRN to XLSB saveformat. C# Combine PRN to XLSB format. Merge PRN to XLSB in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to XLSB in C#., C# Merge PRN to xlsb., C# Combine PRN to XLSB., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to XLSB in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to XLSB in C#" %}}
 
 The following example demonstrates how to merge PRN to XLSB in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to XLSB. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to XLSB in C#" InputFormat="prn" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PRN to XLSB in C#" InputFormat="prn" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to XLSB via C#" %}}
 

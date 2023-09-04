@@ -1,7 +1,7 @@
 ---
-title: Python XLS to MHTML - Online XLS to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to MHTML saveformat. Python XLS to MHTML format. Save XLS to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to MHTML saveformat., Free Online XLS to MHTML Python., Python Convert XLS to MHTML]
+title: Python XLS to MHTML - XLS to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to MHTML in Python. Python Convert XLS to MHTML saveformat. Python XLS to MHTML format. Save XLS to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to MHTML in Python., Python XLS to MHTML saveformat., XLS to MHTML Python., Python Convert XLS to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLS to MHTML? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLS to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to MHTML in Python" %}}
 
 The following example demonstrates how to convert XLS to MHTML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLS to MHTML. Upload your XLS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to MHTML" %}}
 

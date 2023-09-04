@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ETT - Combine HTML to ETT in Python
 url: /python-net/merger/merge-html-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to ETT saveformat. Python Combine HTML to ETT format. Merge HTML to ETT in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Free Online Python Merge HTML to ett., Python Combine HTML to ETT Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTML to ETT saveformat. Python Combine HTML to ETT format. Merge HTML to ETT in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Python Merge HTML to ett., Python Combine HTML to ETT., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTML to ETT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to ETT in Python" %}}
 
 The following example demonstrates how to merge HTML to ETT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTML to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to ETT in Python" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge HTML to ETT in Python" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to ETT via Python" %}}
 

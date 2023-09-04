@@ -1,8 +1,8 @@
 ---
-title: Java Repair xls File - Repair xls File Online for Free
+title: Java Repair xls File - Recover xls File
 url: /java/recovery/repair-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair xls file. Free Online xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Free Online Repair a corrupted xls file., Java Recover xls file.]
+description: Aspose Excel. Java Aspose.Cells. Java Repair xls file. xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Java application.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Repair a corrupted xls file., Java Recover xls file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -61,7 +61,7 @@ Need to repair xls file programmatically? Java developers can easily load & repa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLS file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Sample Code to repair XLS file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java library to repair XLS file" %}}
 

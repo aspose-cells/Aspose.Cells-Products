@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XPS - Combine IMAGE to XPS in C++
 url: /cpp/merger/merge-image-to-xps/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to XPS saveformat. C++ Combine IMAGE to XPS format. Merge IMAGE to XPS in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XPS in C++., Free Online C++ Merge IMAGE to xps., C++ Combine IMAGE to XPS Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge IMAGE to XPS saveformat. C++ Combine IMAGE to XPS format. Merge IMAGE to XPS in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XPS in C++., C++ Merge IMAGE to xps., C++ Combine IMAGE to XPS., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to XPS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to XPS in C++" %}}
 
 The following example demonstrates how to merge IMAGE to XPS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to XPS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to XPS in C++" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to XPS in C++" InputFormat="png" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to XPS via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to OTS - Combine CSV to OTS in Python
 url: /python-net/merger/merge-csv-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to OTS saveformat. Python Combine CSV to OTS format. Merge CSV to OTS in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to OTS in Python., Free Online Python Merge CSV to ots., Python Combine CSV to OTS Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge CSV to OTS saveformat. Python Combine CSV to OTS format. Merge CSV to OTS in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to OTS in Python., Python Merge CSV to ots., Python Combine CSV to OTS., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge CSV to OTS? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to OTS in Python" %}}
 
 The following example demonstrates how to merge CSV to OTS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge CSV to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to OTS in Python" InputFormat="csv" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge CSV to OTS in Python" InputFormat="csv" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to OTS via Python" %}}
 

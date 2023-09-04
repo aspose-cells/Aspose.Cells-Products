@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to BMP - Combine XLT to BMP in Python
 url: /python-net/merger/merge-xlt-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to BMP saveformat. Python Combine XLT to BMP format. Merge XLT to BMP in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to BMP in Python., Free Online Python Merge XLT to bmp., Python Combine XLT to BMP Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLT to BMP saveformat. Python Combine XLT to BMP format. Merge XLT to BMP in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to BMP in Python., Python Merge XLT to bmp., Python Combine XLT to BMP., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLT to BMP? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to BMP in Python" %}}
 
 The following example demonstrates how to merge XLT to BMP in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLT to BMP. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to BMP in Python" InputFormat="xlt" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLT to BMP in Python" InputFormat="xlt" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to BMP via Python" %}}
 

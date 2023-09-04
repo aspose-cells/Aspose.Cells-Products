@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JSON - Combine NUMBERS to JSON in Python
 url: /python-net/merger/merge-numbers-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to JSON saveformat. Python Combine NUMBERS to JSON format. Merge NUMBERS to JSON in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python., Free Online Python Merge NUMBERS to json., Python Combine NUMBERS to JSON Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to JSON saveformat. Python Combine NUMBERS to JSON format. Merge NUMBERS to JSON in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python., Python Merge NUMBERS to json., Python Combine NUMBERS to JSON., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to JSON? With Aspose.Cells for Python via .NET library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to JSON in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to JSON in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to JSON. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to JSON in Python" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to JSON in Python" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to JSON via Python" %}}
 

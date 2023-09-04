@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to ODS - Combine XLS to ODS in C#
 url: /net/merger/merge-xls-to-ods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to ODS saveformat. C# Combine XLS to ODS format. Merge XLS to ODS in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to ODS in C#., Free Online C# Merge XLS to ods., C# Combine XLS to ODS Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLS to ODS saveformat. C# Combine XLS to ODS format. Merge XLS to ODS in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to ODS in C#., C# Merge XLS to ods., C# Combine XLS to ODS., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to ODS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to ODS in C#" %}}
 
 The following example demonstrates how to merge XLS to ODS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLS to ODS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to ODS in C#" InputFormat="xls" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLS to ODS in C#" InputFormat="xls" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to ODS via C#" %}}
 

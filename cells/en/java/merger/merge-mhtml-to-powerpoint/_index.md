@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to POWERPOINT - Combine MHTML to POWERPOINT in Java
 url: /java/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to POWERPOINT saveformat. Java Combine MHTML to POWERPOINT format. Merge MHTML to POWERPOINT in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java., Free Online Java Merge MHTML to powerpoint., Java Combine MHTML to POWERPOINT Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to POWERPOINT saveformat. Java Combine MHTML to POWERPOINT format. Merge MHTML to POWERPOINT in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java., Java Merge MHTML to powerpoint., Java Combine MHTML to POWERPOINT., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to POWERPOINT? With Aspose.Cells for Java library, you can 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to POWERPOINT in Java" %}}
 
 The following example demonstrates how to merge MHTML to POWERPOINT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to POWERPOINT. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to POWERPOINT in Java" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to POWERPOINT in Java" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to POWERPOINT via Java" %}}
 

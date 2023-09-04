@@ -1,7 +1,7 @@
 ---
-title: Java MHT to NUMBERS - Online MHT to NUMBERS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to NUMBERS saveformat. Java MHT to NUMBERS format. Save MHT to NUMBERS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to NUMBERS saveformat., Free Online MHT to NUMBERS Java., Java Convert MHT to NUMBERS]
+title: Java MHT to NUMBERS - MHT to NUMBERS Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to NUMBERS in Java. Java Convert MHT to NUMBERS saveformat. Java MHT to NUMBERS format. Save MHT to NUMBERS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to NUMBERS in Java., Java MHT to NUMBERS saveformat., MHT to NUMBERS Java., Java Convert MHT to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to NUMBERS? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to NUMBERS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to NUMBERS in Java" %}}
 
 The following example demonstrates how to convert MHT to NUMBERS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to NUMBERS. Upload your MHT file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="numbers" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to NUMBERS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="numbers" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to NUMBERS via Java" %}}
 

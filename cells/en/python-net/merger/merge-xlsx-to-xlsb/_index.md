@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to XLSB - Combine XLSX to XLSB in Python
 url: /python-net/merger/merge-xlsx-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to XLSB saveformat. Python Combine XLSX to XLSB format. Merge XLSX to XLSB in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to XLSB in Python., Free Online Python Merge XLSX to xlsb., Python Combine XLSX to XLSB Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSX to XLSB saveformat. Python Combine XLSX to XLSB format. Merge XLSX to XLSB in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to XLSB in Python., Python Merge XLSX to xlsb., Python Combine XLSX to XLSB., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSX to XLSB? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to XLSB in Python" %}}
 
 The following example demonstrates how to merge XLSX to XLSB in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSX to XLSB. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to XLSB in Python" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to XLSB in Python" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to XLSB via Python" %}}
 

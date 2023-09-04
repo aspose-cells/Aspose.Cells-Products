@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to POWERPOINT - Combine FODS to POWERPOINT in C#
 url: /net/merger/merge-fods-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to POWERPOINT saveformat. C# Combine FODS to POWERPOINT format. Merge FODS to POWERPOINT in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to POWERPOINT in C#., Free Online C# Merge FODS to powerpoint., C# Combine FODS to POWERPOINT Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge FODS to POWERPOINT saveformat. C# Combine FODS to POWERPOINT format. Merge FODS to POWERPOINT in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to POWERPOINT in C#., C# Merge FODS to powerpoint., C# Combine FODS to POWERPOINT., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to POWERPOINT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to POWERPOINT in C#" %}}
 
 The following example demonstrates how to merge FODS to POWERPOINT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge FODS to POWERPOINT. Upload your files, call Workb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to POWERPOINT in C#" InputFormat="fods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge FODS to POWERPOINT in C#" InputFormat="fods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to POWERPOINT via C#" %}}
 

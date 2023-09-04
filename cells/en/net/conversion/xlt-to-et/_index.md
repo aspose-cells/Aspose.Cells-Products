@@ -1,7 +1,7 @@
 ---
-title: C# XLT to ET - Online XLT to ET Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLT to ET saveformat. C# XLT to ET format. Save XLT to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLT to ET saveformat., Free Online XLT to ET C#., C# Convert XLT to ET]
+title: C# XLT to ET - XLT to ET Converter
+description: Aspose Excel. C# Aspose.Cells. XLT to ET in C#. C# Convert XLT to ET saveformat. C# XLT to ET format. Save XLT to ET C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLT to ET in C#., C# XLT to ET saveformat., XLT to ET C#., C# Convert XLT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to ET in C#" %}}
 
 The following example demonstrates how to convert XLT to ET in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to ET. Upload your XLT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="et" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="et" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to ET via C#" %}}
 

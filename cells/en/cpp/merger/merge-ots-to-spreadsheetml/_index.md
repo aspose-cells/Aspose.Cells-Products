@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to SPREADSHEETML - Combine OTS to SPREADSHEETML in C++
 url: /cpp/merger/merge-ots-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to SPREADSHEETML saveformat. C++ Combine OTS to SPREADSHEETML format. Merge OTS to SPREADSHEETML in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to SPREADSHEETML in C++., Free Online C++ Merge OTS to spreadsheetml., C++ Combine OTS to SPREADSHEETML Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge OTS to SPREADSHEETML saveformat. C++ Combine OTS to SPREADSHEETML format. Merge OTS to SPREADSHEETML in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to SPREADSHEETML in C++., C++ Merge OTS to spreadsheetml., C++ Combine OTS to SPREADSHEETML., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to SPREADSHEETML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to SPREADSHEETML in C++" %}}
 
 The following example demonstrates how to merge OTS to SPREADSHEETML in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to SPREADSHEETML in C++" InputFormat="ots" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge OTS to SPREADSHEETML in C++" InputFormat="ots" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to SPREADSHEETML via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
-title: C# Repair xlsb File - Repair xlsb File Online for Free
+title: C# Repair xlsb File - Recover xlsb File
 url: /net/recovery/repair-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. C# Repair xlsb file. Free Online xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within .NET application.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb file., Free Online Repair a corrupted xlsb file., C# Recover xlsb file.]
+description: Aspose Excel. C# Aspose.Cells. C# Repair xlsb file. xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within .NET application.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb file., Repair a corrupted xlsb file., C# Recover xlsb file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -42,7 +42,7 @@ Need to repair xlsb file programmatically? .NET developers can easily load & rep
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSB file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Sample Code to repair XLSB file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET library to repair XLSB file" %}}
 

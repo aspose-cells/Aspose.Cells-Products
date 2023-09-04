@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SPREADSHEETML - Combine XLSX to SPREADSHEETML in Java
 url: /java/merger/merge-xlsx-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to SPREADSHEETML saveformat. Java Combine XLSX to SPREADSHEETML format. Merge XLSX to SPREADSHEETML in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to SPREADSHEETML in Java., Free Online Java Merge XLSX to spreadsheetml., Java Combine XLSX to SPREADSHEETML Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSX to SPREADSHEETML saveformat. Java Combine XLSX to SPREADSHEETML format. Merge XLSX to SPREADSHEETML in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to SPREADSHEETML in Java., Java Merge XLSX to spreadsheetml., Java Combine XLSX to SPREADSHEETML., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSX to SPREADSHEETML? With Aspose.Cells for Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to merge XLSX to SPREADSHEETML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSX to SPREADSHEETML. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to SPREADSHEETML in Java" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to SPREADSHEETML in Java" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to SPREADSHEETML via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM to EXCEL - Online XLSM to EXCEL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to EXCEL saveformat. C++ XLSM to EXCEL format. Save XLSM to EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to EXCEL saveformat., Free Online XLSM to EXCEL C++., C++ Convert XLSM to EXCEL]
+title: C++ XLSM to EXCEL - XLSM to EXCEL Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSM to EXCEL in C++. C++ Convert XLSM to EXCEL saveformat. C++ XLSM to EXCEL format. Save XLSM to EXCEL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSM to EXCEL in C++., C++ XLSM to EXCEL saveformat., XLSM to EXCEL C++., C++ Convert XLSM to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to EXCEL in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to EXCEL in C++" %}}
 
 The following example demonstrates how to convert XLSM to EXCEL in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSM to EXCEL. Upload your XLSM file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to EXCEL via C++" %}}
 

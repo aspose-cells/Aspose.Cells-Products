@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TSV - Combine TXT to TSV in Python
 url: /python-java/merger/merge-txt-to-tsv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to TSV saveformat. Python Combine TXT to TSV format. Merge TXT to TSV in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TSV in Python., Free Online Python Merge TXT to tsv., Python Combine TXT to TSV Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to TSV saveformat. Python Combine TXT to TSV format. Merge TXT to TSV in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TSV in Python., Python Merge TXT to tsv., Python Combine TXT to TSV., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to TSV? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to TSV in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to TSV in Python" %}}
 
 The following example demonstrates how to merge TXT to TSV in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to TSV. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to TSV in Python" InputFormat="txt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TXT to TSV in Python" InputFormat="txt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to TSV via Python" %}}
 

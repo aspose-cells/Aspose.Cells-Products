@@ -1,7 +1,7 @@
 ---
-title: Java XLS to SPREADSHEETML - Online XLS to SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to SPREADSHEETML saveformat. Java XLS to SPREADSHEETML format. Save XLS to SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to SPREADSHEETML saveformat., Free Online XLS to SPREADSHEETML Java., Java Convert XLS to SPREADSHEETML]
+title: Java XLS to SPREADSHEETML - XLS to SPREADSHEETML Converter
+description: Aspose Excel. Java Aspose.Cells. XLS to SPREADSHEETML in Java. Java Convert XLS to SPREADSHEETML saveformat. Java XLS to SPREADSHEETML format. Save XLS to SPREADSHEETML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLS to SPREADSHEETML in Java., Java XLS to SPREADSHEETML saveformat., XLS to SPREADSHEETML Java., Java Convert XLS to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLS to SPREADSHEETML? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to convert XLS to SPREADSHEETML in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLS to SPREADSHEETML. Upload your XLS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLS to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to SPREADSHEETML via Java" %}}
 

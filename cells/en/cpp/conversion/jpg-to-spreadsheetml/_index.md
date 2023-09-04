@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to SPREADSHEETML - Online JPG to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to SPREADSHEETML saveformat. C++ JPG to SPREADSHEETML format. Save JPG to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to SPREADSHEETML saveformat., Free Online JPG to SPREADSHEETML C++., C++ Convert JPG to SPREADSHEETML]
+title: C++ JPG to SPREADSHEETML - JPG to SPREADSHEETML Converter
+description: Aspose Excel. C++ Aspose.Cells. JPG to SPREADSHEETML in C++. C++ Convert JPG to SPREADSHEETML saveformat. C++ JPG to SPREADSHEETML format. Save JPG to SPREADSHEETML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPG to SPREADSHEETML in C++., C++ JPG to SPREADSHEETML saveformat., JPG to SPREADSHEETML C++., C++ Convert JPG to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to SPREADSHEETML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to SPREADSHEETML in C++" %}}
 
 The following example demonstrates how to convert JPG to SPREADSHEETML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPG to SPREADSHEETML. Upload your JPG file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to SPREADSHEETML via C++" %}}
 

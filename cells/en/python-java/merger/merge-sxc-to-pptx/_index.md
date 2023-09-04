@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PPTX - Combine SXC to PPTX in Python
 url: /python-java/merger/merge-sxc-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to PPTX saveformat. Python Combine SXC to PPTX format. Merge SXC to PPTX in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PPTX in Python., Free Online Python Merge SXC to pptx., Python Combine SXC to PPTX Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SXC to PPTX saveformat. Python Combine SXC to PPTX format. Merge SXC to PPTX in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PPTX in Python., Python Merge SXC to pptx., Python Combine SXC to PPTX., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SXC to PPTX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to PPTX in Python" %}}
 
 The following example demonstrates how to merge SXC to PPTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SXC to PPTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to PPTX in Python" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SXC to PPTX in Python" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to PPTX via Python" %}}
 

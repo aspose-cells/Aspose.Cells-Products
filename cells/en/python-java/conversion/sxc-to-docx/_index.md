@@ -1,7 +1,7 @@
 ---
-title: Python SXC to DOCX - Online SXC to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to DOCX saveformat. Python SXC to DOCX format. Save SXC to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to DOCX saveformat., Free Online SXC to DOCX Python., Python Convert SXC to DOCX]
+title: Python SXC to DOCX - SXC to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to DOCX in Python. Python Convert SXC to DOCX saveformat. Python SXC to DOCX format. Save SXC to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to DOCX in Python., Python SXC to DOCX saveformat., SXC to DOCX Python., Python Convert SXC to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to DOCX? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to DOCX in Python" %}}
 
 The following example demonstrates how to convert SXC to DOCX in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to DOCX. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to DOCX via Python" %}}
 

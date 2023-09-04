@@ -1,7 +1,7 @@
 ---
-title: Java MHT to CSV - Online MHT to CSV Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to CSV saveformat. Java MHT to CSV format. Save MHT to CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to CSV saveformat., Free Online MHT to CSV Java., Java Convert MHT to CSV]
+title: Java MHT to CSV - MHT to CSV Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to CSV in Java. Java Convert MHT to CSV saveformat. Java MHT to CSV format. Save MHT to CSV Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to CSV in Java., Java MHT to CSV saveformat., MHT to CSV Java., Java Convert MHT to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to CSV? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to CSV in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to CSV in Java" %}}
 
 The following example demonstrates how to convert MHT to CSV in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to CSV. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to CSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="csv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to CSV via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to POWERPOINT - Online IMAGE to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to POWERPOINT saveformat. Java IMAGE to POWERPOINT format. Save IMAGE to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to POWERPOINT saveformat., Free Online IMAGE to POWERPOINT Java., Java Convert IMAGE to POWERPOINT]
+title: Java IMAGE to POWERPOINT - IMAGE to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to POWERPOINT in Java. Java Convert IMAGE to POWERPOINT saveformat. Java IMAGE to POWERPOINT format. Save IMAGE to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to POWERPOINT in Java., Java IMAGE to POWERPOINT saveformat., IMAGE to POWERPOINT Java., Java Convert IMAGE to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to POWERPOINT? With Aspose.Cells for Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to POWERPOINT in Java" %}}
 
 The following example demonstrates how to convert IMAGE to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to POWERPOINT. Upload your IMAGE file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to POWERPOINT via Java" %}}
 

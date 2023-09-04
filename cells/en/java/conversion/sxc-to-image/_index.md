@@ -1,7 +1,7 @@
 ---
-title: Java SXC to IMAGE - Online SXC to IMAGE Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to IMAGE saveformat. Java SXC to IMAGE format. Save SXC to IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to IMAGE saveformat., Free Online SXC to IMAGE Java., Java Convert SXC to IMAGE]
+title: Java SXC to IMAGE - SXC to IMAGE Converter
+description: Aspose Excel. Java Aspose.Cells. SXC to IMAGE in Java. Java Convert SXC to IMAGE saveformat. Java SXC to IMAGE format. Save SXC to IMAGE Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SXC to IMAGE in Java., Java SXC to IMAGE saveformat., SXC to IMAGE Java., Java Convert SXC to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SXC to IMAGE? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to IMAGE in Java" %}}
 
 The following example demonstrates how to convert SXC to IMAGE in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to IMAGE. Upload your SXC file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to IMAGE via Java" %}}
 

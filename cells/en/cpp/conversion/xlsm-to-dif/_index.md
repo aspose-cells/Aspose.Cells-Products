@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM to DIF - Online XLSM to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to DIF saveformat. C++ XLSM to DIF format. Save XLSM to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to DIF saveformat., Free Online XLSM to DIF C++., C++ Convert XLSM to DIF]
+title: C++ XLSM to DIF - XLSM to DIF Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSM to DIF in C++. C++ Convert XLSM to DIF saveformat. C++ XLSM to DIF format. Save XLSM to DIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSM to DIF in C++., C++ XLSM to DIF saveformat., XLSM to DIF C++., C++ Convert XLSM to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to DIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to DIF in C++" %}}
 
 The following example demonstrates how to convert XLSM to DIF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSM to DIF. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to DIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to DIF via C++" %}}
 

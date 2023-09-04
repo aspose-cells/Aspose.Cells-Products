@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XML - Combine JPG to XML in Python
 url: /python-net/merger/merge-jpg-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to XML saveformat. Python Combine JPG to XML format. Merge JPG to XML in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to XML in Python., Free Online Python Merge JPG to xml., Python Combine JPG to XML Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to XML saveformat. Python Combine JPG to XML format. Merge JPG to XML in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to XML in Python., Python Merge JPG to xml., Python Combine JPG to XML., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to XML? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to XML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to XML in Python" %}}
 
 The following example demonstrates how to merge JPG to XML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to XML. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to XML in Python" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPG to XML in Python" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to XML via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to TABDELIMITED - Combine XLTX to TABDELIMITED in Python
 url: /python-net/merger/merge-xltx-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to TABDELIMITED saveformat. Python Combine XLTX to TABDELIMITED format. Merge XLTX to TABDELIMITED in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to TABDELIMITED in Python., Free Online Python Merge XLTX to tabdelimited., Python Combine XLTX to TABDELIMITED Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTX to TABDELIMITED saveformat. Python Combine XLTX to TABDELIMITED format. Merge XLTX to TABDELIMITED in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to TABDELIMITED in Python., Python Merge XLTX to tabdelimited., Python Combine XLTX to TABDELIMITED., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTX to TABDELIMITED? With Aspose.Cells for Python via .NET libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to merge XLTX to TABDELIMITED in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTX to TABDELIMITED. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to TABDELIMITED in Python" InputFormat="xltx" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to TABDELIMITED in Python" InputFormat="xltx" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to TABDELIMITED via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PNG - Combine JPG to PNG in Java
 url: /java/merger/merge-jpg-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to PNG saveformat. Java Combine JPG to PNG format. Merge JPG to PNG in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PNG in Java., Free Online Java Merge JPG to png., Java Combine JPG to PNG Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPG to PNG saveformat. Java Combine JPG to PNG format. Merge JPG to PNG in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PNG in Java., Java Merge JPG to png., Java Combine JPG to PNG., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPG to PNG? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to PNG in Java" %}}
 
 The following example demonstrates how to merge JPG to PNG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPG to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to PNG in Java" InputFormat="jpg" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPG to PNG in Java" InputFormat="jpg" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to PNG via Java" %}}
 

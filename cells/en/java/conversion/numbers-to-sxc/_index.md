@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS to SXC - Online NUMBERS to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert NUMBERS to SXC saveformat. Java NUMBERS to SXC format. Save NUMBERS to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to SXC saveformat., Free Online NUMBERS to SXC Java., Java Convert NUMBERS to SXC]
+title: Java NUMBERS to SXC - NUMBERS to SXC Converter
+description: Aspose Excel. Java Aspose.Cells. NUMBERS to SXC in Java. Java Convert NUMBERS to SXC saveformat. Java NUMBERS to SXC format. Save NUMBERS to SXC Java.
+keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to SXC in Java., Java NUMBERS to SXC saveformat., NUMBERS to SXC Java., Java Convert NUMBERS to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert NUMBERS to SXC? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to SXC in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to SXC in Java" %}}
 
 The following example demonstrates how to convert NUMBERS to SXC in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to SXC. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to SXC via Java" %}}
 

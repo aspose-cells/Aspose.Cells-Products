@@ -1,7 +1,7 @@
 ---
-title: Java TXT to PNG - Online TXT to PNG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to PNG saveformat. Java TXT to PNG format. Save TXT to PNG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PNG saveformat., Free Online TXT to PNG Java., Java Convert TXT to PNG]
+title: Java TXT to PNG - TXT to PNG Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to PNG in Java. Java Convert TXT to PNG saveformat. Java TXT to PNG format. Save TXT to PNG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to PNG in Java., Java TXT to PNG saveformat., TXT to PNG Java., Java Convert TXT to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to PNG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to PNG in Java" %}}
 
 The following example demonstrates how to convert TXT to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to PNG. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to PNG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to PNG via Java" %}}
 

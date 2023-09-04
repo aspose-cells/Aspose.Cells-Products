@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to DIF - Online XLTM to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTM to DIF saveformat. Python XLTM to DIF format. Save XLTM to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to DIF saveformat., Free Online XLTM to DIF Python., Python Convert XLTM to DIF]
+title: Python XLTM to DIF - XLTM to DIF Converter
+description: Aspose Excel. Python Aspose.Cells. XLTM to DIF in Python. Python Convert XLTM to DIF saveformat. Python XLTM to DIF format. Save XLTM to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTM to DIF in Python., Python XLTM to DIF saveformat., XLTM to DIF Python., Python Convert XLTM to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTM to DIF? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to DIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to DIF in Python" %}}
 
 The following example demonstrates how to convert XLTM to DIF in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTM to DIF. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to DIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to DIF" %}}
 

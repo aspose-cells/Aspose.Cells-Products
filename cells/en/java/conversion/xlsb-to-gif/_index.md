@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to GIF - Online XLSB to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to GIF saveformat. Java XLSB to GIF format. Save XLSB to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to GIF saveformat., Free Online XLSB to GIF Java., Java Convert XLSB to GIF]
+title: Java XLSB to GIF - XLSB to GIF Converter
+description: Aspose Excel. Java Aspose.Cells. XLSB to GIF in Java. Java Convert XLSB to GIF saveformat. Java XLSB to GIF format. Save XLSB to GIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSB to GIF in Java., Java XLSB to GIF saveformat., XLSB to GIF Java., Java Convert XLSB to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSB to GIF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in Java" %}}
 
 The following example demonstrates how to convert XLSB to GIF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to GIF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to GIF via Java" %}}
 

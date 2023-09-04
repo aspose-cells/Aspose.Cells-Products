@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to JSON - Combine EXCEL to JSON in Python
 url: /python-java/merger/merge-excel-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to JSON saveformat. Python Combine EXCEL to JSON format. Merge EXCEL to JSON in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., Free Online Python Merge EXCEL to json., Python Combine EXCEL to JSON Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge EXCEL to JSON saveformat. Python Combine EXCEL to JSON format. Merge EXCEL to JSON in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., Python Merge EXCEL to json., Python Combine EXCEL to JSON., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge EXCEL to JSON? With Aspose.Cells for Python via Java library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to JSON in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to JSON in Python" %}}
 
 The following example demonstrates how to merge EXCEL to JSON in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge EXCEL to JSON. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to JSON in Python" InputFormat="xlsx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to JSON in Python" InputFormat="xlsx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to JSON via Python" %}}
 

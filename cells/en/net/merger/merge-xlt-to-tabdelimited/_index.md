@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to TABDELIMITED - Combine XLT to TABDELIMITED in C#
 url: /net/merger/merge-xlt-to-tabdelimited/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to TABDELIMITED saveformat. C# Combine XLT to TABDELIMITED format. Merge XLT to TABDELIMITED in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to TABDELIMITED in C#., Free Online C# Merge XLT to tabdelimited., C# Combine XLT to TABDELIMITED Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLT to TABDELIMITED saveformat. C# Combine XLT to TABDELIMITED format. Merge XLT to TABDELIMITED in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to TABDELIMITED in C#., C# Merge XLT to tabdelimited., C# Combine XLT to TABDELIMITED., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to TABDELIMITED in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to TABDELIMITED in C#" %}}
 
 The following example demonstrates how to merge XLT to TABDELIMITED in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLT to TABDELIMITED. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to TABDELIMITED in C#" InputFormat="xlt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLT to TABDELIMITED in C#" InputFormat="xlt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to TABDELIMITED via C#" %}}
 

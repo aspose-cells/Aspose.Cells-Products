@@ -1,7 +1,7 @@
 ---
-title: Python XML to PDF - Online XML to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to PDF saveformat. Python XML to PDF format. Save XML to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to PDF saveformat., Free Online XML to PDF Python., Python Convert XML to PDF]
+title: Python XML to PDF - XML to PDF Converter
+description: Aspose Excel. Python Aspose.Cells. XML to PDF in Python. Python Convert XML to PDF saveformat. Python XML to PDF format. Save XML to PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XML to PDF in Python., Python XML to PDF saveformat., XML to PDF Python., Python Convert XML to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XML to PDF? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to PDF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to PDF in Python" %}}
 
 The following example demonstrates how to convert XML to PDF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XML to PDF. Upload your XML file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to PDF via Python" %}}
 

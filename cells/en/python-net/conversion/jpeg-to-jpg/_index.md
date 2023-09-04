@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to JPG - Online JPEG to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to JPG saveformat. Python JPEG to JPG format. Save JPEG to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to JPG saveformat., Free Online JPEG to JPG Python., Python Convert JPEG to JPG]
+title: Python JPEG to JPG - JPEG to JPG Converter
+description: Aspose Excel. Python Aspose.Cells. JPEG to JPG in Python. Python Convert JPEG to JPG saveformat. Python JPEG to JPG format. Save JPEG to JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPEG to JPG in Python., Python JPEG to JPG saveformat., JPEG to JPG Python., Python Convert JPEG to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert JPEG to JPG? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to JPG in Python" %}}
 
 The following example demonstrates how to convert JPEG to JPG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPEG to JPG. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to JPG" %}}
 

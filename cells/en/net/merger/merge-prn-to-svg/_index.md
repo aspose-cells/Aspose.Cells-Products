@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to SVG - Combine PRN to SVG in C#
 url: /net/merger/merge-prn-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to SVG saveformat. C# Combine PRN to SVG format. Merge PRN to SVG in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to SVG in C#., Free Online C# Merge PRN to svg., C# Combine PRN to SVG Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PRN to SVG saveformat. C# Combine PRN to SVG format. Merge PRN to SVG in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to SVG in C#., C# Merge PRN to svg., C# Combine PRN to SVG., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to SVG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to SVG in C#" %}}
 
 The following example demonstrates how to merge PRN to SVG in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to SVG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to SVG in C#" InputFormat="prn" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PRN to SVG in C#" InputFormat="prn" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to SVG via C#" %}}
 

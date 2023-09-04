@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to JSON - Online IMAGE to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to JSON saveformat. Java IMAGE to JSON format. Save IMAGE to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to JSON saveformat., Free Online IMAGE to JSON Java., Java Convert IMAGE to JSON]
+title: Java IMAGE to JSON - IMAGE to JSON Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to JSON in Java. Java Convert IMAGE to JSON saveformat. Java IMAGE to JSON format. Save IMAGE to JSON Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to JSON in Java., Java IMAGE to JSON saveformat., IMAGE to JSON Java., Java Convert IMAGE to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to JSON? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to JSON in Java" %}}
 
 The following example demonstrates how to convert IMAGE to JSON in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to JSON. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to JSON via Java" %}}
 

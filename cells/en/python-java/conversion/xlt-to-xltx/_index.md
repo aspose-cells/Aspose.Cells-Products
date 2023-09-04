@@ -1,7 +1,7 @@
 ---
-title: Python XLT to XLTX - Online XLT to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to XLTX saveformat. Python XLT to XLTX format. Save XLT to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to XLTX saveformat., Free Online XLT to XLTX Python., Python Convert XLT to XLTX]
+title: Python XLT to XLTX - XLT to XLTX Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to XLTX in Python. Python Convert XLT to XLTX saveformat. Python XLT to XLTX format. Save XLT to XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to XLTX in Python., Python XLT to XLTX saveformat., XLT to XLTX Python., Python Convert XLT to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to XLTX? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to XLTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to XLTX in Python" %}}
 
 The following example demonstrates how to convert XLT to XLTX in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to XLTX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLTX via Python" %}}
 

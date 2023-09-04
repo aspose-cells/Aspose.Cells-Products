@@ -1,7 +1,7 @@
 ---
-title: Python OTS to XLSX - Online OTS to XLSX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to XLSX saveformat. Python OTS to XLSX format. Save OTS to XLSX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to XLSX saveformat., Free Online OTS to XLSX Python., Python Convert OTS to XLSX]
+title: Python OTS to XLSX - OTS to XLSX Converter
+description: Aspose Excel. Python Aspose.Cells. OTS to XLSX in Python. Python Convert OTS to XLSX saveformat. Python OTS to XLSX format. Save OTS to XLSX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., OTS to XLSX in Python., Python OTS to XLSX saveformat., OTS to XLSX Python., Python Convert OTS to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert OTS to XLSX? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to XLSX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to XLSX in Python" %}}
 
 The following example demonstrates how to convert OTS to XLSX in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to XLSX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to XLSX via Python" %}}
 

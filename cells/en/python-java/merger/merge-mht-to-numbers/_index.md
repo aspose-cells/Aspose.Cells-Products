@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to NUMBERS - Combine MHT to NUMBERS in Python
 url: /python-java/merger/merge-mht-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to NUMBERS saveformat. Python Combine MHT to NUMBERS format. Merge MHT to NUMBERS in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to NUMBERS in Python., Free Online Python Merge MHT to numbers., Python Combine MHT to NUMBERS Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHT to NUMBERS saveformat. Python Combine MHT to NUMBERS format. Merge MHT to NUMBERS in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to NUMBERS in Python., Python Merge MHT to numbers., Python Combine MHT to NUMBERS., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHT to NUMBERS? With Aspose.Cells for Python via Java library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to NUMBERS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to NUMBERS in Python" %}}
 
 The following example demonstrates how to merge MHT to NUMBERS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHT to NUMBERS. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to NUMBERS in Python" InputFormat="mht" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge MHT to NUMBERS in Python" InputFormat="mht" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to NUMBERS via Python" %}}
 

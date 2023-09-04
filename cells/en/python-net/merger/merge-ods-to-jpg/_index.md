@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JPG - Combine ODS to JPG in Python
 url: /python-net/merger/merge-ods-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to JPG saveformat. Python Combine ODS to JPG format. Merge ODS to JPG in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to JPG in Python., Free Online Python Merge ODS to jpg., Python Combine ODS to JPG Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge ODS to JPG saveformat. Python Combine ODS to JPG format. Merge ODS to JPG in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to JPG in Python., Python Merge ODS to jpg., Python Combine ODS to JPG., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge ODS to JPG? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to JPG in Python" %}}
 
 The following example demonstrates how to merge ODS to JPG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge ODS to JPG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to JPG in Python" InputFormat="ods" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge ODS to JPG in Python" InputFormat="ods" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to JPG via Python" %}}
 

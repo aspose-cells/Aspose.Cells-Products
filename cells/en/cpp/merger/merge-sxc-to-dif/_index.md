@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DIF - Combine SXC to DIF in C++
 url: /cpp/merger/merge-sxc-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to DIF saveformat. C++ Combine SXC to DIF format. Merge SXC to DIF in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to DIF in C++., Free Online C++ Merge SXC to dif., C++ Combine SXC to DIF Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge SXC to DIF saveformat. C++ Combine SXC to DIF format. Merge SXC to DIF in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to DIF in C++., C++ Merge SXC to dif., C++ Combine SXC to DIF., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to DIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to DIF in C++" %}}
 
 The following example demonstrates how to merge SXC to DIF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SXC to DIF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to DIF in C++" InputFormat="sxc" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge SXC to DIF in C++" InputFormat="sxc" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to DIF via C++" %}}
 

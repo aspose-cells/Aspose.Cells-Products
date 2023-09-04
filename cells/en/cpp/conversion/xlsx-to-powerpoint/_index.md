@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX to POWERPOINT - Online XLSX to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSX to POWERPOINT saveformat. C++ XLSX to POWERPOINT format. Save XLSX to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to POWERPOINT saveformat., Free Online XLSX to POWERPOINT C++., C++ Convert XLSX to POWERPOINT]
+title: C++ XLSX to POWERPOINT - XLSX to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSX to POWERPOINT in C++. C++ Convert XLSX to POWERPOINT saveformat. C++ XLSX to POWERPOINT format. Save XLSX to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to POWERPOINT in C++., C++ XLSX to POWERPOINT saveformat., XLSX to POWERPOINT C++., C++ Convert XLSX to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to POWERPOINT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to POWERPOINT in C++" %}}
 
 The following example demonstrates how to convert XLSX to POWERPOINT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSX to POWERPOINT. Upload your XLSX file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to POWERPOINT via C++" %}}
 

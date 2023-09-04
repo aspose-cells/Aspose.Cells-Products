@@ -1,7 +1,7 @@
 ---
-title: Python TXT to XLTM - Online TXT to XLTM Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to XLTM saveformat. Python TXT to XLTM format. Save TXT to XLTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XLTM saveformat., Free Online TXT to XLTM Python., Python Convert TXT to XLTM]
+title: Python TXT to XLTM - TXT to XLTM Converter
+description: Aspose Excel. Python Aspose.Cells. TXT to XLTM in Python. Python Convert TXT to XLTM saveformat. Python TXT to XLTM format. Save TXT to XLTM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., TXT to XLTM in Python., Python TXT to XLTM saveformat., TXT to XLTM Python., Python Convert TXT to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert TXT to XLTM? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to XLTM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to XLTM in Python" %}}
 
 The following example demonstrates how to convert TXT to XLTM in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to XLTM. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to XLTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XLTM via Python" %}}
 

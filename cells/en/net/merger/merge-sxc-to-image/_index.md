@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to IMAGE - Combine SXC to IMAGE in C#
 url: /net/merger/merge-sxc-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to IMAGE saveformat. C# Combine SXC to IMAGE format. Merge SXC to IMAGE in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to IMAGE in C#., Free Online C# Merge SXC to image., C# Combine SXC to IMAGE Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SXC to IMAGE saveformat. C# Combine SXC to IMAGE format. Merge SXC to IMAGE in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to IMAGE in C#., C# Merge SXC to image., C# Combine SXC to IMAGE., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to IMAGE in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to IMAGE in C#" %}}
 
 The following example demonstrates how to merge SXC to IMAGE in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SXC to IMAGE. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to IMAGE in C#" InputFormat="sxc" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SXC to IMAGE in C#" InputFormat="sxc" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to IMAGE via C#" %}}
 

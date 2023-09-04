@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to PDF - Combine TSV to PDF in C#
 url: /net/merger/merge-tsv-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to PDF saveformat. C# Combine TSV to PDF format. Merge TSV to PDF in C#. TSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to PDF in C#., Free Online C# Merge TSV to pdf., C# Combine TSV to PDF Online for Free., TSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TSV to PDF saveformat. C# Combine TSV to PDF format. Merge TSV to PDF in C#. TSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to PDF in C#., C# Merge TSV to pdf., C# Combine TSV to PDF., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to PDF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to PDF in C#" %}}
 
 The following example demonstrates how to merge TSV to PDF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to PDF in C#" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TSV to PDF in C#" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to PDF via C#" %}}
 

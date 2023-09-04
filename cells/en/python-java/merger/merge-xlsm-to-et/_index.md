@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to ET - Combine XLSM to ET in Python
 url: /python-java/merger/merge-xlsm-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to ET saveformat. Python Combine XLSM to ET format. Merge XLSM to ET in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to ET in Python., Free Online Python Merge XLSM to et., Python Combine XLSM to ET Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSM to ET saveformat. Python Combine XLSM to ET format. Merge XLSM to ET in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to ET in Python., Python Merge XLSM to et., Python Combine XLSM to ET., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSM to ET? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to ET in Python" %}}
 
 The following example demonstrates how to merge XLSM to ET in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSM to ET. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to ET in Python" InputFormat="xlsm" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to ET in Python" InputFormat="xlsm" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to ET via Python" %}}
 

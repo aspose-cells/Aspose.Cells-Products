@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to ET - Online XLTX to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to ET saveformat. Java XLTX to ET format. Save XLTX to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to ET saveformat., Free Online XLTX to ET Java., Java Convert XLTX to ET]
+title: Java XLTX to ET - XLTX to ET Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to ET in Java. Java Convert XLTX to ET saveformat. Java XLTX to ET format. Save XLTX to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to ET in Java., Java XLTX to ET saveformat., XLTX to ET Java., Java Convert XLTX to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to ET? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to ET in Java" %}}
 
 The following example demonstrates how to convert XLTX to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to ET. Upload your XLTX file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ET via Java" %}}
 

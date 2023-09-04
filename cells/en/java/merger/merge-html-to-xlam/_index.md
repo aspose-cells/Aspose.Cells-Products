@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLAM - Combine HTML to XLAM in Java
 url: /java/merger/merge-html-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to XLAM saveformat. Java Combine HTML to XLAM format. Merge HTML to XLAM in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLAM in Java., Free Online Java Merge HTML to xlam., Java Combine HTML to XLAM Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTML to XLAM saveformat. Java Combine HTML to XLAM format. Merge HTML to XLAM in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLAM in Java., Java Merge HTML to xlam., Java Combine HTML to XLAM., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTML to XLAM? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to XLAM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to XLAM in Java" %}}
 
 The following example demonstrates how to merge HTML to XLAM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTML to XLAM. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to XLAM in Java" InputFormat="html" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTML to XLAM in Java" InputFormat="html" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to XLAM via Java" %}}
 

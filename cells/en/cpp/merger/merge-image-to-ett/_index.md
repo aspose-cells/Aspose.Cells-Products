@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ETT - Combine IMAGE to ETT in C++
 url: /cpp/merger/merge-image-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to ETT saveformat. C++ Combine IMAGE to ETT format. Merge IMAGE to ETT in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to ETT in C++., Free Online C++ Merge IMAGE to ett., C++ Combine IMAGE to ETT Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge IMAGE to ETT saveformat. C++ Combine IMAGE to ETT format. Merge IMAGE to ETT in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to ETT in C++., C++ Merge IMAGE to ett., C++ Combine IMAGE to ETT., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to ETT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to ETT in C++" %}}
 
 The following example demonstrates how to merge IMAGE to ETT in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to ETT. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to ETT in C++" InputFormat="png" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to ETT in C++" InputFormat="png" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to ETT via C++" %}}
 

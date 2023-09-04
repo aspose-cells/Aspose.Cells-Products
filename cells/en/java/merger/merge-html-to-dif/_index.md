@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DIF - Combine HTML to DIF in Java
 url: /java/merger/merge-html-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to DIF saveformat. Java Combine HTML to DIF format. Merge HTML to DIF in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to DIF in Java., Free Online Java Merge HTML to dif., Java Combine HTML to DIF Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTML to DIF saveformat. Java Combine HTML to DIF format. Merge HTML to DIF in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to DIF in Java., Java Merge HTML to dif., Java Combine HTML to DIF., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTML to DIF? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to DIF in Java" %}}
 
 The following example demonstrates how to merge HTML to DIF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTML to DIF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to DIF in Java" InputFormat="html" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTML to DIF in Java" InputFormat="html" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to DIF via Java" %}}
 

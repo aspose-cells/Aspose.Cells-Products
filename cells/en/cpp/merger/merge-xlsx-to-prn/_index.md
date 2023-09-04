@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PRN - Combine XLSX to PRN in C++
 url: /cpp/merger/merge-xlsx-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to PRN saveformat. C++ Combine XLSX to PRN format. Merge XLSX to PRN in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to PRN in C++., Free Online C++ Merge XLSX to prn., C++ Combine XLSX to PRN Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSX to PRN saveformat. C++ Combine XLSX to PRN format. Merge XLSX to PRN in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to PRN in C++., C++ Merge XLSX to prn., C++ Combine XLSX to PRN., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to PRN in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to PRN in C++" %}}
 
 The following example demonstrates how to merge XLSX to PRN in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSX to PRN. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to PRN in C++" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to PRN in C++" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to PRN via C++" %}}
 

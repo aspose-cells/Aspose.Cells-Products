@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ETT - Combine FODS to ETT in Python
 url: /python-net/merger/merge-fods-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to ETT saveformat. Python Combine FODS to ETT format. Merge FODS to ETT in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to ETT in Python., Free Online Python Merge FODS to ett., Python Combine FODS to ETT Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to ETT saveformat. Python Combine FODS to ETT format. Merge FODS to ETT in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to ETT in Python., Python Merge FODS to ett., Python Combine FODS to ETT., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to ETT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to ETT in Python" %}}
 
 The following example demonstrates how to merge FODS to ETT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to ETT in Python" InputFormat="fods" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge FODS to ETT in Python" InputFormat="fods" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to ETT via Python" %}}
 

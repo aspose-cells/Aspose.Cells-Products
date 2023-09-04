@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SPREADSHEETML - Combine XLTM to SPREADSHEETML in Java
 url: /java/merger/merge-xltm-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to SPREADSHEETML saveformat. Java Combine XLTM to SPREADSHEETML format. Merge XLTM to SPREADSHEETML in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to SPREADSHEETML in Java., Free Online Java Merge XLTM to spreadsheetml., Java Combine XLTM to SPREADSHEETML Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLTM to SPREADSHEETML saveformat. Java Combine XLTM to SPREADSHEETML format. Merge XLTM to SPREADSHEETML in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to SPREADSHEETML in Java., Java Merge XLTM to spreadsheetml., Java Combine XLTM to SPREADSHEETML., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLTM to SPREADSHEETML? With Aspose.Cells for Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to merge XLTM to SPREADSHEETML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLTM to SPREADSHEETML. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to SPREADSHEETML in Java" InputFormat="xltm" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to SPREADSHEETML in Java" InputFormat="xltm" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to SPREADSHEETML via Java" %}}
 

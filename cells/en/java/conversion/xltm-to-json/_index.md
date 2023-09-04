@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to JSON - Online XLTM to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to JSON saveformat. Java XLTM to JSON format. Save XLTM to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to JSON saveformat., Free Online XLTM to JSON Java., Java Convert XLTM to JSON]
+title: Java XLTM to JSON - XLTM to JSON Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to JSON in Java. Java Convert XLTM to JSON saveformat. Java XLTM to JSON format. Save XLTM to JSON Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to JSON in Java., Java XLTM to JSON saveformat., XLTM to JSON Java., Java Convert XLTM to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to JSON? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to JSON in Java" %}}
 
 The following example demonstrates how to convert XLTM to JSON in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to JSON. Upload your XLTM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to JSON via Java" %}}
 

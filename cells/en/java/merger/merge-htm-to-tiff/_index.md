@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TIFF - Combine HTM to TIFF in Java
 url: /java/merger/merge-htm-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to TIFF saveformat. Java Combine HTM to TIFF format. Merge HTM to TIFF in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to TIFF in Java., Free Online Java Merge HTM to tiff., Java Combine HTM to TIFF Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTM to TIFF saveformat. Java Combine HTM to TIFF format. Merge HTM to TIFF in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to TIFF in Java., Java Merge HTM to tiff., Java Combine HTM to TIFF., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTM to TIFF? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to TIFF in Java" %}}
 
 The following example demonstrates how to merge HTM to TIFF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTM to TIFF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to TIFF in Java" InputFormat="htm" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTM to TIFF in Java" InputFormat="htm" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to TIFF via Java" %}}
 

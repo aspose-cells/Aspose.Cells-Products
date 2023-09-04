@@ -1,7 +1,7 @@
 ---
-title: C++ PRN to TXT - Online PRN to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PRN to TXT saveformat. C++ PRN to TXT format. Save PRN to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to TXT saveformat., Free Online PRN to TXT C++., C++ Convert PRN to TXT]
+title: C++ PRN to TXT - PRN to TXT Converter
+description: Aspose Excel. C++ Aspose.Cells. PRN to TXT in C++. C++ Convert PRN to TXT saveformat. C++ PRN to TXT format. Save PRN to TXT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., PRN to TXT in C++., C++ PRN to TXT saveformat., PRN to TXT C++., C++ Convert PRN to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PRN to TXT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PRN to TXT in C++" %}}
 
 The following example demonstrates how to convert PRN to TXT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert PRN to TXT. Upload your PRN file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PRN to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="txt" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert PRN to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="txt" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to TXT via C++" %}}
 

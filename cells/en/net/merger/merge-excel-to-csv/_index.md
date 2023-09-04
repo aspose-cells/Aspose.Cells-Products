@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to CSV - Combine EXCEL to CSV in C#
 url: /net/merger/merge-excel-to-csv/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to CSV saveformat. C# Combine EXCEL to CSV format. Merge EXCEL to CSV in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to CSV in C#., Free Online C# Merge EXCEL to csv., C# Combine EXCEL to CSV Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge EXCEL to CSV saveformat. C# Combine EXCEL to CSV format. Merge EXCEL to CSV in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to CSV in C#., C# Merge EXCEL to csv., C# Combine EXCEL to CSV., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to CSV in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to CSV in C#" %}}
 
 The following example demonstrates how to merge EXCEL to CSV in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge EXCEL to CSV. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to CSV in C#" InputFormat="xlsx" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to CSV in C#" InputFormat="xlsx" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to CSV via C#" %}}
 

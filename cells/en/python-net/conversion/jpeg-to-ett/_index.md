@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to ETT - Online JPEG to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to ETT saveformat. Python JPEG to ETT format. Save JPEG to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to ETT saveformat., Free Online JPEG to ETT Python., Python Convert JPEG to ETT]
+title: Python JPEG to ETT - JPEG to ETT Converter
+description: Aspose Excel. Python Aspose.Cells. JPEG to ETT in Python. Python Convert JPEG to ETT saveformat. Python JPEG to ETT format. Save JPEG to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPEG to ETT in Python., Python JPEG to ETT saveformat., JPEG to ETT Python., Python Convert JPEG to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert JPEG to ETT? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to ETT in Python" %}}
 
 The following example demonstrates how to convert JPEG to ETT in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPEG to ETT. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to ETT" %}}
 

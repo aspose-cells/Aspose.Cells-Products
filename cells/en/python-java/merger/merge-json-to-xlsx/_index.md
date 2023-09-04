@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLSX - Combine JSON to XLSX in Python
 url: /python-java/merger/merge-json-to-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to XLSX saveformat. Python Combine JSON to XLSX format. Merge JSON to XLSX in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLSX in Python., Free Online Python Merge JSON to xlsx., Python Combine JSON to XLSX Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JSON to XLSX saveformat. Python Combine JSON to XLSX format. Merge JSON to XLSX in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLSX in Python., Python Merge JSON to xlsx., Python Combine JSON to XLSX., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JSON to XLSX? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to XLSX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to XLSX in Python" %}}
 
 The following example demonstrates how to merge JSON to XLSX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JSON to XLSX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to XLSX in Python" InputFormat="json" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JSON to XLSX in Python" InputFormat="json" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to XLSX via Python" %}}
 

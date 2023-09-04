@@ -1,7 +1,7 @@
 ---
-title: Python SXC to XLT - Online SXC to XLT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to XLT saveformat. Python SXC to XLT format. Save SXC to XLT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to XLT saveformat., Free Online SXC to XLT Python., Python Convert SXC to XLT]
+title: Python SXC to XLT - SXC to XLT Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to XLT in Python. Python Convert SXC to XLT saveformat. Python SXC to XLT format. Save SXC to XLT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to XLT in Python., Python SXC to XLT saveformat., SXC to XLT Python., Python Convert SXC to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to XLT? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to XLT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to XLT in Python" %}}
 
 The following example demonstrates how to convert SXC to XLT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to XLT. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to XLT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XLT via Python" %}}
 

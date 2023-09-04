@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to BMP - Combine TSV to BMP in C#
 url: /net/merger/merge-tsv-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to BMP saveformat. C# Combine TSV to BMP format. Merge TSV to BMP in C#. TSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to BMP in C#., Free Online C# Merge TSV to bmp., C# Combine TSV to BMP Online for Free., TSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TSV to BMP saveformat. C# Combine TSV to BMP format. Merge TSV to BMP in C#. TSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to BMP in C#., C# Merge TSV to bmp., C# Combine TSV to BMP., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to BMP in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to BMP in C#" %}}
 
 The following example demonstrates how to merge TSV to BMP in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to BMP. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to BMP in C#" InputFormat="tsv" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TSV to BMP in C#" InputFormat="tsv" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to BMP via C#" %}}
 

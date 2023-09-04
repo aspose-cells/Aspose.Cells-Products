@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to EMF - Combine OTS to EMF in Python
 url: /python-net/merger/merge-ots-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to EMF saveformat. Python Combine OTS to EMF format. Merge OTS to EMF in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to EMF in Python., Free Online Python Merge OTS to emf., Python Combine OTS to EMF Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to EMF saveformat. Python Combine OTS to EMF format. Merge OTS to EMF in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to EMF in Python., Python Merge OTS to emf., Python Combine OTS to EMF., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to EMF? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in Python" %}}
 
 The following example demonstrates how to merge OTS to EMF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to EMF in Python" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge OTS to EMF in Python" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to EMF via Python" %}}
 

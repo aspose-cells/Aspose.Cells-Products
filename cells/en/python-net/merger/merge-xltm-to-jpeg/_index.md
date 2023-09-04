@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JPEG - Combine XLTM to JPEG in Python
 url: /python-net/merger/merge-xltm-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to JPEG saveformat. Python Combine XLTM to JPEG format. Merge XLTM to JPEG in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to JPEG in Python., Free Online Python Merge XLTM to jpeg., Python Combine XLTM to JPEG Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTM to JPEG saveformat. Python Combine XLTM to JPEG format. Merge XLTM to JPEG in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to JPEG in Python., Python Merge XLTM to jpeg., Python Combine XLTM to JPEG., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTM to JPEG? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to JPEG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to JPEG in Python" %}}
 
 The following example demonstrates how to merge XLTM to JPEG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTM to JPEG. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to JPEG in Python" InputFormat="xltm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to JPEG in Python" InputFormat="xltm" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to JPEG via Python" %}}
 

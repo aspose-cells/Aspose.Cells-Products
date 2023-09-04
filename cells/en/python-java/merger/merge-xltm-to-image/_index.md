@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to IMAGE - Combine XLTM to IMAGE in Python
 url: /python-java/merger/merge-xltm-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to IMAGE saveformat. Python Combine XLTM to IMAGE format. Merge XLTM to IMAGE in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to IMAGE in Python., Free Online Python Merge XLTM to image., Python Combine XLTM to IMAGE Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTM to IMAGE saveformat. Python Combine XLTM to IMAGE format. Merge XLTM to IMAGE in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to IMAGE in Python., Python Merge XLTM to image., Python Combine XLTM to IMAGE., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTM to IMAGE? With Aspose.Cells for Python via Java library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to IMAGE in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to IMAGE in Python" %}}
 
 The following example demonstrates how to merge XLTM to IMAGE in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTM to IMAGE. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to IMAGE in Python" InputFormat="xltm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to IMAGE in Python" InputFormat="xltm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to IMAGE via Python" %}}
 

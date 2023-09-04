@@ -1,7 +1,7 @@
 ---
-title: Python ODS to SQL - Online ODS to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to SQL saveformat. Python ODS to SQL format. Save ODS to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to SQL saveformat., Free Online ODS to SQL Python., Python Convert ODS to SQL]
+title: Python ODS to SQL - ODS to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. ODS to SQL in Python. Python Convert ODS to SQL saveformat. Python ODS to SQL format. Save ODS to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., ODS to SQL in Python., Python ODS to SQL saveformat., ODS to SQL Python., Python Convert ODS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert ODS to SQL? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save ODS to SQL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to SQL in Python" %}}
 
 The following example demonstrates how to convert ODS to SQL in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert ODS to SQL. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert ODS to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to SQL" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to GIF - Combine MHTML to GIF in C#
 url: /net/merger/merge-mhtml-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to GIF saveformat. C# Combine MHTML to GIF format. Merge MHTML to GIF in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to GIF in C#., Free Online C# Merge MHTML to gif., C# Combine MHTML to GIF Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHTML to GIF saveformat. C# Combine MHTML to GIF format. Merge MHTML to GIF in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to GIF in C#., C# Merge MHTML to gif., C# Combine MHTML to GIF., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to GIF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to GIF in C#" %}}
 
 The following example demonstrates how to merge MHTML to GIF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to GIF. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to GIF in C#" InputFormat="mhtml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to GIF in C#" InputFormat="mhtml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to GIF via C#" %}}
 

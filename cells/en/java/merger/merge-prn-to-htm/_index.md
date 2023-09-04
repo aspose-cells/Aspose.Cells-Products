@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to HTM - Combine PRN to HTM in Java
 url: /java/merger/merge-prn-to-htm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to HTM saveformat. Java Combine PRN to HTM format. Merge PRN to HTM in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to HTM in Java., Free Online Java Merge PRN to htm., Java Combine PRN to HTM Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PRN to HTM saveformat. Java Combine PRN to HTM format. Merge PRN to HTM in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to HTM in Java., Java Merge PRN to htm., Java Combine PRN to HTM., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PRN to HTM? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to HTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to HTM in Java" %}}
 
 The following example demonstrates how to merge PRN to HTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PRN to HTM. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to HTM in Java" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PRN to HTM in Java" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to HTM via Java" %}}
 

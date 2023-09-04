@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to EXCEL - Combine PRN to EXCEL in C++
 url: /cpp/merger/merge-prn-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to EXCEL saveformat. C++ Combine PRN to EXCEL format. Merge PRN to EXCEL in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to EXCEL in C++., Free Online C++ Merge PRN to excel., C++ Combine PRN to EXCEL Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge PRN to EXCEL saveformat. C++ Combine PRN to EXCEL format. Merge PRN to EXCEL in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to EXCEL in C++., C++ Merge PRN to excel., C++ Combine PRN to EXCEL., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to EXCEL in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to EXCEL in C++" %}}
 
 The following example demonstrates how to merge PRN to EXCEL in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to EXCEL. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to EXCEL in C++" InputFormat="prn" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge PRN to EXCEL in C++" InputFormat="prn" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to EXCEL via C++" %}}
 

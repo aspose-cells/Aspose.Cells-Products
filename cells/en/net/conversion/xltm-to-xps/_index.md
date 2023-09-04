@@ -1,7 +1,7 @@
 ---
-title: C# XLTM to XPS - Online XLTM to XPS Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTM to XPS saveformat. C# XLTM to XPS format. Save XLTM to XPS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTM to XPS saveformat., Free Online XLTM to XPS C#., C# Convert XLTM to XPS]
+title: C# XLTM to XPS - XLTM to XPS Converter
+description: Aspose Excel. C# Aspose.Cells. XLTM to XPS in C#. C# Convert XLTM to XPS saveformat. C# XLTM to XPS format. Save XLTM to XPS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLTM to XPS in C#., C# XLTM to XPS saveformat., XLTM to XPS C#., C# Convert XLTM to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to XPS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to XPS in C#" %}}
 
 The following example demonstrates how to convert XLTM to XPS in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTM to XPS. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xps" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xps" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to XPS via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XLT - Combine XLSB to XLT in Python
 url: /python-net/merger/merge-xlsb-to-xlt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to XLT saveformat. Python Combine XLSB to XLT format. Merge XLSB to XLT in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLT in Python., Free Online Python Merge XLSB to xlt., Python Combine XLSB to XLT Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSB to XLT saveformat. Python Combine XLSB to XLT format. Merge XLSB to XLT in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLT in Python., Python Merge XLSB to xlt., Python Combine XLSB to XLT., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSB to XLT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to XLT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to XLT in Python" %}}
 
 The following example demonstrates how to merge XLSB to XLT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSB to XLT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to XLT in Python" InputFormat="xlsb" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to XLT in Python" InputFormat="xlsb" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to XLT via Python" %}}
 

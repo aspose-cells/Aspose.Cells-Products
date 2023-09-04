@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PPTX - Combine OTS to PPTX in Python
 url: /python-java/merger/merge-ots-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to PPTX saveformat. Python Combine OTS to PPTX format. Merge OTS to PPTX in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PPTX in Python., Free Online Python Merge OTS to pptx., Python Combine OTS to PPTX Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to PPTX saveformat. Python Combine OTS to PPTX format. Merge OTS to PPTX in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PPTX in Python., Python Merge OTS to pptx., Python Combine OTS to PPTX., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to PPTX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to PPTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to PPTX in Python" %}}
 
 The following example demonstrates how to merge OTS to PPTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to PPTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to PPTX in Python" InputFormat="ots" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge OTS to PPTX in Python" InputFormat="ots" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to PPTX via Python" %}}
 

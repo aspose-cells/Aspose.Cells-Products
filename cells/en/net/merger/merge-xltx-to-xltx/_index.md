@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLTX - Combine XLTX to XLTX in C#
 url: /net/merger/merge-xltx-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to XLTX saveformat. C# Combine XLTX to XLTX format. Merge XLTX to XLTX in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to XLTX in C#., Free Online C# Merge XLTX to xltx., C# Combine XLTX to XLTX Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLTX to XLTX saveformat. C# Combine XLTX to XLTX format. Merge XLTX to XLTX in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to XLTX in C#., C# Merge XLTX to xltx., C# Combine XLTX to XLTX., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to XLTX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to XLTX in C#" %}}
 
 The following example demonstrates how to merge XLTX to XLTX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTX to XLTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to XLTX in C#" InputFormat="xltx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to XLTX in C#" InputFormat="xltx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to XLTX via C#" %}}
 

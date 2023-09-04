@@ -1,7 +1,7 @@
 ---
-title: C# TXT to JPEG - Online TXT to JPEG Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to JPEG saveformat. C# TXT to JPEG format. Save TXT to JPEG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to JPEG saveformat., Free Online TXT to JPEG C#., C# Convert TXT to JPEG]
+title: C# TXT to JPEG - TXT to JPEG Converter
+description: Aspose Excel. C# Aspose.Cells. TXT to JPEG in C#. C# Convert TXT to JPEG saveformat. C# TXT to JPEG format. Save TXT to JPEG C#.
+keywords: [Aspose Excel., C# Aspose.Cells., TXT to JPEG in C#., C# TXT to JPEG saveformat., TXT to JPEG C#., C# Convert TXT to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to JPEG in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to JPEG in C#" %}}
 
 The following example demonstrates how to convert TXT to JPEG in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TXT to JPEG. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TXT to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to JPEG via C#" %}}
 

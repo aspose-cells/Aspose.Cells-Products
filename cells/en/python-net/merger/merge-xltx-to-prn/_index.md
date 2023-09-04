@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PRN - Combine XLTX to PRN in Python
 url: /python-net/merger/merge-xltx-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to PRN saveformat. Python Combine XLTX to PRN format. Merge XLTX to PRN in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PRN in Python., Free Online Python Merge XLTX to prn., Python Combine XLTX to PRN Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLTX to PRN saveformat. Python Combine XLTX to PRN format. Merge XLTX to PRN in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PRN in Python., Python Merge XLTX to prn., Python Combine XLTX to PRN., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLTX to PRN? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTX to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTX to PRN in Python" %}}
 
 The following example demonstrates how to merge XLTX to PRN in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLTX to PRN. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTX to PRN in Python" InputFormat="xltx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLTX to PRN in Python" InputFormat="xltx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX to PRN via Python" %}}
 

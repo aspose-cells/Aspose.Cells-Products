@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to CSV - Combine MHTML to CSV in C#
 url: /net/merger/merge-mhtml-to-csv/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to CSV saveformat. C# Combine MHTML to CSV format. Merge MHTML to CSV in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to CSV in C#., Free Online C# Merge MHTML to csv., C# Combine MHTML to CSV Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHTML to CSV saveformat. C# Combine MHTML to CSV format. Merge MHTML to CSV in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to CSV in C#., C# Merge MHTML to csv., C# Combine MHTML to CSV., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to CSV in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to CSV in C#" %}}
 
 The following example demonstrates how to merge MHTML to CSV in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to CSV. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to CSV in C#" InputFormat="mhtml" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to CSV in C#" InputFormat="mhtml" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to CSV via C#" %}}
 

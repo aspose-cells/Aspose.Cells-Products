@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PDF - Combine FODS to PDF in C++
 url: /cpp/merger/merge-fods-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to PDF saveformat. C++ Combine FODS to PDF format. Merge FODS to PDF in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to PDF in C++., Free Online C++ Merge FODS to pdf., C++ Combine FODS to PDF Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge FODS to PDF saveformat. C++ Combine FODS to PDF format. Merge FODS to PDF in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to PDF in C++., C++ Merge FODS to pdf., C++ Combine FODS to PDF., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to PDF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to PDF in C++" %}}
 
 The following example demonstrates how to merge FODS to PDF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge FODS to PDF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to PDF in C++" InputFormat="fods" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge FODS to PDF in C++" InputFormat="fods" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to PDF via C++" %}}
 

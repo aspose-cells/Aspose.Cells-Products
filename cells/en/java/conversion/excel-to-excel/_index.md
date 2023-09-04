@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to EXCEL - Online EXCEL to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to EXCEL saveformat. Java EXCEL to EXCEL format. Save EXCEL to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to EXCEL saveformat., Free Online EXCEL to EXCEL Java., Java Convert EXCEL to EXCEL]
+title: Java EXCEL to EXCEL - EXCEL to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to EXCEL in Java. Java Convert EXCEL to EXCEL saveformat. Java EXCEL to EXCEL format. Save EXCEL to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to EXCEL in Java., Java EXCEL to EXCEL saveformat., EXCEL to EXCEL Java., Java Convert EXCEL to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to EXCEL? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to EXCEL in Java" %}}
 
 The following example demonstrates how to convert EXCEL to EXCEL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to EXCEL. Upload your EXCEL file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to EXCEL via Java" %}}
 

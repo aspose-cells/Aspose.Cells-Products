@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to JSON - Combine JPG to JSON in Java
 url: /java/merger/merge-jpg-to-json/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to JSON saveformat. Java Combine JPG to JSON format. Merge JPG to JSON in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JSON in Java., Free Online Java Merge JPG to json., Java Combine JPG to JSON Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPG to JSON saveformat. Java Combine JPG to JSON format. Merge JPG to JSON in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JSON in Java., Java Merge JPG to json., Java Combine JPG to JSON., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPG to JSON? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to JSON in Java" %}}
 
 The following example demonstrates how to merge JPG to JSON in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPG to JSON. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to JSON in Java" InputFormat="jpg" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPG to JSON in Java" InputFormat="jpg" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to JSON via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python HTM to MARKDOWN - Online HTM to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to MARKDOWN saveformat. Python HTM to MARKDOWN format. Save HTM to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MARKDOWN saveformat., Free Online HTM to MARKDOWN Python., Python Convert HTM to MARKDOWN]
+title: Python HTM to MARKDOWN - HTM to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. HTM to MARKDOWN in Python. Python Convert HTM to MARKDOWN saveformat. Python HTM to MARKDOWN format. Save HTM to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTM to MARKDOWN in Python., Python HTM to MARKDOWN saveformat., HTM to MARKDOWN Python., Python Convert HTM to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTM to MARKDOWN? With Aspose.Cells for Python library, you can 
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to MARKDOWN in Python" %}}
 
 The following example demonstrates how to convert HTM to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to MARKDOWN. Upload your HTM file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to MARKDOWN via Python" %}}
 

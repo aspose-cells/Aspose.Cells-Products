@@ -1,7 +1,7 @@
 ---
-title: Java MHTML to PRN - Online MHTML to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to PRN saveformat. Java MHTML to PRN format. Save MHTML to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to PRN saveformat., Free Online MHTML to PRN Java., Java Convert MHTML to PRN]
+title: Java MHTML to PRN - MHTML to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. MHTML to PRN in Java. Java Convert MHTML to PRN saveformat. Java MHTML to PRN format. Save MHTML to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHTML to PRN in Java., Java MHTML to PRN saveformat., MHTML to PRN Java., Java Convert MHTML to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHTML to PRN? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to PRN in Java" %}}
 
 The following example demonstrates how to convert MHTML to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to PRN. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to PRN via Java" %}}
 

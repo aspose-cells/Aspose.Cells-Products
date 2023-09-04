@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SXC - Combine JPEG to SXC in Python
 url: /python-java/merger/merge-jpeg-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to SXC saveformat. Python Combine JPEG to SXC format. Merge JPEG to SXC in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SXC in Python., Free Online Python Merge JPEG to sxc., Python Combine JPEG to SXC Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPEG to SXC saveformat. Python Combine JPEG to SXC format. Merge JPEG to SXC in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SXC in Python., Python Merge JPEG to sxc., Python Combine JPEG to SXC., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPEG to SXC? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to SXC in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to SXC in Python" %}}
 
 The following example demonstrates how to merge JPEG to SXC in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPEG to SXC. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to SXC in Python" InputFormat="jpg" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to SXC in Python" InputFormat="jpg" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to SXC via Python" %}}
 

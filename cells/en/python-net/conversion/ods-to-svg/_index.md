@@ -1,7 +1,7 @@
 ---
-title: Python ODS to SVG - Online ODS to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to SVG saveformat. Python ODS to SVG format. Save ODS to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to SVG saveformat., Free Online ODS to SVG Python., Python Convert ODS to SVG]
+title: Python ODS to SVG - ODS to SVG Converter
+description: Aspose Excel. Python Aspose.Cells. ODS to SVG in Python. Python Convert ODS to SVG saveformat. Python ODS to SVG format. Save ODS to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., ODS to SVG in Python., Python ODS to SVG saveformat., ODS to SVG Python., Python Convert ODS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert ODS to SVG? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save ODS to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to SVG in Python" %}}
 
 The following example demonstrates how to convert ODS to SVG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert ODS to SVG. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert ODS to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to SVG" %}}
 

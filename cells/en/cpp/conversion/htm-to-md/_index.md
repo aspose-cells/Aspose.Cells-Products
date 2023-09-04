@@ -1,7 +1,7 @@
 ---
-title: C++ HTM to MD - Online HTM to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTM to MD saveformat. C++ HTM to MD format. Save HTM to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to MD saveformat., Free Online HTM to MD C++., C++ Convert HTM to MD]
+title: C++ HTM to MD - HTM to MD Converter
+description: Aspose Excel. C++ Aspose.Cells. HTM to MD in C++. C++ Convert HTM to MD saveformat. C++ HTM to MD format. Save HTM to MD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTM to MD in C++., C++ HTM to MD saveformat., HTM to MD C++., C++ Convert HTM to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to MD in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to MD in C++" %}}
 
 The following example demonstrates how to convert HTM to MD in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTM to MD. Upload your HTM file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTM to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to MD via C++" %}}
 

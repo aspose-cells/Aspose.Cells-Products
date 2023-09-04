@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsx File - Repair xlsx File Online for Free
+title: Python Repair xlsx File - Recover xlsx File
 url: /python-net/recovery/repair-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsx file. Free Online xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Free Online Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Aspose Excel. Python Aspose.Cells. Python Repair xlsx file. xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within Python application.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Repair a corrupted xlsx file., Python Recover xlsx file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -33,7 +33,7 @@ Need to repair xlsx file programmatically? Python developers can easily load & r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSX file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Sample Code to repair XLSX file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python library to repair XLSX file" %}}
 

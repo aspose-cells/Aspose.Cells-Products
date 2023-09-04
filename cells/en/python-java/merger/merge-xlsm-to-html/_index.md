@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to HTML - Combine XLSM to HTML in Python
 url: /python-java/merger/merge-xlsm-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to HTML saveformat. Python Combine XLSM to HTML format. Merge XLSM to HTML in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to HTML in Python., Free Online Python Merge XLSM to html., Python Combine XLSM to HTML Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSM to HTML saveformat. Python Combine XLSM to HTML format. Merge XLSM to HTML in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to HTML in Python., Python Merge XLSM to html., Python Combine XLSM to HTML., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSM to HTML? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to HTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to HTML in Python" %}}
 
 The following example demonstrates how to merge XLSM to HTML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSM to HTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to HTML in Python" InputFormat="xlsm" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to HTML in Python" InputFormat="xlsm" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to HTML via Python" %}}
 

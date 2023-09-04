@@ -1,7 +1,7 @@
 ---
-title: Java TXT to EXCEL - Online TXT to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to EXCEL saveformat. Java TXT to EXCEL format. Save TXT to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to EXCEL saveformat., Free Online TXT to EXCEL Java., Java Convert TXT to EXCEL]
+title: Java TXT to EXCEL - TXT to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to EXCEL in Java. Java Convert TXT to EXCEL saveformat. Java TXT to EXCEL format. Save TXT to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to EXCEL in Java., Java TXT to EXCEL saveformat., TXT to EXCEL Java., Java Convert TXT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to EXCEL? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to EXCEL in Java" %}}
 
 The following example demonstrates how to convert TXT to EXCEL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to EXCEL. Upload your TXT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to EXCEL via Java" %}}
 

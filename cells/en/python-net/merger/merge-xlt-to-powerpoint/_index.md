@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to POWERPOINT - Combine XLT to POWERPOINT in Python
 url: /python-net/merger/merge-xlt-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to POWERPOINT saveformat. Python Combine XLT to POWERPOINT format. Merge XLT to POWERPOINT in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Free Online Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLT to POWERPOINT saveformat. Python Combine XLT to POWERPOINT format. Merge XLT to POWERPOINT in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLT to POWERPOINT? With Aspose.Cells for Python via .NET library,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to POWERPOINT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to POWERPOINT in Python" %}}
 
 The following example demonstrates how to merge XLT to POWERPOINT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLT to POWERPOINT. Upload your files, call Workbo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to POWERPOINT in Python" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLT to POWERPOINT in Python" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to POWERPOINT via Python" %}}
 

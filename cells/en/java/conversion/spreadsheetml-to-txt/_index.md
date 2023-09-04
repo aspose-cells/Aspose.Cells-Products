@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML to TXT - Online SPREADSHEETML to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to TXT saveformat. Java SPREADSHEETML to TXT format. Save SPREADSHEETML to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to TXT saveformat., Free Online SPREADSHEETML to TXT Java., Java Convert SPREADSHEETML to TXT]
+title: Java SPREADSHEETML to TXT - SPREADSHEETML to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to TXT in Java. Java Convert SPREADSHEETML to TXT saveformat. Java SPREADSHEETML to TXT format. Save SPREADSHEETML to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to TXT in Java., Java SPREADSHEETML to TXT saveformat., SPREADSHEETML to TXT Java., Java Convert SPREADSHEETML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SPREADSHEETML to TXT? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to TXT in Java" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to TXT. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to TXT via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ NUMBERS to SQL - Online NUMBERS to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to SQL saveformat. C++ NUMBERS to SQL format. Save NUMBERS to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to SQL saveformat., Free Online NUMBERS to SQL C++., C++ Convert NUMBERS to SQL]
+title: C++ NUMBERS to SQL - NUMBERS to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. NUMBERS to SQL in C++. C++ Convert NUMBERS to SQL saveformat. C++ NUMBERS to SQL format. Save NUMBERS to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to SQL in C++., C++ NUMBERS to SQL saveformat., NUMBERS to SQL C++., C++ Convert NUMBERS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to SQL in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to SQL in C++" %}}
 
 The following example demonstrates how to convert NUMBERS to SQL in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert NUMBERS to SQL. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to SQL via C++" %}}
 

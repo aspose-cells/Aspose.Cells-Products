@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLSB - Combine TABDELIMITED to XLSB in C++
 url: /cpp/merger/merge-tabdelimited-to-xlsb/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to XLSB saveformat. C++ Combine TABDELIMITED to XLSB format. Merge TABDELIMITED to XLSB in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XLSB in C++., Free Online C++ Merge TABDELIMITED to xlsb., C++ Combine TABDELIMITED to XLSB Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge TABDELIMITED to XLSB saveformat. C++ Combine TABDELIMITED to XLSB format. Merge TABDELIMITED to XLSB in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XLSB in C++., C++ Merge TABDELIMITED to xlsb., C++ Combine TABDELIMITED to XLSB., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to XLSB in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to XLSB in C++" %}}
 
 The following example demonstrates how to merge TABDELIMITED to XLSB in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TABDELIMITED to XLSB. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to XLSB in C++" InputFormat="tsv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to XLSB in C++" InputFormat="tsv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to XLSB via C++" %}}
 

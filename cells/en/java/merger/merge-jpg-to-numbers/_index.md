@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to NUMBERS - Combine JPG to NUMBERS in Java
 url: /java/merger/merge-jpg-to-numbers/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to NUMBERS saveformat. Java Combine JPG to NUMBERS format. Merge JPG to NUMBERS in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to NUMBERS in Java., Free Online Java Merge JPG to numbers., Java Combine JPG to NUMBERS Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPG to NUMBERS saveformat. Java Combine JPG to NUMBERS format. Merge JPG to NUMBERS in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to NUMBERS in Java., Java Merge JPG to numbers., Java Combine JPG to NUMBERS., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPG to NUMBERS? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to NUMBERS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to NUMBERS in Java" %}}
 
 The following example demonstrates how to merge JPG to NUMBERS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPG to NUMBERS. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to NUMBERS in Java" InputFormat="jpg" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPG to NUMBERS in Java" InputFormat="jpg" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to NUMBERS via Java" %}}
 

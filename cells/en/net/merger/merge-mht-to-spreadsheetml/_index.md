@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SPREADSHEETML - Combine MHT to SPREADSHEETML in C#
 url: /net/merger/merge-mht-to-spreadsheetml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to SPREADSHEETML saveformat. C# Combine MHT to SPREADSHEETML format. Merge MHT to SPREADSHEETML in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to SPREADSHEETML in C#., Free Online C# Merge MHT to spreadsheetml., C# Combine MHT to SPREADSHEETML Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHT to SPREADSHEETML saveformat. C# Combine MHT to SPREADSHEETML format. Merge MHT to SPREADSHEETML in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to SPREADSHEETML in C#., C# Merge MHT to spreadsheetml., C# Combine MHT to SPREADSHEETML., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to SPREADSHEETML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to SPREADSHEETML in C#" %}}
 
 The following example demonstrates how to merge MHT to SPREADSHEETML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHT to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to SPREADSHEETML in C#" InputFormat="mht" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHT to SPREADSHEETML in C#" InputFormat="mht" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to SPREADSHEETML via C#" %}}
 

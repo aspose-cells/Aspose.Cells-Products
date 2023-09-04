@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to FODS - Combine XLSM to FODS in C++
 url: /cpp/merger/merge-xlsm-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to FODS saveformat. C++ Combine XLSM to FODS format. Merge XLSM to FODS in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to FODS in C++., Free Online C++ Merge XLSM to fods., C++ Combine XLSM to FODS Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSM to FODS saveformat. C++ Combine XLSM to FODS format. Merge XLSM to FODS in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to FODS in C++., C++ Merge XLSM to fods., C++ Combine XLSM to FODS., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to FODS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to FODS in C++" %}}
 
 The following example demonstrates how to merge XLSM to FODS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSM to FODS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to FODS in C++" InputFormat="xlsm" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to FODS in C++" InputFormat="xlsm" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to FODS via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLT to XPS - Online XLT to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to XPS saveformat. Python XLT to XPS format. Save XLT to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to XPS saveformat., Free Online XLT to XPS Python., Python Convert XLT to XPS]
+title: Python XLT to XPS - XLT to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to XPS in Python. Python Convert XLT to XPS saveformat. Python XLT to XPS format. Save XLT to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to XPS in Python., Python XLT to XPS saveformat., XLT to XPS Python., Python Convert XLT to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to XPS? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to XPS in Python" %}}
 
 The following example demonstrates how to convert XLT to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to XPS. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XPS via Python" %}}
 

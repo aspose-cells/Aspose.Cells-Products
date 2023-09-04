@@ -1,7 +1,7 @@
 ---
-title: Java MHT to MD - Online MHT to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to MD saveformat. Java MHT to MD format. Save MHT to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to MD saveformat., Free Online MHT to MD Java., Java Convert MHT to MD]
+title: Java MHT to MD - MHT to MD Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to MD in Java. Java Convert MHT to MD saveformat. Java MHT to MD format. Save MHT to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to MD in Java., Java MHT to MD saveformat., MHT to MD Java., Java Convert MHT to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to MD in Java" %}}
 
 The following example demonstrates how to convert MHT to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to MD. Upload your MHT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MD via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to PRN - Online XLSB to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to PRN saveformat. Python XLSB to PRN format. Save XLSB to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to PRN saveformat., Free Online XLSB to PRN Python., Python Convert XLSB to PRN]
+title: Python XLSB to PRN - XLSB to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to PRN in Python. Python Convert XLSB to PRN saveformat. Python XLSB to PRN format. Save XLSB to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to PRN in Python., Python XLSB to PRN saveformat., XLSB to PRN Python., Python Convert XLSB to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSB to PRN? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to PRN in Python" %}}
 
 The following example demonstrates how to convert XLSB to PRN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to PRN. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to PRN via Python" %}}
 

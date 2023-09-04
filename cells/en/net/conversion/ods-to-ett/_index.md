@@ -1,7 +1,7 @@
 ---
-title: C# ODS to ETT - Online ODS to ETT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert ODS to ETT saveformat. C# ODS to ETT format. Save ODS to ETT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# ODS to ETT saveformat., Free Online ODS to ETT C#., C# Convert ODS to ETT]
+title: C# ODS to ETT - ODS to ETT Converter
+description: Aspose Excel. C# Aspose.Cells. ODS to ETT in C#. C# Convert ODS to ETT saveformat. C# ODS to ETT format. Save ODS to ETT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., ODS to ETT in C#., C# ODS to ETT saveformat., ODS to ETT C#., C# Convert ODS to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to ETT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to ETT in C#" %}}
 
 The following example demonstrates how to convert ODS to ETT in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert ODS to ETT. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert ODS to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to ETT via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to NUMBERS - Combine XLSM to NUMBERS in Python
 url: /python-java/merger/merge-xlsm-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to NUMBERS saveformat. Python Combine XLSM to NUMBERS format. Merge XLSM to NUMBERS in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to NUMBERS in Python., Free Online Python Merge XLSM to numbers., Python Combine XLSM to NUMBERS Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSM to NUMBERS saveformat. Python Combine XLSM to NUMBERS format. Merge XLSM to NUMBERS in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to NUMBERS in Python., Python Merge XLSM to numbers., Python Combine XLSM to NUMBERS., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSM to NUMBERS? With Aspose.Cells for Python via Java library, y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to NUMBERS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to NUMBERS in Python" %}}
 
 The following example demonstrates how to merge XLSM to NUMBERS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSM to NUMBERS. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to NUMBERS in Python" InputFormat="xlsm" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to NUMBERS in Python" InputFormat="xlsm" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to NUMBERS via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTML - Combine TXT to HTML in Python
 url: /python-net/merger/merge-txt-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to HTML saveformat. Python Combine TXT to HTML format. Merge TXT to HTML in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to HTML in Python., Free Online Python Merge TXT to html., Python Combine TXT to HTML Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TXT to HTML saveformat. Python Combine TXT to HTML format. Merge TXT to HTML in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to HTML in Python., Python Merge TXT to html., Python Combine TXT to HTML., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TXT to HTML? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to HTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to HTML in Python" %}}
 
 The following example demonstrates how to merge TXT to HTML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TXT to HTML. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to HTML in Python" InputFormat="txt" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TXT to HTML in Python" InputFormat="txt" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to HTML via Python" %}}
 

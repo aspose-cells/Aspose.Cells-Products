@@ -1,7 +1,7 @@
 ---
-title: Java TXT to XLAM - Online TXT to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to XLAM saveformat. Java TXT to XLAM format. Save TXT to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to XLAM saveformat., Free Online TXT to XLAM Java., Java Convert TXT to XLAM]
+title: Java TXT to XLAM - TXT to XLAM Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to XLAM in Java. Java Convert TXT to XLAM saveformat. Java TXT to XLAM format. Save TXT to XLAM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to XLAM in Java., Java TXT to XLAM saveformat., TXT to XLAM Java., Java Convert TXT to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to XLAM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to XLAM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to XLAM in Java" %}}
 
 The following example demonstrates how to convert TXT to XLAM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to XLAM. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to XLAM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XLAM via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MHTML - Combine XML to MHTML in Python
 url: /python-java/merger/merge-xml-to-mhtml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to MHTML saveformat. Python Combine XML to MHTML format. Merge XML to MHTML in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MHTML in Python., Free Online Python Merge XML to mhtml., Python Combine XML to MHTML Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to MHTML saveformat. Python Combine XML to MHTML format. Merge XML to MHTML in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MHTML in Python., Python Merge XML to mhtml., Python Combine XML to MHTML., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to MHTML? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to MHTML in Python" %}}
 
 The following example demonstrates how to merge XML to MHTML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to MHTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to MHTML in Python" InputFormat="xml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XML to MHTML in Python" InputFormat="xml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to MHTML via Python" %}}
 

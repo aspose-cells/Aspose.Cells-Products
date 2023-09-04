@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to SXC - Online XLSB to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to SXC saveformat. Java XLSB to SXC format. Save XLSB to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to SXC saveformat., Free Online XLSB to SXC Java., Java Convert XLSB to SXC]
+title: Java XLSB to SXC - XLSB to SXC Converter
+description: Aspose Excel. Java Aspose.Cells. XLSB to SXC in Java. Java Convert XLSB to SXC saveformat. Java XLSB to SXC format. Save XLSB to SXC Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSB to SXC in Java., Java XLSB to SXC saveformat., XLSB to SXC Java., Java Convert XLSB to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSB to SXC? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to SXC in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to SXC in Java" %}}
 
 The following example demonstrates how to convert XLSB to SXC in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to SXC. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to SXC via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MHTML - Combine IMAGE to MHTML in C#
 url: /net/merger/merge-image-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to MHTML saveformat. C# Combine IMAGE to MHTML format. Merge IMAGE to MHTML in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to MHTML in C#., Free Online C# Merge IMAGE to mhtml., C# Combine IMAGE to MHTML Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge IMAGE to MHTML saveformat. C# Combine IMAGE to MHTML format. Merge IMAGE to MHTML in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to MHTML in C#., C# Merge IMAGE to mhtml., C# Combine IMAGE to MHTML., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to MHTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to MHTML in C#" %}}
 
 The following example demonstrates how to merge IMAGE to MHTML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to MHTML. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to MHTML in C#" InputFormat="png" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to MHTML in C#" InputFormat="png" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to MHTML via C#" %}}
 

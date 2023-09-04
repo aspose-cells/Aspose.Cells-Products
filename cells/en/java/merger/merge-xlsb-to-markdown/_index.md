@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MARKDOWN - Combine XLSB to MARKDOWN in Java
 url: /java/merger/merge-xlsb-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to MARKDOWN saveformat. Java Combine XLSB to MARKDOWN format. Merge XLSB to MARKDOWN in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MARKDOWN in Java., Free Online Java Merge XLSB to markdown., Java Combine XLSB to MARKDOWN Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSB to MARKDOWN saveformat. Java Combine XLSB to MARKDOWN format. Merge XLSB to MARKDOWN in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MARKDOWN in Java., Java Merge XLSB to markdown., Java Combine XLSB to MARKDOWN., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSB to MARKDOWN? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to MARKDOWN in Java" %}}
 
 The following example demonstrates how to merge XLSB to MARKDOWN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSB to MARKDOWN. Upload your files, call Workboo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to MARKDOWN in Java" InputFormat="xlsb" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to MARKDOWN in Java" InputFormat="xlsb" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to MARKDOWN via Java" %}}
 

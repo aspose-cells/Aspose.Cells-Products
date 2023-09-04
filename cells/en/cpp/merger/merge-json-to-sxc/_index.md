@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SXC - Combine JSON to SXC in C++
 url: /cpp/merger/merge-json-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to SXC saveformat. C++ Combine JSON to SXC format. Merge JSON to SXC in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to SXC in C++., Free Online C++ Merge JSON to sxc., C++ Combine JSON to SXC Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JSON to SXC saveformat. C++ Combine JSON to SXC format. Merge JSON to SXC in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to SXC in C++., C++ Merge JSON to sxc., C++ Combine JSON to SXC., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to SXC in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to SXC in C++" %}}
 
 The following example demonstrates how to merge JSON to SXC in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JSON to SXC. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to SXC in C++" InputFormat="json" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JSON to SXC in C++" InputFormat="json" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to SXC via C++" %}}
 

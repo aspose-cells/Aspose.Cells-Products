@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to DOCX - Online XLSM to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to DOCX saveformat. Java XLSM to DOCX format. Save XLSM to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to DOCX saveformat., Free Online XLSM to DOCX Java., Java Convert XLSM to DOCX]
+title: Java XLSM to DOCX - XLSM to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to DOCX in Java. Java Convert XLSM to DOCX saveformat. Java XLSM to DOCX format. Save XLSM to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to DOCX in Java., Java XLSM to DOCX saveformat., XLSM to DOCX Java., Java Convert XLSM to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to DOCX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to DOCX in Java" %}}
 
 The following example demonstrates how to convert XLSM to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to DOCX. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to DOCX via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TSV - Combine HTML to TSV in Java
 url: /java/merger/merge-html-to-tsv/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to TSV saveformat. Java Combine HTML to TSV format. Merge HTML to TSV in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to TSV in Java., Free Online Java Merge HTML to tsv., Java Combine HTML to TSV Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTML to TSV saveformat. Java Combine HTML to TSV format. Merge HTML to TSV in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to TSV in Java., Java Merge HTML to tsv., Java Combine HTML to TSV., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTML to TSV? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to TSV in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to TSV in Java" %}}
 
 The following example demonstrates how to merge HTML to TSV in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTML to TSV. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to TSV in Java" InputFormat="html" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTML to TSV in Java" InputFormat="html" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to TSV via Java" %}}
 

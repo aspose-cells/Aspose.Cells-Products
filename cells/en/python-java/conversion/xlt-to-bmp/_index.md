@@ -1,7 +1,7 @@
 ---
-title: Python XLT to BMP - Online XLT to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to BMP saveformat. Python XLT to BMP format. Save XLT to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to BMP saveformat., Free Online XLT to BMP Python., Python Convert XLT to BMP]
+title: Python XLT to BMP - XLT to BMP Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to BMP in Python. Python Convert XLT to BMP saveformat. Python XLT to BMP format. Save XLT to BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to BMP in Python., Python XLT to BMP saveformat., XLT to BMP Python., Python Convert XLT to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLT to BMP? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to BMP in Python" %}}
 
 The following example demonstrates how to convert XLT to BMP in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to BMP. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to BMP via Python" %}}
 

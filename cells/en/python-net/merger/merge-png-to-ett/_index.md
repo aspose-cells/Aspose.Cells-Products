@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ETT - Combine PNG to ETT in Python
 url: /python-net/merger/merge-png-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to ETT saveformat. Python Combine PNG to ETT format. Merge PNG to ETT in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to ETT in Python., Free Online Python Merge PNG to ett., Python Combine PNG to ETT Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to ETT saveformat. Python Combine PNG to ETT format. Merge PNG to ETT in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to ETT in Python., Python Merge PNG to ett., Python Combine PNG to ETT., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to ETT? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to ETT in Python" %}}
 
 The following example demonstrates how to merge PNG to ETT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to ETT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to ETT in Python" InputFormat="png" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge PNG to ETT in Python" InputFormat="png" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to ETT via Python" %}}
 

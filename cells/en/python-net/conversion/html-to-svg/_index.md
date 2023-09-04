@@ -1,7 +1,7 @@
 ---
-title: Python HTML to SVG - Online HTML to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to SVG saveformat. Python HTML to SVG format. Save HTML to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SVG saveformat., Free Online HTML to SVG Python., Python Convert HTML to SVG]
+title: Python HTML to SVG - HTML to SVG Converter
+description: Aspose Excel. Python Aspose.Cells. HTML to SVG in Python. Python Convert HTML to SVG saveformat. Python HTML to SVG format. Save HTML to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTML to SVG in Python., Python HTML to SVG saveformat., HTML to SVG Python., Python Convert HTML to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert HTML to SVG? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save HTML to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to SVG in Python" %}}
 
 The following example demonstrates how to convert HTML to SVG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert HTML to SVG. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert HTML to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to SVG" %}}
 

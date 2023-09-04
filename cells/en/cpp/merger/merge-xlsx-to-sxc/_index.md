@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SXC - Combine XLSX to SXC in C++
 url: /cpp/merger/merge-xlsx-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to SXC saveformat. C++ Combine XLSX to SXC format. Merge XLSX to SXC in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SXC in C++., Free Online C++ Merge XLSX to sxc., C++ Combine XLSX to SXC Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSX to SXC saveformat. C++ Combine XLSX to SXC format. Merge XLSX to SXC in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SXC in C++., C++ Merge XLSX to sxc., C++ Combine XLSX to SXC., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSX to SXC in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSX to SXC in C++" %}}
 
 The following example demonstrates how to merge XLSX to SXC in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSX to SXC. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSX to SXC in C++" InputFormat="xlsx" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSX to SXC in C++" InputFormat="xlsx" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to SXC via C++" %}}
 

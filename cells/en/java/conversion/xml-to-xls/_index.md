@@ -1,7 +1,7 @@
 ---
-title: Java XML to XLS - Online XML to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to XLS saveformat. Java XML to XLS format. Save XML to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to XLS saveformat., Free Online XML to XLS Java., Java Convert XML to XLS]
+title: Java XML to XLS - XML to XLS Converter
+description: Aspose Excel. Java Aspose.Cells. XML to XLS in Java. Java Convert XML to XLS saveformat. Java XML to XLS format. Save XML to XLS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XML to XLS in Java., Java XML to XLS saveformat., XML to XLS Java., Java Convert XML to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XML to XLS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to XLS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to XLS in Java" %}}
 
 The following example demonstrates how to convert XML to XLS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XML to XLS. Upload your XML file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to XLS via Java" %}}
 

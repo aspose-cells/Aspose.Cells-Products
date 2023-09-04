@@ -1,7 +1,7 @@
 ---
-title: C# SXC to PDF - Online SXC to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert SXC to PDF saveformat. C# SXC to PDF format. Save SXC to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# SXC to PDF saveformat., Free Online SXC to PDF C#., C# Convert SXC to PDF]
+title: C# SXC to PDF - SXC to PDF Converter
+description: Aspose Excel. C# Aspose.Cells. SXC to PDF in C#. C# Convert SXC to PDF saveformat. C# SXC to PDF format. Save SXC to PDF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., SXC to PDF in C#., C# SXC to PDF saveformat., SXC to PDF C#., C# Convert SXC to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to PDF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to PDF in C#" %}}
 
 The following example demonstrates how to convert SXC to PDF in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert SXC to PDF. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pdf" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert SXC to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pdf" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to PDF via C#" %}}
 

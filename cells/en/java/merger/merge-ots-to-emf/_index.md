@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to EMF - Combine OTS to EMF in Java
 url: /java/merger/merge-ots-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to EMF saveformat. Java Combine OTS to EMF format. Merge OTS to EMF in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free Online Java Merge OTS to emf., Java Combine OTS to EMF Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge OTS to EMF saveformat. Java Combine OTS to EMF format. Merge OTS to EMF in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Java Merge OTS to emf., Java Combine OTS to EMF., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge OTS to EMF? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to EMF in Java" %}}
 
 The following example demonstrates how to merge OTS to EMF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge OTS to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to EMF in Java" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge OTS to EMF in Java" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to EMF via Java" %}}
 

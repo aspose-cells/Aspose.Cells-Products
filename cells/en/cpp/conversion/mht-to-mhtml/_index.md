@@ -1,7 +1,7 @@
 ---
-title: C++ MHT to MHTML - Online MHT to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to MHTML saveformat. C++ MHT to MHTML format. Save MHT to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to MHTML saveformat., Free Online MHT to MHTML C++., C++ Convert MHT to MHTML]
+title: C++ MHT to MHTML - MHT to MHTML Converter
+description: Aspose Excel. C++ Aspose.Cells. MHT to MHTML in C++. C++ Convert MHT to MHTML saveformat. C++ MHT to MHTML format. Save MHT to MHTML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., MHT to MHTML in C++., C++ MHT to MHTML saveformat., MHT to MHTML C++., C++ Convert MHT to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to MHTML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to MHTML in C++" %}}
 
 The following example demonstrates how to convert MHT to MHTML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert MHT to MHTML. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MHTML via C++" %}}
 

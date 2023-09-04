@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to SQL - Online EXCEL to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to SQL saveformat. Java EXCEL to SQL format. Save EXCEL to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to SQL saveformat., Free Online EXCEL to SQL Java., Java Convert EXCEL to SQL]
+title: Java EXCEL to SQL - EXCEL to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. EXCEL to SQL in Java. Java Convert EXCEL to SQL saveformat. Java EXCEL to SQL format. Save EXCEL to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to SQL in Java., Java EXCEL to SQL saveformat., EXCEL to SQL Java., Java Convert EXCEL to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert EXCEL to SQL? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to SQL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to SQL in Java" %}}
 
 The following example demonstrates how to convert EXCEL to SQL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to SQL. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to SQL via Java" %}}
 

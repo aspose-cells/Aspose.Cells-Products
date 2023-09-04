@@ -1,7 +1,7 @@
 ---
-title: Python XML to MHTML - Online XML to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to MHTML saveformat. Python XML to MHTML format. Save XML to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to MHTML saveformat., Free Online XML to MHTML Python., Python Convert XML to MHTML]
+title: Python XML to MHTML - XML to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. XML to MHTML in Python. Python Convert XML to MHTML saveformat. Python XML to MHTML format. Save XML to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XML to MHTML in Python., Python XML to MHTML saveformat., XML to MHTML Python., Python Convert XML to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XML to MHTML? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XML to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to MHTML in Python" %}}
 
 The following example demonstrates how to convert XML to MHTML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XML to MHTML. Upload your XML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XML to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to MHTML" %}}
 

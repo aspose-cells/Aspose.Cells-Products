@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to GIF - Combine FODS to GIF in Python
 url: /python-java/merger/merge-fods-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to GIF saveformat. Python Combine FODS to GIF format. Merge FODS to GIF in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to GIF in Python., Free Online Python Merge FODS to gif., Python Combine FODS to GIF Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to GIF saveformat. Python Combine FODS to GIF format. Merge FODS to GIF in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to GIF in Python., Python Merge FODS to gif., Python Combine FODS to GIF., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to GIF? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to GIF in Python" %}}
 
 The following example demonstrates how to merge FODS to GIF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to GIF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to GIF in Python" InputFormat="fods" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge FODS to GIF in Python" InputFormat="fods" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to GIF via Python" %}}
 

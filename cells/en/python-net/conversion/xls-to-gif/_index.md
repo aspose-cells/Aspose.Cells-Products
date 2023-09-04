@@ -1,7 +1,7 @@
 ---
-title: Python XLS to GIF - Online XLS to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to GIF saveformat. Python XLS to GIF format. Save XLS to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to GIF saveformat., Free Online XLS to GIF Python., Python Convert XLS to GIF]
+title: Python XLS to GIF - XLS to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to GIF in Python. Python Convert XLS to GIF saveformat. Python XLS to GIF format. Save XLS to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to GIF in Python., Python XLS to GIF saveformat., XLS to GIF Python., Python Convert XLS to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLS to GIF? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLS to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to GIF in Python" %}}
 
 The following example demonstrates how to convert XLS to GIF in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLS to GIF. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLS to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to GIF" %}}
 

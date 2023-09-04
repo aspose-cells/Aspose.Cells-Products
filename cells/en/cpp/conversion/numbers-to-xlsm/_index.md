@@ -1,7 +1,7 @@
 ---
-title: C++ NUMBERS to XLSM - Online NUMBERS to XLSM Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to XLSM saveformat. C++ NUMBERS to XLSM format. Save NUMBERS to XLSM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to XLSM saveformat., Free Online NUMBERS to XLSM C++., C++ Convert NUMBERS to XLSM]
+title: C++ NUMBERS to XLSM - NUMBERS to XLSM Converter
+description: Aspose Excel. C++ Aspose.Cells. NUMBERS to XLSM in C++. C++ Convert NUMBERS to XLSM saveformat. C++ NUMBERS to XLSM format. Save NUMBERS to XLSM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to XLSM in C++., C++ NUMBERS to XLSM saveformat., NUMBERS to XLSM C++., C++ Convert NUMBERS to XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to XLSM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to XLSM in C++" %}}
 
 The following example demonstrates how to convert NUMBERS to XLSM in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert NUMBERS to XLSM. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to XLSM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLSM via C++" %}}
 

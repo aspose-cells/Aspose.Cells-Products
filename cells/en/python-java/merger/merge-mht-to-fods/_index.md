@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to FODS - Combine MHT to FODS in Python
 url: /python-java/merger/merge-mht-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to FODS saveformat. Python Combine MHT to FODS format. Merge MHT to FODS in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to FODS in Python., Free Online Python Merge MHT to fods., Python Combine MHT to FODS Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHT to FODS saveformat. Python Combine MHT to FODS format. Merge MHT to FODS in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to FODS in Python., Python Merge MHT to fods., Python Combine MHT to FODS., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHT to FODS? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to FODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to FODS in Python" %}}
 
 The following example demonstrates how to merge MHT to FODS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHT to FODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to FODS in Python" InputFormat="mht" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge MHT to FODS in Python" InputFormat="mht" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to FODS via Python" %}}
 

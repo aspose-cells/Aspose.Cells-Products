@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to HTM - Combine MHT to HTM in C#
 url: /net/merger/merge-mht-to-htm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to HTM saveformat. C# Combine MHT to HTM format. Merge MHT to HTM in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to HTM in C#., Free Online C# Merge MHT to htm., C# Combine MHT to HTM Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHT to HTM saveformat. C# Combine MHT to HTM format. Merge MHT to HTM in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to HTM in C#., C# Merge MHT to htm., C# Combine MHT to HTM., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to HTM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to HTM in C#" %}}
 
 The following example demonstrates how to merge MHT to HTM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHT to HTM. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to HTM in C#" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHT to HTM in C#" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to HTM via C#" %}}
 

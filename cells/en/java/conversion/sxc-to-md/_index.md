@@ -1,7 +1,7 @@
 ---
-title: Java SXC to MD - Online SXC to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to MD saveformat. Java SXC to MD format. Save SXC to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to MD saveformat., Free Online SXC to MD Java., Java Convert SXC to MD]
+title: Java SXC to MD - SXC to MD Converter
+description: Aspose Excel. Java Aspose.Cells. SXC to MD in Java. Java Convert SXC to MD saveformat. Java SXC to MD format. Save SXC to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SXC to MD in Java., Java SXC to MD saveformat., SXC to MD Java., Java Convert SXC to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SXC to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to MD in Java" %}}
 
 The following example demonstrates how to convert SXC to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to MD. Upload your SXC file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to MD via Java" %}}
 

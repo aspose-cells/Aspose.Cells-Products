@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SQL - Combine JPG to SQL in C#
 url: /net/merger/merge-jpg-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to SQL saveformat. C# Combine JPG to SQL format. Merge JPG to SQL in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SQL in C#., Free Online C# Merge JPG to sql., C# Combine JPG to SQL Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge JPG to SQL saveformat. C# Combine JPG to SQL format. Merge JPG to SQL in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SQL in C#., C# Merge JPG to sql., C# Combine JPG to SQL., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to SQL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to SQL in C#" %}}
 
 The following example demonstrates how to merge JPG to SQL in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPG to SQL. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to SQL in C#" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge JPG to SQL in C#" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to SQL via C#" %}}
 

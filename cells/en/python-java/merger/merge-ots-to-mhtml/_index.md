@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MHTML - Combine OTS to MHTML in Python
 url: /python-java/merger/merge-ots-to-mhtml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to MHTML saveformat. Python Combine OTS to MHTML format. Merge OTS to MHTML in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHTML in Python., Free Online Python Merge OTS to mhtml., Python Combine OTS to MHTML Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to MHTML saveformat. Python Combine OTS to MHTML format. Merge OTS to MHTML in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHTML in Python., Python Merge OTS to mhtml., Python Combine OTS to MHTML., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to MHTML? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to MHTML in Python" %}}
 
 The following example demonstrates how to merge OTS to MHTML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to MHTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to MHTML in Python" InputFormat="ots" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge OTS to MHTML in Python" InputFormat="ots" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to MHTML via Python" %}}
 

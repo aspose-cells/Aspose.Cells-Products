@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to JPG - Online MHTML to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to JPG saveformat. Python MHTML to JPG format. Save MHTML to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to JPG saveformat., Free Online MHTML to JPG Python., Python Convert MHTML to JPG]
+title: Python MHTML to JPG - MHTML to JPG Converter
+description: Aspose Excel. Python Aspose.Cells. MHTML to JPG in Python. Python Convert MHTML to JPG saveformat. Python MHTML to JPG format. Save MHTML to JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHTML to JPG in Python., Python MHTML to JPG saveformat., MHTML to JPG Python., Python Convert MHTML to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHTML to JPG? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to JPG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to JPG in Python" %}}
 
 The following example demonstrates how to convert MHTML to JPG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHTML to JPG. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to JPG" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to WORD - Combine TXT to WORD in C++
 url: /cpp/merger/merge-txt-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to WORD saveformat. C++ Combine TXT to WORD format. Merge TXT to WORD in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to WORD in C++., Free Online C++ Merge TXT to word., C++ Combine TXT to WORD Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge TXT to WORD saveformat. C++ Combine TXT to WORD format. Merge TXT to WORD in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to WORD in C++., C++ Merge TXT to word., C++ Combine TXT to WORD., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to WORD in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to WORD in C++" %}}
 
 The following example demonstrates how to merge TXT to WORD in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TXT to WORD. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to WORD in C++" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TXT to WORD in C++" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to WORD via C++" %}}
 

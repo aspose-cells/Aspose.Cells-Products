@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to XLTM - Online JPG to XLTM Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to XLTM saveformat. C++ JPG to XLTM format. Save JPG to XLTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to XLTM saveformat., Free Online JPG to XLTM C++., C++ Convert JPG to XLTM]
+title: C++ JPG to XLTM - JPG to XLTM Converter
+description: Aspose Excel. C++ Aspose.Cells. JPG to XLTM in C++. C++ Convert JPG to XLTM saveformat. C++ JPG to XLTM format. Save JPG to XLTM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., JPG to XLTM in C++., C++ JPG to XLTM saveformat., JPG to XLTM C++., C++ Convert JPG to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to XLTM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to XLTM in C++" %}}
 
 The following example demonstrates how to convert JPG to XLTM in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JPG to XLTM. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to XLTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XLTM via C++" %}}
 

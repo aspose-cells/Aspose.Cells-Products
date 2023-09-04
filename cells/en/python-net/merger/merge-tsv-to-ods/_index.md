@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to ODS - Combine TSV to ODS in Python
 url: /python-net/merger/merge-tsv-to-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to ODS saveformat. Python Combine TSV to ODS format. Merge TSV to ODS in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ODS in Python., Free Online Python Merge TSV to ods., Python Combine TSV to ODS Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to ODS saveformat. Python Combine TSV to ODS format. Merge TSV to ODS in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ODS in Python., Python Merge TSV to ods., Python Combine TSV to ODS., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to ODS? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to ODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to ODS in Python" %}}
 
 The following example demonstrates how to merge TSV to ODS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to ODS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to ODS in Python" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge TSV to ODS in Python" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to ODS via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PDF - Combine ODS to PDF in C#
 url: /net/merger/merge-ods-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to PDF saveformat. C# Combine ODS to PDF format. Merge ODS to PDF in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to PDF in C#., Free Online C# Merge ODS to pdf., C# Combine ODS to PDF Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge ODS to PDF saveformat. C# Combine ODS to PDF format. Merge ODS to PDF in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to PDF in C#., C# Merge ODS to pdf., C# Combine ODS to PDF., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to PDF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to PDF in C#" %}}
 
 The following example demonstrates how to merge ODS to PDF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to PDF in C#" InputFormat="ods" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge ODS to PDF in C#" InputFormat="ods" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to PDF via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python PNG to MHT - Online PNG to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to MHT saveformat. Python PNG to MHT format. Save PNG to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MHT saveformat., Free Online PNG to MHT Python., Python Convert PNG to MHT]
+title: Python PNG to MHT - PNG to MHT Converter
+description: Aspose Excel. Python Aspose.Cells. PNG to MHT in Python. Python Convert PNG to MHT saveformat. Python PNG to MHT format. Save PNG to MHT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PNG to MHT in Python., Python PNG to MHT saveformat., PNG to MHT Python., Python Convert PNG to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert PNG to MHT? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save PNG to MHT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to MHT in Python" %}}
 
 The following example demonstrates how to convert PNG to MHT in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert PNG to MHT. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert PNG to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to MHT" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to HTML - Online XLTM to HTML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to HTML saveformat. Java XLTM to HTML format. Save XLTM to HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to HTML saveformat., Free Online XLTM to HTML Java., Java Convert XLTM to HTML]
+title: Java XLTM to HTML - XLTM to HTML Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to HTML in Java. Java Convert XLTM to HTML saveformat. Java XLTM to HTML format. Save XLTM to HTML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to HTML in Java., Java XLTM to HTML saveformat., XLTM to HTML Java., Java Convert XLTM to HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to HTML? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to HTML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to HTML in Java" %}}
 
 The following example demonstrates how to convert XLTM to HTML in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to HTML. Upload your XLTM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to HTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to HTML via Java" %}}
 

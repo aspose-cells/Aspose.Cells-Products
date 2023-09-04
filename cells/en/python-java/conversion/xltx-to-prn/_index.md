@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to PRN - Online XLTX to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to PRN saveformat. Python XLTX to PRN format. Save XLTX to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to PRN saveformat., Free Online XLTX to PRN Python., Python Convert XLTX to PRN]
+title: Python XLTX to PRN - XLTX to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to PRN in Python. Python Convert XLTX to PRN saveformat. Python XLTX to PRN format. Save XLTX to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to PRN in Python., Python XLTX to PRN saveformat., XLTX to PRN Python., Python Convert XLTX to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTX to PRN? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to PRN in Python" %}}
 
 The following example demonstrates how to convert XLTX to PRN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to PRN. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to PRN via Python" %}}
 

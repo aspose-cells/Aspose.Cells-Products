@@ -1,7 +1,7 @@
 ---
-title: C# XLS to EXCEL - Online XLS to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLS to EXCEL saveformat. C# XLS to EXCEL format. Save XLS to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLS to EXCEL saveformat., Free Online XLS to EXCEL C#., C# Convert XLS to EXCEL]
+title: C# XLS to EXCEL - XLS to EXCEL Converter
+description: Aspose Excel. C# Aspose.Cells. XLS to EXCEL in C#. C# Convert XLS to EXCEL saveformat. C# XLS to EXCEL format. Save XLS to EXCEL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLS to EXCEL in C#., C# XLS to EXCEL saveformat., XLS to EXCEL C#., C# Convert XLS to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to EXCEL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to EXCEL in C#" %}}
 
 The following example demonstrates how to convert XLS to EXCEL in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to EXCEL. Upload your XLS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to EXCEL via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XLTM - Combine XLSB to XLTM in C#
 url: /net/merger/merge-xlsb-to-xltm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to XLTM saveformat. C# Combine XLSB to XLTM format. Merge XLSB to XLTM in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XLTM in C#., Free Online C# Merge XLSB to xltm., C# Combine XLSB to XLTM Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLSB to XLTM saveformat. C# Combine XLSB to XLTM format. Merge XLSB to XLTM in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XLTM in C#., C# Merge XLSB to xltm., C# Combine XLSB to XLTM., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to XLTM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to XLTM in C#" %}}
 
 The following example demonstrates how to merge XLSB to XLTM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSB to XLTM. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to XLTM in C#" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to XLTM in C#" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to XLTM via C#" %}}
 

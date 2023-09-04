@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLS - Combine JPEG to XLS in Java
 url: /java/merger/merge-jpeg-to-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to XLS saveformat. Java Combine JPEG to XLS format. Merge JPEG to XLS in Java. JPEG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLS in Java., Free Online Java Merge JPEG to xls., Java Combine JPEG to XLS Online for Free., JPEG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPEG to XLS saveformat. Java Combine JPEG to XLS format. Merge JPEG to XLS in Java. JPEG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLS in Java., Java Merge JPEG to xls., Java Combine JPEG to XLS., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPEG to XLS? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to XLS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to XLS in Java" %}}
 
 The following example demonstrates how to merge JPEG to XLS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPEG to XLS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to XLS in Java" InputFormat="jpg" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to XLS in Java" InputFormat="jpg" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to XLS via Java" %}}
 

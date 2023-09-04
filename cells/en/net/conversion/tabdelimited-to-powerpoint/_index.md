@@ -1,7 +1,7 @@
 ---
-title: C# TABDELIMITED to POWERPOINT - Online TABDELIMITED to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TABDELIMITED to POWERPOINT saveformat. C# TABDELIMITED to POWERPOINT format. Save TABDELIMITED to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TABDELIMITED to POWERPOINT saveformat., Free Online TABDELIMITED to POWERPOINT C#., C# Convert TABDELIMITED to POWERPOINT]
+title: C# TABDELIMITED to POWERPOINT - TABDELIMITED to POWERPOINT Converter
+description: Aspose Excel. C# Aspose.Cells. TABDELIMITED to POWERPOINT in C#. C# Convert TABDELIMITED to POWERPOINT saveformat. C# TABDELIMITED to POWERPOINT format. Save TABDELIMITED to POWERPOINT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., TABDELIMITED to POWERPOINT in C#., C# TABDELIMITED to POWERPOINT saveformat., TABDELIMITED to POWERPOINT C#., C# Convert TABDELIMITED to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TABDELIMITED to POWERPOINT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TABDELIMITED to POWERPOINT in C#" %}}
 
 The following example demonstrates how to convert TABDELIMITED to POWERPOINT in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TABDELIMITED to POWERPOINT. Upload your TABDELI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TABDELIMITED to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to POWERPOINT via C#" %}}
 

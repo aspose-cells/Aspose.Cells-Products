@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLSB - Combine TSV to XLSB in Python
 url: /python-java/merger/merge-tsv-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XLSB saveformat. Python Combine TSV to XLSB format. Merge TSV to XLSB in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLSB in Python., Free Online Python Merge TSV to xlsb., Python Combine TSV to XLSB Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to XLSB saveformat. Python Combine TSV to XLSB format. Merge TSV to XLSB in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLSB in Python., Python Merge TSV to xlsb., Python Combine TSV to XLSB., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to XLSB? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to XLSB in Python" %}}
 
 The following example demonstrates how to merge TSV to XLSB in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to XLSB. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to XLSB in Python" InputFormat="tsv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TSV to XLSB in Python" InputFormat="tsv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XLSB via Python" %}}
 

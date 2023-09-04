@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLSB - Combine MHT to XLSB in Python
 url: /python-java/merger/merge-mht-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XLSB saveformat. Python Combine MHT to XLSB format. Merge MHT to XLSB in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLSB in Python., Free Online Python Merge MHT to xlsb., Python Combine MHT to XLSB Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHT to XLSB saveformat. Python Combine MHT to XLSB format. Merge MHT to XLSB in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLSB in Python., Python Merge MHT to xlsb., Python Combine MHT to XLSB., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHT to XLSB? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to XLSB in Python" %}}
 
 The following example demonstrates how to merge MHT to XLSB in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHT to XLSB. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to XLSB in Python" InputFormat="mht" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge MHT to XLSB in Python" InputFormat="mht" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to XLSB via Python" %}}
 

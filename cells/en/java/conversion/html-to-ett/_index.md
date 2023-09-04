@@ -1,7 +1,7 @@
 ---
-title: Java HTML to ETT - Online HTML to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to ETT saveformat. Java HTML to ETT format. Save HTML to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to ETT saveformat., Free Online HTML to ETT Java., Java Convert HTML to ETT]
+title: Java HTML to ETT - HTML to ETT Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to ETT in Java. Java Convert HTML to ETT saveformat. Java HTML to ETT format. Save HTML to ETT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to ETT in Java., Java HTML to ETT saveformat., HTML to ETT Java., Java Convert HTML to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to ETT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to ETT in Java" %}}
 
 The following example demonstrates how to convert HTML to ETT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to ETT. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to ETT via Java" %}}
 

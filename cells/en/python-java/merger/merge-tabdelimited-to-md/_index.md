@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to MD - Combine TABDELIMITED to MD in Python
 url: /python-java/merger/merge-tabdelimited-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to MD saveformat. Python Combine TABDELIMITED to MD format. Merge TABDELIMITED to MD in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to MD in Python., Free Online Python Merge TABDELIMITED to md., Python Combine TABDELIMITED to MD Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TABDELIMITED to MD saveformat. Python Combine TABDELIMITED to MD format. Merge TABDELIMITED to MD in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to MD in Python., Python Merge TABDELIMITED to md., Python Combine TABDELIMITED to MD., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TABDELIMITED to MD? With Aspose.Cells for Python via Java library
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to MD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to MD in Python" %}}
 
 The following example demonstrates how to merge TABDELIMITED to MD in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TABDELIMITED to MD. Upload your files, call Workb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to MD in Python" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to MD in Python" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to MD via Python" %}}
 

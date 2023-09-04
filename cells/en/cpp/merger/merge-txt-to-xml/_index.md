@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XML - Combine TXT to XML in C++
 url: /cpp/merger/merge-txt-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to XML saveformat. C++ Combine TXT to XML format. Merge TXT to XML in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to XML in C++., Free Online C++ Merge TXT to xml., C++ Combine TXT to XML Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge TXT to XML saveformat. C++ Combine TXT to XML format. Merge TXT to XML in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to XML in C++., C++ Merge TXT to xml., C++ Combine TXT to XML., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to XML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to XML in C++" %}}
 
 The following example demonstrates how to merge TXT to XML in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TXT to XML. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to XML in C++" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TXT to XML in C++" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to XML via C++" %}}
 

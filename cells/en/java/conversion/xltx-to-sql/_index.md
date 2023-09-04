@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to SQL - Online XLTX to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to SQL saveformat. Java XLTX to SQL format. Save XLTX to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to SQL saveformat., Free Online XLTX to SQL Java., Java Convert XLTX to SQL]
+title: Java XLTX to SQL - XLTX to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to SQL in Java. Java Convert XLTX to SQL saveformat. Java XLTX to SQL format. Save XLTX to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to SQL in Java., Java XLTX to SQL saveformat., XLTX to SQL Java., Java Convert XLTX to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to SQL? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to SQL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to SQL in Java" %}}
 
 The following example demonstrates how to convert XLTX to SQL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to SQL. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to SQL via Java" %}}
 

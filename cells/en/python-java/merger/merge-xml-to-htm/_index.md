@@ -1,8 +1,8 @@
 ---
 title: Merge XML to HTM - Combine XML to HTM in Python
 url: /python-java/merger/merge-xml-to-htm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to HTM saveformat. Python Combine XML to HTM format. Merge XML to HTM in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to HTM in Python., Free Online Python Merge XML to htm., Python Combine XML to HTM Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to HTM saveformat. Python Combine XML to HTM format. Merge XML to HTM in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to HTM in Python., Python Merge XML to htm., Python Combine XML to HTM., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to HTM? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to HTM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to HTM in Python" %}}
 
 The following example demonstrates how to merge XML to HTM in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to HTM. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to HTM in Python" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XML to HTM in Python" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to HTM via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLTX - Combine IMAGE to XLTX in C#
 url: /net/merger/merge-image-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to XLTX saveformat. C# Combine IMAGE to XLTX format. Merge IMAGE to XLTX in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLTX in C#., Free Online C# Merge IMAGE to xltx., C# Combine IMAGE to XLTX Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge IMAGE to XLTX saveformat. C# Combine IMAGE to XLTX format. Merge IMAGE to XLTX in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLTX in C#., C# Merge IMAGE to xltx., C# Combine IMAGE to XLTX., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to XLTX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to XLTX in C#" %}}
 
 The following example demonstrates how to merge IMAGE to XLTX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to XLTX. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to XLTX in C#" InputFormat="png" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to XLTX in C#" InputFormat="png" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to XLTX via C#" %}}
 

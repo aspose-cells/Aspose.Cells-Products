@@ -1,7 +1,7 @@
 ---
-title: Python XLSX to GIF - Online XLSX to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to GIF saveformat. Python XLSX to GIF format. Save XLSX to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to GIF saveformat., Free Online XLSX to GIF Python., Python Convert XLSX to GIF]
+title: Python XLSX to GIF - XLSX to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. XLSX to GIF in Python. Python Convert XLSX to GIF saveformat. Python XLSX to GIF format. Save XLSX to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSX to GIF in Python., Python XLSX to GIF saveformat., XLSX to GIF Python., Python Convert XLSX to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLSX to GIF? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to GIF in Python" %}}
 
 The following example demonstrates how to convert XLSX to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to GIF. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to GIF via Python" %}}
 

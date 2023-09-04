@@ -1,7 +1,7 @@
 ---
-title: Java TXT to TIFF - Online TXT to TIFF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to TIFF saveformat. Java TXT to TIFF format. Save TXT to TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to TIFF saveformat., Free Online TXT to TIFF Java., Java Convert TXT to TIFF]
+title: Java TXT to TIFF - TXT to TIFF Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to TIFF in Java. Java Convert TXT to TIFF saveformat. Java TXT to TIFF format. Save TXT to TIFF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to TIFF in Java., Java TXT to TIFF saveformat., TXT to TIFF Java., Java Convert TXT to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to TIFF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to TIFF in Java" %}}
 
 The following example demonstrates how to convert TXT to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to TIFF. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to TIFF via Java" %}}
 

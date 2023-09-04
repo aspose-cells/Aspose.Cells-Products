@@ -1,7 +1,7 @@
 ---
-title: Java XML to ET - Online XML to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to ET saveformat. Java XML to ET format. Save XML to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to ET saveformat., Free Online XML to ET Java., Java Convert XML to ET]
+title: Java XML to ET - XML to ET Converter
+description: Aspose Excel. Java Aspose.Cells. XML to ET in Java. Java Convert XML to ET saveformat. Java XML to ET format. Save XML to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XML to ET in Java., Java XML to ET saveformat., XML to ET Java., Java Convert XML to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XML to ET? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XML to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XML to ET in Java" %}}
 
 The following example demonstrates how to convert XML to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XML to ET. Upload your XML file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XML to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XML to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to ET via Java" %}}
 

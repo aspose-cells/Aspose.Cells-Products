@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLTX - Combine SPREADSHEETML to XLTX in Java
 url: /java/merger/merge-spreadsheetml-to-xltx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to XLTX saveformat. Java Combine SPREADSHEETML to XLTX format. Merge SPREADSHEETML to XLTX in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to XLTX in Java., Free Online Java Merge SPREADSHEETML to xltx., Java Combine SPREADSHEETML to XLTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge SPREADSHEETML to XLTX saveformat. Java Combine SPREADSHEETML to XLTX format. Merge SPREADSHEETML to XLTX in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to XLTX in Java., Java Merge SPREADSHEETML to xltx., Java Combine SPREADSHEETML to XLTX., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge SPREADSHEETML to XLTX? With Aspose.Cells for Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLTX in Java" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to XLTX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge SPREADSHEETML to XLTX. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to XLTX in Java" InputFormat="xml" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to XLTX in Java" InputFormat="xml" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to XLTX via Java" %}}
 

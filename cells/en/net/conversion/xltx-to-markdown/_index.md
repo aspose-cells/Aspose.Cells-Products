@@ -1,7 +1,7 @@
 ---
-title: C# XLTX to MARKDOWN - Online XLTX to MARKDOWN Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to MARKDOWN saveformat. C# XLTX to MARKDOWN format. Save XLTX to MARKDOWN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to MARKDOWN saveformat., Free Online XLTX to MARKDOWN C#., C# Convert XLTX to MARKDOWN]
+title: C# XLTX to MARKDOWN - XLTX to MARKDOWN Converter
+description: Aspose Excel. C# Aspose.Cells. XLTX to MARKDOWN in C#. C# Convert XLTX to MARKDOWN saveformat. C# XLTX to MARKDOWN format. Save XLTX to MARKDOWN C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLTX to MARKDOWN in C#., C# XLTX to MARKDOWN saveformat., XLTX to MARKDOWN C#., C# Convert XLTX to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to MARKDOWN in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to MARKDOWN in C#" %}}
 
 The following example demonstrates how to convert XLTX to MARKDOWN in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTX to MARKDOWN. Upload your XLTX file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to MARKDOWN via C#" %}}
 

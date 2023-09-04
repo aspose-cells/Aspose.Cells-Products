@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to OTS - Combine OTS to OTS in Java
 url: /java/merger/merge-ots-to-ots/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to OTS saveformat. Java Combine OTS to OTS format. Merge OTS to OTS in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to OTS in Java., Free Online Java Merge OTS to ots., Java Combine OTS to OTS Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge OTS to OTS saveformat. Java Combine OTS to OTS format. Merge OTS to OTS in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to OTS in Java., Java Merge OTS to ots., Java Combine OTS to OTS., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge OTS to OTS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to OTS in Java" %}}
 
 The following example demonstrates how to merge OTS to OTS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge OTS to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to OTS in Java" InputFormat="ots" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge OTS to OTS in Java" InputFormat="ots" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to OTS via Java" %}}
 

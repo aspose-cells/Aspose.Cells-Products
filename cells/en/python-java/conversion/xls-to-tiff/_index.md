@@ -1,7 +1,7 @@
 ---
-title: Python XLS to TIFF - Online XLS to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to TIFF saveformat. Python XLS to TIFF format. Save XLS to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to TIFF saveformat., Free Online XLS to TIFF Python., Python Convert XLS to TIFF]
+title: Python XLS to TIFF - XLS to TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. XLS to TIFF in Python. Python Convert XLS to TIFF saveformat. Python XLS to TIFF format. Save XLS to TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLS to TIFF in Python., Python XLS to TIFF saveformat., XLS to TIFF Python., Python Convert XLS to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLS to TIFF? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to TIFF in Python" %}}
 
 The following example demonstrates how to convert XLS to TIFF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to TIFF. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to TIFF via Python" %}}
 

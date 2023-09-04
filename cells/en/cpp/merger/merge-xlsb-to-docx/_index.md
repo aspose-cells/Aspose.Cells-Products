@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DOCX - Combine XLSB to DOCX in C++
 url: /cpp/merger/merge-xlsb-to-docx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to DOCX saveformat. C++ Combine XLSB to DOCX format. Merge XLSB to DOCX in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to DOCX in C++., Free Online C++ Merge XLSB to docx., C++ Combine XLSB to DOCX Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSB to DOCX saveformat. C++ Combine XLSB to DOCX format. Merge XLSB to DOCX in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to DOCX in C++., C++ Merge XLSB to docx., C++ Combine XLSB to DOCX., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to DOCX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to DOCX in C++" %}}
 
 The following example demonstrates how to merge XLSB to DOCX in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSB to DOCX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to DOCX in C++" InputFormat="xlsb" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to DOCX in C++" InputFormat="xlsb" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to DOCX via C++" %}}
 

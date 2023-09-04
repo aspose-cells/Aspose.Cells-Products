@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XPS - Combine ODS to XPS in Java
 url: /java/merger/merge-ods-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to XPS saveformat. Java Combine ODS to XPS format. Merge ODS to XPS in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XPS in Java., Free Online Java Merge ODS to xps., Java Combine ODS to XPS Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge ODS to XPS saveformat. Java Combine ODS to XPS format. Merge ODS to XPS in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XPS in Java., Java Merge ODS to xps., Java Combine ODS to XPS., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge ODS to XPS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to XPS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to XPS in Java" %}}
 
 The following example demonstrates how to merge ODS to XPS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge ODS to XPS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to XPS in Java" InputFormat="ods" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge ODS to XPS in Java" InputFormat="ods" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to XPS via Java" %}}
 

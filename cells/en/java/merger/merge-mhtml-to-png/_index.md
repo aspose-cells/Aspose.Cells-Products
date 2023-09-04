@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PNG - Combine MHTML to PNG in Java
 url: /java/merger/merge-mhtml-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to PNG saveformat. Java Combine MHTML to PNG format. Merge MHTML to PNG in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PNG in Java., Free Online Java Merge MHTML to png., Java Combine MHTML to PNG Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to PNG saveformat. Java Combine MHTML to PNG format. Merge MHTML to PNG in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PNG in Java., Java Merge MHTML to png., Java Combine MHTML to PNG., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to PNG? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to PNG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to PNG in Java" %}}
 
 The following example demonstrates how to merge MHTML to PNG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to PNG. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to PNG in Java" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to PNG in Java" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to PNG via Java" %}}
 

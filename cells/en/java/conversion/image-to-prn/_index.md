@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to PRN - Online IMAGE to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to PRN saveformat. Java IMAGE to PRN format. Save IMAGE to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to PRN saveformat., Free Online IMAGE to PRN Java., Java Convert IMAGE to PRN]
+title: Java IMAGE to PRN - IMAGE to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to PRN in Java. Java Convert IMAGE to PRN saveformat. Java IMAGE to PRN format. Save IMAGE to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to PRN in Java., Java IMAGE to PRN saveformat., IMAGE to PRN Java., Java Convert IMAGE to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to PRN? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to PRN in Java" %}}
 
 The following example demonstrates how to convert IMAGE to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to PRN. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to PRN via Java" %}}
 

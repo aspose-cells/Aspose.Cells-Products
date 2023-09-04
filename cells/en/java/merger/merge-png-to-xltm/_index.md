@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLTM - Combine PNG to XLTM in Java
 url: /java/merger/merge-png-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XLTM saveformat. Java Combine PNG to XLTM format. Merge PNG to XLTM in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Free Online Java Merge PNG to xltm., Java Combine PNG to XLTM Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PNG to XLTM saveformat. Java Combine PNG to XLTM format. Merge PNG to XLTM in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Java Merge PNG to xltm., Java Combine PNG to XLTM., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PNG to XLTM? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to XLTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to XLTM in Java" %}}
 
 The following example demonstrates how to merge PNG to XLTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PNG to XLTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to XLTM in Java" InputFormat="png" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PNG to XLTM in Java" InputFormat="png" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to XLTM via Java" %}}
 

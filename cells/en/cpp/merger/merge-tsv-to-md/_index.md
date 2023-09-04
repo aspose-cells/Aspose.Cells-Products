@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to MD - Combine TSV to MD in C++
 url: /cpp/merger/merge-tsv-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TSV to MD saveformat. C++ Combine TSV to MD format. Merge TSV to MD in C++. TSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to MD in C++., Free Online C++ Merge TSV to md., C++ Combine TSV to MD Online for Free., TSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge TSV to MD saveformat. C++ Combine TSV to MD format. Merge TSV to MD in C++. TSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to MD in C++., C++ Merge TSV to md., C++ Combine TSV to MD., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to MD in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to MD in C++" %}}
 
 The following example demonstrates how to merge TSV to MD in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to MD. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to MD in C++" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TSV to MD in C++" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to MD via C++" %}}
 

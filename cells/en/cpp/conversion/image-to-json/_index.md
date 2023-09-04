@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE to JSON - Online IMAGE to JSON Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert IMAGE to JSON saveformat. C++ IMAGE to JSON format. Save IMAGE to JSON C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to JSON saveformat., Free Online IMAGE to JSON C++., C++ Convert IMAGE to JSON]
+title: C++ IMAGE to JSON - IMAGE to JSON Converter
+description: Aspose Excel. C++ Aspose.Cells. IMAGE to JSON in C++. C++ Convert IMAGE to JSON saveformat. C++ IMAGE to JSON format. Save IMAGE to JSON C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to JSON in C++., C++ IMAGE to JSON saveformat., IMAGE to JSON C++., C++ Convert IMAGE to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to JSON in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to JSON in C++" %}}
 
 The following example demonstrates how to convert IMAGE to JSON in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert IMAGE to JSON. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to JSON via C++" %}}
 

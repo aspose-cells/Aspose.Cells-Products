@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to DOCX - Online XLSX to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to DOCX saveformat. Java XLSX to DOCX format. Save XLSX to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to DOCX saveformat., Free Online XLSX to DOCX Java., Java Convert XLSX to DOCX]
+title: Java XLSX to DOCX - XLSX to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to DOCX in Java. Java Convert XLSX to DOCX saveformat. Java XLSX to DOCX format. Save XLSX to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to DOCX in Java., Java XLSX to DOCX saveformat., XLSX to DOCX Java., Java Convert XLSX to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to DOCX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to DOCX in Java" %}}
 
 The following example demonstrates how to convert XLSX to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to DOCX. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to DOCX via Java" %}}
 

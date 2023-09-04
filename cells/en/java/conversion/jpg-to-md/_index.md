@@ -1,7 +1,7 @@
 ---
-title: Java JPG to MD - Online JPG to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to MD saveformat. Java JPG to MD format. Save JPG to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MD saveformat., Free Online JPG to MD Java., Java Convert JPG to MD]
+title: Java JPG to MD - JPG to MD Converter
+description: Aspose Excel. Java Aspose.Cells. JPG to MD in Java. Java Convert JPG to MD saveformat. Java JPG to MD format. Save JPG to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to MD in Java., Java JPG to MD saveformat., JPG to MD Java., Java Convert JPG to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPG to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to MD in Java" %}}
 
 The following example demonstrates how to convert JPG to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to MD. Upload your JPG file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to MD via Java" %}}
 

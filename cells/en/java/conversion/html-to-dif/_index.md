@@ -1,7 +1,7 @@
 ---
-title: Java HTML to DIF - Online HTML to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to DIF saveformat. Java HTML to DIF format. Save HTML to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to DIF saveformat., Free Online HTML to DIF Java., Java Convert HTML to DIF]
+title: Java HTML to DIF - HTML to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to DIF in Java. Java Convert HTML to DIF saveformat. Java HTML to DIF format. Save HTML to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to DIF in Java., Java HTML to DIF saveformat., HTML to DIF Java., Java Convert HTML to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to DIF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to DIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to DIF in Java" %}}
 
 The following example demonstrates how to convert HTML to DIF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to DIF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to DIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to DIF via Java" %}}
 

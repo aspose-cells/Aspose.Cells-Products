@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to BMP - Combine IMAGE to BMP in Python
 url: /python-net/merger/merge-image-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to BMP saveformat. Python Combine IMAGE to BMP format. Merge IMAGE to BMP in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to BMP in Python., Free Online Python Merge IMAGE to bmp., Python Combine IMAGE to BMP Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge IMAGE to BMP saveformat. Python Combine IMAGE to BMP format. Merge IMAGE to BMP in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to BMP in Python., Python Merge IMAGE to bmp., Python Combine IMAGE to BMP., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge IMAGE to BMP? With Aspose.Cells for Python via .NET library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to BMP in Python" %}}
 
 The following example demonstrates how to merge IMAGE to BMP in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge IMAGE to BMP. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to BMP in Python" InputFormat="png" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to BMP in Python" InputFormat="png" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to BMP via Python" %}}
 

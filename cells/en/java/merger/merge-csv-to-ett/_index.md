@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ETT - Combine CSV to ETT in Java
 url: /java/merger/merge-csv-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to ETT saveformat. Java Combine CSV to ETT format. Merge CSV to ETT in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to ETT in Java., Free Online Java Merge CSV to ett., Java Combine CSV to ETT Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge CSV to ETT saveformat. Java Combine CSV to ETT format. Merge CSV to ETT in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to ETT in Java., Java Merge CSV to ett., Java Combine CSV to ETT., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge CSV to ETT? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to ETT in Java" %}}
 
 The following example demonstrates how to merge CSV to ETT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge CSV to ETT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to ETT in Java" InputFormat="csv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge CSV to ETT in Java" InputFormat="csv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to ETT via Java" %}}
 

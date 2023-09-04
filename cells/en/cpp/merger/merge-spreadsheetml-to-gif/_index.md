@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to GIF - Combine SPREADSHEETML to GIF in C++
 url: /cpp/merger/merge-spreadsheetml-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to GIF saveformat. C++ Combine SPREADSHEETML to GIF format. Merge SPREADSHEETML to GIF in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to GIF in C++., Free Online C++ Merge SPREADSHEETML to gif., C++ Combine SPREADSHEETML to GIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge SPREADSHEETML to GIF saveformat. C++ Combine SPREADSHEETML to GIF format. Merge SPREADSHEETML to GIF in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to GIF in C++., C++ Merge SPREADSHEETML to gif., C++ Combine SPREADSHEETML to GIF., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to GIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to GIF in C++" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to GIF in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to GIF. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to GIF in C++" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to GIF in C++" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to GIF via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python MHT to EXCEL - Online MHT to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to EXCEL saveformat. Python MHT to EXCEL format. Save MHT to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to EXCEL saveformat., Free Online MHT to EXCEL Python., Python Convert MHT to EXCEL]
+title: Python MHT to EXCEL - MHT to EXCEL Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to EXCEL in Python. Python Convert MHT to EXCEL saveformat. Python MHT to EXCEL format. Save MHT to EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to EXCEL in Python., Python MHT to EXCEL saveformat., MHT to EXCEL Python., Python Convert MHT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHT to EXCEL? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to EXCEL in Python" %}}
 
 The following example demonstrates how to convert MHT to EXCEL in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to EXCEL. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to EXCEL via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to IMAGE - Combine MHTML to IMAGE in Python
 url: /python-net/merger/merge-mhtml-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to IMAGE saveformat. Python Combine MHTML to IMAGE format. Merge MHTML to IMAGE in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to IMAGE in Python., Free Online Python Merge MHTML to image., Python Combine MHTML to IMAGE Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHTML to IMAGE saveformat. Python Combine MHTML to IMAGE format. Merge MHTML to IMAGE in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to IMAGE in Python., Python Merge MHTML to image., Python Combine MHTML to IMAGE., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHTML to IMAGE? With Aspose.Cells for Python via .NET library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to IMAGE in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to IMAGE in Python" %}}
 
 The following example demonstrates how to merge MHTML to IMAGE in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHTML to IMAGE. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to IMAGE in Python" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to IMAGE in Python" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to IMAGE via Python" %}}
 

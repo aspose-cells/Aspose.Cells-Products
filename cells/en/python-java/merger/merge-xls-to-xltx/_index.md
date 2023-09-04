@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLTX - Combine XLS to XLTX in Python
 url: /python-java/merger/merge-xls-to-xltx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to XLTX saveformat. Python Combine XLS to XLTX format. Merge XLS to XLTX in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XLTX in Python., Free Online Python Merge XLS to xltx., Python Combine XLS to XLTX Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to XLTX saveformat. Python Combine XLS to XLTX format. Merge XLS to XLTX in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XLTX in Python., Python Merge XLS to xltx., Python Combine XLS to XLTX., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to XLTX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to XLTX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to XLTX in Python" %}}
 
 The following example demonstrates how to merge XLS to XLTX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to XLTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to XLTX in Python" InputFormat="xls" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLS to XLTX in Python" InputFormat="xls" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to XLTX via Python" %}}
 

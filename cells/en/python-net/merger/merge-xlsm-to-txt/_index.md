@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TXT - Combine XLSM to TXT in Python
 url: /python-net/merger/merge-xlsm-to-txt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to TXT saveformat. Python Combine XLSM to TXT format. Merge XLSM to TXT in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to TXT in Python., Free Online Python Merge XLSM to txt., Python Combine XLSM to TXT Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSM to TXT saveformat. Python Combine XLSM to TXT format. Merge XLSM to TXT in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to TXT in Python., Python Merge XLSM to txt., Python Combine XLSM to TXT., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSM to TXT? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to TXT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to TXT in Python" %}}
 
 The following example demonstrates how to merge XLSM to TXT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSM to TXT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to TXT in Python" InputFormat="xlsm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to TXT in Python" InputFormat="xlsm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to TXT via Python" %}}
 

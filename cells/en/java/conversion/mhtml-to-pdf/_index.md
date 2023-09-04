@@ -1,7 +1,7 @@
 ---
-title: Java MHTML to PDF - Online MHTML to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to PDF saveformat. Java MHTML to PDF format. Save MHTML to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to PDF saveformat., Free Online MHTML to PDF Java., Java Convert MHTML to PDF]
+title: Java MHTML to PDF - MHTML to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. MHTML to PDF in Java. Java Convert MHTML to PDF saveformat. Java MHTML to PDF format. Save MHTML to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHTML to PDF in Java., Java MHTML to PDF saveformat., MHTML to PDF Java., Java Convert MHTML to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHTML to PDF? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to PDF in Java" %}}
 
 The following example demonstrates how to convert MHTML to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to PDF. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to PDF via Java" %}}
 

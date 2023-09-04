@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to ETT - Combine XLTM to ETT in Java
 url: /java/merger/merge-xltm-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to ETT saveformat. Java Combine XLTM to ETT format. Merge XLTM to ETT in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to ETT in Java., Free Online Java Merge XLTM to ett., Java Combine XLTM to ETT Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLTM to ETT saveformat. Java Combine XLTM to ETT format. Merge XLTM to ETT in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to ETT in Java., Java Merge XLTM to ett., Java Combine XLTM to ETT., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLTM to ETT? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to ETT in Java" %}}
 
 The following example demonstrates how to merge XLTM to ETT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLTM to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to ETT in Java" InputFormat="xltm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to ETT in Java" InputFormat="xltm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to ETT via Java" %}}
 

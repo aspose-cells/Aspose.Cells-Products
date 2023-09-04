@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to BMP - Online XLTX to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to BMP saveformat. Python XLTX to BMP format. Save XLTX to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to BMP saveformat., Free Online XLTX to BMP Python., Python Convert XLTX to BMP]
+title: Python XLTX to BMP - XLTX to BMP Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to BMP in Python. Python Convert XLTX to BMP saveformat. Python XLTX to BMP format. Save XLTX to BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to BMP in Python., Python XLTX to BMP saveformat., XLTX to BMP Python., Python Convert XLTX to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTX to BMP? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to BMP in Python" %}}
 
 The following example demonstrates how to convert XLTX to BMP in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTX to BMP. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to BMP" %}}
 

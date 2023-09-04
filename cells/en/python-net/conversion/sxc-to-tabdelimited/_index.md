@@ -1,7 +1,7 @@
 ---
-title: Python SXC to TABDELIMITED - Online SXC to TABDELIMITED Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to TABDELIMITED saveformat. Python SXC to TABDELIMITED format. Save SXC to TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to TABDELIMITED saveformat., Free Online SXC to TABDELIMITED Python., Python Convert SXC to TABDELIMITED]
+title: Python SXC to TABDELIMITED - SXC to TABDELIMITED Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to TABDELIMITED in Python. Python Convert SXC to TABDELIMITED saveformat. Python SXC to TABDELIMITED format. Save SXC to TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to TABDELIMITED in Python., Python SXC to TABDELIMITED saveformat., SXC to TABDELIMITED Python., Python Convert SXC to TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert SXC to TABDELIMITED? With Aspose.Cells for Python via NET libra
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save SXC to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to convert SXC to TABDELIMITED in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert SXC to TABDELIMITED. Upload your SXC file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to TABDELIMITED Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert SXC to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to TABDELIMITED" %}}
 

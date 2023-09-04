@@ -1,7 +1,7 @@
 ---
-title: C# XLTX to BMP - Online XLTX to BMP Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to BMP saveformat. C# XLTX to BMP format. Save XLTX to BMP C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to BMP saveformat., Free Online XLTX to BMP C#., C# Convert XLTX to BMP]
+title: C# XLTX to BMP - XLTX to BMP Converter
+description: Aspose Excel. C# Aspose.Cells. XLTX to BMP in C#. C# Convert XLTX to BMP saveformat. C# XLTX to BMP format. Save XLTX to BMP C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLTX to BMP in C#., C# XLTX to BMP saveformat., XLTX to BMP C#., C# Convert XLTX to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to BMP in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to BMP in C#" %}}
 
 The following example demonstrates how to convert XLTX to BMP in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTX to BMP. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="bmp" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="bmp" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to BMP via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to GIF - Online XLSB to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to GIF saveformat. C++ XLSB to GIF format. Save XLSB to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to GIF saveformat., Free Online XLSB to GIF C++., C++ Convert XLSB to GIF]
+title: C++ XLSB to GIF - XLSB to GIF Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSB to GIF in C++. C++ Convert XLSB to GIF saveformat. C++ XLSB to GIF format. Save XLSB to GIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to GIF in C++., C++ XLSB to GIF saveformat., XLSB to GIF C++., C++ Convert XLSB to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to GIF in C++" %}}
 
 The following example demonstrates how to convert XLSB to GIF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSB to GIF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to GIF via C++" %}}
 

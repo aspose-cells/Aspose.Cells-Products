@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to JPEG - Combine SXC to JPEG in C++
 url: /cpp/merger/merge-sxc-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to JPEG saveformat. C++ Combine SXC to JPEG format. Merge SXC to JPEG in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to JPEG in C++., Free Online C++ Merge SXC to jpeg., C++ Combine SXC to JPEG Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge SXC to JPEG saveformat. C++ Combine SXC to JPEG format. Merge SXC to JPEG in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to JPEG in C++., C++ Merge SXC to jpeg., C++ Combine SXC to JPEG., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to JPEG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to JPEG in C++" %}}
 
 The following example demonstrates how to merge SXC to JPEG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SXC to JPEG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to JPEG in C++" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge SXC to JPEG in C++" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to JPEG via C++" %}}
 

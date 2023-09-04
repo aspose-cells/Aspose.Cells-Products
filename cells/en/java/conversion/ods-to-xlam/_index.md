@@ -1,7 +1,7 @@
 ---
-title: Java ODS to XLAM - Online ODS to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to XLAM saveformat. Java ODS to XLAM format. Save ODS to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to XLAM saveformat., Free Online ODS to XLAM Java., Java Convert ODS to XLAM]
+title: Java ODS to XLAM - ODS to XLAM Converter
+description: Aspose Excel. Java Aspose.Cells. ODS to XLAM in Java. Java Convert ODS to XLAM saveformat. Java ODS to XLAM format. Save ODS to XLAM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., ODS to XLAM in Java., Java ODS to XLAM saveformat., ODS to XLAM Java., Java Convert ODS to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert ODS to XLAM? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to XLAM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to XLAM in Java" %}}
 
 The following example demonstrates how to convert ODS to XLAM in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to XLAM. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to XLAM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLAM via Java" %}}
 

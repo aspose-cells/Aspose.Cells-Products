@@ -1,7 +1,7 @@
 ---
-title: Java FODS to XLS - Online FODS to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to XLS saveformat. Java FODS to XLS format. Save FODS to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to XLS saveformat., Free Online FODS to XLS Java., Java Convert FODS to XLS]
+title: Java FODS to XLS - FODS to XLS Converter
+description: Aspose Excel. Java Aspose.Cells. FODS to XLS in Java. Java Convert FODS to XLS saveformat. Java FODS to XLS format. Save FODS to XLS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., FODS to XLS in Java., Java FODS to XLS saveformat., FODS to XLS Java., Java Convert FODS to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert FODS to XLS? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to XLS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to XLS in Java" %}}
 
 The following example demonstrates how to convert FODS to XLS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to XLS. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to XLS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to XPS - Online NUMBERS to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert NUMBERS to XPS saveformat. Python NUMBERS to XPS format. Save NUMBERS to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to XPS saveformat., Free Online NUMBERS to XPS Python., Python Convert NUMBERS to XPS]
+title: Python NUMBERS to XPS - NUMBERS to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. NUMBERS to XPS in Python. Python Convert NUMBERS to XPS saveformat. Python NUMBERS to XPS format. Save NUMBERS to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to XPS in Python., Python NUMBERS to XPS saveformat., NUMBERS to XPS Python., Python Convert NUMBERS to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert NUMBERS to XPS? With Aspose.Cells for Python library, you can e
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to XPS in Python" %}}
 
 The following example demonstrates how to convert NUMBERS to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to XPS. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XPS via Python" %}}
 

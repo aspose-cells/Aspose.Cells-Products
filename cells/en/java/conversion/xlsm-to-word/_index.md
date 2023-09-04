@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to WORD - Online XLSM to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to WORD saveformat. Java XLSM to WORD format. Save XLSM to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to WORD saveformat., Free Online XLSM to WORD Java., Java Convert XLSM to WORD]
+title: Java XLSM to WORD - XLSM to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to WORD in Java. Java Convert XLSM to WORD saveformat. Java XLSM to WORD format. Save XLSM to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to WORD in Java., Java XLSM to WORD saveformat., XLSM to WORD Java., Java Convert XLSM to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to WORD? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to WORD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to WORD in Java" %}}
 
 The following example demonstrates how to convert XLSM to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to WORD. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to WORD via Java" %}}
 

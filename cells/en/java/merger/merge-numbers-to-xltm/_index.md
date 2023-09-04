@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLTM - Combine NUMBERS to XLTM in Java
 url: /java/merger/merge-numbers-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XLTM saveformat. Java Combine NUMBERS to XLTM format. Merge NUMBERS to XLTM in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLTM in Java., Free Online Java Merge NUMBERS to xltm., Java Combine NUMBERS to XLTM Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge NUMBERS to XLTM saveformat. Java Combine NUMBERS to XLTM format. Merge NUMBERS to XLTM in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLTM in Java., Java Merge NUMBERS to xltm., Java Combine NUMBERS to XLTM., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge NUMBERS to XLTM? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to XLTM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to XLTM in Java" %}}
 
 The following example demonstrates how to merge NUMBERS to XLTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge NUMBERS to XLTM. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to XLTM in Java" InputFormat="numbers" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to XLTM in Java" InputFormat="numbers" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to XLTM via Java" %}}
 

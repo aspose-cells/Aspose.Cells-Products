@@ -1,7 +1,7 @@
 ---
-title: C# HTM to SPREADSHEETML - Online HTM to SPREADSHEETML Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTM to SPREADSHEETML saveformat. C# HTM to SPREADSHEETML format. Save HTM to SPREADSHEETML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTM to SPREADSHEETML saveformat., Free Online HTM to SPREADSHEETML C#., C# Convert HTM to SPREADSHEETML]
+title: C# HTM to SPREADSHEETML - HTM to SPREADSHEETML Converter
+description: Aspose Excel. C# Aspose.Cells. HTM to SPREADSHEETML in C#. C# Convert HTM to SPREADSHEETML saveformat. C# HTM to SPREADSHEETML format. Save HTM to SPREADSHEETML C#.
+keywords: [Aspose Excel., C# Aspose.Cells., HTM to SPREADSHEETML in C#., C# HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML C#., C# Convert HTM to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to SPREADSHEETML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to SPREADSHEETML in C#" %}}
 
 The following example demonstrates how to convert HTM to SPREADSHEETML in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTM to SPREADSHEETML. Upload your HTM file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTM to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to SPREADSHEETML via C#" %}}
 

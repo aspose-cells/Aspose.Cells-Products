@@ -1,7 +1,7 @@
 ---
-title: C++ SXC to GIF - Online SXC to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to GIF saveformat. C++ SXC to GIF format. Save SXC to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to GIF saveformat., Free Online SXC to GIF C++., C++ Convert SXC to GIF]
+title: C++ SXC to GIF - SXC to GIF Converter
+description: Aspose Excel. C++ Aspose.Cells. SXC to GIF in C++. C++ Convert SXC to GIF saveformat. C++ SXC to GIF format. Save SXC to GIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., SXC to GIF in C++., C++ SXC to GIF saveformat., SXC to GIF C++., C++ Convert SXC to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to GIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to GIF in C++" %}}
 
 The following example demonstrates how to convert SXC to GIF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert SXC to GIF. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert SXC to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to GIF via C++" %}}
 

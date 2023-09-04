@@ -1,7 +1,7 @@
 ---
-title: Java XLT to TIFF - Online XLT to TIFF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to TIFF saveformat. Java XLT to TIFF format. Save XLT to TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to TIFF saveformat., Free Online XLT to TIFF Java., Java Convert XLT to TIFF]
+title: Java XLT to TIFF - XLT to TIFF Converter
+description: Aspose Excel. Java Aspose.Cells. XLT to TIFF in Java. Java Convert XLT to TIFF saveformat. Java XLT to TIFF format. Save XLT to TIFF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLT to TIFF in Java., Java XLT to TIFF saveformat., XLT to TIFF Java., Java Convert XLT to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLT to TIFF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to TIFF in Java" %}}
 
 The following example demonstrates how to convert XLT to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to TIFF. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to TIFF via Java" %}}
 

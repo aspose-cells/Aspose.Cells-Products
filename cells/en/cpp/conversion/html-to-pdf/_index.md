@@ -1,7 +1,7 @@
 ---
-title: C++ HTML to PDF - Online HTML to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to PDF saveformat. C++ HTML to PDF format. Save HTML to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to PDF saveformat., Free Online HTML to PDF C++., C++ Convert HTML to PDF]
+title: C++ HTML to PDF - HTML to PDF Converter
+description: Aspose Excel. C++ Aspose.Cells. HTML to PDF in C++. C++ Convert HTML to PDF saveformat. C++ HTML to PDF format. Save HTML to PDF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTML to PDF in C++., C++ HTML to PDF saveformat., HTML to PDF C++., C++ Convert HTML to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to PDF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to PDF in C++" %}}
 
 The following example demonstrates how to convert HTML to PDF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTML to PDF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pdf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pdf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PDF via C++" %}}
 

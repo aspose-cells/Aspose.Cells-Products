@@ -1,7 +1,7 @@
 ---
-title: Java HTM to ET - Online HTM to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to ET saveformat. Java HTM to ET format. Save HTM to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to ET saveformat., Free Online HTM to ET Java., Java Convert HTM to ET]
+title: Java HTM to ET - HTM to ET Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to ET in Java. Java Convert HTM to ET saveformat. Java HTM to ET format. Save HTM to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to ET in Java., Java HTM to ET saveformat., HTM to ET Java., Java Convert HTM to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to ET? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to ET in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to ET in Java" %}}
 
 The following example demonstrates how to convert HTM to ET in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to ET. Upload your HTM file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to ET via Java" %}}
 

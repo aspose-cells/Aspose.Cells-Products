@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to JPEG - Combine MHT to JPEG in Python
 url: /python-net/merger/merge-mht-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to JPEG saveformat. Python Combine MHT to JPEG format. Merge MHT to JPEG in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to JPEG in Python., Free Online Python Merge MHT to jpeg., Python Combine MHT to JPEG Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge MHT to JPEG saveformat. Python Combine MHT to JPEG format. Merge MHT to JPEG in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to JPEG in Python., Python Merge MHT to jpeg., Python Combine MHT to JPEG., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge MHT to JPEG? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHT to JPEG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHT to JPEG in Python" %}}
 
 The following example demonstrates how to merge MHT to JPEG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge MHT to JPEG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHT to JPEG in Python" InputFormat="mht" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge MHT to JPEG in Python" InputFormat="mht" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to JPEG via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JSON - Combine FODS to JSON in Java
 url: /java/merger/merge-fods-to-json/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to JSON saveformat. Java Combine FODS to JSON format. Merge FODS to JSON in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JSON in Java., Free Online Java Merge FODS to json., Java Combine FODS to JSON Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge FODS to JSON saveformat. Java Combine FODS to JSON format. Merge FODS to JSON in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JSON in Java., Java Merge FODS to json., Java Combine FODS to JSON., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge FODS to JSON? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to JSON in Java" %}}
 
 The following example demonstrates how to merge FODS to JSON in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge FODS to JSON. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to JSON in Java" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge FODS to JSON in Java" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to JSON via Java" %}}
 

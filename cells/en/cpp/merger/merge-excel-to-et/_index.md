@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ET - Combine EXCEL to ET in C++
 url: /cpp/merger/merge-excel-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to ET saveformat. C++ Combine EXCEL to ET format. Merge EXCEL to ET in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to ET in C++., Free Online C++ Merge EXCEL to et., C++ Combine EXCEL to ET Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge EXCEL to ET saveformat. C++ Combine EXCEL to ET format. Merge EXCEL to ET in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to ET in C++., C++ Merge EXCEL to et., C++ Combine EXCEL to ET., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to ET in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to ET in C++" %}}
 
 The following example demonstrates how to merge EXCEL to ET in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge EXCEL to ET. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to ET in C++" InputFormat="xlsx" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to ET in C++" InputFormat="xlsx" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to ET via C++" %}}
 

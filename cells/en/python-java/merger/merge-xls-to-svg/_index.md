@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SVG - Combine XLS to SVG in Python
 url: /python-java/merger/merge-xls-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to SVG saveformat. Python Combine XLS to SVG format. Merge XLS to SVG in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SVG in Python., Free Online Python Merge XLS to svg., Python Combine XLS to SVG Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLS to SVG saveformat. Python Combine XLS to SVG format. Merge XLS to SVG in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SVG in Python., Python Merge XLS to svg., Python Combine XLS to SVG., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLS to SVG? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to SVG in Python" %}}
 
 The following example demonstrates how to merge XLS to SVG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLS to SVG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to SVG in Python" InputFormat="xls" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLS to SVG in Python" InputFormat="xls" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to SVG via Python" %}}
 

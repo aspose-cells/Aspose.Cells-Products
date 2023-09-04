@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to EMF - Combine TABDELIMITED to EMF in C#
 url: /net/merger/merge-tabdelimited-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to EMF saveformat. C# Combine TABDELIMITED to EMF format. Merge TABDELIMITED to EMF in C#. TABDELIMITED Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to EMF in C#., Free Online C# Merge TABDELIMITED to emf., C# Combine TABDELIMITED to EMF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TABDELIMITED to EMF saveformat. C# Combine TABDELIMITED to EMF format. Merge TABDELIMITED to EMF in C#. TABDELIMITED Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to EMF in C#., C# Merge TABDELIMITED to emf., C# Combine TABDELIMITED to EMF., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to EMF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to EMF in C#" %}}
 
 The following example demonstrates how to merge TABDELIMITED to EMF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TABDELIMITED to EMF. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to EMF in C#" InputFormat="tsv" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to EMF in C#" InputFormat="tsv" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to EMF via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to BMP - Combine XLSM to BMP in C#
 url: /net/merger/merge-xlsm-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to BMP saveformat. C# Combine XLSM to BMP format. Merge XLSM to BMP in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to BMP in C#., Free Online C# Merge XLSM to bmp., C# Combine XLSM to BMP Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLSM to BMP saveformat. C# Combine XLSM to BMP format. Merge XLSM to BMP in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to BMP in C#., C# Merge XLSM to bmp., C# Combine XLSM to BMP., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to BMP in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to BMP in C#" %}}
 
 The following example demonstrates how to merge XLSM to BMP in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSM to BMP. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to BMP in C#" InputFormat="xlsm" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to BMP in C#" InputFormat="xlsm" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to BMP via C#" %}}
 

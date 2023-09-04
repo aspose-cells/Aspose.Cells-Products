@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ETT - Combine JPG to ETT in Java
 url: /java/merger/merge-jpg-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to ETT saveformat. Java Combine JPG to ETT format. Merge JPG to ETT in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to ETT in Java., Free Online Java Merge JPG to ett., Java Combine JPG to ETT Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JPG to ETT saveformat. Java Combine JPG to ETT format. Merge JPG to ETT in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to ETT in Java., Java Merge JPG to ett., Java Combine JPG to ETT., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JPG to ETT? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to ETT in Java" %}}
 
 The following example demonstrates how to merge JPG to ETT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JPG to ETT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to ETT in Java" InputFormat="jpg" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JPG to ETT in Java" InputFormat="jpg" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to ETT via Java" %}}
 

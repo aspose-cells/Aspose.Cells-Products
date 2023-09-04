@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLTX - Combine JSON to XLTX in Java
 url: /java/merger/merge-json-to-xltx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to XLTX saveformat. Java Combine JSON to XLTX format. Merge JSON to XLTX in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLTX in Java., Free Online Java Merge JSON to xltx., Java Combine JSON to XLTX Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge JSON to XLTX saveformat. Java Combine JSON to XLTX format. Merge JSON to XLTX in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLTX in Java., Java Merge JSON to xltx., Java Combine JSON to XLTX., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge JSON to XLTX? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JSON to XLTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JSON to XLTX in Java" %}}
 
 The following example demonstrates how to merge JSON to XLTX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge JSON to XLTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JSON to XLTX in Java" InputFormat="json" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge JSON to XLTX in Java" InputFormat="json" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to XLTX via Java" %}}
 

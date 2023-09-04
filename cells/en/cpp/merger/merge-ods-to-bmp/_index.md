@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to BMP - Combine ODS to BMP in C++
 url: /cpp/merger/merge-ods-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to BMP saveformat. C++ Combine ODS to BMP format. Merge ODS to BMP in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to BMP in C++., Free Online C++ Merge ODS to bmp., C++ Combine ODS to BMP Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge ODS to BMP saveformat. C++ Combine ODS to BMP format. Merge ODS to BMP in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to BMP in C++., C++ Merge ODS to bmp., C++ Combine ODS to BMP., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to BMP in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to BMP in C++" %}}
 
 The following example demonstrates how to merge ODS to BMP in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge ODS to BMP. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to BMP in C++" InputFormat="ods" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge ODS to BMP in C++" InputFormat="ods" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to BMP via C++" %}}
 

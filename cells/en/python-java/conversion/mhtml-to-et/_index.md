@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to ET - Online MHTML to ET Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to ET saveformat. Python MHTML to ET format. Save MHTML to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to ET saveformat., Free Online MHTML to ET Python., Python Convert MHTML to ET]
+title: Python MHTML to ET - MHTML to ET Converter
+description: Aspose Excel. Python Aspose.Cells. MHTML to ET in Python. Python Convert MHTML to ET saveformat. Python MHTML to ET format. Save MHTML to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHTML to ET in Python., Python MHTML to ET saveformat., MHTML to ET Python., Python Convert MHTML to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHTML to ET? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to ET in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to ET in Python" %}}
 
 The following example demonstrates how to convert MHTML to ET in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to ET. Upload your MHTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to ET via Python" %}}
 

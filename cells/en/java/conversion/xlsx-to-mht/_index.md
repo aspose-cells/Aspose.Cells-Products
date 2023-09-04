@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to MHT - Online XLSX to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to MHT saveformat. Java XLSX to MHT format. Save XLSX to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to MHT saveformat., Free Online XLSX to MHT Java., Java Convert XLSX to MHT]
+title: Java XLSX to MHT - XLSX to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to MHT in Java. Java Convert XLSX to MHT saveformat. Java XLSX to MHT format. Save XLSX to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to MHT in Java., Java XLSX to MHT saveformat., XLSX to MHT Java., Java Convert XLSX to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to MHT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to MHT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to MHT in Java" %}}
 
 The following example demonstrates how to convert XLSX to MHT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to MHT. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to MHT via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to PRN - Combine IMAGE to PRN in C#
 url: /net/merger/merge-image-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to PRN saveformat. C# Combine IMAGE to PRN format. Merge IMAGE to PRN in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to PRN in C#., Free Online C# Merge IMAGE to prn., C# Combine IMAGE to PRN Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge IMAGE to PRN saveformat. C# Combine IMAGE to PRN format. Merge IMAGE to PRN in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to PRN in C#., C# Merge IMAGE to prn., C# Combine IMAGE to PRN., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to PRN in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to PRN in C#" %}}
 
 The following example demonstrates how to merge IMAGE to PRN in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to PRN. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to PRN in C#" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to PRN in C#" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to PRN via C#" %}}
 

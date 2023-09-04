@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE to ETT - Online IMAGE to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert IMAGE to ETT saveformat. C++ IMAGE to ETT format. Save IMAGE to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to ETT saveformat., Free Online IMAGE to ETT C++., C++ Convert IMAGE to ETT]
+title: C++ IMAGE to ETT - IMAGE to ETT Converter
+description: Aspose Excel. C++ Aspose.Cells. IMAGE to ETT in C++. C++ Convert IMAGE to ETT saveformat. C++ IMAGE to ETT format. Save IMAGE to ETT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to ETT in C++., C++ IMAGE to ETT saveformat., IMAGE to ETT C++., C++ Convert IMAGE to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to ETT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to ETT in C++" %}}
 
 The following example demonstrates how to convert IMAGE to ETT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert IMAGE to ETT. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to ETT via C++" %}}
 

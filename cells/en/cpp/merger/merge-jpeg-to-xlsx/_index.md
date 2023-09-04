@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLSX - Combine JPEG to XLSX in C++
 url: /cpp/merger/merge-jpeg-to-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to XLSX saveformat. C++ Combine JPEG to XLSX format. Merge JPEG to XLSX in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to XLSX in C++., Free Online C++ Merge JPEG to xlsx., C++ Combine JPEG to XLSX Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge JPEG to XLSX saveformat. C++ Combine JPEG to XLSX format. Merge JPEG to XLSX in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to XLSX in C++., C++ Merge JPEG to xlsx., C++ Combine JPEG to XLSX., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPEG to XLSX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPEG to XLSX in C++" %}}
 
 The following example demonstrates how to merge JPEG to XLSX in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge JPEG to XLSX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPEG to XLSX in C++" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge JPEG to XLSX in C++" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPEG to XLSX via C++" %}}
 

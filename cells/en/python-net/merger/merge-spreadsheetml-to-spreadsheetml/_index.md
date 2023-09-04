@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to SPREADSHEETML - Combine SPREADSHEETML to SPREADSHEETML in Python
 url: /python-net/merger/merge-spreadsheetml-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to SPREADSHEETML saveformat. Python Combine SPREADSHEETML to SPREADSHEETML format. Merge SPREADSHEETML to SPREADSHEETML in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to SPREADSHEETML in Python., Free Online Python Merge SPREADSHEETML to spreadsheetml., Python Combine SPREADSHEETML to SPREADSHEETML Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to SPREADSHEETML saveformat. Python Combine SPREADSHEETML to SPREADSHEETML format. Merge SPREADSHEETML to SPREADSHEETML in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to SPREADSHEETML in Python., Python Merge SPREADSHEETML to spreadsheetml., Python Combine SPREADSHEETML to SPREADSHEETML., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to SPREADSHEETML? With Aspose.Cells for Python via 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to SPREADSHEETML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to SPREADSHEETML. Upload your files
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to SPREADSHEETML in Python" InputFormat="xml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to SPREADSHEETML in Python" InputFormat="xml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to SPREADSHEETML via Python" %}}
 

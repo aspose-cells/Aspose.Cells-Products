@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLAM - Combine OTS to XLAM in C#
 url: /net/merger/merge-ots-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to XLAM saveformat. C# Combine OTS to XLAM format. Merge OTS to XLAM in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLAM in C#., Free Online C# Merge OTS to xlam., C# Combine OTS to XLAM Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge OTS to XLAM saveformat. C# Combine OTS to XLAM format. Merge OTS to XLAM in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLAM in C#., C# Merge OTS to xlam., C# Combine OTS to XLAM., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to XLAM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to XLAM in C#" %}}
 
 The following example demonstrates how to merge OTS to XLAM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to XLAM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to XLAM in C#" InputFormat="ots" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge OTS to XLAM in C#" InputFormat="ots" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to XLAM via C#" %}}
 

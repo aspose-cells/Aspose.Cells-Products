@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLSM - Combine EXCEL to XLSM in Python
 url: /python-net/merger/merge-excel-to-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to XLSM saveformat. Python Combine EXCEL to XLSM format. Merge EXCEL to XLSM in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSM in Python., Free Online Python Merge EXCEL to xlsm., Python Combine EXCEL to XLSM Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge EXCEL to XLSM saveformat. Python Combine EXCEL to XLSM format. Merge EXCEL to XLSM in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSM in Python., Python Merge EXCEL to xlsm., Python Combine EXCEL to XLSM., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge EXCEL to XLSM? With Aspose.Cells for Python via .NET library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge EXCEL to XLSM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge EXCEL to XLSM in Python" %}}
 
 The following example demonstrates how to merge EXCEL to XLSM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge EXCEL to XLSM. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge EXCEL to XLSM in Python" InputFormat="xlsx" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge EXCEL to XLSM in Python" InputFormat="xlsx" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge EXCEL to XLSM via Python" %}}
 

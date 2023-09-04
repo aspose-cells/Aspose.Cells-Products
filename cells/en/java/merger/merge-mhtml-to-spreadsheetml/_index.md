@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SPREADSHEETML - Combine MHTML to SPREADSHEETML in Java
 url: /java/merger/merge-mhtml-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to SPREADSHEETML saveformat. Java Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to SPREADSHEETML in Java., Free Online Java Merge MHTML to spreadsheetml., Java Combine MHTML to SPREADSHEETML Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge MHTML to SPREADSHEETML saveformat. Java Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to SPREADSHEETML in Java., Java Merge MHTML to spreadsheetml., Java Combine MHTML to SPREADSHEETML., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge MHTML to SPREADSHEETML? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to SPREADSHEETML in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to SPREADSHEETML in Java" %}}
 
 The following example demonstrates how to merge MHTML to SPREADSHEETML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge MHTML to SPREADSHEETML. Upload your files, call W
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to SPREADSHEETML in Java" InputFormat="mhtml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to SPREADSHEETML in Java" InputFormat="mhtml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to SPREADSHEETML via Java" %}}
 

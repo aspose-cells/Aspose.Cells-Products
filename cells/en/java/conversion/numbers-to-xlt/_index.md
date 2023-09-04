@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS to XLT - Online NUMBERS to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert NUMBERS to XLT saveformat. Java NUMBERS to XLT format. Save NUMBERS to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to XLT saveformat., Free Online NUMBERS to XLT Java., Java Convert NUMBERS to XLT]
+title: Java NUMBERS to XLT - NUMBERS to XLT Converter
+description: Aspose Excel. Java Aspose.Cells. NUMBERS to XLT in Java. Java Convert NUMBERS to XLT saveformat. Java NUMBERS to XLT format. Save NUMBERS to XLT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to XLT in Java., Java NUMBERS to XLT saveformat., NUMBERS to XLT Java., Java Convert NUMBERS to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert NUMBERS to XLT? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to XLT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to XLT in Java" %}}
 
 The following example demonstrates how to convert NUMBERS to XLT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to XLT. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to XLT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLT via Java" %}}
 

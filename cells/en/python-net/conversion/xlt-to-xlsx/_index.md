@@ -1,7 +1,7 @@
 ---
-title: Python XLT to XLSX - Online XLT to XLSX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to XLSX saveformat. Python XLT to XLSX format. Save XLT to XLSX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to XLSX saveformat., Free Online XLT to XLSX Python., Python Convert XLT to XLSX]
+title: Python XLT to XLSX - XLT to XLSX Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to XLSX in Python. Python Convert XLT to XLSX saveformat. Python XLT to XLSX format. Save XLT to XLSX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to XLSX in Python., Python XLT to XLSX saveformat., XLT to XLSX Python., Python Convert XLT to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLT to XLSX? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLT to XLSX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to XLSX in Python" %}}
 
 The following example demonstrates how to convert XLT to XLSX in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLT to XLSX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLSX" %}}
 

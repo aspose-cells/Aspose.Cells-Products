@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DOCX - Combine NUMBERS to DOCX in Java
 url: /java/merger/merge-numbers-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to DOCX saveformat. Java Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DOCX in Java., Free Online Java Merge NUMBERS to docx., Java Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge NUMBERS to DOCX saveformat. Java Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DOCX in Java., Java Merge NUMBERS to docx., Java Combine NUMBERS to DOCX., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge NUMBERS to DOCX? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to DOCX in Java" %}}
 
 The following example demonstrates how to merge NUMBERS to DOCX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge NUMBERS to DOCX. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to DOCX in Java" InputFormat="numbers" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to DOCX in Java" InputFormat="numbers" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to DOCX via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to PRN - Online XLTM to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTM to PRN saveformat. Python XLTM to PRN format. Save XLTM to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to PRN saveformat., Free Online XLTM to PRN Python., Python Convert XLTM to PRN]
+title: Python XLTM to PRN - XLTM to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. XLTM to PRN in Python. Python Convert XLTM to PRN saveformat. Python XLTM to PRN format. Save XLTM to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTM to PRN in Python., Python XLTM to PRN saveformat., XLTM to PRN Python., Python Convert XLTM to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLTM to PRN? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to PRN in Python" %}}
 
 The following example demonstrates how to convert XLTM to PRN in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLTM to PRN. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to PRN" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MARKDOWN - Combine PNG to MARKDOWN in Java
 url: /java/merger/merge-png-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to MARKDOWN saveformat. Java Combine PNG to MARKDOWN format. Merge PNG to MARKDOWN in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to MARKDOWN in Java., Free Online Java Merge PNG to markdown., Java Combine PNG to MARKDOWN Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge PNG to MARKDOWN saveformat. Java Combine PNG to MARKDOWN format. Merge PNG to MARKDOWN in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to MARKDOWN in Java., Java Merge PNG to markdown., Java Combine PNG to MARKDOWN., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge PNG to MARKDOWN? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to MARKDOWN in Java" %}}
 
 The following example demonstrates how to merge PNG to MARKDOWN in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge PNG to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to MARKDOWN in Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge PNG to MARKDOWN in Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to MARKDOWN via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
-title: Python Repair ods File - Repair ods File Online for Free
+title: Python Repair ods File - Recover ods File
 url: /python-java/recovery/repair-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair ods file. Free Online ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Free Online Repair a corrupted ods file., Python Recover ods file.]
+description: Aspose Excel. Python Aspose.Cells. Python Repair ods file. ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within Python application.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Repair a corrupted ods file., Python Recover ods file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -33,7 +33,7 @@ Need to repair ods file programmatically? Python developers can easily load & re
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair ODS file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Sample Code to repair ODS file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python library to repair ODS file" %}}
 

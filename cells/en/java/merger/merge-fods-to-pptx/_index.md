@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PPTX - Combine FODS to PPTX in Java
 url: /java/merger/merge-fods-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to PPTX saveformat. Java Combine FODS to PPTX format. Merge FODS to PPTX in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to PPTX in Java., Free Online Java Merge FODS to pptx., Java Combine FODS to PPTX Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge FODS to PPTX saveformat. Java Combine FODS to PPTX format. Merge FODS to PPTX in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to PPTX in Java., Java Merge FODS to pptx., Java Combine FODS to PPTX., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge FODS to PPTX? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to PPTX in Java" %}}
 
 The following example demonstrates how to merge FODS to PPTX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge FODS to PPTX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to PPTX in Java" InputFormat="fods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge FODS to PPTX in Java" InputFormat="fods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to PPTX via Java" %}}
 

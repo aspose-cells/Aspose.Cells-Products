@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML to XPS - Online SPREADSHEETML to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SPREADSHEETML to XPS saveformat. Python SPREADSHEETML to XPS format. Save SPREADSHEETML to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to XPS saveformat., Free Online SPREADSHEETML to XPS Python., Python Convert SPREADSHEETML to XPS]
+title: Python SPREADSHEETML to XPS - SPREADSHEETML to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to XPS in Python. Python Convert SPREADSHEETML to XPS saveformat. Python SPREADSHEETML to XPS format. Save SPREADSHEETML to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to XPS in Python., Python SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Python., Python Convert SPREADSHEETML to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SPREADSHEETML to XPS? With Aspose.Cells for Python library, you
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to XPS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to XPS in Python" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SPREADSHEETML to XPS. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to XPS via Python" %}}
 

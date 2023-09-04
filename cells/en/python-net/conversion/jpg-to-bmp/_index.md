@@ -1,7 +1,7 @@
 ---
-title: Python JPG to BMP - Online JPG to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to BMP saveformat. Python JPG to BMP format. Save JPG to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to BMP saveformat., Free Online JPG to BMP Python., Python Convert JPG to BMP]
+title: Python JPG to BMP - JPG to BMP Converter
+description: Aspose Excel. Python Aspose.Cells. JPG to BMP in Python. Python Convert JPG to BMP saveformat. Python JPG to BMP format. Save JPG to BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to BMP in Python., Python JPG to BMP saveformat., JPG to BMP Python., Python Convert JPG to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert JPG to BMP? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save JPG to BMP in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to BMP in Python" %}}
 
 The following example demonstrates how to convert JPG to BMP in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPG to BMP. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPG to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to BMP" %}}
 

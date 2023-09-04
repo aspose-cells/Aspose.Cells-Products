@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to OTS - Combine XLSM to OTS in C#
 url: /net/merger/merge-xlsm-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to OTS saveformat. C# Combine XLSM to OTS format. Merge XLSM to OTS in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to OTS in C#., Free Online C# Merge XLSM to ots., C# Combine XLSM to OTS Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLSM to OTS saveformat. C# Combine XLSM to OTS format. Merge XLSM to OTS in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to OTS in C#., C# Merge XLSM to ots., C# Combine XLSM to OTS., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to OTS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to OTS in C#" %}}
 
 The following example demonstrates how to merge XLSM to OTS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSM to OTS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to OTS in C#" InputFormat="xlsm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to OTS in C#" InputFormat="xlsm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to OTS via C#" %}}
 

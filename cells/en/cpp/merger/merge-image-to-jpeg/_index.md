@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to JPEG - Combine IMAGE to JPEG in C++
 url: /cpp/merger/merge-image-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to JPEG saveformat. C++ Combine IMAGE to JPEG format. Merge IMAGE to JPEG in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to JPEG in C++., Free Online C++ Merge IMAGE to jpeg., C++ Combine IMAGE to JPEG Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge IMAGE to JPEG saveformat. C++ Combine IMAGE to JPEG format. Merge IMAGE to JPEG in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to JPEG in C++., C++ Merge IMAGE to jpeg., C++ Combine IMAGE to JPEG., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to JPEG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to JPEG in C++" %}}
 
 The following example demonstrates how to merge IMAGE to JPEG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge IMAGE to JPEG. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to JPEG in C++" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to JPEG in C++" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to JPEG via C++" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TIFF - Combine FODS to TIFF in Python
 url: /python-java/merger/merge-fods-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to TIFF saveformat. Python Combine FODS to TIFF format. Merge FODS to TIFF in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TIFF in Python., Free Online Python Merge FODS to tiff., Python Combine FODS to TIFF Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to TIFF saveformat. Python Combine FODS to TIFF format. Merge FODS to TIFF in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TIFF in Python., Python Merge FODS to tiff., Python Combine FODS to TIFF., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to TIFF? With Aspose.Cells for Python via Java library, you 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to TIFF in Python" %}}
 
 The following example demonstrates how to merge FODS to TIFF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to TIFF. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to TIFF in Python" InputFormat="fods" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge FODS to TIFF in Python" InputFormat="fods" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to TIFF via Python" %}}
 

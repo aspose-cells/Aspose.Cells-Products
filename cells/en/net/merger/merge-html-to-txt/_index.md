@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TXT - Combine HTML to TXT in C#
 url: /net/merger/merge-html-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to TXT saveformat. C# Combine HTML to TXT format. Merge HTML to TXT in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to TXT in C#., Free Online C# Merge HTML to txt., C# Combine HTML to TXT Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge HTML to TXT saveformat. C# Combine HTML to TXT format. Merge HTML to TXT in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to TXT in C#., C# Merge HTML to txt., C# Combine HTML to TXT., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to TXT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to TXT in C#" %}}
 
 The following example demonstrates how to merge HTML to TXT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge HTML to TXT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to TXT in C#" InputFormat="html" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge HTML to TXT in C#" InputFormat="html" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to TXT via C#" %}}
 

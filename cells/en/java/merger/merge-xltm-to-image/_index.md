@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to IMAGE - Combine XLTM to IMAGE in Java
 url: /java/merger/merge-xltm-to-image/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to IMAGE saveformat. Java Combine XLTM to IMAGE format. Merge XLTM to IMAGE in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to IMAGE in Java., Free Online Java Merge XLTM to image., Java Combine XLTM to IMAGE Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLTM to IMAGE saveformat. Java Combine XLTM to IMAGE format. Merge XLTM to IMAGE in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to IMAGE in Java., Java Merge XLTM to image., Java Combine XLTM to IMAGE., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLTM to IMAGE? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to IMAGE in Java" %}}
 
 The following example demonstrates how to merge XLTM to IMAGE in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLTM to IMAGE. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to IMAGE in Java" InputFormat="xltm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to IMAGE in Java" InputFormat="xltm" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to IMAGE via Java" %}}
 

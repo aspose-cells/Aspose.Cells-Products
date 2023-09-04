@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XLT - Combine XLTM to XLT in C#
 url: /net/merger/merge-xltm-to-xlt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to XLT saveformat. C# Combine XLTM to XLT format. Merge XLTM to XLT in C#. XLTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to XLT in C#., Free Online C# Merge XLTM to xlt., C# Combine XLTM to XLT Online for Free., XLTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLTM to XLT saveformat. C# Combine XLTM to XLT format. Merge XLTM to XLT in C#. XLTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to XLT in C#., C# Merge XLTM to xlt., C# Combine XLTM to XLT., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLTM to XLT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLTM to XLT in C#" %}}
 
 The following example demonstrates how to merge XLTM to XLT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLTM to XLT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLTM to XLT in C#" InputFormat="xltm" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLTM to XLT in C#" InputFormat="xltm" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to XLT via C#" %}}
 

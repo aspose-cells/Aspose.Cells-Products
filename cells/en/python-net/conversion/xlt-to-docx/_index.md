@@ -1,7 +1,7 @@
 ---
-title: Python XLT to DOCX - Online XLT to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to DOCX saveformat. Python XLT to DOCX format. Save XLT to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to DOCX saveformat., Free Online XLT to DOCX Python., Python Convert XLT to DOCX]
+title: Python XLT to DOCX - XLT to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to DOCX in Python. Python Convert XLT to DOCX saveformat. Python XLT to DOCX format. Save XLT to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to DOCX in Python., Python XLT to DOCX saveformat., XLT to DOCX Python., Python Convert XLT to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLT to DOCX? With Aspose.Cells for Python via NET library, you 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLT to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to DOCX in Python" %}}
 
 The following example demonstrates how to convert XLT to DOCX in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLT to DOCX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to DOCX" %}}
 

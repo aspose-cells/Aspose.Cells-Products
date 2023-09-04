@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to MD - Online IMAGE to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to MD saveformat. Java IMAGE to MD format. Save IMAGE to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to MD saveformat., Free Online IMAGE to MD Java., Java Convert IMAGE to MD]
+title: Java IMAGE to MD - IMAGE to MD Converter
+description: Aspose Excel. Java Aspose.Cells. IMAGE to MD in Java. Java Convert IMAGE to MD saveformat. Java IMAGE to MD format. Save IMAGE to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to MD in Java., Java IMAGE to MD saveformat., IMAGE to MD Java., Java Convert IMAGE to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert IMAGE to MD? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to MD in Java" %}}
 
 The following example demonstrates how to convert IMAGE to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to MD. Upload your IMAGE file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to MD via Java" %}}
 

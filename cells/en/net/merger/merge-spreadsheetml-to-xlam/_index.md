@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLAM - Combine SPREADSHEETML to XLAM in C#
 url: /net/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to XLAM saveformat. C# Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., Free Online C# Merge SPREADSHEETML to xlam., C# Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SPREADSHEETML to XLAM saveformat. C# Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., C# Merge SPREADSHEETML to xlam., C# Combine SPREADSHEETML to XLAM., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLAM in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLAM in C#" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to XLAM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to XLAM. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to XLAM in C#" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to XLAM in C#" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to XLAM via C#" %}}
 

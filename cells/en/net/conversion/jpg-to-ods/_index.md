@@ -1,7 +1,7 @@
 ---
-title: C# JPG to ODS - Online JPG to ODS Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to ODS saveformat. C# JPG to ODS format. Save JPG to ODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to ODS saveformat., Free Online JPG to ODS C#., C# Convert JPG to ODS]
+title: C# JPG to ODS - JPG to ODS Converter
+description: Aspose Excel. C# Aspose.Cells. JPG to ODS in C#. C# Convert JPG to ODS saveformat. C# JPG to ODS format. Save JPG to ODS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., JPG to ODS in C#., C# JPG to ODS saveformat., JPG to ODS C#., C# Convert JPG to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to ODS in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to ODS in C#" %}}
 
 The following example demonstrates how to convert JPG to ODS in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to ODS. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to ODS via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java OTS to PRN - Online OTS to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert OTS to PRN saveformat. Java OTS to PRN format. Save OTS to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to PRN saveformat., Free Online OTS to PRN Java., Java Convert OTS to PRN]
+title: Java OTS to PRN - OTS to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. OTS to PRN in Java. Java Convert OTS to PRN saveformat. Java OTS to PRN format. Save OTS to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., OTS to PRN in Java., Java OTS to PRN saveformat., OTS to PRN Java., Java Convert OTS to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert OTS to PRN? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to PRN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to PRN in Java" %}}
 
 The following example demonstrates how to convert OTS to PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to PRN. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to PRN via Java" %}}
 

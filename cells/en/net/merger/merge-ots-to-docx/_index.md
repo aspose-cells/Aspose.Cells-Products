@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to DOCX - Combine OTS to DOCX in C#
 url: /net/merger/merge-ots-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to DOCX saveformat. C# Combine OTS to DOCX format. Merge OTS to DOCX in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to DOCX in C#., Free Online C# Merge OTS to docx., C# Combine OTS to DOCX Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge OTS to DOCX saveformat. C# Combine OTS to DOCX format. Merge OTS to DOCX in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to DOCX in C#., C# Merge OTS to docx., C# Combine OTS to DOCX., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to DOCX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to DOCX in C#" %}}
 
 The following example demonstrates how to merge OTS to DOCX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to DOCX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to DOCX in C#" InputFormat="ots" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge OTS to DOCX in C#" InputFormat="ots" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to DOCX via C#" %}}
 

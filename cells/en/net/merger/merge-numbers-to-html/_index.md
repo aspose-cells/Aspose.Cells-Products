@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to HTML - Combine NUMBERS to HTML in C#
 url: /net/merger/merge-numbers-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to HTML saveformat. C# Combine NUMBERS to HTML format. Merge NUMBERS to HTML in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to HTML in C#., Free Online C# Merge NUMBERS to html., C# Combine NUMBERS to HTML Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge NUMBERS to HTML saveformat. C# Combine NUMBERS to HTML format. Merge NUMBERS to HTML in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to HTML in C#., C# Merge NUMBERS to html., C# Combine NUMBERS to HTML., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to HTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to HTML in C#" %}}
 
 The following example demonstrates how to merge NUMBERS to HTML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge NUMBERS to HTML. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to HTML in C#" InputFormat="numbers" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to HTML in C#" InputFormat="numbers" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to HTML via C#" %}}
 

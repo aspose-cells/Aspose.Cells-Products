@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TIFF - Combine PNG to TIFF in Python
 url: /python-java/merger/merge-png-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to TIFF saveformat. Python Combine PNG to TIFF format. Merge PNG to TIFF in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TIFF in Python., Free Online Python Merge PNG to tiff., Python Combine PNG to TIFF Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to TIFF saveformat. Python Combine PNG to TIFF format. Merge PNG to TIFF in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TIFF in Python., Python Merge PNG to tiff., Python Combine PNG to TIFF., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to TIFF? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to TIFF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to TIFF in Python" %}}
 
 The following example demonstrates how to merge PNG to TIFF in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to TIFF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to TIFF in Python" InputFormat="png" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge PNG to TIFF in Python" InputFormat="png" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to TIFF via Python" %}}
 

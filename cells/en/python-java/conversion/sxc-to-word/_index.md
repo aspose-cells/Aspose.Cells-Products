@@ -1,7 +1,7 @@
 ---
-title: Python SXC to WORD - Online SXC to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to WORD saveformat. Python SXC to WORD format. Save SXC to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to WORD saveformat., Free Online SXC to WORD Python., Python Convert SXC to WORD]
+title: Python SXC to WORD - SXC to WORD Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to WORD in Python. Python Convert SXC to WORD saveformat. Python SXC to WORD format. Save SXC to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to WORD in Python., Python SXC to WORD saveformat., SXC to WORD Python., Python Convert SXC to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to WORD? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to WORD in Python" %}}
 
 The following example demonstrates how to convert SXC to WORD in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to WORD. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to WORD via Python" %}}
 

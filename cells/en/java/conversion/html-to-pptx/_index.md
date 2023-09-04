@@ -1,7 +1,7 @@
 ---
-title: Java HTML to PPTX - Online HTML to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to PPTX saveformat. Java HTML to PPTX format. Save HTML to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to PPTX saveformat., Free Online HTML to PPTX Java., Java Convert HTML to PPTX]
+title: Java HTML to PPTX - HTML to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to PPTX in Java. Java Convert HTML to PPTX saveformat. Java HTML to PPTX format. Save HTML to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to PPTX in Java., Java HTML to PPTX saveformat., HTML to PPTX Java., Java Convert HTML to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to PPTX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to PPTX in Java" %}}
 
 The following example demonstrates how to convert HTML to PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to PPTX. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PPTX via Java" %}}
 

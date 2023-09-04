@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS to JPG - Online NUMBERS to JPG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert NUMBERS to JPG saveformat. Java NUMBERS to JPG format. Save NUMBERS to JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to JPG saveformat., Free Online NUMBERS to JPG Java., Java Convert NUMBERS to JPG]
+title: Java NUMBERS to JPG - NUMBERS to JPG Converter
+description: Aspose Excel. Java Aspose.Cells. NUMBERS to JPG in Java. Java Convert NUMBERS to JPG saveformat. Java NUMBERS to JPG format. Save NUMBERS to JPG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to JPG in Java., Java NUMBERS to JPG saveformat., NUMBERS to JPG Java., Java Convert NUMBERS to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert NUMBERS to JPG? With Aspose.Cells for Java library, you can eas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to JPG in Java" %}}
 
 The following example demonstrates how to convert NUMBERS to JPG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to JPG. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to JPG via Java" %}}
 

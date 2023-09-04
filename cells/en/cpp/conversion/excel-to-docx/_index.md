@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL to DOCX - Online EXCEL to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert EXCEL to DOCX saveformat. C++ EXCEL to DOCX format. Save EXCEL to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to DOCX saveformat., Free Online EXCEL to DOCX C++., C++ Convert EXCEL to DOCX]
+title: C++ EXCEL to DOCX - EXCEL to DOCX Converter
+description: Aspose Excel. C++ Aspose.Cells. EXCEL to DOCX in C++. C++ Convert EXCEL to DOCX saveformat. C++ EXCEL to DOCX format. Save EXCEL to DOCX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to DOCX in C++., C++ EXCEL to DOCX saveformat., EXCEL to DOCX C++., C++ Convert EXCEL to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to DOCX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to DOCX in C++" %}}
 
 The following example demonstrates how to convert EXCEL to DOCX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert EXCEL to DOCX. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to DOCX via C++" %}}
 

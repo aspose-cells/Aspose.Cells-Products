@@ -1,7 +1,7 @@
 ---
-title: Python XLT to PNG - Online XLT to PNG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to PNG saveformat. Python XLT to PNG format. Save XLT to PNG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to PNG saveformat., Free Online XLT to PNG Python., Python Convert XLT to PNG]
+title: Python XLT to PNG - XLT to PNG Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to PNG in Python. Python Convert XLT to PNG saveformat. Python XLT to PNG format. Save XLT to PNG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to PNG in Python., Python XLT to PNG saveformat., XLT to PNG Python., Python Convert XLT to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLT to PNG? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLT to PNG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to PNG in Python" %}}
 
 The following example demonstrates how to convert XLT to PNG in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLT to PNG. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to PNG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PNG" %}}
 

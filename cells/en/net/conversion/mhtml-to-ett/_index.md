@@ -1,7 +1,7 @@
 ---
-title: C# MHTML to ETT - Online MHTML to ETT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHTML to ETT saveformat. C# MHTML to ETT format. Save MHTML to ETT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHTML to ETT saveformat., Free Online MHTML to ETT C#., C# Convert MHTML to ETT]
+title: C# MHTML to ETT - MHTML to ETT Converter
+description: Aspose Excel. C# Aspose.Cells. MHTML to ETT in C#. C# Convert MHTML to ETT saveformat. C# MHTML to ETT format. Save MHTML to ETT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., MHTML to ETT in C#., C# MHTML to ETT saveformat., MHTML to ETT C#., C# Convert MHTML to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHTML to ETT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHTML to ETT in C#" %}}
 
 The following example demonstrates how to convert MHTML to ETT in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to ETT. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ett" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ett" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to ETT via C#" %}}
 

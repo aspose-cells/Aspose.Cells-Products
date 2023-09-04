@@ -1,7 +1,7 @@
 ---
-title: Java MHT to SQL - Online MHT to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to SQL saveformat. Java MHT to SQL format. Save MHT to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SQL saveformat., Free Online MHT to SQL Java., Java Convert MHT to SQL]
+title: Java MHT to SQL - MHT to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. MHT to SQL in Java. Java Convert MHT to SQL saveformat. Java MHT to SQL format. Save MHT to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., MHT to SQL in Java., Java MHT to SQL saveformat., MHT to SQL Java., Java Convert MHT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert MHT to SQL? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to SQL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to SQL in Java" %}}
 
 The following example demonstrates how to convert MHT to SQL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to SQL. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to SQL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python JPG to XML - Online JPG to XML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to XML saveformat. Python JPG to XML format. Save JPG to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XML saveformat., Free Online JPG to XML Python., Python Convert JPG to XML]
+title: Python JPG to XML - JPG to XML Converter
+description: Aspose Excel. Python Aspose.Cells. JPG to XML in Python. Python Convert JPG to XML saveformat. Python JPG to XML format. Save JPG to XML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to XML in Python., Python JPG to XML saveformat., JPG to XML Python., Python Convert JPG to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JPG to XML? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to XML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to XML in Python" %}}
 
 The following example demonstrates how to convert JPG to XML in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to XML. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XML via Python" %}}
 

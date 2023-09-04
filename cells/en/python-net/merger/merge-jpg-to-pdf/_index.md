@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PDF - Combine JPG to PDF in Python
 url: /python-net/merger/merge-jpg-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to PDF saveformat. Python Combine JPG to PDF format. Merge JPG to PDF in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PDF in Python., Free Online Python Merge JPG to pdf., Python Combine JPG to PDF Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to PDF saveformat. Python Combine JPG to PDF format. Merge JPG to PDF in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PDF in Python., Python Merge JPG to pdf., Python Combine JPG to PDF., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to PDF? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to PDF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to PDF in Python" %}}
 
 The following example demonstrates how to merge JPG to PDF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to PDF in Python" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPG to PDF in Python" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to PDF via Python" %}}
 

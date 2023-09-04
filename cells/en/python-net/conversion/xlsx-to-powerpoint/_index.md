@@ -1,7 +1,7 @@
 ---
-title: Python XLSX to POWERPOINT - Online XLSX to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to POWERPOINT saveformat. Python XLSX to POWERPOINT format. Save XLSX to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to POWERPOINT saveformat., Free Online XLSX to POWERPOINT Python., Python Convert XLSX to POWERPOINT]
+title: Python XLSX to POWERPOINT - XLSX to POWERPOINT Converter
+description: Aspose Excel. Python Aspose.Cells. XLSX to POWERPOINT in Python. Python Convert XLSX to POWERPOINT saveformat. Python XLSX to POWERPOINT format. Save XLSX to POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSX to POWERPOINT in Python., Python XLSX to POWERPOINT saveformat., XLSX to POWERPOINT Python., Python Convert XLSX to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSX to POWERPOINT? With Aspose.Cells for Python via NET librar
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to POWERPOINT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to POWERPOINT in Python" %}}
 
 The following example demonstrates how to convert XLSX to POWERPOINT in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSX to POWERPOINT. Upload your XLSX file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to POWERPOINT" %}}
 

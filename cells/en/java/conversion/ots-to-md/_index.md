@@ -1,7 +1,7 @@
 ---
-title: Java OTS to MD - Online OTS to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert OTS to MD saveformat. Java OTS to MD format. Save OTS to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to MD saveformat., Free Online OTS to MD Java., Java Convert OTS to MD]
+title: Java OTS to MD - OTS to MD Converter
+description: Aspose Excel. Java Aspose.Cells. OTS to MD in Java. Java Convert OTS to MD saveformat. Java OTS to MD format. Save OTS to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., OTS to MD in Java., Java OTS to MD saveformat., OTS to MD Java., Java Convert OTS to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert OTS to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to MD in Java" %}}
 
 The following example demonstrates how to convert OTS to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to MD. Upload your OTS file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to MD via Java" %}}
 

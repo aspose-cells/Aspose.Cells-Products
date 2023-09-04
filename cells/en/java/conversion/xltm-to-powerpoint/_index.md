@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to POWERPOINT - Online XLTM to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to POWERPOINT saveformat. Java XLTM to POWERPOINT format. Save XLTM to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to POWERPOINT saveformat., Free Online XLTM to POWERPOINT Java., Java Convert XLTM to POWERPOINT]
+title: Java XLTM to POWERPOINT - XLTM to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to POWERPOINT in Java. Java Convert XLTM to POWERPOINT saveformat. Java XLTM to POWERPOINT format. Save XLTM to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to POWERPOINT in Java., Java XLTM to POWERPOINT saveformat., XLTM to POWERPOINT Java., Java Convert XLTM to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to POWERPOINT? With Aspose.Cells for Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to POWERPOINT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to POWERPOINT in Java" %}}
 
 The following example demonstrates how to convert XLTM to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to POWERPOINT. Upload your XLTM file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to POWERPOINT via Java" %}}
 

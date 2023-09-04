@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLT - Combine XLS to XLT in C++
 url: /cpp/merger/merge-xls-to-xlt/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to XLT saveformat. C++ Combine XLS to XLT format. Merge XLS to XLT in C++. XLS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to XLT in C++., Free Online C++ Merge XLS to xlt., C++ Combine XLS to XLT Online for Free., XLS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLS to XLT saveformat. C++ Combine XLS to XLT format. Merge XLS to XLT in C++. XLS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to XLT in C++., C++ Merge XLS to xlt., C++ Combine XLS to XLT., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLS to XLT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLS to XLT in C++" %}}
 
 The following example demonstrates how to merge XLS to XLT in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLS to XLT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLS to XLT in C++" InputFormat="xls" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLS to XLT in C++" InputFormat="xls" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to XLT via C++" %}}
 

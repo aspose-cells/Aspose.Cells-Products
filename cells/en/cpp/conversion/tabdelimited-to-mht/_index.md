@@ -1,7 +1,7 @@
 ---
-title: C++ TABDELIMITED to MHT - Online TABDELIMITED to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TABDELIMITED to MHT saveformat. C++ TABDELIMITED to MHT format. Save TABDELIMITED to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED to MHT saveformat., Free Online TABDELIMITED to MHT C++., C++ Convert TABDELIMITED to MHT]
+title: C++ TABDELIMITED to MHT - TABDELIMITED to MHT Converter
+description: Aspose Excel. C++ Aspose.Cells. TABDELIMITED to MHT in C++. C++ Convert TABDELIMITED to MHT saveformat. C++ TABDELIMITED to MHT format. Save TABDELIMITED to MHT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., TABDELIMITED to MHT in C++., C++ TABDELIMITED to MHT saveformat., TABDELIMITED to MHT C++., C++ Convert TABDELIMITED to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TABDELIMITED to MHT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TABDELIMITED to MHT in C++" %}}
 
 The following example demonstrates how to convert TABDELIMITED to MHT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TABDELIMITED to MHT. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TABDELIMITED to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to MHT via C++" %}}
 

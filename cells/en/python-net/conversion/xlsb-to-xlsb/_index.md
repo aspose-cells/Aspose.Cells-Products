@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to XLSB - Online XLSB to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to XLSB saveformat. Python XLSB to XLSB format. Save XLSB to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLSB saveformat., Free Online XLSB to XLSB Python., Python Convert XLSB to XLSB]
+title: Python XLSB to XLSB - XLSB to XLSB Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to XLSB in Python. Python Convert XLSB to XLSB saveformat. Python XLSB to XLSB format. Save XLSB to XLSB Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to XLSB in Python., Python XLSB to XLSB saveformat., XLSB to XLSB Python., Python Convert XLSB to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSB to XLSB? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLSB in Python" %}}
 
 The following example demonstrates how to convert XLSB to XLSB in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSB to XLSB. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLSB" %}}
 

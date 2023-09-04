@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to TXT - Online XLSM to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to TXT saveformat. Java XLSM to TXT format. Save XLSM to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to TXT saveformat., Free Online XLSM to TXT Java., Java Convert XLSM to TXT]
+title: Java XLSM to TXT - XLSM to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to TXT in Java. Java Convert XLSM to TXT saveformat. Java XLSM to TXT format. Save XLSM to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to TXT in Java., Java XLSM to TXT saveformat., XLSM to TXT Java., Java Convert XLSM to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to TXT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to TXT in Java" %}}
 
 The following example demonstrates how to convert XLSM to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to TXT. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to TXT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to TXT via Java" %}}
 

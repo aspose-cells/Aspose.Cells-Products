@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to EXCEL - Combine XLSM to EXCEL in Java
 url: /java/merger/merge-xlsm-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to EXCEL saveformat. Java Combine XLSM to EXCEL format. Merge XLSM to EXCEL in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Free Online Java Merge XLSM to excel., Java Combine XLSM to EXCEL Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSM to EXCEL saveformat. Java Combine XLSM to EXCEL format. Merge XLSM to EXCEL in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Java Merge XLSM to excel., Java Combine XLSM to EXCEL., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSM to EXCEL? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to EXCEL in Java" %}}
 
 The following example demonstrates how to merge XLSM to EXCEL in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSM to EXCEL. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to EXCEL in Java" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to EXCEL in Java" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to EXCEL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python MHT to MHT - Online MHT to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to MHT saveformat. Python MHT to MHT format. Save MHT to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to MHT saveformat., Free Online MHT to MHT Python., Python Convert MHT to MHT]
+title: Python MHT to MHT - MHT to MHT Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to MHT in Python. Python Convert MHT to MHT saveformat. Python MHT to MHT format. Save MHT to MHT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to MHT in Python., Python MHT to MHT saveformat., MHT to MHT Python., Python Convert MHT to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHT to MHT? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHT to MHT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to MHT in Python" %}}
 
 The following example demonstrates how to convert MHT to MHT in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to MHT. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MHT" %}}
 

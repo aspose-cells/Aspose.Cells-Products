@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to MHTML - Online XLSB to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to MHTML saveformat. Python XLSB to MHTML format. Save XLSB to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to MHTML saveformat., Free Online XLSB to MHTML Python., Python Convert XLSB to MHTML]
+title: Python XLSB to MHTML - XLSB to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. XLSB to MHTML in Python. Python Convert XLSB to MHTML saveformat. Python XLSB to MHTML format. Save XLSB to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSB to MHTML in Python., Python XLSB to MHTML saveformat., XLSB to MHTML Python., Python Convert XLSB to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSB to MHTML? With Aspose.Cells for Python via NET library, yo
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to MHTML in Python" %}}
 
 The following example demonstrates how to convert XLSB to MHTML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSB to MHTML. Upload your XLSB file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to MHTML" %}}
 

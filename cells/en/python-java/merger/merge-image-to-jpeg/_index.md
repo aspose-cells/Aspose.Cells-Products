@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to JPEG - Combine IMAGE to JPEG in Python
 url: /python-java/merger/merge-image-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to JPEG saveformat. Python Combine IMAGE to JPEG format. Merge IMAGE to JPEG in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to JPEG in Python., Free Online Python Merge IMAGE to jpeg., Python Combine IMAGE to JPEG Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge IMAGE to JPEG saveformat. Python Combine IMAGE to JPEG format. Merge IMAGE to JPEG in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to JPEG in Python., Python Merge IMAGE to jpeg., Python Combine IMAGE to JPEG., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge IMAGE to JPEG? With Aspose.Cells for Python via Java library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to JPEG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to JPEG in Python" %}}
 
 The following example demonstrates how to merge IMAGE to JPEG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge IMAGE to JPEG. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to JPEG in Python" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to JPEG in Python" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to JPEG via Python" %}}
 

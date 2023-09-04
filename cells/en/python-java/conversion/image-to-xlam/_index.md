@@ -1,7 +1,7 @@
 ---
-title: Python IMAGE to XLAM - Online IMAGE to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert IMAGE to XLAM saveformat. Python IMAGE to XLAM format. Save IMAGE to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to XLAM saveformat., Free Online IMAGE to XLAM Python., Python Convert IMAGE to XLAM]
+title: Python IMAGE to XLAM - IMAGE to XLAM Converter
+description: Aspose Excel. Python Aspose.Cells. IMAGE to XLAM in Python. Python Convert IMAGE to XLAM saveformat. Python IMAGE to XLAM format. Save IMAGE to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to XLAM in Python., Python IMAGE to XLAM saveformat., IMAGE to XLAM Python., Python Convert IMAGE to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert IMAGE to XLAM? With Aspose.Cells for Python library, you can ea
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save IMAGE to XLAM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save IMAGE to XLAM in Python" %}}
 
 The following example demonstrates how to convert IMAGE to XLAM in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to XLAM. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert IMAGE to XLAM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLAM via Python" %}}
 

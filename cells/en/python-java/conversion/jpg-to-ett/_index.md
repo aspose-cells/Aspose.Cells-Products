@@ -1,7 +1,7 @@
 ---
-title: Python JPG to ETT - Online JPG to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to ETT saveformat. Python JPG to ETT format. Save JPG to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to ETT saveformat., Free Online JPG to ETT Python., Python Convert JPG to ETT]
+title: Python JPG to ETT - JPG to ETT Converter
+description: Aspose Excel. Python Aspose.Cells. JPG to ETT in Python. Python Convert JPG to ETT saveformat. Python JPG to ETT format. Save JPG to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to ETT in Python., Python JPG to ETT saveformat., JPG to ETT Python., Python Convert JPG to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JPG to ETT? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to ETT in Python" %}}
 
 The following example demonstrates how to convert JPG to ETT in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to ETT. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to ETT via Python" %}}
 

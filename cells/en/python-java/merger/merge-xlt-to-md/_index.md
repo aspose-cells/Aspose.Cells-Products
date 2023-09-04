@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MD - Combine XLT to MD in Python
 url: /python-java/merger/merge-xlt-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to MD saveformat. Python Combine XLT to MD format. Merge XLT to MD in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to MD in Python., Free Online Python Merge XLT to md., Python Combine XLT to MD Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLT to MD saveformat. Python Combine XLT to MD format. Merge XLT to MD in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to MD in Python., Python Merge XLT to md., Python Combine XLT to MD., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLT to MD? With Aspose.Cells for Python via Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to MD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to MD in Python" %}}
 
 The following example demonstrates how to merge XLT to MD in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLT to MD. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to MD in Python" InputFormat="xlt" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XLT to MD in Python" InputFormat="xlt" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to MD via Python" %}}
 

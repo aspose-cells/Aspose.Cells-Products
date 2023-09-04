@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to DOCX - Combine TSV to DOCX in Python
 url: /python-java/merger/merge-tsv-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to DOCX saveformat. Python Combine TSV to DOCX format. Merge TSV to DOCX in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DOCX in Python., Free Online Python Merge TSV to docx., Python Combine TSV to DOCX Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TSV to DOCX saveformat. Python Combine TSV to DOCX format. Merge TSV to DOCX in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DOCX in Python., Python Merge TSV to docx., Python Combine TSV to DOCX., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TSV to DOCX? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to DOCX in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to DOCX in Python" %}}
 
 The following example demonstrates how to merge TSV to DOCX in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TSV to DOCX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to DOCX in Python" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TSV to DOCX in Python" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to DOCX via Python" %}}
 

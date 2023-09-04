@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLSB - Combine HTM to XLSB in Python
 url: /python-java/merger/merge-htm-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XLSB saveformat. Python Combine HTM to XLSB format. Merge HTM to XLSB in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSB in Python., Free Online Python Merge HTM to xlsb., Python Combine HTM to XLSB Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge HTM to XLSB saveformat. Python Combine HTM to XLSB format. Merge HTM to XLSB in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSB in Python., Python Merge HTM to xlsb., Python Combine HTM to XLSB., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge HTM to XLSB? With Aspose.Cells for Python via Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to XLSB in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to XLSB in Python" %}}
 
 The following example demonstrates how to merge HTM to XLSB in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge HTM to XLSB. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to XLSB in Python" InputFormat="htm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge HTM to XLSB in Python" InputFormat="htm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to XLSB via Python" %}}
 

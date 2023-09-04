@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to TABDELIMITED - Combine SPREADSHEETML to TABDELIMITED in Python
 url: /python-java/merger/merge-spreadsheetml-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to TABDELIMITED saveformat. Python Combine SPREADSHEETML to TABDELIMITED format. Merge SPREADSHEETML to TABDELIMITED in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to TABDELIMITED in Python., Free Online Python Merge SPREADSHEETML to tabdelimited., Python Combine SPREADSHEETML to TABDELIMITED Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to TABDELIMITED saveformat. Python Combine SPREADSHEETML to TABDELIMITED format. Merge SPREADSHEETML to TABDELIMITED in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to TABDELIMITED in Python., Python Merge SPREADSHEETML to tabdelimited., Python Combine SPREADSHEETML to TABDELIMITED., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to TABDELIMITED? With Aspose.Cells for Python via J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TABDELIMITED in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to TABDELIMITED in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to TABDELIMITED in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to TABDELIMITED. Upload your files,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to TABDELIMITED in Python" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to TABDELIMITED in Python" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to TABDELIMITED via Python" %}}
 

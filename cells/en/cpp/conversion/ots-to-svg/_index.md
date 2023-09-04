@@ -1,7 +1,7 @@
 ---
-title: C++ OTS to SVG - Online OTS to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert OTS to SVG saveformat. C++ OTS to SVG format. Save OTS to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to SVG saveformat., Free Online OTS to SVG C++., C++ Convert OTS to SVG]
+title: C++ OTS to SVG - OTS to SVG Converter
+description: Aspose Excel. C++ Aspose.Cells. OTS to SVG in C++. C++ Convert OTS to SVG saveformat. C++ OTS to SVG format. Save OTS to SVG C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., OTS to SVG in C++., C++ OTS to SVG saveformat., OTS to SVG C++., C++ Convert OTS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to SVG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to SVG in C++" %}}
 
 The following example demonstrates how to convert OTS to SVG in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert OTS to SVG. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="svg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert OTS to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="svg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to SVG via C++" %}}
 

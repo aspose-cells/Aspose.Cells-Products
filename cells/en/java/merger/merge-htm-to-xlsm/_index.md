@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLSM - Combine HTM to XLSM in Java
 url: /java/merger/merge-htm-to-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to XLSM saveformat. Java Combine HTM to XLSM format. Merge HTM to XLSM in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to XLSM in Java., Free Online Java Merge HTM to xlsm., Java Combine HTM to XLSM Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge HTM to XLSM saveformat. Java Combine HTM to XLSM format. Merge HTM to XLSM in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to XLSM in Java., Java Merge HTM to xlsm., Java Combine HTM to XLSM., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge HTM to XLSM? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTM to XLSM in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTM to XLSM in Java" %}}
 
 The following example demonstrates how to merge HTM to XLSM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge HTM to XLSM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTM to XLSM in Java" InputFormat="htm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge HTM to XLSM in Java" InputFormat="htm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to XLSM via Java" %}}
 

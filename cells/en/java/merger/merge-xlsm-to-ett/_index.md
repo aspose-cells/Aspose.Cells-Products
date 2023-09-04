@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to ETT - Combine XLSM to ETT in Java
 url: /java/merger/merge-xlsm-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to ETT saveformat. Java Combine XLSM to ETT format. Merge XLSM to ETT in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to ETT in Java., Free Online Java Merge XLSM to ett., Java Combine XLSM to ETT Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSM to ETT saveformat. Java Combine XLSM to ETT format. Merge XLSM to ETT in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to ETT in Java., Java Merge XLSM to ett., Java Combine XLSM to ETT., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSM to ETT? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to ETT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to ETT in Java" %}}
 
 The following example demonstrates how to merge XLSM to ETT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSM to ETT. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to ETT in Java" InputFormat="xlsm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to ETT in Java" InputFormat="xlsm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to ETT via Java" %}}
 

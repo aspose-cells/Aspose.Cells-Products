@@ -1,7 +1,7 @@
 ---
-title: Python XLSX to WORD - Online XLSX to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to WORD saveformat. Python XLSX to WORD format. Save XLSX to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to WORD saveformat., Free Online XLSX to WORD Python., Python Convert XLSX to WORD]
+title: Python XLSX to WORD - XLSX to WORD Converter
+description: Aspose Excel. Python Aspose.Cells. XLSX to WORD in Python. Python Convert XLSX to WORD saveformat. Python XLSX to WORD format. Save XLSX to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLSX to WORD in Python., Python XLSX to WORD saveformat., XLSX to WORD Python., Python Convert XLSX to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLSX to WORD? With Aspose.Cells for Python via NET library, you
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to WORD in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to WORD in Python" %}}
 
 The following example demonstrates how to convert XLSX to WORD in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSX to WORD. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to WORD" %}}
 

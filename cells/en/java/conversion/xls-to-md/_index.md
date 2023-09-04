@@ -1,7 +1,7 @@
 ---
-title: Java XLS to MD - Online XLS to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to MD saveformat. Java XLS to MD format. Save XLS to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MD saveformat., Free Online XLS to MD Java., Java Convert XLS to MD]
+title: Java XLS to MD - XLS to MD Converter
+description: Aspose Excel. Java Aspose.Cells. XLS to MD in Java. Java Convert XLS to MD saveformat. Java XLS to MD format. Save XLS to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLS to MD in Java., Java XLS to MD saveformat., XLS to MD Java., Java Convert XLS to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLS to MD? With Aspose.Cells for Java library, you can easily c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLS to MD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLS to MD in Java" %}}
 
 The following example demonstrates how to convert XLS to MD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLS to MD. Upload your XLS file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLS to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to MD via Java" %}}
 

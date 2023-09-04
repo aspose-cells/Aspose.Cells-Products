@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XPS - Combine TSV to XPS in Java
 url: /java/merger/merge-tsv-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to XPS saveformat. Java Combine TSV to XPS format. Merge TSV to XPS in Java. TSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to XPS in Java., Free Online Java Merge TSV to xps., Java Combine TSV to XPS Online for Free., TSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge TSV to XPS saveformat. Java Combine TSV to XPS format. Merge TSV to XPS in Java. TSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to XPS in Java., Java Merge TSV to xps., Java Combine TSV to XPS., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge TSV to XPS? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to XPS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to XPS in Java" %}}
 
 The following example demonstrates how to merge TSV to XPS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge TSV to XPS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to XPS in Java" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge TSV to XPS in Java" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XPS via Java" %}}
 

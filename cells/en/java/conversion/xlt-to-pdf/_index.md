@@ -1,7 +1,7 @@
 ---
-title: Java XLT to PDF - Online XLT to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to PDF saveformat. Java XLT to PDF format. Save XLT to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to PDF saveformat., Free Online XLT to PDF Java., Java Convert XLT to PDF]
+title: Java XLT to PDF - XLT to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. XLT to PDF in Java. Java Convert XLT to PDF saveformat. Java XLT to PDF format. Save XLT to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLT to PDF in Java., Java XLT to PDF saveformat., XLT to PDF Java., Java Convert XLT to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLT to PDF? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLT to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to PDF in Java" %}}
 
 The following example demonstrates how to convert XLT to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to PDF. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PDF via Java" %}}
 

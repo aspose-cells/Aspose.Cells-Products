@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SPREADSHEETML - Combine SXC to SPREADSHEETML in Python
 url: /python-net/merger/merge-sxc-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to SPREADSHEETML saveformat. Python Combine SXC to SPREADSHEETML format. Merge SXC to SPREADSHEETML in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SPREADSHEETML in Python., Free Online Python Merge SXC to spreadsheetml., Python Combine SXC to SPREADSHEETML Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SXC to SPREADSHEETML saveformat. Python Combine SXC to SPREADSHEETML format. Merge SXC to SPREADSHEETML in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SPREADSHEETML in Python., Python Merge SXC to spreadsheetml., Python Combine SXC to SPREADSHEETML., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SXC to SPREADSHEETML? With Aspose.Cells for Python via .NET libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to merge SXC to SPREADSHEETML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SXC to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to SPREADSHEETML in Python" InputFormat="sxc" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge SXC to SPREADSHEETML in Python" InputFormat="sxc" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to SPREADSHEETML via Python" %}}
 

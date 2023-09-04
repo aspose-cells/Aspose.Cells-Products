@@ -1,7 +1,7 @@
 ---
-title: Java ODS to XLSB - Online ODS to XLSB Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to XLSB saveformat. Java ODS to XLSB format. Save ODS to XLSB Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to XLSB saveformat., Free Online ODS to XLSB Java., Java Convert ODS to XLSB]
+title: Java ODS to XLSB - ODS to XLSB Converter
+description: Aspose Excel. Java Aspose.Cells. ODS to XLSB in Java. Java Convert ODS to XLSB saveformat. Java ODS to XLSB format. Save ODS to XLSB Java.
+keywords: [Aspose Excel., Java Aspose.Cells., ODS to XLSB in Java., Java ODS to XLSB saveformat., ODS to XLSB Java., Java Convert ODS to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert ODS to XLSB? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save ODS to XLSB in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save ODS to XLSB in Java" %}}
 
 The following example demonstrates how to convert ODS to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to XLSB. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLSB via Java" %}}
 

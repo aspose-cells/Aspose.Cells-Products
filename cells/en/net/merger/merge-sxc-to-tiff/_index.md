@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TIFF - Combine SXC to TIFF in C#
 url: /net/merger/merge-sxc-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to TIFF saveformat. C# Combine SXC to TIFF format. Merge SXC to TIFF in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to TIFF in C#., Free Online C# Merge SXC to tiff., C# Combine SXC to TIFF Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SXC to TIFF saveformat. C# Combine SXC to TIFF format. Merge SXC to TIFF in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to TIFF in C#., C# Merge SXC to tiff., C# Combine SXC to TIFF., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to TIFF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to TIFF in C#" %}}
 
 The following example demonstrates how to merge SXC to TIFF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SXC to TIFF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to TIFF in C#" InputFormat="sxc" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SXC to TIFF in C#" InputFormat="sxc" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to TIFF via C#" %}}
 

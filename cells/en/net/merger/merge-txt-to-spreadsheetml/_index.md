@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SPREADSHEETML - Combine TXT to SPREADSHEETML in C#
 url: /net/merger/merge-txt-to-spreadsheetml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to SPREADSHEETML saveformat. C# Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., Free Online C# Merge TXT to spreadsheetml., C# Combine TXT to SPREADSHEETML Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TXT to SPREADSHEETML saveformat. C# Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., C# Merge TXT to spreadsheetml., C# Combine TXT to SPREADSHEETML., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TXT to SPREADSHEETML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TXT to SPREADSHEETML in C#" %}}
 
 The following example demonstrates how to merge TXT to SPREADSHEETML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TXT to SPREADSHEETML. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TXT to SPREADSHEETML in C#" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TXT to SPREADSHEETML in C#" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TXT to SPREADSHEETML via C#" %}}
 

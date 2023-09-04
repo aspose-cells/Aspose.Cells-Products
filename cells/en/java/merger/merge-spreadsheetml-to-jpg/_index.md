@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to JPG - Combine SPREADSHEETML to JPG in Java
 url: /java/merger/merge-spreadsheetml-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to JPG saveformat. Java Combine SPREADSHEETML to JPG format. Merge SPREADSHEETML to JPG in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to JPG in Java., Free Online Java Merge SPREADSHEETML to jpg., Java Combine SPREADSHEETML to JPG Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge SPREADSHEETML to JPG saveformat. Java Combine SPREADSHEETML to JPG format. Merge SPREADSHEETML to JPG in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to JPG in Java., Java Merge SPREADSHEETML to jpg., Java Combine SPREADSHEETML to JPG., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge SPREADSHEETML to JPG? With Aspose.Cells for Java library, you can
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to JPG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to JPG in Java" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to JPG in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge SPREADSHEETML to JPG. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to JPG in Java" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to JPG in Java" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to JPG via Java" %}}
 

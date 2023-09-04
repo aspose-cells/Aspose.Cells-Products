@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to PNG - Combine CSV to PNG in C++
 url: /cpp/merger/merge-csv-to-png/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to PNG saveformat. C++ Combine CSV to PNG format. Merge CSV to PNG in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to PNG in C++., Free Online C++ Merge CSV to png., C++ Combine CSV to PNG Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge CSV to PNG saveformat. C++ Combine CSV to PNG format. Merge CSV to PNG in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to PNG in C++., C++ Merge CSV to png., C++ Combine CSV to PNG., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to PNG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to PNG in C++" %}}
 
 The following example demonstrates how to merge CSV to PNG in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge CSV to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to PNG in C++" InputFormat="csv" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge CSV to PNG in C++" InputFormat="csv" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to PNG via C++" %}}
 

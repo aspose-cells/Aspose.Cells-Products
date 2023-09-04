@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EMF - Combine PNG to EMF in Python
 url: /python-net/merger/merge-png-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to EMF saveformat. Python Combine PNG to EMF format. Merge PNG to EMF in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EMF in Python., Free Online Python Merge PNG to emf., Python Combine PNG to EMF Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to EMF saveformat. Python Combine PNG to EMF format. Merge PNG to EMF in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EMF in Python., Python Merge PNG to emf., Python Combine PNG to EMF., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to EMF? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to EMF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to EMF in Python" %}}
 
 The following example demonstrates how to merge PNG to EMF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to EMF in Python" InputFormat="png" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge PNG to EMF in Python" InputFormat="png" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to EMF via Python" %}}
 

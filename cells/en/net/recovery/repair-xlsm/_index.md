@@ -1,8 +1,8 @@
 ---
-title: C# Repair xlsm File - Repair xlsm File Online for Free
+title: C# Repair xlsm File - Recover xlsm File
 url: /net/recovery/repair-xlsm/ 
-description: Aspose Excel. C# Aspose.Cells. C# Repair xlsm file. Free Online xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within .NET application.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm file., Free Online Repair a corrupted xlsm file., C# Recover xlsm file.]
+description: Aspose Excel. C# Aspose.Cells. C# Repair xlsm file. xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within .NET application.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm file., Repair a corrupted xlsm file., C# Recover xlsm file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -42,7 +42,7 @@ Need to repair xlsm file programmatically? .NET developers can easily load & rep
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSM file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Sample Code to repair XLSM file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET library to repair XLSM file" %}}
 

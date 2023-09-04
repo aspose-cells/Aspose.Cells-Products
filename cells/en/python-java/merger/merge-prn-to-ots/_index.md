@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to OTS - Combine PRN to OTS in Python
 url: /python-java/merger/merge-prn-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to OTS saveformat. Python Combine PRN to OTS format. Merge PRN to OTS in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to OTS in Python., Free Online Python Merge PRN to ots., Python Combine PRN to OTS Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PRN to OTS saveformat. Python Combine PRN to OTS format. Merge PRN to OTS in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to OTS in Python., Python Merge PRN to ots., Python Combine PRN to OTS., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PRN to OTS? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to OTS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to OTS in Python" %}}
 
 The following example demonstrates how to merge PRN to OTS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PRN to OTS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to OTS in Python" InputFormat="prn" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge PRN to OTS in Python" InputFormat="prn" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to OTS via Python" %}}
 

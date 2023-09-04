@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLT - Combine SXC to XLT in Python
 url: /python-java/merger/merge-sxc-to-xlt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to XLT saveformat. Python Combine SXC to XLT format. Merge SXC to XLT in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XLT in Python., Free Online Python Merge SXC to xlt., Python Combine SXC to XLT Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SXC to XLT saveformat. Python Combine SXC to XLT format. Merge SXC to XLT in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XLT in Python., Python Merge SXC to xlt., Python Combine SXC to XLT., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SXC to XLT? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to XLT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to XLT in Python" %}}
 
 The following example demonstrates how to merge SXC to XLT in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SXC to XLT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to XLT in Python" InputFormat="sxc" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SXC to XLT in Python" InputFormat="sxc" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to XLT via Python" %}}
 

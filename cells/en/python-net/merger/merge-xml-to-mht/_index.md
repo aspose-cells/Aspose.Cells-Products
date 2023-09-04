@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MHT - Combine XML to MHT in Python
 url: /python-net/merger/merge-xml-to-mht/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to MHT saveformat. Python Combine XML to MHT format. Merge XML to MHT in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MHT in Python., Free Online Python Merge XML to mht., Python Combine XML to MHT Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to MHT saveformat. Python Combine XML to MHT format. Merge XML to MHT in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MHT in Python., Python Merge XML to mht., Python Combine XML to MHT., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to MHT? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to MHT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to MHT in Python" %}}
 
 The following example demonstrates how to merge XML to MHT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to MHT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to MHT in Python" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XML to MHT in Python" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to MHT via Python" %}}
 

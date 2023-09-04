@@ -1,7 +1,7 @@
 ---
-title: Java HTM to WORD - Online HTM to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to WORD saveformat. Java HTM to WORD format. Save HTM to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to WORD saveformat., Free Online HTM to WORD Java., Java Convert HTM to WORD]
+title: Java HTM to WORD - HTM to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to WORD in Java. Java Convert HTM to WORD saveformat. Java HTM to WORD format. Save HTM to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to WORD in Java., Java HTM to WORD saveformat., HTM to WORD Java., Java Convert HTM to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to WORD? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to WORD in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to WORD in Java" %}}
 
 The following example demonstrates how to convert HTM to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to WORD. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to WORD via Java" %}}
 

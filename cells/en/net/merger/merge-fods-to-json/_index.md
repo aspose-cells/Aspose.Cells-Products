@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JSON - Combine FODS to JSON in C#
 url: /net/merger/merge-fods-to-json/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to JSON saveformat. C# Combine FODS to JSON format. Merge FODS to JSON in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to JSON in C#., Free Online C# Merge FODS to json., C# Combine FODS to JSON Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge FODS to JSON saveformat. C# Combine FODS to JSON format. Merge FODS to JSON in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to JSON in C#., C# Merge FODS to json., C# Combine FODS to JSON., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to JSON in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to JSON in C#" %}}
 
 The following example demonstrates how to merge FODS to JSON in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge FODS to JSON. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to JSON in C#" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge FODS to JSON in C#" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to JSON via C#" %}}
 

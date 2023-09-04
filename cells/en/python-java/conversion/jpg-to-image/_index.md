@@ -1,7 +1,7 @@
 ---
-title: Python JPG to IMAGE - Online JPG to IMAGE Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to IMAGE saveformat. Python JPG to IMAGE format. Save JPG to IMAGE Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to IMAGE saveformat., Free Online JPG to IMAGE Python., Python Convert JPG to IMAGE]
+title: Python JPG to IMAGE - JPG to IMAGE Converter
+description: Aspose Excel. Python Aspose.Cells. JPG to IMAGE in Python. Python Convert JPG to IMAGE saveformat. Python JPG to IMAGE format. Save JPG to IMAGE Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to IMAGE in Python., Python JPG to IMAGE saveformat., JPG to IMAGE Python., Python Convert JPG to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JPG to IMAGE? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to IMAGE in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to IMAGE in Python" %}}
 
 The following example demonstrates how to convert JPG to IMAGE in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to IMAGE. Upload your JPG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to IMAGE via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTM - Combine FODS to HTM in Python
 url: /python-net/merger/merge-fods-to-htm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to HTM saveformat. Python Combine FODS to HTM format. Merge FODS to HTM in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to HTM in Python., Free Online Python Merge FODS to htm., Python Combine FODS to HTM Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge FODS to HTM saveformat. Python Combine FODS to HTM format. Merge FODS to HTM in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to HTM in Python., Python Merge FODS to htm., Python Combine FODS to HTM., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge FODS to HTM? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to HTM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to HTM in Python" %}}
 
 The following example demonstrates how to merge FODS to HTM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge FODS to HTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to HTM in Python" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge FODS to HTM in Python" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to HTM via Python" %}}
 

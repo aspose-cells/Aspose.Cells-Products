@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTX - Combine XLT to XLTX in C#
 url: /net/merger/merge-xlt-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to XLTX saveformat. C# Combine XLT to XLTX format. Merge XLT to XLTX in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to XLTX in C#., Free Online C# Merge XLT to xltx., C# Combine XLT to XLTX Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XLT to XLTX saveformat. C# Combine XLT to XLTX format. Merge XLT to XLTX in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to XLTX in C#., C# Merge XLT to xltx., C# Combine XLT to XLTX., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to XLTX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to XLTX in C#" %}}
 
 The following example demonstrates how to merge XLT to XLTX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLT to XLTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to XLTX in C#" InputFormat="xlt" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XLT to XLTX in C#" InputFormat="xlt" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to XLTX via C#" %}}
 

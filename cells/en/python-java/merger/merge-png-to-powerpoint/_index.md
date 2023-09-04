@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to POWERPOINT - Combine PNG to POWERPOINT in Python
 url: /python-java/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to POWERPOINT saveformat. Python Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to POWERPOINT in Python., Free Online Python Merge PNG to powerpoint., Python Combine PNG to POWERPOINT Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge PNG to POWERPOINT saveformat. Python Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to POWERPOINT in Python., Python Merge PNG to powerpoint., Python Combine PNG to POWERPOINT., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge PNG to POWERPOINT? With Aspose.Cells for Python via Java library,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PNG to POWERPOINT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PNG to POWERPOINT in Python" %}}
 
 The following example demonstrates how to merge PNG to POWERPOINT in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge PNG to POWERPOINT. Upload your files, call Workbo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PNG to POWERPOINT in Python" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge PNG to POWERPOINT in Python" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PNG to POWERPOINT via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java HTM to MARKDOWN - Online HTM to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to MARKDOWN saveformat. Java HTM to MARKDOWN format. Save HTM to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to MARKDOWN saveformat., Free Online HTM to MARKDOWN Java., Java Convert HTM to MARKDOWN]
+title: Java HTM to MARKDOWN - HTM to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. HTM to MARKDOWN in Java. Java Convert HTM to MARKDOWN saveformat. Java HTM to MARKDOWN format. Save HTM to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTM to MARKDOWN in Java., Java HTM to MARKDOWN saveformat., HTM to MARKDOWN Java., Java Convert HTM to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTM to MARKDOWN? With Aspose.Cells for Java library, you can ea
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert HTM to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to MARKDOWN. Upload your HTM file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to MARKDOWN via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to HTML - Combine IMAGE to HTML in Python
 url: /python-net/merger/merge-image-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to HTML saveformat. Python Combine IMAGE to HTML format. Merge IMAGE to HTML in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to HTML in Python., Free Online Python Merge IMAGE to html., Python Combine IMAGE to HTML Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge IMAGE to HTML saveformat. Python Combine IMAGE to HTML format. Merge IMAGE to HTML in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to HTML in Python., Python Merge IMAGE to html., Python Combine IMAGE to HTML., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge IMAGE to HTML? With Aspose.Cells for Python via .NET library, you
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge IMAGE to HTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge IMAGE to HTML in Python" %}}
 
 The following example demonstrates how to merge IMAGE to HTML in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge IMAGE to HTML. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge IMAGE to HTML in Python" InputFormat="png" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge IMAGE to HTML in Python" InputFormat="png" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge IMAGE to HTML via Python" %}}
 

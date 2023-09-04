@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLTX - Combine SPREADSHEETML to XLTX in C#
 url: /net/merger/merge-spreadsheetml-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to XLTX saveformat. C# Combine SPREADSHEETML to XLTX format. Merge SPREADSHEETML to XLTX in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLTX in C#., Free Online C# Merge SPREADSHEETML to xltx., C# Combine SPREADSHEETML to XLTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge SPREADSHEETML to XLTX saveformat. C# Combine SPREADSHEETML to XLTX format. Merge SPREADSHEETML to XLTX in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLTX in C#., C# Merge SPREADSHEETML to xltx., C# Combine SPREADSHEETML to XLTX., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLTX in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to XLTX in C#" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to XLTX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge SPREADSHEETML to XLTX. Upload your files, call Wo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to XLTX in C#" InputFormat="xml" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to XLTX in C#" InputFormat="xml" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to XLTX via C#" %}}
 

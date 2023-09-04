@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MHTML - Combine OTS to MHTML in C#
 url: /net/merger/merge-ots-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to MHTML saveformat. C# Combine OTS to MHTML format. Merge OTS to MHTML in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MHTML in C#., Free Online C# Merge OTS to mhtml., C# Combine OTS to MHTML Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge OTS to MHTML saveformat. C# Combine OTS to MHTML format. Merge OTS to MHTML in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MHTML in C#., C# Merge OTS to mhtml., C# Combine OTS to MHTML., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to MHTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to MHTML in C#" %}}
 
 The following example demonstrates how to merge OTS to MHTML in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to MHTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to MHTML in C#" InputFormat="ots" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge OTS to MHTML in C#" InputFormat="ots" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to MHTML via C#" %}}
 

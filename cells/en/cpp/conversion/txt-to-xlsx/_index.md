@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to XLSX - Online TXT to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to XLSX saveformat. C++ TXT to XLSX format. Save TXT to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to XLSX saveformat., Free Online TXT to XLSX C++., C++ Convert TXT to XLSX]
+title: C++ TXT to XLSX - TXT to XLSX Converter
+description: Aspose Excel. C++ Aspose.Cells. TXT to XLSX in C++. C++ Convert TXT to XLSX saveformat. C++ TXT to XLSX format. Save TXT to XLSX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., TXT to XLSX in C++., C++ TXT to XLSX saveformat., TXT to XLSX C++., C++ Convert TXT to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to XLSX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to XLSX in C++" %}}
 
 The following example demonstrates how to convert TXT to XLSX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TXT to XLSX. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XLSX via C++" %}}
 

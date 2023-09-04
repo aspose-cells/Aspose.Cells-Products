@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to XLSX - Online XLSB to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to XLSX saveformat. C++ XLSB to XLSX format. Save XLSB to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLSX saveformat., Free Online XLSB to XLSX C++., C++ Convert XLSB to XLSX]
+title: C++ XLSB to XLSX - XLSB to XLSX Converter
+description: Aspose Excel. C++ Aspose.Cells. XLSB to XLSX in C++. C++ Convert XLSB to XLSX saveformat. C++ XLSB to XLSX format. Save XLSB to XLSX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to XLSX in C++., C++ XLSB to XLSX saveformat., XLSB to XLSX C++., C++ Convert XLSB to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to XLSX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLSX in C++" %}}
 
 The following example demonstrates how to convert XLSB to XLSX in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSB to XLSX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLSX via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to FODS - Online XLSB to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to FODS saveformat. Java XLSB to FODS format. Save XLSB to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to FODS saveformat., Free Online XLSB to FODS Java., Java Convert XLSB to FODS]
+title: Java XLSB to FODS - XLSB to FODS Converter
+description: Aspose Excel. Java Aspose.Cells. XLSB to FODS in Java. Java Convert XLSB to FODS saveformat. Java XLSB to FODS format. Save XLSB to FODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSB to FODS in Java., Java XLSB to FODS saveformat., XLSB to FODS Java., Java Convert XLSB to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSB to FODS? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSB to FODS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to FODS in Java" %}}
 
 The following example demonstrates how to convert XLSB to FODS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to FODS. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to FODS via Java" %}}
 

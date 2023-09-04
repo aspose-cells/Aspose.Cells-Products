@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ODS - Combine NUMBERS to ODS in Python
 url: /python-net/merger/merge-numbers-to-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to ODS saveformat. Python Combine NUMBERS to ODS format. Merge NUMBERS to ODS in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to ODS in Python., Free Online Python Merge NUMBERS to ods., Python Combine NUMBERS to ODS Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge NUMBERS to ODS saveformat. Python Combine NUMBERS to ODS format. Merge NUMBERS to ODS in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to ODS in Python., Python Merge NUMBERS to ods., Python Combine NUMBERS to ODS., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge NUMBERS to ODS? With Aspose.Cells for Python via .NET library, yo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to ODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to ODS in Python" %}}
 
 The following example demonstrates how to merge NUMBERS to ODS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge NUMBERS to ODS. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to ODS in Python" InputFormat="numbers" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to ODS in Python" InputFormat="numbers" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to ODS via Python" %}}
 

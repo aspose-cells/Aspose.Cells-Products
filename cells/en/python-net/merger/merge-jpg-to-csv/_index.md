@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to CSV - Combine JPG to CSV in Python
 url: /python-net/merger/merge-jpg-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to CSV saveformat. Python Combine JPG to CSV format. Merge JPG to CSV in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to CSV in Python., Free Online Python Merge JPG to csv., Python Combine JPG to CSV Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge JPG to CSV saveformat. Python Combine JPG to CSV format. Merge JPG to CSV in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to CSV in Python., Python Merge JPG to csv., Python Combine JPG to CSV., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge JPG to CSV? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge JPG to CSV in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge JPG to CSV in Python" %}}
 
 The following example demonstrates how to merge JPG to CSV in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge JPG to CSV. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge JPG to CSV in Python" InputFormat="jpg" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge JPG to CSV in Python" InputFormat="jpg" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JPG to CSV via Python" %}}
 

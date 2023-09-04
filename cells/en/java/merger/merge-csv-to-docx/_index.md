@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DOCX - Combine CSV to DOCX in Java
 url: /java/merger/merge-csv-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to DOCX saveformat. Java Combine CSV to DOCX format. Merge CSV to DOCX in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to DOCX in Java., Free Online Java Merge CSV to docx., Java Combine CSV to DOCX Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge CSV to DOCX saveformat. Java Combine CSV to DOCX format. Merge CSV to DOCX in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to DOCX in Java., Java Merge CSV to docx., Java Combine CSV to DOCX., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge CSV to DOCX? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to DOCX in Java" %}}
 
 The following example demonstrates how to merge CSV to DOCX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge CSV to DOCX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to DOCX in Java" InputFormat="csv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge CSV to DOCX in Java" InputFormat="csv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to DOCX via Java" %}}
 

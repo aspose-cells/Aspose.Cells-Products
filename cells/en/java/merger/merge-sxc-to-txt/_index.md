@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TXT - Combine SXC to TXT in Java
 url: /java/merger/merge-sxc-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to TXT saveformat. Java Combine SXC to TXT format. Merge SXC to TXT in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to TXT in Java., Free Online Java Merge SXC to txt., Java Combine SXC to TXT Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge SXC to TXT saveformat. Java Combine SXC to TXT format. Merge SXC to TXT in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to TXT in Java., Java Merge SXC to txt., Java Combine SXC to TXT., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge SXC to TXT? With Aspose.Cells for Java library, you can easily me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SXC to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SXC to TXT in Java" %}}
 
 The following example demonstrates how to merge SXC to TXT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge SXC to TXT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SXC to TXT in Java" InputFormat="sxc" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge SXC to TXT in Java" InputFormat="sxc" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SXC to TXT via Java" %}}
 

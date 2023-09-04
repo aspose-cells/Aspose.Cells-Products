@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to MHTML - Online NUMBERS to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert NUMBERS to MHTML saveformat. Python NUMBERS to MHTML format. Save NUMBERS to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to MHTML saveformat., Free Online NUMBERS to MHTML Python., Python Convert NUMBERS to MHTML]
+title: Python NUMBERS to MHTML - NUMBERS to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. NUMBERS to MHTML in Python. Python Convert NUMBERS to MHTML saveformat. Python NUMBERS to MHTML format. Save NUMBERS to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to MHTML in Python., Python NUMBERS to MHTML saveformat., NUMBERS to MHTML Python., Python Convert NUMBERS to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert NUMBERS to MHTML? With Aspose.Cells for Python via NET library,
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save NUMBERS to MHTML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save NUMBERS to MHTML in Python" %}}
 
 The following example demonstrates how to convert NUMBERS to MHTML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert NUMBERS to MHTML. Upload your NUMBERS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to MHTML" %}}
 

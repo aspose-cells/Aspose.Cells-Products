@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PPTX - Combine OTS to PPTX in C++
 url: /cpp/merger/merge-ots-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to PPTX saveformat. C++ Combine OTS to PPTX format. Merge OTS to PPTX in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PPTX in C++., Free Online C++ Merge OTS to pptx., C++ Combine OTS to PPTX Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge OTS to PPTX saveformat. C++ Combine OTS to PPTX format. Merge OTS to PPTX in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PPTX in C++., C++ Merge OTS to pptx., C++ Combine OTS to PPTX., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to PPTX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to PPTX in C++" %}}
 
 The following example demonstrates how to merge OTS to PPTX in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge OTS to PPTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to PPTX in C++" InputFormat="ots" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge OTS to PPTX in C++" InputFormat="ots" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to PPTX via C++" %}}
 

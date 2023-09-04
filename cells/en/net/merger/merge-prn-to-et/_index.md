@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to ET - Combine PRN to ET in C#
 url: /net/merger/merge-prn-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to ET saveformat. C# Combine PRN to ET format. Merge PRN to ET in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to ET in C#., Free Online C# Merge PRN to et., C# Combine PRN to ET Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge PRN to ET saveformat. C# Combine PRN to ET format. Merge PRN to ET in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to ET in C#., C# Merge PRN to et., C# Combine PRN to ET., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge PRN to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge PRN to ET in C#" %}}
 
 The following example demonstrates how to merge PRN to ET in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge PRN to ET. Upload your files, call Workbook.Combi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge PRN to ET in C#" InputFormat="prn" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge PRN to ET in C#" InputFormat="prn" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge PRN to ET via C#" %}}
 

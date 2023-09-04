@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to IMAGE - Online XLTX to IMAGE Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to IMAGE saveformat. Java XLTX to IMAGE format. Save XLTX to IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to IMAGE saveformat., Free Online XLTX to IMAGE Java., Java Convert XLTX to IMAGE]
+title: Java XLTX to IMAGE - XLTX to IMAGE Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to IMAGE in Java. Java Convert XLTX to IMAGE saveformat. Java XLTX to IMAGE format. Save XLTX to IMAGE Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to IMAGE in Java., Java XLTX to IMAGE saveformat., XLTX to IMAGE Java., Java Convert XLTX to IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to IMAGE? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to IMAGE in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to IMAGE in Java" %}}
 
 The following example demonstrates how to convert XLTX to IMAGE in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to IMAGE. Upload your XLTX file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to IMAGE via Java" %}}
 

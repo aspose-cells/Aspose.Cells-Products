@@ -1,7 +1,7 @@
 ---
-title: Java HTML to MARKDOWN - Online HTML to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to MARKDOWN saveformat. Java HTML to MARKDOWN format. Save HTML to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to MARKDOWN saveformat., Free Online HTML to MARKDOWN Java., Java Convert HTML to MARKDOWN]
+title: Java HTML to MARKDOWN - HTML to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. HTML to MARKDOWN in Java. Java Convert HTML to MARKDOWN saveformat. Java HTML to MARKDOWN format. Save HTML to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., HTML to MARKDOWN in Java., Java HTML to MARKDOWN saveformat., HTML to MARKDOWN Java., Java Convert HTML to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert HTML to MARKDOWN? With Aspose.Cells for Java library, you can e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert HTML to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to MARKDOWN. Upload your HTML file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MARKDOWN via Java" %}}
 

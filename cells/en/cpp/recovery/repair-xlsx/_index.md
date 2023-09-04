@@ -1,8 +1,8 @@
 ---
-title: C++ Repair xlsx File - Repair xlsx File Online for Free
+title: C++ Repair xlsx File - Recover xlsx File
 url: /cpp/recovery/repair-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Repair xlsx file. Free Online xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within C++ application.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx file., Free Online Repair a corrupted xlsx file., C++ Recover xlsx file.]
+description: Aspose Excel. C++ Aspose.Cells. C++ Repair xlsx file. xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within C++ application.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx file., Repair a corrupted xlsx file., C++ Recover xlsx file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -42,7 +42,7 @@ Need to repair xlsx file programmatically? C++ developers can easily load & repa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Free App and Sample Code to repair XLSX file Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Sample Code to repair XLSX file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ library to repair XLSX file" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python PNG to XLAM - Online PNG to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to XLAM saveformat. Python PNG to XLAM format. Save PNG to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to XLAM saveformat., Free Online PNG to XLAM Python., Python Convert PNG to XLAM]
+title: Python PNG to XLAM - PNG to XLAM Converter
+description: Aspose Excel. Python Aspose.Cells. PNG to XLAM in Python. Python Convert PNG to XLAM saveformat. Python PNG to XLAM format. Save PNG to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLAM in Python., Python PNG to XLAM saveformat., PNG to XLAM Python., Python Convert PNG to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert PNG to XLAM? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save PNG to XLAM in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save PNG to XLAM in Python" %}}
 
 The following example demonstrates how to convert PNG to XLAM in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to XLAM. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to XLAM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLAM via Python" %}}
 

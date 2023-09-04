@@ -1,7 +1,7 @@
 ---
-title: C# XLSX to MHTML - Online XLSX to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to MHTML saveformat. C# XLSX to MHTML format. Save XLSX to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to MHTML saveformat., Free Online XLSX to MHTML C#., C# Convert XLSX to MHTML]
+title: C# XLSX to MHTML - XLSX to MHTML Converter
+description: Aspose Excel. C# Aspose.Cells. XLSX to MHTML in C#. C# Convert XLSX to MHTML saveformat. C# XLSX to MHTML format. Save XLSX to MHTML C#.
+keywords: [Aspose Excel., C# Aspose.Cells., XLSX to MHTML in C#., C# XLSX to MHTML saveformat., XLSX to MHTML C#., C# Convert XLSX to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to MHTML in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to MHTML in C#" %}}
 
 The following example demonstrates how to convert XLSX to MHTML in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSX to MHTML. Upload your XLSX file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to MHTML via C#" %}}
 

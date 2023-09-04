@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to MARKDOWN - Combine TSV to MARKDOWN in C#
 url: /net/merger/merge-tsv-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to MARKDOWN saveformat. C# Combine TSV to MARKDOWN format. Merge TSV to MARKDOWN in C#. TSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to MARKDOWN in C#., Free Online C# Merge TSV to markdown., C# Combine TSV to MARKDOWN Online for Free., TSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge TSV to MARKDOWN saveformat. C# Combine TSV to MARKDOWN format. Merge TSV to MARKDOWN in C#. TSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to MARKDOWN in C#., C# Merge TSV to markdown., C# Combine TSV to MARKDOWN., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TSV to MARKDOWN in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TSV to MARKDOWN in C#" %}}
 
 The following example demonstrates how to merge TSV to MARKDOWN in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge TSV to MARKDOWN. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TSV to MARKDOWN in C#" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge TSV to MARKDOWN in C#" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to MARKDOWN via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to JSON - Combine CSV to JSON in C#
 url: /net/merger/merge-csv-to-json/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge CSV to JSON saveformat. C# Combine CSV to JSON format. Merge CSV to JSON in C#. CSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to JSON in C#., Free Online C# Merge CSV to json., C# Combine CSV to JSON Online for Free., CSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge CSV to JSON saveformat. C# Combine CSV to JSON format. Merge CSV to JSON in C#. CSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to JSON in C#., C# Merge CSV to json., C# Combine CSV to JSON., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge CSV to JSON in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge CSV to JSON in C#" %}}
 
 The following example demonstrates how to merge CSV to JSON in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge CSV to JSON. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge CSV to JSON in C#" InputFormat="csv" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge CSV to JSON in C#" InputFormat="csv" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV to JSON via C#" %}}
 

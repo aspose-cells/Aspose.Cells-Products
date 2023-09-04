@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML to PDF - Online SPREADSHEETML to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to PDF saveformat. Java SPREADSHEETML to PDF format. Save SPREADSHEETML to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to PDF saveformat., Free Online SPREADSHEETML to PDF Java., Java Convert SPREADSHEETML to PDF]
+title: Java SPREADSHEETML to PDF - SPREADSHEETML to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to PDF in Java. Java Convert SPREADSHEETML to PDF saveformat. Java SPREADSHEETML to PDF format. Save SPREADSHEETML to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to PDF in Java., Java SPREADSHEETML to PDF saveformat., SPREADSHEETML to PDF Java., Java Convert SPREADSHEETML to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert SPREADSHEETML to PDF? With Aspose.Cells for Java library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to PDF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to PDF in Java" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to PDF. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to PDF via Java" %}}
 

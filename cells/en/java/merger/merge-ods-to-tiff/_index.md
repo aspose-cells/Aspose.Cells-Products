@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TIFF - Combine ODS to TIFF in Java
 url: /java/merger/merge-ods-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to TIFF saveformat. Java Combine ODS to TIFF format. Merge ODS to TIFF in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to TIFF in Java., Free Online Java Merge ODS to tiff., Java Combine ODS to TIFF Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge ODS to TIFF saveformat. Java Combine ODS to TIFF format. Merge ODS to TIFF in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to TIFF in Java., Java Merge ODS to tiff., Java Combine ODS to TIFF., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge ODS to TIFF? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to TIFF in Java" %}}
 
 The following example demonstrates how to merge ODS to TIFF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge ODS to TIFF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to TIFF in Java" InputFormat="ods" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge ODS to TIFF in Java" InputFormat="ods" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to TIFF via Java" %}}
 

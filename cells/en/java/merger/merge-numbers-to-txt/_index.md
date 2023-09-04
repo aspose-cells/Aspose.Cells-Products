@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TXT - Combine NUMBERS to TXT in Java
 url: /java/merger/merge-numbers-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to TXT saveformat. Java Combine NUMBERS to TXT format. Merge NUMBERS to TXT in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to TXT in Java., Free Online Java Merge NUMBERS to txt., Java Combine NUMBERS to TXT Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge NUMBERS to TXT saveformat. Java Combine NUMBERS to TXT format. Merge NUMBERS to TXT in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to TXT in Java., Java Merge NUMBERS to txt., Java Combine NUMBERS to TXT., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge NUMBERS to TXT? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge NUMBERS to TXT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge NUMBERS to TXT in Java" %}}
 
 The following example demonstrates how to merge NUMBERS to TXT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge NUMBERS to TXT. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge NUMBERS to TXT in Java" InputFormat="numbers" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge NUMBERS to TXT in Java" InputFormat="numbers" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to TXT via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java OTS to DOCX - Online OTS to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert OTS to DOCX saveformat. Java OTS to DOCX format. Save OTS to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to DOCX saveformat., Free Online OTS to DOCX Java., Java Convert OTS to DOCX]
+title: Java OTS to DOCX - OTS to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. OTS to DOCX in Java. Java Convert OTS to DOCX saveformat. Java OTS to DOCX format. Save OTS to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., OTS to DOCX in Java., Java OTS to DOCX saveformat., OTS to DOCX Java., Java Convert OTS to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert OTS to DOCX? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to DOCX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to DOCX in Java" %}}
 
 The following example demonstrates how to convert OTS to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to DOCX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to DOCX via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to EXCEL - Online JPEG to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to EXCEL saveformat. Java JPEG to EXCEL format. Save JPEG to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to EXCEL saveformat., Free Online JPEG to EXCEL Java., Java Convert JPEG to EXCEL]
+title: Java JPEG to EXCEL - JPEG to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. JPEG to EXCEL in Java. Java Convert JPEG to EXCEL saveformat. Java JPEG to EXCEL format. Save JPEG to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to EXCEL in Java., Java JPEG to EXCEL saveformat., JPEG to EXCEL Java., Java Convert JPEG to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPEG to EXCEL? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to EXCEL in Java" %}}
 
 The following example demonstrates how to convert JPEG to EXCEL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to EXCEL. Upload your JPEG file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to EXCEL via Java" %}}
 

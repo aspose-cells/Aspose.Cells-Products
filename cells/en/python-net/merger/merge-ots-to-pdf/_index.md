@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PDF - Combine OTS to PDF in Python
 url: /python-net/merger/merge-ots-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to PDF saveformat. Python Combine OTS to PDF format. Merge OTS to PDF in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PDF in Python., Free Online Python Merge OTS to pdf., Python Combine OTS to PDF Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge OTS to PDF saveformat. Python Combine OTS to PDF format. Merge OTS to PDF in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PDF in Python., Python Merge OTS to pdf., Python Combine OTS to PDF., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge OTS to PDF? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge OTS to PDF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge OTS to PDF in Python" %}}
 
 The following example demonstrates how to merge OTS to PDF in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge OTS to PDF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge OTS to PDF in Python" InputFormat="ots" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge OTS to PDF in Python" InputFormat="ots" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge OTS to PDF via Python" %}}
 

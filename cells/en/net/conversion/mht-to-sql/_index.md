@@ -1,7 +1,7 @@
 ---
-title: C# MHT to SQL - Online MHT to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to SQL saveformat. C# MHT to SQL format. Save MHT to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to SQL saveformat., Free Online MHT to SQL C#., C# Convert MHT to SQL]
+title: C# MHT to SQL - MHT to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. MHT to SQL in C#. C# Convert MHT to SQL saveformat. C# MHT to SQL format. Save MHT to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., MHT to SQL in C#., C# MHT to SQL saveformat., MHT to SQL C#., C# Convert MHT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to SQL in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to SQL in C#" %}}
 
 The following example demonstrates how to convert MHT to SQL in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to SQL. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sql" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sql" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to SQL via C#" %}}
 

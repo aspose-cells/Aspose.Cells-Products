@@ -1,7 +1,7 @@
 ---
-title: C++ HTML to EMF - Online HTML to EMF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to EMF saveformat. C++ HTML to EMF format. Save HTML to EMF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to EMF saveformat., Free Online HTML to EMF C++., C++ Convert HTML to EMF]
+title: C++ HTML to EMF - HTML to EMF Converter
+description: Aspose Excel. C++ Aspose.Cells. HTML to EMF in C++. C++ Convert HTML to EMF saveformat. C++ HTML to EMF format. Save HTML to EMF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., HTML to EMF in C++., C++ HTML to EMF saveformat., HTML to EMF C++., C++ Convert HTML to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to EMF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to EMF in C++" %}}
 
 The following example demonstrates how to convert HTML to EMF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert HTML to EMF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to EMF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="emf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert HTML to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="emf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to EMF via C++" %}}
 

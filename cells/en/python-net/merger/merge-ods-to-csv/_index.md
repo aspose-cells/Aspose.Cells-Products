@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to CSV - Combine ODS to CSV in Python
 url: /python-net/merger/merge-ods-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to CSV saveformat. Python Combine ODS to CSV format. Merge ODS to CSV in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to CSV in Python., Free Online Python Merge ODS to csv., Python Combine ODS to CSV Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge ODS to CSV saveformat. Python Combine ODS to CSV format. Merge ODS to CSV in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to CSV in Python., Python Merge ODS to csv., Python Combine ODS to CSV., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge ODS to CSV? With Aspose.Cells for Python via .NET library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge ODS to CSV in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge ODS to CSV in Python" %}}
 
 The following example demonstrates how to merge ODS to CSV in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge ODS to CSV. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge ODS to CSV in Python" InputFormat="ods" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge ODS to CSV in Python" InputFormat="ods" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to CSV via Python" %}}
 

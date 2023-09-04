@@ -1,7 +1,7 @@
 ---
-title: Python SXC to MARKDOWN - Online SXC to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to MARKDOWN saveformat. Python SXC to MARKDOWN format. Save SXC to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MARKDOWN saveformat., Free Online SXC to MARKDOWN Python., Python Convert SXC to MARKDOWN]
+title: Python SXC to MARKDOWN - SXC to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. SXC to MARKDOWN in Python. Python Convert SXC to MARKDOWN saveformat. Python SXC to MARKDOWN format. Save SXC to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., SXC to MARKDOWN in Python., Python SXC to MARKDOWN saveformat., SXC to MARKDOWN Python., Python Convert SXC to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert SXC to MARKDOWN? With Aspose.Cells for Python library, you can 
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SXC to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to MARKDOWN in Python" %}}
 
 The following example demonstrates how to convert SXC to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to MARKDOWN. Upload your SXC file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to MARKDOWN via Python" %}}
 

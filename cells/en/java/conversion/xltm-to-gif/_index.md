@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to GIF - Online XLTM to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to GIF saveformat. Java XLTM to GIF format. Save XLTM to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to GIF saveformat., Free Online XLTM to GIF Java., Java Convert XLTM to GIF]
+title: Java XLTM to GIF - XLTM to GIF Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to GIF in Java. Java Convert XLTM to GIF saveformat. Java XLTM to GIF format. Save XLTM to GIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to GIF in Java., Java XLTM to GIF saveformat., XLTM to GIF Java., Java Convert XLTM to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to GIF? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to GIF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to GIF in Java" %}}
 
 The following example demonstrates how to convert XLTM to GIF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to GIF. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="gif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="gif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to GIF via Java" %}}
 

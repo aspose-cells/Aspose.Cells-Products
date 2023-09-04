@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to PPTX - Online XLTX to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PPTX saveformat. Java XLTX to PPTX format. Save XLTX to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PPTX saveformat., Free Online XLTX to PPTX Java., Java Convert XLTX to PPTX]
+title: Java XLTX to PPTX - XLTX to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. XLTX to PPTX in Java. Java Convert XLTX to PPTX saveformat. Java XLTX to PPTX format. Save XLTX to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTX to PPTX in Java., Java XLTX to PPTX saveformat., XLTX to PPTX Java., Java Convert XLTX to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTX to PPTX? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to PPTX in Java" %}}
 
 The following example demonstrates how to convert XLTX to PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to PPTX. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to PPTX via Java" %}}
 

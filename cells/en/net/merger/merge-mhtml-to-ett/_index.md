@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ETT - Combine MHTML to ETT in C#
 url: /net/merger/merge-mhtml-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to ETT saveformat. C# Combine MHTML to ETT format. Merge MHTML to ETT in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ETT in C#., Free Online C# Merge MHTML to ett., C# Combine MHTML to ETT Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge MHTML to ETT saveformat. C# Combine MHTML to ETT format. Merge MHTML to ETT in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ETT in C#., C# Merge MHTML to ett., C# Combine MHTML to ETT., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge MHTML to ETT in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge MHTML to ETT in C#" %}}
 
 The following example demonstrates how to merge MHTML to ETT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge MHTML to ETT. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge MHTML to ETT in C#" InputFormat="mhtml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge MHTML to ETT in C#" InputFormat="mhtml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to ETT via C#" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLSX - Combine XLSM to XLSX in Java
 url: /java/merger/merge-xlsm-to-xlsx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to XLSX saveformat. Java Combine XLSM to XLSX format. Merge XLSM to XLSX in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLSX in Java., Free Online Java Merge XLSM to xlsx., Java Combine XLSM to XLSX Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSM to XLSX saveformat. Java Combine XLSM to XLSX format. Merge XLSM to XLSX in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLSX in Java., Java Merge XLSM to xlsx., Java Combine XLSM to XLSX., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSM to XLSX? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to XLSX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to XLSX in Java" %}}
 
 The following example demonstrates how to merge XLSM to XLSX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSM to XLSX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to XLSX in Java" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to XLSX in Java" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to XLSX via Java" %}}
 

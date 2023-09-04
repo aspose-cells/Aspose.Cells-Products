@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PDF - Combine HTML to PDF in C#
 url: /net/merger/merge-html-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to PDF saveformat. C# Combine HTML to PDF format. Merge HTML to PDF in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to PDF in C#., Free Online C# Merge HTML to pdf., C# Combine HTML to PDF Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge HTML to PDF saveformat. C# Combine HTML to PDF format. Merge HTML to PDF in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to PDF in C#., C# Merge HTML to pdf., C# Combine HTML to PDF., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge HTML to PDF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge HTML to PDF in C#" %}}
 
 The following example demonstrates how to merge HTML to PDF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge HTML to PDF. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge HTML to PDF in C#" InputFormat="html" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge HTML to PDF in C#" InputFormat="html" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to PDF via C#" %}}
 

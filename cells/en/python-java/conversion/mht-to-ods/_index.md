@@ -1,7 +1,7 @@
 ---
-title: Python MHT to ODS - Online MHT to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to ODS saveformat. Python MHT to ODS format. Save MHT to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to ODS saveformat., Free Online MHT to ODS Python., Python Convert MHT to ODS]
+title: Python MHT to ODS - MHT to ODS Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to ODS in Python. Python Convert MHT to ODS saveformat. Python MHT to ODS format. Save MHT to ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to ODS in Python., Python MHT to ODS saveformat., MHT to ODS Python., Python Convert MHT to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert MHT to ODS? With Aspose.Cells for Python library, you can easil
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save MHT to ODS in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to ODS in Python" %}}
 
 The following example demonstrates how to convert MHT to ODS in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to ODS. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to ODS via Python" %}}
 

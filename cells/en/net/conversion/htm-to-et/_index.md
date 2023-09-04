@@ -1,7 +1,7 @@
 ---
-title: C# HTM to ET - Online HTM to ET Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTM to ET saveformat. C# HTM to ET format. Save HTM to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTM to ET saveformat., Free Online HTM to ET C#., C# Convert HTM to ET]
+title: C# HTM to ET - HTM to ET Converter
+description: Aspose Excel. C# Aspose.Cells. HTM to ET in C#. C# Convert HTM to ET saveformat. C# HTM to ET format. Save HTM to ET C#.
+keywords: [Aspose Excel., C# Aspose.Cells., HTM to ET in C#., C# HTM to ET saveformat., HTM to ET C#., C# Convert HTM to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTM to ET in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTM to ET in C#" %}}
 
 The following example demonstrates how to convert HTM to ET in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTM to ET. Upload your HTM file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTM to ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTM to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to ET via C#" %}}
 

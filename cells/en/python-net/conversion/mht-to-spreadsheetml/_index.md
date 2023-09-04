@@ -1,7 +1,7 @@
 ---
-title: Python MHT to SPREADSHEETML - Online MHT to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to SPREADSHEETML saveformat. Python MHT to SPREADSHEETML format. Save MHT to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to SPREADSHEETML saveformat., Free Online MHT to SPREADSHEETML Python., Python Convert MHT to SPREADSHEETML]
+title: Python MHT to SPREADSHEETML - MHT to SPREADSHEETML Converter
+description: Aspose Excel. Python Aspose.Cells. MHT to SPREADSHEETML in Python. Python Convert MHT to SPREADSHEETML saveformat. Python MHT to SPREADSHEETML format. Save MHT to SPREADSHEETML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., MHT to SPREADSHEETML in Python., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Python., Python Convert MHT to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert MHT to SPREADSHEETML? With Aspose.Cells for Python via NET libr
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save MHT to SPREADSHEETML in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save MHT to SPREADSHEETML in Python" %}}
 
 The following example demonstrates how to convert MHT to SPREADSHEETML in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to SPREADSHEETML. Upload your MHT file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert MHT to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to SPREADSHEETML" %}}
 

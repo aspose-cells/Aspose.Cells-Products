@@ -1,7 +1,7 @@
 ---
-title: Java JPG to XLSX - Online JPG to XLSX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XLSX saveformat. Java JPG to XLSX format. Save JPG to XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XLSX saveformat., Free Online JPG to XLSX Java., Java Convert JPG to XLSX]
+title: Java JPG to XLSX - JPG to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. JPG to XLSX in Java. Java Convert JPG to XLSX saveformat. Java JPG to XLSX format. Save JPG to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to XLSX in Java., Java JPG to XLSX saveformat., JPG to XLSX Java., Java Convert JPG to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert JPG to XLSX? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to XLSX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to XLSX in Java" %}}
 
 The following example demonstrates how to convert JPG to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to XLSX. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XLSX via Java" %}}
 

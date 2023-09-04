@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to EXCEL - Online XLTX to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to EXCEL saveformat. Python XLTX to EXCEL format. Save XLTX to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to EXCEL saveformat., Free Online XLTX to EXCEL Python., Python Convert XLTX to EXCEL]
+title: Python XLTX to EXCEL - XLTX to EXCEL Converter
+description: Aspose Excel. Python Aspose.Cells. XLTX to EXCEL in Python. Python Convert XLTX to EXCEL saveformat. Python XLTX to EXCEL format. Save XLTX to EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLTX to EXCEL in Python., Python XLTX to EXCEL saveformat., XLTX to EXCEL Python., Python Convert XLTX to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert XLTX to EXCEL? With Aspose.Cells for Python library, you can ea
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTX to EXCEL in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTX to EXCEL in Python" %}}
 
 The following example demonstrates how to convert XLTX to EXCEL in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to EXCEL. Upload your XLTX file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to EXCEL via Python" %}}
 

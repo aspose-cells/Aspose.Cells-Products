@@ -1,7 +1,7 @@
 ---
-title: Java FODS to JPEG - Online FODS to JPEG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to JPEG saveformat. Java FODS to JPEG format. Save FODS to JPEG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to JPEG saveformat., Free Online FODS to JPEG Java., Java Convert FODS to JPEG]
+title: Java FODS to JPEG - FODS to JPEG Converter
+description: Aspose Excel. Java Aspose.Cells. FODS to JPEG in Java. Java Convert FODS to JPEG saveformat. Java FODS to JPEG format. Save FODS to JPEG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., FODS to JPEG in Java., Java FODS to JPEG saveformat., FODS to JPEG Java., Java Convert FODS to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert FODS to JPEG? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save FODS to JPEG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save FODS to JPEG in Java" %}}
 
 The following example demonstrates how to convert FODS to JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to JPEG. Upload your FODS file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert FODS to JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to JPEG via Java" %}}
 

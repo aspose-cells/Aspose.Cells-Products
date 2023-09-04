@@ -1,7 +1,7 @@
 ---
-title: Python XLT to PRN - Online XLT to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to PRN saveformat. Python XLT to PRN format. Save XLT to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to PRN saveformat., Free Online XLT to PRN Python., Python Convert XLT to PRN]
+title: Python XLT to PRN - XLT to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. XLT to PRN in Python. Python Convert XLT to PRN saveformat. Python XLT to PRN format. Save XLT to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., XLT to PRN in Python., Python XLT to PRN saveformat., XLT to PRN Python., Python Convert XLT to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I convert XLT to PRN? With Aspose.Cells for Python via NET library, you c
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Save XLT to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLT to PRN in Python" %}}
 
 The following example demonstrates how to convert XLT to PRN in Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLT to PRN. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLT to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PRN" %}}
 

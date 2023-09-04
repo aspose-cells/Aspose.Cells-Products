@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XLSX - Combine XLSB to XLSX in C++
 url: /cpp/merger/merge-xlsb-to-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to XLSX saveformat. C++ Combine XLSB to XLSX format. Merge XLSB to XLSX in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to XLSX in C++., Free Online C++ Merge XLSB to xlsx., C++ Combine XLSB to XLSX Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLSB to XLSX saveformat. C++ Combine XLSB to XLSX format. Merge XLSB to XLSX in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to XLSX in C++., C++ Merge XLSB to xlsx., C++ Combine XLSB to XLSX., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to XLSX in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to XLSX in C++" %}}
 
 The following example demonstrates how to merge XLSB to XLSX in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLSB to XLSX. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to XLSX in C++" InputFormat="xlsb" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to XLSX in C++" InputFormat="xlsb" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to XLSX via C++" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to SVG - Online XLTM to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to SVG saveformat. Java XLTM to SVG format. Save XLTM to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to SVG saveformat., Free Online XLTM to SVG Java., Java Convert XLTM to SVG]
+title: Java XLTM to SVG - XLTM to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. XLTM to SVG in Java. Java Convert XLTM to SVG saveformat. Java XLTM to SVG format. Save XLTM to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLTM to SVG in Java., Java XLTM to SVG saveformat., XLTM to SVG Java., Java Convert XLTM to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLTM to SVG? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLTM to SVG in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLTM to SVG in Java" %}}
 
 The following example demonstrates how to convert XLTM to SVG in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to SVG. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLTM to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to SVG via Java" %}}
 

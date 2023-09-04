@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL to PRN - Online EXCEL to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to PRN saveformat. Python EXCEL to PRN format. Save EXCEL to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to PRN saveformat., Free Online EXCEL to PRN Python., Python Convert EXCEL to PRN]
+title: Python EXCEL to PRN - EXCEL to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. EXCEL to PRN in Python. Python Convert EXCEL to PRN saveformat. Python EXCEL to PRN format. Save EXCEL to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to PRN in Python., Python EXCEL to PRN saveformat., EXCEL to PRN Python., Python Convert EXCEL to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert EXCEL to PRN? With Aspose.Cells for Python library, you can eas
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to PRN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to PRN in Python" %}}
 
 The following example demonstrates how to convert EXCEL to PRN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to PRN. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PRN via Python" %}}
 

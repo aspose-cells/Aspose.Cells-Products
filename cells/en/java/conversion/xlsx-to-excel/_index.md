@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to EXCEL - Online XLSX to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to EXCEL saveformat. Java XLSX to EXCEL format. Save XLSX to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to EXCEL saveformat., Free Online XLSX to EXCEL Java., Java Convert XLSX to EXCEL]
+title: Java XLSX to EXCEL - XLSX to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. XLSX to EXCEL in Java. Java Convert XLSX to EXCEL saveformat. Java XLSX to EXCEL format. Save XLSX to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSX to EXCEL in Java., Java XLSX to EXCEL saveformat., XLSX to EXCEL Java., Java Convert XLSX to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSX to EXCEL? With Aspose.Cells for Java library, you can easi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSX to EXCEL in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSX to EXCEL in Java" %}}
 
 The following example demonstrates how to convert XLSX to EXCEL in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSX to EXCEL. Upload your XLSX file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to EXCEL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML to POWERPOINT - Online SPREADSHEETML to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SPREADSHEETML to POWERPOINT saveformat. C++ SPREADSHEETML to POWERPOINT format. Save SPREADSHEETML to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to POWERPOINT saveformat., Free Online SPREADSHEETML to POWERPOINT C++., C++ Convert SPREADSHEETML to POWERPOINT]
+title: C++ SPREADSHEETML to POWERPOINT - SPREADSHEETML to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to POWERPOINT in C++. C++ Convert SPREADSHEETML to POWERPOINT saveformat. C++ SPREADSHEETML to POWERPOINT format. Save SPREADSHEETML to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to POWERPOINT in C++., C++ SPREADSHEETML to POWERPOINT saveformat., SPREADSHEETML to POWERPOINT C++., C++ Convert SPREADSHEETML to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to POWERPOINT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to POWERPOINT in C++" %}}
 
 The following example demonstrates how to convert SPREADSHEETML to POWERPOINT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert SPREADSHEETML to POWERPOINT. Upload your SPREAD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to POWERPOINT via C++" %}}
 

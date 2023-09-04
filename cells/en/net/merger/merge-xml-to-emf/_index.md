@@ -1,8 +1,8 @@
 ---
 title: Merge XML to EMF - Combine XML to EMF in C#
 url: /net/merger/merge-xml-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to EMF saveformat. C# Combine XML to EMF format. Merge XML to EMF in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to EMF in C#., Free Online C# Merge XML to emf., C# Combine XML to EMF Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Merge XML to EMF saveformat. C# Combine XML to EMF format. Merge XML to EMF in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to EMF in C#., C# Merge XML to emf., C# Combine XML to EMF., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to EMF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to EMF in C#" %}}
 
 The following example demonstrates how to merge XML to EMF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XML to EMF. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to EMF in C#" InputFormat="xml" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Sample Code to Merge XML to EMF in C#" InputFormat="xml" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to EMF via C#" %}}
 

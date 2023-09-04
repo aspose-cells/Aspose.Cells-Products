@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to MARKDOWN - Online JPEG to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to MARKDOWN saveformat. Python JPEG to MARKDOWN format. Save JPEG to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to MARKDOWN saveformat., Free Online JPEG to MARKDOWN Python., Python Convert JPEG to MARKDOWN]
+title: Python JPEG to MARKDOWN - JPEG to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. JPEG to MARKDOWN in Python. Python Convert JPEG to MARKDOWN saveformat. Python JPEG to MARKDOWN format. Save JPEG to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPEG to MARKDOWN in Python., Python JPEG to MARKDOWN saveformat., JPEG to MARKDOWN Python., Python Convert JPEG to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert JPEG to MARKDOWN? With Aspose.Cells for Python library, you can
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPEG to MARKDOWN in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPEG to MARKDOWN in Python" %}}
 
 The following example demonstrates how to convert JPEG to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to MARKDOWN. Upload your JPEG file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPEG to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to MARKDOWN via Python" %}}
 

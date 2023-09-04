@@ -1,7 +1,7 @@
 ---
-title: C# JPG to WORD - Online JPG to WORD Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to WORD saveformat. C# JPG to WORD format. Save JPG to WORD C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to WORD saveformat., Free Online JPG to WORD C#., C# Convert JPG to WORD]
+title: C# JPG to WORD - JPG to WORD Converter
+description: Aspose Excel. C# Aspose.Cells. JPG to WORD in C#. C# Convert JPG to WORD saveformat. C# JPG to WORD format. Save JPG to WORD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., JPG to WORD in C#., C# JPG to WORD saveformat., JPG to WORD C#., C# Convert JPG to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to WORD in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to WORD in C#" %}}
 
 The following example demonstrates how to convert JPG to WORD in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to WORD. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to WORD via C#" %}}
 

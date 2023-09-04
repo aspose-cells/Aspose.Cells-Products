@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to ETT - Combine SPREADSHEETML to ETT in Python
 url: /python-java/merger/merge-spreadsheetml-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to ETT saveformat. Python Combine SPREADSHEETML to ETT format. Merge SPREADSHEETML to ETT in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to ETT in Python., Free Online Python Merge SPREADSHEETML to ett., Python Combine SPREADSHEETML to ETT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML to ETT saveformat. Python Combine SPREADSHEETML to ETT format. Merge SPREADSHEETML to ETT in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to ETT in Python., Python Merge SPREADSHEETML to ett., Python Combine SPREADSHEETML to ETT., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge SPREADSHEETML to ETT? With Aspose.Cells for Python via Java libra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge SPREADSHEETML to ETT in Python" %}}
 
 The following example demonstrates how to merge SPREADSHEETML to ETT in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge SPREADSHEETML to ETT. Upload your files, call Wor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge SPREADSHEETML to ETT in Python" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge SPREADSHEETML to ETT in Python" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge SPREADSHEETML to ETT via Python" %}}
 

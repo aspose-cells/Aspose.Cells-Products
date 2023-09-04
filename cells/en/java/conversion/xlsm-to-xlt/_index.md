@@ -1,7 +1,7 @@
 ---
-title: Java XLSM to XLT - Online XLSM to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to XLT saveformat. Java XLSM to XLT format. Save XLSM to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to XLT saveformat., Free Online XLSM to XLT Java., Java Convert XLSM to XLT]
+title: Java XLSM to XLT - XLSM to XLT Converter
+description: Aspose Excel. Java Aspose.Cells. XLSM to XLT in Java. Java Convert XLSM to XLT saveformat. Java XLSM to XLT format. Save XLSM to XLT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., XLSM to XLT in Java., Java XLSM to XLT saveformat., XLSM to XLT Java., Java Convert XLSM to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLSM to XLT? With Aspose.Cells for Java library, you can easily
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLSM to XLT in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSM to XLT in Java" %}}
 
 The following example demonstrates how to convert XLSM to XLT in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to XLT. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to XLT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to XLT via Java" %}}
 

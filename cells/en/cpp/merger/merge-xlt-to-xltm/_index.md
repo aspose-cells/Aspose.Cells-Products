@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTM - Combine XLT to XLTM in C++
 url: /cpp/merger/merge-xlt-to-xltm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to XLTM saveformat. C++ Combine XLT to XLTM format. Merge XLT to XLTM in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLTM in C++., Free Online C++ Merge XLT to xltm., C++ Combine XLT to XLTM Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge XLT to XLTM saveformat. C++ Combine XLT to XLTM format. Merge XLT to XLTM in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLTM in C++., C++ Merge XLT to xltm., C++ Combine XLT to XLTM., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to XLTM in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to XLTM in C++" %}}
 
 The following example demonstrates how to merge XLT to XLTM in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge XLT to XLTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to XLTM in C++" InputFormat="xlt" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge XLT to XLTM in C++" InputFormat="xlt" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to XLTM via C++" %}}
 

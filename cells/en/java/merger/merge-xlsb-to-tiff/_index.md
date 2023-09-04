@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TIFF - Combine XLSB to TIFF in Java
 url: /java/merger/merge-xlsb-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to TIFF saveformat. Java Combine XLSB to TIFF format. Merge XLSB to TIFF in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to TIFF in Java., Free Online Java Merge XLSB to tiff., Java Combine XLSB to TIFF Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLSB to TIFF saveformat. Java Combine XLSB to TIFF format. Merge XLSB to TIFF in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to TIFF in Java., Java Merge XLSB to tiff., Java Combine XLSB to TIFF., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLSB to TIFF? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSB to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSB to TIFF in Java" %}}
 
 The following example demonstrates how to merge XLSB to TIFF in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLSB to TIFF. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSB to TIFF in Java" InputFormat="xlsb" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLSB to TIFF in Java" InputFormat="xlsb" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to TIFF via Java" %}}
 

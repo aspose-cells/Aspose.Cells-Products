@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PNG - Combine XML to PNG in Python
 url: /python-java/merger/merge-xml-to-png/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to PNG saveformat. Python Combine XML to PNG format. Merge XML to PNG in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PNG in Python., Free Online Python Merge XML to png., Python Combine XML to PNG Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XML to PNG saveformat. Python Combine XML to PNG format. Merge XML to PNG in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PNG in Python., Python Merge XML to png., Python Combine XML to PNG., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XML to PNG? With Aspose.Cells for Python via Java library, you ca
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XML to PNG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XML to PNG in Python" %}}
 
 The following example demonstrates how to merge XML to PNG in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XML to PNG. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XML to PNG in Python" InputFormat="xml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge XML to PNG in Python" InputFormat="xml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to PNG via Python" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PPTX - Combine XLT to PPTX in Java
 url: /java/merger/merge-xlt-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to PPTX saveformat. Java Combine XLT to PPTX format. Merge XLT to PPTX in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to PPTX in Java., Free Online Java Merge XLT to pptx., Java Combine XLT to PPTX Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Merge XLT to PPTX saveformat. Java Combine XLT to PPTX format. Merge XLT to PPTX in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to PPTX in Java., Java Merge XLT to pptx., Java Combine XLT to PPTX., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I merge XLT to PPTX? With Aspose.Cells for Java library, you can easily m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLT to PPTX in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLT to PPTX in Java" %}}
 
 The following example demonstrates how to merge XLT to PPTX in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to merge XLT to PPTX. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLT to PPTX in Java" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Sample Code to Merge XLT to PPTX in Java" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to PPTX via Java" %}}
 

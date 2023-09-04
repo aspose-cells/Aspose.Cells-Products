@@ -1,7 +1,7 @@
 ---
-title: C# JPG to PDF - Online JPG to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to PDF saveformat. C# JPG to PDF format. Save JPG to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to PDF saveformat., Free Online JPG to PDF C#., C# Convert JPG to PDF]
+title: C# JPG to PDF - JPG to PDF Converter
+description: Aspose Excel. C# Aspose.Cells. JPG to PDF in C#. C# Convert JPG to PDF saveformat. C# JPG to PDF format. Save JPG to PDF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., JPG to PDF in C#., C# JPG to PDF saveformat., JPG to PDF C#., C# Convert JPG to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save JPG to PDF in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save JPG to PDF in C#" %}}
 
 The following example demonstrates how to convert JPG to PDF in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to PDF. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to PDF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pdf" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pdf" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PDF via C#" %}}
 

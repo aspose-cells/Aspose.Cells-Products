@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ODS - Combine FODS to ODS in C++
 url: /cpp/merger/merge-fods-to-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to ODS saveformat. C++ Combine FODS to ODS format. Merge FODS to ODS in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to ODS in C++., Free Online C++ Merge FODS to ods., C++ Combine FODS to ODS Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Merge FODS to ODS saveformat. C++ Combine FODS to ODS format. Merge FODS to ODS in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to ODS in C++., C++ Merge FODS to ods., C++ Combine FODS to ODS., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge FODS to ODS in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge FODS to ODS in C++" %}}
 
 The following example demonstrates how to merge FODS to ODS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to merge FODS to ODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge FODS to ODS in C++" InputFormat="fods" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge FODS to ODS in C++" InputFormat="fods" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to ODS via C++" %}}
 

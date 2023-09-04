@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ETT - Combine TABDELIMITED to ETT in Python
 url: /python-java/merger/merge-tabdelimited-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to ETT saveformat. Python Combine TABDELIMITED to ETT format. Merge TABDELIMITED to ETT in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to ETT in Python., Free Online Python Merge TABDELIMITED to ett., Python Combine TABDELIMITED to ETT Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge TABDELIMITED to ETT saveformat. Python Combine TABDELIMITED to ETT format. Merge TABDELIMITED to ETT in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to ETT in Python., Python Merge TABDELIMITED to ett., Python Combine TABDELIMITED to ETT., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge TABDELIMITED to ETT? With Aspose.Cells for Python via Java librar
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to ETT in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to ETT in Python" %}}
 
 The following example demonstrates how to merge TABDELIMITED to ETT in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge TABDELIMITED to ETT. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge TABDELIMITED to ETT in Python" InputFormat="tsv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to ETT in Python" InputFormat="tsv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to ETT via Python" %}}
 

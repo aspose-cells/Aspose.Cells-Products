@@ -1,7 +1,7 @@
 ---
-title: Java OTS to MARKDOWN - Online OTS to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert OTS to MARKDOWN saveformat. Java OTS to MARKDOWN format. Save OTS to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to MARKDOWN saveformat., Free Online OTS to MARKDOWN Java., Java Convert OTS to MARKDOWN]
+title: Java OTS to MARKDOWN - OTS to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. OTS to MARKDOWN in Java. Java Convert OTS to MARKDOWN saveformat. Java OTS to MARKDOWN format. Save OTS to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., OTS to MARKDOWN in Java., Java OTS to MARKDOWN saveformat., OTS to MARKDOWN Java., Java Convert OTS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert OTS to MARKDOWN? With Aspose.Cells for Java library, you can ea
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save OTS to MARKDOWN in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save OTS to MARKDOWN in Java" %}}
 
 The following example demonstrates how to convert OTS to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to MARKDOWN. Upload your OTS file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to MARKDOWN via Java" %}}
 

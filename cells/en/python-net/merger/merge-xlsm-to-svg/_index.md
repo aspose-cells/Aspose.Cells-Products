@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SVG - Combine XLSM to SVG in Python
 url: /python-net/merger/merge-xlsm-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to SVG saveformat. Python Combine XLSM to SVG format. Merge XLSM to SVG in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to SVG in Python., Free Online Python Merge XLSM to svg., Python Combine XLSM to SVG Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Merge XLSM to SVG saveformat. Python Combine XLSM to SVG format. Merge XLSM to SVG in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to SVG in Python., Python Merge XLSM to svg., Python Combine XLSM to SVG., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -18,7 +18,7 @@ How do I merge XLSM to SVG? With Aspose.Cells for Python via .NET library, you c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Merge XLSM to SVG in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Merge XLSM to SVG in Python" %}}
 
 The following example demonstrates how to merge XLSM to SVG in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -29,7 +29,7 @@ Follow the easy steps to merge XLSM to SVG. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free Online to Merge XLSM to SVG in Python" InputFormat="xlsm" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Sample Code to Merge XLSM to SVG in Python" InputFormat="xlsm" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to SVG via Python" %}}
 

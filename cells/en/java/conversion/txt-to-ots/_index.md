@@ -1,7 +1,7 @@
 ---
-title: Java TXT to OTS - Online TXT to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to OTS saveformat. Java TXT to OTS format. Save TXT to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to OTS saveformat., Free Online TXT to OTS Java., Java Convert TXT to OTS]
+title: Java TXT to OTS - TXT to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. TXT to OTS in Java. Java Convert TXT to OTS saveformat. Java TXT to OTS format. Save TXT to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., TXT to OTS in Java., Java TXT to OTS saveformat., TXT to OTS Java., Java Convert TXT to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert TXT to OTS? With Aspose.Cells for Java library, you can easily 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save TXT to OTS in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save TXT to OTS in Java" %}}
 
 The following example demonstrates how to convert TXT to OTS in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to OTS. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert TXT to OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to OTS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python HTML to GIF - Online HTML to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to GIF saveformat. Python HTML to GIF format. Save HTML to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to GIF saveformat., Free Online HTML to GIF Python., Python Convert HTML to GIF]
+title: Python HTML to GIF - HTML to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. HTML to GIF in Python. Python Convert HTML to GIF saveformat. Python HTML to GIF format. Save HTML to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., HTML to GIF in Python., Python HTML to GIF saveformat., HTML to GIF Python., Python Convert HTML to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,7 +17,7 @@ How do I convert HTML to GIF? With Aspose.Cells for Python library, you can easi
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save HTML to GIF in Python Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to GIF in Python" %}}
 
 The following example demonstrates how to convert HTML to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to GIF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to GIF via Python" %}}
 

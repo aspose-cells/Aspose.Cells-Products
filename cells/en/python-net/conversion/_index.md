@@ -1,7 +1,8 @@
 ---
 title: Microsoft Excel File Conversion Using Python via NET
 
-description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Python code.
+description: Aspose.Cells for Python via NET library. Convert EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL and more formats with just few lines of Python code.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

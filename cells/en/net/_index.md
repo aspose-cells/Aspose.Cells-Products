@@ -2,7 +2,8 @@
 title: .NET Excel API | Process Spreadsheet Formats via .NET Core 
 weight: 2030
 
-description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. Create read write save and print Spreadsheet files . Convert to PDF or more formats
+description: C# ASP.NET VB.NET library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, XML, TSV, HTML and so on.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

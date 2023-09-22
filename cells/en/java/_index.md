@@ -2,7 +2,8 @@
 title: Java Excel API - Aspose 
 weight: 6830
 
-description: Java Excel library for spreadsheet processing. Read write render and convert XLS XLSX XLSM ODS CSV TSV and more formats. Compatible with Windows Linux & Unix
+description: Aspose.Cells for Java library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, CSV, HTML and so on. 
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -2,7 +2,8 @@
 title: C++ Excel Spreadsheet Programming API - Aspose 
 weight: 7140
 
-description: C++ Excel library to read write and parse files including XLS, XLSX, XLSM and XLSB formats. Convert spreadsheets to PDF, CSV and more formats
+description: Aspose.Cells for C++ library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, XML, TSV and so on.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,8 @@
 ---
 title: Microsoft Excel File Conversion via Java 
 
-description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Java code.
+description: Aspose.Cells for Java library. Convert EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG and more formats with just few lines of Java code.
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to EXCEL - JSON to EXCEL Converter
-description: Aspose Excel. PHP Aspose.Cells. JSON to EXCEL in PHP. PHP Convert JSON to EXCEL saveformat. PHP JSON to EXCEL format. Save JSON to EXCEL PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., JSON to EXCEL in PHP., PHP JSON to EXCEL saveformat., JSON to EXCEL PHP., PHP Convert JSON to EXCEL]
+description: PHP Aspose.Cells. JSON to EXCEL in PHP. PHP Convert JSON to EXCEL saveformat. PHP JSON to EXCEL Converter. Save JSON to EXCEL PHP.
+keywords: [PHP Aspose.Cells., JSON to EXCEL in PHP., PHP JSON to EXCEL saveformat., JSON to EXCEL PHP., PHP Convert JSON to EXCEL., Save JSON to EXCEL PHP., JSON to EXCEL Converter., Save JSON as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -78,7 +78,33 @@ There are three options to install "Aspose.Cells for PHP via Java" onto your sys
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON to many other file formats including few listed below." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-bmp/" name="JSON TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-emf/" name="JSON TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-gif/" name="JSON TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-html/" name="JSON TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-md/" name="JSON TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-mhtml/" name="JSON TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-ods/" name="JSON TO ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-pdf/" name="JSON TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-png/" name="JSON TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-svg/" name="JSON TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-tiff/" name="JSON TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-tsv/" name="JSON TO TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-txt/" name="JSON TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xls/" name="JSON TO XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xlsb/" name="JSON TO XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xlsm/" name="JSON TO XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xlsx/" name="JSON TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xlt/" name="JSON TO XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xltm/" name="JSON TO XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xltx/" name="JSON TO XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xml/" name="JSON TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/json-to-xps/" name="JSON TO XPS" description="XML Paper Specifications" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

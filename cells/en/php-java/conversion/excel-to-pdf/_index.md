@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to PDF - EXCEL to PDF Converter
-description: Aspose Excel. PHP Aspose.Cells. EXCEL to PDF in PHP. PHP Convert EXCEL to PDF saveformat. PHP EXCEL to PDF format. Save EXCEL to PDF PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., EXCEL to PDF in PHP., PHP EXCEL to PDF saveformat., EXCEL to PDF PHP., PHP Convert EXCEL to PDF]
+description: PHP Aspose.Cells. EXCEL to PDF in PHP. PHP Convert EXCEL to PDF saveformat. PHP EXCEL to PDF Converter. Save EXCEL to PDF PHP.
+keywords: [PHP Aspose.Cells., EXCEL to PDF in PHP., PHP EXCEL to PDF saveformat., EXCEL to PDF PHP., PHP Convert EXCEL to PDF., Save EXCEL to PDF PHP., EXCEL to PDF Converter., Save EXCEL as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -78,7 +78,33 @@ There are three options to install "Aspose.Cells for PHP via Java" onto your sys
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL to many other file formats including few listed below." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-bmp/" name="EXCEL TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-emf/" name="EXCEL TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-gif/" name="EXCEL TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-html/" name="EXCEL TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-md/" name="EXCEL TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-mhtml/" name="EXCEL TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-ods/" name="EXCEL TO ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-pdf/" name="EXCEL TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-png/" name="EXCEL TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-svg/" name="EXCEL TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-tiff/" name="EXCEL TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-tsv/" name="EXCEL TO TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-txt/" name="EXCEL TO TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xls/" name="EXCEL TO XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xlsb/" name="EXCEL TO XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xlsm/" name="EXCEL TO XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xlsx/" name="EXCEL TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xlt/" name="EXCEL TO XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xltm/" name="EXCEL TO XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xltx/" name="EXCEL TO XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xml/" name="EXCEL TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-xps/" name="EXCEL TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/excel-to-json/" name="EXCEL TO JSON" description="JavaScript Object Notation" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

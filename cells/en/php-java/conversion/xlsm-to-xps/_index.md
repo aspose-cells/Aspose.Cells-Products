@@ -91,8 +91,6 @@ There are three options to install "Aspose.Cells for PHP via Java" onto your sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-png/" name="XLSM TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-svg/" name="XLSM TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-tiff/" name="XLSM TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-tsv/" name="XLSM TO TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-txt/" name="XLSM TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xls/" name="XLSM TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xlsb/" name="XLSM TO XLSB" description="Binary Excel Workbook File" >}}
 
@@ -100,9 +98,7 @@ There are three options to install "Aspose.Cells for PHP via Java" onto your sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xlt/" name="XLSM TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xltm/" name="XLSM TO XLTM" description="Excel Macro-enabled Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xltx/" name="XLSM TO XLTX" description="Office OpenXML Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xml/" name="XLSM TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-xps/" name="XLSM TO XPS" description="XML Paper Specifications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsm-to-json/" name="XLSM TO JSON" description="JavaScript Object Notation" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsb File - Recover xlsb File
+title: Python Repair xlsb - Recover and Fix Corrupted xlsb File
 url: /python-java/recovery/repair-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsb file. xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Repair a corrupted xlsb file., Python Recover xlsb file.]
+description: Python Aspose.Cells. Repair xlsb. Fix xlsb file. xlsb recovery tool. xlsb corruption. Restore xlsb data. xlsb file recovery. Recover corrupted xlsb file.
+keywords: [Python Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

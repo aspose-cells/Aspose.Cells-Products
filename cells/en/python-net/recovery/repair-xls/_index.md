@@ -1,8 +1,8 @@
 ---
-title: Python Repair xls File - Recover xls File
+title: Python Repair xls - Recover and Fix Corrupted xls File
 url: /python-net/recovery/repair-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xls file. xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Repair a corrupted xls file., Python Recover xls file.]
+description: Python Aspose.Cells. Repair xls. Fix xls file. xls recovery tool. xls corruption. Restore xls data. xls file recovery. Recover corrupted xls file.
+keywords: [Python Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

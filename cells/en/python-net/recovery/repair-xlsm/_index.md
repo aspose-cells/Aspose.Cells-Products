@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsm File - Recover xlsm File
+title: Python Repair xlsm - Recover and Fix Corrupted xlsm File
 url: /python-net/recovery/repair-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsm file. xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells. Repair xlsm. Fix xlsm file. xlsm recovery tool. xlsm corruption. Restore xlsm data. xlsm file recovery. Recover corrupted xlsm file.
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

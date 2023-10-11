@@ -1,8 +1,8 @@
 ---
-title: C# Repair excel File - Recover excel File
+title: C# Repair excel - Recover and Fix Corrupted excel File
 url: /net/recovery/repair-excel/ 
-description: Aspose Excel. C# Aspose.Cells. C# Repair excel file. excel repair tool. Repair a corrupted excel file. Recover a corrupted excel file within .NET application.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel file., Repair a corrupted excel file., C# Recover excel file.]
+description: C# Aspose.Cells. Repair excel. Fix excel file. excel recovery tool. excel corruption. Restore excel data. excel file recovery. Recover corrupted excel file.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

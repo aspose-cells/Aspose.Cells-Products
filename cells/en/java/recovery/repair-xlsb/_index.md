@@ -1,8 +1,8 @@
 ---
-title: Java Repair xlsb File - Recover xlsb File
+title: Java Repair xlsb - Recover and Fix Corrupted xlsb File
 url: /java/recovery/repair-xlsb/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair xlsb file. xlsb repair tool. Repair a corrupted xlsb file. Recover a corrupted xlsb file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsb file., Repair a corrupted xlsb file., Java Recover xlsb file.]
+description: Java Aspose.Cells. Repair xlsb. Fix xlsb file. xlsb recovery tool. xlsb corruption. Restore xlsb data. xlsb file recovery. Recover corrupted xlsb file.
+keywords: [Java Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

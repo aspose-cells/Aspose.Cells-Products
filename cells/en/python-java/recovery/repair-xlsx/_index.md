@@ -1,8 +1,8 @@
 ---
-title: Python Repair xlsx File - Recover xlsx File
+title: Python Repair xlsx - Recover and Fix Corrupted xlsx File
 url: /python-java/recovery/repair-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair xlsx file. xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Python Aspose.Cells. Repair xlsx. Fix xlsx file. xlsx recovery tool. xlsx corruption. Restore xlsx data. xlsx file recovery. Recover corrupted xlsx file.
+keywords: [Python Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

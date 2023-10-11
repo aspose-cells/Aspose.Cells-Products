@@ -1,8 +1,8 @@
 ---
-title: Python Repair ods File - Recover ods File
+title: Python Repair ods - Recover and Fix Corrupted ods File
 url: /python-java/recovery/repair-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Python Repair ods file. ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within Python application.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Repair a corrupted ods file., Python Recover ods file.]
+description: Python Aspose.Cells. Repair ods. Fix ods file. ods recovery tool. ods corruption. Restore ods data. ods file recovery. Recover corrupted ods file.
+keywords: [Python Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

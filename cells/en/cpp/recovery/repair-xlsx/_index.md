@@ -1,8 +1,8 @@
 ---
-title: C++ Repair xlsx File - Recover xlsx File
+title: C++ Repair xlsx - Recover and Fix Corrupted xlsx File
 url: /cpp/recovery/repair-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Repair xlsx file. xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within C++ application.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx file., Repair a corrupted xlsx file., C++ Recover xlsx file.]
+description: C++ Aspose.Cells. Repair xlsx. Fix xlsx file. xlsx recovery tool. xlsx corruption. Restore xlsx data. xlsx file recovery. Recover corrupted xlsx file.
+keywords: [C++ Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

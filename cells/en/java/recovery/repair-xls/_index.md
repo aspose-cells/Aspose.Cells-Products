@@ -1,8 +1,8 @@
 ---
-title: Java Repair xls File - Recover xls File
+title: Java Repair xls - Recover and Fix Corrupted xls File
 url: /java/recovery/repair-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair xls file. xls repair tool. Repair a corrupted xls file. Recover a corrupted xls file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Repair a corrupted xls file., Java Recover xls file.]
+description: Java Aspose.Cells. Repair xls. Fix xls file. xls recovery tool. xls corruption. Restore xls data. xls file recovery. Recover corrupted xls file.
+keywords: [Java Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

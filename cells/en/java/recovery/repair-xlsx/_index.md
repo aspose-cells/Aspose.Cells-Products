@@ -1,8 +1,8 @@
 ---
-title: Java Repair xlsx File - Recover xlsx File
+title: Java Repair xlsx - Recover and Fix Corrupted xlsx File
 url: /java/recovery/repair-xlsx/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair xlsx file. xlsx repair tool. Repair a corrupted xlsx file. Recover a corrupted xlsx file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsx file., Repair a corrupted xlsx file., Java Recover xlsx file.]
+description: Java Aspose.Cells. Repair xlsx. Fix xlsx file. xlsx recovery tool. xlsx corruption. Restore xlsx data. xlsx file recovery. Recover corrupted xlsx file.
+keywords: [Java Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: Java Repair ods File - Recover ods File
+title: Java Repair ods - Recover and Fix Corrupted ods File
 url: /java/recovery/repair-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair ods file. ods repair tool. Repair a corrupted ods file. Recover a corrupted ods file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ods file., Repair a corrupted ods file., Java Recover ods file.]
+description: Java Aspose.Cells. Repair ods. Fix ods file. ods recovery tool. ods corruption. Restore ods data. ods file recovery. Recover corrupted ods file.
+keywords: [Java Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

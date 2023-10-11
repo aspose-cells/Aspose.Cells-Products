@@ -1,8 +1,8 @@
 ---
-title: C++ Repair xlsm File - Recover xlsm File
+title: C++ Repair xlsm - Recover and Fix Corrupted xlsm File
 url: /cpp/recovery/repair-xlsm/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Repair xlsm file. xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within C++ application.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsm file., Repair a corrupted xlsm file., C++ Recover xlsm file.]
+description: C++ Aspose.Cells. Repair xlsm. Fix xlsm file. xlsm recovery tool. xlsm corruption. Restore xlsm data. xlsm file recovery. Recover corrupted xlsm file.
+keywords: [C++ Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

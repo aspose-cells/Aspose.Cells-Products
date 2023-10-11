@@ -1,8 +1,8 @@
 ---
-title: Java Repair xlsm File - Recover xlsm File
+title: Java Repair xlsm - Recover and Fix Corrupted xlsm File
 url: /java/recovery/repair-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Java Repair xlsm file. xlsm repair tool. Repair a corrupted xlsm file. Recover a corrupted xlsm file within Java application.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsm file., Repair a corrupted xlsm file., Java Recover xlsm file.]
+description: Java Aspose.Cells. Repair xlsm. Fix xlsm file. xlsm recovery tool. xlsm corruption. Restore xlsm data. xlsm file recovery. Recover corrupted xlsm file.
+keywords: [Java Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

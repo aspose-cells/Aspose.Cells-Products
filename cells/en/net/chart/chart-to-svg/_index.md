@@ -1,6 +1,7 @@
 ---
 title:  Convert chart to SVG images via .NET 
 description: C# source code to convert chart in XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to svg., c# Save chart to svg., c# chart to svg]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

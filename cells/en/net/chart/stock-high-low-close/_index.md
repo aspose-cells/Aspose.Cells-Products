@@ -2,7 +2,7 @@
 title: Create High-Low-Close Stock Charts via C#
 
 description: C# Sample code for creating High-Low-Close Stock charts to Excel using .NET Library. Use this code for creating a High-Low-Close Stock chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
-
+keywords: [C# Aspose.Cells., c# add High-Low-Close Stock Chart., c# insert High-Low-Close Stock Chart., c# create High-Low-Close Stock Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

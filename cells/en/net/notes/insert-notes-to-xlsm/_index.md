@@ -2,6 +2,7 @@
 title: Insert notes to XLSM file via .NET
 url: /net/notes/insert-notes-to-xlsm/ 
 description: Insert notes to XLSM using C#. Use API example code to insert notes within .NET application.
+keywords: [C# Aspose.Cells., add XLSM notes., insert XLSM notes., access XLSM notes., remove XLSM notes., delete XLSM notes., add notes in XLSM., insert notes in XLSM., access notes in XLSM., remove notes in XLSM., delete notes in XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

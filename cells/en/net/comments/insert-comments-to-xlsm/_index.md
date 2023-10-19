@@ -2,6 +2,7 @@
 title: Insert comments to XLSM file via .NET
 url: /net/comments/insert-comments-to-xlsm/ 
 description: Insert comments to XLSM using C#. Use API example code to insert comments within .NET application.
+keywords: [C# Aspose.Cells., add XLSM comments., insert XLSM comments., access XLSM comments., remove XLSM comments., delete XLSM comments., add comments in XLSM., insert comments in XLSM., access comments in XLSM., remove comments in XLSM., delete comments in XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title:  Convert chart to JPG(JPEG) images via .NET 
 description: C# source code to convert chart in XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to jpg or jpeg., c# Save chart to jpg or jpeg., c# chart to jpg or jpeg]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Insert comments to XLSB file via .NET
 url: /net/comments/insert-comments-to-xlsb/ 
 description: Insert comments to XLSB using C#. Use API example code to insert comments within .NET application.
+keywords: [C# Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Insert comments to XLSX file via .NET
 url: /net/comments/insert-comments-to-xlsx/ 
 description: Insert comments to XLSX using C#. Use API example code to insert comments within .NET application.
+keywords: [C# Aspose.Cells., add XLSX comments., insert XLSX comments., access XLSX comments., remove XLSX comments., delete XLSX comments., add comments in XLSX., insert comments in XLSX., access comments in XLSX., remove comments in XLSX., delete comments in XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

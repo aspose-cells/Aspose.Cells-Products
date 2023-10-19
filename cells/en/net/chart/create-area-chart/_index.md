@@ -2,7 +2,7 @@
 title: Create Area Charts via C#
 
 description: C# Sample code for creating Area charts to Excel using .NET Library. Use this code for creating an Area chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
-
+keywords: [C# Aspose.Cells., c# add Area Chart., c# insert Area Chart., c# create Area Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

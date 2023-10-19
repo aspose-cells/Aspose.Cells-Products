@@ -2,7 +2,7 @@
 title: Create Bar Charts via C#
 
 description: C# Sample code for creating Bar charts to Excel using .NET Library. Use this code for creating a Bar chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
-
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

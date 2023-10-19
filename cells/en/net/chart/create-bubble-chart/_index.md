@@ -2,7 +2,7 @@
 title: Create Bubble Charts via C#
 
 description: C# Sample code for creating Bubble charts to Excel using .NET Library. Use this code for creating a {chart} chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
-
+keywords: [C# Aspose.Cells., c# add Bubble Chart., c# insert Bubble Chart., c# create Bubble Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Insert notes to ODS file via .NET
 url: /net/notes/insert-notes-to-ods/ 
 description: Insert notes to ODS using C#. Use API example code to insert notes within .NET application.
+keywords: [C# Aspose.Cells., add ODS notes., insert ODS notes., access ODS notes., remove ODS notes., delete ODS notes., add notes in ODS., insert notes in ODS., access notes in ODS., remove notes in ODS., delete notes in ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

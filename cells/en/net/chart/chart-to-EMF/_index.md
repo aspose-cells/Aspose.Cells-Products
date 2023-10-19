@@ -1,6 +1,7 @@
 ---
 title:  Convert chart to EMF images via .NET 
 description: C# source code to convert chart in XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to emf., c# Save chart to emf., c# chart to emf]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

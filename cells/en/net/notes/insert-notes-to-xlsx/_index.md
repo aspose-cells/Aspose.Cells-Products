@@ -2,6 +2,7 @@
 title: Insert notes to XLSX file via .NET
 url: /net/notes/insert-notes-to-xlsx/ 
 description: Insert notes to XLSX using C#. Use API example code to insert notes within .NET application.
+keywords: [C# Aspose.Cells., add XLSX notes., insert XLSX notes., access XLSX notes., remove XLSX notes., delete XLSX notes., add notes in XLSX., insert notes in XLSX., access notes in XLSX., remove notes in XLSX., delete notes in XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

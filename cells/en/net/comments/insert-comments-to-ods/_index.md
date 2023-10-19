@@ -2,6 +2,7 @@
 title: Insert comments to ODS file via .NET
 url: /net/comments/insert-comments-to-ods/ 
 description: Insert comments to ODS using C#. Use API example code to insert comments within .NET application.
+keywords: [C# Aspose.Cells., add ODS comments., insert ODS comments., access ODS comments., remove ODS comments., delete ODS comments., add comments in ODS., insert comments in ODS., access comments in ODS., remove comments in ODS., delete comments in ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

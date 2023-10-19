@@ -2,6 +2,7 @@
 title: Insert comments to ODS file via Python
 url: /python-java/comments/insert-comments-to-ods/ 
 description: Insert comments to ODS using Python. Use API example code to insert comments within Python application.
+keywords: [Python Aspose.Cells., add ODS comments., insert ODS comments., access ODS comments., remove ODS comments., delete ODS comments., add comments in ODS., insert comments in ODS., access comments in ODS., remove comments in ODS., delete comments in ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Insert comments to ODS using Python. Use API example code to insert
 
 {{% blocks/products/pf/agp/content h2="Insert comments in ODS File Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily insert comments in ODS file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+With Aspose.Cells for Python library, you can easily insert comments in ODS file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python via Java from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

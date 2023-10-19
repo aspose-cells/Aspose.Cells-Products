@@ -2,7 +2,7 @@
 title: Create Scatter Charts via C#
 
 description: C# Sample code for creating Scatter charts to Excel using .NET Library. Use this code for creating a Scatter chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
-
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

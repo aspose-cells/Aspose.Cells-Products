@@ -45,9 +45,13 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLSX a PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="python" %}}
+{{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "Convert-XLSX-to-PDFA.py" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
  
 <!-- aboutfile Starts -->
 

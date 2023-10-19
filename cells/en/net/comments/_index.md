@@ -2,6 +2,7 @@
 title: Insert comments in Excel via .NET
 
 description: C# source codes that how to insert comment into Microsoft Excel files using .NET Library. 
+keywords: [C# Aspose.Cells., add excel comments., insert excel comments., access excel comments., remove excel comments., delete excel comments., add comments in excel., insert comments in excel., access comments in excel., remove comments in excel., delete comments in excel]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

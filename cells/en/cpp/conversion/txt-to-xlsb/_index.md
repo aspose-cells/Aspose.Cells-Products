@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to XLSB - TXT to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to XLSB in C++. C++ Convert TXT to XLSB saveformat. C++ TXT to XLSB format. Save TXT to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to XLSB in C++., C++ TXT to XLSB saveformat., TXT to XLSB C++., C++ Convert TXT to XLSB]
+description: Aspose Excel. Convert TXT to XLSB quickly and easily with Aspose.Cells. C++ TXT to XLSB. C++ Save TXT to XLSB. Save TXT as XLSB using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to XLSB in C++., Save TXT to XLSB using C++., C++ TXT to XLSB saveformat., TXT to XLSB Converter., C++ Save TXT as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

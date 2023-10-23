@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLS - PNG to XLS Converter
-description: PHP Aspose.Cells. PNG to XLS in PHP. PHP Convert PNG to XLS saveformat. PHP PNG to XLS Converter. Save PNG to XLS PHP.
-keywords: [PHP Aspose.Cells., PNG to XLS in PHP., PHP PNG to XLS saveformat., PNG to XLS PHP., PHP Convert PNG to XLS., Save PNG to XLS PHP., PNG to XLS Converter., Save PNG as XLS]
+description: Aspose Excel. Convert PNG to XLS quickly and easily with Aspose.Cells. PHP PNG to XLS. PHP Save PNG to XLS. Save PNG as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLS in PHP., Save PNG to XLS using PHP., PHP PNG to XLS saveformat., PNG to XLS Converter., PHP Save PNG as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

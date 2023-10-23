@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to FODS - EXCEL to FODS Converter
-description: PHP Aspose.Cells. EXCEL to FODS in PHP. PHP Convert EXCEL to FODS saveformat. PHP EXCEL to FODS Converter. Save EXCEL to FODS PHP.
-keywords: [PHP Aspose.Cells., EXCEL to FODS in PHP., PHP EXCEL to FODS saveformat., EXCEL to FODS PHP., PHP Convert EXCEL to FODS., Save EXCEL to FODS PHP., EXCEL to FODS Converter., Save EXCEL as FODS]
+description: Aspose Excel. Convert EXCEL to FODS quickly and easily with Aspose.Cells. PHP EXCEL to FODS. PHP Save EXCEL to FODS. Save EXCEL as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to FODS in PHP., Save EXCEL to FODS using PHP., PHP EXCEL to FODS saveformat., EXCEL to FODS Converter., PHP Save EXCEL as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLS to DIF - XLS to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to DIF in Python. Python Convert XLS to DIF saveformat. Python XLS to DIF format. Save XLS to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to DIF in Python., Python XLS to DIF saveformat., XLS to DIF Python., Python Convert XLS to DIF]
+description: Aspose Excel. Convert XLS to DIF quickly and easily with Aspose.Cells. Python XLS to DIF. Python Save XLS to DIF. Save XLS as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to DIF in Python., Save XLS to DIF using Python., Python XLS to DIF saveformat., XLS to DIF Converter., Python Save XLS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

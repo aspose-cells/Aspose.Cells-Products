@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to FODS - FODS to FODS Converter
-description: PHP Aspose.Cells. FODS to FODS in PHP. PHP Convert FODS to FODS saveformat. PHP FODS to FODS Converter. Save FODS to FODS PHP.
-keywords: [PHP Aspose.Cells., FODS to FODS in PHP., PHP FODS to FODS saveformat., FODS to FODS PHP., PHP Convert FODS to FODS., Save FODS to FODS PHP., FODS to FODS Converter., Save FODS as FODS]
+description: Aspose Excel. Convert FODS to FODS quickly and easily with Aspose.Cells. PHP FODS to FODS. PHP Save FODS to FODS. Save FODS as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to FODS in PHP., Save FODS to FODS using PHP., PHP FODS to FODS saveformat., FODS to FODS Converter., PHP Save FODS as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

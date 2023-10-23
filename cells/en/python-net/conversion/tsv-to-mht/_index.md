@@ -1,7 +1,7 @@
 ---
 title: Python TSV to MHT - TSV to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. TSV to MHT in Python. Python Convert TSV to MHT saveformat. Python TSV to MHT format. Save TSV to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TSV to MHT in Python., Python TSV to MHT saveformat., TSV to MHT Python., Python Convert TSV to MHT]
+description: Aspose Excel. Convert TSV to MHT quickly and easily with Aspose.Cells. Python TSV to MHT. Python Save TSV to MHT. Save TSV as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to MHT in Python., Save TSV to MHT using Python., Python TSV to MHT saveformat., TSV to MHT Converter., Python Save TSV as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

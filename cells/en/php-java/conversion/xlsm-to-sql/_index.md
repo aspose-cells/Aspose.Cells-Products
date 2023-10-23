@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to SQL - XLSM to SQL Converter
-description: PHP Aspose.Cells. XLSM to SQL in PHP. PHP Convert XLSM to SQL saveformat. PHP XLSM to SQL Converter. Save XLSM to SQL PHP.
-keywords: [PHP Aspose.Cells., XLSM to SQL in PHP., PHP XLSM to SQL saveformat., XLSM to SQL PHP., PHP Convert XLSM to SQL., Save XLSM to SQL PHP., XLSM to SQL Converter., Save XLSM as SQL]
+description: Aspose Excel. Convert XLSM to SQL quickly and easily with Aspose.Cells. PHP XLSM to SQL. PHP Save XLSM to SQL. Save XLSM as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to SQL in PHP., Save XLSM to SQL using PHP., PHP XLSM to SQL saveformat., XLSM to SQL Converter., PHP Save XLSM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

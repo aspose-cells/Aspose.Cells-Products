@@ -1,7 +1,7 @@
 ---
 title: Java PNG to XPS - PNG to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to XPS in Java. Java Convert PNG to XPS saveformat. Java PNG to XPS format. Save PNG to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to XPS in Java., Java PNG to XPS saveformat., PNG to XPS Java., Java Convert PNG to XPS]
+description: Aspose Excel. Convert PNG to XPS quickly and easily with Aspose.Cells. Java PNG to XPS. Java Save PNG to XPS. Save PNG as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to XPS in Java., Save PNG to XPS using Java., Java PNG to XPS saveformat., PNG to XPS Converter., Java Save PNG as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

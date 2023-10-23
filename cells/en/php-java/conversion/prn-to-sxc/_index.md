@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to SXC - PRN to SXC Converter
-description: PHP Aspose.Cells. PRN to SXC in PHP. PHP Convert PRN to SXC saveformat. PHP PRN to SXC Converter. Save PRN to SXC PHP.
-keywords: [PHP Aspose.Cells., PRN to SXC in PHP., PHP PRN to SXC saveformat., PRN to SXC PHP., PHP Convert PRN to SXC., Save PRN to SXC PHP., PRN to SXC Converter., Save PRN as SXC]
+description: Aspose Excel. Convert PRN to SXC quickly and easily with Aspose.Cells. PHP PRN to SXC. PHP Save PRN to SXC. Save PRN as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to SXC in PHP., Save PRN to SXC using PHP., PHP PRN to SXC saveformat., PRN to SXC Converter., PHP Save PRN as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

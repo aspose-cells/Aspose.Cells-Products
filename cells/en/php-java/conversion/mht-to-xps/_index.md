@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to XPS - MHT to XPS Converter
-description: PHP Aspose.Cells. MHT to XPS in PHP. PHP Convert MHT to XPS saveformat. PHP MHT to XPS Converter. Save MHT to XPS PHP.
-keywords: [PHP Aspose.Cells., MHT to XPS in PHP., PHP MHT to XPS saveformat., MHT to XPS PHP., PHP Convert MHT to XPS., Save MHT to XPS PHP., MHT to XPS Converter., Save MHT as XPS]
+description: Aspose Excel. Convert MHT to XPS quickly and easily with Aspose.Cells. PHP MHT to XPS. PHP Save MHT to XPS. Save MHT as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to XPS in PHP., Save MHT to XPS using PHP., PHP MHT to XPS saveformat., MHT to XPS Converter., PHP Save MHT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

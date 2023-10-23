@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to GIF - XLSB to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to GIF in Python. Python Convert XLSB to GIF saveformat. Python XLSB to GIF format. Save XLSB to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to GIF in Python., Python XLSB to GIF saveformat., XLSB to GIF Python., Python Convert XLSB to GIF]
+description: Aspose Excel. Convert XLSB to GIF quickly and easily with Aspose.Cells. Python XLSB to GIF. Python Save XLSB to GIF. Save XLSB as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to GIF in Python., Save XLSB to GIF using Python., Python XLSB to GIF saveformat., XLSB to GIF Converter., Python Save XLSB as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

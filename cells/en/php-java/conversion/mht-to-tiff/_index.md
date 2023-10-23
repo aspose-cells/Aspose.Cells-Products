@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to TIFF - MHT to TIFF Converter
-description: PHP Aspose.Cells. MHT to TIFF in PHP. PHP Convert MHT to TIFF saveformat. PHP MHT to TIFF Converter. Save MHT to TIFF PHP.
-keywords: [PHP Aspose.Cells., MHT to TIFF in PHP., PHP MHT to TIFF saveformat., MHT to TIFF PHP., PHP Convert MHT to TIFF., Save MHT to TIFF PHP., MHT to TIFF Converter., Save MHT as TIFF]
+description: Aspose Excel. Convert MHT to TIFF quickly and easily with Aspose.Cells. PHP MHT to TIFF. PHP Save MHT to TIFF. Save MHT as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to TIFF in PHP., Save MHT to TIFF using PHP., PHP MHT to TIFF saveformat., MHT to TIFF Converter., PHP Save MHT as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

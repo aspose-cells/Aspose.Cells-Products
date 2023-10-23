@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to SQL - XLAM to SQL Converter
-description: PHP Aspose.Cells. XLAM to SQL in PHP. PHP Convert XLAM to SQL saveformat. PHP XLAM to SQL Converter. Save XLAM to SQL PHP.
-keywords: [PHP Aspose.Cells., XLAM to SQL in PHP., PHP XLAM to SQL saveformat., XLAM to SQL PHP., PHP Convert XLAM to SQL., Save XLAM to SQL PHP., XLAM to SQL Converter., Save XLAM as SQL]
+description: Aspose Excel. Convert XLAM to SQL quickly and easily with Aspose.Cells. PHP XLAM to SQL. PHP Save XLAM to SQL. Save XLAM as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to SQL in PHP., Save XLAM to SQL using PHP., PHP XLAM to SQL saveformat., XLAM to SQL Converter., PHP Save XLAM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

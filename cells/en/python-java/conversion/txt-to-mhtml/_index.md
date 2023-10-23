@@ -1,7 +1,7 @@
 ---
 title: Python TXT to MHTML - TXT to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to MHTML in Python. Python Convert TXT to MHTML saveformat. Python TXT to MHTML format. Save TXT to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to MHTML in Python., Python TXT to MHTML saveformat., TXT to MHTML Python., Python Convert TXT to MHTML]
+description: Aspose Excel. Convert TXT to MHTML quickly and easily with Aspose.Cells. Python TXT to MHTML. Python Save TXT to MHTML. Save TXT as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to MHTML in Python., Save TXT to MHTML using Python., Python TXT to MHTML saveformat., TXT to MHTML Converter., Python Save TXT as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

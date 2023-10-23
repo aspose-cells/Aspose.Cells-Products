@@ -1,7 +1,7 @@
 ---
 title: C# MHT to MD - MHT to MD Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to MD in C#. C# Convert MHT to MD saveformat. C# MHT to MD format. Save MHT to MD C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to MD in C#., C# MHT to MD saveformat., MHT to MD C#., C# Convert MHT to MD]
+description: Aspose Excel. Convert MHT to MD quickly and easily with Aspose.Cells. C# MHT to MD. C# Save MHT to MD. Save MHT as MD using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to MD in C#., Save MHT to MD using C#., C# MHT to MD saveformat., MHT to MD Converter., C# Save MHT as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

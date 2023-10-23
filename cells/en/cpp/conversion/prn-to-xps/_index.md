@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to XPS - PRN to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to XPS in C++. C++ Convert PRN to XPS saveformat. C++ PRN to XPS format. Save PRN to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to XPS in C++., C++ PRN to XPS saveformat., PRN to XPS C++., C++ Convert PRN to XPS]
+description: Aspose Excel. Convert PRN to XPS quickly and easily with Aspose.Cells. C++ PRN to XPS. C++ Save PRN to XPS. Save PRN as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to XPS in C++., Save PRN to XPS using C++., C++ PRN to XPS saveformat., PRN to XPS Converter., C++ Save PRN as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

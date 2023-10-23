@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to DOCX - FODS to DOCX Converter
-description: PHP Aspose.Cells. FODS to DOCX in PHP. PHP Convert FODS to DOCX saveformat. PHP FODS to DOCX Converter. Save FODS to DOCX PHP.
-keywords: [PHP Aspose.Cells., FODS to DOCX in PHP., PHP FODS to DOCX saveformat., FODS to DOCX PHP., PHP Convert FODS to DOCX., Save FODS to DOCX PHP., FODS to DOCX Converter., Save FODS as DOCX]
+description: Aspose Excel. Convert FODS to DOCX quickly and easily with Aspose.Cells. PHP FODS to DOCX. PHP Save FODS to DOCX. Save FODS as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to DOCX in PHP., Save FODS to DOCX using PHP., PHP FODS to DOCX saveformat., FODS to DOCX Converter., PHP Save FODS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

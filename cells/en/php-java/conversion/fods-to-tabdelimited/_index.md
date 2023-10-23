@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to TABDELIMITED - FODS to TABDELIMITED Converter
-description: PHP Aspose.Cells. FODS to TABDELIMITED in PHP. PHP Convert FODS to TABDELIMITED saveformat. PHP FODS to TABDELIMITED Converter. Save FODS to TABDELIMITED PHP.
-keywords: [PHP Aspose.Cells., FODS to TABDELIMITED in PHP., PHP FODS to TABDELIMITED saveformat., FODS to TABDELIMITED PHP., PHP Convert FODS to TABDELIMITED., Save FODS to TABDELIMITED PHP., FODS to TABDELIMITED Converter., Save FODS as TABDELIMITED]
+description: Aspose Excel. Convert FODS to TABDELIMITED quickly and easily with Aspose.Cells. PHP FODS to TABDELIMITED. PHP Save FODS to TABDELIMITED. Save FODS as TABDELIMITED using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to TABDELIMITED in PHP., Save FODS to TABDELIMITED using PHP., PHP FODS to TABDELIMITED saveformat., FODS to TABDELIMITED Converter., PHP Save FODS as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

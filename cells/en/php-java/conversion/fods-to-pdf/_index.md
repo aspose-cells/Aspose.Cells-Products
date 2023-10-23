@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to PDF - FODS to PDF Converter
-description: PHP Aspose.Cells. FODS to PDF in PHP. PHP Convert FODS to PDF saveformat. PHP FODS to PDF Converter. Save FODS to PDF PHP.
-keywords: [PHP Aspose.Cells., FODS to PDF in PHP., PHP FODS to PDF saveformat., FODS to PDF PHP., PHP Convert FODS to PDF., Save FODS to PDF PHP., FODS to PDF Converter., Save FODS as PDF]
+description: Aspose Excel. Convert FODS to PDF quickly and easily with Aspose.Cells. PHP FODS to PDF. PHP Save FODS to PDF. Save FODS as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to PDF in PHP., Save FODS to PDF using PHP., PHP FODS to PDF saveformat., FODS to PDF Converter., PHP Save FODS as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

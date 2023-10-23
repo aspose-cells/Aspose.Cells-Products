@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to XPS - MHTML to XPS Converter
-description: PHP Aspose.Cells. MHTML to XPS in PHP. PHP Convert MHTML to XPS saveformat. PHP MHTML to XPS Converter. Save MHTML to XPS PHP.
-keywords: [PHP Aspose.Cells., MHTML to XPS in PHP., PHP MHTML to XPS saveformat., MHTML to XPS PHP., PHP Convert MHTML to XPS., Save MHTML to XPS PHP., MHTML to XPS Converter., Save MHTML as XPS]
+description: Aspose Excel. Convert MHTML to XPS quickly and easily with Aspose.Cells. PHP MHTML to XPS. PHP Save MHTML to XPS. Save MHTML as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to XPS in PHP., Save MHTML to XPS using PHP., PHP MHTML to XPS saveformat., MHTML to XPS Converter., PHP Save MHTML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

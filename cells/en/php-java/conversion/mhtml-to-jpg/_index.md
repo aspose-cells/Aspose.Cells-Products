@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to JPG - MHTML to JPG Converter
-description: PHP Aspose.Cells. MHTML to JPG in PHP. PHP Convert MHTML to JPG saveformat. PHP MHTML to JPG Converter. Save MHTML to JPG PHP.
-keywords: [PHP Aspose.Cells., MHTML to JPG in PHP., PHP MHTML to JPG saveformat., MHTML to JPG PHP., PHP Convert MHTML to JPG., Save MHTML to JPG PHP., MHTML to JPG Converter., Save MHTML as JPG]
+description: Aspose Excel. Convert MHTML to JPG quickly and easily with Aspose.Cells. PHP MHTML to JPG. PHP Save MHTML to JPG. Save MHTML as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to JPG in PHP., Save MHTML to JPG using PHP., PHP MHTML to JPG saveformat., MHTML to JPG Converter., PHP Save MHTML as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

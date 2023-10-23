@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to JPEG - XLSB to JPEG Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to JPEG in Python. Python Convert XLSB to JPEG saveformat. Python XLSB to JPEG format. Save XLSB to JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to JPEG in Python., Python XLSB to JPEG saveformat., XLSB to JPEG Python., Python Convert XLSB to JPEG]
+description: Aspose Excel. Convert XLSB to JPEG quickly and easily with Aspose.Cells. Python XLSB to JPEG. Python Save XLSB to JPEG. Save XLSB as JPEG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to JPEG in Python., Save XLSB to JPEG using Python., Python XLSB to JPEG saveformat., XLSB to JPEG Converter., Python Save XLSB as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

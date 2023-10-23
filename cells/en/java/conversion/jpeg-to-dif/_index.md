@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to DIF - JPEG to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. JPEG to DIF in Java. Java Convert JPEG to DIF saveformat. Java JPEG to DIF format. Save JPEG to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPEG to DIF in Java., Java JPEG to DIF saveformat., JPEG to DIF Java., Java Convert JPEG to DIF]
+description: Aspose Excel. Convert JPEG to DIF quickly and easily with Aspose.Cells. Java JPEG to DIF. Java Save JPEG to DIF. Save JPEG as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to DIF in Java., Save JPEG to DIF using Java., Java JPEG to DIF saveformat., JPEG to DIF Converter., Java Save JPEG as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to TXT - FODS to TXT Converter
-description: PHP Aspose.Cells. FODS to TXT in PHP. PHP Convert FODS to TXT saveformat. PHP FODS to TXT Converter. Save FODS to TXT PHP.
-keywords: [PHP Aspose.Cells., FODS to TXT in PHP., PHP FODS to TXT saveformat., FODS to TXT PHP., PHP Convert FODS to TXT., Save FODS to TXT PHP., FODS to TXT Converter., Save FODS as TXT]
+description: Aspose Excel. Convert FODS to TXT quickly and easily with Aspose.Cells. PHP FODS to TXT. PHP Save FODS to TXT. Save FODS as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to TXT in PHP., Save FODS to TXT using PHP., PHP FODS to TXT saveformat., FODS to TXT Converter., PHP Save FODS as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# JPG to WORD - JPG to WORD Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to WORD in C#. C# Convert JPG to WORD saveformat. C# JPG to WORD format. Save JPG to WORD C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to WORD in C#., C# JPG to WORD saveformat., JPG to WORD C#., C# Convert JPG to WORD]
+description: Aspose Excel. Convert JPG to WORD quickly and easily with Aspose.Cells. C# JPG to WORD. C# Save JPG to WORD. Save JPG as WORD using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to WORD in C#., Save JPG to WORD using C#., C# JPG to WORD saveformat., JPG to WORD Converter., C# Save JPG as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to CSV - MHT to CSV Converter
-description: PHP Aspose.Cells. MHT to CSV in PHP. PHP Convert MHT to CSV saveformat. PHP MHT to CSV Converter. Save MHT to CSV PHP.
-keywords: [PHP Aspose.Cells., MHT to CSV in PHP., PHP MHT to CSV saveformat., MHT to CSV PHP., PHP Convert MHT to CSV., Save MHT to CSV PHP., MHT to CSV Converter., Save MHT as CSV]
+description: Aspose Excel. Convert MHT to CSV quickly and easily with Aspose.Cells. PHP MHT to CSV. PHP Save MHT to CSV. Save MHT as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to CSV in PHP., Save MHT to CSV using PHP., PHP MHT to CSV saveformat., MHT to CSV Converter., PHP Save MHT as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

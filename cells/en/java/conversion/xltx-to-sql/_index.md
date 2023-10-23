@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to SQL - XLTX to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to SQL in Java. Java Convert XLTX to SQL saveformat. Java XLTX to SQL format. Save XLTX to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to SQL in Java., Java XLTX to SQL saveformat., XLTX to SQL Java., Java Convert XLTX to SQL]
+description: Aspose Excel. Convert XLTX to SQL quickly and easily with Aspose.Cells. Java XLTX to SQL. Java Save XLTX to SQL. Save XLTX as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to SQL in Java., Save XLTX to SQL using Java., Java XLTX to SQL saveformat., XLTX to SQL Converter., Java Save XLTX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

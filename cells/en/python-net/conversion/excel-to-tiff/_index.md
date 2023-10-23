@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to TIFF - EXCEL to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to TIFF in Python. Python Convert EXCEL to TIFF saveformat. Python EXCEL to TIFF format. Save EXCEL to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to TIFF in Python., Python EXCEL to TIFF saveformat., EXCEL to TIFF Python., Python Convert EXCEL to TIFF]
+description: Aspose Excel. Convert EXCEL to TIFF quickly and easily with Aspose.Cells. Python EXCEL to TIFF. Python Save EXCEL to TIFF. Save EXCEL as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to TIFF in Python., Save EXCEL to TIFF using Python., Python EXCEL to TIFF saveformat., EXCEL to TIFF Converter., Python Save EXCEL as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

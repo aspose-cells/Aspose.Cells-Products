@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to TABDELIMITED - XLS to TABDELIMITED Converter
-description: PHP Aspose.Cells. XLS to TABDELIMITED in PHP. PHP Convert XLS to TABDELIMITED saveformat. PHP XLS to TABDELIMITED Converter. Save XLS to TABDELIMITED PHP.
-keywords: [PHP Aspose.Cells., XLS to TABDELIMITED in PHP., PHP XLS to TABDELIMITED saveformat., XLS to TABDELIMITED PHP., PHP Convert XLS to TABDELIMITED., Save XLS to TABDELIMITED PHP., XLS to TABDELIMITED Converter., Save XLS as TABDELIMITED]
+description: Aspose Excel. Convert XLS to TABDELIMITED quickly and easily with Aspose.Cells. PHP XLS to TABDELIMITED. PHP Save XLS to TABDELIMITED. Save XLS as TABDELIMITED using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TABDELIMITED in PHP., Save XLS to TABDELIMITED using PHP., PHP XLS to TABDELIMITED saveformat., XLS to TABDELIMITED Converter., PHP Save XLS as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

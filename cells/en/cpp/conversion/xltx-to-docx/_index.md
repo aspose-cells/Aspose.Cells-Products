@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to DOCX - XLTX to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to DOCX in C++. C++ Convert XLTX to DOCX saveformat. C++ XLTX to DOCX format. Save XLTX to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to DOCX in C++., C++ XLTX to DOCX saveformat., XLTX to DOCX C++., C++ Convert XLTX to DOCX]
+description: Aspose Excel. Convert XLTX to DOCX quickly and easily with Aspose.Cells. C++ XLTX to DOCX. C++ Save XLTX to DOCX. Save XLTX as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to DOCX in C++., Save XLTX to DOCX using C++., C++ XLTX to DOCX saveformat., XLTX to DOCX Converter., C++ Save XLTX as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to XLTX - XLSM to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to XLTX in Python. Python Convert XLSM to XLTX saveformat. Python XLSM to XLTX format. Save XLSM to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to XLTX in Python., Python XLSM to XLTX saveformat., XLSM to XLTX Python., Python Convert XLSM to XLTX]
+description: Aspose Excel. Convert XLSM to XLTX quickly and easily with Aspose.Cells. Python XLSM to XLTX. Python Save XLSM to XLTX. Save XLSM as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to XLTX in Python., Save XLSM to XLTX using Python., Python XLSM to XLTX saveformat., XLSM to XLTX Converter., Python Save XLSM as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

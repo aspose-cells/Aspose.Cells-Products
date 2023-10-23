@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to ODS - EXCEL to ODS Converter
-description: PHP Aspose.Cells. EXCEL to ODS in PHP. PHP Convert EXCEL to ODS saveformat. PHP EXCEL to ODS Converter. Save EXCEL to ODS PHP.
-keywords: [PHP Aspose.Cells., EXCEL to ODS in PHP., PHP EXCEL to ODS saveformat., EXCEL to ODS PHP., PHP Convert EXCEL to ODS., Save EXCEL to ODS PHP., EXCEL to ODS Converter., Save EXCEL as ODS]
+description: Aspose Excel. Convert EXCEL to ODS quickly and easily with Aspose.Cells. PHP EXCEL to ODS. PHP Save EXCEL to ODS. Save EXCEL as ODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to ODS in PHP., Save EXCEL to ODS using PHP., PHP EXCEL to ODS saveformat., EXCEL to ODS Converter., PHP Save EXCEL as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

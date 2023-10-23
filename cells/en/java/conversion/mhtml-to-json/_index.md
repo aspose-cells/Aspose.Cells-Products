@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to JSON - MHTML to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to JSON in Java. Java Convert MHTML to JSON saveformat. Java MHTML to JSON format. Save MHTML to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to JSON in Java., Java MHTML to JSON saveformat., MHTML to JSON Java., Java Convert MHTML to JSON]
+description: Aspose Excel. Convert MHTML to JSON quickly and easily with Aspose.Cells. Java MHTML to JSON. Java Save MHTML to JSON. Save MHTML as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to JSON in Java., Save MHTML to JSON using Java., Java MHTML to JSON saveformat., MHTML to JSON Converter., Java Save MHTML as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,9 @@
 ---
-title: Add XLSM Annotation via C++ 
+title: Add or Remove XLSM Annotation via C++ 
 weight: 2860
 
 description: C++ sample code to delete XLSM format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

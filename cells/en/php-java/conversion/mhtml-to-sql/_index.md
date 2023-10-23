@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to SQL - MHTML to SQL Converter
-description: PHP Aspose.Cells. MHTML to SQL in PHP. PHP Convert MHTML to SQL saveformat. PHP MHTML to SQL Converter. Save MHTML to SQL PHP.
-keywords: [PHP Aspose.Cells., MHTML to SQL in PHP., PHP MHTML to SQL saveformat., MHTML to SQL PHP., PHP Convert MHTML to SQL., Save MHTML to SQL PHP., MHTML to SQL Converter., Save MHTML as SQL]
+description: Aspose Excel. Convert MHTML to SQL quickly and easily with Aspose.Cells. PHP MHTML to SQL. PHP Save MHTML to SQL. Save MHTML as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to SQL in PHP., Save MHTML to SQL using PHP., PHP MHTML to SQL saveformat., MHTML to SQL Converter., PHP Save MHTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

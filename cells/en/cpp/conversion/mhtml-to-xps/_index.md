@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to XPS - MHTML to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to XPS in C++. C++ Convert MHTML to XPS saveformat. C++ MHTML to XPS format. Save MHTML to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to XPS in C++., C++ MHTML to XPS saveformat., MHTML to XPS C++., C++ Convert MHTML to XPS]
+description: Aspose Excel. Convert MHTML to XPS quickly and easily with Aspose.Cells. C++ MHTML to XPS. C++ Save MHTML to XPS. Save MHTML as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to XPS in C++., Save MHTML to XPS using C++., C++ MHTML to XPS saveformat., MHTML to XPS Converter., C++ Save MHTML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

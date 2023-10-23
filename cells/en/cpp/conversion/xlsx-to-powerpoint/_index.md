@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to POWERPOINT - XLSX to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to POWERPOINT in C++. C++ Convert XLSX to POWERPOINT saveformat. C++ XLSX to POWERPOINT format. Save XLSX to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to POWERPOINT in C++., C++ XLSX to POWERPOINT saveformat., XLSX to POWERPOINT C++., C++ Convert XLSX to POWERPOINT]
+description: Aspose Excel. Convert XLSX to POWERPOINT quickly and easily with Aspose.Cells. C++ XLSX to POWERPOINT. C++ Save XLSX to POWERPOINT. Save XLSX as POWERPOINT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to POWERPOINT in C++., Save XLSX to POWERPOINT using C++., C++ XLSX to POWERPOINT saveformat., XLSX to POWERPOINT Converter., C++ Save XLSX as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

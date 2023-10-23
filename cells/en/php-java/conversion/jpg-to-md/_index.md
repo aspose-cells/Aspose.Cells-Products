@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to MD - JPG to MD Converter
-description: PHP Aspose.Cells. JPG to MD in PHP. PHP Convert JPG to MD saveformat. PHP JPG to MD Converter. Save JPG to MD PHP.
-keywords: [PHP Aspose.Cells., JPG to MD in PHP., PHP JPG to MD saveformat., JPG to MD PHP., PHP Convert JPG to MD., Save JPG to MD PHP., JPG to MD Converter., Save JPG as MD]
+description: Aspose Excel. Convert JPG to MD quickly and easily with Aspose.Cells. PHP JPG to MD. PHP Save JPG to MD. Save JPG as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to MD in PHP., Save JPG to MD using PHP., PHP JPG to MD saveformat., JPG to MD Converter., PHP Save JPG as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

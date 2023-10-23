@@ -1,7 +1,7 @@
 ---
 title: Java ODS to DIF - ODS to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. ODS to DIF in Java. Java Convert ODS to DIF saveformat. Java ODS to DIF format. Save ODS to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., ODS to DIF in Java., Java ODS to DIF saveformat., ODS to DIF Java., Java Convert ODS to DIF]
+description: Aspose Excel. Convert ODS to DIF quickly and easily with Aspose.Cells. Java ODS to DIF. Java Save ODS to DIF. Save ODS as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to DIF in Java., Save ODS to DIF using Java., Java ODS to DIF saveformat., ODS to DIF Converter., Java Save ODS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

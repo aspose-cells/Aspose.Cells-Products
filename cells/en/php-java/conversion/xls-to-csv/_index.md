@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to CSV - XLS to CSV Converter
-description: PHP Aspose.Cells. XLS to CSV in PHP. PHP Convert XLS to CSV saveformat. PHP XLS to CSV Converter. Save XLS to CSV PHP.
-keywords: [PHP Aspose.Cells., XLS to CSV in PHP., PHP XLS to CSV saveformat., XLS to CSV PHP., PHP Convert XLS to CSV., Save XLS to CSV PHP., XLS to CSV Converter., Save XLS as CSV]
+description: Aspose Excel. Convert XLS to CSV quickly and easily with Aspose.Cells. PHP XLS to CSV. PHP Save XLS to CSV. Save XLS as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to CSV in PHP., Save XLS to CSV using PHP., PHP XLS to CSV saveformat., XLS to CSV Converter., PHP Save XLS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

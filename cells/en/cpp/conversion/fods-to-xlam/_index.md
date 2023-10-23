@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to XLAM - FODS to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to XLAM in C++. C++ Convert FODS to XLAM saveformat. C++ FODS to XLAM format. Save FODS to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to XLAM in C++., C++ FODS to XLAM saveformat., FODS to XLAM C++., C++ Convert FODS to XLAM]
+description: Aspose Excel. Convert FODS to XLAM quickly and easily with Aspose.Cells. C++ FODS to XLAM. C++ Save FODS to XLAM. Save FODS as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to XLAM in C++., Save FODS to XLAM using C++., C++ FODS to XLAM saveformat., FODS to XLAM Converter., C++ Save FODS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to PPTX - ODS to PPTX Converter
-description: PHP Aspose.Cells. ODS to PPTX in PHP. PHP Convert ODS to PPTX saveformat. PHP ODS to PPTX Converter. Save ODS to PPTX PHP.
-keywords: [PHP Aspose.Cells., ODS to PPTX in PHP., PHP ODS to PPTX saveformat., ODS to PPTX PHP., PHP Convert ODS to PPTX., Save ODS to PPTX PHP., ODS to PPTX Converter., Save ODS as PPTX]
+description: Aspose Excel. Convert ODS to PPTX quickly and easily with Aspose.Cells. PHP ODS to PPTX. PHP Save ODS to PPTX. Save ODS as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to PPTX in PHP., Save ODS to PPTX using PHP., PHP ODS to PPTX saveformat., ODS to PPTX Converter., PHP Save ODS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

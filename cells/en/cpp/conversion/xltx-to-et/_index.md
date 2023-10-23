@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to ET - XLTX to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to ET in C++. C++ Convert XLTX to ET saveformat. C++ XLTX to ET format. Save XLTX to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to ET in C++., C++ XLTX to ET saveformat., XLTX to ET C++., C++ Convert XLTX to ET]
+description: Aspose Excel. Convert XLTX to ET quickly and easily with Aspose.Cells. C++ XLTX to ET. C++ Save XLTX to ET. Save XLTX as ET using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to ET in C++., Save XLTX to ET using C++., C++ XLTX to ET saveformat., XLTX to ET Converter., C++ Save XLTX as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

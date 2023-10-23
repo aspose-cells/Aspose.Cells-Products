@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to MHTML - HTM to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to MHTML in C++. C++ Convert HTM to MHTML saveformat. C++ HTM to MHTML format. Save HTM to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to MHTML in C++., C++ HTM to MHTML saveformat., HTM to MHTML C++., C++ Convert HTM to MHTML]
+description: Aspose Excel. Convert HTM to MHTML quickly and easily with Aspose.Cells. C++ HTM to MHTML. C++ Save HTM to MHTML. Save HTM as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to MHTML in C++., Save HTM to MHTML using C++., C++ HTM to MHTML saveformat., HTM to MHTML Converter., C++ Save HTM as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

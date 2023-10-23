@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to SXC - XLTX to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to SXC in Java. Java Convert XLTX to SXC saveformat. Java XLTX to SXC format. Save XLTX to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to SXC in Java., Java XLTX to SXC saveformat., XLTX to SXC Java., Java Convert XLTX to SXC]
+description: Aspose Excel. Convert XLTX to SXC quickly and easily with Aspose.Cells. Java XLTX to SXC. Java Save XLTX to SXC. Save XLTX as SXC using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to SXC in Java., Save XLTX to SXC using Java., Java XLTX to SXC saveformat., XLTX to SXC Converter., Java Save XLTX as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

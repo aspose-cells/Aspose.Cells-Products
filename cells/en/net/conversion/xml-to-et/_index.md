@@ -1,7 +1,7 @@
 ---
 title: C# XML to ET - XML to ET Converter
-description: Aspose Excel. C# Aspose.Cells. XML to ET in C#. C# Convert XML to ET saveformat. C# XML to ET format. Save XML to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XML to ET in C#., C# XML to ET saveformat., XML to ET C#., C# Convert XML to ET]
+description: Aspose Excel. Convert XML to ET quickly and easily with Aspose.Cells. C# XML to ET. C# Save XML to ET. Save XML as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XML to ET in C#., Save XML to ET using C#., C# XML to ET saveformat., XML to ET Converter., C# Save XML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

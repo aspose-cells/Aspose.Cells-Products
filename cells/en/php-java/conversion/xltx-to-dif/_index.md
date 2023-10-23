@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to DIF - XLTX to DIF Converter
-description: PHP Aspose.Cells. XLTX to DIF in PHP. PHP Convert XLTX to DIF saveformat. PHP XLTX to DIF Converter. Save XLTX to DIF PHP.
-keywords: [PHP Aspose.Cells., XLTX to DIF in PHP., PHP XLTX to DIF saveformat., XLTX to DIF PHP., PHP Convert XLTX to DIF., Save XLTX to DIF PHP., XLTX to DIF Converter., Save XLTX as DIF]
+description: Aspose Excel. Convert XLTX to DIF quickly and easily with Aspose.Cells. PHP XLTX to DIF. PHP Save XLTX to DIF. Save XLTX as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to DIF in PHP., Save XLTX to DIF using PHP., PHP XLTX to DIF saveformat., XLTX to DIF Converter., PHP Save XLTX as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

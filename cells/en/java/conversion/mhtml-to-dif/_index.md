@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to DIF - MHTML to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to DIF in Java. Java Convert MHTML to DIF saveformat. Java MHTML to DIF format. Save MHTML to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to DIF in Java., Java MHTML to DIF saveformat., MHTML to DIF Java., Java Convert MHTML to DIF]
+description: Aspose Excel. Convert MHTML to DIF quickly and easily with Aspose.Cells. Java MHTML to DIF. Java Save MHTML to DIF. Save MHTML as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to DIF in Java., Save MHTML to DIF using Java., Java MHTML to DIF saveformat., MHTML to DIF Converter., Java Save MHTML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

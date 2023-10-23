@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to XPS - XLSM to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to XPS in Java. Java Convert XLSM to XPS saveformat. Java XLSM to XPS format. Save XLSM to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to XPS in Java., Java XLSM to XPS saveformat., XLSM to XPS Java., Java Convert XLSM to XPS]
+description: Aspose Excel. Convert XLSM to XPS quickly and easily with Aspose.Cells. Java XLSM to XPS. Java Save XLSM to XPS. Save XLSM as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XPS in Java., Save XLSM to XPS using Java., Java XLSM to XPS saveformat., XLSM to XPS Converter., Java Save XLSM as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

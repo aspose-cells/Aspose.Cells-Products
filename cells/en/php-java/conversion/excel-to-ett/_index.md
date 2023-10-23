@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to ETT - EXCEL to ETT Converter
-description: PHP Aspose.Cells. EXCEL to ETT in PHP. PHP Convert EXCEL to ETT saveformat. PHP EXCEL to ETT Converter. Save EXCEL to ETT PHP.
-keywords: [PHP Aspose.Cells., EXCEL to ETT in PHP., PHP EXCEL to ETT saveformat., EXCEL to ETT PHP., PHP Convert EXCEL to ETT., Save EXCEL to ETT PHP., EXCEL to ETT Converter., Save EXCEL as ETT]
+description: Aspose Excel. Convert EXCEL to ETT quickly and easily with Aspose.Cells. PHP EXCEL to ETT. PHP Save EXCEL to ETT. Save EXCEL as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to ETT in PHP., Save EXCEL to ETT using PHP., PHP EXCEL to ETT saveformat., EXCEL to ETT Converter., PHP Save EXCEL as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

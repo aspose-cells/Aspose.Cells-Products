@@ -1,7 +1,7 @@
 ---
 title: Python TXT to PDF - TXT to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to PDF in Python. Python Convert TXT to PDF saveformat. Python TXT to PDF format. Save TXT to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to PDF in Python., Python TXT to PDF saveformat., TXT to PDF Python., Python Convert TXT to PDF]
+description: Aspose Excel. Convert TXT to PDF quickly and easily with Aspose.Cells. Python TXT to PDF. Python Save TXT to PDF. Save TXT as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to PDF in Python., Save TXT to PDF using Python., Python TXT to PDF saveformat., TXT to PDF Converter., Python Save TXT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

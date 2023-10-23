@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to JSON - ODS to JSON Converter
-description: PHP Aspose.Cells. ODS to JSON in PHP. PHP Convert ODS to JSON saveformat. PHP ODS to JSON Converter. Save ODS to JSON PHP.
-keywords: [PHP Aspose.Cells., ODS to JSON in PHP., PHP ODS to JSON saveformat., ODS to JSON PHP., PHP Convert ODS to JSON., Save ODS to JSON PHP., ODS to JSON Converter., Save ODS as JSON]
+description: Aspose Excel. Convert ODS to JSON quickly and easily with Aspose.Cells. PHP ODS to JSON. PHP Save ODS to JSON. Save ODS as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to JSON in PHP., Save ODS to JSON using PHP., PHP ODS to JSON saveformat., ODS to JSON Converter., PHP Save ODS as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

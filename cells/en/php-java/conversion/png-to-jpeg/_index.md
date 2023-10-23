@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to JPEG - PNG to JPEG Converter
-description: PHP Aspose.Cells. PNG to JPEG in PHP. PHP Convert PNG to JPEG saveformat. PHP PNG to JPEG Converter. Save PNG to JPEG PHP.
-keywords: [PHP Aspose.Cells., PNG to JPEG in PHP., PHP PNG to JPEG saveformat., PNG to JPEG PHP., PHP Convert PNG to JPEG., Save PNG to JPEG PHP., PNG to JPEG Converter., Save PNG as JPEG]
+description: Aspose Excel. Convert PNG to JPEG quickly and easily with Aspose.Cells. PHP PNG to JPEG. PHP Save PNG to JPEG. Save PNG as JPEG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to JPEG in PHP., Save PNG to JPEG using PHP., PHP PNG to JPEG saveformat., PNG to JPEG Converter., PHP Save PNG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

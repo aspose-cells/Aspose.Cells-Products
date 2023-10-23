@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to DIF - SXC to DIF Converter
-description: PHP Aspose.Cells. SXC to DIF in PHP. PHP Convert SXC to DIF saveformat. PHP SXC to DIF Converter. Save SXC to DIF PHP.
-keywords: [PHP Aspose.Cells., SXC to DIF in PHP., PHP SXC to DIF saveformat., SXC to DIF PHP., PHP Convert SXC to DIF., Save SXC to DIF PHP., SXC to DIF Converter., Save SXC as DIF]
+description: Aspose Excel. Convert SXC to DIF quickly and easily with Aspose.Cells. PHP SXC to DIF. PHP Save SXC to DIF. Save SXC as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to DIF in PHP., Save SXC to DIF using PHP., PHP SXC to DIF saveformat., SXC to DIF Converter., PHP Save SXC as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

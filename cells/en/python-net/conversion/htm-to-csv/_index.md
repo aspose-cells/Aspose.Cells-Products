@@ -1,7 +1,7 @@
 ---
 title: Python HTM to CSV - HTM to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to CSV in Python. Python Convert HTM to CSV saveformat. Python HTM to CSV format. Save HTM to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to CSV in Python., Python HTM to CSV saveformat., HTM to CSV Python., Python Convert HTM to CSV]
+description: Aspose Excel. Convert HTM to CSV quickly and easily with Aspose.Cells. Python HTM to CSV. Python Save HTM to CSV. Save HTM as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to CSV in Python., Save HTM to CSV using Python., Python HTM to CSV saveformat., HTM to CSV Converter., Python Save HTM as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

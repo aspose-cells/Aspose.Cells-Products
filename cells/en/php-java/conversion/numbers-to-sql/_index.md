@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to SQL - NUMBERS to SQL Converter
-description: PHP Aspose.Cells. NUMBERS to SQL in PHP. PHP Convert NUMBERS to SQL saveformat. PHP NUMBERS to SQL Converter. Save NUMBERS to SQL PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to SQL in PHP., PHP NUMBERS to SQL saveformat., NUMBERS to SQL PHP., PHP Convert NUMBERS to SQL., Save NUMBERS to SQL PHP., NUMBERS to SQL Converter., Save NUMBERS as SQL]
+description: Aspose Excel. Convert NUMBERS to SQL quickly and easily with Aspose.Cells. PHP NUMBERS to SQL. PHP Save NUMBERS to SQL. Save NUMBERS as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to SQL in PHP., Save NUMBERS to SQL using PHP., PHP NUMBERS to SQL saveformat., NUMBERS to SQL Converter., PHP Save NUMBERS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

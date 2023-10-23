@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLTX - PNG to XLTX Converter
-description: PHP Aspose.Cells. PNG to XLTX in PHP. PHP Convert PNG to XLTX saveformat. PHP PNG to XLTX Converter. Save PNG to XLTX PHP.
-keywords: [PHP Aspose.Cells., PNG to XLTX in PHP., PHP PNG to XLTX saveformat., PNG to XLTX PHP., PHP Convert PNG to XLTX., Save PNG to XLTX PHP., PNG to XLTX Converter., Save PNG as XLTX]
+description: Aspose Excel. Convert PNG to XLTX quickly and easily with Aspose.Cells. PHP PNG to XLTX. PHP Save PNG to XLTX. Save PNG as XLTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLTX in PHP., Save PNG to XLTX using PHP., PHP PNG to XLTX saveformat., PNG to XLTX Converter., PHP Save PNG as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java HTML to PPTX - HTML to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. HTML to PPTX in Java. Java Convert HTML to PPTX saveformat. Java HTML to PPTX format. Save HTML to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTML to PPTX in Java., Java HTML to PPTX saveformat., HTML to PPTX Java., Java Convert HTML to PPTX]
+description: Aspose Excel. Convert HTML to PPTX quickly and easily with Aspose.Cells. Java HTML to PPTX. Java Save HTML to PPTX. Save HTML as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to PPTX in Java., Save HTML to PPTX using Java., Java HTML to PPTX saveformat., HTML to PPTX Converter., Java Save HTML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

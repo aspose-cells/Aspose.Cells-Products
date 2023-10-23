@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to DIF - JPEG to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. JPEG to DIF in Python. Python Convert JPEG to DIF saveformat. Python JPEG to DIF format. Save JPEG to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPEG to DIF in Python., Python JPEG to DIF saveformat., JPEG to DIF Python., Python Convert JPEG to DIF]
+description: Aspose Excel. Convert JPEG to DIF quickly and easily with Aspose.Cells. Python JPEG to DIF. Python Save JPEG to DIF. Save JPEG as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to DIF in Python., Save JPEG to DIF using Python., Python JPEG to DIF saveformat., JPEG to DIF Converter., Python Save JPEG as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

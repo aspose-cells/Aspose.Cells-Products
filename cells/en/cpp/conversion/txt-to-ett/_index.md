@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to ETT - TXT to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to ETT in C++. C++ Convert TXT to ETT saveformat. C++ TXT to ETT format. Save TXT to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to ETT in C++., C++ TXT to ETT saveformat., TXT to ETT C++., C++ Convert TXT to ETT]
+description: Aspose Excel. Convert TXT to ETT quickly and easily with Aspose.Cells. C++ TXT to ETT. C++ Save TXT to ETT. Save TXT as ETT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to ETT in C++., Save TXT to ETT using C++., C++ TXT to ETT saveformat., TXT to ETT Converter., C++ Save TXT as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to SPREADSHEETML - FODS to SPREADSHEETML Converter
-description: PHP Aspose.Cells. FODS to SPREADSHEETML in PHP. PHP Convert FODS to SPREADSHEETML saveformat. PHP FODS to SPREADSHEETML Converter. Save FODS to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., FODS to SPREADSHEETML in PHP., PHP FODS to SPREADSHEETML saveformat., FODS to SPREADSHEETML PHP., PHP Convert FODS to SPREADSHEETML., Save FODS to SPREADSHEETML PHP., FODS to SPREADSHEETML Converter., Save FODS as SPREADSHEETML]
+description: Aspose Excel. Convert FODS to SPREADSHEETML quickly and easily with Aspose.Cells. PHP FODS to SPREADSHEETML. PHP Save FODS to SPREADSHEETML. Save FODS as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to SPREADSHEETML in PHP., Save FODS to SPREADSHEETML using PHP., PHP FODS to SPREADSHEETML saveformat., FODS to SPREADSHEETML Converter., PHP Save FODS as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

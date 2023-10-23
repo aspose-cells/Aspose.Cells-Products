@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to TIFF - JPG to TIFF Converter
-description: PHP Aspose.Cells. JPG to TIFF in PHP. PHP Convert JPG to TIFF saveformat. PHP JPG to TIFF Converter. Save JPG to TIFF PHP.
-keywords: [PHP Aspose.Cells., JPG to TIFF in PHP., PHP JPG to TIFF saveformat., JPG to TIFF PHP., PHP Convert JPG to TIFF., Save JPG to TIFF PHP., JPG to TIFF Converter., Save JPG as TIFF]
+description: Aspose Excel. Convert JPG to TIFF quickly and easily with Aspose.Cells. PHP JPG to TIFF. PHP Save JPG to TIFF. Save JPG as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to TIFF in PHP., Save JPG to TIFF using PHP., PHP JPG to TIFF saveformat., JPG to TIFF Converter., PHP Save JPG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

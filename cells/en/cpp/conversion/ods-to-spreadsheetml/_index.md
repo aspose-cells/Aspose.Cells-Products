@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to SPREADSHEETML - ODS to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to SPREADSHEETML in C++. C++ Convert ODS to SPREADSHEETML saveformat. C++ ODS to SPREADSHEETML format. Save ODS to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to SPREADSHEETML in C++., C++ ODS to SPREADSHEETML saveformat., ODS to SPREADSHEETML C++., C++ Convert ODS to SPREADSHEETML]
+description: Aspose Excel. Convert ODS to SPREADSHEETML quickly and easily with Aspose.Cells. C++ ODS to SPREADSHEETML. C++ Save ODS to SPREADSHEETML. Save ODS as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to SPREADSHEETML in C++., Save ODS to SPREADSHEETML using C++., C++ ODS to SPREADSHEETML saveformat., ODS to SPREADSHEETML Converter., C++ Save ODS as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to JSON - XLTM to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to JSON in Java. Java Convert XLTM to JSON saveformat. Java XLTM to JSON format. Save XLTM to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to JSON in Java., Java XLTM to JSON saveformat., XLTM to JSON Java., Java Convert XLTM to JSON]
+description: Aspose Excel. Convert XLTM to JSON quickly and easily with Aspose.Cells. Java XLTM to JSON. Java Save XLTM to JSON. Save XLTM as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to JSON in Java., Save XLTM to JSON using Java., Java XLTM to JSON saveformat., XLTM to JSON Converter., Java Save XLTM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

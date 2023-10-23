@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to MARKDOWN - TABDELIMITED to MARKDOWN Converter
-description: PHP Aspose.Cells. TABDELIMITED to MARKDOWN in PHP. PHP Convert TABDELIMITED to MARKDOWN saveformat. PHP TABDELIMITED to MARKDOWN Converter. Save TABDELIMITED to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to MARKDOWN in PHP., PHP TABDELIMITED to MARKDOWN saveformat., TABDELIMITED to MARKDOWN PHP., PHP Convert TABDELIMITED to MARKDOWN., Save TABDELIMITED to MARKDOWN PHP., TABDELIMITED to MARKDOWN Converter., Save TABDELIMITED as MARKDOWN]
+description: Aspose Excel. Convert TABDELIMITED to MARKDOWN quickly and easily with Aspose.Cells. PHP TABDELIMITED to MARKDOWN. PHP Save TABDELIMITED to MARKDOWN. Save TABDELIMITED as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to MARKDOWN in PHP., Save TABDELIMITED to MARKDOWN using PHP., PHP TABDELIMITED to MARKDOWN saveformat., TABDELIMITED to MARKDOWN Converter., PHP Save TABDELIMITED as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

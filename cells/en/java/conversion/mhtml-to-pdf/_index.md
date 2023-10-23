@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to PDF - MHTML to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to PDF in Java. Java Convert MHTML to PDF saveformat. Java MHTML to PDF format. Save MHTML to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to PDF in Java., Java MHTML to PDF saveformat., MHTML to PDF Java., Java Convert MHTML to PDF]
+description: Aspose Excel. Convert MHTML to PDF quickly and easily with Aspose.Cells. Java MHTML to PDF. Java Save MHTML to PDF. Save MHTML as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to PDF in Java., Save MHTML to PDF using Java., Java MHTML to PDF saveformat., MHTML to PDF Converter., Java Save MHTML as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

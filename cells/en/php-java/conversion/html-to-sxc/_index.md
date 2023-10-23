@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to SXC - HTML to SXC Converter
-description: PHP Aspose.Cells. HTML to SXC in PHP. PHP Convert HTML to SXC saveformat. PHP HTML to SXC Converter. Save HTML to SXC PHP.
-keywords: [PHP Aspose.Cells., HTML to SXC in PHP., PHP HTML to SXC saveformat., HTML to SXC PHP., PHP Convert HTML to SXC., Save HTML to SXC PHP., HTML to SXC Converter., Save HTML as SXC]
+description: Aspose Excel. Convert HTML to SXC quickly and easily with Aspose.Cells. PHP HTML to SXC. PHP Save HTML to SXC. Save HTML as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to SXC in PHP., Save HTML to SXC using PHP., PHP HTML to SXC saveformat., HTML to SXC Converter., PHP Save HTML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

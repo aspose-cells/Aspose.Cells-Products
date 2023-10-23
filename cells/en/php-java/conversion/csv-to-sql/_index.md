@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to SQL - CSV to SQL Converter
-description: PHP Aspose.Cells. CSV to SQL in PHP. PHP Convert CSV to SQL saveformat. PHP CSV to SQL Converter. Save CSV to SQL PHP.
-keywords: [PHP Aspose.Cells., CSV to SQL in PHP., PHP CSV to SQL saveformat., CSV to SQL PHP., PHP Convert CSV to SQL., Save CSV to SQL PHP., CSV to SQL Converter., Save CSV as SQL]
+description: Aspose Excel. Convert CSV to SQL quickly and easily with Aspose.Cells. PHP CSV to SQL. PHP Save CSV to SQL. Save CSV as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to SQL in PHP., Save CSV to SQL using PHP., PHP CSV to SQL saveformat., CSV to SQL Converter., PHP Save CSV as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

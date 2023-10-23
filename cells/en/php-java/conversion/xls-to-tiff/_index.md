@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to TIFF - XLS to TIFF Converter
-description: PHP Aspose.Cells. XLS to TIFF in PHP. PHP Convert XLS to TIFF saveformat. PHP XLS to TIFF Converter. Save XLS to TIFF PHP.
-keywords: [PHP Aspose.Cells., XLS to TIFF in PHP., PHP XLS to TIFF saveformat., XLS to TIFF PHP., PHP Convert XLS to TIFF., Save XLS to TIFF PHP., XLS to TIFF Converter., Save XLS as TIFF]
+description: Aspose Excel. Convert XLS to TIFF quickly and easily with Aspose.Cells. PHP XLS to TIFF. PHP Save XLS to TIFF. Save XLS as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TIFF in PHP., Save XLS to TIFF using PHP., PHP XLS to TIFF saveformat., XLS to TIFF Converter., PHP Save XLS as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

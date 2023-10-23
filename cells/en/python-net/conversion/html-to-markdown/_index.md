@@ -1,7 +1,7 @@
 ---
 title: Python HTML to MARKDOWN - HTML to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to MARKDOWN in Python. Python Convert HTML to MARKDOWN saveformat. Python HTML to MARKDOWN format. Save HTML to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to MARKDOWN in Python., Python HTML to MARKDOWN saveformat., HTML to MARKDOWN Python., Python Convert HTML to MARKDOWN]
+description: Aspose Excel. Convert HTML to MARKDOWN quickly and easily with Aspose.Cells. Python HTML to MARKDOWN. Python Save HTML to MARKDOWN. Save HTML as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to MARKDOWN in Python., Save HTML to MARKDOWN using Python., Python HTML to MARKDOWN saveformat., HTML to MARKDOWN Converter., Python Save HTML as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

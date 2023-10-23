@@ -1,7 +1,7 @@
 ---
 title: Java OTS to WORD - OTS to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to WORD in Java. Java Convert OTS to WORD saveformat. Java OTS to WORD format. Save OTS to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to WORD in Java., Java OTS to WORD saveformat., OTS to WORD Java., Java Convert OTS to WORD]
+description: Aspose Excel. Convert OTS to WORD quickly and easily with Aspose.Cells. Java OTS to WORD. Java Save OTS to WORD. Save OTS as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to WORD in Java., Save OTS to WORD using Java., Java OTS to WORD saveformat., OTS to WORD Converter., Java Save OTS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

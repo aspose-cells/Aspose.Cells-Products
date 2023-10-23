@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to DOCX - EXCEL to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to DOCX in Python. Python Convert EXCEL to DOCX saveformat. Python EXCEL to DOCX format. Save EXCEL to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to DOCX in Python., Python EXCEL to DOCX saveformat., EXCEL to DOCX Python., Python Convert EXCEL to DOCX]
+description: Aspose Excel. Convert EXCEL to DOCX quickly and easily with Aspose.Cells. Python EXCEL to DOCX. Python Save EXCEL to DOCX. Save EXCEL as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to DOCX in Python., Save EXCEL to DOCX using Python., Python EXCEL to DOCX saveformat., EXCEL to DOCX Converter., Python Save EXCEL as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

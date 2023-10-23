@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to MHTML - IMAGE to MHTML Converter
-description: PHP Aspose.Cells. IMAGE to MHTML in PHP. PHP Convert IMAGE to MHTML saveformat. PHP IMAGE to MHTML Converter. Save IMAGE to MHTML PHP.
-keywords: [PHP Aspose.Cells., IMAGE to MHTML in PHP., PHP IMAGE to MHTML saveformat., IMAGE to MHTML PHP., PHP Convert IMAGE to MHTML., Save IMAGE to MHTML PHP., IMAGE to MHTML Converter., Save IMAGE as MHTML]
+description: Aspose Excel. Convert IMAGE to MHTML quickly and easily with Aspose.Cells. PHP IMAGE to MHTML. PHP Save IMAGE to MHTML. Save IMAGE as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to MHTML in PHP., Save IMAGE to MHTML using PHP., PHP IMAGE to MHTML saveformat., IMAGE to MHTML Converter., PHP Save IMAGE as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to DIF - CSV to DIF Converter
-description: PHP Aspose.Cells. CSV to DIF in PHP. PHP Convert CSV to DIF saveformat. PHP CSV to DIF Converter. Save CSV to DIF PHP.
-keywords: [PHP Aspose.Cells., CSV to DIF in PHP., PHP CSV to DIF saveformat., CSV to DIF PHP., PHP Convert CSV to DIF., Save CSV to DIF PHP., CSV to DIF Converter., Save CSV as DIF]
+description: Aspose Excel. Convert CSV to DIF quickly and easily with Aspose.Cells. PHP CSV to DIF. PHP Save CSV to DIF. Save CSV as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to DIF in PHP., Save CSV to DIF using PHP., PHP CSV to DIF saveformat., CSV to DIF Converter., PHP Save CSV as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

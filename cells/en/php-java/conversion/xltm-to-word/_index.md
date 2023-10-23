@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to WORD - XLTM to WORD Converter
-description: PHP Aspose.Cells. XLTM to WORD in PHP. PHP Convert XLTM to WORD saveformat. PHP XLTM to WORD Converter. Save XLTM to WORD PHP.
-keywords: [PHP Aspose.Cells., XLTM to WORD in PHP., PHP XLTM to WORD saveformat., XLTM to WORD PHP., PHP Convert XLTM to WORD., Save XLTM to WORD PHP., XLTM to WORD Converter., Save XLTM as WORD]
+description: Aspose Excel. Convert XLTM to WORD quickly and easily with Aspose.Cells. PHP XLTM to WORD. PHP Save XLTM to WORD. Save XLTM as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to WORD in PHP., Save XLTM to WORD using PHP., PHP XLTM to WORD saveformat., XLTM to WORD Converter., PHP Save XLTM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

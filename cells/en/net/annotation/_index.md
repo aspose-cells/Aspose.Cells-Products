@@ -1,7 +1,8 @@
 ---
-title: Excel File Annotations NET C#
+title: Add or Remove Excel File Annotations NET C#
 
 description: Add or remove data annotation of Excel and OpenOffice spreadsheets with just few lines of C# code.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

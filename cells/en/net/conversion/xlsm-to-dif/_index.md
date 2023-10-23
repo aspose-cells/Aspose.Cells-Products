@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to DIF - XLSM to DIF Converter
-description: Aspose Excel. C# Aspose.Cells. XLSM to DIF in C#. C# Convert XLSM to DIF saveformat. C# XLSM to DIF format. Save XLSM to DIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSM to DIF in C#., C# XLSM to DIF saveformat., XLSM to DIF C#., C# Convert XLSM to DIF]
+description: Aspose Excel. Convert XLSM to DIF quickly and easily with Aspose.Cells. C# XLSM to DIF. C# Save XLSM to DIF. Save XLSM as DIF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to DIF in C#., Save XLSM to DIF using C#., C# XLSM to DIF saveformat., XLSM to DIF Converter., C# Save XLSM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

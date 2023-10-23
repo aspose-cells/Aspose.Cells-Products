@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to DIF - PNG to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to DIF in C++. C++ Convert PNG to DIF saveformat. C++ PNG to DIF format. Save PNG to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to DIF in C++., C++ PNG to DIF saveformat., PNG to DIF C++., C++ Convert PNG to DIF]
+description: Aspose Excel. Convert PNG to DIF quickly and easily with Aspose.Cells. C++ PNG to DIF. C++ Save PNG to DIF. Save PNG as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to DIF in C++., Save PNG to DIF using C++., C++ PNG to DIF saveformat., PNG to DIF Converter., C++ Save PNG as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

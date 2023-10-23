@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to ODS - XLSB to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to ODS in Java. Java Convert XLSB to ODS saveformat. Java XLSB to ODS format. Save XLSB to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to ODS in Java., Java XLSB to ODS saveformat., XLSB to ODS Java., Java Convert XLSB to ODS]
+description: Aspose Excel. Convert XLSB to ODS quickly and easily with Aspose.Cells. Java XLSB to ODS. Java Save XLSB to ODS. Save XLSB as ODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to ODS in Java., Save XLSB to ODS using Java., Java XLSB to ODS saveformat., XLSB to ODS Converter., Java Save XLSB as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to XLAM - IMAGE to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to XLAM in C++. C++ Convert IMAGE to XLAM saveformat. C++ IMAGE to XLAM format. Save IMAGE to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to XLAM in C++., C++ IMAGE to XLAM saveformat., IMAGE to XLAM C++., C++ Convert IMAGE to XLAM]
+description: Aspose Excel. Convert IMAGE to XLAM quickly and easily with Aspose.Cells. C++ IMAGE to XLAM. C++ Save IMAGE to XLAM. Save IMAGE as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to XLAM in C++., Save IMAGE to XLAM using C++., C++ IMAGE to XLAM saveformat., IMAGE to XLAM Converter., C++ Save IMAGE as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

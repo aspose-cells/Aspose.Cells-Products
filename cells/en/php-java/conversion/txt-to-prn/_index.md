@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to PRN - TXT to PRN Converter
-description: PHP Aspose.Cells. TXT to PRN in PHP. PHP Convert TXT to PRN saveformat. PHP TXT to PRN Converter. Save TXT to PRN PHP.
-keywords: [PHP Aspose.Cells., TXT to PRN in PHP., PHP TXT to PRN saveformat., TXT to PRN PHP., PHP Convert TXT to PRN., Save TXT to PRN PHP., TXT to PRN Converter., Save TXT as PRN]
+description: Aspose Excel. Convert TXT to PRN quickly and easily with Aspose.Cells. PHP TXT to PRN. PHP Save TXT to PRN. Save TXT as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to PRN in PHP., Save TXT to PRN using PHP., PHP TXT to PRN saveformat., TXT to PRN Converter., PHP Save TXT as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

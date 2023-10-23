@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to WORD - EXCEL to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to WORD in Python. Python Convert EXCEL to WORD saveformat. Python EXCEL to WORD format. Save EXCEL to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to WORD in Python., Python EXCEL to WORD saveformat., EXCEL to WORD Python., Python Convert EXCEL to WORD]
+description: Aspose Excel. Convert EXCEL to WORD quickly and easily with Aspose.Cells. Python EXCEL to WORD. Python Save EXCEL to WORD. Save EXCEL as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to WORD in Python., Save EXCEL to WORD using Python., Python EXCEL to WORD saveformat., EXCEL to WORD Converter., Python Save EXCEL as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to DOCX - PRN to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to DOCX in C++. C++ Convert PRN to DOCX saveformat. C++ PRN to DOCX format. Save PRN to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to DOCX in C++., C++ PRN to DOCX saveformat., PRN to DOCX C++., C++ Convert PRN to DOCX]
+description: Aspose Excel. Convert PRN to DOCX quickly and easily with Aspose.Cells. C++ PRN to DOCX. C++ Save PRN to DOCX. Save PRN as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to DOCX in C++., Save PRN to DOCX using C++., C++ PRN to DOCX saveformat., PRN to DOCX Converter., C++ Save PRN as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

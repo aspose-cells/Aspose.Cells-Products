@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to ETT - TXT to ETT Converter
-description: PHP Aspose.Cells. TXT to ETT in PHP. PHP Convert TXT to ETT saveformat. PHP TXT to ETT Converter. Save TXT to ETT PHP.
-keywords: [PHP Aspose.Cells., TXT to ETT in PHP., PHP TXT to ETT saveformat., TXT to ETT PHP., PHP Convert TXT to ETT., Save TXT to ETT PHP., TXT to ETT Converter., Save TXT as ETT]
+description: Aspose Excel. Convert TXT to ETT quickly and easily with Aspose.Cells. PHP TXT to ETT. PHP Save TXT to ETT. Save TXT as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to ETT in PHP., Save TXT to ETT using PHP., PHP TXT to ETT saveformat., TXT to ETT Converter., PHP Save TXT as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

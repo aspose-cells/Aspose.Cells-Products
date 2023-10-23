@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to POWERPOINT - IMAGE to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to POWERPOINT in Python. Python Convert IMAGE to POWERPOINT saveformat. Python IMAGE to POWERPOINT format. Save IMAGE to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to POWERPOINT in Python., Python IMAGE to POWERPOINT saveformat., IMAGE to POWERPOINT Python., Python Convert IMAGE to POWERPOINT]
+description: Aspose Excel. Convert IMAGE to POWERPOINT quickly and easily with Aspose.Cells. Python IMAGE to POWERPOINT. Python Save IMAGE to POWERPOINT. Save IMAGE as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to POWERPOINT in Python., Save IMAGE to POWERPOINT using Python., Python IMAGE to POWERPOINT saveformat., IMAGE to POWERPOINT Converter., Python Save IMAGE as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

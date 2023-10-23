@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to DIF - HTML to DIF Converter
-description: PHP Aspose.Cells. HTML to DIF in PHP. PHP Convert HTML to DIF saveformat. PHP HTML to DIF Converter. Save HTML to DIF PHP.
-keywords: [PHP Aspose.Cells., HTML to DIF in PHP., PHP HTML to DIF saveformat., HTML to DIF PHP., PHP Convert HTML to DIF., Save HTML to DIF PHP., HTML to DIF Converter., Save HTML as DIF]
+description: Aspose Excel. Convert HTML to DIF quickly and easily with Aspose.Cells. PHP HTML to DIF. PHP Save HTML to DIF. Save HTML as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to DIF in PHP., Save HTML to DIF using PHP., PHP HTML to DIF saveformat., HTML to DIF Converter., PHP Save HTML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

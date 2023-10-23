@@ -1,7 +1,7 @@
 ---
 title: Python XLS to WORD - XLS to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to WORD in Python. Python Convert XLS to WORD saveformat. Python XLS to WORD format. Save XLS to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to WORD in Python., Python XLS to WORD saveformat., XLS to WORD Python., Python Convert XLS to WORD]
+description: Aspose Excel. Convert XLS to WORD quickly and easily with Aspose.Cells. Python XLS to WORD. Python Save XLS to WORD. Save XLS as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to WORD in Python., Save XLS to WORD using Python., Python XLS to WORD saveformat., XLS to WORD Converter., Python Save XLS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

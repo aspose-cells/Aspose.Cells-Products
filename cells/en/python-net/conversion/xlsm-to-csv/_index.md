@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to CSV - XLSM to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to CSV in Python. Python Convert XLSM to CSV saveformat. Python XLSM to CSV format. Save XLSM to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to CSV in Python., Python XLSM to CSV saveformat., XLSM to CSV Python., Python Convert XLSM to CSV]
+description: Aspose Excel. Convert XLSM to CSV quickly and easily with Aspose.Cells. Python XLSM to CSV. Python Save XLSM to CSV. Save XLSM as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to CSV in Python., Save XLSM to CSV using Python., Python XLSM to CSV saveformat., XLSM to CSV Converter., Python Save XLSM as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

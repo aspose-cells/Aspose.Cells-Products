@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to XPS - TXT to XPS Converter
-description: PHP Aspose.Cells. TXT to XPS in PHP. PHP Convert TXT to XPS saveformat. PHP TXT to XPS Converter. Save TXT to XPS PHP.
-keywords: [PHP Aspose.Cells., TXT to XPS in PHP., PHP TXT to XPS saveformat., TXT to XPS PHP., PHP Convert TXT to XPS., Save TXT to XPS PHP., TXT to XPS Converter., Save TXT as XPS]
+description: Aspose Excel. Convert TXT to XPS quickly and easily with Aspose.Cells. PHP TXT to XPS. PHP Save TXT to XPS. Save TXT as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to XPS in PHP., Save TXT to XPS using PHP., PHP TXT to XPS saveformat., TXT to XPS Converter., PHP Save TXT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

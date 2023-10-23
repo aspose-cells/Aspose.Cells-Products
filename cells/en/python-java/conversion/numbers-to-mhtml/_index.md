@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to MHTML - NUMBERS to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to MHTML in Python. Python Convert NUMBERS to MHTML saveformat. Python NUMBERS to MHTML format. Save NUMBERS to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to MHTML in Python., Python NUMBERS to MHTML saveformat., NUMBERS to MHTML Python., Python Convert NUMBERS to MHTML]
+description: Aspose Excel. Convert NUMBERS to MHTML quickly and easily with Aspose.Cells. Python NUMBERS to MHTML. Python Save NUMBERS to MHTML. Save NUMBERS as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to MHTML in Python., Save NUMBERS to MHTML using Python., Python NUMBERS to MHTML saveformat., NUMBERS to MHTML Converter., Python Save NUMBERS as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

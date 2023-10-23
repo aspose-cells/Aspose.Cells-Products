@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to POWERPOINT - NUMBERS to POWERPOINT Converter
-description: PHP Aspose.Cells. NUMBERS to POWERPOINT in PHP. PHP Convert NUMBERS to POWERPOINT saveformat. PHP NUMBERS to POWERPOINT Converter. Save NUMBERS to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to POWERPOINT in PHP., PHP NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT PHP., PHP Convert NUMBERS to POWERPOINT., Save NUMBERS to POWERPOINT PHP., NUMBERS to POWERPOINT Converter., Save NUMBERS as POWERPOINT]
+description: Aspose Excel. Convert NUMBERS to POWERPOINT quickly and easily with Aspose.Cells. PHP NUMBERS to POWERPOINT. PHP Save NUMBERS to POWERPOINT. Save NUMBERS as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to POWERPOINT in PHP., Save NUMBERS to POWERPOINT using PHP., PHP NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT Converter., PHP Save NUMBERS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

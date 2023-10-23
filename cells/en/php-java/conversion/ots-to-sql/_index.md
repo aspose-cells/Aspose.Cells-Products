@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to SQL - OTS to SQL Converter
-description: PHP Aspose.Cells. OTS to SQL in PHP. PHP Convert OTS to SQL saveformat. PHP OTS to SQL Converter. Save OTS to SQL PHP.
-keywords: [PHP Aspose.Cells., OTS to SQL in PHP., PHP OTS to SQL saveformat., OTS to SQL PHP., PHP Convert OTS to SQL., Save OTS to SQL PHP., OTS to SQL Converter., Save OTS as SQL]
+description: Aspose Excel. Convert OTS to SQL quickly and easily with Aspose.Cells. PHP OTS to SQL. PHP Save OTS to SQL. Save OTS as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to SQL in PHP., Save OTS to SQL using PHP., PHP OTS to SQL saveformat., OTS to SQL Converter., PHP Save OTS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

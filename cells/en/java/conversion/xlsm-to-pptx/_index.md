@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to PPTX - XLSM to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to PPTX in Java. Java Convert XLSM to PPTX saveformat. Java XLSM to PPTX format. Save XLSM to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to PPTX in Java., Java XLSM to PPTX saveformat., XLSM to PPTX Java., Java Convert XLSM to PPTX]
+description: Aspose Excel. Convert XLSM to PPTX quickly and easily with Aspose.Cells. Java XLSM to PPTX. Java Save XLSM to PPTX. Save XLSM as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to PPTX in Java., Save XLSM to PPTX using Java., Java XLSM to PPTX saveformat., XLSM to PPTX Converter., Java Save XLSM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

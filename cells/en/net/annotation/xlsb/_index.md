@@ -1,8 +1,9 @@
 ---
-title: Remove XLSB Annotation via .NET 
+title: Add or Remove XLSB Annotation via .NET 
 weight: 6440
 
 description: C# source code to add and delete XLSB format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

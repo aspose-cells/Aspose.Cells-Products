@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to PPTX - IMAGE to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to PPTX in Python. Python Convert IMAGE to PPTX saveformat. Python IMAGE to PPTX format. Save IMAGE to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to PPTX in Python., Python IMAGE to PPTX saveformat., IMAGE to PPTX Python., Python Convert IMAGE to PPTX]
+description: Aspose Excel. Convert IMAGE to PPTX quickly and easily with Aspose.Cells. Python IMAGE to PPTX. Python Save IMAGE to PPTX. Save IMAGE as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to PPTX in Python., Save IMAGE to PPTX using Python., Python IMAGE to PPTX saveformat., IMAGE to PPTX Converter., Python Save IMAGE as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

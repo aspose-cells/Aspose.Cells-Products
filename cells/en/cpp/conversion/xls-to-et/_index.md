@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to ET - XLS to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to ET in C++. C++ Convert XLS to ET saveformat. C++ XLS to ET format. Save XLS to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to ET in C++., C++ XLS to ET saveformat., XLS to ET C++., C++ Convert XLS to ET]
+description: Aspose Excel. Convert XLS to ET quickly and easily with Aspose.Cells. C++ XLS to ET. C++ Save XLS to ET. Save XLS as ET using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to ET in C++., Save XLS to ET using C++., C++ XLS to ET saveformat., XLS to ET Converter., C++ Save XLS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

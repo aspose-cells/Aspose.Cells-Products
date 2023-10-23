@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to PPTX - PRN to PPTX Converter
-description: PHP Aspose.Cells. PRN to PPTX in PHP. PHP Convert PRN to PPTX saveformat. PHP PRN to PPTX Converter. Save PRN to PPTX PHP.
-keywords: [PHP Aspose.Cells., PRN to PPTX in PHP., PHP PRN to PPTX saveformat., PRN to PPTX PHP., PHP Convert PRN to PPTX., Save PRN to PPTX PHP., PRN to PPTX Converter., Save PRN as PPTX]
+description: Aspose Excel. Convert PRN to PPTX quickly and easily with Aspose.Cells. PHP PRN to PPTX. PHP Save PRN to PPTX. Save PRN as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to PPTX in PHP., Save PRN to PPTX using PHP., PHP PRN to PPTX saveformat., PRN to PPTX Converter., PHP Save PRN as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

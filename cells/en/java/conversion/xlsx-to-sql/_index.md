@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to SQL - XLSX to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to SQL in Java. Java Convert XLSX to SQL saveformat. Java XLSX to SQL format. Save XLSX to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to SQL in Java., Java XLSX to SQL saveformat., XLSX to SQL Java., Java Convert XLSX to SQL]
+description: Aspose Excel. Convert XLSX to SQL quickly and easily with Aspose.Cells. Java XLSX to SQL. Java Save XLSX to SQL. Save XLSX as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SQL in Java., Save XLSX to SQL using Java., Java XLSX to SQL saveformat., XLSX to SQL Converter., Java Save XLSX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to XLS - PRN to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to XLS in C++. C++ Convert PRN to XLS saveformat. C++ PRN to XLS format. Save PRN to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to XLS in C++., C++ PRN to XLS saveformat., PRN to XLS C++., C++ Convert PRN to XLS]
+description: Aspose Excel. Convert PRN to XLS quickly and easily with Aspose.Cells. C++ PRN to XLS. C++ Save PRN to XLS. Save PRN as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to XLS in C++., Save PRN to XLS using C++., C++ PRN to XLS saveformat., PRN to XLS Converter., C++ Save PRN as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to XLTM - XLTX to XLTM Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to XLTM in C#. C# Convert XLTX to XLTM saveformat. C# XLTX to XLTM format. Save XLTX to XLTM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to XLTM in C#., C# XLTX to XLTM saveformat., XLTX to XLTM C#., C# Convert XLTX to XLTM]
+description: Aspose Excel. Convert XLTX to XLTM quickly and easily with Aspose.Cells. C# XLTX to XLTM. C# Save XLTX to XLTM. Save XLTX as XLTM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to XLTM in C#., Save XLTX to XLTM using C#., C# XLTX to XLTM saveformat., XLTX to XLTM Converter., C# Save XLTX as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

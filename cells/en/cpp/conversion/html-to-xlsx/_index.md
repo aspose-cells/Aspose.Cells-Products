@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to XLSX - HTML to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to XLSX in C++. C++ Convert HTML to XLSX saveformat. C++ HTML to XLSX format. Save HTML to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to XLSX in C++., C++ HTML to XLSX saveformat., HTML to XLSX C++., C++ Convert HTML to XLSX]
+description: Aspose Excel. Convert HTML to XLSX quickly and easily with Aspose.Cells. C++ HTML to XLSX. C++ Save HTML to XLSX. Save HTML as XLSX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XLSX in C++., Save HTML to XLSX using C++., C++ HTML to XLSX saveformat., HTML to XLSX Converter., C++ Save HTML as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

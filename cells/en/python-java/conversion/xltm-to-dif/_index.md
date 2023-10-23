@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to DIF - XLTM to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to DIF in Python. Python Convert XLTM to DIF saveformat. Python XLTM to DIF format. Save XLTM to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to DIF in Python., Python XLTM to DIF saveformat., XLTM to DIF Python., Python Convert XLTM to DIF]
+description: Aspose Excel. Convert XLTM to DIF quickly and easily with Aspose.Cells. Python XLTM to DIF. Python Save XLTM to DIF. Save XLTM as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to DIF in Python., Save XLTM to DIF using Python., Python XLTM to DIF saveformat., XLTM to DIF Converter., Python Save XLTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

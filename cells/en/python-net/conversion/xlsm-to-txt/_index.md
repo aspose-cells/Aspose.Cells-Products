@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to TXT - XLSM to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to TXT in Python. Python Convert XLSM to TXT saveformat. Python XLSM to TXT format. Save XLSM to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to TXT in Python., Python XLSM to TXT saveformat., XLSM to TXT Python., Python Convert XLSM to TXT]
+description: Aspose Excel. Convert XLSM to TXT quickly and easily with Aspose.Cells. Python XLSM to TXT. Python Save XLSM to TXT. Save XLSM as TXT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to TXT in Python., Save XLSM to TXT using Python., Python XLSM to TXT saveformat., XLSM to TXT Converter., Python Save XLSM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

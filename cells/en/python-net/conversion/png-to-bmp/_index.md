@@ -1,7 +1,7 @@
 ---
 title: Python PNG to BMP - PNG to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to BMP in Python. Python Convert PNG to BMP saveformat. Python PNG to BMP format. Save PNG to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to BMP in Python., Python PNG to BMP saveformat., PNG to BMP Python., Python Convert PNG to BMP]
+description: Aspose Excel. Convert PNG to BMP quickly and easily with Aspose.Cells. Python PNG to BMP. Python Save PNG to BMP. Save PNG as BMP using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to BMP in Python., Save PNG to BMP using Python., Python PNG to BMP saveformat., PNG to BMP Converter., Python Save PNG as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

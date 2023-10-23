@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to CSV - XLSX to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to CSV in Python. Python Convert XLSX to CSV saveformat. Python XLSX to CSV format. Save XLSX to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to CSV in Python., Python XLSX to CSV saveformat., XLSX to CSV Python., Python Convert XLSX to CSV]
+description: Aspose Excel. Convert XLSX to CSV quickly and easily with Aspose.Cells. Python XLSX to CSV. Python Save XLSX to CSV. Save XLSX as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to CSV in Python., Save XLSX to CSV using Python., Python XLSX to CSV saveformat., XLSX to CSV Converter., Python Save XLSX as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

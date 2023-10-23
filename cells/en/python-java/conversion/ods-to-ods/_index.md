@@ -1,7 +1,7 @@
 ---
 title: Python ODS to ODS - ODS to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. ODS to ODS in Python. Python Convert ODS to ODS saveformat. Python ODS to ODS format. Save ODS to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., ODS to ODS in Python., Python ODS to ODS saveformat., ODS to ODS Python., Python Convert ODS to ODS]
+description: Aspose Excel. Convert ODS to ODS quickly and easily with Aspose.Cells. Python ODS to ODS. Python Save ODS to ODS. Save ODS as ODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to ODS in Python., Save ODS to ODS using Python., Python ODS to ODS saveformat., ODS to ODS Converter., Python Save ODS as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

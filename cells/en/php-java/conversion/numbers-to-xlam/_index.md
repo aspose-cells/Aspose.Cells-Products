@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XLAM - NUMBERS to XLAM Converter
-description: PHP Aspose.Cells. NUMBERS to XLAM in PHP. PHP Convert NUMBERS to XLAM saveformat. PHP NUMBERS to XLAM Converter. Save NUMBERS to XLAM PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to XLAM in PHP., PHP NUMBERS to XLAM saveformat., NUMBERS to XLAM PHP., PHP Convert NUMBERS to XLAM., Save NUMBERS to XLAM PHP., NUMBERS to XLAM Converter., Save NUMBERS as XLAM]
+description: Aspose Excel. Convert NUMBERS to XLAM quickly and easily with Aspose.Cells. PHP NUMBERS to XLAM. PHP Save NUMBERS to XLAM. Save NUMBERS as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XLAM in PHP., Save NUMBERS to XLAM using PHP., PHP NUMBERS to XLAM saveformat., NUMBERS to XLAM Converter., PHP Save NUMBERS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to ET - ODS to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to ET in C++. C++ Convert ODS to ET saveformat. C++ ODS to ET format. Save ODS to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to ET in C++., C++ ODS to ET saveformat., ODS to ET C++., C++ Convert ODS to ET]
+description: Aspose Excel. Convert ODS to ET quickly and easily with Aspose.Cells. C++ ODS to ET. C++ Save ODS to ET. Save ODS as ET using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to ET in C++., Save ODS to ET using C++., C++ ODS to ET saveformat., ODS to ET Converter., C++ Save ODS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

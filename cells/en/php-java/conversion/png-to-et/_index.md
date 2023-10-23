@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to ET - PNG to ET Converter
-description: PHP Aspose.Cells. PNG to ET in PHP. PHP Convert PNG to ET saveformat. PHP PNG to ET Converter. Save PNG to ET PHP.
-keywords: [PHP Aspose.Cells., PNG to ET in PHP., PHP PNG to ET saveformat., PNG to ET PHP., PHP Convert PNG to ET., Save PNG to ET PHP., PNG to ET Converter., Save PNG as ET]
+description: Aspose Excel. Convert PNG to ET quickly and easily with Aspose.Cells. PHP PNG to ET. PHP Save PNG to ET. Save PNG as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to ET in PHP., Save PNG to ET using PHP., PHP PNG to ET saveformat., PNG to ET Converter., PHP Save PNG as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

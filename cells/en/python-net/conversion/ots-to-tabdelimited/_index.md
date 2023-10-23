@@ -1,7 +1,7 @@
 ---
 title: Python OTS to TABDELIMITED - OTS to TABDELIMITED Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to TABDELIMITED in Python. Python Convert OTS to TABDELIMITED saveformat. Python OTS to TABDELIMITED format. Save OTS to TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to TABDELIMITED in Python., Python OTS to TABDELIMITED saveformat., OTS to TABDELIMITED Python., Python Convert OTS to TABDELIMITED]
+description: Aspose Excel. Convert OTS to TABDELIMITED quickly and easily with Aspose.Cells. Python OTS to TABDELIMITED. Python Save OTS to TABDELIMITED. Save OTS as TABDELIMITED using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to TABDELIMITED in Python., Save OTS to TABDELIMITED using Python., Python OTS to TABDELIMITED saveformat., OTS to TABDELIMITED Converter., Python Save OTS as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

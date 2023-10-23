@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to XPS - XLTM to XPS Converter
-description: PHP Aspose.Cells. XLTM to XPS in PHP. PHP Convert XLTM to XPS saveformat. PHP XLTM to XPS Converter. Save XLTM to XPS PHP.
-keywords: [PHP Aspose.Cells., XLTM to XPS in PHP., PHP XLTM to XPS saveformat., XLTM to XPS PHP., PHP Convert XLTM to XPS., Save XLTM to XPS PHP., XLTM to XPS Converter., Save XLTM as XPS]
+description: Aspose Excel. Convert XLTM to XPS quickly and easily with Aspose.Cells. PHP XLTM to XPS. PHP Save XLTM to XPS. Save XLTM as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to XPS in PHP., Save XLTM to XPS using PHP., PHP XLTM to XPS saveformat., XLTM to XPS Converter., PHP Save XLTM as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to MD - SXC to MD Converter
-description: PHP Aspose.Cells. SXC to MD in PHP. PHP Convert SXC to MD saveformat. PHP SXC to MD Converter. Save SXC to MD PHP.
-keywords: [PHP Aspose.Cells., SXC to MD in PHP., PHP SXC to MD saveformat., SXC to MD PHP., PHP Convert SXC to MD., Save SXC to MD PHP., SXC to MD Converter., Save SXC as MD]
+description: Aspose Excel. Convert SXC to MD quickly and easily with Aspose.Cells. PHP SXC to MD. PHP Save SXC to MD. Save SXC as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to MD in PHP., Save SXC to MD using PHP., PHP SXC to MD saveformat., SXC to MD Converter., PHP Save SXC as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

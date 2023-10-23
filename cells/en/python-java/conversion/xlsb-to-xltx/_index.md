@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to XLTX - XLSB to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to XLTX in Python. Python Convert XLSB to XLTX saveformat. Python XLSB to XLTX format. Save XLSB to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to XLTX in Python., Python XLSB to XLTX saveformat., XLSB to XLTX Python., Python Convert XLSB to XLTX]
+description: Aspose Excel. Convert XLSB to XLTX quickly and easily with Aspose.Cells. Python XLSB to XLTX. Python Save XLSB to XLTX. Save XLSB as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to XLTX in Python., Save XLSB to XLTX using Python., Python XLSB to XLTX saveformat., XLSB to XLTX Converter., Python Save XLSB as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

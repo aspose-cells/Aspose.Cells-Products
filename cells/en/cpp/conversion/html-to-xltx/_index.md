@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to XLTX - HTML to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to XLTX in C++. C++ Convert HTML to XLTX saveformat. C++ HTML to XLTX format. Save HTML to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to XLTX in C++., C++ HTML to XLTX saveformat., HTML to XLTX C++., C++ Convert HTML to XLTX]
+description: Aspose Excel. Convert HTML to XLTX quickly and easily with Aspose.Cells. C++ HTML to XLTX. C++ Save HTML to XLTX. Save HTML as XLTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XLTX in C++., Save HTML to XLTX using C++., C++ HTML to XLTX saveformat., HTML to XLTX Converter., C++ Save HTML as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

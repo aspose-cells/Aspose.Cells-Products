@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to WORD - OTS to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to WORD in C++. C++ Convert OTS to WORD saveformat. C++ OTS to WORD format. Save OTS to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to WORD in C++., C++ OTS to WORD saveformat., OTS to WORD C++., C++ Convert OTS to WORD]
+description: Aspose Excel. Convert OTS to WORD quickly and easily with Aspose.Cells. C++ OTS to WORD. C++ Save OTS to WORD. Save OTS as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to WORD in C++., Save OTS to WORD using C++., C++ OTS to WORD saveformat., OTS to WORD Converter., C++ Save OTS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to TXT - XLTM to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to TXT in Python. Python Convert XLTM to TXT saveformat. Python XLTM to TXT format. Save XLTM to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to TXT in Python., Python XLTM to TXT saveformat., XLTM to TXT Python., Python Convert XLTM to TXT]
+description: Aspose Excel. Convert XLTM to TXT quickly and easily with Aspose.Cells. Python XLTM to TXT. Python Save XLTM to TXT. Save XLTM as TXT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to TXT in Python., Save XLTM to TXT using Python., Python XLTM to TXT saveformat., XLTM to TXT Converter., Python Save XLTM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

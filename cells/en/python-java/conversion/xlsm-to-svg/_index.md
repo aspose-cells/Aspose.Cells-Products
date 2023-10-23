@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to SVG - XLSM to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to SVG in Python. Python Convert XLSM to SVG saveformat. Python XLSM to SVG format. Save XLSM to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to SVG in Python., Python XLSM to SVG saveformat., XLSM to SVG Python., Python Convert XLSM to SVG]
+description: Aspose Excel. Convert XLSM to SVG quickly and easily with Aspose.Cells. Python XLSM to SVG. Python Save XLSM to SVG. Save XLSM as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to SVG in Python., Save XLSM to SVG using Python., Python XLSM to SVG saveformat., XLSM to SVG Converter., Python Save XLSM as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

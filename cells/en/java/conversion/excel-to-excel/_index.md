@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to EXCEL - EXCEL to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to EXCEL in Java. Java Convert EXCEL to EXCEL saveformat. Java EXCEL to EXCEL format. Save EXCEL to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to EXCEL in Java., Java EXCEL to EXCEL saveformat., EXCEL to EXCEL Java., Java Convert EXCEL to EXCEL]
+description: Aspose Excel. Convert EXCEL to EXCEL quickly and easily with Aspose.Cells. Java EXCEL to EXCEL. Java Save EXCEL to EXCEL. Save EXCEL as EXCEL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to EXCEL in Java., Save EXCEL to EXCEL using Java., Java EXCEL to EXCEL saveformat., EXCEL to EXCEL Converter., Java Save EXCEL as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

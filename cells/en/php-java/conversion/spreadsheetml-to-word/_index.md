@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to WORD - SPREADSHEETML to WORD Converter
-description: PHP Aspose.Cells. SPREADSHEETML to WORD in PHP. PHP Convert SPREADSHEETML to WORD saveformat. PHP SPREADSHEETML to WORD Converter. Save SPREADSHEETML to WORD PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to WORD in PHP., PHP SPREADSHEETML to WORD saveformat., SPREADSHEETML to WORD PHP., PHP Convert SPREADSHEETML to WORD., Save SPREADSHEETML to WORD PHP., SPREADSHEETML to WORD Converter., Save SPREADSHEETML as WORD]
+description: Aspose Excel. Convert SPREADSHEETML to WORD quickly and easily with Aspose.Cells. PHP SPREADSHEETML to WORD. PHP Save SPREADSHEETML to WORD. Save SPREADSHEETML as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to WORD in PHP., Save SPREADSHEETML to WORD using PHP., PHP SPREADSHEETML to WORD saveformat., SPREADSHEETML to WORD Converter., PHP Save SPREADSHEETML as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to DOCX - MHT to DOCX Converter
-description: PHP Aspose.Cells. MHT to DOCX in PHP. PHP Convert MHT to DOCX saveformat. PHP MHT to DOCX Converter. Save MHT to DOCX PHP.
-keywords: [PHP Aspose.Cells., MHT to DOCX in PHP., PHP MHT to DOCX saveformat., MHT to DOCX PHP., PHP Convert MHT to DOCX., Save MHT to DOCX PHP., MHT to DOCX Converter., Save MHT as DOCX]
+description: Aspose Excel. Convert MHT to DOCX quickly and easily with Aspose.Cells. PHP MHT to DOCX. PHP Save MHT to DOCX. Save MHT as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to DOCX in PHP., Save MHT to DOCX using PHP., PHP MHT to DOCX saveformat., MHT to DOCX Converter., PHP Save MHT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

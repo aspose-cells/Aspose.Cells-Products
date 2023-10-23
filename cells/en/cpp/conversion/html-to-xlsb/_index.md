@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to XLSB - HTML to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to XLSB in C++. C++ Convert HTML to XLSB saveformat. C++ HTML to XLSB format. Save HTML to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to XLSB in C++., C++ HTML to XLSB saveformat., HTML to XLSB C++., C++ Convert HTML to XLSB]
+description: Aspose Excel. Convert HTML to XLSB quickly and easily with Aspose.Cells. C++ HTML to XLSB. C++ Save HTML to XLSB. Save HTML as XLSB using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XLSB in C++., Save HTML to XLSB using C++., C++ HTML to XLSB saveformat., HTML to XLSB Converter., C++ Save HTML as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python OTS to MD - OTS to MD Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to MD in Python. Python Convert OTS to MD saveformat. Python OTS to MD format. Save OTS to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to MD in Python., Python OTS to MD saveformat., OTS to MD Python., Python Convert OTS to MD]
+description: Aspose Excel. Convert OTS to MD quickly and easily with Aspose.Cells. Python OTS to MD. Python Save OTS to MD. Save OTS as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to MD in Python., Save OTS to MD using Python., Python OTS to MD saveformat., OTS to MD Converter., Python Save OTS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

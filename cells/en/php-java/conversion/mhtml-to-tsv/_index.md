@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to TSV - MHTML to TSV Converter
-description: PHP Aspose.Cells. MHTML to TSV in PHP. PHP Convert MHTML to TSV saveformat. PHP MHTML to TSV Converter. Save MHTML to TSV PHP.
-keywords: [PHP Aspose.Cells., MHTML to TSV in PHP., PHP MHTML to TSV saveformat., MHTML to TSV PHP., PHP Convert MHTML to TSV., Save MHTML to TSV PHP., MHTML to TSV Converter., Save MHTML as TSV]
+description: Aspose Excel. Convert MHTML to TSV quickly and easily with Aspose.Cells. PHP MHTML to TSV. PHP Save MHTML to TSV. Save MHTML as TSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TSV in PHP., Save MHTML to TSV using PHP., PHP MHTML to TSV saveformat., MHTML to TSV Converter., PHP Save MHTML as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to POWERPOINT - PNG to POWERPOINT Converter
-description: PHP Aspose.Cells. PNG to POWERPOINT in PHP. PHP Convert PNG to POWERPOINT saveformat. PHP PNG to POWERPOINT Converter. Save PNG to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., PNG to POWERPOINT in PHP., PHP PNG to POWERPOINT saveformat., PNG to POWERPOINT PHP., PHP Convert PNG to POWERPOINT., Save PNG to POWERPOINT PHP., PNG to POWERPOINT Converter., Save PNG as POWERPOINT]
+description: Aspose Excel. Convert PNG to POWERPOINT quickly and easily with Aspose.Cells. PHP PNG to POWERPOINT. PHP Save PNG to POWERPOINT. Save PNG as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to POWERPOINT in PHP., Save PNG to POWERPOINT using PHP., PHP PNG to POWERPOINT saveformat., PNG to POWERPOINT Converter., PHP Save PNG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

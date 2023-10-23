@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to MHTML - EXCEL to MHTML Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to MHTML in Java. Java Convert EXCEL to MHTML saveformat. Java EXCEL to MHTML format. Save EXCEL to MHTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to MHTML in Java., Java EXCEL to MHTML saveformat., EXCEL to MHTML Java., Java Convert EXCEL to MHTML]
+description: Aspose Excel. Convert EXCEL to MHTML quickly and easily with Aspose.Cells. Java EXCEL to MHTML. Java Save EXCEL to MHTML. Save EXCEL as MHTML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to MHTML in Java., Save EXCEL to MHTML using Java., Java EXCEL to MHTML saveformat., EXCEL to MHTML Converter., Java Save EXCEL as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

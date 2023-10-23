@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to GIF - MHTML to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to GIF in C++. C++ Convert MHTML to GIF saveformat. C++ MHTML to GIF format. Save MHTML to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to GIF in C++., C++ MHTML to GIF saveformat., MHTML to GIF C++., C++ Convert MHTML to GIF]
+description: Aspose Excel. Convert MHTML to GIF quickly and easily with Aspose.Cells. C++ MHTML to GIF. C++ Save MHTML to GIF. Save MHTML as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to GIF in C++., Save MHTML to GIF using C++., C++ MHTML to GIF saveformat., MHTML to GIF Converter., C++ Save MHTML as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

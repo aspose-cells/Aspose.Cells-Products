@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to IMAGE - XLSX to IMAGE Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to IMAGE in C++. C++ Convert XLSX to IMAGE saveformat. C++ XLSX to IMAGE format. Save XLSX to IMAGE C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to IMAGE in C++., C++ XLSX to IMAGE saveformat., XLSX to IMAGE C++., C++ Convert XLSX to IMAGE]
+description: Aspose Excel. Convert XLSX to IMAGE quickly and easily with Aspose.Cells. C++ XLSX to IMAGE. C++ Save XLSX to IMAGE. Save XLSX as IMAGE using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to IMAGE in C++., Save XLSX to IMAGE using C++., C++ XLSX to IMAGE saveformat., XLSX to IMAGE Converter., C++ Save XLSX as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

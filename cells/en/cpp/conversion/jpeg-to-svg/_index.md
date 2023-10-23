@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to SVG - JPEG to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to SVG in C++. C++ Convert JPEG to SVG saveformat. C++ JPEG to SVG format. Save JPEG to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to SVG in C++., C++ JPEG to SVG saveformat., JPEG to SVG C++., C++ Convert JPEG to SVG]
+description: Aspose Excel. Convert JPEG to SVG quickly and easily with Aspose.Cells. C++ JPEG to SVG. C++ Save JPEG to SVG. Save JPEG as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to SVG in C++., Save JPEG to SVG using C++., C++ JPEG to SVG saveformat., JPEG to SVG Converter., C++ Save JPEG as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

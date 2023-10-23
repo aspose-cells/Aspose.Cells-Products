@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to ETT - EXCEL to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to ETT in Python. Python Convert EXCEL to ETT saveformat. Python EXCEL to ETT format. Save EXCEL to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to ETT in Python., Python EXCEL to ETT saveformat., EXCEL to ETT Python., Python Convert EXCEL to ETT]
+description: Aspose Excel. Convert EXCEL to ETT quickly and easily with Aspose.Cells. Python EXCEL to ETT. Python Save EXCEL to ETT. Save EXCEL as ETT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to ETT in Python., Save EXCEL to ETT using Python., Python EXCEL to ETT saveformat., EXCEL to ETT Converter., Python Save EXCEL as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

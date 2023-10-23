@@ -1,7 +1,7 @@
 ---
 title: C# XLTM to JSON - XLTM to JSON Converter
-description: Aspose Excel. C# Aspose.Cells. XLTM to JSON in C#. C# Convert XLTM to JSON saveformat. C# XLTM to JSON format. Save XLTM to JSON C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTM to JSON in C#., C# XLTM to JSON saveformat., XLTM to JSON C#., C# Convert XLTM to JSON]
+description: Aspose Excel. Convert XLTM to JSON quickly and easily with Aspose.Cells. C# XLTM to JSON. C# Save XLTM to JSON. Save XLTM as JSON using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTM to JSON in C#., Save XLTM to JSON using C#., C# XLTM to JSON saveformat., XLTM to JSON Converter., C# Save XLTM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

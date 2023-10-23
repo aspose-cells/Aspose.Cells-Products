@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to FODS - TXT to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to FODS in C++. C++ Convert TXT to FODS saveformat. C++ TXT to FODS format. Save TXT to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to FODS in C++., C++ TXT to FODS saveformat., TXT to FODS C++., C++ Convert TXT to FODS]
+description: Aspose Excel. Convert TXT to FODS quickly and easily with Aspose.Cells. C++ TXT to FODS. C++ Save TXT to FODS. Save TXT as FODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to FODS in C++., Save TXT to FODS using C++., C++ TXT to FODS saveformat., TXT to FODS Converter., C++ Save TXT as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

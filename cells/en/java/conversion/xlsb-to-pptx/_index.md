@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to PPTX - XLSB to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to PPTX in Java. Java Convert XLSB to PPTX saveformat. Java XLSB to PPTX format. Save XLSB to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to PPTX in Java., Java XLSB to PPTX saveformat., XLSB to PPTX Java., Java Convert XLSB to PPTX]
+description: Aspose Excel. Convert XLSB to PPTX quickly and easily with Aspose.Cells. Java XLSB to PPTX. Java Save XLSB to PPTX. Save XLSB as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to PPTX in Java., Save XLSB to PPTX using Java., Java XLSB to PPTX saveformat., XLSB to PPTX Converter., Java Save XLSB as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

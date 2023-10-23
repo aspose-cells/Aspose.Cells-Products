@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to WORD - XLTM to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to WORD in Python. Python Convert XLTM to WORD saveformat. Python XLTM to WORD format. Save XLTM to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to WORD in Python., Python XLTM to WORD saveformat., XLTM to WORD Python., Python Convert XLTM to WORD]
+description: Aspose Excel. Convert XLTM to WORD quickly and easily with Aspose.Cells. Python XLTM to WORD. Python Save XLTM to WORD. Save XLTM as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to WORD in Python., Save XLTM to WORD using Python., Python XLTM to WORD saveformat., XLTM to WORD Converter., Python Save XLTM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

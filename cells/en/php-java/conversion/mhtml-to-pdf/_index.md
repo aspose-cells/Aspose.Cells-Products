@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to PDF - MHTML to PDF Converter
-description: PHP Aspose.Cells. MHTML to PDF in PHP. PHP Convert MHTML to PDF saveformat. PHP MHTML to PDF Converter. Save MHTML to PDF PHP.
-keywords: [PHP Aspose.Cells., MHTML to PDF in PHP., PHP MHTML to PDF saveformat., MHTML to PDF PHP., PHP Convert MHTML to PDF., Save MHTML to PDF PHP., MHTML to PDF Converter., Save MHTML as PDF]
+description: Aspose Excel. Convert MHTML to PDF quickly and easily with Aspose.Cells. PHP MHTML to PDF. PHP Save MHTML to PDF. Save MHTML as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to PDF in PHP., Save MHTML to PDF using PHP., PHP MHTML to PDF saveformat., MHTML to PDF Converter., PHP Save MHTML as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

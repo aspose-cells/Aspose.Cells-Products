@@ -1,7 +1,7 @@
 ---
 title: Python OTS to DOCX - OTS to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to DOCX in Python. Python Convert OTS to DOCX saveformat. Python OTS to DOCX format. Save OTS to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to DOCX in Python., Python OTS to DOCX saveformat., OTS to DOCX Python., Python Convert OTS to DOCX]
+description: Aspose Excel. Convert OTS to DOCX quickly and easily with Aspose.Cells. Python OTS to DOCX. Python Save OTS to DOCX. Save OTS as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to DOCX in Python., Save OTS to DOCX using Python., Python OTS to DOCX saveformat., OTS to DOCX Converter., Python Save OTS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

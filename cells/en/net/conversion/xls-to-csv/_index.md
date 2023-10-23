@@ -1,7 +1,7 @@
 ---
 title: C# XLS to CSV - XLS to CSV Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to CSV in C#. C# Convert XLS to CSV saveformat. C# XLS to CSV format. Save XLS to CSV C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to CSV in C#., C# XLS to CSV saveformat., XLS to CSV C#., C# Convert XLS to CSV]
+description: Aspose Excel. Convert XLS to CSV quickly and easily with Aspose.Cells. C# XLS to CSV. C# Save XLS to CSV. Save XLS as CSV using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to CSV in C#., Save XLS to CSV using C#., C# XLS to CSV saveformat., XLS to CSV Converter., C# Save XLS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to MHTML - XLTX to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to MHTML in C++. C++ Convert XLTX to MHTML saveformat. C++ XLTX to MHTML format. Save XLTX to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to MHTML in C++., C++ XLTX to MHTML saveformat., XLTX to MHTML C++., C++ Convert XLTX to MHTML]
+description: Aspose Excel. Convert XLTX to MHTML quickly and easily with Aspose.Cells. C++ XLTX to MHTML. C++ Save XLTX to MHTML. Save XLTX as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to MHTML in C++., Save XLTX to MHTML using C++., C++ XLTX to MHTML saveformat., XLTX to MHTML Converter., C++ Save XLTX as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

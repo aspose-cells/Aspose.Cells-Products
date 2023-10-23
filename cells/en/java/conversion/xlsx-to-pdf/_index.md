@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to PDF - XLSX to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to PDF in Java. Java Convert XLSX to PDF saveformat. Java XLSX to PDF format. Save XLSX to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to PDF in Java., Java XLSX to PDF saveformat., XLSX to PDF Java., Java Convert XLSX to PDF]
+description: Aspose Excel. Convert XLSX to PDF quickly and easily with Aspose.Cells. Java XLSX to PDF. Java Save XLSX to PDF. Save XLSX as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to PDF in Java., Save XLSX to PDF using Java., Java XLSX to PDF saveformat., XLSX to PDF Converter., Java Save XLSX as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

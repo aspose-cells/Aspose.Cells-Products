@@ -1,7 +1,7 @@
 ---
 title: Python XLT to WORD - XLT to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. XLT to WORD in Python. Python Convert XLT to WORD saveformat. Python XLT to WORD format. Save XLT to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLT to WORD in Python., Python XLT to WORD saveformat., XLT to WORD Python., Python Convert XLT to WORD]
+description: Aspose Excel. Convert XLT to WORD quickly and easily with Aspose.Cells. Python XLT to WORD. Python Save XLT to WORD. Save XLT as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to WORD in Python., Save XLT to WORD using Python., Python XLT to WORD saveformat., XLT to WORD Converter., Python Save XLT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java PRN to SXC - PRN to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to SXC in Java. Java Convert PRN to SXC saveformat. Java PRN to SXC format. Save PRN to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to SXC in Java., Java PRN to SXC saveformat., PRN to SXC Java., Java Convert PRN to SXC]
+description: Aspose Excel. Convert PRN to SXC quickly and easily with Aspose.Cells. Java PRN to SXC. Java Save PRN to SXC. Save PRN as SXC using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to SXC in Java., Save PRN to SXC using Java., Java PRN to SXC saveformat., PRN to SXC Converter., Java Save PRN as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

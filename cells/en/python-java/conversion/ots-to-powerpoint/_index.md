@@ -1,7 +1,7 @@
 ---
 title: Python OTS to POWERPOINT - OTS to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to POWERPOINT in Python. Python Convert OTS to POWERPOINT saveformat. Python OTS to POWERPOINT format. Save OTS to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to POWERPOINT in Python., Python OTS to POWERPOINT saveformat., OTS to POWERPOINT Python., Python Convert OTS to POWERPOINT]
+description: Aspose Excel. Convert OTS to POWERPOINT quickly and easily with Aspose.Cells. Python OTS to POWERPOINT. Python Save OTS to POWERPOINT. Save OTS as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to POWERPOINT in Python., Save OTS to POWERPOINT using Python., Python OTS to POWERPOINT saveformat., OTS to POWERPOINT Converter., Python Save OTS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

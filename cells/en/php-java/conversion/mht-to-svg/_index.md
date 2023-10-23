@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to SVG - MHT to SVG Converter
-description: PHP Aspose.Cells. MHT to SVG in PHP. PHP Convert MHT to SVG saveformat. PHP MHT to SVG Converter. Save MHT to SVG PHP.
-keywords: [PHP Aspose.Cells., MHT to SVG in PHP., PHP MHT to SVG saveformat., MHT to SVG PHP., PHP Convert MHT to SVG., Save MHT to SVG PHP., MHT to SVG Converter., Save MHT as SVG]
+description: Aspose Excel. Convert MHT to SVG quickly and easily with Aspose.Cells. PHP MHT to SVG. PHP Save MHT to SVG. Save MHT as SVG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to SVG in PHP., Save MHT to SVG using PHP., PHP MHT to SVG saveformat., MHT to SVG Converter., PHP Save MHT as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to GIF - XLSB to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to GIF in Java. Java Convert XLSB to GIF saveformat. Java XLSB to GIF format. Save XLSB to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to GIF in Java., Java XLSB to GIF saveformat., XLSB to GIF Java., Java Convert XLSB to GIF]
+description: Aspose Excel. Convert XLSB to GIF quickly and easily with Aspose.Cells. Java XLSB to GIF. Java Save XLSB to GIF. Save XLSB as GIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to GIF in Java., Save XLSB to GIF using Java., Java XLSB to GIF saveformat., XLSB to GIF Converter., Java Save XLSB as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

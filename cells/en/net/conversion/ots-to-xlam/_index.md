@@ -1,7 +1,7 @@
 ---
 title: C# OTS to XLAM - OTS to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. OTS to XLAM in C#. C# Convert OTS to XLAM saveformat. C# OTS to XLAM format. Save OTS to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., OTS to XLAM in C#., C# OTS to XLAM saveformat., OTS to XLAM C#., C# Convert OTS to XLAM]
+description: Aspose Excel. Convert OTS to XLAM quickly and easily with Aspose.Cells. C# OTS to XLAM. C# Save OTS to XLAM. Save OTS as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert OTS to XLAM in C#., Save OTS to XLAM using C#., C# OTS to XLAM saveformat., OTS to XLAM Converter., C# Save OTS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

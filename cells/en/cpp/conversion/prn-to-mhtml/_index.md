@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to MHTML - PRN to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to MHTML in C++. C++ Convert PRN to MHTML saveformat. C++ PRN to MHTML format. Save PRN to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to MHTML in C++., C++ PRN to MHTML saveformat., PRN to MHTML C++., C++ Convert PRN to MHTML]
+description: Aspose Excel. Convert PRN to MHTML quickly and easily with Aspose.Cells. C++ PRN to MHTML. C++ Save PRN to MHTML. Save PRN as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to MHTML in C++., Save PRN to MHTML using C++., C++ PRN to MHTML saveformat., PRN to MHTML Converter., C++ Save PRN as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

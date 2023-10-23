@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to DOCX - SXC to DOCX Converter
-description: PHP Aspose.Cells. SXC to DOCX in PHP. PHP Convert SXC to DOCX saveformat. PHP SXC to DOCX Converter. Save SXC to DOCX PHP.
-keywords: [PHP Aspose.Cells., SXC to DOCX in PHP., PHP SXC to DOCX saveformat., SXC to DOCX PHP., PHP Convert SXC to DOCX., Save SXC to DOCX PHP., SXC to DOCX Converter., Save SXC as DOCX]
+description: Aspose Excel. Convert SXC to DOCX quickly and easily with Aspose.Cells. PHP SXC to DOCX. PHP Save SXC to DOCX. Save SXC as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to DOCX in PHP., Save SXC to DOCX using PHP., PHP SXC to DOCX saveformat., SXC to DOCX Converter., PHP Save SXC as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

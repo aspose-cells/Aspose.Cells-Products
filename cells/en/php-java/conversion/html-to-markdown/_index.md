@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to MARKDOWN - HTML to MARKDOWN Converter
-description: PHP Aspose.Cells. HTML to MARKDOWN in PHP. PHP Convert HTML to MARKDOWN saveformat. PHP HTML to MARKDOWN Converter. Save HTML to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., HTML to MARKDOWN in PHP., PHP HTML to MARKDOWN saveformat., HTML to MARKDOWN PHP., PHP Convert HTML to MARKDOWN., Save HTML to MARKDOWN PHP., HTML to MARKDOWN Converter., Save HTML as MARKDOWN]
+description: Aspose Excel. Convert HTML to MARKDOWN quickly and easily with Aspose.Cells. PHP HTML to MARKDOWN. PHP Save HTML to MARKDOWN. Save HTML as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to MARKDOWN in PHP., Save HTML to MARKDOWN using PHP., PHP HTML to MARKDOWN saveformat., HTML to MARKDOWN Converter., PHP Save HTML as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

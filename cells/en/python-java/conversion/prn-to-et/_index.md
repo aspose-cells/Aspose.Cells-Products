@@ -1,7 +1,7 @@
 ---
 title: Python PRN to ET - PRN to ET Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to ET in Python. Python Convert PRN to ET saveformat. Python PRN to ET format. Save PRN to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to ET in Python., Python PRN to ET saveformat., PRN to ET Python., Python Convert PRN to ET]
+description: Aspose Excel. Convert PRN to ET quickly and easily with Aspose.Cells. Python PRN to ET. Python Save PRN to ET. Save PRN as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to ET in Python., Save PRN to ET using Python., Python PRN to ET saveformat., PRN to ET Converter., Python Save PRN as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

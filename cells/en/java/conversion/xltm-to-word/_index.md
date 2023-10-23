@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to WORD - XLTM to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to WORD in Java. Java Convert XLTM to WORD saveformat. Java XLTM to WORD format. Save XLTM to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to WORD in Java., Java XLTM to WORD saveformat., XLTM to WORD Java., Java Convert XLTM to WORD]
+description: Aspose Excel. Convert XLTM to WORD quickly and easily with Aspose.Cells. Java XLTM to WORD. Java Save XLTM to WORD. Save XLTM as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to WORD in Java., Save XLTM to WORD using Java., Java XLTM to WORD saveformat., XLTM to WORD Converter., Java Save XLTM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

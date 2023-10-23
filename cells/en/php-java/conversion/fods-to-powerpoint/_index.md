@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to POWERPOINT - FODS to POWERPOINT Converter
-description: PHP Aspose.Cells. FODS to POWERPOINT in PHP. PHP Convert FODS to POWERPOINT saveformat. PHP FODS to POWERPOINT Converter. Save FODS to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., FODS to POWERPOINT in PHP., PHP FODS to POWERPOINT saveformat., FODS to POWERPOINT PHP., PHP Convert FODS to POWERPOINT., Save FODS to POWERPOINT PHP., FODS to POWERPOINT Converter., Save FODS as POWERPOINT]
+description: Aspose Excel. Convert FODS to POWERPOINT quickly and easily with Aspose.Cells. PHP FODS to POWERPOINT. PHP Save FODS to POWERPOINT. Save FODS as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to POWERPOINT in PHP., Save FODS to POWERPOINT using PHP., PHP FODS to POWERPOINT saveformat., FODS to POWERPOINT Converter., PHP Save FODS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

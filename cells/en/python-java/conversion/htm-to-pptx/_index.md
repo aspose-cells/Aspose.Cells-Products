@@ -1,7 +1,7 @@
 ---
 title: Python HTM to PPTX - HTM to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to PPTX in Python. Python Convert HTM to PPTX saveformat. Python HTM to PPTX format. Save HTM to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to PPTX in Python., Python HTM to PPTX saveformat., HTM to PPTX Python., Python Convert HTM to PPTX]
+description: Aspose Excel. Convert HTM to PPTX quickly and easily with Aspose.Cells. Python HTM to PPTX. Python Save HTM to PPTX. Save HTM as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to PPTX in Python., Save HTM to PPTX using Python., Python HTM to PPTX saveformat., HTM to PPTX Converter., Python Save HTM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to PPTX - HTML to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to PPTX in C++. C++ Convert HTML to PPTX saveformat. C++ HTML to PPTX format. Save HTML to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to PPTX in C++., C++ HTML to PPTX saveformat., HTML to PPTX C++., C++ Convert HTML to PPTX]
+description: Aspose Excel. Convert HTML to PPTX quickly and easily with Aspose.Cells. C++ HTML to PPTX. C++ Save HTML to PPTX. Save HTML as PPTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to PPTX in C++., Save HTML to PPTX using C++., C++ HTML to PPTX saveformat., HTML to PPTX Converter., C++ Save HTML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

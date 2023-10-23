@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to WORD - SXC to WORD Converter
-description: PHP Aspose.Cells. SXC to WORD in PHP. PHP Convert SXC to WORD saveformat. PHP SXC to WORD Converter. Save SXC to WORD PHP.
-keywords: [PHP Aspose.Cells., SXC to WORD in PHP., PHP SXC to WORD saveformat., SXC to WORD PHP., PHP Convert SXC to WORD., Save SXC to WORD PHP., SXC to WORD Converter., Save SXC as WORD]
+description: Aspose Excel. Convert SXC to WORD quickly and easily with Aspose.Cells. PHP SXC to WORD. PHP Save SXC to WORD. Save SXC as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to WORD in PHP., Save SXC to WORD using PHP., PHP SXC to WORD saveformat., SXC to WORD Converter., PHP Save SXC as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

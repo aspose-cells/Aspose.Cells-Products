@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to GIF - MHT to GIF Converter
-description: PHP Aspose.Cells. MHT to GIF in PHP. PHP Convert MHT to GIF saveformat. PHP MHT to GIF Converter. Save MHT to GIF PHP.
-keywords: [PHP Aspose.Cells., MHT to GIF in PHP., PHP MHT to GIF saveformat., MHT to GIF PHP., PHP Convert MHT to GIF., Save MHT to GIF PHP., MHT to GIF Converter., Save MHT as GIF]
+description: Aspose Excel. Convert MHT to GIF quickly and easily with Aspose.Cells. PHP MHT to GIF. PHP Save MHT to GIF. Save MHT as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to GIF in PHP., Save MHT to GIF using PHP., PHP MHT to GIF saveformat., MHT to GIF Converter., PHP Save MHT as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

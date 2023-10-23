@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to DIF - XLSB to DIF Converter
-description: PHP Aspose.Cells. XLSB to DIF in PHP. PHP Convert XLSB to DIF saveformat. PHP XLSB to DIF Converter. Save XLSB to DIF PHP.
-keywords: [PHP Aspose.Cells., XLSB to DIF in PHP., PHP XLSB to DIF saveformat., XLSB to DIF PHP., PHP Convert XLSB to DIF., Save XLSB to DIF PHP., XLSB to DIF Converter., Save XLSB as DIF]
+description: Aspose Excel. Convert XLSB to DIF quickly and easily with Aspose.Cells. PHP XLSB to DIF. PHP Save XLSB to DIF. Save XLSB as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to DIF in PHP., Save XLSB to DIF using PHP., PHP XLSB to DIF saveformat., XLSB to DIF Converter., PHP Save XLSB as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

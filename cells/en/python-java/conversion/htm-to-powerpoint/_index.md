@@ -1,7 +1,7 @@
 ---
 title: Python HTM to POWERPOINT - HTM to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to POWERPOINT in Python. Python Convert HTM to POWERPOINT saveformat. Python HTM to POWERPOINT format. Save HTM to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to POWERPOINT in Python., Python HTM to POWERPOINT saveformat., HTM to POWERPOINT Python., Python Convert HTM to POWERPOINT]
+description: Aspose Excel. Convert HTM to POWERPOINT quickly and easily with Aspose.Cells. Python HTM to POWERPOINT. Python Save HTM to POWERPOINT. Save HTM as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to POWERPOINT in Python., Save HTM to POWERPOINT using Python., Python HTM to POWERPOINT saveformat., HTM to POWERPOINT Converter., Python Save HTM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

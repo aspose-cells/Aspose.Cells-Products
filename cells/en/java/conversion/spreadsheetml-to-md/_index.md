@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to MD - SPREADSHEETML to MD Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to MD in Java. Java Convert SPREADSHEETML to MD saveformat. Java SPREADSHEETML to MD format. Save SPREADSHEETML to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to MD in Java., Java SPREADSHEETML to MD saveformat., SPREADSHEETML to MD Java., Java Convert SPREADSHEETML to MD]
+description: Aspose Excel. Convert SPREADSHEETML to MD quickly and easily with Aspose.Cells. Java SPREADSHEETML to MD. Java Save SPREADSHEETML to MD. Save SPREADSHEETML as MD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to MD in Java., Save SPREADSHEETML to MD using Java., Java SPREADSHEETML to MD saveformat., SPREADSHEETML to MD Converter., Java Save SPREADSHEETML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# ODS to PPTX - ODS to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. ODS to PPTX in C#. C# Convert ODS to PPTX saveformat. C# ODS to PPTX format. Save ODS to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., ODS to PPTX in C#., C# ODS to PPTX saveformat., ODS to PPTX C#., C# Convert ODS to PPTX]
+description: Aspose Excel. Convert ODS to PPTX quickly and easily with Aspose.Cells. C# ODS to PPTX. C# Save ODS to PPTX. Save ODS as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert ODS to PPTX in C#., Save ODS to PPTX using C#., C# ODS to PPTX saveformat., ODS to PPTX Converter., C# Save ODS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

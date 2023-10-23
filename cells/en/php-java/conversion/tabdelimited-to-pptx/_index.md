@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to PPTX - TABDELIMITED to PPTX Converter
-description: PHP Aspose.Cells. TABDELIMITED to PPTX in PHP. PHP Convert TABDELIMITED to PPTX saveformat. PHP TABDELIMITED to PPTX Converter. Save TABDELIMITED to PPTX PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to PPTX in PHP., PHP TABDELIMITED to PPTX saveformat., TABDELIMITED to PPTX PHP., PHP Convert TABDELIMITED to PPTX., Save TABDELIMITED to PPTX PHP., TABDELIMITED to PPTX Converter., Save TABDELIMITED as PPTX]
+description: Aspose Excel. Convert TABDELIMITED to PPTX quickly and easily with Aspose.Cells. PHP TABDELIMITED to PPTX. PHP Save TABDELIMITED to PPTX. Save TABDELIMITED as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to PPTX in PHP., Save TABDELIMITED to PPTX using PHP., PHP TABDELIMITED to PPTX saveformat., TABDELIMITED to PPTX Converter., PHP Save TABDELIMITED as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

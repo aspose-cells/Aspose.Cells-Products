@@ -1,7 +1,7 @@
 ---
 title: C# XLTM to GIF - XLTM to GIF Converter
-description: Aspose Excel. C# Aspose.Cells. XLTM to GIF in C#. C# Convert XLTM to GIF saveformat. C# XLTM to GIF format. Save XLTM to GIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTM to GIF in C#., C# XLTM to GIF saveformat., XLTM to GIF C#., C# Convert XLTM to GIF]
+description: Aspose Excel. Convert XLTM to GIF quickly and easily with Aspose.Cells. C# XLTM to GIF. C# Save XLTM to GIF. Save XLTM as GIF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTM to GIF in C#., Save XLTM to GIF using C#., C# XLTM to GIF saveformat., XLTM to GIF Converter., C# Save XLTM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

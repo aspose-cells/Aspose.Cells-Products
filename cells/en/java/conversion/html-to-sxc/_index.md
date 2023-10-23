@@ -1,7 +1,7 @@
 ---
 title: Java HTML to SXC - HTML to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. HTML to SXC in Java. Java Convert HTML to SXC saveformat. Java HTML to SXC format. Save HTML to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTML to SXC in Java., Java HTML to SXC saveformat., HTML to SXC Java., Java Convert HTML to SXC]
+description: Aspose Excel. Convert HTML to SXC quickly and easily with Aspose.Cells. Java HTML to SXC. Java Save HTML to SXC. Save HTML as SXC using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to SXC in Java., Save HTML to SXC using Java., Java HTML to SXC saveformat., HTML to SXC Converter., Java Save HTML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

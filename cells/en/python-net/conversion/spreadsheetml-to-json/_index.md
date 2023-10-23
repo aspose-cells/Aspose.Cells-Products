@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML to JSON - SPREADSHEETML to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to JSON in Python. Python Convert SPREADSHEETML to JSON saveformat. Python SPREADSHEETML to JSON format. Save SPREADSHEETML to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to JSON in Python., Python SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON Python., Python Convert SPREADSHEETML to JSON]
+description: Aspose Excel. Convert SPREADSHEETML to JSON quickly and easily with Aspose.Cells. Python SPREADSHEETML to JSON. Python Save SPREADSHEETML to JSON. Save SPREADSHEETML as JSON using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to JSON in Python., Save SPREADSHEETML to JSON using Python., Python SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON Converter., Python Save SPREADSHEETML as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to ET - HTM to ET Converter
-description: PHP Aspose.Cells. HTM to ET in PHP. PHP Convert HTM to ET saveformat. PHP HTM to ET Converter. Save HTM to ET PHP.
-keywords: [PHP Aspose.Cells., HTM to ET in PHP., PHP HTM to ET saveformat., HTM to ET PHP., PHP Convert HTM to ET., Save HTM to ET PHP., HTM to ET Converter., Save HTM as ET]
+description: Aspose Excel. Convert HTM to ET quickly and easily with Aspose.Cells. PHP HTM to ET. PHP Save HTM to ET. Save HTM as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to ET in PHP., Save HTM to ET using PHP., PHP HTM to ET saveformat., HTM to ET Converter., PHP Save HTM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

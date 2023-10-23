@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to PDF - JPEG to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. JPEG to PDF in Java. Java Convert JPEG to PDF saveformat. Java JPEG to PDF format. Save JPEG to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPEG to PDF in Java., Java JPEG to PDF saveformat., JPEG to PDF Java., Java Convert JPEG to PDF]
+description: Aspose Excel. Convert JPEG to PDF quickly and easily with Aspose.Cells. Java JPEG to PDF. Java Save JPEG to PDF. Save JPEG as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to PDF in Java., Save JPEG to PDF using Java., Java JPEG to PDF saveformat., JPEG to PDF Converter., Java Save JPEG as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

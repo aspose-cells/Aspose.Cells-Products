@@ -1,7 +1,7 @@
 ---
 title: Java FODS to DIF - FODS to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to DIF in Java. Java Convert FODS to DIF saveformat. Java FODS to DIF format. Save FODS to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to DIF in Java., Java FODS to DIF saveformat., FODS to DIF Java., Java Convert FODS to DIF]
+description: Aspose Excel. Convert FODS to DIF quickly and easily with Aspose.Cells. Java FODS to DIF. Java Save FODS to DIF. Save FODS as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to DIF in Java., Save FODS to DIF using Java., Java FODS to DIF saveformat., FODS to DIF Converter., Java Save FODS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

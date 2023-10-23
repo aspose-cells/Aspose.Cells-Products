@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to FODS - XLT to FODS Converter
-description: PHP Aspose.Cells. XLT to FODS in PHP. PHP Convert XLT to FODS saveformat. PHP XLT to FODS Converter. Save XLT to FODS PHP.
-keywords: [PHP Aspose.Cells., XLT to FODS in PHP., PHP XLT to FODS saveformat., XLT to FODS PHP., PHP Convert XLT to FODS., Save XLT to FODS PHP., XLT to FODS Converter., Save XLT as FODS]
+description: Aspose Excel. Convert XLT to FODS quickly and easily with Aspose.Cells. PHP XLT to FODS. PHP Save XLT to FODS. Save XLT as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to FODS in PHP., Save XLT to FODS using PHP., PHP XLT to FODS saveformat., XLT to FODS Converter., PHP Save XLT as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

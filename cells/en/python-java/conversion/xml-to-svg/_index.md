@@ -1,7 +1,7 @@
 ---
 title: Python XML to SVG - XML to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. XML to SVG in Python. Python Convert XML to SVG saveformat. Python XML to SVG format. Save XML to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to SVG in Python., Python XML to SVG saveformat., XML to SVG Python., Python Convert XML to SVG]
+description: Aspose Excel. Convert XML to SVG quickly and easily with Aspose.Cells. Python XML to SVG. Python Save XML to SVG. Save XML as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to SVG in Python., Save XML to SVG using Python., Python XML to SVG saveformat., XML to SVG Converter., Python Save XML as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to WORD - XLTX to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to WORD in Python. Python Convert XLTX to WORD saveformat. Python XLTX to WORD format. Save XLTX to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to WORD in Python., Python XLTX to WORD saveformat., XLTX to WORD Python., Python Convert XLTX to WORD]
+description: Aspose Excel. Convert XLTX to WORD quickly and easily with Aspose.Cells. Python XLTX to WORD. Python Save XLTX to WORD. Save XLTX as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to WORD in Python., Save XLTX to WORD using Python., Python XLTX to WORD saveformat., XLTX to WORD Converter., Python Save XLTX as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

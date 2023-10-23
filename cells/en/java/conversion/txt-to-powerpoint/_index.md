@@ -1,7 +1,7 @@
 ---
 title: Java TXT to POWERPOINT - TXT to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to POWERPOINT in Java. Java Convert TXT to POWERPOINT saveformat. Java TXT to POWERPOINT format. Save TXT to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to POWERPOINT in Java., Java TXT to POWERPOINT saveformat., TXT to POWERPOINT Java., Java Convert TXT to POWERPOINT]
+description: Aspose Excel. Convert TXT to POWERPOINT quickly and easily with Aspose.Cells. Java TXT to POWERPOINT. Java Save TXT to POWERPOINT. Save TXT as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to POWERPOINT in Java., Save TXT to POWERPOINT using Java., Java TXT to POWERPOINT saveformat., TXT to POWERPOINT Converter., Java Save TXT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

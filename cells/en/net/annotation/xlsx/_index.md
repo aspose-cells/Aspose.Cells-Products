@@ -1,8 +1,9 @@
 ---
-title: Remove XLSX Annotation via .NET 
+title: Add or Remove XLSX Annotation via .NET 
 weight: 2010
 
 description: C# source code to add and delete XLSX format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

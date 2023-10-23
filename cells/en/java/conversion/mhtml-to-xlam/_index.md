@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to XLAM - MHTML to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to XLAM in Java. Java Convert MHTML to XLAM saveformat. Java MHTML to XLAM format. Save MHTML to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to XLAM in Java., Java MHTML to XLAM saveformat., MHTML to XLAM Java., Java Convert MHTML to XLAM]
+description: Aspose Excel. Convert MHTML to XLAM quickly and easily with Aspose.Cells. Java MHTML to XLAM. Java Save MHTML to XLAM. Save MHTML as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to XLAM in Java., Save MHTML to XLAM using Java., Java MHTML to XLAM saveformat., MHTML to XLAM Converter., Java Save MHTML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

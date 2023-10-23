@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to GIF - JPG to GIF Converter
-description: PHP Aspose.Cells. JPG to GIF in PHP. PHP Convert JPG to GIF saveformat. PHP JPG to GIF Converter. Save JPG to GIF PHP.
-keywords: [PHP Aspose.Cells., JPG to GIF in PHP., PHP JPG to GIF saveformat., JPG to GIF PHP., PHP Convert JPG to GIF., Save JPG to GIF PHP., JPG to GIF Converter., Save JPG as GIF]
+description: Aspose Excel. Convert JPG to GIF quickly and easily with Aspose.Cells. PHP JPG to GIF. PHP Save JPG to GIF. Save JPG as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to GIF in PHP., Save JPG to GIF using PHP., PHP JPG to GIF saveformat., JPG to GIF Converter., PHP Save JPG as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

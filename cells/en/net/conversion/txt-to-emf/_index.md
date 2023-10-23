@@ -1,7 +1,7 @@
 ---
 title: C# TXT to EMF - TXT to EMF Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to EMF in C#. C# Convert TXT to EMF saveformat. C# TXT to EMF format. Save TXT to EMF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to EMF in C#., C# TXT to EMF saveformat., TXT to EMF C#., C# Convert TXT to EMF]
+description: Aspose Excel. Convert TXT to EMF quickly and easily with Aspose.Cells. C# TXT to EMF. C# Save TXT to EMF. Save TXT as EMF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to EMF in C#., Save TXT to EMF using C#., C# TXT to EMF saveformat., TXT to EMF Converter., C# Save TXT as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

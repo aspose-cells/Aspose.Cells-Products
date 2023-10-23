@@ -1,7 +1,7 @@
 ---
 title: Java TXT to XPS - TXT to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to XPS in Java. Java Convert TXT to XPS saveformat. Java TXT to XPS format. Save TXT to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to XPS in Java., Java TXT to XPS saveformat., TXT to XPS Java., Java Convert TXT to XPS]
+description: Aspose Excel. Convert TXT to XPS quickly and easily with Aspose.Cells. Java TXT to XPS. Java Save TXT to XPS. Save TXT as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to XPS in Java., Save TXT to XPS using Java., Java TXT to XPS saveformat., TXT to XPS Converter., Java Save TXT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to MARKDOWN - MHTML to MARKDOWN Converter
-description: PHP Aspose.Cells. MHTML to MARKDOWN in PHP. PHP Convert MHTML to MARKDOWN saveformat. PHP MHTML to MARKDOWN Converter. Save MHTML to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., MHTML to MARKDOWN in PHP., PHP MHTML to MARKDOWN saveformat., MHTML to MARKDOWN PHP., PHP Convert MHTML to MARKDOWN., Save MHTML to MARKDOWN PHP., MHTML to MARKDOWN Converter., Save MHTML as MARKDOWN]
+description: Aspose Excel. Convert MHTML to MARKDOWN quickly and easily with Aspose.Cells. PHP MHTML to MARKDOWN. PHP Save MHTML to MARKDOWN. Save MHTML as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to MARKDOWN in PHP., Save MHTML to MARKDOWN using PHP., PHP MHTML to MARKDOWN saveformat., MHTML to MARKDOWN Converter., PHP Save MHTML as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to EXCEL - TABDELIMITED to EXCEL Converter
-description: PHP Aspose.Cells. TABDELIMITED to EXCEL in PHP. PHP Convert TABDELIMITED to EXCEL saveformat. PHP TABDELIMITED to EXCEL Converter. Save TABDELIMITED to EXCEL PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to EXCEL in PHP., PHP TABDELIMITED to EXCEL saveformat., TABDELIMITED to EXCEL PHP., PHP Convert TABDELIMITED to EXCEL., Save TABDELIMITED to EXCEL PHP., TABDELIMITED to EXCEL Converter., Save TABDELIMITED as EXCEL]
+description: Aspose Excel. Convert TABDELIMITED to EXCEL quickly and easily with Aspose.Cells. PHP TABDELIMITED to EXCEL. PHP Save TABDELIMITED to EXCEL. Save TABDELIMITED as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to EXCEL in PHP., Save TABDELIMITED to EXCEL using PHP., PHP TABDELIMITED to EXCEL saveformat., TABDELIMITED to EXCEL Converter., PHP Save TABDELIMITED as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

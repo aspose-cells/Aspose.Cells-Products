@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to XLAM - XLTM to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to XLAM in C++. C++ Convert XLTM to XLAM saveformat. C++ XLTM to XLAM format. Save XLTM to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to XLAM in C++., C++ XLTM to XLAM saveformat., XLTM to XLAM C++., C++ Convert XLTM to XLAM]
+description: Aspose Excel. Convert XLTM to XLAM quickly and easily with Aspose.Cells. C++ XLTM to XLAM. C++ Save XLTM to XLAM. Save XLTM as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to XLAM in C++., Save XLTM to XLAM using C++., C++ XLTM to XLAM saveformat., XLTM to XLAM Converter., C++ Save XLTM as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

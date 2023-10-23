@@ -1,7 +1,7 @@
 ---
 title: Python PNG to POWERPOINT - PNG to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to POWERPOINT in Python. Python Convert PNG to POWERPOINT saveformat. Python PNG to POWERPOINT format. Save PNG to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to POWERPOINT in Python., Python PNG to POWERPOINT saveformat., PNG to POWERPOINT Python., Python Convert PNG to POWERPOINT]
+description: Aspose Excel. Convert PNG to POWERPOINT quickly and easily with Aspose.Cells. Python PNG to POWERPOINT. Python Save PNG to POWERPOINT. Save PNG as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to POWERPOINT in Python., Save PNG to POWERPOINT using Python., Python PNG to POWERPOINT saveformat., PNG to POWERPOINT Converter., Python Save PNG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to XLT - XLSB to XLT Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to XLT in C#. C# Convert XLSB to XLT saveformat. C# XLSB to XLT format. Save XLSB to XLT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to XLT in C#., C# XLSB to XLT saveformat., XLSB to XLT C#., C# Convert XLSB to XLT]
+description: Aspose Excel. Convert XLSB to XLT quickly and easily with Aspose.Cells. C# XLSB to XLT. C# Save XLSB to XLT. Save XLSB as XLT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to XLT in C#., Save XLSB to XLT using C#., C# XLSB to XLT saveformat., XLSB to XLT Converter., C# Save XLSB as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

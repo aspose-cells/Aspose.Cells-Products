@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to TXT - SXC to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to TXT in C++. C++ Convert SXC to TXT saveformat. C++ SXC to TXT format. Save SXC to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to TXT in C++., C++ SXC to TXT saveformat., SXC to TXT C++., C++ Convert SXC to TXT]
+description: Aspose Excel. Convert SXC to TXT quickly and easily with Aspose.Cells. C++ SXC to TXT. C++ Save SXC to TXT. Save SXC as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to TXT in C++., Save SXC to TXT using C++., C++ SXC to TXT saveformat., SXC to TXT Converter., C++ Save SXC as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

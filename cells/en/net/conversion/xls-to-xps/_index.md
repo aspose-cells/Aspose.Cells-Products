@@ -1,7 +1,7 @@
 ---
 title: C# XLS to XPS - XLS to XPS Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to XPS in C#. C# Convert XLS to XPS saveformat. C# XLS to XPS format. Save XLS to XPS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to XPS in C#., C# XLS to XPS saveformat., XLS to XPS C#., C# Convert XLS to XPS]
+description: Aspose Excel. Convert XLS to XPS quickly and easily with Aspose.Cells. C# XLS to XPS. C# Save XLS to XPS. Save XLS as XPS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to XPS in C#., Save XLS to XPS using C#., C# XLS to XPS saveformat., XLS to XPS Converter., C# Save XLS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

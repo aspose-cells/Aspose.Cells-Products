@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to XLTX - XLSX to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to XLTX in C++. C++ Convert XLSX to XLTX saveformat. C++ XLSX to XLTX format. Save XLSX to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to XLTX in C++., C++ XLSX to XLTX saveformat., XLSX to XLTX C++., C++ Convert XLSX to XLTX]
+description: Aspose Excel. Convert XLSX to XLTX quickly and easily with Aspose.Cells. C++ XLSX to XLTX. C++ Save XLSX to XLTX. Save XLSX as XLTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to XLTX in C++., Save XLSX to XLTX using C++., C++ XLSX to XLTX saveformat., XLSX to XLTX Converter., C++ Save XLSX as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

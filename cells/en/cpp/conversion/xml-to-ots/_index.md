@@ -1,7 +1,7 @@
 ---
 title: C++ XML to OTS - XML to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. XML to OTS in C++. C++ Convert XML to OTS saveformat. C++ XML to OTS format. Save XML to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XML to OTS in C++., C++ XML to OTS saveformat., XML to OTS C++., C++ Convert XML to OTS]
+description: Aspose Excel. Convert XML to OTS quickly and easily with Aspose.Cells. C++ XML to OTS. C++ Save XML to OTS. Save XML as OTS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to OTS in C++., Save XML to OTS using C++., C++ XML to OTS saveformat., XML to OTS Converter., C++ Save XML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

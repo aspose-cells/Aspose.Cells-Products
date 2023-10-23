@@ -1,7 +1,7 @@
 ---
 title: Java XLT to PRN - XLT to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. XLT to PRN in Java. Java Convert XLT to PRN saveformat. Java XLT to PRN format. Save XLT to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLT to PRN in Java., Java XLT to PRN saveformat., XLT to PRN Java., Java Convert XLT to PRN]
+description: Aspose Excel. Convert XLT to PRN quickly and easily with Aspose.Cells. Java XLT to PRN. Java Save XLT to PRN. Save XLT as PRN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to PRN in Java., Save XLT to PRN using Java., Java XLT to PRN saveformat., XLT to PRN Converter., Java Save XLT as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to POWERPOINT - NUMBERS to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to POWERPOINT in Python. Python Convert NUMBERS to POWERPOINT saveformat. Python NUMBERS to POWERPOINT format. Save NUMBERS to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to POWERPOINT in Python., Python NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT Python., Python Convert NUMBERS to POWERPOINT]
+description: Aspose Excel. Convert NUMBERS to POWERPOINT quickly and easily with Aspose.Cells. Python NUMBERS to POWERPOINT. Python Save NUMBERS to POWERPOINT. Save NUMBERS as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to POWERPOINT in Python., Save NUMBERS to POWERPOINT using Python., Python NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT Converter., Python Save NUMBERS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

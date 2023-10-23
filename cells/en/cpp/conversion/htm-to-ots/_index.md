@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to OTS - HTM to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to OTS in C++. C++ Convert HTM to OTS saveformat. C++ HTM to OTS format. Save HTM to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to OTS in C++., C++ HTM to OTS saveformat., HTM to OTS C++., C++ Convert HTM to OTS]
+description: Aspose Excel. Convert HTM to OTS quickly and easily with Aspose.Cells. C++ HTM to OTS. C++ Save HTM to OTS. Save HTM as OTS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to OTS in C++., Save HTM to OTS using C++., C++ HTM to OTS saveformat., HTM to OTS Converter., C++ Save HTM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

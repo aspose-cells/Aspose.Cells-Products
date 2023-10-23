@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to GIF - PNG to GIF Converter
-description: PHP Aspose.Cells. PNG to GIF in PHP. PHP Convert PNG to GIF saveformat. PHP PNG to GIF Converter. Save PNG to GIF PHP.
-keywords: [PHP Aspose.Cells., PNG to GIF in PHP., PHP PNG to GIF saveformat., PNG to GIF PHP., PHP Convert PNG to GIF., Save PNG to GIF PHP., PNG to GIF Converter., Save PNG as GIF]
+description: Aspose Excel. Convert PNG to GIF quickly and easily with Aspose.Cells. PHP PNG to GIF. PHP Save PNG to GIF. Save PNG as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to GIF in PHP., Save PNG to GIF using PHP., PHP PNG to GIF saveformat., PNG to GIF Converter., PHP Save PNG as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

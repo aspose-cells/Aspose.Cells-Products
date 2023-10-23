@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to XLAM - MHTML to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to XLAM in C++. C++ Convert MHTML to XLAM saveformat. C++ MHTML to XLAM format. Save MHTML to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to XLAM in C++., C++ MHTML to XLAM saveformat., MHTML to XLAM C++., C++ Convert MHTML to XLAM]
+description: Aspose Excel. Convert MHTML to XLAM quickly and easily with Aspose.Cells. C++ MHTML to XLAM. C++ Save MHTML to XLAM. Save MHTML as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to XLAM in C++., Save MHTML to XLAM using C++., C++ MHTML to XLAM saveformat., MHTML to XLAM Converter., C++ Save MHTML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

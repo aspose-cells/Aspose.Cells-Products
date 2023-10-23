@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to DIF - XLSM to DIF Converter
-description: PHP Aspose.Cells. XLSM to DIF in PHP. PHP Convert XLSM to DIF saveformat. PHP XLSM to DIF Converter. Save XLSM to DIF PHP.
-keywords: [PHP Aspose.Cells., XLSM to DIF in PHP., PHP XLSM to DIF saveformat., XLSM to DIF PHP., PHP Convert XLSM to DIF., Save XLSM to DIF PHP., XLSM to DIF Converter., Save XLSM as DIF]
+description: Aspose Excel. Convert XLSM to DIF quickly and easily with Aspose.Cells. PHP XLSM to DIF. PHP Save XLSM to DIF. Save XLSM as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to DIF in PHP., Save XLSM to DIF using PHP., PHP XLSM to DIF saveformat., XLSM to DIF Converter., PHP Save XLSM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

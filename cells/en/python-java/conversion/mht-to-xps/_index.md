@@ -1,7 +1,7 @@
 ---
 title: Python MHT to XPS - MHT to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to XPS in Python. Python Convert MHT to XPS saveformat. Python MHT to XPS format. Save MHT to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to XPS in Python., Python MHT to XPS saveformat., MHT to XPS Python., Python Convert MHT to XPS]
+description: Aspose Excel. Convert MHT to XPS quickly and easily with Aspose.Cells. Python MHT to XPS. Python Save MHT to XPS. Save MHT as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to XPS in Python., Save MHT to XPS using Python., Python MHT to XPS saveformat., MHT to XPS Converter., Python Save MHT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

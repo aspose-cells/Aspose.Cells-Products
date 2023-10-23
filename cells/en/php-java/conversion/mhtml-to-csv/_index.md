@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to CSV - MHTML to CSV Converter
-description: PHP Aspose.Cells. MHTML to CSV in PHP. PHP Convert MHTML to CSV saveformat. PHP MHTML to CSV Converter. Save MHTML to CSV PHP.
-keywords: [PHP Aspose.Cells., MHTML to CSV in PHP., PHP MHTML to CSV saveformat., MHTML to CSV PHP., PHP Convert MHTML to CSV., Save MHTML to CSV PHP., MHTML to CSV Converter., Save MHTML as CSV]
+description: Aspose Excel. Convert MHTML to CSV quickly and easily with Aspose.Cells. PHP MHTML to CSV. PHP Save MHTML to CSV. Save MHTML as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to CSV in PHP., Save MHTML to CSV using PHP., PHP MHTML to CSV saveformat., MHTML to CSV Converter., PHP Save MHTML as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to OTS - XLSM to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to OTS in Java. Java Convert XLSM to OTS saveformat. Java XLSM to OTS format. Save XLSM to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to OTS in Java., Java XLSM to OTS saveformat., XLSM to OTS Java., Java Convert XLSM to OTS]
+description: Aspose Excel. Convert XLSM to OTS quickly and easily with Aspose.Cells. Java XLSM to OTS. Java Save XLSM to OTS. Save XLSM as OTS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to OTS in Java., Save XLSM to OTS using Java., Java XLSM to OTS saveformat., XLSM to OTS Converter., Java Save XLSM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

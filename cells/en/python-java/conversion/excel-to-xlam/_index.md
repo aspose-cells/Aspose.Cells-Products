@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to XLAM - EXCEL to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to XLAM in Python. Python Convert EXCEL to XLAM saveformat. Python EXCEL to XLAM format. Save EXCEL to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to XLAM in Python., Python EXCEL to XLAM saveformat., EXCEL to XLAM Python., Python Convert EXCEL to XLAM]
+description: Aspose Excel. Convert EXCEL to XLAM quickly and easily with Aspose.Cells. Python EXCEL to XLAM. Python Save EXCEL to XLAM. Save EXCEL as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to XLAM in Python., Save EXCEL to XLAM using Python., Python EXCEL to XLAM saveformat., EXCEL to XLAM Converter., Python Save EXCEL as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to HTML - XLSX to HTML Converter
-description: PHP Aspose.Cells. XLSX to HTML in PHP. PHP Convert XLSX to HTML saveformat. PHP XLSX to HTML Converter. Save XLSX to HTML PHP.
-keywords: [PHP Aspose.Cells., XLSX to HTML in PHP., PHP XLSX to HTML saveformat., XLSX to HTML PHP., PHP Convert XLSX to HTML., Save XLSX to HTML PHP., XLSX to HTML Converter., Save XLSX as HTML]
+description: Aspose Excel. Convert XLSX to HTML quickly and easily with Aspose.Cells. PHP XLSX to HTML. PHP Save XLSX to HTML. Save XLSX as HTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to HTML in PHP., Save XLSX to HTML using PHP., PHP XLSX to HTML saveformat., XLSX to HTML Converter., PHP Save XLSX as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

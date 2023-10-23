@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to EMF - TXT to EMF Converter
-description: PHP Aspose.Cells. TXT to EMF in PHP. PHP Convert TXT to EMF saveformat. PHP TXT to EMF Converter. Save TXT to EMF PHP.
-keywords: [PHP Aspose.Cells., TXT to EMF in PHP., PHP TXT to EMF saveformat., TXT to EMF PHP., PHP Convert TXT to EMF., Save TXT to EMF PHP., TXT to EMF Converter., Save TXT as EMF]
+description: Aspose Excel. Convert TXT to EMF quickly and easily with Aspose.Cells. PHP TXT to EMF. PHP Save TXT to EMF. Save TXT as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to EMF in PHP., Save TXT to EMF using PHP., PHP TXT to EMF saveformat., TXT to EMF Converter., PHP Save TXT as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

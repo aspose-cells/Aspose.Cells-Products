@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to DOCX - TABDELIMITED to DOCX Converter
-description: PHP Aspose.Cells. TABDELIMITED to DOCX in PHP. PHP Convert TABDELIMITED to DOCX saveformat. PHP TABDELIMITED to DOCX Converter. Save TABDELIMITED to DOCX PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to DOCX in PHP., PHP TABDELIMITED to DOCX saveformat., TABDELIMITED to DOCX PHP., PHP Convert TABDELIMITED to DOCX., Save TABDELIMITED to DOCX PHP., TABDELIMITED to DOCX Converter., Save TABDELIMITED as DOCX]
+description: Aspose Excel. Convert TABDELIMITED to DOCX quickly and easily with Aspose.Cells. PHP TABDELIMITED to DOCX. PHP Save TABDELIMITED to DOCX. Save TABDELIMITED as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to DOCX in PHP., Save TABDELIMITED to DOCX using PHP., PHP TABDELIMITED to DOCX saveformat., TABDELIMITED to DOCX Converter., PHP Save TABDELIMITED as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

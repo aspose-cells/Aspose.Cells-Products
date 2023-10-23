@@ -1,7 +1,7 @@
 ---
 title: C# FODS to SXC - FODS to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. FODS to SXC in C#. C# Convert FODS to SXC saveformat. C# FODS to SXC format. Save FODS to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., FODS to SXC in C#., C# FODS to SXC saveformat., FODS to SXC C#., C# Convert FODS to SXC]
+description: Aspose Excel. Convert FODS to SXC quickly and easily with Aspose.Cells. C# FODS to SXC. C# Save FODS to SXC. Save FODS as SXC using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to SXC in C#., Save FODS to SXC using C#., C# FODS to SXC saveformat., FODS to SXC Converter., C# Save FODS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ SPREADSHEETML to FODS - SPREADSHEETML to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to FODS in C++. C++ Convert SPREADSHEETML to FODS saveformat. C++ SPREADSHEETML to FODS format. Save SPREADSHEETML to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to FODS in C++., C++ SPREADSHEETML to FODS saveformat., SPREADSHEETML to FODS C++., C++ Convert SPREADSHEETML to FODS]
+description: Aspose Excel. Convert SPREADSHEETML to FODS quickly and easily with Aspose.Cells. C++ SPREADSHEETML to FODS. C++ Save SPREADSHEETML to FODS. Save SPREADSHEETML as FODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to FODS in C++., Save SPREADSHEETML to FODS using C++., C++ SPREADSHEETML to FODS saveformat., SPREADSHEETML to FODS Converter., C++ Save SPREADSHEETML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python SXC to ETT - SXC to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to ETT in Python. Python Convert SXC to ETT saveformat. Python SXC to ETT format. Save SXC to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to ETT in Python., Python SXC to ETT saveformat., SXC to ETT Python., Python Convert SXC to ETT]
+description: Aspose Excel. Convert SXC to ETT quickly and easily with Aspose.Cells. Python SXC to ETT. Python Save SXC to ETT. Save SXC as ETT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to ETT in Python., Save SXC to ETT using Python., Python SXC to ETT saveformat., SXC to ETT Converter., Python Save SXC as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

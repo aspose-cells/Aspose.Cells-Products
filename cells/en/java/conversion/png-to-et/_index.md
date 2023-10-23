@@ -1,7 +1,7 @@
 ---
 title: Java PNG to ET - PNG to ET Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to ET in Java. Java Convert PNG to ET saveformat. Java PNG to ET format. Save PNG to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to ET in Java., Java PNG to ET saveformat., PNG to ET Java., Java Convert PNG to ET]
+description: Aspose Excel. Convert PNG to ET quickly and easily with Aspose.Cells. Java PNG to ET. Java Save PNG to ET. Save PNG as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to ET in Java., Save PNG to ET using Java., Java PNG to ET saveformat., PNG to ET Converter., Java Save PNG as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

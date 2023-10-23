@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to SXC - ODS to SXC Converter
-description: PHP Aspose.Cells. ODS to SXC in PHP. PHP Convert ODS to SXC saveformat. PHP ODS to SXC Converter. Save ODS to SXC PHP.
-keywords: [PHP Aspose.Cells., ODS to SXC in PHP., PHP ODS to SXC saveformat., ODS to SXC PHP., PHP Convert ODS to SXC., Save ODS to SXC PHP., ODS to SXC Converter., Save ODS as SXC]
+description: Aspose Excel. Convert ODS to SXC quickly and easily with Aspose.Cells. PHP ODS to SXC. PHP Save ODS to SXC. Save ODS as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to SXC in PHP., Save ODS to SXC using PHP., PHP ODS to SXC saveformat., ODS to SXC Converter., PHP Save ODS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

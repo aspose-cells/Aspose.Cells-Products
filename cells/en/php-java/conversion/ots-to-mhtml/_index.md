@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to MHTML - OTS to MHTML Converter
-description: PHP Aspose.Cells. OTS to MHTML in PHP. PHP Convert OTS to MHTML saveformat. PHP OTS to MHTML Converter. Save OTS to MHTML PHP.
-keywords: [PHP Aspose.Cells., OTS to MHTML in PHP., PHP OTS to MHTML saveformat., OTS to MHTML PHP., PHP Convert OTS to MHTML., Save OTS to MHTML PHP., OTS to MHTML Converter., Save OTS as MHTML]
+description: Aspose Excel. Convert OTS to MHTML quickly and easily with Aspose.Cells. PHP OTS to MHTML. PHP Save OTS to MHTML. Save OTS as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to MHTML in PHP., Save OTS to MHTML using PHP., PHP OTS to MHTML saveformat., OTS to MHTML Converter., PHP Save OTS as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

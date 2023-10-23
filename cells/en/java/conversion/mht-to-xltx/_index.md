@@ -1,7 +1,7 @@
 ---
 title: Java MHT to XLTX - MHT to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to XLTX in Java. Java Convert MHT to XLTX saveformat. Java MHT to XLTX format. Save MHT to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to XLTX in Java., Java MHT to XLTX saveformat., MHT to XLTX Java., Java Convert MHT to XLTX]
+description: Aspose Excel. Convert MHT to XLTX quickly and easily with Aspose.Cells. Java MHT to XLTX. Java Save MHT to XLTX. Save MHT as XLTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XLTX in Java., Save MHT to XLTX using Java., Java MHT to XLTX saveformat., MHT to XLTX Converter., Java Save MHT as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

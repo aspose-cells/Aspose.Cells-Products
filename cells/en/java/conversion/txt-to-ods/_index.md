@@ -1,7 +1,7 @@
 ---
 title: Java TXT to ODS - TXT to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to ODS in Java. Java Convert TXT to ODS saveformat. Java TXT to ODS format. Save TXT to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to ODS in Java., Java TXT to ODS saveformat., TXT to ODS Java., Java Convert TXT to ODS]
+description: Aspose Excel. Convert TXT to ODS quickly and easily with Aspose.Cells. Java TXT to ODS. Java Save TXT to ODS. Save TXT as ODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to ODS in Java., Save TXT to ODS using Java., Java TXT to ODS saveformat., TXT to ODS Converter., Java Save TXT as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

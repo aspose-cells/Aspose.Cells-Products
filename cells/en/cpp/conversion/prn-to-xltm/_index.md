@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to XLTM - PRN to XLTM Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to XLTM in C++. C++ Convert PRN to XLTM saveformat. C++ PRN to XLTM format. Save PRN to XLTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to XLTM in C++., C++ PRN to XLTM saveformat., PRN to XLTM C++., C++ Convert PRN to XLTM]
+description: Aspose Excel. Convert PRN to XLTM quickly and easily with Aspose.Cells. C++ PRN to XLTM. C++ Save PRN to XLTM. Save PRN as XLTM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to XLTM in C++., Save PRN to XLTM using C++., C++ PRN to XLTM saveformat., PRN to XLTM Converter., C++ Save PRN as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

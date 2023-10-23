@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to MHT - NUMBERS to MHT Converter
-description: PHP Aspose.Cells. NUMBERS to MHT in PHP. PHP Convert NUMBERS to MHT saveformat. PHP NUMBERS to MHT Converter. Save NUMBERS to MHT PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to MHT in PHP., PHP NUMBERS to MHT saveformat., NUMBERS to MHT PHP., PHP Convert NUMBERS to MHT., Save NUMBERS to MHT PHP., NUMBERS to MHT Converter., Save NUMBERS as MHT]
+description: Aspose Excel. Convert NUMBERS to MHT quickly and easily with Aspose.Cells. PHP NUMBERS to MHT. PHP Save NUMBERS to MHT. Save NUMBERS as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to MHT in PHP., Save NUMBERS to MHT using PHP., PHP NUMBERS to MHT saveformat., NUMBERS to MHT Converter., PHP Save NUMBERS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

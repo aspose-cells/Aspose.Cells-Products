@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to XLAM - XLSB to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to XLAM in Python. Python Convert XLSB to XLAM saveformat. Python XLSB to XLAM format. Save XLSB to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to XLAM in Python., Python XLSB to XLAM saveformat., XLSB to XLAM Python., Python Convert XLSB to XLAM]
+description: Aspose Excel. Convert XLSB to XLAM quickly and easily with Aspose.Cells. Python XLSB to XLAM. Python Save XLSB to XLAM. Save XLSB as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to XLAM in Python., Save XLSB to XLAM using Python., Python XLSB to XLAM saveformat., XLSB to XLAM Converter., Python Save XLSB as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

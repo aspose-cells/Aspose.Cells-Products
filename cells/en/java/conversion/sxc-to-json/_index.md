@@ -1,7 +1,7 @@
 ---
 title: Java SXC to JSON - SXC to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to JSON in Java. Java Convert SXC to JSON saveformat. Java SXC to JSON format. Save SXC to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to JSON in Java., Java SXC to JSON saveformat., SXC to JSON Java., Java Convert SXC to JSON]
+description: Aspose Excel. Convert SXC to JSON quickly and easily with Aspose.Cells. Java SXC to JSON. Java Save SXC to JSON. Save SXC as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to JSON in Java., Save SXC to JSON using Java., Java SXC to JSON saveformat., SXC to JSON Converter., Java Save SXC as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

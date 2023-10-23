@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to SQL - FODS to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to SQL in C++. C++ Convert FODS to SQL saveformat. C++ FODS to SQL format. Save FODS to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to SQL in C++., C++ FODS to SQL saveformat., FODS to SQL C++., C++ Convert FODS to SQL]
+description: Aspose Excel. Convert FODS to SQL quickly and easily with Aspose.Cells. C++ FODS to SQL. C++ Save FODS to SQL. Save FODS as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to SQL in C++., Save FODS to SQL using C++., C++ FODS to SQL saveformat., FODS to SQL Converter., C++ Save FODS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

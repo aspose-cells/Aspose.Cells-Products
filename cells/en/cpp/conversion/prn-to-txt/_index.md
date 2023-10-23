@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to TXT - PRN to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to TXT in C++. C++ Convert PRN to TXT saveformat. C++ PRN to TXT format. Save PRN to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to TXT in C++., C++ PRN to TXT saveformat., PRN to TXT C++., C++ Convert PRN to TXT]
+description: Aspose Excel. Convert PRN to TXT quickly and easily with Aspose.Cells. C++ PRN to TXT. C++ Save PRN to TXT. Save PRN as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to TXT in C++., Save PRN to TXT using C++., C++ PRN to TXT saveformat., PRN to TXT Converter., C++ Save PRN as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

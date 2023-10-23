@@ -1,7 +1,7 @@
 ---
 title: Python SXC to PNG - SXC to PNG Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to PNG in Python. Python Convert SXC to PNG saveformat. Python SXC to PNG format. Save SXC to PNG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to PNG in Python., Python SXC to PNG saveformat., SXC to PNG Python., Python Convert SXC to PNG]
+description: Aspose Excel. Convert SXC to PNG quickly and easily with Aspose.Cells. Python SXC to PNG. Python Save SXC to PNG. Save SXC as PNG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to PNG in Python., Save SXC to PNG using Python., Python SXC to PNG saveformat., SXC to PNG Converter., Python Save SXC as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

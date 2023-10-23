@@ -1,7 +1,7 @@
 ---
 title: C# IMAGE to TIFF - IMAGE to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. IMAGE to TIFF in C#. C# Convert IMAGE to TIFF saveformat. C# IMAGE to TIFF format. Save IMAGE to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., IMAGE to TIFF in C#., C# IMAGE to TIFF saveformat., IMAGE to TIFF C#., C# Convert IMAGE to TIFF]
+description: Aspose Excel. Convert IMAGE to TIFF quickly and easily with Aspose.Cells. C# IMAGE to TIFF. C# Save IMAGE to TIFF. Save IMAGE as TIFF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert IMAGE to TIFF in C#., Save IMAGE to TIFF using C#., C# IMAGE to TIFF saveformat., IMAGE to TIFF Converter., C# Save IMAGE as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

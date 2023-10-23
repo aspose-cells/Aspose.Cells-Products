@@ -1,7 +1,7 @@
 ---
 title: Python OTS to SQL - OTS to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to SQL in Python. Python Convert OTS to SQL saveformat. Python OTS to SQL format. Save OTS to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to SQL in Python., Python OTS to SQL saveformat., OTS to SQL Python., Python Convert OTS to SQL]
+description: Aspose Excel. Convert OTS to SQL quickly and easily with Aspose.Cells. Python OTS to SQL. Python Save OTS to SQL. Save OTS as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to SQL in Python., Save OTS to SQL using Python., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

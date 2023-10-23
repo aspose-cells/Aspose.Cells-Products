@@ -1,7 +1,7 @@
 ---
 title: Python OTS to DIF - OTS to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to DIF in Python. Python Convert OTS to DIF saveformat. Python OTS to DIF format. Save OTS to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to DIF in Python., Python OTS to DIF saveformat., OTS to DIF Python., Python Convert OTS to DIF]
+description: Aspose Excel. Convert OTS to DIF quickly and easily with Aspose.Cells. Python OTS to DIF. Python Save OTS to DIF. Save OTS as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to DIF in Python., Save OTS to DIF using Python., Python OTS to DIF saveformat., OTS to DIF Converter., Python Save OTS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

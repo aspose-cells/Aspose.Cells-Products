@@ -1,7 +1,7 @@
 ---
 title: C# SXC to XLAM - SXC to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. SXC to XLAM in C#. C# Convert SXC to XLAM saveformat. C# SXC to XLAM format. Save SXC to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., SXC to XLAM in C#., C# SXC to XLAM saveformat., SXC to XLAM C#., C# Convert SXC to XLAM]
+description: Aspose Excel. Convert SXC to XLAM quickly and easily with Aspose.Cells. C# SXC to XLAM. C# Save SXC to XLAM. Save SXC as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to XLAM in C#., Save SXC to XLAM using C#., C# SXC to XLAM saveformat., SXC to XLAM Converter., C# Save SXC as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

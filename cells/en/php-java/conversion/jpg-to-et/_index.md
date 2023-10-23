@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to ET - JPG to ET Converter
-description: PHP Aspose.Cells. JPG to ET in PHP. PHP Convert JPG to ET saveformat. PHP JPG to ET Converter. Save JPG to ET PHP.
-keywords: [PHP Aspose.Cells., JPG to ET in PHP., PHP JPG to ET saveformat., JPG to ET PHP., PHP Convert JPG to ET., Save JPG to ET PHP., JPG to ET Converter., Save JPG as ET]
+description: Aspose Excel. Convert JPG to ET quickly and easily with Aspose.Cells. PHP JPG to ET. PHP Save JPG to ET. Save JPG as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to ET in PHP., Save JPG to ET using PHP., PHP JPG to ET saveformat., JPG to ET Converter., PHP Save JPG as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

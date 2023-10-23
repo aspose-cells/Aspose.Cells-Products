@@ -1,7 +1,7 @@
 ---
 title: C# XML to XLSB - XML to XLSB Converter
-description: Aspose Excel. C# Aspose.Cells. XML to XLSB in C#. C# Convert XML to XLSB saveformat. C# XML to XLSB format. Save XML to XLSB C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XML to XLSB in C#., C# XML to XLSB saveformat., XML to XLSB C#., C# Convert XML to XLSB]
+description: Aspose Excel. Convert XML to XLSB quickly and easily with Aspose.Cells. C# XML to XLSB. C# Save XML to XLSB. Save XML as XLSB using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XML to XLSB in C#., Save XML to XLSB using C#., C# XML to XLSB saveformat., XML to XLSB Converter., C# Save XML as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

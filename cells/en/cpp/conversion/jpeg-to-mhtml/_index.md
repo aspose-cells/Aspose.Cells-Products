@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to MHTML - JPEG to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to MHTML in C++. C++ Convert JPEG to MHTML saveformat. C++ JPEG to MHTML format. Save JPEG to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to MHTML in C++., C++ JPEG to MHTML saveformat., JPEG to MHTML C++., C++ Convert JPEG to MHTML]
+description: Aspose Excel. Convert JPEG to MHTML quickly and easily with Aspose.Cells. C++ JPEG to MHTML. C++ Save JPEG to MHTML. Save JPEG as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to MHTML in C++., Save JPEG to MHTML using C++., C++ JPEG to MHTML saveformat., JPEG to MHTML Converter., C++ Save JPEG as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

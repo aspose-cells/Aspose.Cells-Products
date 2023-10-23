@@ -1,7 +1,7 @@
 ---
 title: PHP XML to SQL - XML to SQL Converter
-description: PHP Aspose.Cells. XML to SQL in PHP. PHP Convert XML to SQL saveformat. PHP XML to SQL Converter. Save XML to SQL PHP.
-keywords: [PHP Aspose.Cells., XML to SQL in PHP., PHP XML to SQL saveformat., XML to SQL PHP., PHP Convert XML to SQL., Save XML to SQL PHP., XML to SQL Converter., Save XML as SQL]
+description: Aspose Excel. Convert XML to SQL quickly and easily with Aspose.Cells. PHP XML to SQL. PHP Save XML to SQL. Save XML as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to SQL in PHP., Save XML to SQL using PHP., PHP XML to SQL saveformat., XML to SQL Converter., PHP Save XML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

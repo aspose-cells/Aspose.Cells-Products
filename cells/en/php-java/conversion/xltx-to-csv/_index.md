@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to CSV - XLTX to CSV Converter
-description: PHP Aspose.Cells. XLTX to CSV in PHP. PHP Convert XLTX to CSV saveformat. PHP XLTX to CSV Converter. Save XLTX to CSV PHP.
-keywords: [PHP Aspose.Cells., XLTX to CSV in PHP., PHP XLTX to CSV saveformat., XLTX to CSV PHP., PHP Convert XLTX to CSV., Save XLTX to CSV PHP., XLTX to CSV Converter., Save XLTX as CSV]
+description: Aspose Excel. Convert XLTX to CSV quickly and easily with Aspose.Cells. PHP XLTX to CSV. PHP Save XLTX to CSV. Save XLTX as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to CSV in PHP., Save XLTX to CSV using PHP., PHP XLTX to CSV saveformat., XLTX to CSV Converter., PHP Save XLTX as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

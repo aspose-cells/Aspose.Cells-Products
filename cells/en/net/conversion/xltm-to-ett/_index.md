@@ -1,7 +1,7 @@
 ---
 title: C# XLTM to ETT - XLTM to ETT Converter
-description: Aspose Excel. C# Aspose.Cells. XLTM to ETT in C#. C# Convert XLTM to ETT saveformat. C# XLTM to ETT format. Save XLTM to ETT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTM to ETT in C#., C# XLTM to ETT saveformat., XLTM to ETT C#., C# Convert XLTM to ETT]
+description: Aspose Excel. Convert XLTM to ETT quickly and easily with Aspose.Cells. C# XLTM to ETT. C# Save XLTM to ETT. Save XLTM as ETT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTM to ETT in C#., Save XLTM to ETT using C#., C# XLTM to ETT saveformat., XLTM to ETT Converter., C# Save XLTM as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

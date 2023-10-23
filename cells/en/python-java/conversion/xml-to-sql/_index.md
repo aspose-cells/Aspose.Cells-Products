@@ -1,7 +1,7 @@
 ---
 title: Python XML to SQL - XML to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. XML to SQL in Python. Python Convert XML to SQL saveformat. Python XML to SQL format. Save XML to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to SQL in Python., Python XML to SQL saveformat., XML to SQL Python., Python Convert XML to SQL]
+description: Aspose Excel. Convert XML to SQL quickly and easily with Aspose.Cells. Python XML to SQL. Python Save XML to SQL. Save XML as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to SQL in Python., Save XML to SQL using Python., Python XML to SQL saveformat., XML to SQL Converter., Python Save XML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

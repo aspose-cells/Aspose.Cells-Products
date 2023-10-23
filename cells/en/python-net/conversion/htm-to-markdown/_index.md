@@ -1,7 +1,7 @@
 ---
 title: Python HTM to MARKDOWN - HTM to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to MARKDOWN in Python. Python Convert HTM to MARKDOWN saveformat. Python HTM to MARKDOWN format. Save HTM to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to MARKDOWN in Python., Python HTM to MARKDOWN saveformat., HTM to MARKDOWN Python., Python Convert HTM to MARKDOWN]
+description: Aspose Excel. Convert HTM to MARKDOWN quickly and easily with Aspose.Cells. Python HTM to MARKDOWN. Python Save HTM to MARKDOWN. Save HTM as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to MARKDOWN in Python., Save HTM to MARKDOWN using Python., Python HTM to MARKDOWN saveformat., HTM to MARKDOWN Converter., Python Save HTM as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python PRN to TIFF - PRN to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to TIFF in Python. Python Convert PRN to TIFF saveformat. Python PRN to TIFF format. Save PRN to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to TIFF in Python., Python PRN to TIFF saveformat., PRN to TIFF Python., Python Convert PRN to TIFF]
+description: Aspose Excel. Convert PRN to TIFF quickly and easily with Aspose.Cells. Python PRN to TIFF. Python Save PRN to TIFF. Save PRN as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to TIFF in Python., Save PRN to TIFF using Python., Python PRN to TIFF saveformat., PRN to TIFF Converter., Python Save PRN as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

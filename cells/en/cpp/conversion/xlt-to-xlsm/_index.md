@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to XLSM - XLT to XLSM Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to XLSM in C++. C++ Convert XLT to XLSM saveformat. C++ XLT to XLSM format. Save XLT to XLSM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to XLSM in C++., C++ XLT to XLSM saveformat., XLT to XLSM C++., C++ Convert XLT to XLSM]
+description: Aspose Excel. Convert XLT to XLSM quickly and easily with Aspose.Cells. C++ XLT to XLSM. C++ Save XLT to XLSM. Save XLT as XLSM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to XLSM in C++., Save XLT to XLSM using C++., C++ XLT to XLSM saveformat., XLT to XLSM Converter., C++ Save XLT as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

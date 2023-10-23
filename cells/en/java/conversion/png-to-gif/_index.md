@@ -1,7 +1,7 @@
 ---
 title: Java PNG to GIF - PNG to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to GIF in Java. Java Convert PNG to GIF saveformat. Java PNG to GIF format. Save PNG to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to GIF in Java., Java PNG to GIF saveformat., PNG to GIF Java., Java Convert PNG to GIF]
+description: Aspose Excel. Convert PNG to GIF quickly and easily with Aspose.Cells. Java PNG to GIF. Java Save PNG to GIF. Save PNG as GIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to GIF in Java., Save PNG to GIF using Java., Java PNG to GIF saveformat., PNG to GIF Converter., Java Save PNG as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to MARKDOWN - EXCEL to MARKDOWN Converter
-description: PHP Aspose.Cells. EXCEL to MARKDOWN in PHP. PHP Convert EXCEL to MARKDOWN saveformat. PHP EXCEL to MARKDOWN Converter. Save EXCEL to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., EXCEL to MARKDOWN in PHP., PHP EXCEL to MARKDOWN saveformat., EXCEL to MARKDOWN PHP., PHP Convert EXCEL to MARKDOWN., Save EXCEL to MARKDOWN PHP., EXCEL to MARKDOWN Converter., Save EXCEL as MARKDOWN]
+description: Aspose Excel. Convert EXCEL to MARKDOWN quickly and easily with Aspose.Cells. PHP EXCEL to MARKDOWN. PHP Save EXCEL to MARKDOWN. Save EXCEL as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to MARKDOWN in PHP., Save EXCEL to MARKDOWN using PHP., PHP EXCEL to MARKDOWN saveformat., EXCEL to MARKDOWN Converter., PHP Save EXCEL as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

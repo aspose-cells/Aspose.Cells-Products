@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to SPREADSHEETML - ODS to SPREADSHEETML Converter
-description: PHP Aspose.Cells. ODS to SPREADSHEETML in PHP. PHP Convert ODS to SPREADSHEETML saveformat. PHP ODS to SPREADSHEETML Converter. Save ODS to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., ODS to SPREADSHEETML in PHP., PHP ODS to SPREADSHEETML saveformat., ODS to SPREADSHEETML PHP., PHP Convert ODS to SPREADSHEETML., Save ODS to SPREADSHEETML PHP., ODS to SPREADSHEETML Converter., Save ODS as SPREADSHEETML]
+description: Aspose Excel. Convert ODS to SPREADSHEETML quickly and easily with Aspose.Cells. PHP ODS to SPREADSHEETML. PHP Save ODS to SPREADSHEETML. Save ODS as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to SPREADSHEETML in PHP., Save ODS to SPREADSHEETML using PHP., PHP ODS to SPREADSHEETML saveformat., ODS to SPREADSHEETML Converter., PHP Save ODS as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to XLT - TXT to XLT Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to XLT in C++. C++ Convert TXT to XLT saveformat. C++ TXT to XLT format. Save TXT to XLT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to XLT in C++., C++ TXT to XLT saveformat., TXT to XLT C++., C++ Convert TXT to XLT]
+description: Aspose Excel. Convert TXT to XLT quickly and easily with Aspose.Cells. C++ TXT to XLT. C++ Save TXT to XLT. Save TXT as XLT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to XLT in C++., Save TXT to XLT using C++., C++ TXT to XLT saveformat., TXT to XLT Converter., C++ Save TXT as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

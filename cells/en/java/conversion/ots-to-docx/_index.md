@@ -1,7 +1,7 @@
 ---
 title: Java OTS to DOCX - OTS to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to DOCX in Java. Java Convert OTS to DOCX saveformat. Java OTS to DOCX format. Save OTS to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to DOCX in Java., Java OTS to DOCX saveformat., OTS to DOCX Java., Java Convert OTS to DOCX]
+description: Aspose Excel. Convert OTS to DOCX quickly and easily with Aspose.Cells. Java OTS to DOCX. Java Save OTS to DOCX. Save OTS as DOCX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to DOCX in Java., Save OTS to DOCX using Java., Java OTS to DOCX saveformat., OTS to DOCX Converter., Java Save OTS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

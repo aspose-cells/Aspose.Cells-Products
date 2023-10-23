@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to XPS - FODS to XPS Converter
-description: PHP Aspose.Cells. FODS to XPS in PHP. PHP Convert FODS to XPS saveformat. PHP FODS to XPS Converter. Save FODS to XPS PHP.
-keywords: [PHP Aspose.Cells., FODS to XPS in PHP., PHP FODS to XPS saveformat., FODS to XPS PHP., PHP Convert FODS to XPS., Save FODS to XPS PHP., FODS to XPS Converter., Save FODS as XPS]
+description: Aspose Excel. Convert FODS to XPS quickly and easily with Aspose.Cells. PHP FODS to XPS. PHP Save FODS to XPS. Save FODS as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to XPS in PHP., Save FODS to XPS using PHP., PHP FODS to XPS saveformat., FODS to XPS Converter., PHP Save FODS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

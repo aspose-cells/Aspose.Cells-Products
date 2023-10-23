@@ -1,7 +1,7 @@
 ---
 title: Python SXC to ODS - SXC to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to ODS in Python. Python Convert SXC to ODS saveformat. Python SXC to ODS format. Save SXC to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to ODS in Python., Python SXC to ODS saveformat., SXC to ODS Python., Python Convert SXC to ODS]
+description: Aspose Excel. Convert SXC to ODS quickly and easily with Aspose.Cells. Python SXC to ODS. Python Save SXC to ODS. Save SXC as ODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to ODS in Python., Save SXC to ODS using Python., Python SXC to ODS saveformat., SXC to ODS Converter., Python Save SXC as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

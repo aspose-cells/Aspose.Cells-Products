@@ -1,7 +1,7 @@
 ---
 title: C# MHT to XLTX - MHT to XLTX Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to XLTX in C#. C# Convert MHT to XLTX saveformat. C# MHT to XLTX format. Save MHT to XLTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to XLTX in C#., C# MHT to XLTX saveformat., MHT to XLTX C#., C# Convert MHT to XLTX]
+description: Aspose Excel. Convert MHT to XLTX quickly and easily with Aspose.Cells. C# MHT to XLTX. C# Save MHT to XLTX. Save MHT as XLTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to XLTX in C#., Save MHT to XLTX using C#., C# MHT to XLTX saveformat., MHT to XLTX Converter., C# Save MHT as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

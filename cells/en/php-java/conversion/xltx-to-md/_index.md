@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to MD - XLTX to MD Converter
-description: PHP Aspose.Cells. XLTX to MD in PHP. PHP Convert XLTX to MD saveformat. PHP XLTX to MD Converter. Save XLTX to MD PHP.
-keywords: [PHP Aspose.Cells., XLTX to MD in PHP., PHP XLTX to MD saveformat., XLTX to MD PHP., PHP Convert XLTX to MD., Save XLTX to MD PHP., XLTX to MD Converter., Save XLTX as MD]
+description: Aspose Excel. Convert XLTX to MD quickly and easily with Aspose.Cells. PHP XLTX to MD. PHP Save XLTX to MD. Save XLTX as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to MD in PHP., Save XLTX to MD using PHP., PHP XLTX to MD saveformat., XLTX to MD Converter., PHP Save XLTX as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

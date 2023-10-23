@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to OTS - JPG to OTS Converter
-description: PHP Aspose.Cells. JPG to OTS in PHP. PHP Convert JPG to OTS saveformat. PHP JPG to OTS Converter. Save JPG to OTS PHP.
-keywords: [PHP Aspose.Cells., JPG to OTS in PHP., PHP JPG to OTS saveformat., JPG to OTS PHP., PHP Convert JPG to OTS., Save JPG to OTS PHP., JPG to OTS Converter., Save JPG as OTS]
+description: Aspose Excel. Convert JPG to OTS quickly and easily with Aspose.Cells. PHP JPG to OTS. PHP Save JPG to OTS. Save JPG as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to OTS in PHP., Save JPG to OTS using PHP., PHP JPG to OTS saveformat., JPG to OTS Converter., PHP Save JPG as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

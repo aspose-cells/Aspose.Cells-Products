@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to PRN - OTS to PRN Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to PRN in C++. C++ Convert OTS to PRN saveformat. C++ OTS to PRN format. Save OTS to PRN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to PRN in C++., C++ OTS to PRN saveformat., OTS to PRN C++., C++ Convert OTS to PRN]
+description: Aspose Excel. Convert OTS to PRN quickly and easily with Aspose.Cells. C++ OTS to PRN. C++ Save OTS to PRN. Save OTS as PRN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to PRN in C++., Save OTS to PRN using C++., C++ OTS to PRN saveformat., OTS to PRN Converter., C++ Save OTS as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

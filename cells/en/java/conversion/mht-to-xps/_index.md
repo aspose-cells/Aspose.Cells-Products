@@ -1,7 +1,7 @@
 ---
 title: Java MHT to XPS - MHT to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to XPS in Java. Java Convert MHT to XPS saveformat. Java MHT to XPS format. Save MHT to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to XPS in Java., Java MHT to XPS saveformat., MHT to XPS Java., Java Convert MHT to XPS]
+description: Aspose Excel. Convert MHT to XPS quickly and easily with Aspose.Cells. Java MHT to XPS. Java Save MHT to XPS. Save MHT as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XPS in Java., Save MHT to XPS using Java., Java MHT to XPS saveformat., MHT to XPS Converter., Java Save MHT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

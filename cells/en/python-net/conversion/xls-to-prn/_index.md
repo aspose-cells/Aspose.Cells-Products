@@ -1,7 +1,7 @@
 ---
 title: Python XLS to PRN - XLS to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to PRN in Python. Python Convert XLS to PRN saveformat. Python XLS to PRN format. Save XLS to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to PRN in Python., Python XLS to PRN saveformat., XLS to PRN Python., Python Convert XLS to PRN]
+description: Aspose Excel. Convert XLS to PRN quickly and easily with Aspose.Cells. Python XLS to PRN. Python Save XLS to PRN. Save XLS as PRN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to PRN in Python., Save XLS to PRN using Python., Python XLS to PRN saveformat., XLS to PRN Converter., Python Save XLS as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

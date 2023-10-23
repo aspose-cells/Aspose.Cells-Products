@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to JPG - TXT to JPG Converter
-description: PHP Aspose.Cells. TXT to JPG in PHP. PHP Convert TXT to JPG saveformat. PHP TXT to JPG Converter. Save TXT to JPG PHP.
-keywords: [PHP Aspose.Cells., TXT to JPG in PHP., PHP TXT to JPG saveformat., TXT to JPG PHP., PHP Convert TXT to JPG., Save TXT to JPG PHP., TXT to JPG Converter., Save TXT as JPG]
+description: Aspose Excel. Convert TXT to JPG quickly and easily with Aspose.Cells. PHP TXT to JPG. PHP Save TXT to JPG. Save TXT as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to JPG in PHP., Save TXT to JPG using PHP., PHP TXT to JPG saveformat., TXT to JPG Converter., PHP Save TXT as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

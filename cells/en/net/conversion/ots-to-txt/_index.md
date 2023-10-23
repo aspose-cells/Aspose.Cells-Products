@@ -1,7 +1,7 @@
 ---
 title: C# OTS to TXT - OTS to TXT Converter
-description: Aspose Excel. C# Aspose.Cells. OTS to TXT in C#. C# Convert OTS to TXT saveformat. C# OTS to TXT format. Save OTS to TXT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., OTS to TXT in C#., C# OTS to TXT saveformat., OTS to TXT C#., C# Convert OTS to TXT]
+description: Aspose Excel. Convert OTS to TXT quickly and easily with Aspose.Cells. C# OTS to TXT. C# Save OTS to TXT. Save OTS as TXT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert OTS to TXT in C#., Save OTS to TXT using C#., C# OTS to TXT saveformat., OTS to TXT Converter., C# Save OTS as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

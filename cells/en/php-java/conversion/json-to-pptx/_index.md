@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to PPTX - JSON to PPTX Converter
-description: PHP Aspose.Cells. JSON to PPTX in PHP. PHP Convert JSON to PPTX saveformat. PHP JSON to PPTX Converter. Save JSON to PPTX PHP.
-keywords: [PHP Aspose.Cells., JSON to PPTX in PHP., PHP JSON to PPTX saveformat., JSON to PPTX PHP., PHP Convert JSON to PPTX., Save JSON to PPTX PHP., JSON to PPTX Converter., Save JSON as PPTX]
+description: Aspose Excel. Convert JSON to PPTX quickly and easily with Aspose.Cells. PHP JSON to PPTX. PHP Save JSON to PPTX. Save JSON as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to PPTX in PHP., Save JSON to PPTX using PHP., PHP JSON to PPTX saveformat., JSON to PPTX Converter., PHP Save JSON as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

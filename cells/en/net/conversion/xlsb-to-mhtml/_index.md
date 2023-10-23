@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to MHTML - XLSB to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to MHTML in C#. C# Convert XLSB to MHTML saveformat. C# XLSB to MHTML format. Save XLSB to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to MHTML in C#., C# XLSB to MHTML saveformat., XLSB to MHTML C#., C# Convert XLSB to MHTML]
+description: Aspose Excel. Convert XLSB to MHTML quickly and easily with Aspose.Cells. C# XLSB to MHTML. C# Save XLSB to MHTML. Save XLSB as MHTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to MHTML in C#., Save XLSB to MHTML using C#., C# XLSB to MHTML saveformat., XLSB to MHTML Converter., C# Save XLSB as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLT to JSON - XLT to JSON Converter
-description: Aspose Excel. C# Aspose.Cells. XLT to JSON in C#. C# Convert XLT to JSON saveformat. C# XLT to JSON format. Save XLT to JSON C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLT to JSON in C#., C# XLT to JSON saveformat., XLT to JSON C#., C# Convert XLT to JSON]
+description: Aspose Excel. Convert XLT to JSON quickly and easily with Aspose.Cells. C# XLT to JSON. C# Save XLT to JSON. Save XLT as JSON using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to JSON in C#., Save XLT to JSON using C#., C# XLT to JSON saveformat., XLT to JSON Converter., C# Save XLT as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

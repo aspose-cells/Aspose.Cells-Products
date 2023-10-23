@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to POWERPOINT - ODS to POWERPOINT Converter
-description: PHP Aspose.Cells. ODS to POWERPOINT in PHP. PHP Convert ODS to POWERPOINT saveformat. PHP ODS to POWERPOINT Converter. Save ODS to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., ODS to POWERPOINT in PHP., PHP ODS to POWERPOINT saveformat., ODS to POWERPOINT PHP., PHP Convert ODS to POWERPOINT., Save ODS to POWERPOINT PHP., ODS to POWERPOINT Converter., Save ODS as POWERPOINT]
+description: Aspose Excel. Convert ODS to POWERPOINT quickly and easily with Aspose.Cells. PHP ODS to POWERPOINT. PHP Save ODS to POWERPOINT. Save ODS as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to POWERPOINT in PHP., Save ODS to POWERPOINT using PHP., PHP ODS to POWERPOINT saveformat., ODS to POWERPOINT Converter., PHP Save ODS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

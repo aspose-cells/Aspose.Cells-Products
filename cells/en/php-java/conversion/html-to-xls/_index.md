@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to XLS - HTML to XLS Converter
-description: PHP Aspose.Cells. HTML to XLS in PHP. PHP Convert HTML to XLS saveformat. PHP HTML to XLS Converter. Save HTML to XLS PHP.
-keywords: [PHP Aspose.Cells., HTML to XLS in PHP., PHP HTML to XLS saveformat., HTML to XLS PHP., PHP Convert HTML to XLS., Save HTML to XLS PHP., HTML to XLS Converter., Save HTML as XLS]
+description: Aspose Excel. Convert HTML to XLS quickly and easily with Aspose.Cells. PHP HTML to XLS. PHP Save HTML to XLS. Save HTML as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to XLS in PHP., Save HTML to XLS using PHP., PHP HTML to XLS saveformat., HTML to XLS Converter., PHP Save HTML as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

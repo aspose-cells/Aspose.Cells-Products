@@ -1,7 +1,7 @@
 ---
 title: Python CSV to POWERPOINT - CSV to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to POWERPOINT in Python. Python Convert CSV to POWERPOINT saveformat. Python CSV to POWERPOINT format. Save CSV to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to POWERPOINT in Python., Python CSV to POWERPOINT saveformat., CSV to POWERPOINT Python., Python Convert CSV to POWERPOINT]
+description: Aspose Excel. Convert CSV to POWERPOINT quickly and easily with Aspose.Cells. Python CSV to POWERPOINT. Python Save CSV to POWERPOINT. Save CSV as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to POWERPOINT in Python., Save CSV to POWERPOINT using Python., Python CSV to POWERPOINT saveformat., CSV to POWERPOINT Converter., Python Save CSV as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

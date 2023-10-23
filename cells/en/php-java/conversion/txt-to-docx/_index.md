@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to DOCX - TXT to DOCX Converter
-description: PHP Aspose.Cells. TXT to DOCX in PHP. PHP Convert TXT to DOCX saveformat. PHP TXT to DOCX Converter. Save TXT to DOCX PHP.
-keywords: [PHP Aspose.Cells., TXT to DOCX in PHP., PHP TXT to DOCX saveformat., TXT to DOCX PHP., PHP Convert TXT to DOCX., Save TXT to DOCX PHP., TXT to DOCX Converter., Save TXT as DOCX]
+description: Aspose Excel. Convert TXT to DOCX quickly and easily with Aspose.Cells. PHP TXT to DOCX. PHP Save TXT to DOCX. Save TXT as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to DOCX in PHP., Save TXT to DOCX using PHP., PHP TXT to DOCX saveformat., TXT to DOCX Converter., PHP Save TXT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

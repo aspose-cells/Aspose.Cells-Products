@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to XPS - OTS to XPS Converter
-description: PHP Aspose.Cells. OTS to XPS in PHP. PHP Convert OTS to XPS saveformat. PHP OTS to XPS Converter. Save OTS to XPS PHP.
-keywords: [PHP Aspose.Cells., OTS to XPS in PHP., PHP OTS to XPS saveformat., OTS to XPS PHP., PHP Convert OTS to XPS., Save OTS to XPS PHP., OTS to XPS Converter., Save OTS as XPS]
+description: Aspose Excel. Convert OTS to XPS quickly and easily with Aspose.Cells. PHP OTS to XPS. PHP Save OTS to XPS. Save OTS as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to XPS in PHP., Save OTS to XPS using PHP., PHP OTS to XPS saveformat., OTS to XPS Converter., PHP Save OTS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

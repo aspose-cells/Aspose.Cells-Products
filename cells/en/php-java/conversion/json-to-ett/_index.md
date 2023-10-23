@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to ETT - JSON to ETT Converter
-description: PHP Aspose.Cells. JSON to ETT in PHP. PHP Convert JSON to ETT saveformat. PHP JSON to ETT Converter. Save JSON to ETT PHP.
-keywords: [PHP Aspose.Cells., JSON to ETT in PHP., PHP JSON to ETT saveformat., JSON to ETT PHP., PHP Convert JSON to ETT., Save JSON to ETT PHP., JSON to ETT Converter., Save JSON as ETT]
+description: Aspose Excel. Convert JSON to ETT quickly and easily with Aspose.Cells. PHP JSON to ETT. PHP Save JSON to ETT. Save JSON as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to ETT in PHP., Save JSON to ETT using PHP., PHP JSON to ETT saveformat., JSON to ETT Converter., PHP Save JSON as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

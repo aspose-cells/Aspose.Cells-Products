@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to DOCX - JPEG to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to DOCX in C++. C++ Convert JPEG to DOCX saveformat. C++ JPEG to DOCX format. Save JPEG to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to DOCX in C++., C++ JPEG to DOCX saveformat., JPEG to DOCX C++., C++ Convert JPEG to DOCX]
+description: Aspose Excel. Convert JPEG to DOCX quickly and easily with Aspose.Cells. C++ JPEG to DOCX. C++ Save JPEG to DOCX. Save JPEG as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to DOCX in C++., Save JPEG to DOCX using C++., C++ JPEG to DOCX saveformat., JPEG to DOCX Converter., C++ Save JPEG as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

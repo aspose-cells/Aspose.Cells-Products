@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to MD - EXCEL to MD Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to MD in Java. Java Convert EXCEL to MD saveformat. Java EXCEL to MD format. Save EXCEL to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to MD in Java., Java EXCEL to MD saveformat., EXCEL to MD Java., Java Convert EXCEL to MD]
+description: Aspose Excel. Convert EXCEL to MD quickly and easily with Aspose.Cells. Java EXCEL to MD. Java Save EXCEL to MD. Save EXCEL as MD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to MD in Java., Save EXCEL to MD using Java., Java EXCEL to MD saveformat., EXCEL to MD Converter., Java Save EXCEL as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

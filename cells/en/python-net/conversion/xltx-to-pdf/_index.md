@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to PDF - XLTX to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to PDF in Python. Python Convert XLTX to PDF saveformat. Python XLTX to PDF format. Save XLTX to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to PDF in Python., Python XLTX to PDF saveformat., XLTX to PDF Python., Python Convert XLTX to PDF]
+description: Aspose Excel. Convert XLTX to PDF quickly and easily with Aspose.Cells. Python XLTX to PDF. Python Save XLTX to PDF. Save XLTX as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to PDF in Python., Save XLTX to PDF using Python., Python XLTX to PDF saveformat., XLTX to PDF Converter., Python Save XLTX as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

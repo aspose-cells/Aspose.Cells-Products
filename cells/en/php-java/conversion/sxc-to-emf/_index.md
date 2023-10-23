@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to EMF - SXC to EMF Converter
-description: PHP Aspose.Cells. SXC to EMF in PHP. PHP Convert SXC to EMF saveformat. PHP SXC to EMF Converter. Save SXC to EMF PHP.
-keywords: [PHP Aspose.Cells., SXC to EMF in PHP., PHP SXC to EMF saveformat., SXC to EMF PHP., PHP Convert SXC to EMF., Save SXC to EMF PHP., SXC to EMF Converter., Save SXC as EMF]
+description: Aspose Excel. Convert SXC to EMF quickly and easily with Aspose.Cells. PHP SXC to EMF. PHP Save SXC to EMF. Save SXC as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to EMF in PHP., Save SXC to EMF using PHP., PHP SXC to EMF saveformat., SXC to EMF Converter., PHP Save SXC as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

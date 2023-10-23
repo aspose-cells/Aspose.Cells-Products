@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to PPTX - XLSB to PPTX Converter
-description: PHP Aspose.Cells. XLSB to PPTX in PHP. PHP Convert XLSB to PPTX saveformat. PHP XLSB to PPTX Converter. Save XLSB to PPTX PHP.
-keywords: [PHP Aspose.Cells., XLSB to PPTX in PHP., PHP XLSB to PPTX saveformat., XLSB to PPTX PHP., PHP Convert XLSB to PPTX., Save XLSB to PPTX PHP., XLSB to PPTX Converter., Save XLSB as PPTX]
+description: Aspose Excel. Convert XLSB to PPTX quickly and easily with Aspose.Cells. PHP XLSB to PPTX. PHP Save XLSB to PPTX. Save XLSB as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to PPTX in PHP., Save XLSB to PPTX using PHP., PHP XLSB to PPTX saveformat., XLSB to PPTX Converter., PHP Save XLSB as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

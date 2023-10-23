@@ -1,7 +1,7 @@
 ---
 title: C# IMAGE to FODS - IMAGE to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. IMAGE to FODS in C#. C# Convert IMAGE to FODS saveformat. C# IMAGE to FODS format. Save IMAGE to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., IMAGE to FODS in C#., C# IMAGE to FODS saveformat., IMAGE to FODS C#., C# Convert IMAGE to FODS]
+description: Aspose Excel. Convert IMAGE to FODS quickly and easily with Aspose.Cells. C# IMAGE to FODS. C# Save IMAGE to FODS. Save IMAGE as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert IMAGE to FODS in C#., Save IMAGE to FODS using C#., C# IMAGE to FODS saveformat., IMAGE to FODS Converter., C# Save IMAGE as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

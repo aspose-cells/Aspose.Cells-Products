@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML to XLTM - SPREADSHEETML to XLTM Converter
-description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to XLTM in Python. Python Convert SPREADSHEETML to XLTM saveformat. Python SPREADSHEETML to XLTM format. Save SPREADSHEETML to XLTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to XLTM in Python., Python SPREADSHEETML to XLTM saveformat., SPREADSHEETML to XLTM Python., Python Convert SPREADSHEETML to XLTM]
+description: Aspose Excel. Convert SPREADSHEETML to XLTM quickly and easily with Aspose.Cells. Python SPREADSHEETML to XLTM. Python Save SPREADSHEETML to XLTM. Save SPREADSHEETML as XLTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to XLTM in Python., Save SPREADSHEETML to XLTM using Python., Python SPREADSHEETML to XLTM saveformat., SPREADSHEETML to XLTM Converter., Python Save SPREADSHEETML as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

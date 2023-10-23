@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to TABDELIMITED - MHTML to TABDELIMITED Converter
-description: PHP Aspose.Cells. MHTML to TABDELIMITED in PHP. PHP Convert MHTML to TABDELIMITED saveformat. PHP MHTML to TABDELIMITED Converter. Save MHTML to TABDELIMITED PHP.
-keywords: [PHP Aspose.Cells., MHTML to TABDELIMITED in PHP., PHP MHTML to TABDELIMITED saveformat., MHTML to TABDELIMITED PHP., PHP Convert MHTML to TABDELIMITED., Save MHTML to TABDELIMITED PHP., MHTML to TABDELIMITED Converter., Save MHTML as TABDELIMITED]
+description: Aspose Excel. Convert MHTML to TABDELIMITED quickly and easily with Aspose.Cells. PHP MHTML to TABDELIMITED. PHP Save MHTML to TABDELIMITED. Save MHTML as TABDELIMITED using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TABDELIMITED in PHP., Save MHTML to TABDELIMITED using PHP., PHP MHTML to TABDELIMITED saveformat., MHTML to TABDELIMITED Converter., PHP Save MHTML as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

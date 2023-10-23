@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to XPS - SPREADSHEETML to XPS Converter
-description: PHP Aspose.Cells. SPREADSHEETML to XPS in PHP. PHP Convert SPREADSHEETML to XPS saveformat. PHP SPREADSHEETML to XPS Converter. Save SPREADSHEETML to XPS PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to XPS in PHP., PHP SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS PHP., PHP Convert SPREADSHEETML to XPS., Save SPREADSHEETML to XPS PHP., SPREADSHEETML to XPS Converter., Save SPREADSHEETML as XPS]
+description: Aspose Excel. Convert SPREADSHEETML to XPS quickly and easily with Aspose.Cells. PHP SPREADSHEETML to XPS. PHP Save SPREADSHEETML to XPS. Save SPREADSHEETML as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to XPS in PHP., Save SPREADSHEETML to XPS using PHP., PHP SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Converter., PHP Save SPREADSHEETML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

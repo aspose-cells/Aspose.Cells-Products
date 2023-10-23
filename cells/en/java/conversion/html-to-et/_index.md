@@ -1,7 +1,7 @@
 ---
 title: Java HTML to ET - HTML to ET Converter
-description: Aspose Excel. Java Aspose.Cells. HTML to ET in Java. Java Convert HTML to ET saveformat. Java HTML to ET format. Save HTML to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTML to ET in Java., Java HTML to ET saveformat., HTML to ET Java., Java Convert HTML to ET]
+description: Aspose Excel. Convert HTML to ET quickly and easily with Aspose.Cells. Java HTML to ET. Java Save HTML to ET. Save HTML as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to ET in Java., Save HTML to ET using Java., Java HTML to ET saveformat., HTML to ET Converter., Java Save HTML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

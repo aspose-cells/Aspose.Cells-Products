@@ -1,7 +1,7 @@
 ---
 title: Java XLS to TIFF - XLS to TIFF Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to TIFF in Java. Java Convert XLS to TIFF saveformat. Java XLS to TIFF format. Save XLS to TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to TIFF in Java., Java XLS to TIFF saveformat., XLS to TIFF Java., Java Convert XLS to TIFF]
+description: Aspose Excel. Convert XLS to TIFF quickly and easily with Aspose.Cells. Java XLS to TIFF. Java Save XLS to TIFF. Save XLS as TIFF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to TIFF in Java., Save XLS to TIFF using Java., Java XLS to TIFF saveformat., XLS to TIFF Converter., Java Save XLS as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

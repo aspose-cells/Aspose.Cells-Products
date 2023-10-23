@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to XLS - NUMBERS to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. NUMBERS to XLS in Java. Java Convert NUMBERS to XLS saveformat. Java NUMBERS to XLS format. Save NUMBERS to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to XLS in Java., Java NUMBERS to XLS saveformat., NUMBERS to XLS Java., Java Convert NUMBERS to XLS]
+description: Aspose Excel. Convert NUMBERS to XLS quickly and easily with Aspose.Cells. Java NUMBERS to XLS. Java Save NUMBERS to XLS. Save NUMBERS as XLS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to XLS in Java., Save NUMBERS to XLS using Java., Java NUMBERS to XLS saveformat., NUMBERS to XLS Converter., Java Save NUMBERS as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

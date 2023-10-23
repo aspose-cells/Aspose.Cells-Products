@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to WORD - TABDELIMITED to WORD Converter
-description: PHP Aspose.Cells. TABDELIMITED to WORD in PHP. PHP Convert TABDELIMITED to WORD saveformat. PHP TABDELIMITED to WORD Converter. Save TABDELIMITED to WORD PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to WORD in PHP., PHP TABDELIMITED to WORD saveformat., TABDELIMITED to WORD PHP., PHP Convert TABDELIMITED to WORD., Save TABDELIMITED to WORD PHP., TABDELIMITED to WORD Converter., Save TABDELIMITED as WORD]
+description: Aspose Excel. Convert TABDELIMITED to WORD quickly and easily with Aspose.Cells. PHP TABDELIMITED to WORD. PHP Save TABDELIMITED to WORD. Save TABDELIMITED as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to WORD in PHP., Save TABDELIMITED to WORD using PHP., PHP TABDELIMITED to WORD saveformat., TABDELIMITED to WORD Converter., PHP Save TABDELIMITED as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

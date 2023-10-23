@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to MHTML - MHTML to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to MHTML in C#. C# Convert MHTML to MHTML saveformat. C# MHTML to MHTML format. Save MHTML to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to MHTML in C#., C# MHTML to MHTML saveformat., MHTML to MHTML C#., C# Convert MHTML to MHTML]
+description: Aspose Excel. Convert MHTML to MHTML quickly and easily with Aspose.Cells. C# MHTML to MHTML. C# Save MHTML to MHTML. Save MHTML as MHTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to MHTML in C#., Save MHTML to MHTML using C#., C# MHTML to MHTML saveformat., MHTML to MHTML Converter., C# Save MHTML as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

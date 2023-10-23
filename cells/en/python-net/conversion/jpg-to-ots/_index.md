@@ -1,7 +1,7 @@
 ---
 title: Python JPG to OTS - JPG to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. JPG to OTS in Python. Python Convert JPG to OTS saveformat. Python JPG to OTS format. Save JPG to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPG to OTS in Python., Python JPG to OTS saveformat., JPG to OTS Python., Python Convert JPG to OTS]
+description: Aspose Excel. Convert JPG to OTS quickly and easily with Aspose.Cells. Python JPG to OTS. Python Save JPG to OTS. Save JPG as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to OTS in Python., Save JPG to OTS using Python., Python JPG to OTS saveformat., JPG to OTS Converter., Python Save JPG as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

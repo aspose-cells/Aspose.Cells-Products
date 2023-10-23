@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to PRN - XLSB to PRN Converter
-description: PHP Aspose.Cells. XLSB to PRN in PHP. PHP Convert XLSB to PRN saveformat. PHP XLSB to PRN Converter. Save XLSB to PRN PHP.
-keywords: [PHP Aspose.Cells., XLSB to PRN in PHP., PHP XLSB to PRN saveformat., XLSB to PRN PHP., PHP Convert XLSB to PRN., Save XLSB to PRN PHP., XLSB to PRN Converter., Save XLSB as PRN]
+description: Aspose Excel. Convert XLSB to PRN quickly and easily with Aspose.Cells. PHP XLSB to PRN. PHP Save XLSB to PRN. Save XLSB as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to PRN in PHP., Save XLSB to PRN using PHP., PHP XLSB to PRN saveformat., XLSB to PRN Converter., PHP Save XLSB as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

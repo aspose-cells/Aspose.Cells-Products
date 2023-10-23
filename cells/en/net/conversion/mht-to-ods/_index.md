@@ -1,7 +1,7 @@
 ---
 title: C# MHT to ODS - MHT to ODS Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to ODS in C#. C# Convert MHT to ODS saveformat. C# MHT to ODS format. Save MHT to ODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to ODS in C#., C# MHT to ODS saveformat., MHT to ODS C#., C# Convert MHT to ODS]
+description: Aspose Excel. Convert MHT to ODS quickly and easily with Aspose.Cells. C# MHT to ODS. C# Save MHT to ODS. Save MHT as ODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to ODS in C#., Save MHT to ODS using C#., C# MHT to ODS saveformat., MHT to ODS Converter., C# Save MHT as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

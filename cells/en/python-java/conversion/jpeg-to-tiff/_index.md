@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to TIFF - JPEG to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. JPEG to TIFF in Python. Python Convert JPEG to TIFF saveformat. Python JPEG to TIFF format. Save JPEG to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPEG to TIFF in Python., Python JPEG to TIFF saveformat., JPEG to TIFF Python., Python Convert JPEG to TIFF]
+description: Aspose Excel. Convert JPEG to TIFF quickly and easily with Aspose.Cells. Python JPEG to TIFF. Python Save JPEG to TIFF. Save JPEG as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to TIFF in Python., Save JPEG to TIFF using Python., Python JPEG to TIFF saveformat., JPEG to TIFF Converter., Python Save JPEG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ SPREADSHEETML to XPS - SPREADSHEETML to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to XPS in C++. C++ Convert SPREADSHEETML to XPS saveformat. C++ SPREADSHEETML to XPS format. Save SPREADSHEETML to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to XPS in C++., C++ SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS C++., C++ Convert SPREADSHEETML to XPS]
+description: Aspose Excel. Convert SPREADSHEETML to XPS quickly and easily with Aspose.Cells. C++ SPREADSHEETML to XPS. C++ Save SPREADSHEETML to XPS. Save SPREADSHEETML as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to XPS in C++., Save SPREADSHEETML to XPS using C++., C++ SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Converter., C++ Save SPREADSHEETML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

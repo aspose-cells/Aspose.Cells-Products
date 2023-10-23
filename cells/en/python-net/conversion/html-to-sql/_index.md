@@ -1,7 +1,7 @@
 ---
 title: Python HTML to SQL - HTML to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to SQL in Python. Python Convert HTML to SQL saveformat. Python HTML to SQL format. Save HTML to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to SQL in Python., Python HTML to SQL saveformat., HTML to SQL Python., Python Convert HTML to SQL]
+description: Aspose Excel. Convert HTML to SQL quickly and easily with Aspose.Cells. Python HTML to SQL. Python Save HTML to SQL. Save HTML as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to SQL in Python., Save HTML to SQL using Python., Python HTML to SQL saveformat., HTML to SQL Converter., Python Save HTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

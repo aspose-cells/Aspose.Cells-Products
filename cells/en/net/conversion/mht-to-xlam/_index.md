@@ -1,7 +1,7 @@
 ---
 title: C# MHT to XLAM - MHT to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to XLAM in C#. C# Convert MHT to XLAM saveformat. C# MHT to XLAM format. Save MHT to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to XLAM in C#., C# MHT to XLAM saveformat., MHT to XLAM C#., C# Convert MHT to XLAM]
+description: Aspose Excel. Convert MHT to XLAM quickly and easily with Aspose.Cells. C# MHT to XLAM. C# Save MHT to XLAM. Save MHT as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to XLAM in C#., Save MHT to XLAM using C#., C# MHT to XLAM saveformat., MHT to XLAM Converter., C# Save MHT as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to FODS - XLSX to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to FODS in Java. Java Convert XLSX to FODS saveformat. Java XLSX to FODS format. Save XLSX to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to FODS in Java., Java XLSX to FODS saveformat., XLSX to FODS Java., Java Convert XLSX to FODS]
+description: Aspose Excel. Convert XLSX to FODS quickly and easily with Aspose.Cells. Java XLSX to FODS. Java Save XLSX to FODS. Save XLSX as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to FODS in Java., Save XLSX to FODS using Java., Java XLSX to FODS saveformat., XLSX to FODS Converter., Java Save XLSX as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

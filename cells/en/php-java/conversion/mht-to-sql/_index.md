@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to SQL - MHT to SQL Converter
-description: PHP Aspose.Cells. MHT to SQL in PHP. PHP Convert MHT to SQL saveformat. PHP MHT to SQL Converter. Save MHT to SQL PHP.
-keywords: [PHP Aspose.Cells., MHT to SQL in PHP., PHP MHT to SQL saveformat., MHT to SQL PHP., PHP Convert MHT to SQL., Save MHT to SQL PHP., MHT to SQL Converter., Save MHT as SQL]
+description: Aspose Excel. Convert MHT to SQL quickly and easily with Aspose.Cells. PHP MHT to SQL. PHP Save MHT to SQL. Save MHT as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to SQL in PHP., Save MHT to SQL using PHP., PHP MHT to SQL saveformat., MHT to SQL Converter., PHP Save MHT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

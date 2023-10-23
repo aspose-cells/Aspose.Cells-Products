@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to DIF - NUMBERS to DIF Converter
-description: PHP Aspose.Cells. NUMBERS to DIF in PHP. PHP Convert NUMBERS to DIF saveformat. PHP NUMBERS to DIF Converter. Save NUMBERS to DIF PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to DIF in PHP., PHP NUMBERS to DIF saveformat., NUMBERS to DIF PHP., PHP Convert NUMBERS to DIF., Save NUMBERS to DIF PHP., NUMBERS to DIF Converter., Save NUMBERS as DIF]
+description: Aspose Excel. Convert NUMBERS to DIF quickly and easily with Aspose.Cells. PHP NUMBERS to DIF. PHP Save NUMBERS to DIF. Save NUMBERS as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to DIF in PHP., Save NUMBERS to DIF using PHP., PHP NUMBERS to DIF saveformat., NUMBERS to DIF Converter., PHP Save NUMBERS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

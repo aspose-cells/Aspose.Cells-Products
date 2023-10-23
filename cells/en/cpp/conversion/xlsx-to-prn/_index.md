@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to PRN - XLSX to PRN Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to PRN in C++. C++ Convert XLSX to PRN saveformat. C++ XLSX to PRN format. Save XLSX to PRN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to PRN in C++., C++ XLSX to PRN saveformat., XLSX to PRN C++., C++ Convert XLSX to PRN]
+description: Aspose Excel. Convert XLSX to PRN quickly and easily with Aspose.Cells. C++ XLSX to PRN. C++ Save XLSX to PRN. Save XLSX as PRN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to PRN in C++., Save XLSX to PRN using C++., C++ XLSX to PRN saveformat., XLSX to PRN Converter., C++ Save XLSX as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

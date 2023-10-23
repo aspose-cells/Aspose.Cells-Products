@@ -1,7 +1,7 @@
 ---
 title: C++ XML to XLS - XML to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. XML to XLS in C++. C++ Convert XML to XLS saveformat. C++ XML to XLS format. Save XML to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XML to XLS in C++., C++ XML to XLS saveformat., XML to XLS C++., C++ Convert XML to XLS]
+description: Aspose Excel. Convert XML to XLS quickly and easily with Aspose.Cells. C++ XML to XLS. C++ Save XML to XLS. Save XML as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to XLS in C++., Save XML to XLS using C++., C++ XML to XLS saveformat., XML to XLS Converter., C++ Save XML as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

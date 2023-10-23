@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to SXC - NUMBERS to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. NUMBERS to SXC in Java. Java Convert NUMBERS to SXC saveformat. Java NUMBERS to SXC format. Save NUMBERS to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to SXC in Java., Java NUMBERS to SXC saveformat., NUMBERS to SXC Java., Java Convert NUMBERS to SXC]
+description: Aspose Excel. Convert NUMBERS to SXC quickly and easily with Aspose.Cells. Java NUMBERS to SXC. Java Save NUMBERS to SXC. Save NUMBERS as SXC using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to SXC in Java., Save NUMBERS to SXC using Java., Java NUMBERS to SXC saveformat., NUMBERS to SXC Converter., Java Save NUMBERS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

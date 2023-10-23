@@ -1,7 +1,7 @@
 ---
 title: Python FODS to GIF - FODS to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to GIF in Python. Python Convert FODS to GIF saveformat. Python FODS to GIF format. Save FODS to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to GIF in Python., Python FODS to GIF saveformat., FODS to GIF Python., Python Convert FODS to GIF]
+description: Aspose Excel. Convert FODS to GIF quickly and easily with Aspose.Cells. Python FODS to GIF. Python Save FODS to GIF. Save FODS as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to GIF in Python., Save FODS to GIF using Python., Python FODS to GIF saveformat., FODS to GIF Converter., Python Save FODS as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

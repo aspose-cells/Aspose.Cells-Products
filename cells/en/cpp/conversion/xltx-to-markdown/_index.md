@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to MARKDOWN - XLTX to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to MARKDOWN in C++. C++ Convert XLTX to MARKDOWN saveformat. C++ XLTX to MARKDOWN format. Save XLTX to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to MARKDOWN in C++., C++ XLTX to MARKDOWN saveformat., XLTX to MARKDOWN C++., C++ Convert XLTX to MARKDOWN]
+description: Aspose Excel. Convert XLTX to MARKDOWN quickly and easily with Aspose.Cells. C++ XLTX to MARKDOWN. C++ Save XLTX to MARKDOWN. Save XLTX as MARKDOWN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to MARKDOWN in C++., Save XLTX to MARKDOWN using C++., C++ XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., C++ Save XLTX as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

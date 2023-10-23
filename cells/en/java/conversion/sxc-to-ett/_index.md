@@ -1,7 +1,7 @@
 ---
 title: Java SXC to ETT - SXC to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to ETT in Java. Java Convert SXC to ETT saveformat. Java SXC to ETT format. Save SXC to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to ETT in Java., Java SXC to ETT saveformat., SXC to ETT Java., Java Convert SXC to ETT]
+description: Aspose Excel. Convert SXC to ETT quickly and easily with Aspose.Cells. Java SXC to ETT. Java Save SXC to ETT. Save SXC as ETT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to ETT in Java., Save SXC to ETT using Java., Java SXC to ETT saveformat., SXC to ETT Converter., Java Save SXC as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

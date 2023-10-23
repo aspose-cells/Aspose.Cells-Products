@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to FODS - JPEG to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. JPEG to FODS in Java. Java Convert JPEG to FODS saveformat. Java JPEG to FODS format. Save JPEG to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPEG to FODS in Java., Java JPEG to FODS saveformat., JPEG to FODS Java., Java Convert JPEG to FODS]
+description: Aspose Excel. Convert JPEG to FODS quickly and easily with Aspose.Cells. Java JPEG to FODS. Java Save JPEG to FODS. Save JPEG as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to FODS in Java., Save JPEG to FODS using Java., Java JPEG to FODS saveformat., JPEG to FODS Converter., Java Save JPEG as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

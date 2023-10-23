@@ -1,7 +1,7 @@
 ---
 title: Python FODS to XPS - FODS to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to XPS in Python. Python Convert FODS to XPS saveformat. Python FODS to XPS format. Save FODS to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to XPS in Python., Python FODS to XPS saveformat., FODS to XPS Python., Python Convert FODS to XPS]
+description: Aspose Excel. Convert FODS to XPS quickly and easily with Aspose.Cells. Python FODS to XPS. Python Save FODS to XPS. Save FODS as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to XPS in Python., Save FODS to XPS using Python., Python FODS to XPS saveformat., FODS to XPS Converter., Python Save FODS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

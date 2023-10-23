@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to JPG - OTS to JPG Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to JPG in C++. C++ Convert OTS to JPG saveformat. C++ OTS to JPG format. Save OTS to JPG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to JPG in C++., C++ OTS to JPG saveformat., OTS to JPG C++., C++ Convert OTS to JPG]
+description: Aspose Excel. Convert OTS to JPG quickly and easily with Aspose.Cells. C++ OTS to JPG. C++ Save OTS to JPG. Save OTS as JPG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to JPG in C++., Save OTS to JPG using C++., C++ OTS to JPG saveformat., OTS to JPG Converter., C++ Save OTS as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

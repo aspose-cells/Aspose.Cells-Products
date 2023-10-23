@@ -1,7 +1,7 @@
 ---
 title: Python HTM to XLSB - HTM to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to XLSB in Python. Python Convert HTM to XLSB saveformat. Python HTM to XLSB format. Save HTM to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to XLSB in Python., Python HTM to XLSB saveformat., HTM to XLSB Python., Python Convert HTM to XLSB]
+description: Aspose Excel. Convert HTM to XLSB quickly and easily with Aspose.Cells. Python HTM to XLSB. Python Save HTM to XLSB. Save HTM as XLSB using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to XLSB in Python., Save HTM to XLSB using Python., Python HTM to XLSB saveformat., HTM to XLSB Converter., Python Save HTM as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

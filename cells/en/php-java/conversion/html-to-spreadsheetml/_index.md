@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to SPREADSHEETML - HTML to SPREADSHEETML Converter
-description: PHP Aspose.Cells. HTML to SPREADSHEETML in PHP. PHP Convert HTML to SPREADSHEETML saveformat. PHP HTML to SPREADSHEETML Converter. Save HTML to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., HTML to SPREADSHEETML in PHP., PHP HTML to SPREADSHEETML saveformat., HTML to SPREADSHEETML PHP., PHP Convert HTML to SPREADSHEETML., Save HTML to SPREADSHEETML PHP., HTML to SPREADSHEETML Converter., Save HTML as SPREADSHEETML]
+description: Aspose Excel. Convert HTML to SPREADSHEETML quickly and easily with Aspose.Cells. PHP HTML to SPREADSHEETML. PHP Save HTML to SPREADSHEETML. Save HTML as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to SPREADSHEETML in PHP., Save HTML to SPREADSHEETML using PHP., PHP HTML to SPREADSHEETML saveformat., HTML to SPREADSHEETML Converter., PHP Save HTML as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

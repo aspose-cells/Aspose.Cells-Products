@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to PPTX - FODS to PPTX Converter
-description: PHP Aspose.Cells. FODS to PPTX in PHP. PHP Convert FODS to PPTX saveformat. PHP FODS to PPTX Converter. Save FODS to PPTX PHP.
-keywords: [PHP Aspose.Cells., FODS to PPTX in PHP., PHP FODS to PPTX saveformat., FODS to PPTX PHP., PHP Convert FODS to PPTX., Save FODS to PPTX PHP., FODS to PPTX Converter., Save FODS as PPTX]
+description: Aspose Excel. Convert FODS to PPTX quickly and easily with Aspose.Cells. PHP FODS to PPTX. PHP Save FODS to PPTX. Save FODS as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to PPTX in PHP., Save FODS to PPTX using PHP., PHP FODS to PPTX saveformat., FODS to PPTX Converter., PHP Save FODS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

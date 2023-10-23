@@ -1,7 +1,7 @@
 ---
 title: Python HTML to MHT - HTML to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to MHT in Python. Python Convert HTML to MHT saveformat. Python HTML to MHT format. Save HTML to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to MHT in Python., Python HTML to MHT saveformat., HTML to MHT Python., Python Convert HTML to MHT]
+description: Aspose Excel. Convert HTML to MHT quickly and easily with Aspose.Cells. Python HTML to MHT. Python Save HTML to MHT. Save HTML as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to MHT in Python., Save HTML to MHT using Python., Python HTML to MHT saveformat., HTML to MHT Converter., Python Save HTML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

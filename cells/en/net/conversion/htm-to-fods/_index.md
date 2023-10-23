@@ -1,7 +1,7 @@
 ---
 title: C# HTM to FODS - HTM to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. HTM to FODS in C#. C# Convert HTM to FODS saveformat. C# HTM to FODS format. Save HTM to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTM to FODS in C#., C# HTM to FODS saveformat., HTM to FODS C#., C# Convert HTM to FODS]
+description: Aspose Excel. Convert HTM to FODS quickly and easily with Aspose.Cells. C# HTM to FODS. C# Save HTM to FODS. Save HTM as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to FODS in C#., Save HTM to FODS using C#., C# HTM to FODS saveformat., HTM to FODS Converter., C# Save HTM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

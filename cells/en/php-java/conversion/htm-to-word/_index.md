@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to WORD - HTM to WORD Converter
-description: PHP Aspose.Cells. HTM to WORD in PHP. PHP Convert HTM to WORD saveformat. PHP HTM to WORD Converter. Save HTM to WORD PHP.
-keywords: [PHP Aspose.Cells., HTM to WORD in PHP., PHP HTM to WORD saveformat., HTM to WORD PHP., PHP Convert HTM to WORD., Save HTM to WORD PHP., HTM to WORD Converter., Save HTM as WORD]
+description: Aspose Excel. Convert HTM to WORD quickly and easily with Aspose.Cells. PHP HTM to WORD. PHP Save HTM to WORD. Save HTM as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to WORD in PHP., Save HTM to WORD using PHP., PHP HTM to WORD saveformat., HTM to WORD Converter., PHP Save HTM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

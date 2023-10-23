@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to GIF - XLSB to GIF Converter
-description: PHP Aspose.Cells. XLSB to GIF in PHP. PHP Convert XLSB to GIF saveformat. PHP XLSB to GIF Converter. Save XLSB to GIF PHP.
-keywords: [PHP Aspose.Cells., XLSB to GIF in PHP., PHP XLSB to GIF saveformat., XLSB to GIF PHP., PHP Convert XLSB to GIF., Save XLSB to GIF PHP., XLSB to GIF Converter., Save XLSB as GIF]
+description: Aspose Excel. Convert XLSB to GIF quickly and easily with Aspose.Cells. PHP XLSB to GIF. PHP Save XLSB to GIF. Save XLSB as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to GIF in PHP., Save XLSB to GIF using PHP., PHP XLSB to GIF saveformat., XLSB to GIF Converter., PHP Save XLSB as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

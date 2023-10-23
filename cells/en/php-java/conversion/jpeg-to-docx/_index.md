@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to DOCX - JPEG to DOCX Converter
-description: PHP Aspose.Cells. JPEG to DOCX in PHP. PHP Convert JPEG to DOCX saveformat. PHP JPEG to DOCX Converter. Save JPEG to DOCX PHP.
-keywords: [PHP Aspose.Cells., JPEG to DOCX in PHP., PHP JPEG to DOCX saveformat., JPEG to DOCX PHP., PHP Convert JPEG to DOCX., Save JPEG to DOCX PHP., JPEG to DOCX Converter., Save JPEG as DOCX]
+description: Aspose Excel. Convert JPEG to DOCX quickly and easily with Aspose.Cells. PHP JPEG to DOCX. PHP Save JPEG to DOCX. Save JPEG as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to DOCX in PHP., Save JPEG to DOCX using PHP., PHP JPEG to DOCX saveformat., JPEG to DOCX Converter., PHP Save JPEG as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

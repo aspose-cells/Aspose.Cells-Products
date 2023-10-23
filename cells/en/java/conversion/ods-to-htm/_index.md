@@ -1,7 +1,7 @@
 ---
 title: Java ODS to HTM - ODS to HTM Converter
-description: Aspose Excel. Java Aspose.Cells. ODS to HTM in Java. Java Convert ODS to HTM saveformat. Java ODS to HTM format. Save ODS to HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., ODS to HTM in Java., Java ODS to HTM saveformat., ODS to HTM Java., Java Convert ODS to HTM]
+description: Aspose Excel. Convert ODS to HTM quickly and easily with Aspose.Cells. Java ODS to HTM. Java Save ODS to HTM. Save ODS as HTM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to HTM in Java., Save ODS to HTM using Java., Java ODS to HTM saveformat., ODS to HTM Converter., Java Save ODS as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

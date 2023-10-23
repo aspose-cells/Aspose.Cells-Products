@@ -1,7 +1,7 @@
 ---
 title: C# SXC to XLTX - SXC to XLTX Converter
-description: Aspose Excel. C# Aspose.Cells. SXC to XLTX in C#. C# Convert SXC to XLTX saveformat. C# SXC to XLTX format. Save SXC to XLTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., SXC to XLTX in C#., C# SXC to XLTX saveformat., SXC to XLTX C#., C# Convert SXC to XLTX]
+description: Aspose Excel. Convert SXC to XLTX quickly and easily with Aspose.Cells. C# SXC to XLTX. C# Save SXC to XLTX. Save SXC as XLTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to XLTX in C#., Save SXC to XLTX using C#., C# SXC to XLTX saveformat., SXC to XLTX Converter., C# Save SXC as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to PDF - MHT to PDF Converter
-description: PHP Aspose.Cells. MHT to PDF in PHP. PHP Convert MHT to PDF saveformat. PHP MHT to PDF Converter. Save MHT to PDF PHP.
-keywords: [PHP Aspose.Cells., MHT to PDF in PHP., PHP MHT to PDF saveformat., MHT to PDF PHP., PHP Convert MHT to PDF., Save MHT to PDF PHP., MHT to PDF Converter., Save MHT as PDF]
+description: Aspose Excel. Convert MHT to PDF quickly and easily with Aspose.Cells. PHP MHT to PDF. PHP Save MHT to PDF. Save MHT as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to PDF in PHP., Save MHT to PDF using PHP., PHP MHT to PDF saveformat., MHT to PDF Converter., PHP Save MHT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

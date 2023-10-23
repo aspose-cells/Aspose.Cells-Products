@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to GIF - XLTX to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to GIF in C++. C++ Convert XLTX to GIF saveformat. C++ XLTX to GIF format. Save XLTX to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to GIF in C++., C++ XLTX to GIF saveformat., XLTX to GIF C++., C++ Convert XLTX to GIF]
+description: Aspose Excel. Convert XLTX to GIF quickly and easily with Aspose.Cells. C++ XLTX to GIF. C++ Save XLTX to GIF. Save XLTX as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to GIF in C++., Save XLTX to GIF using C++., C++ XLTX to GIF saveformat., XLTX to GIF Converter., C++ Save XLTX as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

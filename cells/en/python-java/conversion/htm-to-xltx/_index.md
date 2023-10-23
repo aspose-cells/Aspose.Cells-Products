@@ -1,7 +1,7 @@
 ---
 title: Python HTM to XLTX - HTM to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to XLTX in Python. Python Convert HTM to XLTX saveformat. Python HTM to XLTX format. Save HTM to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to XLTX in Python., Python HTM to XLTX saveformat., HTM to XLTX Python., Python Convert HTM to XLTX]
+description: Aspose Excel. Convert HTM to XLTX quickly and easily with Aspose.Cells. Python HTM to XLTX. Python Save HTM to XLTX. Save HTM as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to XLTX in Python., Save HTM to XLTX using Python., Python HTM to XLTX saveformat., HTM to XLTX Converter., Python Save HTM as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

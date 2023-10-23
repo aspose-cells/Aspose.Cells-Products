@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to XLTM - EXCEL to XLTM Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to XLTM in C++. C++ Convert EXCEL to XLTM saveformat. C++ EXCEL to XLTM format. Save EXCEL to XLTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to XLTM in C++., C++ EXCEL to XLTM saveformat., EXCEL to XLTM C++., C++ Convert EXCEL to XLTM]
+description: Aspose Excel. Convert EXCEL to XLTM quickly and easily with Aspose.Cells. C++ EXCEL to XLTM. C++ Save EXCEL to XLTM. Save EXCEL as XLTM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XLTM in C++., Save EXCEL to XLTM using C++., C++ EXCEL to XLTM saveformat., EXCEL to XLTM Converter., C++ Save EXCEL as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to XLAM - SPREADSHEETML to XLAM Converter
-description: PHP Aspose.Cells. SPREADSHEETML to XLAM in PHP. PHP Convert SPREADSHEETML to XLAM saveformat. PHP SPREADSHEETML to XLAM Converter. Save SPREADSHEETML to XLAM PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to XLAM in PHP., PHP SPREADSHEETML to XLAM saveformat., SPREADSHEETML to XLAM PHP., PHP Convert SPREADSHEETML to XLAM., Save SPREADSHEETML to XLAM PHP., SPREADSHEETML to XLAM Converter., Save SPREADSHEETML as XLAM]
+description: Aspose Excel. Convert SPREADSHEETML to XLAM quickly and easily with Aspose.Cells. PHP SPREADSHEETML to XLAM. PHP Save SPREADSHEETML to XLAM. Save SPREADSHEETML as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to XLAM in PHP., Save SPREADSHEETML to XLAM using PHP., PHP SPREADSHEETML to XLAM saveformat., SPREADSHEETML to XLAM Converter., PHP Save SPREADSHEETML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

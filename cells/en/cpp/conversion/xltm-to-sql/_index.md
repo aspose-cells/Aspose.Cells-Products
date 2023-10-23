@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to SQL - XLTM to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to SQL in C++. C++ Convert XLTM to SQL saveformat. C++ XLTM to SQL format. Save XLTM to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to SQL in C++., C++ XLTM to SQL saveformat., XLTM to SQL C++., C++ Convert XLTM to SQL]
+description: Aspose Excel. Convert XLTM to SQL quickly and easily with Aspose.Cells. C++ XLTM to SQL. C++ Save XLTM to SQL. Save XLTM as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to SQL in C++., Save XLTM to SQL using C++., C++ XLTM to SQL saveformat., XLTM to SQL Converter., C++ Save XLTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

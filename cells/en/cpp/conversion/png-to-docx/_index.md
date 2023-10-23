@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to DOCX - PNG to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to DOCX in C++. C++ Convert PNG to DOCX saveformat. C++ PNG to DOCX format. Save PNG to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to DOCX in C++., C++ PNG to DOCX saveformat., PNG to DOCX C++., C++ Convert PNG to DOCX]
+description: Aspose Excel. Convert PNG to DOCX quickly and easily with Aspose.Cells. C++ PNG to DOCX. C++ Save PNG to DOCX. Save PNG as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to DOCX in C++., Save PNG to DOCX using C++., C++ PNG to DOCX saveformat., PNG to DOCX Converter., C++ Save PNG as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

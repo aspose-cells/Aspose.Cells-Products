@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to DOCX - MHTML to DOCX Converter
-description: PHP Aspose.Cells. MHTML to DOCX in PHP. PHP Convert MHTML to DOCX saveformat. PHP MHTML to DOCX Converter. Save MHTML to DOCX PHP.
-keywords: [PHP Aspose.Cells., MHTML to DOCX in PHP., PHP MHTML to DOCX saveformat., MHTML to DOCX PHP., PHP Convert MHTML to DOCX., Save MHTML to DOCX PHP., MHTML to DOCX Converter., Save MHTML as DOCX]
+description: Aspose Excel. Convert MHTML to DOCX quickly and easily with Aspose.Cells. PHP MHTML to DOCX. PHP Save MHTML to DOCX. Save MHTML as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to DOCX in PHP., Save MHTML to DOCX using PHP., PHP MHTML to DOCX saveformat., MHTML to DOCX Converter., PHP Save MHTML as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

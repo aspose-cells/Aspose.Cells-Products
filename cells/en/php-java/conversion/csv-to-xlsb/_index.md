@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to XLSB - CSV to XLSB Converter
-description: PHP Aspose.Cells. CSV to XLSB in PHP. PHP Convert CSV to XLSB saveformat. PHP CSV to XLSB Converter. Save CSV to XLSB PHP.
-keywords: [PHP Aspose.Cells., CSV to XLSB in PHP., PHP CSV to XLSB saveformat., CSV to XLSB PHP., PHP Convert CSV to XLSB., Save CSV to XLSB PHP., CSV to XLSB Converter., Save CSV as XLSB]
+description: Aspose Excel. Convert CSV to XLSB quickly and easily with Aspose.Cells. PHP CSV to XLSB. PHP Save CSV to XLSB. Save CSV as XLSB using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to XLSB in PHP., Save CSV to XLSB using PHP., PHP CSV to XLSB saveformat., CSV to XLSB Converter., PHP Save CSV as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

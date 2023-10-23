@@ -1,7 +1,7 @@
 ---
 title: Java MHT to MHT - MHT to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to MHT in Java. Java Convert MHT to MHT saveformat. Java MHT to MHT format. Save MHT to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to MHT in Java., Java MHT to MHT saveformat., MHT to MHT Java., Java Convert MHT to MHT]
+description: Aspose Excel. Convert MHT to MHT quickly and easily with Aspose.Cells. Java MHT to MHT. Java Save MHT to MHT. Save MHT as MHT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to MHT in Java., Save MHT to MHT using Java., Java MHT to MHT saveformat., MHT to MHT Converter., Java Save MHT as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

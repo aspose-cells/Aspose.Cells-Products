@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to DOCX - EXCEL to DOCX Converter
-description: PHP Aspose.Cells. EXCEL to DOCX in PHP. PHP Convert EXCEL to DOCX saveformat. PHP EXCEL to DOCX Converter. Save EXCEL to DOCX PHP.
-keywords: [PHP Aspose.Cells., EXCEL to DOCX in PHP., PHP EXCEL to DOCX saveformat., EXCEL to DOCX PHP., PHP Convert EXCEL to DOCX., Save EXCEL to DOCX PHP., EXCEL to DOCX Converter., Save EXCEL as DOCX]
+description: Aspose Excel. Convert EXCEL to DOCX quickly and easily with Aspose.Cells. PHP EXCEL to DOCX. PHP Save EXCEL to DOCX. Save EXCEL as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to DOCX in PHP., Save EXCEL to DOCX using PHP., PHP EXCEL to DOCX saveformat., EXCEL to DOCX Converter., PHP Save EXCEL as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

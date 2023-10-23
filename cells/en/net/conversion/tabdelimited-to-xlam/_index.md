@@ -1,7 +1,7 @@
 ---
 title: C# TABDELIMITED to XLAM - TABDELIMITED to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. TABDELIMITED to XLAM in C#. C# Convert TABDELIMITED to XLAM saveformat. C# TABDELIMITED to XLAM format. Save TABDELIMITED to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TABDELIMITED to XLAM in C#., C# TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM C#., C# Convert TABDELIMITED to XLAM]
+description: Aspose Excel. Convert TABDELIMITED to XLAM quickly and easily with Aspose.Cells. C# TABDELIMITED to XLAM. C# Save TABDELIMITED to XLAM. Save TABDELIMITED as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TABDELIMITED to XLAM in C#., Save TABDELIMITED to XLAM using C#., C# TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM Converter., C# Save TABDELIMITED as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

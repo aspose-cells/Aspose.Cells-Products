@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to ET - HTML to ET Converter
-description: PHP Aspose.Cells. HTML to ET in PHP. PHP Convert HTML to ET saveformat. PHP HTML to ET Converter. Save HTML to ET PHP.
-keywords: [PHP Aspose.Cells., HTML to ET in PHP., PHP HTML to ET saveformat., HTML to ET PHP., PHP Convert HTML to ET., Save HTML to ET PHP., HTML to ET Converter., Save HTML as ET]
+description: Aspose Excel. Convert HTML to ET quickly and easily with Aspose.Cells. PHP HTML to ET. PHP Save HTML to ET. Save HTML as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to ET in PHP., Save HTML to ET using PHP., PHP HTML to ET saveformat., HTML to ET Converter., PHP Save HTML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

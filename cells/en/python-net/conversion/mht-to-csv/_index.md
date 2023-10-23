@@ -1,7 +1,7 @@
 ---
 title: Python MHT to CSV - MHT to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to CSV in Python. Python Convert MHT to CSV saveformat. Python MHT to CSV format. Save MHT to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to CSV in Python., Python MHT to CSV saveformat., MHT to CSV Python., Python Convert MHT to CSV]
+description: Aspose Excel. Convert MHT to CSV quickly and easily with Aspose.Cells. Python MHT to CSV. Python Save MHT to CSV. Save MHT as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to CSV in Python., Save MHT to CSV using Python., Python MHT to CSV saveformat., MHT to CSV Converter., Python Save MHT as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

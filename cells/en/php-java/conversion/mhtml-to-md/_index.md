@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to MD - MHTML to MD Converter
-description: PHP Aspose.Cells. MHTML to MD in PHP. PHP Convert MHTML to MD saveformat. PHP MHTML to MD Converter. Save MHTML to MD PHP.
-keywords: [PHP Aspose.Cells., MHTML to MD in PHP., PHP MHTML to MD saveformat., MHTML to MD PHP., PHP Convert MHTML to MD., Save MHTML to MD PHP., MHTML to MD Converter., Save MHTML as MD]
+description: Aspose Excel. Convert MHTML to MD quickly and easily with Aspose.Cells. PHP MHTML to MD. PHP Save MHTML to MD. Save MHTML as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to MD in PHP., Save MHTML to MD using PHP., PHP MHTML to MD saveformat., MHTML to MD Converter., PHP Save MHTML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to XLT - XLTM to XLT Converter
-description: PHP Aspose.Cells. XLTM to XLT in PHP. PHP Convert XLTM to XLT saveformat. PHP XLTM to XLT Converter. Save XLTM to XLT PHP.
-keywords: [PHP Aspose.Cells., XLTM to XLT in PHP., PHP XLTM to XLT saveformat., XLTM to XLT PHP., PHP Convert XLTM to XLT., Save XLTM to XLT PHP., XLTM to XLT Converter., Save XLTM as XLT]
+description: Aspose Excel. Convert XLTM to XLT quickly and easily with Aspose.Cells. PHP XLTM to XLT. PHP Save XLTM to XLT. Save XLTM as XLT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to XLT in PHP., Save XLTM to XLT using PHP., PHP XLTM to XLT saveformat., XLTM to XLT Converter., PHP Save XLTM as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

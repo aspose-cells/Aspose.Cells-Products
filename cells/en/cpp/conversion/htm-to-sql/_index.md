@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to SQL - HTM to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to SQL in C++. C++ Convert HTM to SQL saveformat. C++ HTM to SQL format. Save HTM to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to SQL in C++., C++ HTM to SQL saveformat., HTM to SQL C++., C++ Convert HTM to SQL]
+description: Aspose Excel. Convert HTM to SQL quickly and easily with Aspose.Cells. C++ HTM to SQL. C++ Save HTM to SQL. Save HTM as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to SQL in C++., Save HTM to SQL using C++., C++ HTM to SQL saveformat., HTM to SQL Converter., C++ Save HTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

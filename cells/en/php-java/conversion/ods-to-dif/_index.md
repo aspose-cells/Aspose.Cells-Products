@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to DIF - ODS to DIF Converter
-description: PHP Aspose.Cells. ODS to DIF in PHP. PHP Convert ODS to DIF saveformat. PHP ODS to DIF Converter. Save ODS to DIF PHP.
-keywords: [PHP Aspose.Cells., ODS to DIF in PHP., PHP ODS to DIF saveformat., ODS to DIF PHP., PHP Convert ODS to DIF., Save ODS to DIF PHP., ODS to DIF Converter., Save ODS as DIF]
+description: Aspose Excel. Convert ODS to DIF quickly and easily with Aspose.Cells. PHP ODS to DIF. PHP Save ODS to DIF. Save ODS as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to DIF in PHP., Save ODS to DIF using PHP., PHP ODS to DIF saveformat., ODS to DIF Converter., PHP Save ODS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

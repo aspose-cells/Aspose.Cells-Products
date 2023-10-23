@@ -1,7 +1,7 @@
 ---
 title: Java PNG to POWERPOINT - PNG to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to POWERPOINT in Java. Java Convert PNG to POWERPOINT saveformat. Java PNG to POWERPOINT format. Save PNG to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to POWERPOINT in Java., Java PNG to POWERPOINT saveformat., PNG to POWERPOINT Java., Java Convert PNG to POWERPOINT]
+description: Aspose Excel. Convert PNG to POWERPOINT quickly and easily with Aspose.Cells. Java PNG to POWERPOINT. Java Save PNG to POWERPOINT. Save PNG as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to POWERPOINT in Java., Save PNG to POWERPOINT using Java., Java PNG to POWERPOINT saveformat., PNG to POWERPOINT Converter., Java Save PNG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

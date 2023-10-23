@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to WORD - XLSB to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to WORD in Java. Java Convert XLSB to WORD saveformat. Java XLSB to WORD format. Save XLSB to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to WORD in Java., Java XLSB to WORD saveformat., XLSB to WORD Java., Java Convert XLSB to WORD]
+description: Aspose Excel. Convert XLSB to WORD quickly and easily with Aspose.Cells. Java XLSB to WORD. Java Save XLSB to WORD. Save XLSB as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to WORD in Java., Save XLSB to WORD using Java., Java XLSB to WORD saveformat., XLSB to WORD Converter., Java Save XLSB as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

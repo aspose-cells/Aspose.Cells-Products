@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to XLTX - XLTM to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to XLTX in Python. Python Convert XLTM to XLTX saveformat. Python XLTM to XLTX format. Save XLTM to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to XLTX in Python., Python XLTM to XLTX saveformat., XLTM to XLTX Python., Python Convert XLTM to XLTX]
+description: Aspose Excel. Convert XLTM to XLTX quickly and easily with Aspose.Cells. Python XLTM to XLTX. Python Save XLTM to XLTX. Save XLTM as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to XLTX in Python., Save XLTM to XLTX using Python., Python XLTM to XLTX saveformat., XLTM to XLTX Converter., Python Save XLTM as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

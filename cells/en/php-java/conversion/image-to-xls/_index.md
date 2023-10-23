@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to XLS - IMAGE to XLS Converter
-description: PHP Aspose.Cells. IMAGE to XLS in PHP. PHP Convert IMAGE to XLS saveformat. PHP IMAGE to XLS Converter. Save IMAGE to XLS PHP.
-keywords: [PHP Aspose.Cells., IMAGE to XLS in PHP., PHP IMAGE to XLS saveformat., IMAGE to XLS PHP., PHP Convert IMAGE to XLS., Save IMAGE to XLS PHP., IMAGE to XLS Converter., Save IMAGE as XLS]
+description: Aspose Excel. Convert IMAGE to XLS quickly and easily with Aspose.Cells. PHP IMAGE to XLS. PHP Save IMAGE to XLS. Save IMAGE as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to XLS in PHP., Save IMAGE to XLS using PHP., PHP IMAGE to XLS saveformat., IMAGE to XLS Converter., PHP Save IMAGE as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

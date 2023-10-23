@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to XLTM - OTS to XLTM Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to XLTM in C++. C++ Convert OTS to XLTM saveformat. C++ OTS to XLTM format. Save OTS to XLTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to XLTM in C++., C++ OTS to XLTM saveformat., OTS to XLTM C++., C++ Convert OTS to XLTM]
+description: Aspose Excel. Convert OTS to XLTM quickly and easily with Aspose.Cells. C++ OTS to XLTM. C++ Save OTS to XLTM. Save OTS as XLTM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to XLTM in C++., Save OTS to XLTM using C++., C++ OTS to XLTM saveformat., OTS to XLTM Converter., C++ Save OTS as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

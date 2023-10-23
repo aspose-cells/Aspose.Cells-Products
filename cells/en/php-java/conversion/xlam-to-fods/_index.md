@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to FODS - XLAM to FODS Converter
-description: PHP Aspose.Cells. XLAM to FODS in PHP. PHP Convert XLAM to FODS saveformat. PHP XLAM to FODS Converter. Save XLAM to FODS PHP.
-keywords: [PHP Aspose.Cells., XLAM to FODS in PHP., PHP XLAM to FODS saveformat., XLAM to FODS PHP., PHP Convert XLAM to FODS., Save XLAM to FODS PHP., XLAM to FODS Converter., Save XLAM as FODS]
+description: Aspose Excel. Convert XLAM to FODS quickly and easily with Aspose.Cells. PHP XLAM to FODS. PHP Save XLAM to FODS. Save XLAM as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to FODS in PHP., Save XLAM to FODS using PHP., PHP XLAM to FODS saveformat., XLAM to FODS Converter., PHP Save XLAM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

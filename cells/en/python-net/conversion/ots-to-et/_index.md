@@ -1,7 +1,7 @@
 ---
 title: Python OTS to ET - OTS to ET Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to ET in Python. Python Convert OTS to ET saveformat. Python OTS to ET format. Save OTS to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to ET in Python., Python OTS to ET saveformat., OTS to ET Python., Python Convert OTS to ET]
+description: Aspose Excel. Convert OTS to ET quickly and easily with Aspose.Cells. Python OTS to ET. Python Save OTS to ET. Save OTS as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to ET in Python., Save OTS to ET using Python., Python OTS to ET saveformat., OTS to ET Converter., Python Save OTS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

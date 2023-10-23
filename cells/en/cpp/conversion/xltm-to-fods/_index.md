@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to FODS - XLTM to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to FODS in C++. C++ Convert XLTM to FODS saveformat. C++ XLTM to FODS format. Save XLTM to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to FODS in C++., C++ XLTM to FODS saveformat., XLTM to FODS C++., C++ Convert XLTM to FODS]
+description: Aspose Excel. Convert XLTM to FODS quickly and easily with Aspose.Cells. C++ XLTM to FODS. C++ Save XLTM to FODS. Save XLTM as FODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to FODS in C++., Save XLTM to FODS using C++., C++ XLTM to FODS saveformat., XLTM to FODS Converter., C++ Save XLTM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

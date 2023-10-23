@@ -1,7 +1,7 @@
 ---
 title: Java TXT to SVG - TXT to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to SVG in Java. Java Convert TXT to SVG saveformat. Java TXT to SVG format. Save TXT to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to SVG in Java., Java TXT to SVG saveformat., TXT to SVG Java., Java Convert TXT to SVG]
+description: Aspose Excel. Convert TXT to SVG quickly and easily with Aspose.Cells. Java TXT to SVG. Java Save TXT to SVG. Save TXT as SVG using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to SVG in Java., Save TXT to SVG using Java., Java TXT to SVG saveformat., TXT to SVG Converter., Java Save TXT as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

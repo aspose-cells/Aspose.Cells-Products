@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to PRN - XLSB to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to PRN in Java. Java Convert XLSB to PRN saveformat. Java XLSB to PRN format. Save XLSB to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to PRN in Java., Java XLSB to PRN saveformat., XLSB to PRN Java., Java Convert XLSB to PRN]
+description: Aspose Excel. Convert XLSB to PRN quickly and easily with Aspose.Cells. Java XLSB to PRN. Java Save XLSB to PRN. Save XLSB as PRN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to PRN in Java., Save XLSB to PRN using Java., Java XLSB to PRN saveformat., XLSB to PRN Converter., Java Save XLSB as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to ET - NUMBERS to ET Converter
-description: Aspose Excel. Java Aspose.Cells. NUMBERS to ET in Java. Java Convert NUMBERS to ET saveformat. Java NUMBERS to ET format. Save NUMBERS to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to ET in Java., Java NUMBERS to ET saveformat., NUMBERS to ET Java., Java Convert NUMBERS to ET]
+description: Aspose Excel. Convert NUMBERS to ET quickly and easily with Aspose.Cells. Java NUMBERS to ET. Java Save NUMBERS to ET. Save NUMBERS as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to ET in Java., Save NUMBERS to ET using Java., Java NUMBERS to ET saveformat., NUMBERS to ET Converter., Java Save NUMBERS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

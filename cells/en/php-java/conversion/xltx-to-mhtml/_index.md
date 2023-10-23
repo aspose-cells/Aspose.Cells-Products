@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to MHTML - XLTX to MHTML Converter
-description: PHP Aspose.Cells. XLTX to MHTML in PHP. PHP Convert XLTX to MHTML saveformat. PHP XLTX to MHTML Converter. Save XLTX to MHTML PHP.
-keywords: [PHP Aspose.Cells., XLTX to MHTML in PHP., PHP XLTX to MHTML saveformat., XLTX to MHTML PHP., PHP Convert XLTX to MHTML., Save XLTX to MHTML PHP., XLTX to MHTML Converter., Save XLTX as MHTML]
+description: Aspose Excel. Convert XLTX to MHTML quickly and easily with Aspose.Cells. PHP XLTX to MHTML. PHP Save XLTX to MHTML. Save XLTX as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to MHTML in PHP., Save XLTX to MHTML using PHP., PHP XLTX to MHTML saveformat., XLTX to MHTML Converter., PHP Save XLTX as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

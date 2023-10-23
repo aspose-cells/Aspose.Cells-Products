@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to GIF - XLSM to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to GIF in Java. Java Convert XLSM to GIF saveformat. Java XLSM to GIF format. Save XLSM to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to GIF in Java., Java XLSM to GIF saveformat., XLSM to GIF Java., Java Convert XLSM to GIF]
+description: Aspose Excel. Convert XLSM to GIF quickly and easily with Aspose.Cells. Java XLSM to GIF. Java Save XLSM to GIF. Save XLSM as GIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to GIF in Java., Save XLSM to GIF using Java., Java XLSM to GIF saveformat., XLSM to GIF Converter., Java Save XLSM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

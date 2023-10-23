@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to POWERPOINT - EXCEL to POWERPOINT Converter
-description: PHP Aspose.Cells. EXCEL to POWERPOINT in PHP. PHP Convert EXCEL to POWERPOINT saveformat. PHP EXCEL to POWERPOINT Converter. Save EXCEL to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., EXCEL to POWERPOINT in PHP., PHP EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT PHP., PHP Convert EXCEL to POWERPOINT., Save EXCEL to POWERPOINT PHP., EXCEL to POWERPOINT Converter., Save EXCEL as POWERPOINT]
+description: Aspose Excel. Convert EXCEL to POWERPOINT quickly and easily with Aspose.Cells. PHP EXCEL to POWERPOINT. PHP Save EXCEL to POWERPOINT. Save EXCEL as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to POWERPOINT in PHP., Save EXCEL to POWERPOINT using PHP., PHP EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Converter., PHP Save EXCEL as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

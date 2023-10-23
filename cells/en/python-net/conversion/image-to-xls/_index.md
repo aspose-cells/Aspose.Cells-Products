@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to XLS - IMAGE to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to XLS in Python. Python Convert IMAGE to XLS saveformat. Python IMAGE to XLS format. Save IMAGE to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to XLS in Python., Python IMAGE to XLS saveformat., IMAGE to XLS Python., Python Convert IMAGE to XLS]
+description: Aspose Excel. Convert IMAGE to XLS quickly and easily with Aspose.Cells. Python IMAGE to XLS. Python Save IMAGE to XLS. Save IMAGE as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to XLS in Python., Save IMAGE to XLS using Python., Python IMAGE to XLS saveformat., IMAGE to XLS Converter., Python Save IMAGE as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

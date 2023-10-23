@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to OTS - XLSB to OTS Converter
-description: PHP Aspose.Cells. XLSB to OTS in PHP. PHP Convert XLSB to OTS saveformat. PHP XLSB to OTS Converter. Save XLSB to OTS PHP.
-keywords: [PHP Aspose.Cells., XLSB to OTS in PHP., PHP XLSB to OTS saveformat., XLSB to OTS PHP., PHP Convert XLSB to OTS., Save XLSB to OTS PHP., XLSB to OTS Converter., Save XLSB as OTS]
+description: Aspose Excel. Convert XLSB to OTS quickly and easily with Aspose.Cells. PHP XLSB to OTS. PHP Save XLSB to OTS. Save XLSB as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to OTS in PHP., Save XLSB to OTS using PHP., PHP XLSB to OTS saveformat., XLSB to OTS Converter., PHP Save XLSB as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

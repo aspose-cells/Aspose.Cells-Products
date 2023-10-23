@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to HTML - XLSX to HTML Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to HTML in C#. C# Convert XLSX to HTML saveformat. C# XLSX to HTML format. Save XLSX to HTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to HTML in C#., C# XLSX to HTML saveformat., XLSX to HTML C#., C# Convert XLSX to HTML]
+description: Aspose Excel. Convert XLSX to HTML quickly and easily with Aspose.Cells. C# XLSX to HTML. C# Save XLSX to HTML. Save XLSX as HTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to HTML in C#., Save XLSX to HTML using C#., C# XLSX to HTML saveformat., XLSX to HTML Converter., C# Save XLSX as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

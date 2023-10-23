@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to MHTML - PRN to MHTML Converter
-description: PHP Aspose.Cells. PRN to MHTML in PHP. PHP Convert PRN to MHTML saveformat. PHP PRN to MHTML Converter. Save PRN to MHTML PHP.
-keywords: [PHP Aspose.Cells., PRN to MHTML in PHP., PHP PRN to MHTML saveformat., PRN to MHTML PHP., PHP Convert PRN to MHTML., Save PRN to MHTML PHP., PRN to MHTML Converter., Save PRN as MHTML]
+description: Aspose Excel. Convert PRN to MHTML quickly and easily with Aspose.Cells. PHP PRN to MHTML. PHP Save PRN to MHTML. Save PRN as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to MHTML in PHP., Save PRN to MHTML using PHP., PHP PRN to MHTML saveformat., PRN to MHTML Converter., PHP Save PRN as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

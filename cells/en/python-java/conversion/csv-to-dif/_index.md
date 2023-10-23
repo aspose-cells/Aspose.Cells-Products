@@ -1,7 +1,7 @@
 ---
 title: Python CSV to DIF - CSV to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to DIF in Python. Python Convert CSV to DIF saveformat. Python CSV to DIF format. Save CSV to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to DIF in Python., Python CSV to DIF saveformat., CSV to DIF Python., Python Convert CSV to DIF]
+description: Aspose Excel. Convert CSV to DIF quickly and easily with Aspose.Cells. Python CSV to DIF. Python Save CSV to DIF. Save CSV as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to DIF in Python., Save CSV to DIF using Python., Python CSV to DIF saveformat., CSV to DIF Converter., Python Save CSV as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

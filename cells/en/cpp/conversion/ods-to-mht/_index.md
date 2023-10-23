@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to MHT - ODS to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to MHT in C++. C++ Convert ODS to MHT saveformat. C++ ODS to MHT format. Save ODS to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to MHT in C++., C++ ODS to MHT saveformat., ODS to MHT C++., C++ Convert ODS to MHT]
+description: Aspose Excel. Convert ODS to MHT quickly and easily with Aspose.Cells. C++ ODS to MHT. C++ Save ODS to MHT. Save ODS as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to MHT in C++., Save ODS to MHT using C++., C++ ODS to MHT saveformat., ODS to MHT Converter., C++ Save ODS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

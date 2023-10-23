@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to TSV - MHT to TSV Converter
-description: PHP Aspose.Cells. MHT to TSV in PHP. PHP Convert MHT to TSV saveformat. PHP MHT to TSV Converter. Save MHT to TSV PHP.
-keywords: [PHP Aspose.Cells., MHT to TSV in PHP., PHP MHT to TSV saveformat., MHT to TSV PHP., PHP Convert MHT to TSV., Save MHT to TSV PHP., MHT to TSV Converter., Save MHT as TSV]
+description: Aspose Excel. Convert MHT to TSV quickly and easily with Aspose.Cells. PHP MHT to TSV. PHP Save MHT to TSV. Save MHT as TSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to TSV in PHP., Save MHT to TSV using PHP., PHP MHT to TSV saveformat., MHT to TSV Converter., PHP Save MHT as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

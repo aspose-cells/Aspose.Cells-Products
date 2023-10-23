@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to DIF - JSON to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to DIF in C++. C++ Convert JSON to DIF saveformat. C++ JSON to DIF format. Save JSON to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to DIF in C++., C++ JSON to DIF saveformat., JSON to DIF C++., C++ Convert JSON to DIF]
+description: Aspose Excel. Convert JSON to DIF quickly and easily with Aspose.Cells. C++ JSON to DIF. C++ Save JSON to DIF. Save JSON as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to DIF in C++., Save JSON to DIF using C++., C++ JSON to DIF saveformat., JSON to DIF Converter., C++ Save JSON as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

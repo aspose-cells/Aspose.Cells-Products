@@ -1,7 +1,7 @@
 ---
 title: Python PRN to TXT - PRN to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to TXT in Python. Python Convert PRN to TXT saveformat. Python PRN to TXT format. Save PRN to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to TXT in Python., Python PRN to TXT saveformat., PRN to TXT Python., Python Convert PRN to TXT]
+description: Aspose Excel. Convert PRN to TXT quickly and easily with Aspose.Cells. Python PRN to TXT. Python Save PRN to TXT. Save PRN as TXT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to TXT in Python., Save PRN to TXT using Python., Python PRN to TXT saveformat., PRN to TXT Converter., Python Save PRN as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

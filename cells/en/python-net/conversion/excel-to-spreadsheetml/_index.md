@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to SPREADSHEETML - EXCEL to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to SPREADSHEETML in Python. Python Convert EXCEL to SPREADSHEETML saveformat. Python EXCEL to SPREADSHEETML format. Save EXCEL to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to SPREADSHEETML in Python., Python EXCEL to SPREADSHEETML saveformat., EXCEL to SPREADSHEETML Python., Python Convert EXCEL to SPREADSHEETML]
+description: Aspose Excel. Convert EXCEL to SPREADSHEETML quickly and easily with Aspose.Cells. Python EXCEL to SPREADSHEETML. Python Save EXCEL to SPREADSHEETML. Save EXCEL as SPREADSHEETML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to SPREADSHEETML in Python., Save EXCEL to SPREADSHEETML using Python., Python EXCEL to SPREADSHEETML saveformat., EXCEL to SPREADSHEETML Converter., Python Save EXCEL as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

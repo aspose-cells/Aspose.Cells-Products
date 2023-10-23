@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to PPTX - MHT to PPTX Converter
-description: PHP Aspose.Cells. MHT to PPTX in PHP. PHP Convert MHT to PPTX saveformat. PHP MHT to PPTX Converter. Save MHT to PPTX PHP.
-keywords: [PHP Aspose.Cells., MHT to PPTX in PHP., PHP MHT to PPTX saveformat., MHT to PPTX PHP., PHP Convert MHT to PPTX., Save MHT to PPTX PHP., MHT to PPTX Converter., Save MHT as PPTX]
+description: Aspose Excel. Convert MHT to PPTX quickly and easily with Aspose.Cells. PHP MHT to PPTX. PHP Save MHT to PPTX. Save MHT as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to PPTX in PHP., Save MHT to PPTX using PHP., PHP MHT to PPTX saveformat., MHT to PPTX Converter., PHP Save MHT as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

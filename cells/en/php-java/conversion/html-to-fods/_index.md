@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to FODS - HTML to FODS Converter
-description: PHP Aspose.Cells. HTML to FODS in PHP. PHP Convert HTML to FODS saveformat. PHP HTML to FODS Converter. Save HTML to FODS PHP.
-keywords: [PHP Aspose.Cells., HTML to FODS in PHP., PHP HTML to FODS saveformat., HTML to FODS PHP., PHP Convert HTML to FODS., Save HTML to FODS PHP., HTML to FODS Converter., Save HTML as FODS]
+description: Aspose Excel. Convert HTML to FODS quickly and easily with Aspose.Cells. PHP HTML to FODS. PHP Save HTML to FODS. Save HTML as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to FODS in PHP., Save HTML to FODS using PHP., PHP HTML to FODS saveformat., HTML to FODS Converter., PHP Save HTML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

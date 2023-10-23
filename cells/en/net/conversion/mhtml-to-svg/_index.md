@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to SVG - MHTML to SVG Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to SVG in C#. C# Convert MHTML to SVG saveformat. C# MHTML to SVG format. Save MHTML to SVG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to SVG in C#., C# MHTML to SVG saveformat., MHTML to SVG C#., C# Convert MHTML to SVG]
+description: Aspose Excel. Convert MHTML to SVG quickly and easily with Aspose.Cells. C# MHTML to SVG. C# Save MHTML to SVG. Save MHTML as SVG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to SVG in C#., Save MHTML to SVG using C#., C# MHTML to SVG saveformat., MHTML to SVG Converter., C# Save MHTML as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

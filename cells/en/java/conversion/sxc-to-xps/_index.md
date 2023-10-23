@@ -1,7 +1,7 @@
 ---
 title: Java SXC to XPS - SXC to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to XPS in Java. Java Convert SXC to XPS saveformat. Java SXC to XPS format. Save SXC to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to XPS in Java., Java SXC to XPS saveformat., SXC to XPS Java., Java Convert SXC to XPS]
+description: Aspose Excel. Convert SXC to XPS quickly and easily with Aspose.Cells. Java SXC to XPS. Java Save SXC to XPS. Save SXC as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to XPS in Java., Save SXC to XPS using Java., Java SXC to XPS saveformat., SXC to XPS Converter., Java Save SXC as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

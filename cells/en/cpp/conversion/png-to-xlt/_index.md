@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to XLT - PNG to XLT Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to XLT in C++. C++ Convert PNG to XLT saveformat. C++ PNG to XLT format. Save PNG to XLT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to XLT in C++., C++ PNG to XLT saveformat., PNG to XLT C++., C++ Convert PNG to XLT]
+description: Aspose Excel. Convert PNG to XLT quickly and easily with Aspose.Cells. C++ PNG to XLT. C++ Save PNG to XLT. Save PNG as XLT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to XLT in C++., Save PNG to XLT using C++., C++ PNG to XLT saveformat., PNG to XLT Converter., C++ Save PNG as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java OTS to XLTX - OTS to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to XLTX in Java. Java Convert OTS to XLTX saveformat. Java OTS to XLTX format. Save OTS to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to XLTX in Java., Java OTS to XLTX saveformat., OTS to XLTX Java., Java Convert OTS to XLTX]
+description: Aspose Excel. Convert OTS to XLTX quickly and easily with Aspose.Cells. Java OTS to XLTX. Java Save OTS to XLTX. Save OTS as XLTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to XLTX in Java., Save OTS to XLTX using Java., Java OTS to XLTX saveformat., OTS to XLTX Converter., Java Save OTS as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

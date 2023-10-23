@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to GIF - IMAGE to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to GIF in Python. Python Convert IMAGE to GIF saveformat. Python IMAGE to GIF format. Save IMAGE to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to GIF in Python., Python IMAGE to GIF saveformat., IMAGE to GIF Python., Python Convert IMAGE to GIF]
+description: Aspose Excel. Convert IMAGE to GIF quickly and easily with Aspose.Cells. Python IMAGE to GIF. Python Save IMAGE to GIF. Save IMAGE as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to GIF in Python., Save IMAGE to GIF using Python., Python IMAGE to GIF saveformat., IMAGE to GIF Converter., Python Save IMAGE as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

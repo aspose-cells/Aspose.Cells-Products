@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to MHT - XLAM to MHT Converter
-description: PHP Aspose.Cells. XLAM to MHT in PHP. PHP Convert XLAM to MHT saveformat. PHP XLAM to MHT Converter. Save XLAM to MHT PHP.
-keywords: [PHP Aspose.Cells., XLAM to MHT in PHP., PHP XLAM to MHT saveformat., XLAM to MHT PHP., PHP Convert XLAM to MHT., Save XLAM to MHT PHP., XLAM to MHT Converter., Save XLAM as MHT]
+description: Aspose Excel. Convert XLAM to MHT quickly and easily with Aspose.Cells. PHP XLAM to MHT. PHP Save XLAM to MHT. Save XLAM as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to MHT in PHP., Save XLAM to MHT using PHP., PHP XLAM to MHT saveformat., XLAM to MHT Converter., PHP Save XLAM as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

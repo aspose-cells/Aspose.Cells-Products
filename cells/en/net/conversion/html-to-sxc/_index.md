@@ -1,7 +1,7 @@
 ---
 title: C# HTML to SXC - HTML to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. HTML to SXC in C#. C# Convert HTML to SXC saveformat. C# HTML to SXC format. Save HTML to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTML to SXC in C#., C# HTML to SXC saveformat., HTML to SXC C#., C# Convert HTML to SXC]
+description: Aspose Excel. Convert HTML to SXC quickly and easily with Aspose.Cells. C# HTML to SXC. C# Save HTML to SXC. Save HTML as SXC using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to SXC in C#., Save HTML to SXC using C#., C# HTML to SXC saveformat., HTML to SXC Converter., C# Save HTML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

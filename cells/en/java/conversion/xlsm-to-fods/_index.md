@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to FODS - XLSM to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to FODS in Java. Java Convert XLSM to FODS saveformat. Java XLSM to FODS format. Save XLSM to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to FODS in Java., Java XLSM to FODS saveformat., XLSM to FODS Java., Java Convert XLSM to FODS]
+description: Aspose Excel. Convert XLSM to FODS quickly and easily with Aspose.Cells. Java XLSM to FODS. Java Save XLSM to FODS. Save XLSM as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to FODS in Java., Save XLSM to FODS using Java., Java XLSM to FODS saveformat., XLSM to FODS Converter., Java Save XLSM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

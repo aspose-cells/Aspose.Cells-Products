@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to EXCEL - TXT to EXCEL Converter
-description: PHP Aspose.Cells. TXT to EXCEL in PHP. PHP Convert TXT to EXCEL saveformat. PHP TXT to EXCEL Converter. Save TXT to EXCEL PHP.
-keywords: [PHP Aspose.Cells., TXT to EXCEL in PHP., PHP TXT to EXCEL saveformat., TXT to EXCEL PHP., PHP Convert TXT to EXCEL., Save TXT to EXCEL PHP., TXT to EXCEL Converter., Save TXT as EXCEL]
+description: Aspose Excel. Convert TXT to EXCEL quickly and easily with Aspose.Cells. PHP TXT to EXCEL. PHP Save TXT to EXCEL. Save TXT as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to EXCEL in PHP., Save TXT to EXCEL using PHP., PHP TXT to EXCEL saveformat., TXT to EXCEL Converter., PHP Save TXT as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

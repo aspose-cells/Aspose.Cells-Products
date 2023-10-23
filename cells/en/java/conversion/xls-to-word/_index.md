@@ -1,7 +1,7 @@
 ---
 title: Java XLS to WORD - XLS to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to WORD in Java. Java Convert XLS to WORD saveformat. Java XLS to WORD format. Save XLS to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to WORD in Java., Java XLS to WORD saveformat., XLS to WORD Java., Java Convert XLS to WORD]
+description: Aspose Excel. Convert XLS to WORD quickly and easily with Aspose.Cells. Java XLS to WORD. Java Save XLS to WORD. Save XLS as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to WORD in Java., Save XLS to WORD using Java., Java XLS to WORD saveformat., XLS to WORD Converter., Java Save XLS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to SPREADSHEETML - XLT to SPREADSHEETML Converter
-description: PHP Aspose.Cells. XLT to SPREADSHEETML in PHP. PHP Convert XLT to SPREADSHEETML saveformat. PHP XLT to SPREADSHEETML Converter. Save XLT to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., XLT to SPREADSHEETML in PHP., PHP XLT to SPREADSHEETML saveformat., XLT to SPREADSHEETML PHP., PHP Convert XLT to SPREADSHEETML., Save XLT to SPREADSHEETML PHP., XLT to SPREADSHEETML Converter., Save XLT as SPREADSHEETML]
+description: Aspose Excel. Convert XLT to SPREADSHEETML quickly and easily with Aspose.Cells. PHP XLT to SPREADSHEETML. PHP Save XLT to SPREADSHEETML. Save XLT as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to SPREADSHEETML in PHP., Save XLT to SPREADSHEETML using PHP., PHP XLT to SPREADSHEETML saveformat., XLT to SPREADSHEETML Converter., PHP Save XLT as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

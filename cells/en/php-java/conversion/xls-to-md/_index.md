@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to MD - XLS to MD Converter
-description: PHP Aspose.Cells. XLS to MD in PHP. PHP Convert XLS to MD saveformat. PHP XLS to MD Converter. Save XLS to MD PHP.
-keywords: [PHP Aspose.Cells., XLS to MD in PHP., PHP XLS to MD saveformat., XLS to MD PHP., PHP Convert XLS to MD., Save XLS to MD PHP., XLS to MD Converter., Save XLS as MD]
+description: Aspose Excel. Convert XLS to MD quickly and easily with Aspose.Cells. PHP XLS to MD. PHP Save XLS to MD. Save XLS as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to MD in PHP., Save XLS to MD using PHP., PHP XLS to MD saveformat., XLS to MD Converter., PHP Save XLS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

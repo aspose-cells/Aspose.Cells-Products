@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to MD - HTML to MD Converter
-description: PHP Aspose.Cells. HTML to MD in PHP. PHP Convert HTML to MD saveformat. PHP HTML to MD Converter. Save HTML to MD PHP.
-keywords: [PHP Aspose.Cells., HTML to MD in PHP., PHP HTML to MD saveformat., HTML to MD PHP., PHP Convert HTML to MD., Save HTML to MD PHP., HTML to MD Converter., Save HTML as MD]
+description: Aspose Excel. Convert HTML to MD quickly and easily with Aspose.Cells. PHP HTML to MD. PHP Save HTML to MD. Save HTML as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to MD in PHP., Save HTML to MD using PHP., PHP HTML to MD saveformat., HTML to MD Converter., PHP Save HTML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

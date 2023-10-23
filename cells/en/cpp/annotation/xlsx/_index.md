@@ -1,8 +1,9 @@
 ---
-title: Add XLSX Annotation via C++ 
+title: Add or Remove XLSX Annotation via C++ 
 weight: 5260
 
 description: C++ sample code to add or delete XLSX format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

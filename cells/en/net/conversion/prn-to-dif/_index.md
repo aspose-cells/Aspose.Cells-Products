@@ -1,7 +1,7 @@
 ---
 title: C# PRN to DIF - PRN to DIF Converter
-description: Aspose Excel. C# Aspose.Cells. PRN to DIF in C#. C# Convert PRN to DIF saveformat. C# PRN to DIF format. Save PRN to DIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PRN to DIF in C#., C# PRN to DIF saveformat., PRN to DIF C#., C# Convert PRN to DIF]
+description: Aspose Excel. Convert PRN to DIF quickly and easily with Aspose.Cells. C# PRN to DIF. C# Save PRN to DIF. Save PRN as DIF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PRN to DIF in C#., Save PRN to DIF using C#., C# PRN to DIF saveformat., PRN to DIF Converter., C# Save PRN as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

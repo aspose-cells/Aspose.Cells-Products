@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to ET - SPREADSHEETML to ET Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to ET in Java. Java Convert SPREADSHEETML to ET saveformat. Java SPREADSHEETML to ET format. Save SPREADSHEETML to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to ET in Java., Java SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Java., Java Convert SPREADSHEETML to ET]
+description: Aspose Excel. Convert SPREADSHEETML to ET quickly and easily with Aspose.Cells. Java SPREADSHEETML to ET. Java Save SPREADSHEETML to ET. Save SPREADSHEETML as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to ET in Java., Save SPREADSHEETML to ET using Java., Java SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Converter., Java Save SPREADSHEETML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

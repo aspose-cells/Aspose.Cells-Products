@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to DIF - HTML to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to DIF in C++. C++ Convert HTML to DIF saveformat. C++ HTML to DIF format. Save HTML to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to DIF in C++., C++ HTML to DIF saveformat., HTML to DIF C++., C++ Convert HTML to DIF]
+description: Aspose Excel. Convert HTML to DIF quickly and easily with Aspose.Cells. C++ HTML to DIF. C++ Save HTML to DIF. Save HTML as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to DIF in C++., Save HTML to DIF using C++., C++ HTML to DIF saveformat., HTML to DIF Converter., C++ Save HTML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

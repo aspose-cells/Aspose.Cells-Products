@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to JSON - XLSM to JSON Converter
-description: Aspose Excel. C# Aspose.Cells. XLSM to JSON in C#. C# Convert XLSM to JSON saveformat. C# XLSM to JSON format. Save XLSM to JSON C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSM to JSON in C#., C# XLSM to JSON saveformat., XLSM to JSON C#., C# Convert XLSM to JSON]
+description: Aspose Excel. Convert XLSM to JSON quickly and easily with Aspose.Cells. C# XLSM to JSON. C# Save XLSM to JSON. Save XLSM as JSON using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to JSON in C#., Save XLSM to JSON using C#., C# XLSM to JSON saveformat., XLSM to JSON Converter., C# Save XLSM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

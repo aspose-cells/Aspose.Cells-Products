@@ -1,8 +1,9 @@
 ---
-title: Remove XLSM Annotation via Java 
+title: Add or Remove XLSM Annotation via Java 
 weight: 2860
 
 description: Java sample code to delete XLSM format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

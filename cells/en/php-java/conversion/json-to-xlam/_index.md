@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to XLAM - JSON to XLAM Converter
-description: PHP Aspose.Cells. JSON to XLAM in PHP. PHP Convert JSON to XLAM saveformat. PHP JSON to XLAM Converter. Save JSON to XLAM PHP.
-keywords: [PHP Aspose.Cells., JSON to XLAM in PHP., PHP JSON to XLAM saveformat., JSON to XLAM PHP., PHP Convert JSON to XLAM., Save JSON to XLAM PHP., JSON to XLAM Converter., Save JSON as XLAM]
+description: Aspose Excel. Convert JSON to XLAM quickly and easily with Aspose.Cells. PHP JSON to XLAM. PHP Save JSON to XLAM. Save JSON as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to XLAM in PHP., Save JSON to XLAM using PHP., PHP JSON to XLAM saveformat., JSON to XLAM Converter., PHP Save JSON as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

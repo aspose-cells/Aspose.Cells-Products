@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to DIF - HTM to DIF Converter
-description: PHP Aspose.Cells. HTM to DIF in PHP. PHP Convert HTM to DIF saveformat. PHP HTM to DIF Converter. Save HTM to DIF PHP.
-keywords: [PHP Aspose.Cells., HTM to DIF in PHP., PHP HTM to DIF saveformat., HTM to DIF PHP., PHP Convert HTM to DIF., Save HTM to DIF PHP., HTM to DIF Converter., Save HTM as DIF]
+description: Aspose Excel. Convert HTM to DIF quickly and easily with Aspose.Cells. PHP HTM to DIF. PHP Save HTM to DIF. Save HTM as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to DIF in PHP., Save HTM to DIF using PHP., PHP HTM to DIF saveformat., HTM to DIF Converter., PHP Save HTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

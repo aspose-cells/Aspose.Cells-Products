@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to TXT - XLSX to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to TXT in Python. Python Convert XLSX to TXT saveformat. Python XLSX to TXT format. Save XLSX to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to TXT in Python., Python XLSX to TXT saveformat., XLSX to TXT Python., Python Convert XLSX to TXT]
+description: Aspose Excel. Convert XLSX to TXT quickly and easily with Aspose.Cells. Python XLSX to TXT. Python Save XLSX to TXT. Save XLSX as TXT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to TXT in Python., Save XLSX to TXT using Python., Python XLSX to TXT saveformat., XLSX to TXT Converter., Python Save XLSX as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

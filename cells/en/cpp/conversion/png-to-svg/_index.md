@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to SVG - PNG to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to SVG in C++. C++ Convert PNG to SVG saveformat. C++ PNG to SVG format. Save PNG to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to SVG in C++., C++ PNG to SVG saveformat., PNG to SVG C++., C++ Convert PNG to SVG]
+description: Aspose Excel. Convert PNG to SVG quickly and easily with Aspose.Cells. C++ PNG to SVG. C++ Save PNG to SVG. Save PNG as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to SVG in C++., Save PNG to SVG using C++., C++ PNG to SVG saveformat., PNG to SVG Converter., C++ Save PNG as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

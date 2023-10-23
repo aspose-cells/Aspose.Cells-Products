@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to WORD - JPEG to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to WORD in C++. C++ Convert JPEG to WORD saveformat. C++ JPEG to WORD format. Save JPEG to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to WORD in C++., C++ JPEG to WORD saveformat., JPEG to WORD C++., C++ Convert JPEG to WORD]
+description: Aspose Excel. Convert JPEG to WORD quickly and easily with Aspose.Cells. C++ JPEG to WORD. C++ Save JPEG to WORD. Save JPEG as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to WORD in C++., Save JPEG to WORD using C++., C++ JPEG to WORD saveformat., JPEG to WORD Converter., C++ Save JPEG as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

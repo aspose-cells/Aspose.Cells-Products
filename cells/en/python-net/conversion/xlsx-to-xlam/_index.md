@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to XLAM - XLSX to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to XLAM in Python. Python Convert XLSX to XLAM saveformat. Python XLSX to XLAM format. Save XLSX to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to XLAM in Python., Python XLSX to XLAM saveformat., XLSX to XLAM Python., Python Convert XLSX to XLAM]
+description: Aspose Excel. Convert XLSX to XLAM quickly and easily with Aspose.Cells. Python XLSX to XLAM. Python Save XLSX to XLAM. Save XLSX as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to XLAM in Python., Save XLSX to XLAM using Python., Python XLSX to XLAM saveformat., XLSX to XLAM Converter., Python Save XLSX as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

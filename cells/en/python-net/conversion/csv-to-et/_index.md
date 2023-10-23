@@ -1,7 +1,7 @@
 ---
 title: Python CSV to ET - CSV to ET Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to ET in Python. Python Convert CSV to ET saveformat. Python CSV to ET format. Save CSV to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to ET in Python., Python CSV to ET saveformat., CSV to ET Python., Python Convert CSV to ET]
+description: Aspose Excel. Convert CSV to ET quickly and easily with Aspose.Cells. Python CSV to ET. Python Save CSV to ET. Save CSV as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to ET in Python., Save CSV to ET using Python., Python CSV to ET saveformat., CSV to ET Converter., Python Save CSV as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTML to PPTX - HTML to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to PPTX in Python. Python Convert HTML to PPTX saveformat. Python HTML to PPTX format. Save HTML to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to PPTX in Python., Python HTML to PPTX saveformat., HTML to PPTX Python., Python Convert HTML to PPTX]
+description: Aspose Excel. Convert HTML to PPTX quickly and easily with Aspose.Cells. Python HTML to PPTX. Python Save HTML to PPTX. Save HTML as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to PPTX in Python., Save HTML to PPTX using Python., Python HTML to PPTX saveformat., HTML to PPTX Converter., Python Save HTML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to MD - EXCEL to MD Converter
-description: PHP Aspose.Cells. EXCEL to MD in PHP. PHP Convert EXCEL to MD saveformat. PHP EXCEL to MD Converter. Save EXCEL to MD PHP.
-keywords: [PHP Aspose.Cells., EXCEL to MD in PHP., PHP EXCEL to MD saveformat., EXCEL to MD PHP., PHP Convert EXCEL to MD., Save EXCEL to MD PHP., EXCEL to MD Converter., Save EXCEL as MD]
+description: Aspose Excel. Convert EXCEL to MD quickly and easily with Aspose.Cells. PHP EXCEL to MD. PHP Save EXCEL to MD. Save EXCEL as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to MD in PHP., Save EXCEL to MD using PHP., PHP EXCEL to MD saveformat., EXCEL to MD Converter., PHP Save EXCEL as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

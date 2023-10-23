@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to EXCEL - EXCEL to EXCEL Converter
-description: PHP Aspose.Cells. EXCEL to EXCEL in PHP. PHP Convert EXCEL to EXCEL saveformat. PHP EXCEL to EXCEL Converter. Save EXCEL to EXCEL PHP.
-keywords: [PHP Aspose.Cells., EXCEL to EXCEL in PHP., PHP EXCEL to EXCEL saveformat., EXCEL to EXCEL PHP., PHP Convert EXCEL to EXCEL., Save EXCEL to EXCEL PHP., EXCEL to EXCEL Converter., Save EXCEL as EXCEL]
+description: Aspose Excel. Convert EXCEL to EXCEL quickly and easily with Aspose.Cells. PHP EXCEL to EXCEL. PHP Save EXCEL to EXCEL. Save EXCEL as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to EXCEL in PHP., Save EXCEL to EXCEL using PHP., PHP EXCEL to EXCEL saveformat., EXCEL to EXCEL Converter., PHP Save EXCEL as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

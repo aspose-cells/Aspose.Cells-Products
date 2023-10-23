@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to TSV - XLTX to TSV Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to TSV in Python. Python Convert XLTX to TSV saveformat. Python XLTX to TSV format. Save XLTX to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to TSV in Python., Python XLTX to TSV saveformat., XLTX to TSV Python., Python Convert XLTX to TSV]
+description: Aspose Excel. Convert XLTX to TSV quickly and easily with Aspose.Cells. Python XLTX to TSV. Python Save XLTX to TSV. Save XLTX as TSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to TSV in Python., Save XLTX to TSV using Python., Python XLTX to TSV saveformat., XLTX to TSV Converter., Python Save XLTX as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

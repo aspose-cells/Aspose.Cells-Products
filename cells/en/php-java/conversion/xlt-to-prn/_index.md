@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to PRN - XLT to PRN Converter
-description: PHP Aspose.Cells. XLT to PRN in PHP. PHP Convert XLT to PRN saveformat. PHP XLT to PRN Converter. Save XLT to PRN PHP.
-keywords: [PHP Aspose.Cells., XLT to PRN in PHP., PHP XLT to PRN saveformat., XLT to PRN PHP., PHP Convert XLT to PRN., Save XLT to PRN PHP., XLT to PRN Converter., Save XLT as PRN]
+description: Aspose Excel. Convert XLT to PRN quickly and easily with Aspose.Cells. PHP XLT to PRN. PHP Save XLT to PRN. Save XLT as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to PRN in PHP., Save XLT to PRN using PHP., PHP XLT to PRN saveformat., XLT to PRN Converter., PHP Save XLT as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

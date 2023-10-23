@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to BMP - XLSB to BMP Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to BMP in C++. C++ Convert XLSB to BMP saveformat. C++ XLSB to BMP format. Save XLSB to BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to BMP in C++., C++ XLSB to BMP saveformat., XLSB to BMP C++., C++ Convert XLSB to BMP]
+description: Aspose Excel. Convert XLSB to BMP quickly and easily with Aspose.Cells. C++ XLSB to BMP. C++ Save XLSB to BMP. Save XLSB as BMP using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to BMP in C++., Save XLSB to BMP using C++., C++ XLSB to BMP saveformat., XLSB to BMP Converter., C++ Save XLSB as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

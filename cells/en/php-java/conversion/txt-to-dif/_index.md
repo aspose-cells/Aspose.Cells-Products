@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to DIF - TXT to DIF Converter
-description: PHP Aspose.Cells. TXT to DIF in PHP. PHP Convert TXT to DIF saveformat. PHP TXT to DIF Converter. Save TXT to DIF PHP.
-keywords: [PHP Aspose.Cells., TXT to DIF in PHP., PHP TXT to DIF saveformat., TXT to DIF PHP., PHP Convert TXT to DIF., Save TXT to DIF PHP., TXT to DIF Converter., Save TXT as DIF]
+description: Aspose Excel. Convert TXT to DIF quickly and easily with Aspose.Cells. PHP TXT to DIF. PHP Save TXT to DIF. Save TXT as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to DIF in PHP., Save TXT to DIF using PHP., PHP TXT to DIF saveformat., TXT to DIF Converter., PHP Save TXT as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

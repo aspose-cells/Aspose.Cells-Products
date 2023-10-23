@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to MARKDOWN - TXT to MARKDOWN Converter
-description: PHP Aspose.Cells. TXT to MARKDOWN in PHP. PHP Convert TXT to MARKDOWN saveformat. PHP TXT to MARKDOWN Converter. Save TXT to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., TXT to MARKDOWN in PHP., PHP TXT to MARKDOWN saveformat., TXT to MARKDOWN PHP., PHP Convert TXT to MARKDOWN., Save TXT to MARKDOWN PHP., TXT to MARKDOWN Converter., Save TXT as MARKDOWN]
+description: Aspose Excel. Convert TXT to MARKDOWN quickly and easily with Aspose.Cells. PHP TXT to MARKDOWN. PHP Save TXT to MARKDOWN. Save TXT as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to MARKDOWN in PHP., Save TXT to MARKDOWN using PHP., PHP TXT to MARKDOWN saveformat., TXT to MARKDOWN Converter., PHP Save TXT as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

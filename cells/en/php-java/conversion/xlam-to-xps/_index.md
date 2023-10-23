@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to XPS - XLAM to XPS Converter
-description: PHP Aspose.Cells. XLAM to XPS in PHP. PHP Convert XLAM to XPS saveformat. PHP XLAM to XPS Converter. Save XLAM to XPS PHP.
-keywords: [PHP Aspose.Cells., XLAM to XPS in PHP., PHP XLAM to XPS saveformat., XLAM to XPS PHP., PHP Convert XLAM to XPS., Save XLAM to XPS PHP., XLAM to XPS Converter., Save XLAM as XPS]
+description: Aspose Excel. Convert XLAM to XPS quickly and easily with Aspose.Cells. PHP XLAM to XPS. PHP Save XLAM to XPS. Save XLAM as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to XPS in PHP., Save XLAM to XPS using PHP., PHP XLAM to XPS saveformat., XLAM to XPS Converter., PHP Save XLAM as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

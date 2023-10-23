@@ -1,7 +1,7 @@
 ---
 title: PHP XML to MD - XML to MD Converter
-description: PHP Aspose.Cells. XML to MD in PHP. PHP Convert XML to MD saveformat. PHP XML to MD Converter. Save XML to MD PHP.
-keywords: [PHP Aspose.Cells., XML to MD in PHP., PHP XML to MD saveformat., XML to MD PHP., PHP Convert XML to MD., Save XML to MD PHP., XML to MD Converter., Save XML as MD]
+description: Aspose Excel. Convert XML to MD quickly and easily with Aspose.Cells. PHP XML to MD. PHP Save XML to MD. Save XML as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to MD in PHP., Save XML to MD using PHP., PHP XML to MD saveformat., XML to MD Converter., PHP Save XML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

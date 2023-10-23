@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to FODS - HTM to FODS Converter
-description: PHP Aspose.Cells. HTM to FODS in PHP. PHP Convert HTM to FODS saveformat. PHP HTM to FODS Converter. Save HTM to FODS PHP.
-keywords: [PHP Aspose.Cells., HTM to FODS in PHP., PHP HTM to FODS saveformat., HTM to FODS PHP., PHP Convert HTM to FODS., Save HTM to FODS PHP., HTM to FODS Converter., Save HTM as FODS]
+description: Aspose Excel. Convert HTM to FODS quickly and easily with Aspose.Cells. PHP HTM to FODS. PHP Save HTM to FODS. Save HTM as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to FODS in PHP., Save HTM to FODS using PHP., PHP HTM to FODS saveformat., HTM to FODS Converter., PHP Save HTM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

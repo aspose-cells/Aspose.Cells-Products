@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to DOCX - MHTML to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to DOCX in C++. C++ Convert MHTML to DOCX saveformat. C++ MHTML to DOCX format. Save MHTML to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to DOCX in C++., C++ MHTML to DOCX saveformat., MHTML to DOCX C++., C++ Convert MHTML to DOCX]
+description: Aspose Excel. Convert MHTML to DOCX quickly and easily with Aspose.Cells. C++ MHTML to DOCX. C++ Save MHTML to DOCX. Save MHTML as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to DOCX in C++., Save MHTML to DOCX using C++., C++ MHTML to DOCX saveformat., MHTML to DOCX Converter., C++ Save MHTML as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

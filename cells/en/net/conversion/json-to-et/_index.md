@@ -1,7 +1,7 @@
 ---
 title: C# JSON to ET - JSON to ET Converter
-description: Aspose Excel. C# Aspose.Cells. JSON to ET in C#. C# Convert JSON to ET saveformat. C# JSON to ET format. Save JSON to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JSON to ET in C#., C# JSON to ET saveformat., JSON to ET C#., C# Convert JSON to ET]
+description: Aspose Excel. Convert JSON to ET quickly and easily with Aspose.Cells. C# JSON to ET. C# Save JSON to ET. Save JSON as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JSON to ET in C#., Save JSON to ET using C#., C# JSON to ET saveformat., JSON to ET Converter., C# Save JSON as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

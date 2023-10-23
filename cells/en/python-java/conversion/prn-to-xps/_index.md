@@ -1,7 +1,7 @@
 ---
 title: Python PRN to XPS - PRN to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to XPS in Python. Python Convert PRN to XPS saveformat. Python PRN to XPS format. Save PRN to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to XPS in Python., Python PRN to XPS saveformat., PRN to XPS Python., Python Convert PRN to XPS]
+description: Aspose Excel. Convert PRN to XPS quickly and easily with Aspose.Cells. Python PRN to XPS. Python Save PRN to XPS. Save PRN as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to XPS in Python., Save PRN to XPS using Python., Python PRN to XPS saveformat., PRN to XPS Converter., Python Save PRN as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

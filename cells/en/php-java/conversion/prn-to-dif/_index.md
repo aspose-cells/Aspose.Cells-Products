@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to DIF - PRN to DIF Converter
-description: PHP Aspose.Cells. PRN to DIF in PHP. PHP Convert PRN to DIF saveformat. PHP PRN to DIF Converter. Save PRN to DIF PHP.
-keywords: [PHP Aspose.Cells., PRN to DIF in PHP., PHP PRN to DIF saveformat., PRN to DIF PHP., PHP Convert PRN to DIF., Save PRN to DIF PHP., PRN to DIF Converter., Save PRN as DIF]
+description: Aspose Excel. Convert PRN to DIF quickly and easily with Aspose.Cells. PHP PRN to DIF. PHP Save PRN to DIF. Save PRN as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to DIF in PHP., Save PRN to DIF using PHP., PHP PRN to DIF saveformat., PRN to DIF Converter., PHP Save PRN as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

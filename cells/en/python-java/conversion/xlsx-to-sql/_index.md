@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to SQL - XLSX to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to SQL in Python. Python Convert XLSX to SQL saveformat. Python XLSX to SQL format. Save XLSX to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to SQL in Python., Python XLSX to SQL saveformat., XLSX to SQL Python., Python Convert XLSX to SQL]
+description: Aspose Excel. Convert XLSX to SQL quickly and easily with Aspose.Cells. Python XLSX to SQL. Python Save XLSX to SQL. Save XLSX as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to SQL in Python., Save XLSX to SQL using Python., Python XLSX to SQL saveformat., XLSX to SQL Converter., Python Save XLSX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java TXT to WORD - TXT to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to WORD in Java. Java Convert TXT to WORD saveformat. Java TXT to WORD format. Save TXT to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to WORD in Java., Java TXT to WORD saveformat., TXT to WORD Java., Java Convert TXT to WORD]
+description: Aspose Excel. Convert TXT to WORD quickly and easily with Aspose.Cells. Java TXT to WORD. Java Save TXT to WORD. Save TXT as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to WORD in Java., Save TXT to WORD using Java., Java TXT to WORD saveformat., TXT to WORD Converter., Java Save TXT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to PDF - XLSX to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to PDF in C#. C# Convert XLSX to PDF saveformat. C# XLSX to PDF format. Save XLSX to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to PDF in C#., C# XLSX to PDF saveformat., XLSX to PDF C#., C# Convert XLSX to PDF]
+description: Aspose Excel. Convert XLSX to PDF quickly and easily with Aspose.Cells. C# XLSX to PDF. C# Save XLSX to PDF. Save XLSX as PDF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to PDF in C#., Save XLSX to PDF using C#., C# XLSX to PDF saveformat., XLSX to PDF Converter., C# Save XLSX as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

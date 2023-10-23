@@ -1,7 +1,7 @@
 ---
 title: Python TSV to XLS - TSV to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. TSV to XLS in Python. Python Convert TSV to XLS saveformat. Python TSV to XLS format. Save TSV to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TSV to XLS in Python., Python TSV to XLS saveformat., TSV to XLS Python., Python Convert TSV to XLS]
+description: Aspose Excel. Convert TSV to XLS quickly and easily with Aspose.Cells. Python TSV to XLS. Python Save TSV to XLS. Save TSV as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to XLS in Python., Save TSV to XLS using Python., Python TSV to XLS saveformat., TSV to XLS Converter., Python Save TSV as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

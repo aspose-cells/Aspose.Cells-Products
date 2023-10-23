@@ -1,7 +1,7 @@
 ---
 title: Python PRN to PDF - PRN to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to PDF in Python. Python Convert PRN to PDF saveformat. Python PRN to PDF format. Save PRN to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to PDF in Python., Python PRN to PDF saveformat., PRN to PDF Python., Python Convert PRN to PDF]
+description: Aspose Excel. Convert PRN to PDF quickly and easily with Aspose.Cells. Python PRN to PDF. Python Save PRN to PDF. Save PRN as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to PDF in Python., Save PRN to PDF using Python., Python PRN to PDF saveformat., PRN to PDF Converter., Python Save PRN as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLT to POWERPOINT - XLT to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. XLT to POWERPOINT in C#. C# Convert XLT to POWERPOINT saveformat. C# XLT to POWERPOINT format. Save XLT to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLT to POWERPOINT in C#., C# XLT to POWERPOINT saveformat., XLT to POWERPOINT C#., C# Convert XLT to POWERPOINT]
+description: Aspose Excel. Convert XLT to POWERPOINT quickly and easily with Aspose.Cells. C# XLT to POWERPOINT. C# Save XLT to POWERPOINT. Save XLT as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to POWERPOINT in C#., Save XLT to POWERPOINT using C#., C# XLT to POWERPOINT saveformat., XLT to POWERPOINT Converter., C# Save XLT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

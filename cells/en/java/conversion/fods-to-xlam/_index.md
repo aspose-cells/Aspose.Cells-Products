@@ -1,7 +1,7 @@
 ---
 title: Java FODS to XLAM - FODS to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to XLAM in Java. Java Convert FODS to XLAM saveformat. Java FODS to XLAM format. Save FODS to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to XLAM in Java., Java FODS to XLAM saveformat., FODS to XLAM Java., Java Convert FODS to XLAM]
+description: Aspose Excel. Convert FODS to XLAM quickly and easily with Aspose.Cells. Java FODS to XLAM. Java Save FODS to XLAM. Save FODS as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to XLAM in Java., Save FODS to XLAM using Java., Java FODS to XLAM saveformat., FODS to XLAM Converter., Java Save FODS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

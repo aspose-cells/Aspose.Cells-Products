@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to ET - XLSM to ET Converter
-description: Aspose Excel. C# Aspose.Cells. XLSM to ET in C#. C# Convert XLSM to ET saveformat. C# XLSM to ET format. Save XLSM to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSM to ET in C#., C# XLSM to ET saveformat., XLSM to ET C#., C# Convert XLSM to ET]
+description: Aspose Excel. Convert XLSM to ET quickly and easily with Aspose.Cells. C# XLSM to ET. C# Save XLSM to ET. Save XLSM as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to ET in C#., Save XLSM to ET using C#., C# XLSM to ET saveformat., XLSM to ET Converter., C# Save XLSM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XML - NUMBERS to XML Converter
-description: PHP Aspose.Cells. NUMBERS to XML in PHP. PHP Convert NUMBERS to XML saveformat. PHP NUMBERS to XML Converter. Save NUMBERS to XML PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to XML in PHP., PHP NUMBERS to XML saveformat., NUMBERS to XML PHP., PHP Convert NUMBERS to XML., Save NUMBERS to XML PHP., NUMBERS to XML Converter., Save NUMBERS as XML]
+description: Aspose Excel. Convert NUMBERS to XML quickly and easily with Aspose.Cells. PHP NUMBERS to XML. PHP Save NUMBERS to XML. Save NUMBERS as XML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XML in PHP., Save NUMBERS to XML using PHP., PHP NUMBERS to XML saveformat., NUMBERS to XML Converter., PHP Save NUMBERS as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

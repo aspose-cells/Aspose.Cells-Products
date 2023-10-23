@@ -1,7 +1,7 @@
 ---
 title: C# PRN to MHT - PRN to MHT Converter
-description: Aspose Excel. C# Aspose.Cells. PRN to MHT in C#. C# Convert PRN to MHT saveformat. C# PRN to MHT format. Save PRN to MHT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PRN to MHT in C#., C# PRN to MHT saveformat., PRN to MHT C#., C# Convert PRN to MHT]
+description: Aspose Excel. Convert PRN to MHT quickly and easily with Aspose.Cells. C# PRN to MHT. C# Save PRN to MHT. Save PRN as MHT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PRN to MHT in C#., Save PRN to MHT using C#., C# PRN to MHT saveformat., PRN to MHT Converter., C# Save PRN as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

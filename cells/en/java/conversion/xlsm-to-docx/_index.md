@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to DOCX - XLSM to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to DOCX in Java. Java Convert XLSM to DOCX saveformat. Java XLSM to DOCX format. Save XLSM to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to DOCX in Java., Java XLSM to DOCX saveformat., XLSM to DOCX Java., Java Convert XLSM to DOCX]
+description: Aspose Excel. Convert XLSM to DOCX quickly and easily with Aspose.Cells. Java XLSM to DOCX. Java Save XLSM to DOCX. Save XLSM as DOCX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to DOCX in Java., Save XLSM to DOCX using Java., Java XLSM to DOCX saveformat., XLSM to DOCX Converter., Java Save XLSM as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

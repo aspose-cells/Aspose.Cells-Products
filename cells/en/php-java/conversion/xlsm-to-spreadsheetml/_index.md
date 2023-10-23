@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to SPREADSHEETML - XLSM to SPREADSHEETML Converter
-description: PHP Aspose.Cells. XLSM to SPREADSHEETML in PHP. PHP Convert XLSM to SPREADSHEETML saveformat. PHP XLSM to SPREADSHEETML Converter. Save XLSM to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., XLSM to SPREADSHEETML in PHP., PHP XLSM to SPREADSHEETML saveformat., XLSM to SPREADSHEETML PHP., PHP Convert XLSM to SPREADSHEETML., Save XLSM to SPREADSHEETML PHP., XLSM to SPREADSHEETML Converter., Save XLSM as SPREADSHEETML]
+description: Aspose Excel. Convert XLSM to SPREADSHEETML quickly and easily with Aspose.Cells. PHP XLSM to SPREADSHEETML. PHP Save XLSM to SPREADSHEETML. Save XLSM as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to SPREADSHEETML in PHP., Save XLSM to SPREADSHEETML using PHP., PHP XLSM to SPREADSHEETML saveformat., XLSM to SPREADSHEETML Converter., PHP Save XLSM as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

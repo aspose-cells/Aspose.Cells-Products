@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to SXC - XLAM to SXC Converter
-description: PHP Aspose.Cells. XLAM to SXC in PHP. PHP Convert XLAM to SXC saveformat. PHP XLAM to SXC Converter. Save XLAM to SXC PHP.
-keywords: [PHP Aspose.Cells., XLAM to SXC in PHP., PHP XLAM to SXC saveformat., XLAM to SXC PHP., PHP Convert XLAM to SXC., Save XLAM to SXC PHP., XLAM to SXC Converter., Save XLAM as SXC]
+description: Aspose Excel. Convert XLAM to SXC quickly and easily with Aspose.Cells. PHP XLAM to SXC. PHP Save XLAM to SXC. Save XLAM as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to SXC in PHP., Save XLAM to SXC using PHP., PHP XLAM to SXC saveformat., XLAM to SXC Converter., PHP Save XLAM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

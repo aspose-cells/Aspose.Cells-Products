@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to ET - NUMBERS to ET Converter
-description: PHP Aspose.Cells. NUMBERS to ET in PHP. PHP Convert NUMBERS to ET saveformat. PHP NUMBERS to ET Converter. Save NUMBERS to ET PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to ET in PHP., PHP NUMBERS to ET saveformat., NUMBERS to ET PHP., PHP Convert NUMBERS to ET., Save NUMBERS to ET PHP., NUMBERS to ET Converter., Save NUMBERS as ET]
+description: Aspose Excel. Convert NUMBERS to ET quickly and easily with Aspose.Cells. PHP NUMBERS to ET. PHP Save NUMBERS to ET. Save NUMBERS as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to ET in PHP., Save NUMBERS to ET using PHP., PHP NUMBERS to ET saveformat., NUMBERS to ET Converter., PHP Save NUMBERS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

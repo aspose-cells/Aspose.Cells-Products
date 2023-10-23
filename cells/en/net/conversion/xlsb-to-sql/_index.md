@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to SQL - XLSB to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to SQL in C#. C# Convert XLSB to SQL saveformat. C# XLSB to SQL format. Save XLSB to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to SQL in C#., C# XLSB to SQL saveformat., XLSB to SQL C#., C# Convert XLSB to SQL]
+description: Aspose Excel. Convert XLSB to SQL quickly and easily with Aspose.Cells. C# XLSB to SQL. C# Save XLSB to SQL. Save XLSB as SQL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to SQL in C#., Save XLSB to SQL using C#., C# XLSB to SQL saveformat., XLSB to SQL Converter., C# Save XLSB as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

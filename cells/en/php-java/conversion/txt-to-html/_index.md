@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to HTML - TXT to HTML Converter
-description: PHP Aspose.Cells. TXT to HTML in PHP. PHP Convert TXT to HTML saveformat. PHP TXT to HTML Converter. Save TXT to HTML PHP.
-keywords: [PHP Aspose.Cells., TXT to HTML in PHP., PHP TXT to HTML saveformat., TXT to HTML PHP., PHP Convert TXT to HTML., Save TXT to HTML PHP., TXT to HTML Converter., Save TXT as HTML]
+description: Aspose Excel. Convert TXT to HTML quickly and easily with Aspose.Cells. PHP TXT to HTML. PHP Save TXT to HTML. Save TXT as HTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to HTML in PHP., Save TXT to HTML using PHP., PHP TXT to HTML saveformat., TXT to HTML Converter., PHP Save TXT as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

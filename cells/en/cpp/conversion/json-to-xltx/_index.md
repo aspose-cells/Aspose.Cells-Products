@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to XLTX - JSON to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to XLTX in C++. C++ Convert JSON to XLTX saveformat. C++ JSON to XLTX format. Save JSON to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to XLTX in C++., C++ JSON to XLTX saveformat., JSON to XLTX C++., C++ Convert JSON to XLTX]
+description: Aspose Excel. Convert JSON to XLTX quickly and easily with Aspose.Cells. C++ JSON to XLTX. C++ Save JSON to XLTX. Save JSON as XLTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to XLTX in C++., Save JSON to XLTX using C++., C++ JSON to XLTX saveformat., JSON to XLTX Converter., C++ Save JSON as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

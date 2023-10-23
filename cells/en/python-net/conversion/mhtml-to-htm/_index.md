@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to HTM - MHTML to HTM Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to HTM in Python. Python Convert MHTML to HTM saveformat. Python MHTML to HTM format. Save MHTML to HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to HTM in Python., Python MHTML to HTM saveformat., MHTML to HTM Python., Python Convert MHTML to HTM]
+description: Aspose Excel. Convert MHTML to HTM quickly and easily with Aspose.Cells. Python MHTML to HTM. Python Save MHTML to HTM. Save MHTML as HTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to HTM in Python., Save MHTML to HTM using Python., Python MHTML to HTM saveformat., MHTML to HTM Converter., Python Save MHTML as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

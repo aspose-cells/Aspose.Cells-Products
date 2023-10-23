@@ -1,7 +1,7 @@
 ---
 title: Python TXT to WORD - TXT to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to WORD in Python. Python Convert TXT to WORD saveformat. Python TXT to WORD format. Save TXT to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to WORD in Python., Python TXT to WORD saveformat., TXT to WORD Python., Python Convert TXT to WORD]
+description: Aspose Excel. Convert TXT to WORD quickly and easily with Aspose.Cells. Python TXT to WORD. Python Save TXT to WORD. Save TXT as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to WORD in Python., Save TXT to WORD using Python., Python TXT to WORD saveformat., TXT to WORD Converter., Python Save TXT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java FODS to DOCX - FODS to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to DOCX in Java. Java Convert FODS to DOCX saveformat. Java FODS to DOCX format. Save FODS to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to DOCX in Java., Java FODS to DOCX saveformat., FODS to DOCX Java., Java Convert FODS to DOCX]
+description: Aspose Excel. Convert FODS to DOCX quickly and easily with Aspose.Cells. Java FODS to DOCX. Java Save FODS to DOCX. Save FODS as DOCX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to DOCX in Java., Save FODS to DOCX using Java., Java FODS to DOCX saveformat., FODS to DOCX Converter., Java Save FODS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

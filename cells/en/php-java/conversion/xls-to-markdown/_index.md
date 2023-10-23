@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to MARKDOWN - XLS to MARKDOWN Converter
-description: PHP Aspose.Cells. XLS to MARKDOWN in PHP. PHP Convert XLS to MARKDOWN saveformat. PHP XLS to MARKDOWN Converter. Save XLS to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., XLS to MARKDOWN in PHP., PHP XLS to MARKDOWN saveformat., XLS to MARKDOWN PHP., PHP Convert XLS to MARKDOWN., Save XLS to MARKDOWN PHP., XLS to MARKDOWN Converter., Save XLS as MARKDOWN]
+description: Aspose Excel. Convert XLS to MARKDOWN quickly and easily with Aspose.Cells. PHP XLS to MARKDOWN. PHP Save XLS to MARKDOWN. Save XLS as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to MARKDOWN in PHP., Save XLS to MARKDOWN using PHP., PHP XLS to MARKDOWN saveformat., XLS to MARKDOWN Converter., PHP Save XLS as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

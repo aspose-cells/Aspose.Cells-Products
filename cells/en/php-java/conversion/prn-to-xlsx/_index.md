@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to XLSX - PRN to XLSX Converter
-description: PHP Aspose.Cells. PRN to XLSX in PHP. PHP Convert PRN to XLSX saveformat. PHP PRN to XLSX Converter. Save PRN to XLSX PHP.
-keywords: [PHP Aspose.Cells., PRN to XLSX in PHP., PHP PRN to XLSX saveformat., PRN to XLSX PHP., PHP Convert PRN to XLSX., Save PRN to XLSX PHP., PRN to XLSX Converter., Save PRN as XLSX]
+description: Aspose Excel. Convert PRN to XLSX quickly and easily with Aspose.Cells. PHP PRN to XLSX. PHP Save PRN to XLSX. Save PRN as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLSX in PHP., Save PRN to XLSX using PHP., PHP PRN to XLSX saveformat., PRN to XLSX Converter., PHP Save PRN as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

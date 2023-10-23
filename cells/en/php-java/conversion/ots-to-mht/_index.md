@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to MHT - OTS to MHT Converter
-description: PHP Aspose.Cells. OTS to MHT in PHP. PHP Convert OTS to MHT saveformat. PHP OTS to MHT Converter. Save OTS to MHT PHP.
-keywords: [PHP Aspose.Cells., OTS to MHT in PHP., PHP OTS to MHT saveformat., OTS to MHT PHP., PHP Convert OTS to MHT., Save OTS to MHT PHP., OTS to MHT Converter., Save OTS as MHT]
+description: Aspose Excel. Convert OTS to MHT quickly and easily with Aspose.Cells. PHP OTS to MHT. PHP Save OTS to MHT. Save OTS as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to MHT in PHP., Save OTS to MHT using PHP., PHP OTS to MHT saveformat., OTS to MHT Converter., PHP Save OTS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

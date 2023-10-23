@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to ET - SXC to ET Converter
-description: PHP Aspose.Cells. SXC to ET in PHP. PHP Convert SXC to ET saveformat. PHP SXC to ET Converter. Save SXC to ET PHP.
-keywords: [PHP Aspose.Cells., SXC to ET in PHP., PHP SXC to ET saveformat., SXC to ET PHP., PHP Convert SXC to ET., Save SXC to ET PHP., SXC to ET Converter., Save SXC as ET]
+description: Aspose Excel. Convert SXC to ET quickly and easily with Aspose.Cells. PHP SXC to ET. PHP Save SXC to ET. Save SXC as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to ET in PHP., Save SXC to ET using PHP., PHP SXC to ET saveformat., SXC to ET Converter., PHP Save SXC as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

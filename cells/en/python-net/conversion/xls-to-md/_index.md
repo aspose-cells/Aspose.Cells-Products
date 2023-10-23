@@ -1,7 +1,7 @@
 ---
 title: Python XLS to MD - XLS to MD Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to MD in Python. Python Convert XLS to MD saveformat. Python XLS to MD format. Save XLS to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to MD in Python., Python XLS to MD saveformat., XLS to MD Python., Python Convert XLS to MD]
+description: Aspose Excel. Convert XLS to MD quickly and easily with Aspose.Cells. Python XLS to MD. Python Save XLS to MD. Save XLS as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to MD in Python., Save XLS to MD using Python., Python XLS to MD saveformat., XLS to MD Converter., Python Save XLS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

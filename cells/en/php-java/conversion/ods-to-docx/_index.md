@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to DOCX - ODS to DOCX Converter
-description: PHP Aspose.Cells. ODS to DOCX in PHP. PHP Convert ODS to DOCX saveformat. PHP ODS to DOCX Converter. Save ODS to DOCX PHP.
-keywords: [PHP Aspose.Cells., ODS to DOCX in PHP., PHP ODS to DOCX saveformat., ODS to DOCX PHP., PHP Convert ODS to DOCX., Save ODS to DOCX PHP., ODS to DOCX Converter., Save ODS as DOCX]
+description: Aspose Excel. Convert ODS to DOCX quickly and easily with Aspose.Cells. PHP ODS to DOCX. PHP Save ODS to DOCX. Save ODS as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to DOCX in PHP., Save ODS to DOCX using PHP., PHP ODS to DOCX saveformat., ODS to DOCX Converter., PHP Save ODS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to XLAM - XLTX to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to XLAM in Python. Python Convert XLTX to XLAM saveformat. Python XLTX to XLAM format. Save XLTX to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to XLAM in Python., Python XLTX to XLAM saveformat., XLTX to XLAM Python., Python Convert XLTX to XLAM]
+description: Aspose Excel. Convert XLTX to XLAM quickly and easily with Aspose.Cells. Python XLTX to XLAM. Python Save XLTX to XLAM. Save XLTX as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to XLAM in Python., Save XLTX to XLAM using Python., Python XLTX to XLAM saveformat., XLTX to XLAM Converter., Python Save XLTX as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

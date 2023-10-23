@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to XLAM - TXT to XLAM Converter
-description: PHP Aspose.Cells. TXT to XLAM in PHP. PHP Convert TXT to XLAM saveformat. PHP TXT to XLAM Converter. Save TXT to XLAM PHP.
-keywords: [PHP Aspose.Cells., TXT to XLAM in PHP., PHP TXT to XLAM saveformat., TXT to XLAM PHP., PHP Convert TXT to XLAM., Save TXT to XLAM PHP., TXT to XLAM Converter., Save TXT as XLAM]
+description: Aspose Excel. Convert TXT to XLAM quickly and easily with Aspose.Cells. PHP TXT to XLAM. PHP Save TXT to XLAM. Save TXT as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to XLAM in PHP., Save TXT to XLAM using PHP., PHP TXT to XLAM saveformat., TXT to XLAM Converter., PHP Save TXT as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

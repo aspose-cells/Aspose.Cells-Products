@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to OTS - SXC to OTS Converter
-description: PHP Aspose.Cells. SXC to OTS in PHP. PHP Convert SXC to OTS saveformat. PHP SXC to OTS Converter. Save SXC to OTS PHP.
-keywords: [PHP Aspose.Cells., SXC to OTS in PHP., PHP SXC to OTS saveformat., SXC to OTS PHP., PHP Convert SXC to OTS., Save SXC to OTS PHP., SXC to OTS Converter., Save SXC as OTS]
+description: Aspose Excel. Convert SXC to OTS quickly and easily with Aspose.Cells. PHP SXC to OTS. PHP Save SXC to OTS. Save SXC as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to OTS in PHP., Save SXC to OTS using PHP., PHP SXC to OTS saveformat., SXC to OTS Converter., PHP Save SXC as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

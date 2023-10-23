@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to TIFF - XLAM to TIFF Converter
-description: PHP Aspose.Cells. XLAM to TIFF in PHP. PHP Convert XLAM to TIFF saveformat. PHP XLAM to TIFF Converter. Save XLAM to TIFF PHP.
-keywords: [PHP Aspose.Cells., XLAM to TIFF in PHP., PHP XLAM to TIFF saveformat., XLAM to TIFF PHP., PHP Convert XLAM to TIFF., Save XLAM to TIFF PHP., XLAM to TIFF Converter., Save XLAM as TIFF]
+description: Aspose Excel. Convert XLAM to TIFF quickly and easily with Aspose.Cells. PHP XLAM to TIFF. PHP Save XLAM to TIFF. Save XLAM as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to TIFF in PHP., Save XLAM to TIFF using PHP., PHP XLAM to TIFF saveformat., XLAM to TIFF Converter., PHP Save XLAM as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

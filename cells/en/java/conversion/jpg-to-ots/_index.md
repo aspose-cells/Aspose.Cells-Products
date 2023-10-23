@@ -1,7 +1,7 @@
 ---
 title: Java JPG to OTS - JPG to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. JPG to OTS in Java. Java Convert JPG to OTS saveformat. Java JPG to OTS format. Save JPG to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPG to OTS in Java., Java JPG to OTS saveformat., JPG to OTS Java., Java Convert JPG to OTS]
+description: Aspose Excel. Convert JPG to OTS quickly and easily with Aspose.Cells. Java JPG to OTS. Java Save JPG to OTS. Save JPG as OTS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to OTS in Java., Save JPG to OTS using Java., Java JPG to OTS saveformat., JPG to OTS Converter., Java Save JPG as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

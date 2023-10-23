@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to HTM - XLTX to HTM Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to HTM in Java. Java Convert XLTX to HTM saveformat. Java XLTX to HTM format. Save XLTX to HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to HTM in Java., Java XLTX to HTM saveformat., XLTX to HTM Java., Java Convert XLTX to HTM]
+description: Aspose Excel. Convert XLTX to HTM quickly and easily with Aspose.Cells. Java XLTX to HTM. Java Save XLTX to HTM. Save XLTX as HTM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to HTM in Java., Save XLTX to HTM using Java., Java XLTX to HTM saveformat., XLTX to HTM Converter., Java Save XLTX as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

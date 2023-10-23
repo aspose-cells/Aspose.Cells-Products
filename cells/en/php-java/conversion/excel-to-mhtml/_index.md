@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to MHTML - EXCEL to MHTML Converter
-description: PHP Aspose.Cells. EXCEL to MHTML in PHP. PHP Convert EXCEL to MHTML saveformat. PHP EXCEL to MHTML Converter. Save EXCEL to MHTML PHP.
-keywords: [PHP Aspose.Cells., EXCEL to MHTML in PHP., PHP EXCEL to MHTML saveformat., EXCEL to MHTML PHP., PHP Convert EXCEL to MHTML., Save EXCEL to MHTML PHP., EXCEL to MHTML Converter., Save EXCEL as MHTML]
+description: Aspose Excel. Convert EXCEL to MHTML quickly and easily with Aspose.Cells. PHP EXCEL to MHTML. PHP Save EXCEL to MHTML. Save EXCEL as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to MHTML in PHP., Save EXCEL to MHTML using PHP., PHP EXCEL to MHTML saveformat., EXCEL to MHTML Converter., PHP Save EXCEL as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

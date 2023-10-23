@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to DOCX - XLT to DOCX Converter
-description: PHP Aspose.Cells. XLT to DOCX in PHP. PHP Convert XLT to DOCX saveformat. PHP XLT to DOCX Converter. Save XLT to DOCX PHP.
-keywords: [PHP Aspose.Cells., XLT to DOCX in PHP., PHP XLT to DOCX saveformat., XLT to DOCX PHP., PHP Convert XLT to DOCX., Save XLT to DOCX PHP., XLT to DOCX Converter., Save XLT as DOCX]
+description: Aspose Excel. Convert XLT to DOCX quickly and easily with Aspose.Cells. PHP XLT to DOCX. PHP Save XLT to DOCX. Save XLT as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to DOCX in PHP., Save XLT to DOCX using PHP., PHP XLT to DOCX saveformat., XLT to DOCX Converter., PHP Save XLT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

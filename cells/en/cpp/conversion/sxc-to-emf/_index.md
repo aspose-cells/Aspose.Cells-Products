@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to EMF - SXC to EMF Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to EMF in C++. C++ Convert SXC to EMF saveformat. C++ SXC to EMF format. Save SXC to EMF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to EMF in C++., C++ SXC to EMF saveformat., SXC to EMF C++., C++ Convert SXC to EMF]
+description: Aspose Excel. Convert SXC to EMF quickly and easily with Aspose.Cells. C++ SXC to EMF. C++ Save SXC to EMF. Save SXC as EMF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to EMF in C++., Save SXC to EMF using C++., C++ SXC to EMF saveformat., SXC to EMF Converter., C++ Save SXC as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

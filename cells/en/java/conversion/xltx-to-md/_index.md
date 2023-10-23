@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to MD - XLTX to MD Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to MD in Java. Java Convert XLTX to MD saveformat. Java XLTX to MD format. Save XLTX to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to MD in Java., Java XLTX to MD saveformat., XLTX to MD Java., Java Convert XLTX to MD]
+description: Aspose Excel. Convert XLTX to MD quickly and easily with Aspose.Cells. Java XLTX to MD. Java Save XLTX to MD. Save XLTX as MD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to MD in Java., Save XLTX to MD using Java., Java XLTX to MD saveformat., XLTX to MD Converter., Java Save XLTX as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

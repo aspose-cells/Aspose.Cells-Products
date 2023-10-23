@@ -1,7 +1,7 @@
 ---
 title: Python XML to TXT - XML to TXT Converter
-description: Aspose Excel. Python Aspose.Cells. XML to TXT in Python. Python Convert XML to TXT saveformat. Python XML to TXT format. Save XML to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to TXT in Python., Python XML to TXT saveformat., XML to TXT Python., Python Convert XML to TXT]
+description: Aspose Excel. Convert XML to TXT quickly and easily with Aspose.Cells. Python XML to TXT. Python Save XML to TXT. Save XML as TXT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to TXT in Python., Save XML to TXT using Python., Python XML to TXT saveformat., XML to TXT Converter., Python Save XML as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

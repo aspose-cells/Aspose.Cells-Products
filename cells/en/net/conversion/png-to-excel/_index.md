@@ -1,7 +1,7 @@
 ---
 title: C# PNG to EXCEL - PNG to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. PNG to EXCEL in C#. C# Convert PNG to EXCEL saveformat. C# PNG to EXCEL format. Save PNG to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PNG to EXCEL in C#., C# PNG to EXCEL saveformat., PNG to EXCEL C#., C# Convert PNG to EXCEL]
+description: Aspose Excel. Convert PNG to EXCEL quickly and easily with Aspose.Cells. C# PNG to EXCEL. C# Save PNG to EXCEL. Save PNG as EXCEL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to EXCEL in C#., Save PNG to EXCEL using C#., C# PNG to EXCEL saveformat., PNG to EXCEL Converter., C# Save PNG as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

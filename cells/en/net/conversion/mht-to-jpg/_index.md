@@ -1,7 +1,7 @@
 ---
 title: C# MHT to JPG - MHT to JPG Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to JPG in C#. C# Convert MHT to JPG saveformat. C# MHT to JPG format. Save MHT to JPG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to JPG in C#., C# MHT to JPG saveformat., MHT to JPG C#., C# Convert MHT to JPG]
+description: Aspose Excel. Convert MHT to JPG quickly and easily with Aspose.Cells. C# MHT to JPG. C# Save MHT to JPG. Save MHT as JPG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to JPG in C#., Save MHT to JPG using C#., C# MHT to JPG saveformat., MHT to JPG Converter., C# Save MHT as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

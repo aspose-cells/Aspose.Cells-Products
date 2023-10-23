@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to MD - EXCEL to MD Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to MD in Python. Python Convert EXCEL to MD saveformat. Python EXCEL to MD format. Save EXCEL to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to MD in Python., Python EXCEL to MD saveformat., EXCEL to MD Python., Python Convert EXCEL to MD]
+description: Aspose Excel. Convert EXCEL to MD quickly and easily with Aspose.Cells. Python EXCEL to MD. Python Save EXCEL to MD. Save EXCEL as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to MD in Python., Save EXCEL to MD using Python., Python EXCEL to MD saveformat., EXCEL to MD Converter., Python Save EXCEL as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

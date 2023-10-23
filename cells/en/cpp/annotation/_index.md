@@ -1,6 +1,7 @@
 ---
-title: Excel File Annotations via C++
+title: Add or Remove Excel File Annotations via C++
 description: Add or remove data annotation comments of Excel and OpenOffice spreadsheets with C++ library.
+keywords: [C++ Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

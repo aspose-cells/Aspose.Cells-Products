@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to PPTX - SPREADSHEETML to PPTX Converter
-description: PHP Aspose.Cells. SPREADSHEETML to PPTX in PHP. PHP Convert SPREADSHEETML to PPTX saveformat. PHP SPREADSHEETML to PPTX Converter. Save SPREADSHEETML to PPTX PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to PPTX in PHP., PHP SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX PHP., PHP Convert SPREADSHEETML to PPTX., Save SPREADSHEETML to PPTX PHP., SPREADSHEETML to PPTX Converter., Save SPREADSHEETML as PPTX]
+description: Aspose Excel. Convert SPREADSHEETML to PPTX quickly and easily with Aspose.Cells. PHP SPREADSHEETML to PPTX. PHP Save SPREADSHEETML to PPTX. Save SPREADSHEETML as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to PPTX in PHP., Save SPREADSHEETML to PPTX using PHP., PHP SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX Converter., PHP Save SPREADSHEETML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XML to SXC - XML to SXC Converter
-description: PHP Aspose.Cells. XML to SXC in PHP. PHP Convert XML to SXC saveformat. PHP XML to SXC Converter. Save XML to SXC PHP.
-keywords: [PHP Aspose.Cells., XML to SXC in PHP., PHP XML to SXC saveformat., XML to SXC PHP., PHP Convert XML to SXC., Save XML to SXC PHP., XML to SXC Converter., Save XML as SXC]
+description: Aspose Excel. Convert XML to SXC quickly and easily with Aspose.Cells. PHP XML to SXC. PHP Save XML to SXC. Save XML as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to SXC in PHP., Save XML to SXC using PHP., PHP XML to SXC saveformat., XML to SXC Converter., PHP Save XML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to MD - EXCEL to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to MD in C++. C++ Convert EXCEL to MD saveformat. C++ EXCEL to MD format. Save EXCEL to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to MD in C++., C++ EXCEL to MD saveformat., EXCEL to MD C++., C++ Convert EXCEL to MD]
+description: Aspose Excel. Convert EXCEL to MD quickly and easily with Aspose.Cells. C++ EXCEL to MD. C++ Save EXCEL to MD. Save EXCEL as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to MD in C++., Save EXCEL to MD using C++., C++ EXCEL to MD saveformat., EXCEL to MD Converter., C++ Save EXCEL as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to WORD - HTML to WORD Converter
-description: PHP Aspose.Cells. HTML to WORD in PHP. PHP Convert HTML to WORD saveformat. PHP HTML to WORD Converter. Save HTML to WORD PHP.
-keywords: [PHP Aspose.Cells., HTML to WORD in PHP., PHP HTML to WORD saveformat., HTML to WORD PHP., PHP Convert HTML to WORD., Save HTML to WORD PHP., HTML to WORD Converter., Save HTML as WORD]
+description: Aspose Excel. Convert HTML to WORD quickly and easily with Aspose.Cells. PHP HTML to WORD. PHP Save HTML to WORD. Save HTML as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to WORD in PHP., Save HTML to WORD using PHP., PHP HTML to WORD saveformat., HTML to WORD Converter., PHP Save HTML as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

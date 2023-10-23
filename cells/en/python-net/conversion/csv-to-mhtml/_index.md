@@ -1,7 +1,7 @@
 ---
 title: Python CSV to MHTML - CSV to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to MHTML in Python. Python Convert CSV to MHTML saveformat. Python CSV to MHTML format. Save CSV to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to MHTML in Python., Python CSV to MHTML saveformat., CSV to MHTML Python., Python Convert CSV to MHTML]
+description: Aspose Excel. Convert CSV to MHTML quickly and easily with Aspose.Cells. Python CSV to MHTML. Python Save CSV to MHTML. Save CSV as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to MHTML in Python., Save CSV to MHTML using Python., Python CSV to MHTML saveformat., CSV to MHTML Converter., Python Save CSV as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XML to SQL - XML to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. XML to SQL in C#. C# Convert XML to SQL saveformat. C# XML to SQL format. Save XML to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XML to SQL in C#., C# XML to SQL saveformat., XML to SQL C#., C# Convert XML to SQL]
+description: Aspose Excel. Convert XML to SQL quickly and easily with Aspose.Cells. C# XML to SQL. C# Save XML to SQL. Save XML as SQL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XML to SQL in C#., Save XML to SQL using C#., C# XML to SQL saveformat., XML to SQL Converter., C# Save XML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

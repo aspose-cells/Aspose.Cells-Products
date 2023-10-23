@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to PPTX - XLTM to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to PPTX in Python. Python Convert XLTM to PPTX saveformat. Python XLTM to PPTX format. Save XLTM to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to PPTX in Python., Python XLTM to PPTX saveformat., XLTM to PPTX Python., Python Convert XLTM to PPTX]
+description: Aspose Excel. Convert XLTM to PPTX quickly and easily with Aspose.Cells. Python XLTM to PPTX. Python Save XLTM to PPTX. Save XLTM as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to PPTX in Python., Save XLTM to PPTX using Python., Python XLTM to PPTX saveformat., XLTM to PPTX Converter., Python Save XLTM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

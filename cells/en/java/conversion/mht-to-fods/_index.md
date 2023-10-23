@@ -1,7 +1,7 @@
 ---
 title: Java MHT to FODS - MHT to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to FODS in Java. Java Convert MHT to FODS saveformat. Java MHT to FODS format. Save MHT to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to FODS in Java., Java MHT to FODS saveformat., MHT to FODS Java., Java Convert MHT to FODS]
+description: Aspose Excel. Convert MHT to FODS quickly and easily with Aspose.Cells. Java MHT to FODS. Java Save MHT to FODS. Save MHT as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to FODS in Java., Save MHT to FODS using Java., Java MHT to FODS saveformat., MHT to FODS Converter., Java Save MHT as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

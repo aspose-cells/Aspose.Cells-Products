@@ -1,7 +1,7 @@
 ---
 title: Python JSON to SVG - JSON to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. JSON to SVG in Python. Python Convert JSON to SVG saveformat. Python JSON to SVG format. Save JSON to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JSON to SVG in Python., Python JSON to SVG saveformat., JSON to SVG Python., Python Convert JSON to SVG]
+description: Aspose Excel. Convert JSON to SVG quickly and easily with Aspose.Cells. Python JSON to SVG. Python Save JSON to SVG. Save JSON as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to SVG in Python., Save JSON to SVG using Python., Python JSON to SVG saveformat., JSON to SVG Converter., Python Save JSON as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to PDF - EXCEL to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to PDF in Java. Java Convert EXCEL to PDF saveformat. Java EXCEL to PDF format. Save EXCEL to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to PDF in Java., Java EXCEL to PDF saveformat., EXCEL to PDF Java., Java Convert EXCEL to PDF]
+description: Aspose Excel. Convert EXCEL to PDF quickly and easily with Aspose.Cells. Java EXCEL to PDF. Java Save EXCEL to PDF. Save EXCEL as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to PDF in Java., Save EXCEL to PDF using Java., Java EXCEL to PDF saveformat., EXCEL to PDF Converter., Java Save EXCEL as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

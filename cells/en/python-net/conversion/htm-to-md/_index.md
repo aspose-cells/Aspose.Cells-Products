@@ -1,7 +1,7 @@
 ---
 title: Python HTM to MD - HTM to MD Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to MD in Python. Python Convert HTM to MD saveformat. Python HTM to MD format. Save HTM to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to MD in Python., Python HTM to MD saveformat., HTM to MD Python., Python Convert HTM to MD]
+description: Aspose Excel. Convert HTM to MD quickly and easily with Aspose.Cells. Python HTM to MD. Python Save HTM to MD. Save HTM as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to MD in Python., Save HTM to MD using Python., Python HTM to MD saveformat., HTM to MD Converter., Python Save HTM as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

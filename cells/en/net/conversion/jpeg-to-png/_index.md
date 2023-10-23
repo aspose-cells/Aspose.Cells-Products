@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to PNG - JPEG to PNG Converter
-description: Aspose Excel. C# Aspose.Cells. JPEG to PNG in C#. C# Convert JPEG to PNG saveformat. C# JPEG to PNG format. Save JPEG to PNG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPEG to PNG in C#., C# JPEG to PNG saveformat., JPEG to PNG C#., C# Convert JPEG to PNG]
+description: Aspose Excel. Convert JPEG to PNG quickly and easily with Aspose.Cells. C# JPEG to PNG. C# Save JPEG to PNG. Save JPEG as PNG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to PNG in C#., Save JPEG to PNG using C#., C# JPEG to PNG saveformat., JPEG to PNG Converter., C# Save JPEG as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

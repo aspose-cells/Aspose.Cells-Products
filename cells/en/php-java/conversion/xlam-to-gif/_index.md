@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to GIF - XLAM to GIF Converter
-description: PHP Aspose.Cells. XLAM to GIF in PHP. PHP Convert XLAM to GIF saveformat. PHP XLAM to GIF Converter. Save XLAM to GIF PHP.
-keywords: [PHP Aspose.Cells., XLAM to GIF in PHP., PHP XLAM to GIF saveformat., XLAM to GIF PHP., PHP Convert XLAM to GIF., Save XLAM to GIF PHP., XLAM to GIF Converter., Save XLAM as GIF]
+description: Aspose Excel. Convert XLAM to GIF quickly and easily with Aspose.Cells. PHP XLAM to GIF. PHP Save XLAM to GIF. Save XLAM as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to GIF in PHP., Save XLAM to GIF using PHP., PHP XLAM to GIF saveformat., XLAM to GIF Converter., PHP Save XLAM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java PRN to ET - PRN to ET Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to ET in Java. Java Convert PRN to ET saveformat. Java PRN to ET format. Save PRN to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to ET in Java., Java PRN to ET saveformat., PRN to ET Java., Java Convert PRN to ET]
+description: Aspose Excel. Convert PRN to ET quickly and easily with Aspose.Cells. Java PRN to ET. Java Save PRN to ET. Save PRN as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to ET in Java., Save PRN to ET using Java., Java PRN to ET saveformat., PRN to ET Converter., Java Save PRN as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

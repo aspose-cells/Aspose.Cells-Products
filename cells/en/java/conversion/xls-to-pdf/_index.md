@@ -1,7 +1,7 @@
 ---
 title: Java XLS to PDF - XLS to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to PDF in Java. Java Convert XLS to PDF saveformat. Java XLS to PDF format. Save XLS to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to PDF in Java., Java XLS to PDF saveformat., XLS to PDF Java., Java Convert XLS to PDF]
+description: Aspose Excel. Convert XLS to PDF quickly and easily with Aspose.Cells. Java XLS to PDF. Java Save XLS to PDF. Save XLS as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to PDF in Java., Save XLS to PDF using Java., Java XLS to PDF saveformat., XLS to PDF Converter., Java Save XLS as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

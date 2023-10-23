@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to OTS - MHTML to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to OTS in C++. C++ Convert MHTML to OTS saveformat. C++ MHTML to OTS format. Save MHTML to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to OTS in C++., C++ MHTML to OTS saveformat., MHTML to OTS C++., C++ Convert MHTML to OTS]
+description: Aspose Excel. Convert MHTML to OTS quickly and easily with Aspose.Cells. C++ MHTML to OTS. C++ Save MHTML to OTS. Save MHTML as OTS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to OTS in C++., Save MHTML to OTS using C++., C++ MHTML to OTS saveformat., MHTML to OTS Converter., C++ Save MHTML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

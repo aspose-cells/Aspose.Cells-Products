@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to GIF - XLT to GIF Converter
-description: PHP Aspose.Cells. XLT to GIF in PHP. PHP Convert XLT to GIF saveformat. PHP XLT to GIF Converter. Save XLT to GIF PHP.
-keywords: [PHP Aspose.Cells., XLT to GIF in PHP., PHP XLT to GIF saveformat., XLT to GIF PHP., PHP Convert XLT to GIF., Save XLT to GIF PHP., XLT to GIF Converter., Save XLT as GIF]
+description: Aspose Excel. Convert XLT to GIF quickly and easily with Aspose.Cells. PHP XLT to GIF. PHP Save XLT to GIF. Save XLT as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to GIF in PHP., Save XLT to GIF using PHP., PHP XLT to GIF saveformat., XLT to GIF Converter., PHP Save XLT as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

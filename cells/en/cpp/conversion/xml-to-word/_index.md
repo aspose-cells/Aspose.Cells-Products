@@ -1,7 +1,7 @@
 ---
 title: C++ XML to WORD - XML to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. XML to WORD in C++. C++ Convert XML to WORD saveformat. C++ XML to WORD format. Save XML to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XML to WORD in C++., C++ XML to WORD saveformat., XML to WORD C++., C++ Convert XML to WORD]
+description: Aspose Excel. Convert XML to WORD quickly and easily with Aspose.Cells. C++ XML to WORD. C++ Save XML to WORD. Save XML as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to WORD in C++., Save XML to WORD using C++., C++ XML to WORD saveformat., XML to WORD Converter., C++ Save XML as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

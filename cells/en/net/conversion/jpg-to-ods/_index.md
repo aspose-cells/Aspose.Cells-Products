@@ -1,7 +1,7 @@
 ---
 title: C# JPG to ODS - JPG to ODS Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to ODS in C#. C# Convert JPG to ODS saveformat. C# JPG to ODS format. Save JPG to ODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to ODS in C#., C# JPG to ODS saveformat., JPG to ODS C#., C# Convert JPG to ODS]
+description: Aspose Excel. Convert JPG to ODS quickly and easily with Aspose.Cells. C# JPG to ODS. C# Save JPG to ODS. Save JPG as ODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to ODS in C#., Save JPG to ODS using C#., C# JPG to ODS saveformat., JPG to ODS Converter., C# Save JPG as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

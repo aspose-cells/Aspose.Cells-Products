@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to PNG - XLSB to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to PNG in C++. C++ Convert XLSB to PNG saveformat. C++ XLSB to PNG format. Save XLSB to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to PNG in C++., C++ XLSB to PNG saveformat., XLSB to PNG C++., C++ Convert XLSB to PNG]
+description: Aspose Excel. Convert XLSB to PNG quickly and easily with Aspose.Cells. C++ XLSB to PNG. C++ Save XLSB to PNG. Save XLSB as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to PNG in C++., Save XLSB to PNG using C++., C++ XLSB to PNG saveformat., XLSB to PNG Converter., C++ Save XLSB as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to MD - XLSM to MD Converter
-description: PHP Aspose.Cells. XLSM to MD in PHP. PHP Convert XLSM to MD saveformat. PHP XLSM to MD Converter. Save XLSM to MD PHP.
-keywords: [PHP Aspose.Cells., XLSM to MD in PHP., PHP XLSM to MD saveformat., XLSM to MD PHP., PHP Convert XLSM to MD., Save XLSM to MD PHP., XLSM to MD Converter., Save XLSM as MD]
+description: Aspose Excel. Convert XLSM to MD quickly and easily with Aspose.Cells. PHP XLSM to MD. PHP Save XLSM to MD. Save XLSM as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to MD in PHP., Save XLSM to MD using PHP., PHP XLSM to MD saveformat., XLSM to MD Converter., PHP Save XLSM as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

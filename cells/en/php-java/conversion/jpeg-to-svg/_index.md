@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to SVG - JPEG to SVG Converter
-description: PHP Aspose.Cells. JPEG to SVG in PHP. PHP Convert JPEG to SVG saveformat. PHP JPEG to SVG Converter. Save JPEG to SVG PHP.
-keywords: [PHP Aspose.Cells., JPEG to SVG in PHP., PHP JPEG to SVG saveformat., JPEG to SVG PHP., PHP Convert JPEG to SVG., Save JPEG to SVG PHP., JPEG to SVG Converter., Save JPEG as SVG]
+description: Aspose Excel. Convert JPEG to SVG quickly and easily with Aspose.Cells. PHP JPEG to SVG. PHP Save JPEG to SVG. Save JPEG as SVG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to SVG in PHP., Save JPEG to SVG using PHP., PHP JPEG to SVG saveformat., JPEG to SVG Converter., PHP Save JPEG as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

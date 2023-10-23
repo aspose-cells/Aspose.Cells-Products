@@ -1,7 +1,7 @@
 ---
 title: Java XLS to CSV - XLS to CSV Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to CSV in Java. Java Convert XLS to CSV saveformat. Java XLS to CSV format. Save XLS to CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to CSV in Java., Java XLS to CSV saveformat., XLS to CSV Java., Java Convert XLS to CSV]
+description: Aspose Excel. Convert XLS to CSV quickly and easily with Aspose.Cells. Java XLS to CSV. Java Save XLS to CSV. Save XLS as CSV using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to CSV in Java., Save XLS to CSV using Java., Java XLS to CSV saveformat., XLS to CSV Converter., Java Save XLS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

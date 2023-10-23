@@ -1,7 +1,7 @@
 ---
 title: C# NUMBERS to FODS - NUMBERS to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. NUMBERS to FODS in C#. C# Convert NUMBERS to FODS saveformat. C# NUMBERS to FODS format. Save NUMBERS to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., NUMBERS to FODS in C#., C# NUMBERS to FODS saveformat., NUMBERS to FODS C#., C# Convert NUMBERS to FODS]
+description: Aspose Excel. Convert NUMBERS to FODS quickly and easily with Aspose.Cells. C# NUMBERS to FODS. C# Save NUMBERS to FODS. Save NUMBERS as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert NUMBERS to FODS in C#., Save NUMBERS to FODS using C#., C# NUMBERS to FODS saveformat., NUMBERS to FODS Converter., C# Save NUMBERS as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

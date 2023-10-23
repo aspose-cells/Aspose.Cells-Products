@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to EXCEL - PNG to EXCEL Converter
-description: PHP Aspose.Cells. PNG to EXCEL in PHP. PHP Convert PNG to EXCEL saveformat. PHP PNG to EXCEL Converter. Save PNG to EXCEL PHP.
-keywords: [PHP Aspose.Cells., PNG to EXCEL in PHP., PHP PNG to EXCEL saveformat., PNG to EXCEL PHP., PHP Convert PNG to EXCEL., Save PNG to EXCEL PHP., PNG to EXCEL Converter., Save PNG as EXCEL]
+description: Aspose Excel. Convert PNG to EXCEL quickly and easily with Aspose.Cells. PHP PNG to EXCEL. PHP Save PNG to EXCEL. Save PNG as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to EXCEL in PHP., Save PNG to EXCEL using PHP., PHP PNG to EXCEL saveformat., PNG to EXCEL Converter., PHP Save PNG as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

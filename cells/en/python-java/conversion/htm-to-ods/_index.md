@@ -1,7 +1,7 @@
 ---
 title: Python HTM to ODS - HTM to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to ODS in Python. Python Convert HTM to ODS saveformat. Python HTM to ODS format. Save HTM to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to ODS in Python., Python HTM to ODS saveformat., HTM to ODS Python., Python Convert HTM to ODS]
+description: Aspose Excel. Convert HTM to ODS quickly and easily with Aspose.Cells. Python HTM to ODS. Python Save HTM to ODS. Save HTM as ODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to ODS in Python., Save HTM to ODS using Python., Python HTM to ODS saveformat., HTM to ODS Converter., Python Save HTM as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

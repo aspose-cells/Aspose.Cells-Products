@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to WORD - TXT to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to WORD in C++. C++ Convert TXT to WORD saveformat. C++ TXT to WORD format. Save TXT to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to WORD in C++., C++ TXT to WORD saveformat., TXT to WORD C++., C++ Convert TXT to WORD]
+description: Aspose Excel. Convert TXT to WORD quickly and easily with Aspose.Cells. C++ TXT to WORD. C++ Save TXT to WORD. Save TXT as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to WORD in C++., Save TXT to WORD using C++., C++ TXT to WORD saveformat., TXT to WORD Converter., C++ Save TXT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

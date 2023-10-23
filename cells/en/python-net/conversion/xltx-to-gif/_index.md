@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to GIF - XLTX to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to GIF in Python. Python Convert XLTX to GIF saveformat. Python XLTX to GIF format. Save XLTX to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to GIF in Python., Python XLTX to GIF saveformat., XLTX to GIF Python., Python Convert XLTX to GIF]
+description: Aspose Excel. Convert XLTX to GIF quickly and easily with Aspose.Cells. Python XLTX to GIF. Python Save XLTX to GIF. Save XLTX as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to GIF in Python., Save XLTX to GIF using Python., Python XLTX to GIF saveformat., XLTX to GIF Converter., Python Save XLTX as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

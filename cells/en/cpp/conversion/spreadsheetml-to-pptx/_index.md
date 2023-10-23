@@ -1,7 +1,7 @@
 ---
 title: C++ SPREADSHEETML to PPTX - SPREADSHEETML to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to PPTX in C++. C++ Convert SPREADSHEETML to PPTX saveformat. C++ SPREADSHEETML to PPTX format. Save SPREADSHEETML to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to PPTX in C++., C++ SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX C++., C++ Convert SPREADSHEETML to PPTX]
+description: Aspose Excel. Convert SPREADSHEETML to PPTX quickly and easily with Aspose.Cells. C++ SPREADSHEETML to PPTX. C++ Save SPREADSHEETML to PPTX. Save SPREADSHEETML as PPTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to PPTX in C++., Save SPREADSHEETML to PPTX using C++., C++ SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX Converter., C++ Save SPREADSHEETML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

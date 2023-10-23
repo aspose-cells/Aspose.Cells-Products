@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to MD - MHTML to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to MD in C++. C++ Convert MHTML to MD saveformat. C++ MHTML to MD format. Save MHTML to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to MD in C++., C++ MHTML to MD saveformat., MHTML to MD C++., C++ Convert MHTML to MD]
+description: Aspose Excel. Convert MHTML to MD quickly and easily with Aspose.Cells. C++ MHTML to MD. C++ Save MHTML to MD. Save MHTML as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to MD in C++., Save MHTML to MD using C++., C++ MHTML to MD saveformat., MHTML to MD Converter., C++ Save MHTML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

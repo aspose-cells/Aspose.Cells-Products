@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to POWERPOINT - NUMBERS to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. NUMBERS to POWERPOINT in C++. C++ Convert NUMBERS to POWERPOINT saveformat. C++ NUMBERS to POWERPOINT format. Save NUMBERS to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to POWERPOINT in C++., C++ NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT C++., C++ Convert NUMBERS to POWERPOINT]
+description: Aspose Excel. Convert NUMBERS to POWERPOINT quickly and easily with Aspose.Cells. C++ NUMBERS to POWERPOINT. C++ Save NUMBERS to POWERPOINT. Save NUMBERS as POWERPOINT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to POWERPOINT in C++., Save NUMBERS to POWERPOINT using C++., C++ NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT Converter., C++ Save NUMBERS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

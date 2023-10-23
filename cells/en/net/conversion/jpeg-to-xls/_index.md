@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to XLS - JPEG to XLS Converter
-description: Aspose Excel. C# Aspose.Cells. JPEG to XLS in C#. C# Convert JPEG to XLS saveformat. C# JPEG to XLS format. Save JPEG to XLS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPEG to XLS in C#., C# JPEG to XLS saveformat., JPEG to XLS C#., C# Convert JPEG to XLS]
+description: Aspose Excel. Convert JPEG to XLS quickly and easily with Aspose.Cells. C# JPEG to XLS. C# Save JPEG to XLS. Save JPEG as XLS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to XLS in C#., Save JPEG to XLS using C#., C# JPEG to XLS saveformat., JPEG to XLS Converter., C# Save JPEG as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to JPEG - HTML to JPEG Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to JPEG in C++. C++ Convert HTML to JPEG saveformat. C++ HTML to JPEG format. Save HTML to JPEG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to JPEG in C++., C++ HTML to JPEG saveformat., HTML to JPEG C++., C++ Convert HTML to JPEG]
+description: Aspose Excel. Convert HTML to JPEG quickly and easily with Aspose.Cells. C++ HTML to JPEG. C++ Save HTML to JPEG. Save HTML as JPEG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to JPEG in C++., Save HTML to JPEG using C++., C++ HTML to JPEG saveformat., HTML to JPEG Converter., C++ Save HTML as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

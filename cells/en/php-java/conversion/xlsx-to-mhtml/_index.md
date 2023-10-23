@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to MHTML - XLSX to MHTML Converter
-description: PHP Aspose.Cells. XLSX to MHTML in PHP. PHP Convert XLSX to MHTML saveformat. PHP XLSX to MHTML Converter. Save XLSX to MHTML PHP.
-keywords: [PHP Aspose.Cells., XLSX to MHTML in PHP., PHP XLSX to MHTML saveformat., XLSX to MHTML PHP., PHP Convert XLSX to MHTML., Save XLSX to MHTML PHP., XLSX to MHTML Converter., Save XLSX as MHTML]
+description: Aspose Excel. Convert XLSX to MHTML quickly and easily with Aspose.Cells. PHP XLSX to MHTML. PHP Save XLSX to MHTML. Save XLSX as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to MHTML in PHP., Save XLSX to MHTML using PHP., PHP XLSX to MHTML saveformat., XLSX to MHTML Converter., PHP Save XLSX as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to GIF - SXC to GIF Converter
-description: PHP Aspose.Cells. SXC to GIF in PHP. PHP Convert SXC to GIF saveformat. PHP SXC to GIF Converter. Save SXC to GIF PHP.
-keywords: [PHP Aspose.Cells., SXC to GIF in PHP., PHP SXC to GIF saveformat., SXC to GIF PHP., PHP Convert SXC to GIF., Save SXC to GIF PHP., SXC to GIF Converter., Save SXC as GIF]
+description: Aspose Excel. Convert SXC to GIF quickly and easily with Aspose.Cells. PHP SXC to GIF. PHP Save SXC to GIF. Save SXC as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to GIF in PHP., Save SXC to GIF using PHP., PHP SXC to GIF saveformat., SXC to GIF Converter., PHP Save SXC as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

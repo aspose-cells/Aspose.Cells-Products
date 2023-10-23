@@ -1,7 +1,7 @@
 ---
 title: Python PRN to SVG - PRN to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to SVG in Python. Python Convert PRN to SVG saveformat. Python PRN to SVG format. Save PRN to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to SVG in Python., Python PRN to SVG saveformat., PRN to SVG Python., Python Convert PRN to SVG]
+description: Aspose Excel. Convert PRN to SVG quickly and easily with Aspose.Cells. Python PRN to SVG. Python Save PRN to SVG. Save PRN as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to SVG in Python., Save PRN to SVG using Python., Python PRN to SVG saveformat., PRN to SVG Converter., Python Save PRN as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

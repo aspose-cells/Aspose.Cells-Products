@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to DIF - XLTM to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to DIF in C++. C++ Convert XLTM to DIF saveformat. C++ XLTM to DIF format. Save XLTM to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to DIF in C++., C++ XLTM to DIF saveformat., XLTM to DIF C++., C++ Convert XLTM to DIF]
+description: Aspose Excel. Convert XLTM to DIF quickly and easily with Aspose.Cells. C++ XLTM to DIF. C++ Save XLTM to DIF. Save XLTM as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to DIF in C++., Save XLTM to DIF using C++., C++ XLTM to DIF saveformat., XLTM to DIF Converter., C++ Save XLTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

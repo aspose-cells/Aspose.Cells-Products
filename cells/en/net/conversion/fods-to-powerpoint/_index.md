@@ -1,7 +1,7 @@
 ---
 title: C# FODS to POWERPOINT - FODS to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. FODS to POWERPOINT in C#. C# Convert FODS to POWERPOINT saveformat. C# FODS to POWERPOINT format. Save FODS to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., FODS to POWERPOINT in C#., C# FODS to POWERPOINT saveformat., FODS to POWERPOINT C#., C# Convert FODS to POWERPOINT]
+description: Aspose Excel. Convert FODS to POWERPOINT quickly and easily with Aspose.Cells. C# FODS to POWERPOINT. C# Save FODS to POWERPOINT. Save FODS as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to POWERPOINT in C#., Save FODS to POWERPOINT using C#., C# FODS to POWERPOINT saveformat., FODS to POWERPOINT Converter., C# Save FODS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

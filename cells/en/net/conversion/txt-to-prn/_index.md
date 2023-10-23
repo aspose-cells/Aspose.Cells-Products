@@ -1,7 +1,7 @@
 ---
 title: C# TXT to PRN - TXT to PRN Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to PRN in C#. C# Convert TXT to PRN saveformat. C# TXT to PRN format. Save TXT to PRN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to PRN in C#., C# TXT to PRN saveformat., TXT to PRN C#., C# Convert TXT to PRN]
+description: Aspose Excel. Convert TXT to PRN quickly and easily with Aspose.Cells. C# TXT to PRN. C# Save TXT to PRN. Save TXT as PRN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to PRN in C#., Save TXT to PRN using C#., C# TXT to PRN saveformat., TXT to PRN Converter., C# Save TXT as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

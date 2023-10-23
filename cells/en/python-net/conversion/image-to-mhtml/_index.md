@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to MHTML - IMAGE to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to MHTML in Python. Python Convert IMAGE to MHTML saveformat. Python IMAGE to MHTML format. Save IMAGE to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to MHTML in Python., Python IMAGE to MHTML saveformat., IMAGE to MHTML Python., Python Convert IMAGE to MHTML]
+description: Aspose Excel. Convert IMAGE to MHTML quickly and easily with Aspose.Cells. Python IMAGE to MHTML. Python Save IMAGE to MHTML. Save IMAGE as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to MHTML in Python., Save IMAGE to MHTML using Python., Python IMAGE to MHTML saveformat., IMAGE to MHTML Converter., Python Save IMAGE as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

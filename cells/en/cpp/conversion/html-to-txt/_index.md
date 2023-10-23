@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to TXT - HTML to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to TXT in C++. C++ Convert HTML to TXT saveformat. C++ HTML to TXT format. Save HTML to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to TXT in C++., C++ HTML to TXT saveformat., HTML to TXT C++., C++ Convert HTML to TXT]
+description: Aspose Excel. Convert HTML to TXT quickly and easily with Aspose.Cells. C++ HTML to TXT. C++ Save HTML to TXT. Save HTML as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to TXT in C++., Save HTML to TXT using C++., C++ HTML to TXT saveformat., HTML to TXT Converter., C++ Save HTML as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

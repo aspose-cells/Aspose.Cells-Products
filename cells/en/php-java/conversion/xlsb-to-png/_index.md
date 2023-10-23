@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to PNG - XLSB to PNG Converter
-description: PHP Aspose.Cells. XLSB to PNG in PHP. PHP Convert XLSB to PNG saveformat. PHP XLSB to PNG Converter. Save XLSB to PNG PHP.
-keywords: [PHP Aspose.Cells., XLSB to PNG in PHP., PHP XLSB to PNG saveformat., XLSB to PNG PHP., PHP Convert XLSB to PNG., Save XLSB to PNG PHP., XLSB to PNG Converter., Save XLSB as PNG]
+description: Aspose Excel. Convert XLSB to PNG quickly and easily with Aspose.Cells. PHP XLSB to PNG. PHP Save XLSB to PNG. Save XLSB as PNG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to PNG in PHP., Save XLSB to PNG using PHP., PHP XLSB to PNG saveformat., XLSB to PNG Converter., PHP Save XLSB as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

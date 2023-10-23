@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to XML - XLTM to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to XML in C++. C++ Convert XLTM to XML saveformat. C++ XLTM to XML format. Save XLTM to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to XML in C++., C++ XLTM to XML saveformat., XLTM to XML C++., C++ Convert XLTM to XML]
+description: Aspose Excel. Convert XLTM to XML quickly and easily with Aspose.Cells. C++ XLTM to XML. C++ Save XLTM to XML. Save XLTM as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to XML in C++., Save XLTM to XML using C++., C++ XLTM to XML saveformat., XLTM to XML Converter., C++ Save XLTM as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

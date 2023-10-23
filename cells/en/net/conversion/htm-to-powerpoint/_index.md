@@ -1,7 +1,7 @@
 ---
 title: C# HTM to POWERPOINT - HTM to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. HTM to POWERPOINT in C#. C# Convert HTM to POWERPOINT saveformat. C# HTM to POWERPOINT format. Save HTM to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTM to POWERPOINT in C#., C# HTM to POWERPOINT saveformat., HTM to POWERPOINT C#., C# Convert HTM to POWERPOINT]
+description: Aspose Excel. Convert HTM to POWERPOINT quickly and easily with Aspose.Cells. C# HTM to POWERPOINT. C# Save HTM to POWERPOINT. Save HTM as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to POWERPOINT in C#., Save HTM to POWERPOINT using C#., C# HTM to POWERPOINT saveformat., HTM to POWERPOINT Converter., C# Save HTM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

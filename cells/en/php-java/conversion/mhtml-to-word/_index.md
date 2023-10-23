@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to WORD - MHTML to WORD Converter
-description: PHP Aspose.Cells. MHTML to WORD in PHP. PHP Convert MHTML to WORD saveformat. PHP MHTML to WORD Converter. Save MHTML to WORD PHP.
-keywords: [PHP Aspose.Cells., MHTML to WORD in PHP., PHP MHTML to WORD saveformat., MHTML to WORD PHP., PHP Convert MHTML to WORD., Save MHTML to WORD PHP., MHTML to WORD Converter., Save MHTML as WORD]
+description: Aspose Excel. Convert MHTML to WORD quickly and easily with Aspose.Cells. PHP MHTML to WORD. PHP Save MHTML to WORD. Save MHTML as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to WORD in PHP., Save MHTML to WORD using PHP., PHP MHTML to WORD saveformat., MHTML to WORD Converter., PHP Save MHTML as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

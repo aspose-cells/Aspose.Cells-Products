@@ -1,7 +1,7 @@
 ---
 title: Python SXC to XPS - SXC to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to XPS in Python. Python Convert SXC to XPS saveformat. Python SXC to XPS format. Save SXC to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to XPS in Python., Python SXC to XPS saveformat., SXC to XPS Python., Python Convert SXC to XPS]
+description: Aspose Excel. Convert SXC to XPS quickly and easily with Aspose.Cells. Python SXC to XPS. Python Save SXC to XPS. Save SXC as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to XPS in Python., Save SXC to XPS using Python., Python SXC to XPS saveformat., SXC to XPS Converter., Python Save SXC as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java SXC to POWERPOINT - SXC to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to POWERPOINT in Java. Java Convert SXC to POWERPOINT saveformat. Java SXC to POWERPOINT format. Save SXC to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to POWERPOINT in Java., Java SXC to POWERPOINT saveformat., SXC to POWERPOINT Java., Java Convert SXC to POWERPOINT]
+description: Aspose Excel. Convert SXC to POWERPOINT quickly and easily with Aspose.Cells. Java SXC to POWERPOINT. Java Save SXC to POWERPOINT. Save SXC as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to POWERPOINT in Java., Save SXC to POWERPOINT using Java., Java SXC to POWERPOINT saveformat., SXC to POWERPOINT Converter., Java Save SXC as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

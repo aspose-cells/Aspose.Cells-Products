@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to ODS - XLSB to ODS Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to ODS in C++. C++ Convert XLSB to ODS saveformat. C++ XLSB to ODS format. Save XLSB to ODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to ODS in C++., C++ XLSB to ODS saveformat., XLSB to ODS C++., C++ Convert XLSB to ODS]
+description: Aspose Excel. Convert XLSB to ODS quickly and easily with Aspose.Cells. C++ XLSB to ODS. C++ Save XLSB to ODS. Save XLSB as ODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to ODS in C++., Save XLSB to ODS using C++., C++ XLSB to ODS saveformat., XLSB to ODS Converter., C++ Save XLSB as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to POWERPOINT - XLSM to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to POWERPOINT in Python. Python Convert XLSM to POWERPOINT saveformat. Python XLSM to POWERPOINT format. Save XLSM to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to POWERPOINT in Python., Python XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Python., Python Convert XLSM to POWERPOINT]
+description: Aspose Excel. Convert XLSM to POWERPOINT quickly and easily with Aspose.Cells. Python XLSM to POWERPOINT. Python Save XLSM to POWERPOINT. Save XLSM as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to POWERPOINT in Python., Save XLSM to POWERPOINT using Python., Python XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Converter., Python Save XLSM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

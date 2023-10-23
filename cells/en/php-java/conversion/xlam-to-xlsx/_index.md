@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to XLSX - XLAM to XLSX Converter
-description: PHP Aspose.Cells. XLAM to XLSX in PHP. PHP Convert XLAM to XLSX saveformat. PHP XLAM to XLSX Converter. Save XLAM to XLSX PHP.
-keywords: [PHP Aspose.Cells., XLAM to XLSX in PHP., PHP XLAM to XLSX saveformat., XLAM to XLSX PHP., PHP Convert XLAM to XLSX., Save XLAM to XLSX PHP., XLAM to XLSX Converter., Save XLAM as XLSX]
+description: Aspose Excel. Convert XLAM to XLSX quickly and easily with Aspose.Cells. PHP XLAM to XLSX. PHP Save XLAM to XLSX. Save XLAM as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to XLSX in PHP., Save XLAM to XLSX using PHP., PHP XLAM to XLSX saveformat., XLAM to XLSX Converter., PHP Save XLAM as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

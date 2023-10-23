@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to MHT - MHTML to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to MHT in C++. C++ Convert MHTML to MHT saveformat. C++ MHTML to MHT format. Save MHTML to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to MHT in C++., C++ MHTML to MHT saveformat., MHTML to MHT C++., C++ Convert MHTML to MHT]
+description: Aspose Excel. Convert MHTML to MHT quickly and easily with Aspose.Cells. C++ MHTML to MHT. C++ Save MHTML to MHT. Save MHTML as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to MHT in C++., Save MHTML to MHT using C++., C++ MHTML to MHT saveformat., MHTML to MHT Converter., C++ Save MHTML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

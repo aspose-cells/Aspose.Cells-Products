@@ -1,7 +1,7 @@
 ---
 title: Python OTS to HTML - OTS to HTML Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to HTML in Python. Python Convert OTS to HTML saveformat. Python OTS to HTML format. Save OTS to HTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to HTML in Python., Python OTS to HTML saveformat., OTS to HTML Python., Python Convert OTS to HTML]
+description: Aspose Excel. Convert OTS to HTML quickly and easily with Aspose.Cells. Python OTS to HTML. Python Save OTS to HTML. Save OTS as HTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to HTML in Python., Save OTS to HTML using Python., Python OTS to HTML saveformat., OTS to HTML Converter., Python Save OTS as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

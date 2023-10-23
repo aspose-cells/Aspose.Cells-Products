@@ -1,7 +1,7 @@
 ---
 title: C# XLS to BMP - XLS to BMP Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to BMP in C#. C# Convert XLS to BMP saveformat. C# XLS to BMP format. Save XLS to BMP C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to BMP in C#., C# XLS to BMP saveformat., XLS to BMP C#., C# Convert XLS to BMP]
+description: Aspose Excel. Convert XLS to BMP quickly and easily with Aspose.Cells. C# XLS to BMP. C# Save XLS to BMP. Save XLS as BMP using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to BMP in C#., Save XLS to BMP using C#., C# XLS to BMP saveformat., XLS to BMP Converter., C# Save XLS as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

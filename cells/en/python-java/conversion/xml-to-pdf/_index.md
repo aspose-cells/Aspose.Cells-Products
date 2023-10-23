@@ -1,7 +1,7 @@
 ---
 title: Python XML to PDF - XML to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. XML to PDF in Python. Python Convert XML to PDF saveformat. Python XML to PDF format. Save XML to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to PDF in Python., Python XML to PDF saveformat., XML to PDF Python., Python Convert XML to PDF]
+description: Aspose Excel. Convert XML to PDF quickly and easily with Aspose.Cells. Python XML to PDF. Python Save XML to PDF. Save XML as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to PDF in Python., Save XML to PDF using Python., Python XML to PDF saveformat., XML to PDF Converter., Python Save XML as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

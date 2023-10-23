@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to PRN - HTML to PRN Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to PRN in C++. C++ Convert HTML to PRN saveformat. C++ HTML to PRN format. Save HTML to PRN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to PRN in C++., C++ HTML to PRN saveformat., HTML to PRN C++., C++ Convert HTML to PRN]
+description: Aspose Excel. Convert HTML to PRN quickly and easily with Aspose.Cells. C++ HTML to PRN. C++ Save HTML to PRN. Save HTML as PRN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to PRN in C++., Save HTML to PRN using C++., C++ HTML to PRN saveformat., HTML to PRN Converter., C++ Save HTML as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

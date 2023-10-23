@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to MHTML - JSON to MHTML Converter
-description: PHP Aspose.Cells. JSON to MHTML in PHP. PHP Convert JSON to MHTML saveformat. PHP JSON to MHTML Converter. Save JSON to MHTML PHP.
-keywords: [PHP Aspose.Cells., JSON to MHTML in PHP., PHP JSON to MHTML saveformat., JSON to MHTML PHP., PHP Convert JSON to MHTML., Save JSON to MHTML PHP., JSON to MHTML Converter., Save JSON as MHTML]
+description: Aspose Excel. Convert JSON to MHTML quickly and easily with Aspose.Cells. PHP JSON to MHTML. PHP Save JSON to MHTML. Save JSON as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to MHTML in PHP., Save JSON to MHTML using PHP., PHP JSON to MHTML saveformat., JSON to MHTML Converter., PHP Save JSON as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

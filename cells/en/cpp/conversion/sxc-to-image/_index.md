@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to IMAGE - SXC to IMAGE Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to IMAGE in C++. C++ Convert SXC to IMAGE saveformat. C++ SXC to IMAGE format. Save SXC to IMAGE C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to IMAGE in C++., C++ SXC to IMAGE saveformat., SXC to IMAGE C++., C++ Convert SXC to IMAGE]
+description: Aspose Excel. Convert SXC to IMAGE quickly and easily with Aspose.Cells. C++ SXC to IMAGE. C++ Save SXC to IMAGE. Save SXC as IMAGE using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to IMAGE in C++., Save SXC to IMAGE using C++., C++ SXC to IMAGE saveformat., SXC to IMAGE Converter., C++ Save SXC as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

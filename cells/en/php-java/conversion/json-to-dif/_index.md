@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to DIF - JSON to DIF Converter
-description: PHP Aspose.Cells. JSON to DIF in PHP. PHP Convert JSON to DIF saveformat. PHP JSON to DIF Converter. Save JSON to DIF PHP.
-keywords: [PHP Aspose.Cells., JSON to DIF in PHP., PHP JSON to DIF saveformat., JSON to DIF PHP., PHP Convert JSON to DIF., Save JSON to DIF PHP., JSON to DIF Converter., Save JSON as DIF]
+description: Aspose Excel. Convert JSON to DIF quickly and easily with Aspose.Cells. PHP JSON to DIF. PHP Save JSON to DIF. Save JSON as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to DIF in PHP., Save JSON to DIF using PHP., PHP JSON to DIF saveformat., JSON to DIF Converter., PHP Save JSON as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

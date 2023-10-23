@@ -1,7 +1,7 @@
 ---
 title: Python FODS to JSON - FODS to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to JSON in Python. Python Convert FODS to JSON saveformat. Python FODS to JSON format. Save FODS to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to JSON in Python., Python FODS to JSON saveformat., FODS to JSON Python., Python Convert FODS to JSON]
+description: Aspose Excel. Convert FODS to JSON quickly and easily with Aspose.Cells. Python FODS to JSON. Python Save FODS to JSON. Save FODS as JSON using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to JSON in Python., Save FODS to JSON using Python., Python FODS to JSON saveformat., FODS to JSON Converter., Python Save FODS as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

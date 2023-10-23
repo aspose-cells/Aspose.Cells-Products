@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to WORD - MHT to WORD Converter
-description: PHP Aspose.Cells. MHT to WORD in PHP. PHP Convert MHT to WORD saveformat. PHP MHT to WORD Converter. Save MHT to WORD PHP.
-keywords: [PHP Aspose.Cells., MHT to WORD in PHP., PHP MHT to WORD saveformat., MHT to WORD PHP., PHP Convert MHT to WORD., Save MHT to WORD PHP., MHT to WORD Converter., Save MHT as WORD]
+description: Aspose Excel. Convert MHT to WORD quickly and easily with Aspose.Cells. PHP MHT to WORD. PHP Save MHT to WORD. Save MHT as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to WORD in PHP., Save MHT to WORD using PHP., PHP MHT to WORD saveformat., MHT to WORD Converter., PHP Save MHT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

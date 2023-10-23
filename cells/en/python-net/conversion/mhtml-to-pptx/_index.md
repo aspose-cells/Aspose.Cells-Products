@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to PPTX - MHTML to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to PPTX in Python. Python Convert MHTML to PPTX saveformat. Python MHTML to PPTX format. Save MHTML to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to PPTX in Python., Python MHTML to PPTX saveformat., MHTML to PPTX Python., Python Convert MHTML to PPTX]
+description: Aspose Excel. Convert MHTML to PPTX quickly and easily with Aspose.Cells. Python MHTML to PPTX. Python Save MHTML to PPTX. Save MHTML as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to PPTX in Python., Save MHTML to PPTX using Python., Python MHTML to PPTX saveformat., MHTML to PPTX Converter., Python Save MHTML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

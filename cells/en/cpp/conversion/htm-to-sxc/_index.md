@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to SXC - HTM to SXC Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to SXC in C++. C++ Convert HTM to SXC saveformat. C++ HTM to SXC format. Save HTM to SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to SXC in C++., C++ HTM to SXC saveformat., HTM to SXC C++., C++ Convert HTM to SXC]
+description: Aspose Excel. Convert HTM to SXC quickly and easily with Aspose.Cells. C++ HTM to SXC. C++ Save HTM to SXC. Save HTM as SXC using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to SXC in C++., Save HTM to SXC using C++., C++ HTM to SXC saveformat., HTM to SXC Converter., C++ Save HTM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

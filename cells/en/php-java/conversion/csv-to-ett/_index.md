@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to ETT - CSV to ETT Converter
-description: PHP Aspose.Cells. CSV to ETT in PHP. PHP Convert CSV to ETT saveformat. PHP CSV to ETT Converter. Save CSV to ETT PHP.
-keywords: [PHP Aspose.Cells., CSV to ETT in PHP., PHP CSV to ETT saveformat., CSV to ETT PHP., PHP Convert CSV to ETT., Save CSV to ETT PHP., CSV to ETT Converter., Save CSV as ETT]
+description: Aspose Excel. Convert CSV to ETT quickly and easily with Aspose.Cells. PHP CSV to ETT. PHP Save CSV to ETT. Save CSV as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to ETT in PHP., Save CSV to ETT using PHP., PHP CSV to ETT saveformat., CSV to ETT Converter., PHP Save CSV as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

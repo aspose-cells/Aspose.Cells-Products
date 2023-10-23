@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to XLS - XLT to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to XLS in C++. C++ Convert XLT to XLS saveformat. C++ XLT to XLS format. Save XLT to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to XLS in C++., C++ XLT to XLS saveformat., XLT to XLS C++., C++ Convert XLT to XLS]
+description: Aspose Excel. Convert XLT to XLS quickly and easily with Aspose.Cells. C++ XLT to XLS. C++ Save XLT to XLS. Save XLT as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to XLS in C++., Save XLT to XLS using C++., C++ XLT to XLS saveformat., XLT to XLS Converter., C++ Save XLT as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

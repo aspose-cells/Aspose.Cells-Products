@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to MARKDOWN - XLSB to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to MARKDOWN in Python. Python Convert XLSB to MARKDOWN saveformat. Python XLSB to MARKDOWN format. Save XLSB to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to MARKDOWN in Python., Python XLSB to MARKDOWN saveformat., XLSB to MARKDOWN Python., Python Convert XLSB to MARKDOWN]
+description: Aspose Excel. Convert XLSB to MARKDOWN quickly and easily with Aspose.Cells. Python XLSB to MARKDOWN. Python Save XLSB to MARKDOWN. Save XLSB as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to MARKDOWN in Python., Save XLSB to MARKDOWN using Python., Python XLSB to MARKDOWN saveformat., XLSB to MARKDOWN Converter., Python Save XLSB as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

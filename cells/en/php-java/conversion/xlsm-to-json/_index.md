@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to JSON - XLSM to JSON Converter
-description: PHP Aspose.Cells. XLSM to JSON in PHP. PHP Convert XLSM to JSON saveformat. PHP XLSM to JSON Converter. Save XLSM to JSON PHP.
-keywords: [PHP Aspose.Cells., XLSM to JSON in PHP., PHP XLSM to JSON saveformat., XLSM to JSON PHP., PHP Convert XLSM to JSON., Save XLSM to JSON PHP., XLSM to JSON Converter., Save XLSM as JSON]
+description: Aspose Excel. Convert XLSM to JSON quickly and easily with Aspose.Cells. PHP XLSM to JSON. PHP Save XLSM to JSON. Save XLSM as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to JSON in PHP., Save XLSM to JSON using PHP., PHP XLSM to JSON saveformat., XLSM to JSON Converter., PHP Save XLSM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to EXCEL - XLTX to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to EXCEL in Java. Java Convert XLTX to EXCEL saveformat. Java XLTX to EXCEL format. Save XLTX to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to EXCEL in Java., Java XLTX to EXCEL saveformat., XLTX to EXCEL Java., Java Convert XLTX to EXCEL]
+description: Aspose Excel. Convert XLTX to EXCEL quickly and easily with Aspose.Cells. Java XLTX to EXCEL. Java Save XLTX to EXCEL. Save XLTX as EXCEL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to EXCEL in Java., Save XLTX to EXCEL using Java., Java XLTX to EXCEL saveformat., XLTX to EXCEL Converter., Java Save XLTX as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

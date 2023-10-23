@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to SQL - TXT to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to SQL in C++. C++ Convert TXT to SQL saveformat. C++ TXT to SQL format. Save TXT to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to SQL in C++., C++ TXT to SQL saveformat., TXT to SQL C++., C++ Convert TXT to SQL]
+description: Aspose Excel. Convert TXT to SQL quickly and easily with Aspose.Cells. C++ TXT to SQL. C++ Save TXT to SQL. Save TXT as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to SQL in C++., Save TXT to SQL using C++., C++ TXT to SQL saveformat., TXT to SQL Converter., C++ Save TXT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

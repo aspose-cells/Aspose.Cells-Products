@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to MARKDOWN - XLSX to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to MARKDOWN in Java. Java Convert XLSX to MARKDOWN saveformat. Java XLSX to MARKDOWN format. Save XLSX to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to MARKDOWN in Java., Java XLSX to MARKDOWN saveformat., XLSX to MARKDOWN Java., Java Convert XLSX to MARKDOWN]
+description: Aspose Excel. Convert XLSX to MARKDOWN quickly and easily with Aspose.Cells. Java XLSX to MARKDOWN. Java Save XLSX to MARKDOWN. Save XLSX as MARKDOWN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to MARKDOWN in Java., Save XLSX to MARKDOWN using Java., Java XLSX to MARKDOWN saveformat., XLSX to MARKDOWN Converter., Java Save XLSX as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

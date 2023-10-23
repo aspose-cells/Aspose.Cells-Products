@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to XLT - XLSX to XLT Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to XLT in C#. C# Convert XLSX to XLT saveformat. C# XLSX to XLT format. Save XLSX to XLT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to XLT in C#., C# XLSX to XLT saveformat., XLSX to XLT C#., C# Convert XLSX to XLT]
+description: Aspose Excel. Convert XLSX to XLT quickly and easily with Aspose.Cells. C# XLSX to XLT. C# Save XLSX to XLT. Save XLSX as XLT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to XLT in C#., Save XLSX to XLT using C#., C# XLSX to XLT saveformat., XLSX to XLT Converter., C# Save XLSX as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

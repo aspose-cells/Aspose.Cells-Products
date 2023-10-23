@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to DIF - EXCEL to DIF Converter
-description: PHP Aspose.Cells. EXCEL to DIF in PHP. PHP Convert EXCEL to DIF saveformat. PHP EXCEL to DIF Converter. Save EXCEL to DIF PHP.
-keywords: [PHP Aspose.Cells., EXCEL to DIF in PHP., PHP EXCEL to DIF saveformat., EXCEL to DIF PHP., PHP Convert EXCEL to DIF., Save EXCEL to DIF PHP., EXCEL to DIF Converter., Save EXCEL as DIF]
+description: Aspose Excel. Convert EXCEL to DIF quickly and easily with Aspose.Cells. PHP EXCEL to DIF. PHP Save EXCEL to DIF. Save EXCEL as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to DIF in PHP., Save EXCEL to DIF using PHP., PHP EXCEL to DIF saveformat., EXCEL to DIF Converter., PHP Save EXCEL as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

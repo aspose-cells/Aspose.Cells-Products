@@ -1,7 +1,7 @@
 ---
 title: Python OTS to XML - OTS to XML Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to XML in Python. Python Convert OTS to XML saveformat. Python OTS to XML format. Save OTS to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to XML in Python., Python OTS to XML saveformat., OTS to XML Python., Python Convert OTS to XML]
+description: Aspose Excel. Convert OTS to XML quickly and easily with Aspose.Cells. Python OTS to XML. Python Save OTS to XML. Save OTS as XML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to XML in Python., Save OTS to XML using Python., Python OTS to XML saveformat., OTS to XML Converter., Python Save OTS as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

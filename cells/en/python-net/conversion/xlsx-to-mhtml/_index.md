@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to MHTML - XLSX to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to MHTML in Python. Python Convert XLSX to MHTML saveformat. Python XLSX to MHTML format. Save XLSX to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to MHTML in Python., Python XLSX to MHTML saveformat., XLSX to MHTML Python., Python Convert XLSX to MHTML]
+description: Aspose Excel. Convert XLSX to MHTML quickly and easily with Aspose.Cells. Python XLSX to MHTML. Python Save XLSX to MHTML. Save XLSX as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to MHTML in Python., Save XLSX to MHTML using Python., Python XLSX to MHTML saveformat., XLSX to MHTML Converter., Python Save XLSX as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

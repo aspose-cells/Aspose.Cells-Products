@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to HTM - JPEG to HTM Converter
-description: Aspose Excel. Python Aspose.Cells. JPEG to HTM in Python. Python Convert JPEG to HTM saveformat. Python JPEG to HTM format. Save JPEG to HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPEG to HTM in Python., Python JPEG to HTM saveformat., JPEG to HTM Python., Python Convert JPEG to HTM]
+description: Aspose Excel. Convert JPEG to HTM quickly and easily with Aspose.Cells. Python JPEG to HTM. Python Save JPEG to HTM. Save JPEG as HTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to HTM in Python., Save JPEG to HTM using Python., Python JPEG to HTM saveformat., JPEG to HTM Converter., Python Save JPEG as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

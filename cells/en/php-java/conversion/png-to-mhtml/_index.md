@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to MHTML - PNG to MHTML Converter
-description: PHP Aspose.Cells. PNG to MHTML in PHP. PHP Convert PNG to MHTML saveformat. PHP PNG to MHTML Converter. Save PNG to MHTML PHP.
-keywords: [PHP Aspose.Cells., PNG to MHTML in PHP., PHP PNG to MHTML saveformat., PNG to MHTML PHP., PHP Convert PNG to MHTML., Save PNG to MHTML PHP., PNG to MHTML Converter., Save PNG as MHTML]
+description: Aspose Excel. Convert PNG to MHTML quickly and easily with Aspose.Cells. PHP PNG to MHTML. PHP Save PNG to MHTML. Save PNG as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to MHTML in PHP., Save PNG to MHTML using PHP., PHP PNG to MHTML saveformat., PNG to MHTML Converter., PHP Save PNG as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

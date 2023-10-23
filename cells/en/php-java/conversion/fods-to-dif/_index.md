@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to DIF - FODS to DIF Converter
-description: PHP Aspose.Cells. FODS to DIF in PHP. PHP Convert FODS to DIF saveformat. PHP FODS to DIF Converter. Save FODS to DIF PHP.
-keywords: [PHP Aspose.Cells., FODS to DIF in PHP., PHP FODS to DIF saveformat., FODS to DIF PHP., PHP Convert FODS to DIF., Save FODS to DIF PHP., FODS to DIF Converter., Save FODS as DIF]
+description: Aspose Excel. Convert FODS to DIF quickly and easily with Aspose.Cells. PHP FODS to DIF. PHP Save FODS to DIF. Save FODS as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to DIF in PHP., Save FODS to DIF using PHP., PHP FODS to DIF saveformat., FODS to DIF Converter., PHP Save FODS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

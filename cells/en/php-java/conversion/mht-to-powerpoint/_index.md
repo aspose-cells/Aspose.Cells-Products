@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to POWERPOINT - MHT to POWERPOINT Converter
-description: PHP Aspose.Cells. MHT to POWERPOINT in PHP. PHP Convert MHT to POWERPOINT saveformat. PHP MHT to POWERPOINT Converter. Save MHT to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., MHT to POWERPOINT in PHP., PHP MHT to POWERPOINT saveformat., MHT to POWERPOINT PHP., PHP Convert MHT to POWERPOINT., Save MHT to POWERPOINT PHP., MHT to POWERPOINT Converter., Save MHT as POWERPOINT]
+description: Aspose Excel. Convert MHT to POWERPOINT quickly and easily with Aspose.Cells. PHP MHT to POWERPOINT. PHP Save MHT to POWERPOINT. Save MHT as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to POWERPOINT in PHP., Save MHT to POWERPOINT using PHP., PHP MHT to POWERPOINT saveformat., MHT to POWERPOINT Converter., PHP Save MHT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

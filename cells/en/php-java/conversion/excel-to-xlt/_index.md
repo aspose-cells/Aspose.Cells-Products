@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to XLT - EXCEL to XLT Converter
-description: PHP Aspose.Cells. EXCEL to XLT in PHP. PHP Convert EXCEL to XLT saveformat. PHP EXCEL to XLT Converter. Save EXCEL to XLT PHP.
-keywords: [PHP Aspose.Cells., EXCEL to XLT in PHP., PHP EXCEL to XLT saveformat., EXCEL to XLT PHP., PHP Convert EXCEL to XLT., Save EXCEL to XLT PHP., EXCEL to XLT Converter., Save EXCEL as XLT]
+description: Aspose Excel. Convert EXCEL to XLT quickly and easily with Aspose.Cells. PHP EXCEL to XLT. PHP Save EXCEL to XLT. Save EXCEL as XLT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to XLT in PHP., Save EXCEL to XLT using PHP., PHP EXCEL to XLT saveformat., EXCEL to XLT Converter., PHP Save EXCEL as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

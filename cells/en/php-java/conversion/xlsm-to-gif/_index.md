@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to GIF - XLSM to GIF Converter
-description: PHP Aspose.Cells. XLSM to GIF in PHP. PHP Convert XLSM to GIF saveformat. PHP XLSM to GIF Converter. Save XLSM to GIF PHP.
-keywords: [PHP Aspose.Cells., XLSM to GIF in PHP., PHP XLSM to GIF saveformat., XLSM to GIF PHP., PHP Convert XLSM to GIF., Save XLSM to GIF PHP., XLSM to GIF Converter., Save XLSM as GIF]
+description: Aspose Excel. Convert XLSM to GIF quickly and easily with Aspose.Cells. PHP XLSM to GIF. PHP Save XLSM to GIF. Save XLSM as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to GIF in PHP., Save XLSM to GIF using PHP., PHP XLSM to GIF saveformat., XLSM to GIF Converter., PHP Save XLSM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

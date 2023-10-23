@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to PDF - SXC to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to PDF in C++. C++ Convert SXC to PDF saveformat. C++ SXC to PDF format. Save SXC to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to PDF in C++., C++ SXC to PDF saveformat., SXC to PDF C++., C++ Convert SXC to PDF]
+description: Aspose Excel. Convert SXC to PDF quickly and easily with Aspose.Cells. C++ SXC to PDF. C++ Save SXC to PDF. Save SXC as PDF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to PDF in C++., Save SXC to PDF using C++., C++ SXC to PDF saveformat., SXC to PDF Converter., C++ Save SXC as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

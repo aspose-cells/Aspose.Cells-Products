@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to EXCEL - MHT to EXCEL Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to EXCEL in C++. C++ Convert MHT to EXCEL saveformat. C++ MHT to EXCEL format. Save MHT to EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to EXCEL in C++., C++ MHT to EXCEL saveformat., MHT to EXCEL C++., C++ Convert MHT to EXCEL]
+description: Aspose Excel. Convert MHT to EXCEL quickly and easily with Aspose.Cells. C++ MHT to EXCEL. C++ Save MHT to EXCEL. Save MHT as EXCEL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to EXCEL in C++., Save MHT to EXCEL using C++., C++ MHT to EXCEL saveformat., MHT to EXCEL Converter., C++ Save MHT as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

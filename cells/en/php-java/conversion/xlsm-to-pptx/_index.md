@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to PPTX - XLSM to PPTX Converter
-description: PHP Aspose.Cells. XLSM to PPTX in PHP. PHP Convert XLSM to PPTX saveformat. PHP XLSM to PPTX Converter. Save XLSM to PPTX PHP.
-keywords: [PHP Aspose.Cells., XLSM to PPTX in PHP., PHP XLSM to PPTX saveformat., XLSM to PPTX PHP., PHP Convert XLSM to PPTX., Save XLSM to PPTX PHP., XLSM to PPTX Converter., Save XLSM as PPTX]
+description: Aspose Excel. Convert XLSM to PPTX quickly and easily with Aspose.Cells. PHP XLSM to PPTX. PHP Save XLSM to PPTX. Save XLSM as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to PPTX in PHP., Save XLSM to PPTX using PHP., PHP XLSM to PPTX saveformat., XLSM to PPTX Converter., PHP Save XLSM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

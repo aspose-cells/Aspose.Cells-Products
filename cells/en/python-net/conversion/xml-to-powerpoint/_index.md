@@ -1,7 +1,7 @@
 ---
 title: Python XML to POWERPOINT - XML to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. XML to POWERPOINT in Python. Python Convert XML to POWERPOINT saveformat. Python XML to POWERPOINT format. Save XML to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to POWERPOINT in Python., Python XML to POWERPOINT saveformat., XML to POWERPOINT Python., Python Convert XML to POWERPOINT]
+description: Aspose Excel. Convert XML to POWERPOINT quickly and easily with Aspose.Cells. Python XML to POWERPOINT. Python Save XML to POWERPOINT. Save XML as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to POWERPOINT in Python., Save XML to POWERPOINT using Python., Python XML to POWERPOINT saveformat., XML to POWERPOINT Converter., Python Save XML as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

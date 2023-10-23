@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to ET - XLTM to ET Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to ET in Python. Python Convert XLTM to ET saveformat. Python XLTM to ET format. Save XLTM to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to ET in Python., Python XLTM to ET saveformat., XLTM to ET Python., Python Convert XLTM to ET]
+description: Aspose Excel. Convert XLTM to ET quickly and easily with Aspose.Cells. Python XLTM to ET. Python Save XLTM to ET. Save XLTM as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to ET in Python., Save XLTM to ET using Python., Python XLTM to ET saveformat., XLTM to ET Converter., Python Save XLTM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

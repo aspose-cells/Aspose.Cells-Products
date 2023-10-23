@@ -1,7 +1,7 @@
 ---
 title: Python PNG to ET - PNG to ET Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to ET in Python. Python Convert PNG to ET saveformat. Python PNG to ET format. Save PNG to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to ET in Python., Python PNG to ET saveformat., PNG to ET Python., Python Convert PNG to ET]
+description: Aspose Excel. Convert PNG to ET quickly and easily with Aspose.Cells. Python PNG to ET. Python Save PNG to ET. Save PNG as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to ET in Python., Save PNG to ET using Python., Python PNG to ET saveformat., PNG to ET Converter., Python Save PNG as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

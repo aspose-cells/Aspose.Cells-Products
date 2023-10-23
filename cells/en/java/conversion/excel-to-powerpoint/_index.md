@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to POWERPOINT - EXCEL to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to POWERPOINT in Java. Java Convert EXCEL to POWERPOINT saveformat. Java EXCEL to POWERPOINT format. Save EXCEL to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to POWERPOINT in Java., Java EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Java., Java Convert EXCEL to POWERPOINT]
+description: Aspose Excel. Convert EXCEL to POWERPOINT quickly and easily with Aspose.Cells. Java EXCEL to POWERPOINT. Java Save EXCEL to POWERPOINT. Save EXCEL as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to POWERPOINT in Java., Save EXCEL to POWERPOINT using Java., Java EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Converter., Java Save EXCEL as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

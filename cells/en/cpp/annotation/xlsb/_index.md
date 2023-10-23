@@ -1,8 +1,9 @@
 ---
-title: Add Excel File XLSB Annotation via C++ 
+title: Add or Remove Excel File XLSB Annotation via C++ 
 weight: 860
 
 description: C++ sample code to delete XLSB format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

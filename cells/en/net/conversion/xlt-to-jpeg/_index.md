@@ -1,7 +1,7 @@
 ---
 title: C# XLT to JPEG - XLT to JPEG Converter
-description: Aspose Excel. C# Aspose.Cells. XLT to JPEG in C#. C# Convert XLT to JPEG saveformat. C# XLT to JPEG format. Save XLT to JPEG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLT to JPEG in C#., C# XLT to JPEG saveformat., XLT to JPEG C#., C# Convert XLT to JPEG]
+description: Aspose Excel. Convert XLT to JPEG quickly and easily with Aspose.Cells. C# XLT to JPEG. C# Save XLT to JPEG. Save XLT as JPEG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to JPEG in C#., Save XLT to JPEG using C#., C# XLT to JPEG saveformat., XLT to JPEG Converter., C# Save XLT as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

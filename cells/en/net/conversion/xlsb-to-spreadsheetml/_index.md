@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to SPREADSHEETML - XLSB to SPREADSHEETML Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to SPREADSHEETML in C#. C# Convert XLSB to SPREADSHEETML saveformat. C# XLSB to SPREADSHEETML format. Save XLSB to SPREADSHEETML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to SPREADSHEETML in C#., C# XLSB to SPREADSHEETML saveformat., XLSB to SPREADSHEETML C#., C# Convert XLSB to SPREADSHEETML]
+description: Aspose Excel. Convert XLSB to SPREADSHEETML quickly and easily with Aspose.Cells. C# XLSB to SPREADSHEETML. C# Save XLSB to SPREADSHEETML. Save XLSB as SPREADSHEETML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to SPREADSHEETML in C#., Save XLSB to SPREADSHEETML using C#., C# XLSB to SPREADSHEETML saveformat., XLSB to SPREADSHEETML Converter., C# Save XLSB as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to MHT - JSON to MHT Converter
-description: PHP Aspose.Cells. JSON to MHT in PHP. PHP Convert JSON to MHT saveformat. PHP JSON to MHT Converter. Save JSON to MHT PHP.
-keywords: [PHP Aspose.Cells., JSON to MHT in PHP., PHP JSON to MHT saveformat., JSON to MHT PHP., PHP Convert JSON to MHT., Save JSON to MHT PHP., JSON to MHT Converter., Save JSON as MHT]
+description: Aspose Excel. Convert JSON to MHT quickly and easily with Aspose.Cells. PHP JSON to MHT. PHP Save JSON to MHT. Save JSON as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to MHT in PHP., Save JSON to MHT using PHP., PHP JSON to MHT saveformat., JSON to MHT Converter., PHP Save JSON as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

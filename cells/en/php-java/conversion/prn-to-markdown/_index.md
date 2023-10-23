@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to MARKDOWN - PRN to MARKDOWN Converter
-description: PHP Aspose.Cells. PRN to MARKDOWN in PHP. PHP Convert PRN to MARKDOWN saveformat. PHP PRN to MARKDOWN Converter. Save PRN to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., PRN to MARKDOWN in PHP., PHP PRN to MARKDOWN saveformat., PRN to MARKDOWN PHP., PHP Convert PRN to MARKDOWN., Save PRN to MARKDOWN PHP., PRN to MARKDOWN Converter., Save PRN as MARKDOWN]
+description: Aspose Excel. Convert PRN to MARKDOWN quickly and easily with Aspose.Cells. PHP PRN to MARKDOWN. PHP Save PRN to MARKDOWN. Save PRN as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to MARKDOWN in PHP., Save PRN to MARKDOWN using PHP., PHP PRN to MARKDOWN saveformat., PRN to MARKDOWN Converter., PHP Save PRN as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

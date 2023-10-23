@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to DOCX - XLTX to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to DOCX in Python. Python Convert XLTX to DOCX saveformat. Python XLTX to DOCX format. Save XLTX to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to DOCX in Python., Python XLTX to DOCX saveformat., XLTX to DOCX Python., Python Convert XLTX to DOCX]
+description: Aspose Excel. Convert XLTX to DOCX quickly and easily with Aspose.Cells. Python XLTX to DOCX. Python Save XLTX to DOCX. Save XLTX as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to DOCX in Python., Save XLTX to DOCX using Python., Python XLTX to DOCX saveformat., XLTX to DOCX Converter., Python Save XLTX as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to EXCEL - XLSX to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to EXCEL in C#. C# Convert XLSX to EXCEL saveformat. C# XLSX to EXCEL format. Save XLSX to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to EXCEL in C#., C# XLSX to EXCEL saveformat., XLSX to EXCEL C#., C# Convert XLSX to EXCEL]
+description: Aspose Excel. Convert XLSX to EXCEL quickly and easily with Aspose.Cells. C# XLSX to EXCEL. C# Save XLSX to EXCEL. Save XLSX as EXCEL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to EXCEL in C#., Save XLSX to EXCEL using C#., C# XLSX to EXCEL saveformat., XLSX to EXCEL Converter., C# Save XLSX as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to EMF - XLTX to EMF Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to EMF in C#. C# Convert XLTX to EMF saveformat. C# XLTX to EMF format. Save XLTX to EMF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to EMF in C#., C# XLTX to EMF saveformat., XLTX to EMF C#., C# Convert XLTX to EMF]
+description: Aspose Excel. Convert XLTX to EMF quickly and easily with Aspose.Cells. C# XLTX to EMF. C# Save XLTX to EMF. Save XLTX as EMF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to EMF in C#., Save XLTX to EMF using C#., C# XLTX to EMF saveformat., XLTX to EMF Converter., C# Save XLTX as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

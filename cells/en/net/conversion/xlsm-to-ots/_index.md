@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to OTS - XLSM to OTS Converter
-description: Aspose Excel. C# Aspose.Cells. XLSM to OTS in C#. C# Convert XLSM to OTS saveformat. C# XLSM to OTS format. Save XLSM to OTS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSM to OTS in C#., C# XLSM to OTS saveformat., XLSM to OTS C#., C# Convert XLSM to OTS]
+description: Aspose Excel. Convert XLSM to OTS quickly and easily with Aspose.Cells. C# XLSM to OTS. C# Save XLSM to OTS. Save XLSM as OTS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to OTS in C#., Save XLSM to OTS using C#., C# XLSM to OTS saveformat., XLSM to OTS Converter., C# Save XLSM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

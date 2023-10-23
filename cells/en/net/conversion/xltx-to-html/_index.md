@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to HTML - XLTX to HTML Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to HTML in C#. C# Convert XLTX to HTML saveformat. C# XLTX to HTML format. Save XLTX to HTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to HTML in C#., C# XLTX to HTML saveformat., XLTX to HTML C#., C# Convert XLTX to HTML]
+description: Aspose Excel. Convert XLTX to HTML quickly and easily with Aspose.Cells. C# XLTX to HTML. C# Save XLTX to HTML. Save XLTX as HTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to HTML in C#., Save XLTX to HTML using C#., C# XLTX to HTML saveformat., XLTX to HTML Converter., C# Save XLTX as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

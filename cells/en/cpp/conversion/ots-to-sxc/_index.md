@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to SXC - OTS to SXC Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to SXC in C++. C++ Convert OTS to SXC saveformat. C++ OTS to SXC format. Save OTS to SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to SXC in C++., C++ OTS to SXC saveformat., OTS to SXC C++., C++ Convert OTS to SXC]
+description: Aspose Excel. Convert OTS to SXC quickly and easily with Aspose.Cells. C++ OTS to SXC. C++ Save OTS to SXC. Save OTS as SXC using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to SXC in C++., Save OTS to SXC using C++., C++ OTS to SXC saveformat., OTS to SXC Converter., C++ Save OTS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

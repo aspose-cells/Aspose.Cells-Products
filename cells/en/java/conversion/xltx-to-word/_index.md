@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to WORD - XLTX to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to WORD in Java. Java Convert XLTX to WORD saveformat. Java XLTX to WORD format. Save XLTX to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to WORD in Java., Java XLTX to WORD saveformat., XLTX to WORD Java., Java Convert XLTX to WORD]
+description: Aspose Excel. Convert XLTX to WORD quickly and easily with Aspose.Cells. Java XLTX to WORD. Java Save XLTX to WORD. Save XLTX as WORD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to WORD in Java., Save XLTX to WORD using Java., Java XLTX to WORD saveformat., XLTX to WORD Converter., Java Save XLTX as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

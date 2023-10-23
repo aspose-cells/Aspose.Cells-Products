@@ -1,7 +1,7 @@
 ---
 title: C# PNG to MHTML - PNG to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. PNG to MHTML in C#. C# Convert PNG to MHTML saveformat. C# PNG to MHTML format. Save PNG to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PNG to MHTML in C#., C# PNG to MHTML saveformat., PNG to MHTML C#., C# Convert PNG to MHTML]
+description: Aspose Excel. Convert PNG to MHTML quickly and easily with Aspose.Cells. C# PNG to MHTML. C# Save PNG to MHTML. Save PNG as MHTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to MHTML in C#., Save PNG to MHTML using C#., C# PNG to MHTML saveformat., PNG to MHTML Converter., C# Save PNG as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

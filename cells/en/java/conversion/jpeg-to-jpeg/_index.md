@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to JPEG - JPEG to JPEG Converter
-description: Aspose Excel. Java Aspose.Cells. JPEG to JPEG in Java. Java Convert JPEG to JPEG saveformat. Java JPEG to JPEG format. Save JPEG to JPEG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPEG to JPEG in Java., Java JPEG to JPEG saveformat., JPEG to JPEG Java., Java Convert JPEG to JPEG]
+description: Aspose Excel. Convert JPEG to JPEG quickly and easily with Aspose.Cells. Java JPEG to JPEG. Java Save JPEG to JPEG. Save JPEG as JPEG using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to JPEG in Java., Save JPEG to JPEG using Java., Java JPEG to JPEG saveformat., JPEG to JPEG Converter., Java Save JPEG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

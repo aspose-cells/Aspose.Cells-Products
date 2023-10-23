@@ -1,7 +1,7 @@
 ---
 title: C# MHT to PPTX - MHT to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to PPTX in C#. C# Convert MHT to PPTX saveformat. C# MHT to PPTX format. Save MHT to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to PPTX in C#., C# MHT to PPTX saveformat., MHT to PPTX C#., C# Convert MHT to PPTX]
+description: Aspose Excel. Convert MHT to PPTX quickly and easily with Aspose.Cells. C# MHT to PPTX. C# Save MHT to PPTX. Save MHT as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to PPTX in C#., Save MHT to PPTX using C#., C# MHT to PPTX saveformat., MHT to PPTX Converter., C# Save MHT as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

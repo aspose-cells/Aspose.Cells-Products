@@ -1,7 +1,7 @@
 ---
 title: Python HTML to FODS - HTML to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to FODS in Python. Python Convert HTML to FODS saveformat. Python HTML to FODS format. Save HTML to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to FODS in Python., Python HTML to FODS saveformat., HTML to FODS Python., Python Convert HTML to FODS]
+description: Aspose Excel. Convert HTML to FODS quickly and easily with Aspose.Cells. Python HTML to FODS. Python Save HTML to FODS. Save HTML as FODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to FODS in Python., Save HTML to FODS using Python., Python HTML to FODS saveformat., HTML to FODS Converter., Python Save HTML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

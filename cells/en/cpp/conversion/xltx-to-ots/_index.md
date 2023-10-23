@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to OTS - XLTX to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to OTS in C++. C++ Convert XLTX to OTS saveformat. C++ XLTX to OTS format. Save XLTX to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to OTS in C++., C++ XLTX to OTS saveformat., XLTX to OTS C++., C++ Convert XLTX to OTS]
+description: Aspose Excel. Convert XLTX to OTS quickly and easily with Aspose.Cells. C++ XLTX to OTS. C++ Save XLTX to OTS. Save XLTX as OTS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to OTS in C++., Save XLTX to OTS using C++., C++ XLTX to OTS saveformat., XLTX to OTS Converter., C++ Save XLTX as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

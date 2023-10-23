@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to JPG - TXT to JPG Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to JPG in C++. C++ Convert TXT to JPG saveformat. C++ TXT to JPG format. Save TXT to JPG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to JPG in C++., C++ TXT to JPG saveformat., TXT to JPG C++., C++ Convert TXT to JPG]
+description: Aspose Excel. Convert TXT to JPG quickly and easily with Aspose.Cells. C++ TXT to JPG. C++ Save TXT to JPG. Save TXT as JPG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to JPG in C++., Save TXT to JPG using C++., C++ TXT to JPG saveformat., TXT to JPG Converter., C++ Save TXT as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

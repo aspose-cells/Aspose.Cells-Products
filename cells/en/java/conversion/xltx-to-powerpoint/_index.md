@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to POWERPOINT - XLTX to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to POWERPOINT in Java. Java Convert XLTX to POWERPOINT saveformat. Java XLTX to POWERPOINT format. Save XLTX to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to POWERPOINT in Java., Java XLTX to POWERPOINT saveformat., XLTX to POWERPOINT Java., Java Convert XLTX to POWERPOINT]
+description: Aspose Excel. Convert XLTX to POWERPOINT quickly and easily with Aspose.Cells. Java XLTX to POWERPOINT. Java Save XLTX to POWERPOINT. Save XLTX as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to POWERPOINT in Java., Save XLTX to POWERPOINT using Java., Java XLTX to POWERPOINT saveformat., XLTX to POWERPOINT Converter., Java Save XLTX as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

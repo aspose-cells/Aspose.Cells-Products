@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to CSV - EXCEL to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to CSV in Python. Python Convert EXCEL to CSV saveformat. Python EXCEL to CSV format. Save EXCEL to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to CSV in Python., Python EXCEL to CSV saveformat., EXCEL to CSV Python., Python Convert EXCEL to CSV]
+description: Aspose Excel. Convert EXCEL to CSV quickly and easily with Aspose.Cells. Python EXCEL to CSV. Python Save EXCEL to CSV. Save EXCEL as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to CSV in Python., Save EXCEL to CSV using Python., Python EXCEL to CSV saveformat., EXCEL to CSV Converter., Python Save EXCEL as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

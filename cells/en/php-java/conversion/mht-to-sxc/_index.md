@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to SXC - MHT to SXC Converter
-description: PHP Aspose.Cells. MHT to SXC in PHP. PHP Convert MHT to SXC saveformat. PHP MHT to SXC Converter. Save MHT to SXC PHP.
-keywords: [PHP Aspose.Cells., MHT to SXC in PHP., PHP MHT to SXC saveformat., MHT to SXC PHP., PHP Convert MHT to SXC., Save MHT to SXC PHP., MHT to SXC Converter., Save MHT as SXC]
+description: Aspose Excel. Convert MHT to SXC quickly and easily with Aspose.Cells. PHP MHT to SXC. PHP Save MHT to SXC. Save MHT as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to SXC in PHP., Save MHT to SXC using PHP., PHP MHT to SXC saveformat., MHT to SXC Converter., PHP Save MHT as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

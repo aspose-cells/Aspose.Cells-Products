@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to PPTX - NUMBERS to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. NUMBERS to PPTX in C++. C++ Convert NUMBERS to PPTX saveformat. C++ NUMBERS to PPTX format. Save NUMBERS to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to PPTX in C++., C++ NUMBERS to PPTX saveformat., NUMBERS to PPTX C++., C++ Convert NUMBERS to PPTX]
+description: Aspose Excel. Convert NUMBERS to PPTX quickly and easily with Aspose.Cells. C++ NUMBERS to PPTX. C++ Save NUMBERS to PPTX. Save NUMBERS as PPTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to PPTX in C++., Save NUMBERS to PPTX using C++., C++ NUMBERS to PPTX saveformat., NUMBERS to PPTX Converter., C++ Save NUMBERS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

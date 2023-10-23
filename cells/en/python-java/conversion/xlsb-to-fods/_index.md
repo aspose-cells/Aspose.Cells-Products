@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to FODS - XLSB to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to FODS in Python. Python Convert XLSB to FODS saveformat. Python XLSB to FODS format. Save XLSB to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to FODS in Python., Python XLSB to FODS saveformat., XLSB to FODS Python., Python Convert XLSB to FODS]
+description: Aspose Excel. Convert XLSB to FODS quickly and easily with Aspose.Cells. Python XLSB to FODS. Python Save XLSB to FODS. Save XLSB as FODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to FODS in Python., Save XLSB to FODS using Python., Python XLSB to FODS saveformat., XLSB to FODS Converter., Python Save XLSB as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

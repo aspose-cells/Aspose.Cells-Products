@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED to ET - TABDELIMITED to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. TABDELIMITED to ET in C++. C++ Convert TABDELIMITED to ET saveformat. C++ TABDELIMITED to ET format. Save TABDELIMITED to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TABDELIMITED to ET in C++., C++ TABDELIMITED to ET saveformat., TABDELIMITED to ET C++., C++ Convert TABDELIMITED to ET]
+description: Aspose Excel. Convert TABDELIMITED to ET quickly and easily with Aspose.Cells. C++ TABDELIMITED to ET. C++ Save TABDELIMITED to ET. Save TABDELIMITED as ET using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to ET in C++., Save TABDELIMITED to ET using C++., C++ TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., C++ Save TABDELIMITED as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

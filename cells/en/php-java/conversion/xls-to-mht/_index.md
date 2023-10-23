@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to MHT - XLS to MHT Converter
-description: PHP Aspose.Cells. XLS to MHT in PHP. PHP Convert XLS to MHT saveformat. PHP XLS to MHT Converter. Save XLS to MHT PHP.
-keywords: [PHP Aspose.Cells., XLS to MHT in PHP., PHP XLS to MHT saveformat., XLS to MHT PHP., PHP Convert XLS to MHT., Save XLS to MHT PHP., XLS to MHT Converter., Save XLS as MHT]
+description: Aspose Excel. Convert XLS to MHT quickly and easily with Aspose.Cells. PHP XLS to MHT. PHP Save XLS to MHT. Save XLS as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to MHT in PHP., Save XLS to MHT using PHP., PHP XLS to MHT saveformat., XLS to MHT Converter., PHP Save XLS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to DIF - TABDELIMITED to DIF Converter
-description: PHP Aspose.Cells. TABDELIMITED to DIF in PHP. PHP Convert TABDELIMITED to DIF saveformat. PHP TABDELIMITED to DIF Converter. Save TABDELIMITED to DIF PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to DIF in PHP., PHP TABDELIMITED to DIF saveformat., TABDELIMITED to DIF PHP., PHP Convert TABDELIMITED to DIF., Save TABDELIMITED to DIF PHP., TABDELIMITED to DIF Converter., Save TABDELIMITED as DIF]
+description: Aspose Excel. Convert TABDELIMITED to DIF quickly and easily with Aspose.Cells. PHP TABDELIMITED to DIF. PHP Save TABDELIMITED to DIF. Save TABDELIMITED as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to DIF in PHP., Save TABDELIMITED to DIF using PHP., PHP TABDELIMITED to DIF saveformat., TABDELIMITED to DIF Converter., PHP Save TABDELIMITED as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

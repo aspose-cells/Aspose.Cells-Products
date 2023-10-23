@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to XLSM - TXT to XLSM Converter
-description: PHP Aspose.Cells. TXT to XLSM in PHP. PHP Convert TXT to XLSM saveformat. PHP TXT to XLSM Converter. Save TXT to XLSM PHP.
-keywords: [PHP Aspose.Cells., TXT to XLSM in PHP., PHP TXT to XLSM saveformat., TXT to XLSM PHP., PHP Convert TXT to XLSM., Save TXT to XLSM PHP., TXT to XLSM Converter., Save TXT as XLSM]
+description: Aspose Excel. Convert TXT to XLSM quickly and easily with Aspose.Cells. PHP TXT to XLSM. PHP Save TXT to XLSM. Save TXT as XLSM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to XLSM in PHP., Save TXT to XLSM using PHP., PHP TXT to XLSM saveformat., TXT to XLSM Converter., PHP Save TXT as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

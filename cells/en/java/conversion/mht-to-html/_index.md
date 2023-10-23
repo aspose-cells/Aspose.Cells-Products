@@ -1,7 +1,7 @@
 ---
 title: Java MHT to HTML - MHT to HTML Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to HTML in Java. Java Convert MHT to HTML saveformat. Java MHT to HTML format. Save MHT to HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to HTML in Java., Java MHT to HTML saveformat., MHT to HTML Java., Java Convert MHT to HTML]
+description: Aspose Excel. Convert MHT to HTML quickly and easily with Aspose.Cells. Java MHT to HTML. Java Save MHT to HTML. Save MHT as HTML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to HTML in Java., Save MHT to HTML using Java., Java MHT to HTML saveformat., MHT to HTML Converter., Java Save MHT as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to PRN - SPREADSHEETML to PRN Converter
-description: PHP Aspose.Cells. SPREADSHEETML to PRN in PHP. PHP Convert SPREADSHEETML to PRN saveformat. PHP SPREADSHEETML to PRN Converter. Save SPREADSHEETML to PRN PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to PRN in PHP., PHP SPREADSHEETML to PRN saveformat., SPREADSHEETML to PRN PHP., PHP Convert SPREADSHEETML to PRN., Save SPREADSHEETML to PRN PHP., SPREADSHEETML to PRN Converter., Save SPREADSHEETML as PRN]
+description: Aspose Excel. Convert SPREADSHEETML to PRN quickly and easily with Aspose.Cells. PHP SPREADSHEETML to PRN. PHP Save SPREADSHEETML to PRN. Save SPREADSHEETML as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to PRN in PHP., Save SPREADSHEETML to PRN using PHP., PHP SPREADSHEETML to PRN saveformat., SPREADSHEETML to PRN Converter., PHP Save SPREADSHEETML as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

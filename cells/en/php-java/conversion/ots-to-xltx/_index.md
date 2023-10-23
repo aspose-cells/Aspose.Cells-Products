@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to XLTX - OTS to XLTX Converter
-description: PHP Aspose.Cells. OTS to XLTX in PHP. PHP Convert OTS to XLTX saveformat. PHP OTS to XLTX Converter. Save OTS to XLTX PHP.
-keywords: [PHP Aspose.Cells., OTS to XLTX in PHP., PHP OTS to XLTX saveformat., OTS to XLTX PHP., PHP Convert OTS to XLTX., Save OTS to XLTX PHP., OTS to XLTX Converter., Save OTS as XLTX]
+description: Aspose Excel. Convert OTS to XLTX quickly and easily with Aspose.Cells. PHP OTS to XLTX. PHP Save OTS to XLTX. Save OTS as XLTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to XLTX in PHP., Save OTS to XLTX using PHP., PHP OTS to XLTX saveformat., OTS to XLTX Converter., PHP Save OTS as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

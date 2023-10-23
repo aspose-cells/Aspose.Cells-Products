@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to PPTX - EXCEL to PPTX Converter
-description: PHP Aspose.Cells. EXCEL to PPTX in PHP. PHP Convert EXCEL to PPTX saveformat. PHP EXCEL to PPTX Converter. Save EXCEL to PPTX PHP.
-keywords: [PHP Aspose.Cells., EXCEL to PPTX in PHP., PHP EXCEL to PPTX saveformat., EXCEL to PPTX PHP., PHP Convert EXCEL to PPTX., Save EXCEL to PPTX PHP., EXCEL to PPTX Converter., Save EXCEL as PPTX]
+description: Aspose Excel. Convert EXCEL to PPTX quickly and easily with Aspose.Cells. PHP EXCEL to PPTX. PHP Save EXCEL to PPTX. Save EXCEL as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to PPTX in PHP., Save EXCEL to PPTX using PHP., PHP EXCEL to PPTX saveformat., EXCEL to PPTX Converter., PHP Save EXCEL as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

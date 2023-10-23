@@ -1,7 +1,7 @@
 ---
 title: C# HTML to ET - HTML to ET Converter
-description: Aspose Excel. C# Aspose.Cells. HTML to ET in C#. C# Convert HTML to ET saveformat. C# HTML to ET format. Save HTML to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTML to ET in C#., C# HTML to ET saveformat., HTML to ET C#., C# Convert HTML to ET]
+description: Aspose Excel. Convert HTML to ET quickly and easily with Aspose.Cells. C# HTML to ET. C# Save HTML to ET. Save HTML as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to ET in C#., Save HTML to ET using C#., C# HTML to ET saveformat., HTML to ET Converter., C# Save HTML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

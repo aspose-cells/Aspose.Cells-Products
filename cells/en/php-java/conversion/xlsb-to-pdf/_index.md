@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to PDF - XLSB to PDF Converter
-description: PHP Aspose.Cells. XLSB to PDF in PHP. PHP Convert XLSB to PDF saveformat. PHP XLSB to PDF Converter. Save XLSB to PDF PHP.
-keywords: [PHP Aspose.Cells., XLSB to PDF in PHP., PHP XLSB to PDF saveformat., XLSB to PDF PHP., PHP Convert XLSB to PDF., Save XLSB to PDF PHP., XLSB to PDF Converter., Save XLSB as PDF]
+description: Aspose Excel. Convert XLSB to PDF quickly and easily with Aspose.Cells. PHP XLSB to PDF. PHP Save XLSB to PDF. Save XLSB as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to PDF in PHP., Save XLSB to PDF using PHP., PHP XLSB to PDF saveformat., XLSB to PDF Converter., PHP Save XLSB as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

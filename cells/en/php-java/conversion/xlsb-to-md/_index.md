@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to MD - XLSB to MD Converter
-description: PHP Aspose.Cells. XLSB to MD in PHP. PHP Convert XLSB to MD saveformat. PHP XLSB to MD Converter. Save XLSB to MD PHP.
-keywords: [PHP Aspose.Cells., XLSB to MD in PHP., PHP XLSB to MD saveformat., XLSB to MD PHP., PHP Convert XLSB to MD., Save XLSB to MD PHP., XLSB to MD Converter., Save XLSB as MD]
+description: Aspose Excel. Convert XLSB to MD quickly and easily with Aspose.Cells. PHP XLSB to MD. PHP Save XLSB to MD. Save XLSB as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to MD in PHP., Save XLSB to MD using PHP., PHP XLSB to MD saveformat., XLSB to MD Converter., PHP Save XLSB as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

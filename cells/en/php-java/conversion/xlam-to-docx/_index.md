@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to DOCX - XLAM to DOCX Converter
-description: PHP Aspose.Cells. XLAM to DOCX in PHP. PHP Convert XLAM to DOCX saveformat. PHP XLAM to DOCX Converter. Save XLAM to DOCX PHP.
-keywords: [PHP Aspose.Cells., XLAM to DOCX in PHP., PHP XLAM to DOCX saveformat., XLAM to DOCX PHP., PHP Convert XLAM to DOCX., Save XLAM to DOCX PHP., XLAM to DOCX Converter., Save XLAM as DOCX]
+description: Aspose Excel. Convert XLAM to DOCX quickly and easily with Aspose.Cells. PHP XLAM to DOCX. PHP Save XLAM to DOCX. Save XLAM as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to DOCX in PHP., Save XLAM to DOCX using PHP., PHP XLAM to DOCX saveformat., XLAM to DOCX Converter., PHP Save XLAM as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

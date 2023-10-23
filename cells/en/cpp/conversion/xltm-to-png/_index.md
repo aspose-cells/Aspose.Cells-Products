@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to PNG - XLTM to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to PNG in C++. C++ Convert XLTM to PNG saveformat. C++ XLTM to PNG format. Save XLTM to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to PNG in C++., C++ XLTM to PNG saveformat., XLTM to PNG C++., C++ Convert XLTM to PNG]
+description: Aspose Excel. Convert XLTM to PNG quickly and easily with Aspose.Cells. C++ XLTM to PNG. C++ Save XLTM to PNG. Save XLTM as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to PNG in C++., Save XLTM to PNG using C++., C++ XLTM to PNG saveformat., XLTM to PNG Converter., C++ Save XLTM as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

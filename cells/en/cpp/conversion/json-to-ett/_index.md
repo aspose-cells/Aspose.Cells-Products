@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to ETT - JSON to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to ETT in C++. C++ Convert JSON to ETT saveformat. C++ JSON to ETT format. Save JSON to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to ETT in C++., C++ JSON to ETT saveformat., JSON to ETT C++., C++ Convert JSON to ETT]
+description: Aspose Excel. Convert JSON to ETT quickly and easily with Aspose.Cells. C++ JSON to ETT. C++ Save JSON to ETT. Save JSON as ETT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to ETT in C++., Save JSON to ETT using C++., C++ JSON to ETT saveformat., JSON to ETT Converter., C++ Save JSON as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

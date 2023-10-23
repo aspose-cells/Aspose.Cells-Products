@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to TIFF - TXT to TIFF Converter
-description: PHP Aspose.Cells. TXT to TIFF in PHP. PHP Convert TXT to TIFF saveformat. PHP TXT to TIFF Converter. Save TXT to TIFF PHP.
-keywords: [PHP Aspose.Cells., TXT to TIFF in PHP., PHP TXT to TIFF saveformat., TXT to TIFF PHP., PHP Convert TXT to TIFF., Save TXT to TIFF PHP., TXT to TIFF Converter., Save TXT as TIFF]
+description: Aspose Excel. Convert TXT to TIFF quickly and easily with Aspose.Cells. PHP TXT to TIFF. PHP Save TXT to TIFF. Save TXT as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to TIFF in PHP., Save TXT to TIFF using PHP., PHP TXT to TIFF saveformat., TXT to TIFF Converter., PHP Save TXT as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

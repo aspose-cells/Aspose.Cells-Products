@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to DOCX - SPREADSHEETML to DOCX Converter
-description: PHP Aspose.Cells. SPREADSHEETML to DOCX in PHP. PHP Convert SPREADSHEETML to DOCX saveformat. PHP SPREADSHEETML to DOCX Converter. Save SPREADSHEETML to DOCX PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to DOCX in PHP., PHP SPREADSHEETML to DOCX saveformat., SPREADSHEETML to DOCX PHP., PHP Convert SPREADSHEETML to DOCX., Save SPREADSHEETML to DOCX PHP., SPREADSHEETML to DOCX Converter., Save SPREADSHEETML as DOCX]
+description: Aspose Excel. Convert SPREADSHEETML to DOCX quickly and easily with Aspose.Cells. PHP SPREADSHEETML to DOCX. PHP Save SPREADSHEETML to DOCX. Save SPREADSHEETML as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to DOCX in PHP., Save SPREADSHEETML to DOCX using PHP., PHP SPREADSHEETML to DOCX saveformat., SPREADSHEETML to DOCX Converter., PHP Save SPREADSHEETML as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

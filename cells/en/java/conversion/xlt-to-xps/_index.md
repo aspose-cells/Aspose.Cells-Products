@@ -1,7 +1,7 @@
 ---
 title: Java XLT to XPS - XLT to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. XLT to XPS in Java. Java Convert XLT to XPS saveformat. Java XLT to XPS format. Save XLT to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLT to XPS in Java., Java XLT to XPS saveformat., XLT to XPS Java., Java Convert XLT to XPS]
+description: Aspose Excel. Convert XLT to XPS quickly and easily with Aspose.Cells. Java XLT to XPS. Java Save XLT to XPS. Save XLT as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to XPS in Java., Save XLT to XPS using Java., Java XLT to XPS saveformat., XLT to XPS Converter., Java Save XLT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

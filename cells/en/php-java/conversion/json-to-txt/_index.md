@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to TXT - JSON to TXT Converter
-description: PHP Aspose.Cells. JSON to TXT in PHP. PHP Convert JSON to TXT saveformat. PHP JSON to TXT Converter. Save JSON to TXT PHP.
-keywords: [PHP Aspose.Cells., JSON to TXT in PHP., PHP JSON to TXT saveformat., JSON to TXT PHP., PHP Convert JSON to TXT., Save JSON to TXT PHP., JSON to TXT Converter., Save JSON as TXT]
+description: Aspose Excel. Convert JSON to TXT quickly and easily with Aspose.Cells. PHP JSON to TXT. PHP Save JSON to TXT. Save JSON as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to TXT in PHP., Save JSON to TXT using PHP., PHP JSON to TXT saveformat., JSON to TXT Converter., PHP Save JSON as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python TSV to JSON - TSV to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. TSV to JSON in Python. Python Convert TSV to JSON saveformat. Python TSV to JSON format. Save TSV to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TSV to JSON in Python., Python TSV to JSON saveformat., TSV to JSON Python., Python Convert TSV to JSON]
+description: Aspose Excel. Convert TSV to JSON quickly and easily with Aspose.Cells. Python TSV to JSON. Python Save TSV to JSON. Save TSV as JSON using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to JSON in Python., Save TSV to JSON using Python., Python TSV to JSON saveformat., TSV to JSON Converter., Python Save TSV as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

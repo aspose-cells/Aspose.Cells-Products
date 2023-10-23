@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to ET - TABDELIMITED to ET Converter
-description: Aspose Excel. Python Aspose.Cells. TABDELIMITED to ET in Python. Python Convert TABDELIMITED to ET saveformat. Python TABDELIMITED to ET format. Save TABDELIMITED to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TABDELIMITED to ET in Python., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Python., Python Convert TABDELIMITED to ET]
+description: Aspose Excel. Convert TABDELIMITED to ET quickly and easily with Aspose.Cells. Python TABDELIMITED to ET. Python Save TABDELIMITED to ET. Save TABDELIMITED as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to ET in Python., Save TABDELIMITED to ET using Python., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Python Save TABDELIMITED as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

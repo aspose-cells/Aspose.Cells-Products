@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to XPS - SPREADSHEETML to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to XPS in Java. Java Convert SPREADSHEETML to XPS saveformat. Java SPREADSHEETML to XPS format. Save SPREADSHEETML to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to XPS in Java., Java SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Java., Java Convert SPREADSHEETML to XPS]
+description: Aspose Excel. Convert SPREADSHEETML to XPS quickly and easily with Aspose.Cells. Java SPREADSHEETML to XPS. Java Save SPREADSHEETML to XPS. Save SPREADSHEETML as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to XPS in Java., Save SPREADSHEETML to XPS using Java., Java SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Converter., Java Save SPREADSHEETML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

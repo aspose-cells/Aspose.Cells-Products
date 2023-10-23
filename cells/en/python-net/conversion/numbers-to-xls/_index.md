@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to XLS - NUMBERS to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to XLS in Python. Python Convert NUMBERS to XLS saveformat. Python NUMBERS to XLS format. Save NUMBERS to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to XLS in Python., Python NUMBERS to XLS saveformat., NUMBERS to XLS Python., Python Convert NUMBERS to XLS]
+description: Aspose Excel. Convert NUMBERS to XLS quickly and easily with Aspose.Cells. Python NUMBERS to XLS. Python Save NUMBERS to XLS. Save NUMBERS as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to XLS in Python., Save NUMBERS to XLS using Python., Python NUMBERS to XLS saveformat., NUMBERS to XLS Converter., Python Save NUMBERS as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

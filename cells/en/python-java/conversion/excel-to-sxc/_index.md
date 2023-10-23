@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to SXC - EXCEL to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to SXC in Python. Python Convert EXCEL to SXC saveformat. Python EXCEL to SXC format. Save EXCEL to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to SXC in Python., Python EXCEL to SXC saveformat., EXCEL to SXC Python., Python Convert EXCEL to SXC]
+description: Aspose Excel. Convert EXCEL to SXC quickly and easily with Aspose.Cells. Python EXCEL to SXC. Python Save EXCEL to SXC. Save EXCEL as SXC using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to SXC in Python., Save EXCEL to SXC using Python., Python EXCEL to SXC saveformat., EXCEL to SXC Converter., Python Save EXCEL as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,9 @@
 ---
-title: Remove XLSB Annotation via Java 
+title: Add or Remove XLSB Annotation via Java 
 weight: 860
 
 description: Java sample code to delete XLSB format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

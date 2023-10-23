@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to XPS - FODS to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to XPS in C++. C++ Convert FODS to XPS saveformat. C++ FODS to XPS format. Save FODS to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to XPS in C++., C++ FODS to XPS saveformat., FODS to XPS C++., C++ Convert FODS to XPS]
+description: Aspose Excel. Convert FODS to XPS quickly and easily with Aspose.Cells. C++ FODS to XPS. C++ Save FODS to XPS. Save FODS as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to XPS in C++., Save FODS to XPS using C++., C++ FODS to XPS saveformat., FODS to XPS Converter., C++ Save FODS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

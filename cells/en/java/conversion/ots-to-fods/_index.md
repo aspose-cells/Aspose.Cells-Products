@@ -1,7 +1,7 @@
 ---
 title: Java OTS to FODS - OTS to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to FODS in Java. Java Convert OTS to FODS saveformat. Java OTS to FODS format. Save OTS to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to FODS in Java., Java OTS to FODS saveformat., OTS to FODS Java., Java Convert OTS to FODS]
+description: Aspose Excel. Convert OTS to FODS quickly and easily with Aspose.Cells. Java OTS to FODS. Java Save OTS to FODS. Save OTS as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to FODS in Java., Save OTS to FODS using Java., Java OTS to FODS saveformat., OTS to FODS Converter., Java Save OTS as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

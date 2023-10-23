@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to DIF - XLSB to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to DIF in Python. Python Convert XLSB to DIF saveformat. Python XLSB to DIF format. Save XLSB to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to DIF in Python., Python XLSB to DIF saveformat., XLSB to DIF Python., Python Convert XLSB to DIF]
+description: Aspose Excel. Convert XLSB to DIF quickly and easily with Aspose.Cells. Python XLSB to DIF. Python Save XLSB to DIF. Save XLSB as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to DIF in Python., Save XLSB to DIF using Python., Python XLSB to DIF saveformat., XLSB to DIF Converter., Python Save XLSB as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

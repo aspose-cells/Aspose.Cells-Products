@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to XLS - TXT to XLS Converter
-description: PHP Aspose.Cells. TXT to XLS in PHP. PHP Convert TXT to XLS saveformat. PHP TXT to XLS Converter. Save TXT to XLS PHP.
-keywords: [PHP Aspose.Cells., TXT to XLS in PHP., PHP TXT to XLS saveformat., TXT to XLS PHP., PHP Convert TXT to XLS., Save TXT to XLS PHP., TXT to XLS Converter., Save TXT as XLS]
+description: Aspose Excel. Convert TXT to XLS quickly and easily with Aspose.Cells. PHP TXT to XLS. PHP Save TXT to XLS. Save TXT as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to XLS in PHP., Save TXT to XLS using PHP., PHP TXT to XLS saveformat., TXT to XLS Converter., PHP Save TXT as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

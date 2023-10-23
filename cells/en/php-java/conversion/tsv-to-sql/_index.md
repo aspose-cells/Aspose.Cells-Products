@@ -1,7 +1,7 @@
 ---
 title: PHP TSV to SQL - TSV to SQL Converter
-description: PHP Aspose.Cells. TSV to SQL in PHP. PHP Convert TSV to SQL saveformat. PHP TSV to SQL Converter. Save TSV to SQL PHP.
-keywords: [PHP Aspose.Cells., TSV to SQL in PHP., PHP TSV to SQL saveformat., TSV to SQL PHP., PHP Convert TSV to SQL., Save TSV to SQL PHP., TSV to SQL Converter., Save TSV as SQL]
+description: Aspose Excel. Convert TSV to SQL quickly and easily with Aspose.Cells. PHP TSV to SQL. PHP Save TSV to SQL. Save TSV as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TSV to SQL in PHP., Save TSV to SQL using PHP., PHP TSV to SQL saveformat., TSV to SQL Converter., PHP Save TSV as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

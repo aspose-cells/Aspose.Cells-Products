@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to TSV - XLSB to TSV Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to TSV in Python. Python Convert XLSB to TSV saveformat. Python XLSB to TSV format. Save XLSB to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to TSV in Python., Python XLSB to TSV saveformat., XLSB to TSV Python., Python Convert XLSB to TSV]
+description: Aspose Excel. Convert XLSB to TSV quickly and easily with Aspose.Cells. Python XLSB to TSV. Python Save XLSB to TSV. Save XLSB as TSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to TSV in Python., Save XLSB to TSV using Python., Python XLSB to TSV saveformat., XLSB to TSV Converter., Python Save XLSB as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

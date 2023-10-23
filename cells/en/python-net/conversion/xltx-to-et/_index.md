@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to ET - XLTX to ET Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to ET in Python. Python Convert XLTX to ET saveformat. Python XLTX to ET format. Save XLTX to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to ET in Python., Python XLTX to ET saveformat., XLTX to ET Python., Python Convert XLTX to ET]
+description: Aspose Excel. Convert XLTX to ET quickly and easily with Aspose.Cells. Python XLTX to ET. Python Save XLTX to ET. Save XLTX as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to ET in Python., Save XLTX to ET using Python., Python XLTX to ET saveformat., XLTX to ET Converter., Python Save XLTX as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

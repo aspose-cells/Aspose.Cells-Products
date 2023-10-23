@@ -1,7 +1,7 @@
 ---
 title: Python FODS to XLAM - FODS to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to XLAM in Python. Python Convert FODS to XLAM saveformat. Python FODS to XLAM format. Save FODS to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to XLAM in Python., Python FODS to XLAM saveformat., FODS to XLAM Python., Python Convert FODS to XLAM]
+description: Aspose Excel. Convert FODS to XLAM quickly and easily with Aspose.Cells. Python FODS to XLAM. Python Save FODS to XLAM. Save FODS as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to XLAM in Python., Save FODS to XLAM using Python., Python FODS to XLAM saveformat., FODS to XLAM Converter., Python Save FODS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

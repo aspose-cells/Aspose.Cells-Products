@@ -1,7 +1,7 @@
 ---
 title: C# MHT to SQL - MHT to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to SQL in C#. C# Convert MHT to SQL saveformat. C# MHT to SQL format. Save MHT to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to SQL in C#., C# MHT to SQL saveformat., MHT to SQL C#., C# Convert MHT to SQL]
+description: Aspose Excel. Convert MHT to SQL quickly and easily with Aspose.Cells. C# MHT to SQL. C# Save MHT to SQL. Save MHT as SQL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to SQL in C#., Save MHT to SQL using C#., C# MHT to SQL saveformat., MHT to SQL Converter., C# Save MHT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

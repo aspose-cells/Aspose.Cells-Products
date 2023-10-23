@@ -1,7 +1,7 @@
 ---
 title: C# PRN to TIFF - PRN to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. PRN to TIFF in C#. C# Convert PRN to TIFF saveformat. C# PRN to TIFF format. Save PRN to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PRN to TIFF in C#., C# PRN to TIFF saveformat., PRN to TIFF C#., C# Convert PRN to TIFF]
+description: Aspose Excel. Convert PRN to TIFF quickly and easily with Aspose.Cells. C# PRN to TIFF. C# Save PRN to TIFF. Save PRN as TIFF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PRN to TIFF in C#., Save PRN to TIFF using C#., C# PRN to TIFF saveformat., PRN to TIFF Converter., C# Save PRN as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

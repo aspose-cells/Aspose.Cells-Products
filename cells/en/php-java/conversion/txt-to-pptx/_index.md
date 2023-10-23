@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to PPTX - TXT to PPTX Converter
-description: PHP Aspose.Cells. TXT to PPTX in PHP. PHP Convert TXT to PPTX saveformat. PHP TXT to PPTX Converter. Save TXT to PPTX PHP.
-keywords: [PHP Aspose.Cells., TXT to PPTX in PHP., PHP TXT to PPTX saveformat., TXT to PPTX PHP., PHP Convert TXT to PPTX., Save TXT to PPTX PHP., TXT to PPTX Converter., Save TXT as PPTX]
+description: Aspose Excel. Convert TXT to PPTX quickly and easily with Aspose.Cells. PHP TXT to PPTX. PHP Save TXT to PPTX. Save TXT as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to PPTX in PHP., Save TXT to PPTX using PHP., PHP TXT to PPTX saveformat., TXT to PPTX Converter., PHP Save TXT as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to JPEG - MHTML to JPEG Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to JPEG in C#. C# Convert MHTML to JPEG saveformat. C# MHTML to JPEG format. Save MHTML to JPEG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to JPEG in C#., C# MHTML to JPEG saveformat., MHTML to JPEG C#., C# Convert MHTML to JPEG]
+description: Aspose Excel. Convert MHTML to JPEG quickly and easily with Aspose.Cells. C# MHTML to JPEG. C# Save MHTML to JPEG. Save MHTML as JPEG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to JPEG in C#., Save MHTML to JPEG using C#., C# MHTML to JPEG saveformat., MHTML to JPEG Converter., C# Save MHTML as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

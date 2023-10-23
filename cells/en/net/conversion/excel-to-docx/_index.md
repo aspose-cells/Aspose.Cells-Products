@@ -1,7 +1,7 @@
 ---
 title: C# EXCEL to DOCX - EXCEL to DOCX Converter
-description: Aspose Excel. C# Aspose.Cells. EXCEL to DOCX in C#. C# Convert EXCEL to DOCX saveformat. C# EXCEL to DOCX format. Save EXCEL to DOCX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., EXCEL to DOCX in C#., C# EXCEL to DOCX saveformat., EXCEL to DOCX C#., C# Convert EXCEL to DOCX]
+description: Aspose Excel. Convert EXCEL to DOCX quickly and easily with Aspose.Cells. C# EXCEL to DOCX. C# Save EXCEL to DOCX. Save EXCEL as DOCX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert EXCEL to DOCX in C#., Save EXCEL to DOCX using C#., C# EXCEL to DOCX saveformat., EXCEL to DOCX Converter., C# Save EXCEL as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

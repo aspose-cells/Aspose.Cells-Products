@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to XLAM - HTML to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to XLAM in C++. C++ Convert HTML to XLAM saveformat. C++ HTML to XLAM format. Save HTML to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to XLAM in C++., C++ HTML to XLAM saveformat., HTML to XLAM C++., C++ Convert HTML to XLAM]
+description: Aspose Excel. Convert HTML to XLAM quickly and easily with Aspose.Cells. C++ HTML to XLAM. C++ Save HTML to XLAM. Save HTML as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XLAM in C++., Save HTML to XLAM using C++., C++ HTML to XLAM saveformat., HTML to XLAM Converter., C++ Save HTML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

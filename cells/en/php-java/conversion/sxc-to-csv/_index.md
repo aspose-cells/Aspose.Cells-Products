@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to CSV - SXC to CSV Converter
-description: PHP Aspose.Cells. SXC to CSV in PHP. PHP Convert SXC to CSV saveformat. PHP SXC to CSV Converter. Save SXC to CSV PHP.
-keywords: [PHP Aspose.Cells., SXC to CSV in PHP., PHP SXC to CSV saveformat., SXC to CSV PHP., PHP Convert SXC to CSV., Save SXC to CSV PHP., SXC to CSV Converter., Save SXC as CSV]
+description: Aspose Excel. Convert SXC to CSV quickly and easily with Aspose.Cells. PHP SXC to CSV. PHP Save SXC to CSV. Save SXC as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to CSV in PHP., Save SXC to CSV using PHP., PHP SXC to CSV saveformat., SXC to CSV Converter., PHP Save SXC as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

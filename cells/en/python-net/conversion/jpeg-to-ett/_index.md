@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to ETT - JPEG to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. JPEG to ETT in Python. Python Convert JPEG to ETT saveformat. Python JPEG to ETT format. Save JPEG to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPEG to ETT in Python., Python JPEG to ETT saveformat., JPEG to ETT Python., Python Convert JPEG to ETT]
+description: Aspose Excel. Convert JPEG to ETT quickly and easily with Aspose.Cells. Python JPEG to ETT. Python Save JPEG to ETT. Save JPEG as ETT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to ETT in Python., Save JPEG to ETT using Python., Python JPEG to ETT saveformat., JPEG to ETT Converter., Python Save JPEG as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,9 @@
 ---
-title: Remove ODS Annotation via .NET 
+title: Add or Remove ODS Annotation via .NET 
 weight: 7990
 
 description: C# source code to add and delete ODS format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

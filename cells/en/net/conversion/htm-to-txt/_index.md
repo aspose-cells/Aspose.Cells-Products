@@ -1,7 +1,7 @@
 ---
 title: C# HTM to TXT - HTM to TXT Converter
-description: Aspose Excel. C# Aspose.Cells. HTM to TXT in C#. C# Convert HTM to TXT saveformat. C# HTM to TXT format. Save HTM to TXT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTM to TXT in C#., C# HTM to TXT saveformat., HTM to TXT C#., C# Convert HTM to TXT]
+description: Aspose Excel. Convert HTM to TXT quickly and easily with Aspose.Cells. C# HTM to TXT. C# Save HTM to TXT. Save HTM as TXT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to TXT in C#., Save HTM to TXT using C#., C# HTM to TXT saveformat., HTM to TXT Converter., C# Save HTM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

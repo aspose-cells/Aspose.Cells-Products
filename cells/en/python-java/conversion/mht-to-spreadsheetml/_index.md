@@ -1,7 +1,7 @@
 ---
 title: Python MHT to SPREADSHEETML - MHT to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to SPREADSHEETML in Python. Python Convert MHT to SPREADSHEETML saveformat. Python MHT to SPREADSHEETML format. Save MHT to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to SPREADSHEETML in Python., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Python., Python Convert MHT to SPREADSHEETML]
+description: Aspose Excel. Convert MHT to SPREADSHEETML quickly and easily with Aspose.Cells. Python MHT to SPREADSHEETML. Python Save MHT to SPREADSHEETML. Save MHT as SPREADSHEETML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to SPREADSHEETML in Python., Save MHT to SPREADSHEETML using Python., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Python Save MHT as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# FODS to XLTX - FODS to XLTX Converter
-description: Aspose Excel. C# Aspose.Cells. FODS to XLTX in C#. C# Convert FODS to XLTX saveformat. C# FODS to XLTX format. Save FODS to XLTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., FODS to XLTX in C#., C# FODS to XLTX saveformat., FODS to XLTX C#., C# Convert FODS to XLTX]
+description: Aspose Excel. Convert FODS to XLTX quickly and easily with Aspose.Cells. C# FODS to XLTX. C# Save FODS to XLTX. Save FODS as XLTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to XLTX in C#., Save FODS to XLTX using C#., C# FODS to XLTX saveformat., FODS to XLTX Converter., C# Save FODS as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

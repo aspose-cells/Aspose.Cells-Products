@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to PDF - MHTML to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to PDF in Python. Python Convert MHTML to PDF saveformat. Python MHTML to PDF format. Save MHTML to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to PDF in Python., Python MHTML to PDF saveformat., MHTML to PDF Python., Python Convert MHTML to PDF]
+description: Aspose Excel. Convert MHTML to PDF quickly and easily with Aspose.Cells. Python MHTML to PDF. Python Save MHTML to PDF. Save MHTML as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to PDF in Python., Save MHTML to PDF using Python., Python MHTML to PDF saveformat., MHTML to PDF Converter., Python Save MHTML as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

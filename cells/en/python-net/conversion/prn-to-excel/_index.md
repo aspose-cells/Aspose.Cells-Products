@@ -1,7 +1,7 @@
 ---
 title: Python PRN to EXCEL - PRN to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to EXCEL in Python. Python Convert PRN to EXCEL saveformat. Python PRN to EXCEL format. Save PRN to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to EXCEL in Python., Python PRN to EXCEL saveformat., PRN to EXCEL Python., Python Convert PRN to EXCEL]
+description: Aspose Excel. Convert PRN to EXCEL quickly and easily with Aspose.Cells. Python PRN to EXCEL. Python Save PRN to EXCEL. Save PRN as EXCEL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to EXCEL in Python., Save PRN to EXCEL using Python., Python PRN to EXCEL saveformat., PRN to EXCEL Converter., Python Save PRN as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to MHT - TABDELIMITED to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. TABDELIMITED to MHT in Python. Python Convert TABDELIMITED to MHT saveformat. Python TABDELIMITED to MHT format. Save TABDELIMITED to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TABDELIMITED to MHT in Python., Python TABDELIMITED to MHT saveformat., TABDELIMITED to MHT Python., Python Convert TABDELIMITED to MHT]
+description: Aspose Excel. Convert TABDELIMITED to MHT quickly and easily with Aspose.Cells. Python TABDELIMITED to MHT. Python Save TABDELIMITED to MHT. Save TABDELIMITED as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to MHT in Python., Save TABDELIMITED to MHT using Python., Python TABDELIMITED to MHT saveformat., TABDELIMITED to MHT Converter., Python Save TABDELIMITED as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

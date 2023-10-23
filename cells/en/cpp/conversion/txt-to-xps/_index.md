@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to XPS - TXT to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to XPS in C++. C++ Convert TXT to XPS saveformat. C++ TXT to XPS format. Save TXT to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to XPS in C++., C++ TXT to XPS saveformat., TXT to XPS C++., C++ Convert TXT to XPS]
+description: Aspose Excel. Convert TXT to XPS quickly and easily with Aspose.Cells. C++ TXT to XPS. C++ Save TXT to XPS. Save TXT as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to XPS in C++., Save TXT to XPS using C++., C++ TXT to XPS saveformat., TXT to XPS Converter., C++ Save TXT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

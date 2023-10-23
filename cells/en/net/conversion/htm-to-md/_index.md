@@ -1,7 +1,7 @@
 ---
 title: C# HTM to MD - HTM to MD Converter
-description: Aspose Excel. C# Aspose.Cells. HTM to MD in C#. C# Convert HTM to MD saveformat. C# HTM to MD format. Save HTM to MD C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTM to MD in C#., C# HTM to MD saveformat., HTM to MD C#., C# Convert HTM to MD]
+description: Aspose Excel. Convert HTM to MD quickly and easily with Aspose.Cells. C# HTM to MD. C# Save HTM to MD. Save HTM as MD using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to MD in C#., Save HTM to MD using C#., C# HTM to MD saveformat., HTM to MD Converter., C# Save HTM as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

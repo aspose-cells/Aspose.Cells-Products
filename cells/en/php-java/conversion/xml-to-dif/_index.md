@@ -1,7 +1,7 @@
 ---
 title: PHP XML to DIF - XML to DIF Converter
-description: PHP Aspose.Cells. XML to DIF in PHP. PHP Convert XML to DIF saveformat. PHP XML to DIF Converter. Save XML to DIF PHP.
-keywords: [PHP Aspose.Cells., XML to DIF in PHP., PHP XML to DIF saveformat., XML to DIF PHP., PHP Convert XML to DIF., Save XML to DIF PHP., XML to DIF Converter., Save XML as DIF]
+description: Aspose Excel. Convert XML to DIF quickly and easily with Aspose.Cells. PHP XML to DIF. PHP Save XML to DIF. Save XML as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to DIF in PHP., Save XML to DIF using PHP., PHP XML to DIF saveformat., XML to DIF Converter., PHP Save XML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

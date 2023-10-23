@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to EXCEL - XLTX to EXCEL Converter
-description: PHP Aspose.Cells. XLTX to EXCEL in PHP. PHP Convert XLTX to EXCEL saveformat. PHP XLTX to EXCEL Converter. Save XLTX to EXCEL PHP.
-keywords: [PHP Aspose.Cells., XLTX to EXCEL in PHP., PHP XLTX to EXCEL saveformat., XLTX to EXCEL PHP., PHP Convert XLTX to EXCEL., Save XLTX to EXCEL PHP., XLTX to EXCEL Converter., Save XLTX as EXCEL]
+description: Aspose Excel. Convert XLTX to EXCEL quickly and easily with Aspose.Cells. PHP XLTX to EXCEL. PHP Save XLTX to EXCEL. Save XLTX as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to EXCEL in PHP., Save XLTX to EXCEL using PHP., PHP XLTX to EXCEL saveformat., XLTX to EXCEL Converter., PHP Save XLTX as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

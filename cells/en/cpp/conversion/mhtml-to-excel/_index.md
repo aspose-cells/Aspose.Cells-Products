@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to EXCEL - MHTML to EXCEL Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to EXCEL in C++. C++ Convert MHTML to EXCEL saveformat. C++ MHTML to EXCEL format. Save MHTML to EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to EXCEL in C++., C++ MHTML to EXCEL saveformat., MHTML to EXCEL C++., C++ Convert MHTML to EXCEL]
+description: Aspose Excel. Convert MHTML to EXCEL quickly and easily with Aspose.Cells. C++ MHTML to EXCEL. C++ Save MHTML to EXCEL. Save MHTML as EXCEL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to EXCEL in C++., Save MHTML to EXCEL using C++., C++ MHTML to EXCEL saveformat., MHTML to EXCEL Converter., C++ Save MHTML as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

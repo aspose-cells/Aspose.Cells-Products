@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to SQL - TABDELIMITED to SQL Converter
-description: PHP Aspose.Cells. TABDELIMITED to SQL in PHP. PHP Convert TABDELIMITED to SQL saveformat. PHP TABDELIMITED to SQL Converter. Save TABDELIMITED to SQL PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to SQL in PHP., PHP TABDELIMITED to SQL saveformat., TABDELIMITED to SQL PHP., PHP Convert TABDELIMITED to SQL., Save TABDELIMITED to SQL PHP., TABDELIMITED to SQL Converter., Save TABDELIMITED as SQL]
+description: Aspose Excel. Convert TABDELIMITED to SQL quickly and easily with Aspose.Cells. PHP TABDELIMITED to SQL. PHP Save TABDELIMITED to SQL. Save TABDELIMITED as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SQL in PHP., Save TABDELIMITED to SQL using PHP., PHP TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., PHP Save TABDELIMITED as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

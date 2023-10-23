@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to XPS - XLSB to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to XPS in Java. Java Convert XLSB to XPS saveformat. Java XLSB to XPS format. Save XLSB to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to XPS in Java., Java XLSB to XPS saveformat., XLSB to XPS Java., Java Convert XLSB to XPS]
+description: Aspose Excel. Convert XLSB to XPS quickly and easily with Aspose.Cells. Java XLSB to XPS. Java Save XLSB to XPS. Save XLSB as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XPS in Java., Save XLSB to XPS using Java., Java XLSB to XPS saveformat., XLSB to XPS Converter., Java Save XLSB as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

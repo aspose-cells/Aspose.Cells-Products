@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to XLAM - TABDELIMITED to XLAM Converter
-description: PHP Aspose.Cells. TABDELIMITED to XLAM in PHP. PHP Convert TABDELIMITED to XLAM saveformat. PHP TABDELIMITED to XLAM Converter. Save TABDELIMITED to XLAM PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to XLAM in PHP., PHP TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM PHP., PHP Convert TABDELIMITED to XLAM., Save TABDELIMITED to XLAM PHP., TABDELIMITED to XLAM Converter., Save TABDELIMITED as XLAM]
+description: Aspose Excel. Convert TABDELIMITED to XLAM quickly and easily with Aspose.Cells. PHP TABDELIMITED to XLAM. PHP Save TABDELIMITED to XLAM. Save TABDELIMITED as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to XLAM in PHP., Save TABDELIMITED to XLAM using PHP., PHP TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM Converter., PHP Save TABDELIMITED as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to DIF - MHT to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to DIF in C++. C++ Convert MHT to DIF saveformat. C++ MHT to DIF format. Save MHT to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to DIF in C++., C++ MHT to DIF saveformat., MHT to DIF C++., C++ Convert MHT to DIF]
+description: Aspose Excel. Convert MHT to DIF quickly and easily with Aspose.Cells. C++ MHT to DIF. C++ Save MHT to DIF. Save MHT as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to DIF in C++., Save MHT to DIF using C++., C++ MHT to DIF saveformat., MHT to DIF Converter., C++ Save MHT as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

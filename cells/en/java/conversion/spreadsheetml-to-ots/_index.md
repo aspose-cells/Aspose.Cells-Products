@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to OTS - SPREADSHEETML to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to OTS in Java. Java Convert SPREADSHEETML to OTS saveformat. Java SPREADSHEETML to OTS format. Save SPREADSHEETML to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to OTS in Java., Java SPREADSHEETML to OTS saveformat., SPREADSHEETML to OTS Java., Java Convert SPREADSHEETML to OTS]
+description: Aspose Excel. Convert SPREADSHEETML to OTS quickly and easily with Aspose.Cells. Java SPREADSHEETML to OTS. Java Save SPREADSHEETML to OTS. Save SPREADSHEETML as OTS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to OTS in Java., Save SPREADSHEETML to OTS using Java., Java SPREADSHEETML to OTS saveformat., SPREADSHEETML to OTS Converter., Java Save SPREADSHEETML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

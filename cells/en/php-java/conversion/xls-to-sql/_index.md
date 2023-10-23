@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to SQL - XLS to SQL Converter
-description: PHP Aspose.Cells. XLS to SQL in PHP. PHP Convert XLS to SQL saveformat. PHP XLS to SQL Converter. Save XLS to SQL PHP.
-keywords: [PHP Aspose.Cells., XLS to SQL in PHP., PHP XLS to SQL saveformat., XLS to SQL PHP., PHP Convert XLS to SQL., Save XLS to SQL PHP., XLS to SQL Converter., Save XLS as SQL]
+description: Aspose Excel. Convert XLS to SQL quickly and easily with Aspose.Cells. PHP XLS to SQL. PHP Save XLS to SQL. Save XLS as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to SQL in PHP., Save XLS to SQL using PHP., PHP XLS to SQL saveformat., XLS to SQL Converter., PHP Save XLS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

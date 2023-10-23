@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to PDF - XLSB to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to PDF in C++. C++ Convert XLSB to PDF saveformat. C++ XLSB to PDF format. Save XLSB to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to PDF in C++., C++ XLSB to PDF saveformat., XLSB to PDF C++., C++ Convert XLSB to PDF]
+description: Aspose Excel. Convert XLSB to PDF quickly and easily with Aspose.Cells. C++ XLSB to PDF. C++ Save XLSB to PDF. Save XLSB as PDF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to PDF in C++., Save XLSB to PDF using C++., C++ XLSB to PDF saveformat., XLSB to PDF Converter., C++ Save XLSB as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

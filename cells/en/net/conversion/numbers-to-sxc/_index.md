@@ -1,7 +1,7 @@
 ---
 title: C# NUMBERS to SXC - NUMBERS to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. NUMBERS to SXC in C#. C# Convert NUMBERS to SXC saveformat. C# NUMBERS to SXC format. Save NUMBERS to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., NUMBERS to SXC in C#., C# NUMBERS to SXC saveformat., NUMBERS to SXC C#., C# Convert NUMBERS to SXC]
+description: Aspose Excel. Convert NUMBERS to SXC quickly and easily with Aspose.Cells. C# NUMBERS to SXC. C# Save NUMBERS to SXC. Save NUMBERS as SXC using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert NUMBERS to SXC in C#., Save NUMBERS to SXC using C#., C# NUMBERS to SXC saveformat., NUMBERS to SXC Converter., C# Save NUMBERS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTML to SVG - HTML to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to SVG in Python. Python Convert HTML to SVG saveformat. Python HTML to SVG format. Save HTML to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to SVG in Python., Python HTML to SVG saveformat., HTML to SVG Python., Python Convert HTML to SVG]
+description: Aspose Excel. Convert HTML to SVG quickly and easily with Aspose.Cells. Python HTML to SVG. Python Save HTML to SVG. Save HTML as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to SVG in Python., Save HTML to SVG using Python., Python HTML to SVG saveformat., HTML to SVG Converter., Python Save HTML as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

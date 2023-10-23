@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to MARKDOWN - FODS to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to MARKDOWN in C++. C++ Convert FODS to MARKDOWN saveformat. C++ FODS to MARKDOWN format. Save FODS to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to MARKDOWN in C++., C++ FODS to MARKDOWN saveformat., FODS to MARKDOWN C++., C++ Convert FODS to MARKDOWN]
+description: Aspose Excel. Convert FODS to MARKDOWN quickly and easily with Aspose.Cells. C++ FODS to MARKDOWN. C++ Save FODS to MARKDOWN. Save FODS as MARKDOWN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to MARKDOWN in C++., Save FODS to MARKDOWN using C++., C++ FODS to MARKDOWN saveformat., FODS to MARKDOWN Converter., C++ Save FODS as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

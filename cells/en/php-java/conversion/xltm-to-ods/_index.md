@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to ODS - XLTM to ODS Converter
-description: PHP Aspose.Cells. XLTM to ODS in PHP. PHP Convert XLTM to ODS saveformat. PHP XLTM to ODS Converter. Save XLTM to ODS PHP.
-keywords: [PHP Aspose.Cells., XLTM to ODS in PHP., PHP XLTM to ODS saveformat., XLTM to ODS PHP., PHP Convert XLTM to ODS., Save XLTM to ODS PHP., XLTM to ODS Converter., Save XLTM as ODS]
+description: Aspose Excel. Convert XLTM to ODS quickly and easily with Aspose.Cells. PHP XLTM to ODS. PHP Save XLTM to ODS. Save XLTM as ODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to ODS in PHP., Save XLTM to ODS using PHP., PHP XLTM to ODS saveformat., XLTM to ODS Converter., PHP Save XLTM as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to SVG - XLT to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to SVG in C++. C++ Convert XLT to SVG saveformat. C++ XLT to SVG format. Save XLT to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to SVG in C++., C++ XLT to SVG saveformat., XLT to SVG C++., C++ Convert XLT to SVG]
+description: Aspose Excel. Convert XLT to SVG quickly and easily with Aspose.Cells. C++ XLT to SVG. C++ Save XLT to SVG. Save XLT as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to SVG in C++., Save XLT to SVG using C++., C++ XLT to SVG saveformat., XLT to SVG Converter., C++ Save XLT as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

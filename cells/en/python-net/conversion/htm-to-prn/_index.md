@@ -1,7 +1,7 @@
 ---
 title: Python HTM to PRN - HTM to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to PRN in Python. Python Convert HTM to PRN saveformat. Python HTM to PRN format. Save HTM to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to PRN in Python., Python HTM to PRN saveformat., HTM to PRN Python., Python Convert HTM to PRN]
+description: Aspose Excel. Convert HTM to PRN quickly and easily with Aspose.Cells. Python HTM to PRN. Python Save HTM to PRN. Save HTM as PRN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to PRN in Python., Save HTM to PRN using Python., Python HTM to PRN saveformat., HTM to PRN Converter., Python Save HTM as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

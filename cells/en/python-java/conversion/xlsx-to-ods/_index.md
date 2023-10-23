@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to ODS - XLSX to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to ODS in Python. Python Convert XLSX to ODS saveformat. Python XLSX to ODS format. Save XLSX to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to ODS in Python., Python XLSX to ODS saveformat., XLSX to ODS Python., Python Convert XLSX to ODS]
+description: Aspose Excel. Convert XLSX to ODS quickly and easily with Aspose.Cells. Python XLSX to ODS. Python Save XLSX to ODS. Save XLSX as ODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to ODS in Python., Save XLSX to ODS using Python., Python XLSX to ODS saveformat., XLSX to ODS Converter., Python Save XLSX as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to DIF - SPREADSHEETML to DIF Converter
-description: PHP Aspose.Cells. SPREADSHEETML to DIF in PHP. PHP Convert SPREADSHEETML to DIF saveformat. PHP SPREADSHEETML to DIF Converter. Save SPREADSHEETML to DIF PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to DIF in PHP., PHP SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF PHP., PHP Convert SPREADSHEETML to DIF., Save SPREADSHEETML to DIF PHP., SPREADSHEETML to DIF Converter., Save SPREADSHEETML as DIF]
+description: Aspose Excel. Convert SPREADSHEETML to DIF quickly and easily with Aspose.Cells. PHP SPREADSHEETML to DIF. PHP Save SPREADSHEETML to DIF. Save SPREADSHEETML as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to DIF in PHP., Save SPREADSHEETML to DIF using PHP., PHP SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., PHP Save SPREADSHEETML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

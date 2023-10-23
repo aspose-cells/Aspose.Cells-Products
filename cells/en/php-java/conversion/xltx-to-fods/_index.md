@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to FODS - XLTX to FODS Converter
-description: PHP Aspose.Cells. XLTX to FODS in PHP. PHP Convert XLTX to FODS saveformat. PHP XLTX to FODS Converter. Save XLTX to FODS PHP.
-keywords: [PHP Aspose.Cells., XLTX to FODS in PHP., PHP XLTX to FODS saveformat., XLTX to FODS PHP., PHP Convert XLTX to FODS., Save XLTX to FODS PHP., XLTX to FODS Converter., Save XLTX as FODS]
+description: Aspose Excel. Convert XLTX to FODS quickly and easily with Aspose.Cells. PHP XLTX to FODS. PHP Save XLTX to FODS. Save XLTX as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to FODS in PHP., Save XLTX to FODS using PHP., PHP XLTX to FODS saveformat., XLTX to FODS Converter., PHP Save XLTX as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

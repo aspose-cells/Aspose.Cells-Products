@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to PPTX - SXC to PPTX Converter
-description: PHP Aspose.Cells. SXC to PPTX in PHP. PHP Convert SXC to PPTX saveformat. PHP SXC to PPTX Converter. Save SXC to PPTX PHP.
-keywords: [PHP Aspose.Cells., SXC to PPTX in PHP., PHP SXC to PPTX saveformat., SXC to PPTX PHP., PHP Convert SXC to PPTX., Save SXC to PPTX PHP., SXC to PPTX Converter., Save SXC as PPTX]
+description: Aspose Excel. Convert SXC to PPTX quickly and easily with Aspose.Cells. PHP SXC to PPTX. PHP Save SXC to PPTX. Save SXC as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to PPTX in PHP., Save SXC to PPTX using PHP., PHP SXC to PPTX saveformat., SXC to PPTX Converter., PHP Save SXC as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

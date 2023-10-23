@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to FODS - XLTM to FODS Converter
-description: PHP Aspose.Cells. XLTM to FODS in PHP. PHP Convert XLTM to FODS saveformat. PHP XLTM to FODS Converter. Save XLTM to FODS PHP.
-keywords: [PHP Aspose.Cells., XLTM to FODS in PHP., PHP XLTM to FODS saveformat., XLTM to FODS PHP., PHP Convert XLTM to FODS., Save XLTM to FODS PHP., XLTM to FODS Converter., Save XLTM as FODS]
+description: Aspose Excel. Convert XLTM to FODS quickly and easily with Aspose.Cells. PHP XLTM to FODS. PHP Save XLTM to FODS. Save XLTM as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to FODS in PHP., Save XLTM to FODS using PHP., PHP XLTM to FODS saveformat., XLTM to FODS Converter., PHP Save XLTM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

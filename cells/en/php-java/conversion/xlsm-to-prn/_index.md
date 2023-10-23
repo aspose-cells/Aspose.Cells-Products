@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to PRN - XLSM to PRN Converter
-description: PHP Aspose.Cells. XLSM to PRN in PHP. PHP Convert XLSM to PRN saveformat. PHP XLSM to PRN Converter. Save XLSM to PRN PHP.
-keywords: [PHP Aspose.Cells., XLSM to PRN in PHP., PHP XLSM to PRN saveformat., XLSM to PRN PHP., PHP Convert XLSM to PRN., Save XLSM to PRN PHP., XLSM to PRN Converter., Save XLSM as PRN]
+description: Aspose Excel. Convert XLSM to PRN quickly and easily with Aspose.Cells. PHP XLSM to PRN. PHP Save XLSM to PRN. Save XLSM as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to PRN in PHP., Save XLSM to PRN using PHP., PHP XLSM to PRN saveformat., XLSM to PRN Converter., PHP Save XLSM as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to XPS - OTS to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to XPS in C++. C++ Convert OTS to XPS saveformat. C++ OTS to XPS format. Save OTS to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to XPS in C++., C++ OTS to XPS saveformat., OTS to XPS C++., C++ Convert OTS to XPS]
+description: Aspose Excel. Convert OTS to XPS quickly and easily with Aspose.Cells. C++ OTS to XPS. C++ Save OTS to XPS. Save OTS as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to XPS in C++., Save OTS to XPS using C++., C++ OTS to XPS saveformat., OTS to XPS Converter., C++ Save OTS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

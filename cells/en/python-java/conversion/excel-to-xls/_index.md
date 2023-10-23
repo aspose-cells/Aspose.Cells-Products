@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to XLS - EXCEL to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to XLS in Python. Python Convert EXCEL to XLS saveformat. Python EXCEL to XLS format. Save EXCEL to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to XLS in Python., Python EXCEL to XLS saveformat., EXCEL to XLS Python., Python Convert EXCEL to XLS]
+description: Aspose Excel. Convert EXCEL to XLS quickly and easily with Aspose.Cells. Python EXCEL to XLS. Python Save EXCEL to XLS. Save EXCEL as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to XLS in Python., Save EXCEL to XLS using Python., Python EXCEL to XLS saveformat., EXCEL to XLS Converter., Python Save EXCEL as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

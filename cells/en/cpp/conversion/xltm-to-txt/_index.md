@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to TXT - XLTM to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to TXT in C++. C++ Convert XLTM to TXT saveformat. C++ XLTM to TXT format. Save XLTM to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to TXT in C++., C++ XLTM to TXT saveformat., XLTM to TXT C++., C++ Convert XLTM to TXT]
+description: Aspose Excel. Convert XLTM to TXT quickly and easily with Aspose.Cells. C++ XLTM to TXT. C++ Save XLTM to TXT. Save XLTM as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to TXT in C++., Save XLTM to TXT using C++., C++ XLTM to TXT saveformat., XLTM to TXT Converter., C++ Save XLTM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

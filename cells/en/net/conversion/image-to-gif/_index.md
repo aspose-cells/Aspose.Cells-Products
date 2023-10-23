@@ -1,7 +1,7 @@
 ---
 title: C# IMAGE to GIF - IMAGE to GIF Converter
-description: Aspose Excel. C# Aspose.Cells. IMAGE to GIF in C#. C# Convert IMAGE to GIF saveformat. C# IMAGE to GIF format. Save IMAGE to GIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., IMAGE to GIF in C#., C# IMAGE to GIF saveformat., IMAGE to GIF C#., C# Convert IMAGE to GIF]
+description: Aspose Excel. Convert IMAGE to GIF quickly and easily with Aspose.Cells. C# IMAGE to GIF. C# Save IMAGE to GIF. Save IMAGE as GIF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert IMAGE to GIF in C#., Save IMAGE to GIF using C#., C# IMAGE to GIF saveformat., IMAGE to GIF Converter., C# Save IMAGE as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHT to POWERPOINT - MHT to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to POWERPOINT in Python. Python Convert MHT to POWERPOINT saveformat. Python MHT to POWERPOINT format. Save MHT to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to POWERPOINT in Python., Python MHT to POWERPOINT saveformat., MHT to POWERPOINT Python., Python Convert MHT to POWERPOINT]
+description: Aspose Excel. Convert MHT to POWERPOINT quickly and easily with Aspose.Cells. Python MHT to POWERPOINT. Python Save MHT to POWERPOINT. Save MHT as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to POWERPOINT in Python., Save MHT to POWERPOINT using Python., Python MHT to POWERPOINT saveformat., MHT to POWERPOINT Converter., Python Save MHT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

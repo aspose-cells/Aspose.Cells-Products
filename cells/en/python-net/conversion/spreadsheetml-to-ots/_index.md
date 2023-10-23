@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML to OTS - SPREADSHEETML to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to OTS in Python. Python Convert SPREADSHEETML to OTS saveformat. Python SPREADSHEETML to OTS format. Save SPREADSHEETML to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to OTS in Python., Python SPREADSHEETML to OTS saveformat., SPREADSHEETML to OTS Python., Python Convert SPREADSHEETML to OTS]
+description: Aspose Excel. Convert SPREADSHEETML to OTS quickly and easily with Aspose.Cells. Python SPREADSHEETML to OTS. Python Save SPREADSHEETML to OTS. Save SPREADSHEETML as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to OTS in Python., Save SPREADSHEETML to OTS using Python., Python SPREADSHEETML to OTS saveformat., SPREADSHEETML to OTS Converter., Python Save SPREADSHEETML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

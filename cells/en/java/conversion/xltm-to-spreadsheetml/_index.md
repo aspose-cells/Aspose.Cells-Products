@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to SPREADSHEETML - XLTM to SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to SPREADSHEETML in Java. Java Convert XLTM to SPREADSHEETML saveformat. Java XLTM to SPREADSHEETML format. Save XLTM to SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to SPREADSHEETML in Java., Java XLTM to SPREADSHEETML saveformat., XLTM to SPREADSHEETML Java., Java Convert XLTM to SPREADSHEETML]
+description: Aspose Excel. Convert XLTM to SPREADSHEETML quickly and easily with Aspose.Cells. Java XLTM to SPREADSHEETML. Java Save XLTM to SPREADSHEETML. Save XLTM as SPREADSHEETML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SPREADSHEETML in Java., Save XLTM to SPREADSHEETML using Java., Java XLTM to SPREADSHEETML saveformat., XLTM to SPREADSHEETML Converter., Java Save XLTM as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to EXCEL - JPG to EXCEL Converter
-description: PHP Aspose.Cells. JPG to EXCEL in PHP. PHP Convert JPG to EXCEL saveformat. PHP JPG to EXCEL Converter. Save JPG to EXCEL PHP.
-keywords: [PHP Aspose.Cells., JPG to EXCEL in PHP., PHP JPG to EXCEL saveformat., JPG to EXCEL PHP., PHP Convert JPG to EXCEL., Save JPG to EXCEL PHP., JPG to EXCEL Converter., Save JPG as EXCEL]
+description: Aspose Excel. Convert JPG to EXCEL quickly and easily with Aspose.Cells. PHP JPG to EXCEL. PHP Save JPG to EXCEL. Save JPG as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to EXCEL in PHP., Save JPG to EXCEL using PHP., PHP JPG to EXCEL saveformat., JPG to EXCEL Converter., PHP Save JPG as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

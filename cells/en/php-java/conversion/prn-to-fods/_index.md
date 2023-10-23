@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to FODS - PRN to FODS Converter
-description: PHP Aspose.Cells. PRN to FODS in PHP. PHP Convert PRN to FODS saveformat. PHP PRN to FODS Converter. Save PRN to FODS PHP.
-keywords: [PHP Aspose.Cells., PRN to FODS in PHP., PHP PRN to FODS saveformat., PRN to FODS PHP., PHP Convert PRN to FODS., Save PRN to FODS PHP., PRN to FODS Converter., Save PRN as FODS]
+description: Aspose Excel. Convert PRN to FODS quickly and easily with Aspose.Cells. PHP PRN to FODS. PHP Save PRN to FODS. Save PRN as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to FODS in PHP., Save PRN to FODS using PHP., PHP PRN to FODS saveformat., PRN to FODS Converter., PHP Save PRN as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

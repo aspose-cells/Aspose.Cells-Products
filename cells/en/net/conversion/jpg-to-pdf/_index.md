@@ -1,7 +1,7 @@
 ---
 title: C# JPG to PDF - JPG to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to PDF in C#. C# Convert JPG to PDF saveformat. C# JPG to PDF format. Save JPG to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to PDF in C#., C# JPG to PDF saveformat., JPG to PDF C#., C# Convert JPG to PDF]
+description: Aspose Excel. Convert JPG to PDF quickly and easily with Aspose.Cells. C# JPG to PDF. C# Save JPG to PDF. Save JPG as PDF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to PDF in C#., Save JPG to PDF using C#., C# JPG to PDF saveformat., JPG to PDF Converter., C# Save JPG as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to JSON - XLTM to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to JSON in Python. Python Convert XLTM to JSON saveformat. Python XLTM to JSON format. Save XLTM to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to JSON in Python., Python XLTM to JSON saveformat., XLTM to JSON Python., Python Convert XLTM to JSON]
+description: Aspose Excel. Convert XLTM to JSON quickly and easily with Aspose.Cells. Python XLTM to JSON. Python Save XLTM to JSON. Save XLTM as JSON using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to JSON in Python., Save XLTM to JSON using Python., Python XLTM to JSON saveformat., XLTM to JSON Converter., Python Save XLTM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLS to ET - XLS to ET Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to ET in Java. Java Convert XLS to ET saveformat. Java XLS to ET format. Save XLS to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to ET in Java., Java XLS to ET saveformat., XLS to ET Java., Java Convert XLS to ET]
+description: Aspose Excel. Convert XLS to ET quickly and easily with Aspose.Cells. Java XLS to ET. Java Save XLS to ET. Save XLS as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to ET in Java., Save XLS to ET using Java., Java XLS to ET saveformat., XLS to ET Converter., Java Save XLS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

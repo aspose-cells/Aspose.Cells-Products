@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to EXCEL - XLSM to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to EXCEL in Python. Python Convert XLSM to EXCEL saveformat. Python XLSM to EXCEL format. Save XLSM to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to EXCEL in Python., Python XLSM to EXCEL saveformat., XLSM to EXCEL Python., Python Convert XLSM to EXCEL]
+description: Aspose Excel. Convert XLSM to EXCEL quickly and easily with Aspose.Cells. Python XLSM to EXCEL. Python Save XLSM to EXCEL. Save XLSM as EXCEL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to EXCEL in Python., Save XLSM to EXCEL using Python., Python XLSM to EXCEL saveformat., XLSM to EXCEL Converter., Python Save XLSM as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

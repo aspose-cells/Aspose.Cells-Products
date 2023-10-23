@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to MD - XLAM to MD Converter
-description: PHP Aspose.Cells. XLAM to MD in PHP. PHP Convert XLAM to MD saveformat. PHP XLAM to MD Converter. Save XLAM to MD PHP.
-keywords: [PHP Aspose.Cells., XLAM to MD in PHP., PHP XLAM to MD saveformat., XLAM to MD PHP., PHP Convert XLAM to MD., Save XLAM to MD PHP., XLAM to MD Converter., Save XLAM as MD]
+description: Aspose Excel. Convert XLAM to MD quickly and easily with Aspose.Cells. PHP XLAM to MD. PHP Save XLAM to MD. Save XLAM as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to MD in PHP., Save XLAM to MD using PHP., PHP XLAM to MD saveformat., XLAM to MD Converter., PHP Save XLAM as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

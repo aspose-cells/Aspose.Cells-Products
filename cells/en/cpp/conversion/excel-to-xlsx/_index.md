@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to XLSX - EXCEL to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to XLSX in C++. C++ Convert EXCEL to XLSX saveformat. C++ EXCEL to XLSX format. Save EXCEL to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to XLSX in C++., C++ EXCEL to XLSX saveformat., EXCEL to XLSX C++., C++ Convert EXCEL to XLSX]
+description: Aspose Excel. Convert EXCEL to XLSX quickly and easily with Aspose.Cells. C++ EXCEL to XLSX. C++ Save EXCEL to XLSX. Save EXCEL as XLSX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XLSX in C++., Save EXCEL to XLSX using C++., C++ EXCEL to XLSX saveformat., EXCEL to XLSX Converter., C++ Save EXCEL as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

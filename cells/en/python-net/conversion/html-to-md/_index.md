@@ -1,7 +1,7 @@
 ---
 title: Python HTML to MD - HTML to MD Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to MD in Python. Python Convert HTML to MD saveformat. Python HTML to MD format. Save HTML to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to MD in Python., Python HTML to MD saveformat., HTML to MD Python., Python Convert HTML to MD]
+description: Aspose Excel. Convert HTML to MD quickly and easily with Aspose.Cells. Python HTML to MD. Python Save HTML to MD. Save HTML as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to MD in Python., Save HTML to MD using Python., Python HTML to MD saveformat., HTML to MD Converter., Python Save HTML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

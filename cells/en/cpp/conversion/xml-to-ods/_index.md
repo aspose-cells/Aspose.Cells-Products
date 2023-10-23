@@ -1,7 +1,7 @@
 ---
 title: C++ XML to ODS - XML to ODS Converter
-description: Aspose Excel. C++ Aspose.Cells. XML to ODS in C++. C++ Convert XML to ODS saveformat. C++ XML to ODS format. Save XML to ODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XML to ODS in C++., C++ XML to ODS saveformat., XML to ODS C++., C++ Convert XML to ODS]
+description: Aspose Excel. Convert XML to ODS quickly and easily with Aspose.Cells. C++ XML to ODS. C++ Save XML to ODS. Save XML as ODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to ODS in C++., Save XML to ODS using C++., C++ XML to ODS saveformat., XML to ODS Converter., C++ Save XML as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

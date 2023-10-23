@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to TXT - HTM to TXT Converter
-description: PHP Aspose.Cells. HTM to TXT in PHP. PHP Convert HTM to TXT saveformat. PHP HTM to TXT Converter. Save HTM to TXT PHP.
-keywords: [PHP Aspose.Cells., HTM to TXT in PHP., PHP HTM to TXT saveformat., HTM to TXT PHP., PHP Convert HTM to TXT., Save HTM to TXT PHP., HTM to TXT Converter., Save HTM as TXT]
+description: Aspose Excel. Convert HTM to TXT quickly and easily with Aspose.Cells. PHP HTM to TXT. PHP Save HTM to TXT. Save HTM as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to TXT in PHP., Save HTM to TXT using PHP., PHP HTM to TXT saveformat., HTM to TXT Converter., PHP Save HTM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

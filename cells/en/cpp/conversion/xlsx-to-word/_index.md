@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to WORD - XLSX to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to WORD in C++. C++ Convert XLSX to WORD saveformat. C++ XLSX to WORD format. Save XLSX to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to WORD in C++., C++ XLSX to WORD saveformat., XLSX to WORD C++., C++ Convert XLSX to WORD]
+description: Aspose Excel. Convert XLSX to WORD quickly and easily with Aspose.Cells. C++ XLSX to WORD. C++ Save XLSX to WORD. Save XLSX as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to WORD in C++., Save XLSX to WORD using C++., C++ XLSX to WORD saveformat., XLSX to WORD Converter., C++ Save XLSX as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to SPREADSHEETML - XLSX to SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to SPREADSHEETML in Java. Java Convert XLSX to SPREADSHEETML saveformat. Java XLSX to SPREADSHEETML format. Save XLSX to SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to SPREADSHEETML in Java., Java XLSX to SPREADSHEETML saveformat., XLSX to SPREADSHEETML Java., Java Convert XLSX to SPREADSHEETML]
+description: Aspose Excel. Convert XLSX to SPREADSHEETML quickly and easily with Aspose.Cells. Java XLSX to SPREADSHEETML. Java Save XLSX to SPREADSHEETML. Save XLSX as SPREADSHEETML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SPREADSHEETML in Java., Save XLSX to SPREADSHEETML using Java., Java XLSX to SPREADSHEETML saveformat., XLSX to SPREADSHEETML Converter., Java Save XLSX as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java CSV to JSON - CSV to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. CSV to JSON in Java. Java Convert CSV to JSON saveformat. Java CSV to JSON format. Save CSV to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., CSV to JSON in Java., Java CSV to JSON saveformat., CSV to JSON Java., Java Convert CSV to JSON]
+description: Aspose Excel. Convert CSV to JSON quickly and easily with Aspose.Cells. Java CSV to JSON. Java Save CSV to JSON. Save CSV as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert CSV to JSON in Java., Save CSV to JSON using Java., Java CSV to JSON saveformat., CSV to JSON Converter., Java Save CSV as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

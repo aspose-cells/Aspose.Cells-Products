@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to XLSB - IMAGE to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to XLSB in C++. C++ Convert IMAGE to XLSB saveformat. C++ IMAGE to XLSB format. Save IMAGE to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to XLSB in C++., C++ IMAGE to XLSB saveformat., IMAGE to XLSB C++., C++ Convert IMAGE to XLSB]
+description: Aspose Excel. Convert IMAGE to XLSB quickly and easily with Aspose.Cells. C++ IMAGE to XLSB. C++ Save IMAGE to XLSB. Save IMAGE as XLSB using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to XLSB in C++., Save IMAGE to XLSB using C++., C++ IMAGE to XLSB saveformat., IMAGE to XLSB Converter., C++ Save IMAGE as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTML to HTM - HTML to HTM Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to HTM in Python. Python Convert HTML to HTM saveformat. Python HTML to HTM format. Save HTML to HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to HTM in Python., Python HTML to HTM saveformat., HTML to HTM Python., Python Convert HTML to HTM]
+description: Aspose Excel. Convert HTML to HTM quickly and easily with Aspose.Cells. Python HTML to HTM. Python Save HTML to HTM. Save HTML as HTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to HTM in Python., Save HTML to HTM using Python., Python HTML to HTM saveformat., HTML to HTM Converter., Python Save HTML as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

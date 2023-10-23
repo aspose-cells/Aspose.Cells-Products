@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to XML - XLTX to XML Converter
-description: PHP Aspose.Cells. XLTX to XML in PHP. PHP Convert XLTX to XML saveformat. PHP XLTX to XML Converter. Save XLTX to XML PHP.
-keywords: [PHP Aspose.Cells., XLTX to XML in PHP., PHP XLTX to XML saveformat., XLTX to XML PHP., PHP Convert XLTX to XML., Save XLTX to XML PHP., XLTX to XML Converter., Save XLTX as XML]
+description: Aspose Excel. Convert XLTX to XML quickly and easily with Aspose.Cells. PHP XLTX to XML. PHP Save XLTX to XML. Save XLTX as XML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to XML in PHP., Save XLTX to XML using PHP., PHP XLTX to XML saveformat., XLTX to XML Converter., PHP Save XLTX as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

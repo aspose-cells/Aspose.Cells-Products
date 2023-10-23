@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to POWERPOINT - XLAM to POWERPOINT Converter
-description: PHP Aspose.Cells. XLAM to POWERPOINT in PHP. PHP Convert XLAM to POWERPOINT saveformat. PHP XLAM to POWERPOINT Converter. Save XLAM to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XLAM to POWERPOINT in PHP., PHP XLAM to POWERPOINT saveformat., XLAM to POWERPOINT PHP., PHP Convert XLAM to POWERPOINT., Save XLAM to POWERPOINT PHP., XLAM to POWERPOINT Converter., Save XLAM as POWERPOINT]
+description: Aspose Excel. Convert XLAM to POWERPOINT quickly and easily with Aspose.Cells. PHP XLAM to POWERPOINT. PHP Save XLAM to POWERPOINT. Save XLAM as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to POWERPOINT in PHP., Save XLAM to POWERPOINT using PHP., PHP XLAM to POWERPOINT saveformat., XLAM to POWERPOINT Converter., PHP Save XLAM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to SVG - XLSB to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to SVG in Python. Python Convert XLSB to SVG saveformat. Python XLSB to SVG format. Save XLSB to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to SVG in Python., Python XLSB to SVG saveformat., XLSB to SVG Python., Python Convert XLSB to SVG]
+description: Aspose Excel. Convert XLSB to SVG quickly and easily with Aspose.Cells. Python XLSB to SVG. Python Save XLSB to SVG. Save XLSB as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to SVG in Python., Save XLSB to SVG using Python., Python XLSB to SVG saveformat., XLSB to SVG Converter., Python Save XLSB as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# SXC to EXCEL - SXC to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. SXC to EXCEL in C#. C# Convert SXC to EXCEL saveformat. C# SXC to EXCEL format. Save SXC to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., SXC to EXCEL in C#., C# SXC to EXCEL saveformat., SXC to EXCEL C#., C# Convert SXC to EXCEL]
+description: Aspose Excel. Convert SXC to EXCEL quickly and easily with Aspose.Cells. C# SXC to EXCEL. C# Save SXC to EXCEL. Save SXC as EXCEL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to EXCEL in C#., Save SXC to EXCEL using C#., C# SXC to EXCEL saveformat., SXC to EXCEL Converter., C# Save SXC as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

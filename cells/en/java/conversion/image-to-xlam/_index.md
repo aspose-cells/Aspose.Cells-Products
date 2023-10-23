@@ -1,7 +1,7 @@
 ---
 title: Java IMAGE to XLAM - IMAGE to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. IMAGE to XLAM in Java. Java Convert IMAGE to XLAM saveformat. Java IMAGE to XLAM format. Save IMAGE to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to XLAM in Java., Java IMAGE to XLAM saveformat., IMAGE to XLAM Java., Java Convert IMAGE to XLAM]
+description: Aspose Excel. Convert IMAGE to XLAM quickly and easily with Aspose.Cells. Java IMAGE to XLAM. Java Save IMAGE to XLAM. Save IMAGE as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to XLAM in Java., Save IMAGE to XLAM using Java., Java IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Java Save IMAGE as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

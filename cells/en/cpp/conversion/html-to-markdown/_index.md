@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to MARKDOWN - HTML to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to MARKDOWN in C++. C++ Convert HTML to MARKDOWN saveformat. C++ HTML to MARKDOWN format. Save HTML to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to MARKDOWN in C++., C++ HTML to MARKDOWN saveformat., HTML to MARKDOWN C++., C++ Convert HTML to MARKDOWN]
+description: Aspose Excel. Convert HTML to MARKDOWN quickly and easily with Aspose.Cells. C++ HTML to MARKDOWN. C++ Save HTML to MARKDOWN. Save HTML as MARKDOWN using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to MARKDOWN in C++., Save HTML to MARKDOWN using C++., C++ HTML to MARKDOWN saveformat., HTML to MARKDOWN Converter., C++ Save HTML as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

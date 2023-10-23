@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to ET - XLTM to ET Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to ET in Java. Java Convert XLTM to ET saveformat. Java XLTM to ET format. Save XLTM to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to ET in Java., Java XLTM to ET saveformat., XLTM to ET Java., Java Convert XLTM to ET]
+description: Aspose Excel. Convert XLTM to ET quickly and easily with Aspose.Cells. Java XLTM to ET. Java Save XLTM to ET. Save XLTM as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to ET in Java., Save XLTM to ET using Java., Java XLTM to ET saveformat., XLTM to ET Converter., Java Save XLTM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

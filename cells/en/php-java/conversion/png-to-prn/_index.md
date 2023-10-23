@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to PRN - PNG to PRN Converter
-description: PHP Aspose.Cells. PNG to PRN in PHP. PHP Convert PNG to PRN saveformat. PHP PNG to PRN Converter. Save PNG to PRN PHP.
-keywords: [PHP Aspose.Cells., PNG to PRN in PHP., PHP PNG to PRN saveformat., PNG to PRN PHP., PHP Convert PNG to PRN., Save PNG to PRN PHP., PNG to PRN Converter., Save PNG as PRN]
+description: Aspose Excel. Convert PNG to PRN quickly and easily with Aspose.Cells. PHP PNG to PRN. PHP Save PNG to PRN. Save PNG as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to PRN in PHP., Save PNG to PRN using PHP., PHP PNG to PRN saveformat., PNG to PRN Converter., PHP Save PNG as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

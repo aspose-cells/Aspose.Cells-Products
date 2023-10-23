@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to MHTML - TXT to MHTML Converter
-description: PHP Aspose.Cells. TXT to MHTML in PHP. PHP Convert TXT to MHTML saveformat. PHP TXT to MHTML Converter. Save TXT to MHTML PHP.
-keywords: [PHP Aspose.Cells., TXT to MHTML in PHP., PHP TXT to MHTML saveformat., TXT to MHTML PHP., PHP Convert TXT to MHTML., Save TXT to MHTML PHP., TXT to MHTML Converter., Save TXT as MHTML]
+description: Aspose Excel. Convert TXT to MHTML quickly and easily with Aspose.Cells. PHP TXT to MHTML. PHP Save TXT to MHTML. Save TXT as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to MHTML in PHP., Save TXT to MHTML using PHP., PHP TXT to MHTML saveformat., TXT to MHTML Converter., PHP Save TXT as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

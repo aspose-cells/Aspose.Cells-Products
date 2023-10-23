@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to HTM - XLSB to HTM Converter
-description: PHP Aspose.Cells. XLSB to HTM in PHP. PHP Convert XLSB to HTM saveformat. PHP XLSB to HTM Converter. Save XLSB to HTM PHP.
-keywords: [PHP Aspose.Cells., XLSB to HTM in PHP., PHP XLSB to HTM saveformat., XLSB to HTM PHP., PHP Convert XLSB to HTM., Save XLSB to HTM PHP., XLSB to HTM Converter., Save XLSB as HTM]
+description: Aspose Excel. Convert XLSB to HTM quickly and easily with Aspose.Cells. PHP XLSB to HTM. PHP Save XLSB to HTM. Save XLSB as HTM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to HTM in PHP., Save XLSB to HTM using PHP., PHP XLSB to HTM saveformat., XLSB to HTM Converter., PHP Save XLSB as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

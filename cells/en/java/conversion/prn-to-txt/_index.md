@@ -1,7 +1,7 @@
 ---
 title: Java PRN to TXT - PRN to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to TXT in Java. Java Convert PRN to TXT saveformat. Java PRN to TXT format. Save PRN to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to TXT in Java., Java PRN to TXT saveformat., PRN to TXT Java., Java Convert PRN to TXT]
+description: Aspose Excel. Convert PRN to TXT quickly and easily with Aspose.Cells. Java PRN to TXT. Java Save PRN to TXT. Save PRN as TXT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to TXT in Java., Save PRN to TXT using Java., Java PRN to TXT saveformat., PRN to TXT Converter., Java Save PRN as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

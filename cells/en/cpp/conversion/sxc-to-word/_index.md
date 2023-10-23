@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to WORD - SXC to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to WORD in C++. C++ Convert SXC to WORD saveformat. C++ SXC to WORD format. Save SXC to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to WORD in C++., C++ SXC to WORD saveformat., SXC to WORD C++., C++ Convert SXC to WORD]
+description: Aspose Excel. Convert SXC to WORD quickly and easily with Aspose.Cells. C++ SXC to WORD. C++ Save SXC to WORD. Save SXC as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to WORD in C++., Save SXC to WORD using C++., C++ SXC to WORD saveformat., SXC to WORD Converter., C++ Save SXC as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

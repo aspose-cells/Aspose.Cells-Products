@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to ET - OTS to ET Converter
-description: PHP Aspose.Cells. OTS to ET in PHP. PHP Convert OTS to ET saveformat. PHP OTS to ET Converter. Save OTS to ET PHP.
-keywords: [PHP Aspose.Cells., OTS to ET in PHP., PHP OTS to ET saveformat., OTS to ET PHP., PHP Convert OTS to ET., Save OTS to ET PHP., OTS to ET Converter., Save OTS as ET]
+description: Aspose Excel. Convert OTS to ET quickly and easily with Aspose.Cells. PHP OTS to ET. PHP Save OTS to ET. Save OTS as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to ET in PHP., Save OTS to ET using PHP., PHP OTS to ET saveformat., OTS to ET Converter., PHP Save OTS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

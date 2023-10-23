@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to WORD - EXCEL to WORD Converter
-description: PHP Aspose.Cells. EXCEL to WORD in PHP. PHP Convert EXCEL to WORD saveformat. PHP EXCEL to WORD Converter. Save EXCEL to WORD PHP.
-keywords: [PHP Aspose.Cells., EXCEL to WORD in PHP., PHP EXCEL to WORD saveformat., EXCEL to WORD PHP., PHP Convert EXCEL to WORD., Save EXCEL to WORD PHP., EXCEL to WORD Converter., Save EXCEL as WORD]
+description: Aspose Excel. Convert EXCEL to WORD quickly and easily with Aspose.Cells. PHP EXCEL to WORD. PHP Save EXCEL to WORD. Save EXCEL as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to WORD in PHP., Save EXCEL to WORD using PHP., PHP EXCEL to WORD saveformat., EXCEL to WORD Converter., PHP Save EXCEL as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

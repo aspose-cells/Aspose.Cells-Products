@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to PDF - JPEG to PDF Converter
-description: PHP Aspose.Cells. JPEG to PDF in PHP. PHP Convert JPEG to PDF saveformat. PHP JPEG to PDF Converter. Save JPEG to PDF PHP.
-keywords: [PHP Aspose.Cells., JPEG to PDF in PHP., PHP JPEG to PDF saveformat., JPEG to PDF PHP., PHP Convert JPEG to PDF., Save JPEG to PDF PHP., JPEG to PDF Converter., Save JPEG as PDF]
+description: Aspose Excel. Convert JPEG to PDF quickly and easily with Aspose.Cells. PHP JPEG to PDF. PHP Save JPEG to PDF. Save JPEG as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to PDF in PHP., Save JPEG to PDF using PHP., PHP JPEG to PDF saveformat., JPEG to PDF Converter., PHP Save JPEG as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

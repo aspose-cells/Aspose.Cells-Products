@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to SQL - HTM to SQL Converter
-description: PHP Aspose.Cells. HTM to SQL in PHP. PHP Convert HTM to SQL saveformat. PHP HTM to SQL Converter. Save HTM to SQL PHP.
-keywords: [PHP Aspose.Cells., HTM to SQL in PHP., PHP HTM to SQL saveformat., HTM to SQL PHP., PHP Convert HTM to SQL., Save HTM to SQL PHP., HTM to SQL Converter., Save HTM as SQL]
+description: Aspose Excel. Convert HTM to SQL quickly and easily with Aspose.Cells. PHP HTM to SQL. PHP Save HTM to SQL. Save HTM as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to SQL in PHP., Save HTM to SQL using PHP., PHP HTM to SQL saveformat., HTM to SQL Converter., PHP Save HTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

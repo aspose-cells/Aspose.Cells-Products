@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to ETT - XLSB to ETT Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to ETT in C#. C# Convert XLSB to ETT saveformat. C# XLSB to ETT format. Save XLSB to ETT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to ETT in C#., C# XLSB to ETT saveformat., XLSB to ETT C#., C# Convert XLSB to ETT]
+description: Aspose Excel. Convert XLSB to ETT quickly and easily with Aspose.Cells. C# XLSB to ETT. C# Save XLSB to ETT. Save XLSB as ETT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to ETT in C#., Save XLSB to ETT using C#., C# XLSB to ETT saveformat., XLSB to ETT Converter., C# Save XLSB as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

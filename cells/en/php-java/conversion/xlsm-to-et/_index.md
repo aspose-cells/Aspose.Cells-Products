@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to ET - XLSM to ET Converter
-description: PHP Aspose.Cells. XLSM to ET in PHP. PHP Convert XLSM to ET saveformat. PHP XLSM to ET Converter. Save XLSM to ET PHP.
-keywords: [PHP Aspose.Cells., XLSM to ET in PHP., PHP XLSM to ET saveformat., XLSM to ET PHP., PHP Convert XLSM to ET., Save XLSM to ET PHP., XLSM to ET Converter., Save XLSM as ET]
+description: Aspose Excel. Convert XLSM to ET quickly and easily with Aspose.Cells. PHP XLSM to ET. PHP Save XLSM to ET. Save XLSM as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to ET in PHP., Save XLSM to ET using PHP., PHP XLSM to ET saveformat., XLSM to ET Converter., PHP Save XLSM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

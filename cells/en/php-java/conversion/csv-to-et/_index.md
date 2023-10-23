@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to ET - CSV to ET Converter
-description: PHP Aspose.Cells. CSV to ET in PHP. PHP Convert CSV to ET saveformat. PHP CSV to ET Converter. Save CSV to ET PHP.
-keywords: [PHP Aspose.Cells., CSV to ET in PHP., PHP CSV to ET saveformat., CSV to ET PHP., PHP Convert CSV to ET., Save CSV to ET PHP., CSV to ET Converter., Save CSV as ET]
+description: Aspose Excel. Convert CSV to ET quickly and easily with Aspose.Cells. PHP CSV to ET. PHP Save CSV to ET. Save CSV as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to ET in PHP., Save CSV to ET using PHP., PHP CSV to ET saveformat., CSV to ET Converter., PHP Save CSV as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

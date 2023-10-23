@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to XLS - IMAGE to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to XLS in C++. C++ Convert IMAGE to XLS saveformat. C++ IMAGE to XLS format. Save IMAGE to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to XLS in C++., C++ IMAGE to XLS saveformat., IMAGE to XLS C++., C++ Convert IMAGE to XLS]
+description: Aspose Excel. Convert IMAGE to XLS quickly and easily with Aspose.Cells. C++ IMAGE to XLS. C++ Save IMAGE to XLS. Save IMAGE as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to XLS in C++., Save IMAGE to XLS using C++., C++ IMAGE to XLS saveformat., IMAGE to XLS Converter., C++ Save IMAGE as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

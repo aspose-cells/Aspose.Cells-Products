@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to XML - XLSX to XML Converter
-description: PHP Aspose.Cells. XLSX to XML in PHP. PHP Convert XLSX to XML saveformat. PHP XLSX to XML Converter. Save XLSX to XML PHP.
-keywords: [PHP Aspose.Cells., XLSX to XML in PHP., PHP XLSX to XML saveformat., XLSX to XML PHP., PHP Convert XLSX to XML., Save XLSX to XML PHP., XLSX to XML Converter., Save XLSX as XML]
+description: Aspose Excel. Convert XLSX to XML quickly and easily with Aspose.Cells. PHP XLSX to XML. PHP Save XLSX to XML. Save XLSX as XML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to XML in PHP., Save XLSX to XML using PHP., PHP XLSX to XML saveformat., XLSX to XML Converter., PHP Save XLSX as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

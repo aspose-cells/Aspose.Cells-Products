@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to SQL - XLTX to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to SQL in C++. C++ Convert XLTX to SQL saveformat. C++ XLTX to SQL format. Save XLTX to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to SQL in C++., C++ XLTX to SQL saveformat., XLTX to SQL C++., C++ Convert XLTX to SQL]
+description: Aspose Excel. Convert XLTX to SQL quickly and easily with Aspose.Cells. C++ XLTX to SQL. C++ Save XLTX to SQL. Save XLTX as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to SQL in C++., Save XLTX to SQL using C++., C++ XLTX to SQL saveformat., XLTX to SQL Converter., C++ Save XLTX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

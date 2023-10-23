@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to MARKDOWN - OTS to MARKDOWN Converter
-description: PHP Aspose.Cells. OTS to MARKDOWN in PHP. PHP Convert OTS to MARKDOWN saveformat. PHP OTS to MARKDOWN Converter. Save OTS to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., OTS to MARKDOWN in PHP., PHP OTS to MARKDOWN saveformat., OTS to MARKDOWN PHP., PHP Convert OTS to MARKDOWN., Save OTS to MARKDOWN PHP., OTS to MARKDOWN Converter., Save OTS as MARKDOWN]
+description: Aspose Excel. Convert OTS to MARKDOWN quickly and easily with Aspose.Cells. PHP OTS to MARKDOWN. PHP Save OTS to MARKDOWN. Save OTS as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to MARKDOWN in PHP., Save OTS to MARKDOWN using PHP., PHP OTS to MARKDOWN saveformat., OTS to MARKDOWN Converter., PHP Save OTS as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

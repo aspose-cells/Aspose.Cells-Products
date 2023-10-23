@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to SXC - SPREADSHEETML to SXC Converter
-description: PHP Aspose.Cells. SPREADSHEETML to SXC in PHP. PHP Convert SPREADSHEETML to SXC saveformat. PHP SPREADSHEETML to SXC Converter. Save SPREADSHEETML to SXC PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to SXC in PHP., PHP SPREADSHEETML to SXC saveformat., SPREADSHEETML to SXC PHP., PHP Convert SPREADSHEETML to SXC., Save SPREADSHEETML to SXC PHP., SPREADSHEETML to SXC Converter., Save SPREADSHEETML as SXC]
+description: Aspose Excel. Convert SPREADSHEETML to SXC quickly and easily with Aspose.Cells. PHP SPREADSHEETML to SXC. PHP Save SPREADSHEETML to SXC. Save SPREADSHEETML as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to SXC in PHP., Save SPREADSHEETML to SXC using PHP., PHP SPREADSHEETML to SXC saveformat., SPREADSHEETML to SXC Converter., PHP Save SPREADSHEETML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

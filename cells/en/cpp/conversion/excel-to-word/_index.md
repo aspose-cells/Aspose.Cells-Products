@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to WORD - EXCEL to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to WORD in C++. C++ Convert EXCEL to WORD saveformat. C++ EXCEL to WORD format. Save EXCEL to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to WORD in C++., C++ EXCEL to WORD saveformat., EXCEL to WORD C++., C++ Convert EXCEL to WORD]
+description: Aspose Excel. Convert EXCEL to WORD quickly and easily with Aspose.Cells. C++ EXCEL to WORD. C++ Save EXCEL to WORD. Save EXCEL as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to WORD in C++., Save EXCEL to WORD using C++., C++ EXCEL to WORD saveformat., EXCEL to WORD Converter., C++ Save EXCEL as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

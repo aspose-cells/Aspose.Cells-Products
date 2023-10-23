@@ -1,7 +1,7 @@
 ---
 title: Java XML to PPTX - XML to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. XML to PPTX in Java. Java Convert XML to PPTX saveformat. Java XML to PPTX format. Save XML to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XML to PPTX in Java., Java XML to PPTX saveformat., XML to PPTX Java., Java Convert XML to PPTX]
+description: Aspose Excel. Convert XML to PPTX quickly and easily with Aspose.Cells. Java XML to PPTX. Java Save XML to PPTX. Save XML as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to PPTX in Java., Save XML to PPTX using Java., Java XML to PPTX saveformat., XML to PPTX Converter., Java Save XML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

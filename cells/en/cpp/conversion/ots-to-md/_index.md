@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to MD - OTS to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to MD in C++. C++ Convert OTS to MD saveformat. C++ OTS to MD format. Save OTS to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to MD in C++., C++ OTS to MD saveformat., OTS to MD C++., C++ Convert OTS to MD]
+description: Aspose Excel. Convert OTS to MD quickly and easily with Aspose.Cells. C++ OTS to MD. C++ Save OTS to MD. Save OTS as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to MD in C++., Save OTS to MD using C++., C++ OTS to MD saveformat., OTS to MD Converter., C++ Save OTS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

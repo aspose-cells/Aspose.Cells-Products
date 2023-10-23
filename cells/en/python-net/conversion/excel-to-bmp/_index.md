@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to BMP - EXCEL to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to BMP in Python. Python Convert EXCEL to BMP saveformat. Python EXCEL to BMP format. Save EXCEL to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to BMP in Python., Python EXCEL to BMP saveformat., EXCEL to BMP Python., Python Convert EXCEL to BMP]
+description: Aspose Excel. Convert EXCEL to BMP quickly and easily with Aspose.Cells. Python EXCEL to BMP. Python Save EXCEL to BMP. Save EXCEL as BMP using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to BMP in Python., Save EXCEL to BMP using Python., Python EXCEL to BMP saveformat., EXCEL to BMP Converter., Python Save EXCEL as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

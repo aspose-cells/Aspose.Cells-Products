@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to TSV - SXC to TSV Converter
-description: PHP Aspose.Cells. SXC to TSV in PHP. PHP Convert SXC to TSV saveformat. PHP SXC to TSV Converter. Save SXC to TSV PHP.
-keywords: [PHP Aspose.Cells., SXC to TSV in PHP., PHP SXC to TSV saveformat., SXC to TSV PHP., PHP Convert SXC to TSV., Save SXC to TSV PHP., SXC to TSV Converter., Save SXC as TSV]
+description: Aspose Excel. Convert SXC to TSV quickly and easily with Aspose.Cells. PHP SXC to TSV. PHP Save SXC to TSV. Save SXC as TSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to TSV in PHP., Save SXC to TSV using PHP., PHP SXC to TSV saveformat., SXC to TSV Converter., PHP Save SXC as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

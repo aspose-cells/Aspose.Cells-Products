@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to SQL - XLT to SQL Converter
-description: PHP Aspose.Cells. XLT to SQL in PHP. PHP Convert XLT to SQL saveformat. PHP XLT to SQL Converter. Save XLT to SQL PHP.
-keywords: [PHP Aspose.Cells., XLT to SQL in PHP., PHP XLT to SQL saveformat., XLT to SQL PHP., PHP Convert XLT to SQL., Save XLT to SQL PHP., XLT to SQL Converter., Save XLT as SQL]
+description: Aspose Excel. Convert XLT to SQL quickly and easily with Aspose.Cells. PHP XLT to SQL. PHP Save XLT to SQL. Save XLT as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to SQL in PHP., Save XLT to SQL using PHP., PHP XLT to SQL saveformat., XLT to SQL Converter., PHP Save XLT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

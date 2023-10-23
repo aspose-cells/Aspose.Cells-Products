@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to PRN - JPEG to PRN Converter
-description: PHP Aspose.Cells. JPEG to PRN in PHP. PHP Convert JPEG to PRN saveformat. PHP JPEG to PRN Converter. Save JPEG to PRN PHP.
-keywords: [PHP Aspose.Cells., JPEG to PRN in PHP., PHP JPEG to PRN saveformat., JPEG to PRN PHP., PHP Convert JPEG to PRN., Save JPEG to PRN PHP., JPEG to PRN Converter., Save JPEG as PRN]
+description: Aspose Excel. Convert JPEG to PRN quickly and easily with Aspose.Cells. PHP JPEG to PRN. PHP Save JPEG to PRN. Save JPEG as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to PRN in PHP., Save JPEG to PRN using PHP., PHP JPEG to PRN saveformat., JPEG to PRN Converter., PHP Save JPEG as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

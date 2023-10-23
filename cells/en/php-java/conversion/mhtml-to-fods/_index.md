@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to FODS - MHTML to FODS Converter
-description: PHP Aspose.Cells. MHTML to FODS in PHP. PHP Convert MHTML to FODS saveformat. PHP MHTML to FODS Converter. Save MHTML to FODS PHP.
-keywords: [PHP Aspose.Cells., MHTML to FODS in PHP., PHP MHTML to FODS saveformat., MHTML to FODS PHP., PHP Convert MHTML to FODS., Save MHTML to FODS PHP., MHTML to FODS Converter., Save MHTML as FODS]
+description: Aspose Excel. Convert MHTML to FODS quickly and easily with Aspose.Cells. PHP MHTML to FODS. PHP Save MHTML to FODS. Save MHTML as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to FODS in PHP., Save MHTML to FODS using PHP., PHP MHTML to FODS saveformat., MHTML to FODS Converter., PHP Save MHTML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to PNG - MHT to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to PNG in C++. C++ Convert MHT to PNG saveformat. C++ MHT to PNG format. Save MHT to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to PNG in C++., C++ MHT to PNG saveformat., MHT to PNG C++., C++ Convert MHT to PNG]
+description: Aspose Excel. Convert MHT to PNG quickly and easily with Aspose.Cells. C++ MHT to PNG. C++ Save MHT to PNG. Save MHT as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to PNG in C++., Save MHT to PNG using C++., C++ MHT to PNG saveformat., MHT to PNG Converter., C++ Save MHT as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

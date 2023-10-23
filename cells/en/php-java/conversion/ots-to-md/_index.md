@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to MD - OTS to MD Converter
-description: PHP Aspose.Cells. OTS to MD in PHP. PHP Convert OTS to MD saveformat. PHP OTS to MD Converter. Save OTS to MD PHP.
-keywords: [PHP Aspose.Cells., OTS to MD in PHP., PHP OTS to MD saveformat., OTS to MD PHP., PHP Convert OTS to MD., Save OTS to MD PHP., OTS to MD Converter., Save OTS as MD]
+description: Aspose Excel. Convert OTS to MD quickly and easily with Aspose.Cells. PHP OTS to MD. PHP Save OTS to MD. Save OTS as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to MD in PHP., Save OTS to MD using PHP., PHP OTS to MD saveformat., OTS to MD Converter., PHP Save OTS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

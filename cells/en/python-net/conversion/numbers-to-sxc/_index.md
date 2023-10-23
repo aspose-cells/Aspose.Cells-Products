@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to SXC - NUMBERS to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to SXC in Python. Python Convert NUMBERS to SXC saveformat. Python NUMBERS to SXC format. Save NUMBERS to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to SXC in Python., Python NUMBERS to SXC saveformat., NUMBERS to SXC Python., Python Convert NUMBERS to SXC]
+description: Aspose Excel. Convert NUMBERS to SXC quickly and easily with Aspose.Cells. Python NUMBERS to SXC. Python Save NUMBERS to SXC. Save NUMBERS as SXC using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to SXC in Python., Save NUMBERS to SXC using Python., Python NUMBERS to SXC saveformat., NUMBERS to SXC Converter., Python Save NUMBERS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

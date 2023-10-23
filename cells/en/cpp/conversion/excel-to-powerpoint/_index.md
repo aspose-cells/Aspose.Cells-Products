@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to POWERPOINT - EXCEL to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to POWERPOINT in C++. C++ Convert EXCEL to POWERPOINT saveformat. C++ EXCEL to POWERPOINT format. Save EXCEL to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to POWERPOINT in C++., C++ EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT C++., C++ Convert EXCEL to POWERPOINT]
+description: Aspose Excel. Convert EXCEL to POWERPOINT quickly and easily with Aspose.Cells. C++ EXCEL to POWERPOINT. C++ Save EXCEL to POWERPOINT. Save EXCEL as POWERPOINT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to POWERPOINT in C++., Save EXCEL to POWERPOINT using C++., C++ EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Converter., C++ Save EXCEL as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

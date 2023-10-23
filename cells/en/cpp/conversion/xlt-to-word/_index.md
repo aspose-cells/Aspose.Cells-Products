@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to WORD - XLT to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to WORD in C++. C++ Convert XLT to WORD saveformat. C++ XLT to WORD format. Save XLT to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to WORD in C++., C++ XLT to WORD saveformat., XLT to WORD C++., C++ Convert XLT to WORD]
+description: Aspose Excel. Convert XLT to WORD quickly and easily with Aspose.Cells. C++ XLT to WORD. C++ Save XLT to WORD. Save XLT as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to WORD in C++., Save XLT to WORD using C++., C++ XLT to WORD saveformat., XLT to WORD Converter., C++ Save XLT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

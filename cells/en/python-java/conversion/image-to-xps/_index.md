@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to XPS - IMAGE to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to XPS in Python. Python Convert IMAGE to XPS saveformat. Python IMAGE to XPS format. Save IMAGE to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to XPS in Python., Python IMAGE to XPS saveformat., IMAGE to XPS Python., Python Convert IMAGE to XPS]
+description: Aspose Excel. Convert IMAGE to XPS quickly and easily with Aspose.Cells. Python IMAGE to XPS. Python Save IMAGE to XPS. Save IMAGE as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to XPS in Python., Save IMAGE to XPS using Python., Python IMAGE to XPS saveformat., IMAGE to XPS Converter., Python Save IMAGE as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

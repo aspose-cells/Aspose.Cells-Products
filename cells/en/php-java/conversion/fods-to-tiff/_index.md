@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to TIFF - FODS to TIFF Converter
-description: PHP Aspose.Cells. FODS to TIFF in PHP. PHP Convert FODS to TIFF saveformat. PHP FODS to TIFF Converter. Save FODS to TIFF PHP.
-keywords: [PHP Aspose.Cells., FODS to TIFF in PHP., PHP FODS to TIFF saveformat., FODS to TIFF PHP., PHP Convert FODS to TIFF., Save FODS to TIFF PHP., FODS to TIFF Converter., Save FODS as TIFF]
+description: Aspose Excel. Convert FODS to TIFF quickly and easily with Aspose.Cells. PHP FODS to TIFF. PHP Save FODS to TIFF. Save FODS as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to TIFF in PHP., Save FODS to TIFF using PHP., PHP FODS to TIFF saveformat., FODS to TIFF Converter., PHP Save FODS as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

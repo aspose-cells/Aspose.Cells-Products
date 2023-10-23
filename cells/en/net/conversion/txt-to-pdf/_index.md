@@ -1,7 +1,7 @@
 ---
 title: C# TXT to PDF - TXT to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to PDF in C#. C# Convert TXT to PDF saveformat. C# TXT to PDF format. Save TXT to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to PDF in C#., C# TXT to PDF saveformat., TXT to PDF C#., C# Convert TXT to PDF]
+description: Aspose Excel. Convert TXT to PDF quickly and easily with Aspose.Cells. C# TXT to PDF. C# Save TXT to PDF. Save TXT as PDF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to PDF in C#., Save TXT to PDF using C#., C# TXT to PDF saveformat., TXT to PDF Converter., C# Save TXT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

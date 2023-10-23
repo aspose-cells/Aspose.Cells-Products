@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to MHTML - EXCEL to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to MHTML in Python. Python Convert EXCEL to MHTML saveformat. Python EXCEL to MHTML format. Save EXCEL to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to MHTML in Python., Python EXCEL to MHTML saveformat., EXCEL to MHTML Python., Python Convert EXCEL to MHTML]
+description: Aspose Excel. Convert EXCEL to MHTML quickly and easily with Aspose.Cells. Python EXCEL to MHTML. Python Save EXCEL to MHTML. Save EXCEL as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to MHTML in Python., Save EXCEL to MHTML using Python., Python EXCEL to MHTML saveformat., EXCEL to MHTML Converter., Python Save EXCEL as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

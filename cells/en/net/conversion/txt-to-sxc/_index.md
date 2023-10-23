@@ -1,7 +1,7 @@
 ---
 title: C# TXT to SXC - TXT to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to SXC in C#. C# Convert TXT to SXC saveformat. C# TXT to SXC format. Save TXT to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to SXC in C#., C# TXT to SXC saveformat., TXT to SXC C#., C# Convert TXT to SXC]
+description: Aspose Excel. Convert TXT to SXC quickly and easily with Aspose.Cells. C# TXT to SXC. C# Save TXT to SXC. Save TXT as SXC using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to SXC in C#., Save TXT to SXC using C#., C# TXT to SXC saveformat., TXT to SXC Converter., C# Save TXT as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

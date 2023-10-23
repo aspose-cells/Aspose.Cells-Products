@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to GIF - XLSX to GIF Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to GIF in C#. C# Convert XLSX to GIF saveformat. C# XLSX to GIF format. Save XLSX to GIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to GIF in C#., C# XLSX to GIF saveformat., XLSX to GIF C#., C# Convert XLSX to GIF]
+description: Aspose Excel. Convert XLSX to GIF quickly and easily with Aspose.Cells. C# XLSX to GIF. C# Save XLSX to GIF. Save XLSX as GIF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to GIF in C#., Save XLSX to GIF using C#., C# XLSX to GIF saveformat., XLSX to GIF Converter., C# Save XLSX as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

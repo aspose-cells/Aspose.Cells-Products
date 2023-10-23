@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to POWERPOINT - XLSB to POWERPOINT Converter
-description: PHP Aspose.Cells. XLSB to POWERPOINT in PHP. PHP Convert XLSB to POWERPOINT saveformat. PHP XLSB to POWERPOINT Converter. Save XLSB to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XLSB to POWERPOINT in PHP., PHP XLSB to POWERPOINT saveformat., XLSB to POWERPOINT PHP., PHP Convert XLSB to POWERPOINT., Save XLSB to POWERPOINT PHP., XLSB to POWERPOINT Converter., Save XLSB as POWERPOINT]
+description: Aspose Excel. Convert XLSB to POWERPOINT quickly and easily with Aspose.Cells. PHP XLSB to POWERPOINT. PHP Save XLSB to POWERPOINT. Save XLSB as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to POWERPOINT in PHP., Save XLSB to POWERPOINT using PHP., PHP XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Converter., PHP Save XLSB as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to OTS - HTML to OTS Converter
-description: PHP Aspose.Cells. HTML to OTS in PHP. PHP Convert HTML to OTS saveformat. PHP HTML to OTS Converter. Save HTML to OTS PHP.
-keywords: [PHP Aspose.Cells., HTML to OTS in PHP., PHP HTML to OTS saveformat., HTML to OTS PHP., PHP Convert HTML to OTS., Save HTML to OTS PHP., HTML to OTS Converter., Save HTML as OTS]
+description: Aspose Excel. Convert HTML to OTS quickly and easily with Aspose.Cells. PHP HTML to OTS. PHP Save HTML to OTS. Save HTML as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to OTS in PHP., Save HTML to OTS using PHP., PHP HTML to OTS saveformat., HTML to OTS Converter., PHP Save HTML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

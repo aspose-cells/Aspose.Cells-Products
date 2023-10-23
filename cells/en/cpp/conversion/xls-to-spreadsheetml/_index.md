@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to SPREADSHEETML - XLS to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to SPREADSHEETML in C++. C++ Convert XLS to SPREADSHEETML saveformat. C++ XLS to SPREADSHEETML format. Save XLS to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to SPREADSHEETML in C++., C++ XLS to SPREADSHEETML saveformat., XLS to SPREADSHEETML C++., C++ Convert XLS to SPREADSHEETML]
+description: Aspose Excel. Convert XLS to SPREADSHEETML quickly and easily with Aspose.Cells. C++ XLS to SPREADSHEETML. C++ Save XLS to SPREADSHEETML. Save XLS as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to SPREADSHEETML in C++., Save XLS to SPREADSHEETML using C++., C++ XLS to SPREADSHEETML saveformat., XLS to SPREADSHEETML Converter., C++ Save XLS as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

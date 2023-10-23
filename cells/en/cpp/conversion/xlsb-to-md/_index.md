@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to MD - XLSB to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to MD in C++. C++ Convert XLSB to MD saveformat. C++ XLSB to MD format. Save XLSB to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to MD in C++., C++ XLSB to MD saveformat., XLSB to MD C++., C++ Convert XLSB to MD]
+description: Aspose Excel. Convert XLSB to MD quickly and easily with Aspose.Cells. C++ XLSB to MD. C++ Save XLSB to MD. Save XLSB as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to MD in C++., Save XLSB to MD using C++., C++ XLSB to MD saveformat., XLSB to MD Converter., C++ Save XLSB as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# JPG to HTM - JPG to HTM Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to HTM in C#. C# Convert JPG to HTM saveformat. C# JPG to HTM format. Save JPG to HTM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to HTM in C#., C# JPG to HTM saveformat., JPG to HTM C#., C# Convert JPG to HTM]
+description: Aspose Excel. Convert JPG to HTM quickly and easily with Aspose.Cells. C# JPG to HTM. C# Save JPG to HTM. Save JPG as HTM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to HTM in C#., Save JPG to HTM using C#., C# JPG to HTM saveformat., JPG to HTM Converter., C# Save JPG as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

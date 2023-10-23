@@ -1,7 +1,7 @@
 ---
 title: C# CSV to PPTX - CSV to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. CSV to PPTX in C#. C# Convert CSV to PPTX saveformat. C# CSV to PPTX format. Save CSV to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., CSV to PPTX in C#., C# CSV to PPTX saveformat., CSV to PPTX C#., C# Convert CSV to PPTX]
+description: Aspose Excel. Convert CSV to PPTX quickly and easily with Aspose.Cells. C# CSV to PPTX. C# Save CSV to PPTX. Save CSV as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert CSV to PPTX in C#., Save CSV to PPTX using C#., C# CSV to PPTX saveformat., CSV to PPTX Converter., C# Save CSV as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

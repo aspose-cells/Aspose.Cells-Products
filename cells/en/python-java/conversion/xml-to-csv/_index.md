@@ -1,7 +1,7 @@
 ---
 title: Python XML to CSV - XML to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. XML to CSV in Python. Python Convert XML to CSV saveformat. Python XML to CSV format. Save XML to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to CSV in Python., Python XML to CSV saveformat., XML to CSV Python., Python Convert XML to CSV]
+description: Aspose Excel. Convert XML to CSV quickly and easily with Aspose.Cells. Python XML to CSV. Python Save XML to CSV. Save XML as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to CSV in Python., Save XML to CSV using Python., Python XML to CSV saveformat., XML to CSV Converter., Python Save XML as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

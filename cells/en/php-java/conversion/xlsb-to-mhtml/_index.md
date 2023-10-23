@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to MHTML - XLSB to MHTML Converter
-description: PHP Aspose.Cells. XLSB to MHTML in PHP. PHP Convert XLSB to MHTML saveformat. PHP XLSB to MHTML Converter. Save XLSB to MHTML PHP.
-keywords: [PHP Aspose.Cells., XLSB to MHTML in PHP., PHP XLSB to MHTML saveformat., XLSB to MHTML PHP., PHP Convert XLSB to MHTML., Save XLSB to MHTML PHP., XLSB to MHTML Converter., Save XLSB as MHTML]
+description: Aspose Excel. Convert XLSB to MHTML quickly and easily with Aspose.Cells. PHP XLSB to MHTML. PHP Save XLSB to MHTML. Save XLSB as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to MHTML in PHP., Save XLSB to MHTML using PHP., PHP XLSB to MHTML saveformat., XLSB to MHTML Converter., PHP Save XLSB as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XML to POWERPOINT - XML to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. XML to POWERPOINT in C#. C# Convert XML to POWERPOINT saveformat. C# XML to POWERPOINT format. Save XML to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XML to POWERPOINT in C#., C# XML to POWERPOINT saveformat., XML to POWERPOINT C#., C# Convert XML to POWERPOINT]
+description: Aspose Excel. Convert XML to POWERPOINT quickly and easily with Aspose.Cells. C# XML to POWERPOINT. C# Save XML to POWERPOINT. Save XML as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XML to POWERPOINT in C#., Save XML to POWERPOINT using C#., C# XML to POWERPOINT saveformat., XML to POWERPOINT Converter., C# Save XML as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

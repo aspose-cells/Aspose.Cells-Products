@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to TIFF - IMAGE to TIFF Converter
-description: PHP Aspose.Cells. IMAGE to TIFF in PHP. PHP Convert IMAGE to TIFF saveformat. PHP IMAGE to TIFF Converter. Save IMAGE to TIFF PHP.
-keywords: [PHP Aspose.Cells., IMAGE to TIFF in PHP., PHP IMAGE to TIFF saveformat., IMAGE to TIFF PHP., PHP Convert IMAGE to TIFF., Save IMAGE to TIFF PHP., IMAGE to TIFF Converter., Save IMAGE as TIFF]
+description: Aspose Excel. Convert IMAGE to TIFF quickly and easily with Aspose.Cells. PHP IMAGE to TIFF. PHP Save IMAGE to TIFF. Save IMAGE as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to TIFF in PHP., Save IMAGE to TIFF using PHP., PHP IMAGE to TIFF saveformat., IMAGE to TIFF Converter., PHP Save IMAGE as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

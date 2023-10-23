@@ -1,7 +1,7 @@
 ---
 title: C# NUMBERS to XLSB - NUMBERS to XLSB Converter
-description: Aspose Excel. C# Aspose.Cells. NUMBERS to XLSB in C#. C# Convert NUMBERS to XLSB saveformat. C# NUMBERS to XLSB format. Save NUMBERS to XLSB C#.
-keywords: [Aspose Excel., C# Aspose.Cells., NUMBERS to XLSB in C#., C# NUMBERS to XLSB saveformat., NUMBERS to XLSB C#., C# Convert NUMBERS to XLSB]
+description: Aspose Excel. Convert NUMBERS to XLSB quickly and easily with Aspose.Cells. C# NUMBERS to XLSB. C# Save NUMBERS to XLSB. Save NUMBERS as XLSB using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert NUMBERS to XLSB in C#., Save NUMBERS to XLSB using C#., C# NUMBERS to XLSB saveformat., NUMBERS to XLSB Converter., C# Save NUMBERS as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

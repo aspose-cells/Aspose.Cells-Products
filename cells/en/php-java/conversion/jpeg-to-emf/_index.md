@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to EMF - JPEG to EMF Converter
-description: PHP Aspose.Cells. JPEG to EMF in PHP. PHP Convert JPEG to EMF saveformat. PHP JPEG to EMF Converter. Save JPEG to EMF PHP.
-keywords: [PHP Aspose.Cells., JPEG to EMF in PHP., PHP JPEG to EMF saveformat., JPEG to EMF PHP., PHP Convert JPEG to EMF., Save JPEG to EMF PHP., JPEG to EMF Converter., Save JPEG as EMF]
+description: Aspose Excel. Convert JPEG to EMF quickly and easily with Aspose.Cells. PHP JPEG to EMF. PHP Save JPEG to EMF. Save JPEG as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to EMF in PHP., Save JPEG to EMF using PHP., PHP JPEG to EMF saveformat., JPEG to EMF Converter., PHP Save JPEG as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

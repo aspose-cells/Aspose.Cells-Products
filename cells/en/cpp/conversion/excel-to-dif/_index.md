@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to DIF - EXCEL to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to DIF in C++. C++ Convert EXCEL to DIF saveformat. C++ EXCEL to DIF format. Save EXCEL to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to DIF in C++., C++ EXCEL to DIF saveformat., EXCEL to DIF C++., C++ Convert EXCEL to DIF]
+description: Aspose Excel. Convert EXCEL to DIF quickly and easily with Aspose.Cells. C++ EXCEL to DIF. C++ Save EXCEL to DIF. Save EXCEL as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to DIF in C++., Save EXCEL to DIF using C++., C++ EXCEL to DIF saveformat., EXCEL to DIF Converter., C++ Save EXCEL as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

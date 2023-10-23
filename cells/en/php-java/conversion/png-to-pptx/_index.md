@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to PPTX - PNG to PPTX Converter
-description: PHP Aspose.Cells. PNG to PPTX in PHP. PHP Convert PNG to PPTX saveformat. PHP PNG to PPTX Converter. Save PNG to PPTX PHP.
-keywords: [PHP Aspose.Cells., PNG to PPTX in PHP., PHP PNG to PPTX saveformat., PNG to PPTX PHP., PHP Convert PNG to PPTX., Save PNG to PPTX PHP., PNG to PPTX Converter., Save PNG as PPTX]
+description: Aspose Excel. Convert PNG to PPTX quickly and easily with Aspose.Cells. PHP PNG to PPTX. PHP Save PNG to PPTX. Save PNG as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to PPTX in PHP., Save PNG to PPTX using PHP., PHP PNG to PPTX saveformat., PNG to PPTX Converter., PHP Save PNG as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

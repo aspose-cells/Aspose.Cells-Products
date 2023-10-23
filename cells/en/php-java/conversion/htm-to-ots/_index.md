@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to OTS - HTM to OTS Converter
-description: PHP Aspose.Cells. HTM to OTS in PHP. PHP Convert HTM to OTS saveformat. PHP HTM to OTS Converter. Save HTM to OTS PHP.
-keywords: [PHP Aspose.Cells., HTM to OTS in PHP., PHP HTM to OTS saveformat., HTM to OTS PHP., PHP Convert HTM to OTS., Save HTM to OTS PHP., HTM to OTS Converter., Save HTM as OTS]
+description: Aspose Excel. Convert HTM to OTS quickly and easily with Aspose.Cells. PHP HTM to OTS. PHP Save HTM to OTS. Save HTM as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to OTS in PHP., Save HTM to OTS using PHP., PHP HTM to OTS saveformat., HTM to OTS Converter., PHP Save HTM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

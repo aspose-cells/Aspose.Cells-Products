@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to PDF - EXCEL to PDF Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to PDF in Python. Python Convert EXCEL to PDF saveformat. Python EXCEL to PDF format. Save EXCEL to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to PDF in Python., Python EXCEL to PDF saveformat., EXCEL to PDF Python., Python Convert EXCEL to PDF]
+description: Aspose Excel. Convert EXCEL to PDF quickly and easily with Aspose.Cells. Python EXCEL to PDF. Python Save EXCEL to PDF. Save EXCEL as PDF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to PDF in Python., Save EXCEL to PDF using Python., Python EXCEL to PDF saveformat., EXCEL to PDF Converter., Python Save EXCEL as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

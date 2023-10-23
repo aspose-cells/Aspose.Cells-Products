@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to XLTX - PRN to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to XLTX in C++. C++ Convert PRN to XLTX saveformat. C++ PRN to XLTX format. Save PRN to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to XLTX in C++., C++ PRN to XLTX saveformat., PRN to XLTX C++., C++ Convert PRN to XLTX]
+description: Aspose Excel. Convert PRN to XLTX quickly and easily with Aspose.Cells. C++ PRN to XLTX. C++ Save PRN to XLTX. Save PRN as XLTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to XLTX in C++., Save PRN to XLTX using C++., C++ PRN to XLTX saveformat., PRN to XLTX Converter., C++ Save PRN as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

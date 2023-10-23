@@ -1,7 +1,7 @@
 ---
 title: Python MHT to ETT - MHT to ETT Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to ETT in Python. Python Convert MHT to ETT saveformat. Python MHT to ETT format. Save MHT to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to ETT in Python., Python MHT to ETT saveformat., MHT to ETT Python., Python Convert MHT to ETT]
+description: Aspose Excel. Convert MHT to ETT quickly and easily with Aspose.Cells. Python MHT to ETT. Python Save MHT to ETT. Save MHT as ETT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to ETT in Python., Save MHT to ETT using Python., Python MHT to ETT saveformat., MHT to ETT Converter., Python Save MHT as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

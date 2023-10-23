@@ -1,7 +1,7 @@
 ---
 title: Java HTML to SQL - HTML to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. HTML to SQL in Java. Java Convert HTML to SQL saveformat. Java HTML to SQL format. Save HTML to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTML to SQL in Java., Java HTML to SQL saveformat., HTML to SQL Java., Java Convert HTML to SQL]
+description: Aspose Excel. Convert HTML to SQL quickly and easily with Aspose.Cells. Java HTML to SQL. Java Save HTML to SQL. Save HTML as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to SQL in Java., Save HTML to SQL using Java., Java HTML to SQL saveformat., HTML to SQL Converter., Java Save HTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

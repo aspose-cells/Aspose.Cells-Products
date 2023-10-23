@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to ETT - XLSB to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to ETT in Java. Java Convert XLSB to ETT saveformat. Java XLSB to ETT format. Save XLSB to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to ETT in Java., Java XLSB to ETT saveformat., XLSB to ETT Java., Java Convert XLSB to ETT]
+description: Aspose Excel. Convert XLSB to ETT quickly and easily with Aspose.Cells. Java XLSB to ETT. Java Save XLSB to ETT. Save XLSB as ETT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to ETT in Java., Save XLSB to ETT using Java., Java XLSB to ETT saveformat., XLSB to ETT Converter., Java Save XLSB as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

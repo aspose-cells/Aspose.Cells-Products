@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to ET - XLSB to ET Converter
-description: PHP Aspose.Cells. XLSB to ET in PHP. PHP Convert XLSB to ET saveformat. PHP XLSB to ET Converter. Save XLSB to ET PHP.
-keywords: [PHP Aspose.Cells., XLSB to ET in PHP., PHP XLSB to ET saveformat., XLSB to ET PHP., PHP Convert XLSB to ET., Save XLSB to ET PHP., XLSB to ET Converter., Save XLSB as ET]
+description: Aspose Excel. Convert XLSB to ET quickly and easily with Aspose.Cells. PHP XLSB to ET. PHP Save XLSB to ET. Save XLSB as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to ET in PHP., Save XLSB to ET using PHP., PHP XLSB to ET saveformat., XLSB to ET Converter., PHP Save XLSB as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

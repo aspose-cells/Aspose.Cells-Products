@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to JSON - SPREADSHEETML to JSON Converter
-description: PHP Aspose.Cells. SPREADSHEETML to JSON in PHP. PHP Convert SPREADSHEETML to JSON saveformat. PHP SPREADSHEETML to JSON Converter. Save SPREADSHEETML to JSON PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to JSON in PHP., PHP SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON PHP., PHP Convert SPREADSHEETML to JSON., Save SPREADSHEETML to JSON PHP., SPREADSHEETML to JSON Converter., Save SPREADSHEETML as JSON]
+description: Aspose Excel. Convert SPREADSHEETML to JSON quickly and easily with Aspose.Cells. PHP SPREADSHEETML to JSON. PHP Save SPREADSHEETML to JSON. Save SPREADSHEETML as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to JSON in PHP., Save SPREADSHEETML to JSON using PHP., PHP SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON Converter., PHP Save SPREADSHEETML as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

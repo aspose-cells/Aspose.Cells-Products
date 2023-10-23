@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to PDF - XLAM to PDF Converter
-description: PHP Aspose.Cells. XLAM to PDF in PHP. PHP Convert XLAM to PDF saveformat. PHP XLAM to PDF Converter. Save XLAM to PDF PHP.
-keywords: [PHP Aspose.Cells., XLAM to PDF in PHP., PHP XLAM to PDF saveformat., XLAM to PDF PHP., PHP Convert XLAM to PDF., Save XLAM to PDF PHP., XLAM to PDF Converter., Save XLAM as PDF]
+description: Aspose Excel. Convert XLAM to PDF quickly and easily with Aspose.Cells. PHP XLAM to PDF. PHP Save XLAM to PDF. Save XLAM as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to PDF in PHP., Save XLAM to PDF using PHP., PHP XLAM to PDF saveformat., XLAM to PDF Converter., PHP Save XLAM as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

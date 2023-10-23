@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to XLSX - JPG to XLSX Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to XLSX in C++. C++ Convert JPG to XLSX saveformat. C++ JPG to XLSX format. Save JPG to XLSX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to XLSX in C++., C++ JPG to XLSX saveformat., JPG to XLSX C++., C++ Convert JPG to XLSX]
+description: Aspose Excel. Convert JPG to XLSX quickly and easily with Aspose.Cells. C++ JPG to XLSX. C++ Save JPG to XLSX. Save JPG as XLSX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to XLSX in C++., Save JPG to XLSX using C++., C++ JPG to XLSX saveformat., JPG to XLSX Converter., C++ Save JPG as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

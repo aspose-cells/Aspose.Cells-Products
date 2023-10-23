@@ -1,7 +1,7 @@
 ---
 title: Python FODS to XLSM - FODS to XLSM Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to XLSM in Python. Python Convert FODS to XLSM saveformat. Python FODS to XLSM format. Save FODS to XLSM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to XLSM in Python., Python FODS to XLSM saveformat., FODS to XLSM Python., Python Convert FODS to XLSM]
+description: Aspose Excel. Convert FODS to XLSM quickly and easily with Aspose.Cells. Python FODS to XLSM. Python Save FODS to XLSM. Save FODS as XLSM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to XLSM in Python., Save FODS to XLSM using Python., Python FODS to XLSM saveformat., FODS to XLSM Converter., Python Save FODS as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

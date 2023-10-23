@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to PPTX - XLS to PPTX Converter
-description: PHP Aspose.Cells. XLS to PPTX in PHP. PHP Convert XLS to PPTX saveformat. PHP XLS to PPTX Converter. Save XLS to PPTX PHP.
-keywords: [PHP Aspose.Cells., XLS to PPTX in PHP., PHP XLS to PPTX saveformat., XLS to PPTX PHP., PHP Convert XLS to PPTX., Save XLS to PPTX PHP., XLS to PPTX Converter., Save XLS as PPTX]
+description: Aspose Excel. Convert XLS to PPTX quickly and easily with Aspose.Cells. PHP XLS to PPTX. PHP Save XLS to PPTX. Save XLS as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to PPTX in PHP., Save XLS to PPTX using PHP., PHP XLS to PPTX saveformat., XLS to PPTX Converter., PHP Save XLS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

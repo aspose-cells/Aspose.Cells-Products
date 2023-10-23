@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML to ET - SPREADSHEETML to ET Converter
-description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to ET in Python. Python Convert SPREADSHEETML to ET saveformat. Python SPREADSHEETML to ET format. Save SPREADSHEETML to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to ET in Python., Python SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Python., Python Convert SPREADSHEETML to ET]
+description: Aspose Excel. Convert SPREADSHEETML to ET quickly and easily with Aspose.Cells. Python SPREADSHEETML to ET. Python Save SPREADSHEETML to ET. Save SPREADSHEETML as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to ET in Python., Save SPREADSHEETML to ET using Python., Python SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Converter., Python Save SPREADSHEETML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

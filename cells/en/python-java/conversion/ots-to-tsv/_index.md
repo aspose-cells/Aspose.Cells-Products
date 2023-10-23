@@ -1,7 +1,7 @@
 ---
 title: Python OTS to TSV - OTS to TSV Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to TSV in Python. Python Convert OTS to TSV saveformat. Python OTS to TSV format. Save OTS to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to TSV in Python., Python OTS to TSV saveformat., OTS to TSV Python., Python Convert OTS to TSV]
+description: Aspose Excel. Convert OTS to TSV quickly and easily with Aspose.Cells. Python OTS to TSV. Python Save OTS to TSV. Save OTS as TSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to TSV in Python., Save OTS to TSV using Python., Python OTS to TSV saveformat., OTS to TSV Converter., Python Save OTS as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

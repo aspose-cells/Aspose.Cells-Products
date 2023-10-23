@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to ETT - JPEG to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to ETT in C++. C++ Convert JPEG to ETT saveformat. C++ JPEG to ETT format. Save JPEG to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to ETT in C++., C++ JPEG to ETT saveformat., JPEG to ETT C++., C++ Convert JPEG to ETT]
+description: Aspose Excel. Convert JPEG to ETT quickly and easily with Aspose.Cells. C++ JPEG to ETT. C++ Save JPEG to ETT. Save JPEG as ETT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to ETT in C++., Save JPEG to ETT using C++., C++ JPEG to ETT saveformat., JPEG to ETT Converter., C++ Save JPEG as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

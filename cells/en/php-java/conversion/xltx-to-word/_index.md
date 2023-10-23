@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to WORD - XLTX to WORD Converter
-description: PHP Aspose.Cells. XLTX to WORD in PHP. PHP Convert XLTX to WORD saveformat. PHP XLTX to WORD Converter. Save XLTX to WORD PHP.
-keywords: [PHP Aspose.Cells., XLTX to WORD in PHP., PHP XLTX to WORD saveformat., XLTX to WORD PHP., PHP Convert XLTX to WORD., Save XLTX to WORD PHP., XLTX to WORD Converter., Save XLTX as WORD]
+description: Aspose Excel. Convert XLTX to WORD quickly and easily with Aspose.Cells. PHP XLTX to WORD. PHP Save XLTX to WORD. Save XLTX as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to WORD in PHP., Save XLTX to WORD using PHP., PHP XLTX to WORD saveformat., XLTX to WORD Converter., PHP Save XLTX as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

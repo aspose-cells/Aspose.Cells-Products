@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to XLS - OTS to XLS Converter
-description: PHP Aspose.Cells. OTS to XLS in PHP. PHP Convert OTS to XLS saveformat. PHP OTS to XLS Converter. Save OTS to XLS PHP.
-keywords: [PHP Aspose.Cells., OTS to XLS in PHP., PHP OTS to XLS saveformat., OTS to XLS PHP., PHP Convert OTS to XLS., Save OTS to XLS PHP., OTS to XLS Converter., Save OTS as XLS]
+description: Aspose Excel. Convert OTS to XLS quickly and easily with Aspose.Cells. PHP OTS to XLS. PHP Save OTS to XLS. Save OTS as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to XLS in PHP., Save OTS to XLS using PHP., PHP OTS to XLS saveformat., OTS to XLS Converter., PHP Save OTS as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

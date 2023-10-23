@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to MD - MHTML to MD Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to MD in Python. Python Convert MHTML to MD saveformat. Python MHTML to MD format. Save MHTML to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to MD in Python., Python MHTML to MD saveformat., MHTML to MD Python., Python Convert MHTML to MD]
+description: Aspose Excel. Convert MHTML to MD quickly and easily with Aspose.Cells. Python MHTML to MD. Python Save MHTML to MD. Save MHTML as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to MD in Python., Save MHTML to MD using Python., Python MHTML to MD saveformat., MHTML to MD Converter., Python Save MHTML as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

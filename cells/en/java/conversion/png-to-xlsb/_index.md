@@ -1,7 +1,7 @@
 ---
 title: Java PNG to XLSB - PNG to XLSB Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to XLSB in Java. Java Convert PNG to XLSB saveformat. Java PNG to XLSB format. Save PNG to XLSB Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to XLSB in Java., Java PNG to XLSB saveformat., PNG to XLSB Java., Java Convert PNG to XLSB]
+description: Aspose Excel. Convert PNG to XLSB quickly and easily with Aspose.Cells. Java PNG to XLSB. Java Save PNG to XLSB. Save PNG as XLSB using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to XLSB in Java., Save PNG to XLSB using Java., Java PNG to XLSB saveformat., PNG to XLSB Converter., Java Save PNG as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to XPS - NUMBERS to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. NUMBERS to XPS in C++. C++ Convert NUMBERS to XPS saveformat. C++ NUMBERS to XPS format. Save NUMBERS to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to XPS in C++., C++ NUMBERS to XPS saveformat., NUMBERS to XPS C++., C++ Convert NUMBERS to XPS]
+description: Aspose Excel. Convert NUMBERS to XPS quickly and easily with Aspose.Cells. C++ NUMBERS to XPS. C++ Save NUMBERS to XPS. Save NUMBERS as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to XPS in C++., Save NUMBERS to XPS using C++., C++ NUMBERS to XPS saveformat., NUMBERS to XPS Converter., C++ Save NUMBERS as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

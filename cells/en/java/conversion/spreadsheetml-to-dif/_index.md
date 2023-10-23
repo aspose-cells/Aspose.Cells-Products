@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to DIF - SPREADSHEETML to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to DIF in Java. Java Convert SPREADSHEETML to DIF saveformat. Java SPREADSHEETML to DIF format. Save SPREADSHEETML to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to DIF in Java., Java SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Java., Java Convert SPREADSHEETML to DIF]
+description: Aspose Excel. Convert SPREADSHEETML to DIF quickly and easily with Aspose.Cells. Java SPREADSHEETML to DIF. Java Save SPREADSHEETML to DIF. Save SPREADSHEETML as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to DIF in Java., Save SPREADSHEETML to DIF using Java., Java SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., Java Save SPREADSHEETML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

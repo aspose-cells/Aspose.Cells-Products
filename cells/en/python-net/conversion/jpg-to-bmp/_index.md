@@ -1,7 +1,7 @@
 ---
 title: Python JPG to BMP - JPG to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. JPG to BMP in Python. Python Convert JPG to BMP saveformat. Python JPG to BMP format. Save JPG to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPG to BMP in Python., Python JPG to BMP saveformat., JPG to BMP Python., Python Convert JPG to BMP]
+description: Aspose Excel. Convert JPG to BMP quickly and easily with Aspose.Cells. Python JPG to BMP. Python Save JPG to BMP. Save JPG as BMP using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to BMP in Python., Save JPG to BMP using Python., Python JPG to BMP saveformat., JPG to BMP Converter., Python Save JPG as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

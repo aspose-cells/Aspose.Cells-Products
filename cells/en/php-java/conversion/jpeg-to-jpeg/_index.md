@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to JPEG - JPEG to JPEG Converter
-description: PHP Aspose.Cells. JPEG to JPEG in PHP. PHP Convert JPEG to JPEG saveformat. PHP JPEG to JPEG Converter. Save JPEG to JPEG PHP.
-keywords: [PHP Aspose.Cells., JPEG to JPEG in PHP., PHP JPEG to JPEG saveformat., JPEG to JPEG PHP., PHP Convert JPEG to JPEG., Save JPEG to JPEG PHP., JPEG to JPEG Converter., Save JPEG as JPEG]
+description: Aspose Excel. Convert JPEG to JPEG quickly and easily with Aspose.Cells. PHP JPEG to JPEG. PHP Save JPEG to JPEG. Save JPEG as JPEG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to JPEG in PHP., Save JPEG to JPEG using PHP., PHP JPEG to JPEG saveformat., JPEG to JPEG Converter., PHP Save JPEG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

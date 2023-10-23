@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to DIF - XLS to DIF Converter
-description: PHP Aspose.Cells. XLS to DIF in PHP. PHP Convert XLS to DIF saveformat. PHP XLS to DIF Converter. Save XLS to DIF PHP.
-keywords: [PHP Aspose.Cells., XLS to DIF in PHP., PHP XLS to DIF saveformat., XLS to DIF PHP., PHP Convert XLS to DIF., Save XLS to DIF PHP., XLS to DIF Converter., Save XLS as DIF]
+description: Aspose Excel. Convert XLS to DIF quickly and easily with Aspose.Cells. PHP XLS to DIF. PHP Save XLS to DIF. Save XLS as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to DIF in PHP., Save XLS to DIF using PHP., PHP XLS to DIF saveformat., XLS to DIF Converter., PHP Save XLS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

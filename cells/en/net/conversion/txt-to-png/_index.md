@@ -1,7 +1,7 @@
 ---
 title: C# TXT to PNG - TXT to PNG Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to PNG in C#. C# Convert TXT to PNG saveformat. C# TXT to PNG format. Save TXT to PNG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to PNG in C#., C# TXT to PNG saveformat., TXT to PNG C#., C# Convert TXT to PNG]
+description: Aspose Excel. Convert TXT to PNG quickly and easily with Aspose.Cells. C# TXT to PNG. C# Save TXT to PNG. Save TXT as PNG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to PNG in C#., Save TXT to PNG using C#., C# TXT to PNG saveformat., TXT to PNG Converter., C# Save TXT as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

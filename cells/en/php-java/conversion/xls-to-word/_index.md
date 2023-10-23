@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to WORD - XLS to WORD Converter
-description: PHP Aspose.Cells. XLS to WORD in PHP. PHP Convert XLS to WORD saveformat. PHP XLS to WORD Converter. Save XLS to WORD PHP.
-keywords: [PHP Aspose.Cells., XLS to WORD in PHP., PHP XLS to WORD saveformat., XLS to WORD PHP., PHP Convert XLS to WORD., Save XLS to WORD PHP., XLS to WORD Converter., Save XLS as WORD]
+description: Aspose Excel. Convert XLS to WORD quickly and easily with Aspose.Cells. PHP XLS to WORD. PHP Save XLS to WORD. Save XLS as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to WORD in PHP., Save XLS to WORD using PHP., PHP XLS to WORD saveformat., XLS to WORD Converter., PHP Save XLS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

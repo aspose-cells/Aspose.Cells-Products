@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to XLSB - XLTM to XLSB Converter
-description: PHP Aspose.Cells. XLTM to XLSB in PHP. PHP Convert XLTM to XLSB saveformat. PHP XLTM to XLSB Converter. Save XLTM to XLSB PHP.
-keywords: [PHP Aspose.Cells., XLTM to XLSB in PHP., PHP XLTM to XLSB saveformat., XLTM to XLSB PHP., PHP Convert XLTM to XLSB., Save XLTM to XLSB PHP., XLTM to XLSB Converter., Save XLTM as XLSB]
+description: Aspose Excel. Convert XLTM to XLSB quickly and easily with Aspose.Cells. PHP XLTM to XLSB. PHP Save XLTM to XLSB. Save XLTM as XLSB using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to XLSB in PHP., Save XLTM to XLSB using PHP., PHP XLTM to XLSB saveformat., XLTM to XLSB Converter., PHP Save XLTM as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

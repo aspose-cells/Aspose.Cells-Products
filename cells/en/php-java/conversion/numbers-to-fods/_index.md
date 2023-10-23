@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to FODS - NUMBERS to FODS Converter
-description: PHP Aspose.Cells. NUMBERS to FODS in PHP. PHP Convert NUMBERS to FODS saveformat. PHP NUMBERS to FODS Converter. Save NUMBERS to FODS PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to FODS in PHP., PHP NUMBERS to FODS saveformat., NUMBERS to FODS PHP., PHP Convert NUMBERS to FODS., Save NUMBERS to FODS PHP., NUMBERS to FODS Converter., Save NUMBERS as FODS]
+description: Aspose Excel. Convert NUMBERS to FODS quickly and easily with Aspose.Cells. PHP NUMBERS to FODS. PHP Save NUMBERS to FODS. Save NUMBERS as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to FODS in PHP., Save NUMBERS to FODS using PHP., PHP NUMBERS to FODS saveformat., NUMBERS to FODS Converter., PHP Save NUMBERS as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

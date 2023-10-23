@@ -1,7 +1,7 @@
 ---
 title: C++ PRN to POWERPOINT - PRN to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. PRN to POWERPOINT in C++. C++ Convert PRN to POWERPOINT saveformat. C++ PRN to POWERPOINT format. Save PRN to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PRN to POWERPOINT in C++., C++ PRN to POWERPOINT saveformat., PRN to POWERPOINT C++., C++ Convert PRN to POWERPOINT]
+description: Aspose Excel. Convert PRN to POWERPOINT quickly and easily with Aspose.Cells. C++ PRN to POWERPOINT. C++ Save PRN to POWERPOINT. Save PRN as POWERPOINT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to POWERPOINT in C++., Save PRN to POWERPOINT using C++., C++ PRN to POWERPOINT saveformat., PRN to POWERPOINT Converter., C++ Save PRN as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

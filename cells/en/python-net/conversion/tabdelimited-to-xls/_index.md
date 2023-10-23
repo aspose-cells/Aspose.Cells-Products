@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to XLS - TABDELIMITED to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. TABDELIMITED to XLS in Python. Python Convert TABDELIMITED to XLS saveformat. Python TABDELIMITED to XLS format. Save TABDELIMITED to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TABDELIMITED to XLS in Python., Python TABDELIMITED to XLS saveformat., TABDELIMITED to XLS Python., Python Convert TABDELIMITED to XLS]
+description: Aspose Excel. Convert TABDELIMITED to XLS quickly and easily with Aspose.Cells. Python TABDELIMITED to XLS. Python Save TABDELIMITED to XLS. Save TABDELIMITED as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to XLS in Python., Save TABDELIMITED to XLS using Python., Python TABDELIMITED to XLS saveformat., TABDELIMITED to XLS Converter., Python Save TABDELIMITED as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

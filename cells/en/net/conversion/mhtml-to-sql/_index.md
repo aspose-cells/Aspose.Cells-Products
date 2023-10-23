@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to SQL - MHTML to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to SQL in C#. C# Convert MHTML to SQL saveformat. C# MHTML to SQL format. Save MHTML to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to SQL in C#., C# MHTML to SQL saveformat., MHTML to SQL C#., C# Convert MHTML to SQL]
+description: Aspose Excel. Convert MHTML to SQL quickly and easily with Aspose.Cells. C# MHTML to SQL. C# Save MHTML to SQL. Save MHTML as SQL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to SQL in C#., Save MHTML to SQL using C#., C# MHTML to SQL saveformat., MHTML to SQL Converter., C# Save MHTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

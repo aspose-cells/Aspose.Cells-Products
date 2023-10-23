@@ -1,7 +1,7 @@
 ---
 title: C# MHT to XLS - MHT to XLS Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to XLS in C#. C# Convert MHT to XLS saveformat. C# MHT to XLS format. Save MHT to XLS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to XLS in C#., C# MHT to XLS saveformat., MHT to XLS C#., C# Convert MHT to XLS]
+description: Aspose Excel. Convert MHT to XLS quickly and easily with Aspose.Cells. C# MHT to XLS. C# Save MHT to XLS. Save MHT as XLS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to XLS in C#., Save MHT to XLS using C#., C# MHT to XLS saveformat., MHT to XLS Converter., C# Save MHT as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

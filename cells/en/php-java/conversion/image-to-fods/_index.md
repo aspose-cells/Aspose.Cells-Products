@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to FODS - IMAGE to FODS Converter
-description: PHP Aspose.Cells. IMAGE to FODS in PHP. PHP Convert IMAGE to FODS saveformat. PHP IMAGE to FODS Converter. Save IMAGE to FODS PHP.
-keywords: [PHP Aspose.Cells., IMAGE to FODS in PHP., PHP IMAGE to FODS saveformat., IMAGE to FODS PHP., PHP Convert IMAGE to FODS., Save IMAGE to FODS PHP., IMAGE to FODS Converter., Save IMAGE as FODS]
+description: Aspose Excel. Convert IMAGE to FODS quickly and easily with Aspose.Cells. PHP IMAGE to FODS. PHP Save IMAGE to FODS. Save IMAGE as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to FODS in PHP., Save IMAGE to FODS using PHP., PHP IMAGE to FODS saveformat., IMAGE to FODS Converter., PHP Save IMAGE as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

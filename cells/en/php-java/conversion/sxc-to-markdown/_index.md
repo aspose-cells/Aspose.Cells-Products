@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to MARKDOWN - SXC to MARKDOWN Converter
-description: PHP Aspose.Cells. SXC to MARKDOWN in PHP. PHP Convert SXC to MARKDOWN saveformat. PHP SXC to MARKDOWN Converter. Save SXC to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., SXC to MARKDOWN in PHP., PHP SXC to MARKDOWN saveformat., SXC to MARKDOWN PHP., PHP Convert SXC to MARKDOWN., Save SXC to MARKDOWN PHP., SXC to MARKDOWN Converter., Save SXC as MARKDOWN]
+description: Aspose Excel. Convert SXC to MARKDOWN quickly and easily with Aspose.Cells. PHP SXC to MARKDOWN. PHP Save SXC to MARKDOWN. Save SXC as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to MARKDOWN in PHP., Save SXC to MARKDOWN using PHP., PHP SXC to MARKDOWN saveformat., SXC to MARKDOWN Converter., PHP Save SXC as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

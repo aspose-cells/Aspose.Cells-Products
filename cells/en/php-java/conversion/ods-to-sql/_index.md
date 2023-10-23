@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to SQL - ODS to SQL Converter
-description: PHP Aspose.Cells. ODS to SQL in PHP. PHP Convert ODS to SQL saveformat. PHP ODS to SQL Converter. Save ODS to SQL PHP.
-keywords: [PHP Aspose.Cells., ODS to SQL in PHP., PHP ODS to SQL saveformat., ODS to SQL PHP., PHP Convert ODS to SQL., Save ODS to SQL PHP., ODS to SQL Converter., Save ODS as SQL]
+description: Aspose Excel. Convert ODS to SQL quickly and easily with Aspose.Cells. PHP ODS to SQL. PHP Save ODS to SQL. Save ODS as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to SQL in PHP., Save ODS to SQL using PHP., PHP ODS to SQL saveformat., ODS to SQL Converter., PHP Save ODS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to POWERPOINT - PRN to POWERPOINT Converter
-description: PHP Aspose.Cells. PRN to POWERPOINT in PHP. PHP Convert PRN to POWERPOINT saveformat. PHP PRN to POWERPOINT Converter. Save PRN to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., PRN to POWERPOINT in PHP., PHP PRN to POWERPOINT saveformat., PRN to POWERPOINT PHP., PHP Convert PRN to POWERPOINT., Save PRN to POWERPOINT PHP., PRN to POWERPOINT Converter., Save PRN as POWERPOINT]
+description: Aspose Excel. Convert PRN to POWERPOINT quickly and easily with Aspose.Cells. PHP PRN to POWERPOINT. PHP Save PRN to POWERPOINT. Save PRN as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to POWERPOINT in PHP., Save PRN to POWERPOINT using PHP., PHP PRN to POWERPOINT saveformat., PRN to POWERPOINT Converter., PHP Save PRN as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

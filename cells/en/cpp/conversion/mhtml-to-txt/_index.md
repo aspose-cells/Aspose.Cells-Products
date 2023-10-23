@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to TXT - MHTML to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to TXT in C++. C++ Convert MHTML to TXT saveformat. C++ MHTML to TXT format. Save MHTML to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to TXT in C++., C++ MHTML to TXT saveformat., MHTML to TXT C++., C++ Convert MHTML to TXT]
+description: Aspose Excel. Convert MHTML to TXT quickly and easily with Aspose.Cells. C++ MHTML to TXT. C++ Save MHTML to TXT. Save MHTML as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to TXT in C++., Save MHTML to TXT using C++., C++ MHTML to TXT saveformat., MHTML to TXT Converter., C++ Save MHTML as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

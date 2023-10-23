@@ -1,7 +1,7 @@
 ---
 title: Python MHT to WORD - MHT to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to WORD in Python. Python Convert MHT to WORD saveformat. Python MHT to WORD format. Save MHT to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to WORD in Python., Python MHT to WORD saveformat., MHT to WORD Python., Python Convert MHT to WORD]
+description: Aspose Excel. Convert MHT to WORD quickly and easily with Aspose.Cells. Python MHT to WORD. Python Save MHT to WORD. Save MHT as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to WORD in Python., Save MHT to WORD using Python., Python MHT to WORD saveformat., MHT to WORD Converter., Python Save MHT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,9 @@
 ---
-title: Remove XLS Annotation via Java 
+title: Add or Remove XLS Annotation via Java 
 weight: 10040
 
 description: Java sample code to delete XLS format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

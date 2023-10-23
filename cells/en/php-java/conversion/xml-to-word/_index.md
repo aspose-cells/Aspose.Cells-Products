@@ -1,7 +1,7 @@
 ---
 title: PHP XML to WORD - XML to WORD Converter
-description: PHP Aspose.Cells. XML to WORD in PHP. PHP Convert XML to WORD saveformat. PHP XML to WORD Converter. Save XML to WORD PHP.
-keywords: [PHP Aspose.Cells., XML to WORD in PHP., PHP XML to WORD saveformat., XML to WORD PHP., PHP Convert XML to WORD., Save XML to WORD PHP., XML to WORD Converter., Save XML as WORD]
+description: Aspose Excel. Convert XML to WORD quickly and easily with Aspose.Cells. PHP XML to WORD. PHP Save XML to WORD. Save XML as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to WORD in PHP., Save XML to WORD using PHP., PHP XML to WORD saveformat., XML to WORD Converter., PHP Save XML as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

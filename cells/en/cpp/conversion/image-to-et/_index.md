@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to ET - IMAGE to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to ET in C++. C++ Convert IMAGE to ET saveformat. C++ IMAGE to ET format. Save IMAGE to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to ET in C++., C++ IMAGE to ET saveformat., IMAGE to ET C++., C++ Convert IMAGE to ET]
+description: Aspose Excel. Convert IMAGE to ET quickly and easily with Aspose.Cells. C++ IMAGE to ET. C++ Save IMAGE to ET. Save IMAGE as ET using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to ET in C++., Save IMAGE to ET using C++., C++ IMAGE to ET saveformat., IMAGE to ET Converter., C++ Save IMAGE as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ XML to MHT - XML to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. XML to MHT in C++. C++ Convert XML to MHT saveformat. C++ XML to MHT format. Save XML to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XML to MHT in C++., C++ XML to MHT saveformat., XML to MHT C++., C++ Convert XML to MHT]
+description: Aspose Excel. Convert XML to MHT quickly and easily with Aspose.Cells. C++ XML to MHT. C++ Save XML to MHT. Save XML as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to MHT in C++., Save XML to MHT using C++., C++ XML to MHT saveformat., XML to MHT Converter., C++ Save XML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

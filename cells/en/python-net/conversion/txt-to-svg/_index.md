@@ -1,7 +1,7 @@
 ---
 title: Python TXT to SVG - TXT to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to SVG in Python. Python Convert TXT to SVG saveformat. Python TXT to SVG format. Save TXT to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to SVG in Python., Python TXT to SVG saveformat., TXT to SVG Python., Python Convert TXT to SVG]
+description: Aspose Excel. Convert TXT to SVG quickly and easily with Aspose.Cells. Python TXT to SVG. Python Save TXT to SVG. Save TXT as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to SVG in Python., Save TXT to SVG using Python., Python TXT to SVG saveformat., TXT to SVG Converter., Python Save TXT as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

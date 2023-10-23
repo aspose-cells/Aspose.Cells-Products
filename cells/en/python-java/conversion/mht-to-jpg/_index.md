@@ -1,7 +1,7 @@
 ---
 title: Python MHT to JPG - MHT to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to JPG in Python. Python Convert MHT to JPG saveformat. Python MHT to JPG format. Save MHT to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to JPG in Python., Python MHT to JPG saveformat., MHT to JPG Python., Python Convert MHT to JPG]
+description: Aspose Excel. Convert MHT to JPG quickly and easily with Aspose.Cells. Python MHT to JPG. Python Save MHT to JPG. Save MHT as JPG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to JPG in Python., Save MHT to JPG using Python., Python MHT to JPG saveformat., MHT to JPG Converter., Python Save MHT as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

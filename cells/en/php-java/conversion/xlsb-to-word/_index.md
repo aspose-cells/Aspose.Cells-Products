@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to WORD - XLSB to WORD Converter
-description: PHP Aspose.Cells. XLSB to WORD in PHP. PHP Convert XLSB to WORD saveformat. PHP XLSB to WORD Converter. Save XLSB to WORD PHP.
-keywords: [PHP Aspose.Cells., XLSB to WORD in PHP., PHP XLSB to WORD saveformat., XLSB to WORD PHP., PHP Convert XLSB to WORD., Save XLSB to WORD PHP., XLSB to WORD Converter., Save XLSB as WORD]
+description: Aspose Excel. Convert XLSB to WORD quickly and easily with Aspose.Cells. PHP XLSB to WORD. PHP Save XLSB to WORD. Save XLSB as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to WORD in PHP., Save XLSB to WORD using PHP., PHP XLSB to WORD saveformat., XLSB to WORD Converter., PHP Save XLSB as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

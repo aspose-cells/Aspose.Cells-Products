@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to IMAGE - JPG to IMAGE Converter
-description: PHP Aspose.Cells. JPG to IMAGE in PHP. PHP Convert JPG to IMAGE saveformat. PHP JPG to IMAGE Converter. Save JPG to IMAGE PHP.
-keywords: [PHP Aspose.Cells., JPG to IMAGE in PHP., PHP JPG to IMAGE saveformat., JPG to IMAGE PHP., PHP Convert JPG to IMAGE., Save JPG to IMAGE PHP., JPG to IMAGE Converter., Save JPG as IMAGE]
+description: Aspose Excel. Convert JPG to IMAGE quickly and easily with Aspose.Cells. PHP JPG to IMAGE. PHP Save JPG to IMAGE. Save JPG as IMAGE using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to IMAGE in PHP., Save JPG to IMAGE using PHP., PHP JPG to IMAGE saveformat., JPG to IMAGE Converter., PHP Save JPG as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

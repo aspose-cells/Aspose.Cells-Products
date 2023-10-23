@@ -1,7 +1,7 @@
 ---
 title: Python SXC to XLSB - SXC to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to XLSB in Python. Python Convert SXC to XLSB saveformat. Python SXC to XLSB format. Save SXC to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to XLSB in Python., Python SXC to XLSB saveformat., SXC to XLSB Python., Python Convert SXC to XLSB]
+description: Aspose Excel. Convert SXC to XLSB quickly and easily with Aspose.Cells. Python SXC to XLSB. Python Save SXC to XLSB. Save SXC as XLSB using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to XLSB in Python., Save SXC to XLSB using Python., Python SXC to XLSB saveformat., SXC to XLSB Converter., Python Save SXC as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

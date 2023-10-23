@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to JSON - XLSB to JSON Converter
-description: PHP Aspose.Cells. XLSB to JSON in PHP. PHP Convert XLSB to JSON saveformat. PHP XLSB to JSON Converter. Save XLSB to JSON PHP.
-keywords: [PHP Aspose.Cells., XLSB to JSON in PHP., PHP XLSB to JSON saveformat., XLSB to JSON PHP., PHP Convert XLSB to JSON., Save XLSB to JSON PHP., XLSB to JSON Converter., Save XLSB as JSON]
+description: Aspose Excel. Convert XLSB to JSON quickly and easily with Aspose.Cells. PHP XLSB to JSON. PHP Save XLSB to JSON. Save XLSB as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to JSON in PHP., Save XLSB to JSON using PHP., PHP XLSB to JSON saveformat., XLSB to JSON Converter., PHP Save XLSB as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

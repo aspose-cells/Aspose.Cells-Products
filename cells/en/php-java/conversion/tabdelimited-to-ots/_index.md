@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to OTS - TABDELIMITED to OTS Converter
-description: PHP Aspose.Cells. TABDELIMITED to OTS in PHP. PHP Convert TABDELIMITED to OTS saveformat. PHP TABDELIMITED to OTS Converter. Save TABDELIMITED to OTS PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to OTS in PHP., PHP TABDELIMITED to OTS saveformat., TABDELIMITED to OTS PHP., PHP Convert TABDELIMITED to OTS., Save TABDELIMITED to OTS PHP., TABDELIMITED to OTS Converter., Save TABDELIMITED as OTS]
+description: Aspose Excel. Convert TABDELIMITED to OTS quickly and easily with Aspose.Cells. PHP TABDELIMITED to OTS. PHP Save TABDELIMITED to OTS. Save TABDELIMITED as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to OTS in PHP., Save TABDELIMITED to OTS using PHP., PHP TABDELIMITED to OTS saveformat., TABDELIMITED to OTS Converter., PHP Save TABDELIMITED as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

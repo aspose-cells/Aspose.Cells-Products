@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to ETT - HTML to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to ETT in C++. C++ Convert HTML to ETT saveformat. C++ HTML to ETT format. Save HTML to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to ETT in C++., C++ HTML to ETT saveformat., HTML to ETT C++., C++ Convert HTML to ETT]
+description: Aspose Excel. Convert HTML to ETT quickly and easily with Aspose.Cells. C++ HTML to ETT. C++ Save HTML to ETT. Save HTML as ETT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to ETT in C++., Save HTML to ETT using C++., C++ HTML to ETT saveformat., HTML to ETT Converter., C++ Save HTML as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

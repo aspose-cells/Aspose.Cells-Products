@@ -1,7 +1,7 @@
 ---
 title: Java JPG to ETT - JPG to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. JPG to ETT in Java. Java Convert JPG to ETT saveformat. Java JPG to ETT format. Save JPG to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPG to ETT in Java., Java JPG to ETT saveformat., JPG to ETT Java., Java Convert JPG to ETT]
+description: Aspose Excel. Convert JPG to ETT quickly and easily with Aspose.Cells. Java JPG to ETT. Java Save JPG to ETT. Save JPG as ETT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to ETT in Java., Save JPG to ETT using Java., Java JPG to ETT saveformat., JPG to ETT Converter., Java Save JPG as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

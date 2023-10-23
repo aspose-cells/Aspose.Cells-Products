@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to SXC - XLTM to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to SXC in Python. Python Convert XLTM to SXC saveformat. Python XLTM to SXC format. Save XLTM to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to SXC in Python., Python XLTM to SXC saveformat., XLTM to SXC Python., Python Convert XLTM to SXC]
+description: Aspose Excel. Convert XLTM to SXC quickly and easily with Aspose.Cells. Python XLTM to SXC. Python Save XLTM to SXC. Save XLTM as SXC using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to SXC in Python., Save XLTM to SXC using Python., Python XLTM to SXC saveformat., XLTM to SXC Converter., Python Save XLTM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

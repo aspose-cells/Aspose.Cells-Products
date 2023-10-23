@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to POWERPOINT - XLSM to POWERPOINT Converter
-description: PHP Aspose.Cells. XLSM to POWERPOINT in PHP. PHP Convert XLSM to POWERPOINT saveformat. PHP XLSM to POWERPOINT Converter. Save XLSM to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XLSM to POWERPOINT in PHP., PHP XLSM to POWERPOINT saveformat., XLSM to POWERPOINT PHP., PHP Convert XLSM to POWERPOINT., Save XLSM to POWERPOINT PHP., XLSM to POWERPOINT Converter., Save XLSM as POWERPOINT]
+description: Aspose Excel. Convert XLSM to POWERPOINT quickly and easily with Aspose.Cells. PHP XLSM to POWERPOINT. PHP Save XLSM to POWERPOINT. Save XLSM as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to POWERPOINT in PHP., Save XLSM to POWERPOINT using PHP., PHP XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Converter., PHP Save XLSM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

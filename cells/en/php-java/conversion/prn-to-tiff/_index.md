@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to TIFF - PRN to TIFF Converter
-description: PHP Aspose.Cells. PRN to TIFF in PHP. PHP Convert PRN to TIFF saveformat. PHP PRN to TIFF Converter. Save PRN to TIFF PHP.
-keywords: [PHP Aspose.Cells., PRN to TIFF in PHP., PHP PRN to TIFF saveformat., PRN to TIFF PHP., PHP Convert PRN to TIFF., Save PRN to TIFF PHP., PRN to TIFF Converter., Save PRN as TIFF]
+description: Aspose Excel. Convert PRN to TIFF quickly and easily with Aspose.Cells. PHP PRN to TIFF. PHP Save PRN to TIFF. Save PRN as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to TIFF in PHP., Save PRN to TIFF using PHP., PHP PRN to TIFF saveformat., PRN to TIFF Converter., PHP Save PRN as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

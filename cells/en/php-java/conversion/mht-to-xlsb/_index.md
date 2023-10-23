@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to XLSB - MHT to XLSB Converter
-description: PHP Aspose.Cells. MHT to XLSB in PHP. PHP Convert MHT to XLSB saveformat. PHP MHT to XLSB Converter. Save MHT to XLSB PHP.
-keywords: [PHP Aspose.Cells., MHT to XLSB in PHP., PHP MHT to XLSB saveformat., MHT to XLSB PHP., PHP Convert MHT to XLSB., Save MHT to XLSB PHP., MHT to XLSB Converter., Save MHT as XLSB]
+description: Aspose Excel. Convert MHT to XLSB quickly and easily with Aspose.Cells. PHP MHT to XLSB. PHP Save MHT to XLSB. Save MHT as XLSB using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to XLSB in PHP., Save MHT to XLSB using PHP., PHP MHT to XLSB saveformat., MHT to XLSB Converter., PHP Save MHT as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

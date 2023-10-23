@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to OTS - IMAGE to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to OTS in Python. Python Convert IMAGE to OTS saveformat. Python IMAGE to OTS format. Save IMAGE to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to OTS in Python., Python IMAGE to OTS saveformat., IMAGE to OTS Python., Python Convert IMAGE to OTS]
+description: Aspose Excel. Convert IMAGE to OTS quickly and easily with Aspose.Cells. Python IMAGE to OTS. Python Save IMAGE to OTS. Save IMAGE as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to OTS in Python., Save IMAGE to OTS using Python., Python IMAGE to OTS saveformat., IMAGE to OTS Converter., Python Save IMAGE as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

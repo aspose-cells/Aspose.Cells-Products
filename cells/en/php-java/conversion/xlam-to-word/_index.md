@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to WORD - XLAM to WORD Converter
-description: PHP Aspose.Cells. XLAM to WORD in PHP. PHP Convert XLAM to WORD saveformat. PHP XLAM to WORD Converter. Save XLAM to WORD PHP.
-keywords: [PHP Aspose.Cells., XLAM to WORD in PHP., PHP XLAM to WORD saveformat., XLAM to WORD PHP., PHP Convert XLAM to WORD., Save XLAM to WORD PHP., XLAM to WORD Converter., Save XLAM as WORD]
+description: Aspose Excel. Convert XLAM to WORD quickly and easily with Aspose.Cells. PHP XLAM to WORD. PHP Save XLAM to WORD. Save XLAM as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to WORD in PHP., Save XLAM to WORD using PHP., PHP XLAM to WORD saveformat., XLAM to WORD Converter., PHP Save XLAM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

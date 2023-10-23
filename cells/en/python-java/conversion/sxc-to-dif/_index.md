@@ -1,7 +1,7 @@
 ---
 title: Python SXC to DIF - SXC to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to DIF in Python. Python Convert SXC to DIF saveformat. Python SXC to DIF format. Save SXC to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to DIF in Python., Python SXC to DIF saveformat., SXC to DIF Python., Python Convert SXC to DIF]
+description: Aspose Excel. Convert SXC to DIF quickly and easily with Aspose.Cells. Python SXC to DIF. Python Save SXC to DIF. Save SXC as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to DIF in Python., Save SXC to DIF using Python., Python SXC to DIF saveformat., SXC to DIF Converter., Python Save SXC as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

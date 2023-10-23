@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to FODS - MHTML to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to FODS in C#. C# Convert MHTML to FODS saveformat. C# MHTML to FODS format. Save MHTML to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to FODS in C#., C# MHTML to FODS saveformat., MHTML to FODS C#., C# Convert MHTML to FODS]
+description: Aspose Excel. Convert MHTML to FODS quickly and easily with Aspose.Cells. C# MHTML to FODS. C# Save MHTML to FODS. Save MHTML as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to FODS in C#., Save MHTML to FODS using C#., C# MHTML to FODS saveformat., MHTML to FODS Converter., C# Save MHTML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

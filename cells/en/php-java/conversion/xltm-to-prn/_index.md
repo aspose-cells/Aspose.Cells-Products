@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to PRN - XLTM to PRN Converter
-description: PHP Aspose.Cells. XLTM to PRN in PHP. PHP Convert XLTM to PRN saveformat. PHP XLTM to PRN Converter. Save XLTM to PRN PHP.
-keywords: [PHP Aspose.Cells., XLTM to PRN in PHP., PHP XLTM to PRN saveformat., XLTM to PRN PHP., PHP Convert XLTM to PRN., Save XLTM to PRN PHP., XLTM to PRN Converter., Save XLTM as PRN]
+description: Aspose Excel. Convert XLTM to PRN quickly and easily with Aspose.Cells. PHP XLTM to PRN. PHP Save XLTM to PRN. Save XLTM as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to PRN in PHP., Save XLTM to PRN using PHP., PHP XLTM to PRN saveformat., XLTM to PRN Converter., PHP Save XLTM as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

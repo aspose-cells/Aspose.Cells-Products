@@ -1,7 +1,7 @@
 ---
 title: Python PRN to MARKDOWN - PRN to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to MARKDOWN in Python. Python Convert PRN to MARKDOWN saveformat. Python PRN to MARKDOWN format. Save PRN to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to MARKDOWN in Python., Python PRN to MARKDOWN saveformat., PRN to MARKDOWN Python., Python Convert PRN to MARKDOWN]
+description: Aspose Excel. Convert PRN to MARKDOWN quickly and easily with Aspose.Cells. Python PRN to MARKDOWN. Python Save PRN to MARKDOWN. Save PRN as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to MARKDOWN in Python., Save PRN to MARKDOWN using Python., Python PRN to MARKDOWN saveformat., PRN to MARKDOWN Converter., Python Save PRN as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to POWERPOINT - TXT to POWERPOINT Converter
-description: PHP Aspose.Cells. TXT to POWERPOINT in PHP. PHP Convert TXT to POWERPOINT saveformat. PHP TXT to POWERPOINT Converter. Save TXT to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., TXT to POWERPOINT in PHP., PHP TXT to POWERPOINT saveformat., TXT to POWERPOINT PHP., PHP Convert TXT to POWERPOINT., Save TXT to POWERPOINT PHP., TXT to POWERPOINT Converter., Save TXT as POWERPOINT]
+description: Aspose Excel. Convert TXT to POWERPOINT quickly and easily with Aspose.Cells. PHP TXT to POWERPOINT. PHP Save TXT to POWERPOINT. Save TXT as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to POWERPOINT in PHP., Save TXT to POWERPOINT using PHP., PHP TXT to POWERPOINT saveformat., TXT to POWERPOINT Converter., PHP Save TXT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

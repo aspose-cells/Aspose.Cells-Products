@@ -1,7 +1,7 @@
 ---
 title: Java XLS to MD - XLS to MD Converter
-description: Aspose Excel. Java Aspose.Cells. XLS to MD in Java. Java Convert XLS to MD saveformat. Java XLS to MD format. Save XLS to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLS to MD in Java., Java XLS to MD saveformat., XLS to MD Java., Java Convert XLS to MD]
+description: Aspose Excel. Convert XLS to MD quickly and easily with Aspose.Cells. Java XLS to MD. Java Save XLS to MD. Save XLS as MD using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to MD in Java., Save XLS to MD using Java., Java XLS to MD saveformat., XLS to MD Converter., Java Save XLS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

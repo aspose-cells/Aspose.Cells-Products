@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to WORD - XLSM to WORD Converter
-description: PHP Aspose.Cells. XLSM to WORD in PHP. PHP Convert XLSM to WORD saveformat. PHP XLSM to WORD Converter. Save XLSM to WORD PHP.
-keywords: [PHP Aspose.Cells., XLSM to WORD in PHP., PHP XLSM to WORD saveformat., XLSM to WORD PHP., PHP Convert XLSM to WORD., Save XLSM to WORD PHP., XLSM to WORD Converter., Save XLSM as WORD]
+description: Aspose Excel. Convert XLSM to WORD quickly and easily with Aspose.Cells. PHP XLSM to WORD. PHP Save XLSM to WORD. Save XLSM as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to WORD in PHP., Save XLSM to WORD using PHP., PHP XLSM to WORD saveformat., XLSM to WORD Converter., PHP Save XLSM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

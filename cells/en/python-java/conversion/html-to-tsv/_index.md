@@ -1,7 +1,7 @@
 ---
 title: Python HTML to TSV - HTML to TSV Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to TSV in Python. Python Convert HTML to TSV saveformat. Python HTML to TSV format. Save HTML to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to TSV in Python., Python HTML to TSV saveformat., HTML to TSV Python., Python Convert HTML to TSV]
+description: Aspose Excel. Convert HTML to TSV quickly and easily with Aspose.Cells. Python HTML to TSV. Python Save HTML to TSV. Save HTML as TSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to TSV in Python., Save HTML to TSV using Python., Python HTML to TSV saveformat., HTML to TSV Converter., Python Save HTML as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

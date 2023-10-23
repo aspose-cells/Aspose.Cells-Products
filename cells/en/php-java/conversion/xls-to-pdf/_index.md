@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to PDF - XLS to PDF Converter
-description: PHP Aspose.Cells. XLS to PDF in PHP. PHP Convert XLS to PDF saveformat. PHP XLS to PDF Converter. Save XLS to PDF PHP.
-keywords: [PHP Aspose.Cells., XLS to PDF in PHP., PHP XLS to PDF saveformat., XLS to PDF PHP., PHP Convert XLS to PDF., Save XLS to PDF PHP., XLS to PDF Converter., Save XLS as PDF]
+description: Aspose Excel. Convert XLS to PDF quickly and easily with Aspose.Cells. PHP XLS to PDF. PHP Save XLS to PDF. Save XLS as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to PDF in PHP., Save XLS to PDF using PHP., PHP XLS to PDF saveformat., XLS to PDF Converter., PHP Save XLS as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

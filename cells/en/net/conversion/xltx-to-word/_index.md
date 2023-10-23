@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to WORD - XLTX to WORD Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to WORD in C#. C# Convert XLTX to WORD saveformat. C# XLTX to WORD format. Save XLTX to WORD C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to WORD in C#., C# XLTX to WORD saveformat., XLTX to WORD C#., C# Convert XLTX to WORD]
+description: Aspose Excel. Convert XLTX to WORD quickly and easily with Aspose.Cells. C# XLTX to WORD. C# Save XLTX to WORD. Save XLTX as WORD using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to WORD in C#., Save XLTX to WORD using C#., C# XLTX to WORD saveformat., XLTX to WORD Converter., C# Save XLTX as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

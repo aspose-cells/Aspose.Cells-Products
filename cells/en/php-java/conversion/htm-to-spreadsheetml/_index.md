@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to SPREADSHEETML - HTM to SPREADSHEETML Converter
-description: PHP Aspose.Cells. HTM to SPREADSHEETML in PHP. PHP Convert HTM to SPREADSHEETML saveformat. PHP HTM to SPREADSHEETML Converter. Save HTM to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., HTM to SPREADSHEETML in PHP., PHP HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML PHP., PHP Convert HTM to SPREADSHEETML., Save HTM to SPREADSHEETML PHP., HTM to SPREADSHEETML Converter., Save HTM as SPREADSHEETML]
+description: Aspose Excel. Convert HTM to SPREADSHEETML quickly and easily with Aspose.Cells. PHP HTM to SPREADSHEETML. PHP Save HTM to SPREADSHEETML. Save HTM as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to SPREADSHEETML in PHP., Save HTM to SPREADSHEETML using PHP., PHP HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML Converter., PHP Save HTM as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

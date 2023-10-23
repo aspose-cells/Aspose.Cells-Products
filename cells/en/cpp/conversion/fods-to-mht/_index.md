@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to MHT - FODS to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to MHT in C++. C++ Convert FODS to MHT saveformat. C++ FODS to MHT format. Save FODS to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to MHT in C++., C++ FODS to MHT saveformat., FODS to MHT C++., C++ Convert FODS to MHT]
+description: Aspose Excel. Convert FODS to MHT quickly and easily with Aspose.Cells. C++ FODS to MHT. C++ Save FODS to MHT. Save FODS as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to MHT in C++., Save FODS to MHT using C++., C++ FODS to MHT saveformat., FODS to MHT Converter., C++ Save FODS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

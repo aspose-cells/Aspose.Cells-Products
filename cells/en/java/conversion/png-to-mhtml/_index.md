@@ -1,7 +1,7 @@
 ---
 title: Java PNG to MHTML - PNG to MHTML Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to MHTML in Java. Java Convert PNG to MHTML saveformat. Java PNG to MHTML format. Save PNG to MHTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to MHTML in Java., Java PNG to MHTML saveformat., PNG to MHTML Java., Java Convert PNG to MHTML]
+description: Aspose Excel. Convert PNG to MHTML quickly and easily with Aspose.Cells. Java PNG to MHTML. Java Save PNG to MHTML. Save PNG as MHTML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to MHTML in Java., Save PNG to MHTML using Java., Java PNG to MHTML saveformat., PNG to MHTML Converter., Java Save PNG as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

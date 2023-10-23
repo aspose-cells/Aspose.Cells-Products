@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to POWERPOINT - SXC to POWERPOINT Converter
-description: PHP Aspose.Cells. SXC to POWERPOINT in PHP. PHP Convert SXC to POWERPOINT saveformat. PHP SXC to POWERPOINT Converter. Save SXC to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., SXC to POWERPOINT in PHP., PHP SXC to POWERPOINT saveformat., SXC to POWERPOINT PHP., PHP Convert SXC to POWERPOINT., Save SXC to POWERPOINT PHP., SXC to POWERPOINT Converter., Save SXC as POWERPOINT]
+description: Aspose Excel. Convert SXC to POWERPOINT quickly and easily with Aspose.Cells. PHP SXC to POWERPOINT. PHP Save SXC to POWERPOINT. Save SXC as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to POWERPOINT in PHP., Save SXC to POWERPOINT using PHP., PHP SXC to POWERPOINT saveformat., SXC to POWERPOINT Converter., PHP Save SXC as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

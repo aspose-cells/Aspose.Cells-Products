@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to SQL - XLSX to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to SQL in C++. C++ Convert XLSX to SQL saveformat. C++ XLSX to SQL format. Save XLSX to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to SQL in C++., C++ XLSX to SQL saveformat., XLSX to SQL C++., C++ Convert XLSX to SQL]
+description: Aspose Excel. Convert XLSX to SQL quickly and easily with Aspose.Cells. C++ XLSX to SQL. C++ Save XLSX to SQL. Save XLSX as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to SQL in C++., Save XLSX to SQL using C++., C++ XLSX to SQL saveformat., XLSX to SQL Converter., C++ Save XLSX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

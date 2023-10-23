@@ -1,7 +1,7 @@
 ---
 title: Python HTM to EXCEL - HTM to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to EXCEL in Python. Python Convert HTM to EXCEL saveformat. Python HTM to EXCEL format. Save HTM to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to EXCEL in Python., Python HTM to EXCEL saveformat., HTM to EXCEL Python., Python Convert HTM to EXCEL]
+description: Aspose Excel. Convert HTM to EXCEL quickly and easily with Aspose.Cells. Python HTM to EXCEL. Python Save HTM to EXCEL. Save HTM as EXCEL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to EXCEL in Python., Save HTM to EXCEL using Python., Python HTM to EXCEL saveformat., HTM to EXCEL Converter., Python Save HTM as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java MHT to SQL - MHT to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to SQL in Java. Java Convert MHT to SQL saveformat. Java MHT to SQL format. Save MHT to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to SQL in Java., Java MHT to SQL saveformat., MHT to SQL Java., Java Convert MHT to SQL]
+description: Aspose Excel. Convert MHT to SQL quickly and easily with Aspose.Cells. Java MHT to SQL. Java Save MHT to SQL. Save MHT as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to SQL in Java., Save MHT to SQL using Java., Java MHT to SQL saveformat., MHT to SQL Converter., Java Save MHT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to POWERPOINT - XLTM to POWERPOINT Converter
-description: PHP Aspose.Cells. XLTM to POWERPOINT in PHP. PHP Convert XLTM to POWERPOINT saveformat. PHP XLTM to POWERPOINT Converter. Save XLTM to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XLTM to POWERPOINT in PHP., PHP XLTM to POWERPOINT saveformat., XLTM to POWERPOINT PHP., PHP Convert XLTM to POWERPOINT., Save XLTM to POWERPOINT PHP., XLTM to POWERPOINT Converter., Save XLTM as POWERPOINT]
+description: Aspose Excel. Convert XLTM to POWERPOINT quickly and easily with Aspose.Cells. PHP XLTM to POWERPOINT. PHP Save XLTM to POWERPOINT. Save XLTM as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to POWERPOINT in PHP., Save XLTM to POWERPOINT using PHP., PHP XLTM to POWERPOINT saveformat., XLTM to POWERPOINT Converter., PHP Save XLTM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

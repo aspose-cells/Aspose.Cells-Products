@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to ET - NUMBERS to ET Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to ET in Python. Python Convert NUMBERS to ET saveformat. Python NUMBERS to ET format. Save NUMBERS to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to ET in Python., Python NUMBERS to ET saveformat., NUMBERS to ET Python., Python Convert NUMBERS to ET]
+description: Aspose Excel. Convert NUMBERS to ET quickly and easily with Aspose.Cells. Python NUMBERS to ET. Python Save NUMBERS to ET. Save NUMBERS as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to ET in Python., Save NUMBERS to ET using Python., Python NUMBERS to ET saveformat., NUMBERS to ET Converter., Python Save NUMBERS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

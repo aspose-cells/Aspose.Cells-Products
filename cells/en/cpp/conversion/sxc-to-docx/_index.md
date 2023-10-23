@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to DOCX - SXC to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to DOCX in C++. C++ Convert SXC to DOCX saveformat. C++ SXC to DOCX format. Save SXC to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to DOCX in C++., C++ SXC to DOCX saveformat., SXC to DOCX C++., C++ Convert SXC to DOCX]
+description: Aspose Excel. Convert SXC to DOCX quickly and easily with Aspose.Cells. C++ SXC to DOCX. C++ Save SXC to DOCX. Save SXC as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to DOCX in C++., Save SXC to DOCX using C++., C++ SXC to DOCX saveformat., SXC to DOCX Converter., C++ Save SXC as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

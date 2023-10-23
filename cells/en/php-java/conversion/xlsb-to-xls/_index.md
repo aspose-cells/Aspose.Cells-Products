@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to XLS - XLSB to XLS Converter
-description: PHP Aspose.Cells. XLSB to XLS in PHP. PHP Convert XLSB to XLS saveformat. PHP XLSB to XLS Converter. Save XLSB to XLS PHP.
-keywords: [PHP Aspose.Cells., XLSB to XLS in PHP., PHP XLSB to XLS saveformat., XLSB to XLS PHP., PHP Convert XLSB to XLS., Save XLSB to XLS PHP., XLSB to XLS Converter., Save XLSB as XLS]
+description: Aspose Excel. Convert XLSB to XLS quickly and easily with Aspose.Cells. PHP XLSB to XLS. PHP Save XLSB to XLS. Save XLSB as XLS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to XLS in PHP., Save XLSB to XLS using PHP., PHP XLSB to XLS saveformat., XLSB to XLS Converter., PHP Save XLSB as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

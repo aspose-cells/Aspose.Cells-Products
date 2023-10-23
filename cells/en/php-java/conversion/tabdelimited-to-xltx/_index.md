@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to XLTX - TABDELIMITED to XLTX Converter
-description: PHP Aspose.Cells. TABDELIMITED to XLTX in PHP. PHP Convert TABDELIMITED to XLTX saveformat. PHP TABDELIMITED to XLTX Converter. Save TABDELIMITED to XLTX PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to XLTX in PHP., PHP TABDELIMITED to XLTX saveformat., TABDELIMITED to XLTX PHP., PHP Convert TABDELIMITED to XLTX., Save TABDELIMITED to XLTX PHP., TABDELIMITED to XLTX Converter., Save TABDELIMITED as XLTX]
+description: Aspose Excel. Convert TABDELIMITED to XLTX quickly and easily with Aspose.Cells. PHP TABDELIMITED to XLTX. PHP Save TABDELIMITED to XLTX. Save TABDELIMITED as XLTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to XLTX in PHP., Save TABDELIMITED to XLTX using PHP., PHP TABDELIMITED to XLTX saveformat., TABDELIMITED to XLTX Converter., PHP Save TABDELIMITED as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

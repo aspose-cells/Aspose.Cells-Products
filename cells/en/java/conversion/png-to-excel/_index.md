@@ -1,7 +1,7 @@
 ---
 title: Java PNG to EXCEL - PNG to EXCEL Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to EXCEL in Java. Java Convert PNG to EXCEL saveformat. Java PNG to EXCEL format. Save PNG to EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to EXCEL in Java., Java PNG to EXCEL saveformat., PNG to EXCEL Java., Java Convert PNG to EXCEL]
+description: Aspose Excel. Convert PNG to EXCEL quickly and easily with Aspose.Cells. Java PNG to EXCEL. Java Save PNG to EXCEL. Save PNG as EXCEL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to EXCEL in Java., Save PNG to EXCEL using Java., Java PNG to EXCEL saveformat., PNG to EXCEL Converter., Java Save PNG as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

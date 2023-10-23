@@ -1,7 +1,7 @@
 ---
 title: Java FODS to SQL - FODS to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to SQL in Java. Java Convert FODS to SQL saveformat. Java FODS to SQL format. Save FODS to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to SQL in Java., Java FODS to SQL saveformat., FODS to SQL Java., Java Convert FODS to SQL]
+description: Aspose Excel. Convert FODS to SQL quickly and easily with Aspose.Cells. Java FODS to SQL. Java Save FODS to SQL. Save FODS as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to SQL in Java., Save FODS to SQL using Java., Java FODS to SQL saveformat., FODS to SQL Converter., Java Save FODS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

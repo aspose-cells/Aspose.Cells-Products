@@ -1,7 +1,7 @@
 ---
 title: Python FODS to XLTX - FODS to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to XLTX in Python. Python Convert FODS to XLTX saveformat. Python FODS to XLTX format. Save FODS to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to XLTX in Python., Python FODS to XLTX saveformat., FODS to XLTX Python., Python Convert FODS to XLTX]
+description: Aspose Excel. Convert FODS to XLTX quickly and easily with Aspose.Cells. Python FODS to XLTX. Python Save FODS to XLTX. Save FODS as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to XLTX in Python., Save FODS to XLTX using Python., Python FODS to XLTX saveformat., FODS to XLTX Converter., Python Save FODS as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

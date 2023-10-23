@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to SVG - EXCEL to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to SVG in Python. Python Convert EXCEL to SVG saveformat. Python EXCEL to SVG format. Save EXCEL to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to SVG in Python., Python EXCEL to SVG saveformat., EXCEL to SVG Python., Python Convert EXCEL to SVG]
+description: Aspose Excel. Convert EXCEL to SVG quickly and easily with Aspose.Cells. Python EXCEL to SVG. Python Save EXCEL to SVG. Save EXCEL as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to SVG in Python., Save EXCEL to SVG using Python., Python EXCEL to SVG saveformat., EXCEL to SVG Converter., Python Save EXCEL as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

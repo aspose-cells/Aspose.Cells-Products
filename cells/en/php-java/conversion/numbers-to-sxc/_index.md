@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to SXC - NUMBERS to SXC Converter
-description: PHP Aspose.Cells. NUMBERS to SXC in PHP. PHP Convert NUMBERS to SXC saveformat. PHP NUMBERS to SXC Converter. Save NUMBERS to SXC PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to SXC in PHP., PHP NUMBERS to SXC saveformat., NUMBERS to SXC PHP., PHP Convert NUMBERS to SXC., Save NUMBERS to SXC PHP., NUMBERS to SXC Converter., Save NUMBERS as SXC]
+description: Aspose Excel. Convert NUMBERS to SXC quickly and easily with Aspose.Cells. PHP NUMBERS to SXC. PHP Save NUMBERS to SXC. Save NUMBERS as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to SXC in PHP., Save NUMBERS to SXC using PHP., PHP NUMBERS to SXC saveformat., NUMBERS to SXC Converter., PHP Save NUMBERS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

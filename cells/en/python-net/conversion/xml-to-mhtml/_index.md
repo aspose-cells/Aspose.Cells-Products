@@ -1,7 +1,7 @@
 ---
 title: Python XML to MHTML - XML to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. XML to MHTML in Python. Python Convert XML to MHTML saveformat. Python XML to MHTML format. Save XML to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to MHTML in Python., Python XML to MHTML saveformat., XML to MHTML Python., Python Convert XML to MHTML]
+description: Aspose Excel. Convert XML to MHTML quickly and easily with Aspose.Cells. Python XML to MHTML. Python Save XML to MHTML. Save XML as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to MHTML in Python., Save XML to MHTML using Python., Python XML to MHTML saveformat., XML to MHTML Converter., Python Save XML as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

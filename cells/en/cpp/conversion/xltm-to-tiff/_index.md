@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to TIFF - XLTM to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to TIFF in C++. C++ Convert XLTM to TIFF saveformat. C++ XLTM to TIFF format. Save XLTM to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to TIFF in C++., C++ XLTM to TIFF saveformat., XLTM to TIFF C++., C++ Convert XLTM to TIFF]
+description: Aspose Excel. Convert XLTM to TIFF quickly and easily with Aspose.Cells. C++ XLTM to TIFF. C++ Save XLTM to TIFF. Save XLTM as TIFF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to TIFF in C++., Save XLTM to TIFF using C++., C++ XLTM to TIFF saveformat., XLTM to TIFF Converter., C++ Save XLTM as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

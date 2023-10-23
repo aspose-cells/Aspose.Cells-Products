@@ -1,7 +1,7 @@
 ---
 title: C# PNG to POWERPOINT - PNG to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. PNG to POWERPOINT in C#. C# Convert PNG to POWERPOINT saveformat. C# PNG to POWERPOINT format. Save PNG to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PNG to POWERPOINT in C#., C# PNG to POWERPOINT saveformat., PNG to POWERPOINT C#., C# Convert PNG to POWERPOINT]
+description: Aspose Excel. Convert PNG to POWERPOINT quickly and easily with Aspose.Cells. C# PNG to POWERPOINT. C# Save PNG to POWERPOINT. Save PNG as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to POWERPOINT in C#., Save PNG to POWERPOINT using C#., C# PNG to POWERPOINT saveformat., PNG to POWERPOINT Converter., C# Save PNG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

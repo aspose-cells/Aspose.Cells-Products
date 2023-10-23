@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to PRN - EXCEL to PRN Converter
-description: PHP Aspose.Cells. EXCEL to PRN in PHP. PHP Convert EXCEL to PRN saveformat. PHP EXCEL to PRN Converter. Save EXCEL to PRN PHP.
-keywords: [PHP Aspose.Cells., EXCEL to PRN in PHP., PHP EXCEL to PRN saveformat., EXCEL to PRN PHP., PHP Convert EXCEL to PRN., Save EXCEL to PRN PHP., EXCEL to PRN Converter., Save EXCEL as PRN]
+description: Aspose Excel. Convert EXCEL to PRN quickly and easily with Aspose.Cells. PHP EXCEL to PRN. PHP Save EXCEL to PRN. Save EXCEL as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to PRN in PHP., Save EXCEL to PRN using PHP., PHP EXCEL to PRN saveformat., EXCEL to PRN Converter., PHP Save EXCEL as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

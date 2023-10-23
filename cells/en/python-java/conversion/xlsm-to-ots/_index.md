@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to OTS - XLSM to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to OTS in Python. Python Convert XLSM to OTS saveformat. Python XLSM to OTS format. Save XLSM to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to OTS in Python., Python XLSM to OTS saveformat., XLSM to OTS Python., Python Convert XLSM to OTS]
+description: Aspose Excel. Convert XLSM to OTS quickly and easily with Aspose.Cells. Python XLSM to OTS. Python Save XLSM to OTS. Save XLSM as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to OTS in Python., Save XLSM to OTS using Python., Python XLSM to OTS saveformat., XLSM to OTS Converter., Python Save XLSM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

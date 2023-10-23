@@ -1,8 +1,9 @@
 ---
-title: Remove XLSM Annotation via .NET 
+title: Add or Remove XLSM Annotation via .NET 
 weight: 9890
 
 description: C# source code to add and delete XLSM format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

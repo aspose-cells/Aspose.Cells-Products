@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to JPG - HTML to JPG Converter
-description: PHP Aspose.Cells. HTML to JPG in PHP. PHP Convert HTML to JPG saveformat. PHP HTML to JPG Converter. Save HTML to JPG PHP.
-keywords: [PHP Aspose.Cells., HTML to JPG in PHP., PHP HTML to JPG saveformat., HTML to JPG PHP., PHP Convert HTML to JPG., Save HTML to JPG PHP., HTML to JPG Converter., Save HTML as JPG]
+description: Aspose Excel. Convert HTML to JPG quickly and easily with Aspose.Cells. PHP HTML to JPG. PHP Save HTML to JPG. Save HTML as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to JPG in PHP., Save HTML to JPG using PHP., PHP HTML to JPG saveformat., HTML to JPG Converter., PHP Save HTML as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

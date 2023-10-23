@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to OTS - XLSB to OTS Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to OTS in C#. C# Convert XLSB to OTS saveformat. C# XLSB to OTS format. Save XLSB to OTS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to OTS in C#., C# XLSB to OTS saveformat., XLSB to OTS C#., C# Convert XLSB to OTS]
+description: Aspose Excel. Convert XLSB to OTS quickly and easily with Aspose.Cells. C# XLSB to OTS. C# Save XLSB to OTS. Save XLSB as OTS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to OTS in C#., Save XLSB to OTS using C#., C# XLSB to OTS saveformat., XLSB to OTS Converter., C# Save XLSB as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

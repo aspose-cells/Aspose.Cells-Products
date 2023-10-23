@@ -1,7 +1,7 @@
 ---
 title: Python PNG to PPTX - PNG to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to PPTX in Python. Python Convert PNG to PPTX saveformat. Python PNG to PPTX format. Save PNG to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to PPTX in Python., Python PNG to PPTX saveformat., PNG to PPTX Python., Python Convert PNG to PPTX]
+description: Aspose Excel. Convert PNG to PPTX quickly and easily with Aspose.Cells. Python PNG to PPTX. Python Save PNG to PPTX. Save PNG as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to PPTX in Python., Save PNG to PPTX using Python., Python PNG to PPTX saveformat., PNG to PPTX Converter., Python Save PNG as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

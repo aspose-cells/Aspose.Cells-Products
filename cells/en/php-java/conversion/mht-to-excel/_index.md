@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to EXCEL - MHT to EXCEL Converter
-description: PHP Aspose.Cells. MHT to EXCEL in PHP. PHP Convert MHT to EXCEL saveformat. PHP MHT to EXCEL Converter. Save MHT to EXCEL PHP.
-keywords: [PHP Aspose.Cells., MHT to EXCEL in PHP., PHP MHT to EXCEL saveformat., MHT to EXCEL PHP., PHP Convert MHT to EXCEL., Save MHT to EXCEL PHP., MHT to EXCEL Converter., Save MHT as EXCEL]
+description: Aspose Excel. Convert MHT to EXCEL quickly and easily with Aspose.Cells. PHP MHT to EXCEL. PHP Save MHT to EXCEL. Save MHT as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to EXCEL in PHP., Save MHT to EXCEL using PHP., PHP MHT to EXCEL saveformat., MHT to EXCEL Converter., PHP Save MHT as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

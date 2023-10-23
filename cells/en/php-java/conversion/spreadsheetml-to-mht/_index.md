@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to MHT - SPREADSHEETML to MHT Converter
-description: PHP Aspose.Cells. SPREADSHEETML to MHT in PHP. PHP Convert SPREADSHEETML to MHT saveformat. PHP SPREADSHEETML to MHT Converter. Save SPREADSHEETML to MHT PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to MHT in PHP., PHP SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT PHP., PHP Convert SPREADSHEETML to MHT., Save SPREADSHEETML to MHT PHP., SPREADSHEETML to MHT Converter., Save SPREADSHEETML as MHT]
+description: Aspose Excel. Convert SPREADSHEETML to MHT quickly and easily with Aspose.Cells. PHP SPREADSHEETML to MHT. PHP Save SPREADSHEETML to MHT. Save SPREADSHEETML as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to MHT in PHP., Save SPREADSHEETML to MHT using PHP., PHP SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Converter., PHP Save SPREADSHEETML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

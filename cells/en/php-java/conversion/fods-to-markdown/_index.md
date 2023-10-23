@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to MARKDOWN - FODS to MARKDOWN Converter
-description: PHP Aspose.Cells. FODS to MARKDOWN in PHP. PHP Convert FODS to MARKDOWN saveformat. PHP FODS to MARKDOWN Converter. Save FODS to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., FODS to MARKDOWN in PHP., PHP FODS to MARKDOWN saveformat., FODS to MARKDOWN PHP., PHP Convert FODS to MARKDOWN., Save FODS to MARKDOWN PHP., FODS to MARKDOWN Converter., Save FODS as MARKDOWN]
+description: Aspose Excel. Convert FODS to MARKDOWN quickly and easily with Aspose.Cells. PHP FODS to MARKDOWN. PHP Save FODS to MARKDOWN. Save FODS as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to MARKDOWN in PHP., Save FODS to MARKDOWN using PHP., PHP FODS to MARKDOWN saveformat., FODS to MARKDOWN Converter., PHP Save FODS as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

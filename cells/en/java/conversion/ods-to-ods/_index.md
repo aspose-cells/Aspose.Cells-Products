@@ -1,7 +1,7 @@
 ---
 title: Java ODS to ODS - ODS to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. ODS to ODS in Java. Java Convert ODS to ODS saveformat. Java ODS to ODS format. Save ODS to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., ODS to ODS in Java., Java ODS to ODS saveformat., ODS to ODS Java., Java Convert ODS to ODS]
+description: Aspose Excel. Convert ODS to ODS quickly and easily with Aspose.Cells. Java ODS to ODS. Java Save ODS to ODS. Save ODS as ODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to ODS in Java., Save ODS to ODS using Java., Java ODS to ODS saveformat., ODS to ODS Converter., Java Save ODS as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

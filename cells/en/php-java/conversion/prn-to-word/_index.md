@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to WORD - PRN to WORD Converter
-description: PHP Aspose.Cells. PRN to WORD in PHP. PHP Convert PRN to WORD saveformat. PHP PRN to WORD Converter. Save PRN to WORD PHP.
-keywords: [PHP Aspose.Cells., PRN to WORD in PHP., PHP PRN to WORD saveformat., PRN to WORD PHP., PHP Convert PRN to WORD., Save PRN to WORD PHP., PRN to WORD Converter., Save PRN as WORD]
+description: Aspose Excel. Convert PRN to WORD quickly and easily with Aspose.Cells. PHP PRN to WORD. PHP Save PRN to WORD. Save PRN as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to WORD in PHP., Save PRN to WORD using PHP., PHP PRN to WORD saveformat., PRN to WORD Converter., PHP Save PRN as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

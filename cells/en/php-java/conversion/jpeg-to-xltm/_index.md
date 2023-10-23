@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to XLTM - JPEG to XLTM Converter
-description: PHP Aspose.Cells. JPEG to XLTM in PHP. PHP Convert JPEG to XLTM saveformat. PHP JPEG to XLTM Converter. Save JPEG to XLTM PHP.
-keywords: [PHP Aspose.Cells., JPEG to XLTM in PHP., PHP JPEG to XLTM saveformat., JPEG to XLTM PHP., PHP Convert JPEG to XLTM., Save JPEG to XLTM PHP., JPEG to XLTM Converter., Save JPEG as XLTM]
+description: Aspose Excel. Convert JPEG to XLTM quickly and easily with Aspose.Cells. PHP JPEG to XLTM. PHP Save JPEG to XLTM. Save JPEG as XLTM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to XLTM in PHP., Save JPEG to XLTM using PHP., PHP JPEG to XLTM saveformat., JPEG to XLTM Converter., PHP Save JPEG as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

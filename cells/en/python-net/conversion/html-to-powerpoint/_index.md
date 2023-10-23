@@ -1,7 +1,7 @@
 ---
 title: Python HTML to POWERPOINT - HTML to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to POWERPOINT in Python. Python Convert HTML to POWERPOINT saveformat. Python HTML to POWERPOINT format. Save HTML to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to POWERPOINT in Python., Python HTML to POWERPOINT saveformat., HTML to POWERPOINT Python., Python Convert HTML to POWERPOINT]
+description: Aspose Excel. Convert HTML to POWERPOINT quickly and easily with Aspose.Cells. Python HTML to POWERPOINT. Python Save HTML to POWERPOINT. Save HTML as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to POWERPOINT in Python., Save HTML to POWERPOINT using Python., Python HTML to POWERPOINT saveformat., HTML to POWERPOINT Converter., Python Save HTML as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

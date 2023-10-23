@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to GIF - EXCEL to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to GIF in Python. Python Convert EXCEL to GIF saveformat. Python EXCEL to GIF format. Save EXCEL to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to GIF in Python., Python EXCEL to GIF saveformat., EXCEL to GIF Python., Python Convert EXCEL to GIF]
+description: Aspose Excel. Convert EXCEL to GIF quickly and easily with Aspose.Cells. Python EXCEL to GIF. Python Save EXCEL to GIF. Save EXCEL as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to GIF in Python., Save EXCEL to GIF using Python., Python EXCEL to GIF saveformat., EXCEL to GIF Converter., Python Save EXCEL as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to EXCEL - OTS to EXCEL Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to EXCEL in C++. C++ Convert OTS to EXCEL saveformat. C++ OTS to EXCEL format. Save OTS to EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to EXCEL in C++., C++ OTS to EXCEL saveformat., OTS to EXCEL C++., C++ Convert OTS to EXCEL]
+description: Aspose Excel. Convert OTS to EXCEL quickly and easily with Aspose.Cells. C++ OTS to EXCEL. C++ Save OTS to EXCEL. Save OTS as EXCEL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to EXCEL in C++., Save OTS to EXCEL using C++., C++ OTS to EXCEL saveformat., OTS to EXCEL Converter., C++ Save OTS as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

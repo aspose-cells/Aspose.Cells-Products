@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to PDF - XLSM to PDF Converter
-description: PHP Aspose.Cells. XLSM to PDF in PHP. PHP Convert XLSM to PDF saveformat. PHP XLSM to PDF Converter. Save XLSM to PDF PHP.
-keywords: [PHP Aspose.Cells., XLSM to PDF in PHP., PHP XLSM to PDF saveformat., XLSM to PDF PHP., PHP Convert XLSM to PDF., Save XLSM to PDF PHP., XLSM to PDF Converter., Save XLSM as PDF]
+description: Aspose Excel. Convert XLSM to PDF quickly and easily with Aspose.Cells. PHP XLSM to PDF. PHP Save XLSM to PDF. Save XLSM as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to PDF in PHP., Save XLSM to PDF using PHP., PHP XLSM to PDF saveformat., XLSM to PDF Converter., PHP Save XLSM as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

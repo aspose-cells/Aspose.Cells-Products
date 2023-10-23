@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to HTM - MHT to HTM Converter
-description: PHP Aspose.Cells. MHT to HTM in PHP. PHP Convert MHT to HTM saveformat. PHP MHT to HTM Converter. Save MHT to HTM PHP.
-keywords: [PHP Aspose.Cells., MHT to HTM in PHP., PHP MHT to HTM saveformat., MHT to HTM PHP., PHP Convert MHT to HTM., Save MHT to HTM PHP., MHT to HTM Converter., Save MHT as HTM]
+description: Aspose Excel. Convert MHT to HTM quickly and easily with Aspose.Cells. PHP MHT to HTM. PHP Save MHT to HTM. Save MHT as HTM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to HTM in PHP., Save MHT to HTM using PHP., PHP MHT to HTM saveformat., MHT to HTM Converter., PHP Save MHT as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTML to XLTX - HTML to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to XLTX in Python. Python Convert HTML to XLTX saveformat. Python HTML to XLTX format. Save HTML to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to XLTX in Python., Python HTML to XLTX saveformat., HTML to XLTX Python., Python Convert HTML to XLTX]
+description: Aspose Excel. Convert HTML to XLTX quickly and easily with Aspose.Cells. Python HTML to XLTX. Python Save HTML to XLTX. Save HTML as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to XLTX in Python., Save HTML to XLTX using Python., Python HTML to XLTX saveformat., HTML to XLTX Converter., Python Save HTML as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

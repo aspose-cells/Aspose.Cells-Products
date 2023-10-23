@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to EXCEL - XLTM to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to EXCEL in Python. Python Convert XLTM to EXCEL saveformat. Python XLTM to EXCEL format. Save XLTM to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to EXCEL in Python., Python XLTM to EXCEL saveformat., XLTM to EXCEL Python., Python Convert XLTM to EXCEL]
+description: Aspose Excel. Convert XLTM to EXCEL quickly and easily with Aspose.Cells. Python XLTM to EXCEL. Python Save XLTM to EXCEL. Save XLTM as EXCEL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to EXCEL in Python., Save XLTM to EXCEL using Python., Python XLTM to EXCEL saveformat., XLTM to EXCEL Converter., Python Save XLTM as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

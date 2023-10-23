@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to EXCEL - XLT to EXCEL Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to EXCEL in C++. C++ Convert XLT to EXCEL saveformat. C++ XLT to EXCEL format. Save XLT to EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to EXCEL in C++., C++ XLT to EXCEL saveformat., XLT to EXCEL C++., C++ Convert XLT to EXCEL]
+description: Aspose Excel. Convert XLT to EXCEL quickly and easily with Aspose.Cells. C++ XLT to EXCEL. C++ Save XLT to EXCEL. Save XLT as EXCEL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to EXCEL in C++., Save XLT to EXCEL using C++., C++ XLT to EXCEL saveformat., XLT to EXCEL Converter., C++ Save XLT as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

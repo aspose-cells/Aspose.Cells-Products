@@ -1,7 +1,7 @@
 ---
 title: Python MHT to JSON - MHT to JSON Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to JSON in Python. Python Convert MHT to JSON saveformat. Python MHT to JSON format. Save MHT to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to JSON in Python., Python MHT to JSON saveformat., MHT to JSON Python., Python Convert MHT to JSON]
+description: Aspose Excel. Convert MHT to JSON quickly and easily with Aspose.Cells. Python MHT to JSON. Python Save MHT to JSON. Save MHT as JSON using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to JSON in Python., Save MHT to JSON using Python., Python MHT to JSON saveformat., MHT to JSON Converter., Python Save MHT as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

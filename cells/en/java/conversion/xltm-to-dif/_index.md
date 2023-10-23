@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to DIF - XLTM to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to DIF in Java. Java Convert XLTM to DIF saveformat. Java XLTM to DIF format. Save XLTM to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to DIF in Java., Java XLTM to DIF saveformat., XLTM to DIF Java., Java Convert XLTM to DIF]
+description: Aspose Excel. Convert XLTM to DIF quickly and easily with Aspose.Cells. Java XLTM to DIF. Java Save XLTM to DIF. Save XLTM as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to DIF in Java., Save XLTM to DIF using Java., Java XLTM to DIF saveformat., XLTM to DIF Converter., Java Save XLTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

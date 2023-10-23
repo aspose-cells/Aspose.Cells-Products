@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to XLSX - SXC to XLSX Converter
-description: PHP Aspose.Cells. SXC to XLSX in PHP. PHP Convert SXC to XLSX saveformat. PHP SXC to XLSX Converter. Save SXC to XLSX PHP.
-keywords: [PHP Aspose.Cells., SXC to XLSX in PHP., PHP SXC to XLSX saveformat., SXC to XLSX PHP., PHP Convert SXC to XLSX., Save SXC to XLSX PHP., SXC to XLSX Converter., Save SXC as XLSX]
+description: Aspose Excel. Convert SXC to XLSX quickly and easily with Aspose.Cells. PHP SXC to XLSX. PHP Save SXC to XLSX. Save SXC as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to XLSX in PHP., Save SXC to XLSX using PHP., PHP SXC to XLSX saveformat., SXC to XLSX Converter., PHP Save SXC as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to MHT - HTM to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to MHT in C++. C++ Convert HTM to MHT saveformat. C++ HTM to MHT format. Save HTM to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to MHT in C++., C++ HTM to MHT saveformat., HTM to MHT C++., C++ Convert HTM to MHT]
+description: Aspose Excel. Convert HTM to MHT quickly and easily with Aspose.Cells. C++ HTM to MHT. C++ Save HTM to MHT. Save HTM as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to MHT in C++., Save HTM to MHT using C++., C++ HTM to MHT saveformat., HTM to MHT Converter., C++ Save HTM as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

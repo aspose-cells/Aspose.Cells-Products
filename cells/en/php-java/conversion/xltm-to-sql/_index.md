@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to SQL - XLTM to SQL Converter
-description: PHP Aspose.Cells. XLTM to SQL in PHP. PHP Convert XLTM to SQL saveformat. PHP XLTM to SQL Converter. Save XLTM to SQL PHP.
-keywords: [PHP Aspose.Cells., XLTM to SQL in PHP., PHP XLTM to SQL saveformat., XLTM to SQL PHP., PHP Convert XLTM to SQL., Save XLTM to SQL PHP., XLTM to SQL Converter., Save XLTM as SQL]
+description: Aspose Excel. Convert XLTM to SQL quickly and easily with Aspose.Cells. PHP XLTM to SQL. PHP Save XLTM to SQL. Save XLTM as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to SQL in PHP., Save XLTM to SQL using PHP., PHP XLTM to SQL saveformat., XLTM to SQL Converter., PHP Save XLTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

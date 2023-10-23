@@ -1,7 +1,7 @@
 ---
 title: Java OTS to JSON - OTS to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to JSON in Java. Java Convert OTS to JSON saveformat. Java OTS to JSON format. Save OTS to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to JSON in Java., Java OTS to JSON saveformat., OTS to JSON Java., Java Convert OTS to JSON]
+description: Aspose Excel. Convert OTS to JSON quickly and easily with Aspose.Cells. Java OTS to JSON. Java Save OTS to JSON. Save OTS as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to JSON in Java., Save OTS to JSON using Java., Java OTS to JSON saveformat., OTS to JSON Converter., Java Save OTS as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

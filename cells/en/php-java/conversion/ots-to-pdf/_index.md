@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to PDF - OTS to PDF Converter
-description: PHP Aspose.Cells. OTS to PDF in PHP. PHP Convert OTS to PDF saveformat. PHP OTS to PDF Converter. Save OTS to PDF PHP.
-keywords: [PHP Aspose.Cells., OTS to PDF in PHP., PHP OTS to PDF saveformat., OTS to PDF PHP., PHP Convert OTS to PDF., Save OTS to PDF PHP., OTS to PDF Converter., Save OTS as PDF]
+description: Aspose Excel. Convert OTS to PDF quickly and easily with Aspose.Cells. PHP OTS to PDF. PHP Save OTS to PDF. Save OTS as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to PDF in PHP., Save OTS to PDF using PHP., PHP OTS to PDF saveformat., OTS to PDF Converter., PHP Save OTS as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

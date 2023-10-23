@@ -1,7 +1,7 @@
 ---
 title: Python OTS to WORD - OTS to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to WORD in Python. Python Convert OTS to WORD saveformat. Python OTS to WORD format. Save OTS to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to WORD in Python., Python OTS to WORD saveformat., OTS to WORD Python., Python Convert OTS to WORD]
+description: Aspose Excel. Convert OTS to WORD quickly and easily with Aspose.Cells. Python OTS to WORD. Python Save OTS to WORD. Save OTS as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to WORD in Python., Save OTS to WORD using Python., Python OTS to WORD saveformat., OTS to WORD Converter., Python Save OTS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

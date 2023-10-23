@@ -1,7 +1,7 @@
 ---
 title: C# TXT to XLAM - TXT to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to XLAM in C#. C# Convert TXT to XLAM saveformat. C# TXT to XLAM format. Save TXT to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to XLAM in C#., C# TXT to XLAM saveformat., TXT to XLAM C#., C# Convert TXT to XLAM]
+description: Aspose Excel. Convert TXT to XLAM quickly and easily with Aspose.Cells. C# TXT to XLAM. C# Save TXT to XLAM. Save TXT as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to XLAM in C#., Save TXT to XLAM using C#., C# TXT to XLAM saveformat., TXT to XLAM Converter., C# Save TXT as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

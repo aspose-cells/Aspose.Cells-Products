@@ -1,7 +1,7 @@
 ---
 title: Python XML to FODS - XML to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. XML to FODS in Python. Python Convert XML to FODS saveformat. Python XML to FODS format. Save XML to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to FODS in Python., Python XML to FODS saveformat., XML to FODS Python., Python Convert XML to FODS]
+description: Aspose Excel. Convert XML to FODS quickly and easily with Aspose.Cells. Python XML to FODS. Python Save XML to FODS. Save XML as FODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to FODS in Python., Save XML to FODS using Python., Python XML to FODS saveformat., XML to FODS Converter., Python Save XML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

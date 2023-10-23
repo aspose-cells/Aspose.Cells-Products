@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to MD - FODS to MD Converter
-description: PHP Aspose.Cells. FODS to MD in PHP. PHP Convert FODS to MD saveformat. PHP FODS to MD Converter. Save FODS to MD PHP.
-keywords: [PHP Aspose.Cells., FODS to MD in PHP., PHP FODS to MD saveformat., FODS to MD PHP., PHP Convert FODS to MD., Save FODS to MD PHP., FODS to MD Converter., Save FODS as MD]
+description: Aspose Excel. Convert FODS to MD quickly and easily with Aspose.Cells. PHP FODS to MD. PHP Save FODS to MD. Save FODS as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to MD in PHP., Save FODS to MD using PHP., PHP FODS to MD saveformat., FODS to MD Converter., PHP Save FODS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

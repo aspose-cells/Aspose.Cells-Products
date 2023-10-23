@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to PNG - OTS to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to PNG in C++. C++ Convert OTS to PNG saveformat. C++ OTS to PNG format. Save OTS to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to PNG in C++., C++ OTS to PNG saveformat., OTS to PNG C++., C++ Convert OTS to PNG]
+description: Aspose Excel. Convert OTS to PNG quickly and easily with Aspose.Cells. C++ OTS to PNG. C++ Save OTS to PNG. Save OTS as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to PNG in C++., Save OTS to PNG using C++., C++ OTS to PNG saveformat., OTS to PNG Converter., C++ Save OTS as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

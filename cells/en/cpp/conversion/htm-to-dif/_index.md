@@ -1,7 +1,7 @@
 ---
 title: C++ HTM to DIF - HTM to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. HTM to DIF in C++. C++ Convert HTM to DIF saveformat. C++ HTM to DIF format. Save HTM to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTM to DIF in C++., C++ HTM to DIF saveformat., HTM to DIF C++., C++ Convert HTM to DIF]
+description: Aspose Excel. Convert HTM to DIF quickly and easily with Aspose.Cells. C++ HTM to DIF. C++ Save HTM to DIF. Save HTM as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to DIF in C++., Save HTM to DIF using C++., C++ HTM to DIF saveformat., HTM to DIF Converter., C++ Save HTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

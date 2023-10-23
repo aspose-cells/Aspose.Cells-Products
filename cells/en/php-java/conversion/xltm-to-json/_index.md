@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to JSON - XLTM to JSON Converter
-description: PHP Aspose.Cells. XLTM to JSON in PHP. PHP Convert XLTM to JSON saveformat. PHP XLTM to JSON Converter. Save XLTM to JSON PHP.
-keywords: [PHP Aspose.Cells., XLTM to JSON in PHP., PHP XLTM to JSON saveformat., XLTM to JSON PHP., PHP Convert XLTM to JSON., Save XLTM to JSON PHP., XLTM to JSON Converter., Save XLTM as JSON]
+description: Aspose Excel. Convert XLTM to JSON quickly and easily with Aspose.Cells. PHP XLTM to JSON. PHP Save XLTM to JSON. Save XLTM as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to JSON in PHP., Save XLTM to JSON using PHP., PHP XLTM to JSON saveformat., XLTM to JSON Converter., PHP Save XLTM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

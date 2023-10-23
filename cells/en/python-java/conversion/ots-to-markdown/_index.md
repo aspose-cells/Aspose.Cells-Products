@@ -1,7 +1,7 @@
 ---
 title: Python OTS to MARKDOWN - OTS to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to MARKDOWN in Python. Python Convert OTS to MARKDOWN saveformat. Python OTS to MARKDOWN format. Save OTS to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to MARKDOWN in Python., Python OTS to MARKDOWN saveformat., OTS to MARKDOWN Python., Python Convert OTS to MARKDOWN]
+description: Aspose Excel. Convert OTS to MARKDOWN quickly and easily with Aspose.Cells. Python OTS to MARKDOWN. Python Save OTS to MARKDOWN. Save OTS as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to MARKDOWN in Python., Save OTS to MARKDOWN using Python., Python OTS to MARKDOWN saveformat., OTS to MARKDOWN Converter., Python Save OTS as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLT to XLS - XLT to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. XLT to XLS in Python. Python Convert XLT to XLS saveformat. Python XLT to XLS format. Save XLT to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLT to XLS in Python., Python XLT to XLS saveformat., XLT to XLS Python., Python Convert XLT to XLS]
+description: Aspose Excel. Convert XLT to XLS quickly and easily with Aspose.Cells. Python XLT to XLS. Python Save XLT to XLS. Save XLT as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to XLS in Python., Save XLT to XLS using Python., Python XLT to XLS saveformat., XLT to XLS Converter., Python Save XLT as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

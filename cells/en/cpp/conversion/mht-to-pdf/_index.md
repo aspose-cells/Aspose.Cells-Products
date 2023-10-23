@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to PDF - MHT to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to PDF in C++. C++ Convert MHT to PDF saveformat. C++ MHT to PDF format. Save MHT to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to PDF in C++., C++ MHT to PDF saveformat., MHT to PDF C++., C++ Convert MHT to PDF]
+description: Aspose Excel. Convert MHT to PDF quickly and easily with Aspose.Cells. C++ MHT to PDF. C++ Save MHT to PDF. Save MHT as PDF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to PDF in C++., Save MHT to PDF using C++., C++ MHT to PDF saveformat., MHT to PDF Converter., C++ Save MHT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

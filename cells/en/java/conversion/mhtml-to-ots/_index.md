@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to OTS - MHTML to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to OTS in Java. Java Convert MHTML to OTS saveformat. Java MHTML to OTS format. Save MHTML to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to OTS in Java., Java MHTML to OTS saveformat., MHTML to OTS Java., Java Convert MHTML to OTS]
+description: Aspose Excel. Convert MHTML to OTS quickly and easily with Aspose.Cells. Java MHTML to OTS. Java Save MHTML to OTS. Save MHTML as OTS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to OTS in Java., Save MHTML to OTS using Java., Java MHTML to OTS saveformat., MHTML to OTS Converter., Java Save MHTML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

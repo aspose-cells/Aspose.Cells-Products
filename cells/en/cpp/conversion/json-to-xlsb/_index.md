@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to XLSB - JSON to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to XLSB in C++. C++ Convert JSON to XLSB saveformat. C++ JSON to XLSB format. Save JSON to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to XLSB in C++., C++ JSON to XLSB saveformat., JSON to XLSB C++., C++ Convert JSON to XLSB]
+description: Aspose Excel. Convert JSON to XLSB quickly and easily with Aspose.Cells. C++ JSON to XLSB. C++ Save JSON to XLSB. Save JSON as XLSB using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to XLSB in C++., Save JSON to XLSB using C++., C++ JSON to XLSB saveformat., JSON to XLSB Converter., C++ Save JSON as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

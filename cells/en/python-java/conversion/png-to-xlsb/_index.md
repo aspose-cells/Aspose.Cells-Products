@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLSB - PNG to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to XLSB in Python. Python Convert PNG to XLSB saveformat. Python PNG to XLSB format. Save PNG to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLSB in Python., Python PNG to XLSB saveformat., PNG to XLSB Python., Python Convert PNG to XLSB]
+description: Aspose Excel. Convert PNG to XLSB quickly and easily with Aspose.Cells. Python PNG to XLSB. Python Save PNG to XLSB. Save PNG as XLSB using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to XLSB in Python., Save PNG to XLSB using Python., Python PNG to XLSB saveformat., PNG to XLSB Converter., Python Save PNG as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

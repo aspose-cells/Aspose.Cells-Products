@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to PNG - MHTML to PNG Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to PNG in Python. Python Convert MHTML to PNG saveformat. Python MHTML to PNG format. Save MHTML to PNG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to PNG in Python., Python MHTML to PNG saveformat., MHTML to PNG Python., Python Convert MHTML to PNG]
+description: Aspose Excel. Convert MHTML to PNG quickly and easily with Aspose.Cells. Python MHTML to PNG. Python Save MHTML to PNG. Save MHTML as PNG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to PNG in Python., Save MHTML to PNG using Python., Python MHTML to PNG saveformat., MHTML to PNG Converter., Python Save MHTML as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

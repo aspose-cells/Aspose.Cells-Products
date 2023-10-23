@@ -1,7 +1,7 @@
 ---
 title: Python CSV to PPTX - CSV to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to PPTX in Python. Python Convert CSV to PPTX saveformat. Python CSV to PPTX format. Save CSV to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to PPTX in Python., Python CSV to PPTX saveformat., CSV to PPTX Python., Python Convert CSV to PPTX]
+description: Aspose Excel. Convert CSV to PPTX quickly and easily with Aspose.Cells. Python CSV to PPTX. Python Save CSV to PPTX. Save CSV as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to PPTX in Python., Save CSV to PPTX using Python., Python CSV to PPTX saveformat., CSV to PPTX Converter., Python Save CSV as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

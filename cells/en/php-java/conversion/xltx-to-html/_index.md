@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to HTML - XLTX to HTML Converter
-description: PHP Aspose.Cells. XLTX to HTML in PHP. PHP Convert XLTX to HTML saveformat. PHP XLTX to HTML Converter. Save XLTX to HTML PHP.
-keywords: [PHP Aspose.Cells., XLTX to HTML in PHP., PHP XLTX to HTML saveformat., XLTX to HTML PHP., PHP Convert XLTX to HTML., Save XLTX to HTML PHP., XLTX to HTML Converter., Save XLTX as HTML]
+description: Aspose Excel. Convert XLTX to HTML quickly and easily with Aspose.Cells. PHP XLTX to HTML. PHP Save XLTX to HTML. Save XLTX as HTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to HTML in PHP., Save XLTX to HTML using PHP., PHP XLTX to HTML saveformat., XLTX to HTML Converter., PHP Save XLTX as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

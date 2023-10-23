@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to XPS - MHTML to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to XPS in Python. Python Convert MHTML to XPS saveformat. Python MHTML to XPS format. Save MHTML to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to XPS in Python., Python MHTML to XPS saveformat., MHTML to XPS Python., Python Convert MHTML to XPS]
+description: Aspose Excel. Convert MHTML to XPS quickly and easily with Aspose.Cells. Python MHTML to XPS. Python Save MHTML to XPS. Save MHTML as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to XPS in Python., Save MHTML to XPS using Python., Python MHTML to XPS saveformat., MHTML to XPS Converter., Python Save MHTML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

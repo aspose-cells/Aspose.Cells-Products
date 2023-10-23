@@ -1,7 +1,7 @@
 ---
 title: Java JSON to XLSX - JSON to XLSX Converter
-description: Aspose Excel. Java Aspose.Cells. JSON to XLSX in Java. Java Convert JSON to XLSX saveformat. Java JSON to XLSX format. Save JSON to XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JSON to XLSX in Java., Java JSON to XLSX saveformat., JSON to XLSX Java., Java Convert JSON to XLSX]
+description: Aspose Excel. Convert JSON to XLSX quickly and easily with Aspose.Cells. Java JSON to XLSX. Java Save JSON to XLSX. Save JSON as XLSX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to XLSX in Java., Save JSON to XLSX using Java., Java JSON to XLSX saveformat., JSON to XLSX Converter., Java Save JSON as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

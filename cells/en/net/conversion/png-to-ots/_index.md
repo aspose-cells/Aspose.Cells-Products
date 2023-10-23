@@ -1,7 +1,7 @@
 ---
 title: C# PNG to OTS - PNG to OTS Converter
-description: Aspose Excel. C# Aspose.Cells. PNG to OTS in C#. C# Convert PNG to OTS saveformat. C# PNG to OTS format. Save PNG to OTS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PNG to OTS in C#., C# PNG to OTS saveformat., PNG to OTS C#., C# Convert PNG to OTS]
+description: Aspose Excel. Convert PNG to OTS quickly and easily with Aspose.Cells. C# PNG to OTS. C# Save PNG to OTS. Save PNG as OTS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to OTS in C#., Save PNG to OTS using C#., C# PNG to OTS saveformat., PNG to OTS Converter., C# Save PNG as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

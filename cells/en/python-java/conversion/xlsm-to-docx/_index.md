@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to DOCX - XLSM to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to DOCX in Python. Python Convert XLSM to DOCX saveformat. Python XLSM to DOCX format. Save XLSM to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to DOCX in Python., Python XLSM to DOCX saveformat., XLSM to DOCX Python., Python Convert XLSM to DOCX]
+description: Aspose Excel. Convert XLSM to DOCX quickly and easily with Aspose.Cells. Python XLSM to DOCX. Python Save XLSM to DOCX. Save XLSM as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to DOCX in Python., Save XLSM to DOCX using Python., Python XLSM to DOCX saveformat., XLSM to DOCX Converter., Python Save XLSM as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

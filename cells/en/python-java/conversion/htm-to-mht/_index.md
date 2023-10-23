@@ -1,7 +1,7 @@
 ---
 title: Python HTM to MHT - HTM to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to MHT in Python. Python Convert HTM to MHT saveformat. Python HTM to MHT format. Save HTM to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to MHT in Python., Python HTM to MHT saveformat., HTM to MHT Python., Python Convert HTM to MHT]
+description: Aspose Excel. Convert HTM to MHT quickly and easily with Aspose.Cells. Python HTM to MHT. Python Save HTM to MHT. Save HTM as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to MHT in Python., Save HTM to MHT using Python., Python HTM to MHT saveformat., HTM to MHT Converter., Python Save HTM as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

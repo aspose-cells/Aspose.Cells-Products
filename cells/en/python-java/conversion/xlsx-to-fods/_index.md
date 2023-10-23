@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to FODS - XLSX to FODS Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to FODS in Python. Python Convert XLSX to FODS saveformat. Python XLSX to FODS format. Save XLSX to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to FODS in Python., Python XLSX to FODS saveformat., XLSX to FODS Python., Python Convert XLSX to FODS]
+description: Aspose Excel. Convert XLSX to FODS quickly and easily with Aspose.Cells. Python XLSX to FODS. Python Save XLSX to FODS. Save XLSX as FODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to FODS in Python., Save XLSX to FODS using Python., Python XLSX to FODS saveformat., XLSX to FODS Converter., Python Save XLSX as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

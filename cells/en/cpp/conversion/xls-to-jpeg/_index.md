@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to JPEG - XLS to JPEG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to JPEG in C++. C++ Convert XLS to JPEG saveformat. C++ XLS to JPEG format. Save XLS to JPEG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to JPEG in C++., C++ XLS to JPEG saveformat., XLS to JPEG C++., C++ Convert XLS to JPEG]
+description: Aspose Excel. Convert XLS to JPEG quickly and easily with Aspose.Cells. C++ XLS to JPEG. C++ Save XLS to JPEG. Save XLS as JPEG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to JPEG in C++., Save XLS to JPEG using C++., C++ XLS to JPEG saveformat., XLS to JPEG Converter., C++ Save XLS as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

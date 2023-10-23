@@ -1,7 +1,7 @@
 ---
 title: Java HTML to XLTX - HTML to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. HTML to XLTX in Java. Java Convert HTML to XLTX saveformat. Java HTML to XLTX format. Save HTML to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTML to XLTX in Java., Java HTML to XLTX saveformat., HTML to XLTX Java., Java Convert HTML to XLTX]
+description: Aspose Excel. Convert HTML to XLTX quickly and easily with Aspose.Cells. Java HTML to XLTX. Java Save HTML to XLTX. Save HTML as XLTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XLTX in Java., Save HTML to XLTX using Java., Java HTML to XLTX saveformat., HTML to XLTX Converter., Java Save HTML as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

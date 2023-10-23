@@ -1,7 +1,7 @@
 ---
 title: PHP XML to POWERPOINT - XML to POWERPOINT Converter
-description: PHP Aspose.Cells. XML to POWERPOINT in PHP. PHP Convert XML to POWERPOINT saveformat. PHP XML to POWERPOINT Converter. Save XML to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XML to POWERPOINT in PHP., PHP XML to POWERPOINT saveformat., XML to POWERPOINT PHP., PHP Convert XML to POWERPOINT., Save XML to POWERPOINT PHP., XML to POWERPOINT Converter., Save XML as POWERPOINT]
+description: Aspose Excel. Convert XML to POWERPOINT quickly and easily with Aspose.Cells. PHP XML to POWERPOINT. PHP Save XML to POWERPOINT. Save XML as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to POWERPOINT in PHP., Save XML to POWERPOINT using PHP., PHP XML to POWERPOINT saveformat., XML to POWERPOINT Converter., PHP Save XML as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# FODS to CSV - FODS to CSV Converter
-description: Aspose Excel. C# Aspose.Cells. FODS to CSV in C#. C# Convert FODS to CSV saveformat. C# FODS to CSV format. Save FODS to CSV C#.
-keywords: [Aspose Excel., C# Aspose.Cells., FODS to CSV in C#., C# FODS to CSV saveformat., FODS to CSV C#., C# Convert FODS to CSV]
+description: Aspose Excel. Convert FODS to CSV quickly and easily with Aspose.Cells. C# FODS to CSV. C# Save FODS to CSV. Save FODS as CSV using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to CSV in C#., Save FODS to CSV using C#., C# FODS to CSV saveformat., FODS to CSV Converter., C# Save FODS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

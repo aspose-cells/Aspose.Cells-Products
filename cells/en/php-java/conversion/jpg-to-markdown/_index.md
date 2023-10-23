@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to MARKDOWN - JPG to MARKDOWN Converter
-description: PHP Aspose.Cells. JPG to MARKDOWN in PHP. PHP Convert JPG to MARKDOWN saveformat. PHP JPG to MARKDOWN Converter. Save JPG to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., JPG to MARKDOWN in PHP., PHP JPG to MARKDOWN saveformat., JPG to MARKDOWN PHP., PHP Convert JPG to MARKDOWN., Save JPG to MARKDOWN PHP., JPG to MARKDOWN Converter., Save JPG as MARKDOWN]
+description: Aspose Excel. Convert JPG to MARKDOWN quickly and easily with Aspose.Cells. PHP JPG to MARKDOWN. PHP Save JPG to MARKDOWN. Save JPG as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to MARKDOWN in PHP., Save JPG to MARKDOWN using PHP., PHP JPG to MARKDOWN saveformat., JPG to MARKDOWN Converter., PHP Save JPG as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

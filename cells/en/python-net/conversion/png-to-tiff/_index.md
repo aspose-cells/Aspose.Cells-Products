@@ -1,7 +1,7 @@
 ---
 title: Python PNG to TIFF - PNG to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to TIFF in Python. Python Convert PNG to TIFF saveformat. Python PNG to TIFF format. Save PNG to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to TIFF in Python., Python PNG to TIFF saveformat., PNG to TIFF Python., Python Convert PNG to TIFF]
+description: Aspose Excel. Convert PNG to TIFF quickly and easily with Aspose.Cells. Python PNG to TIFF. Python Save PNG to TIFF. Save PNG as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to TIFF in Python., Save PNG to TIFF using Python., Python PNG to TIFF saveformat., PNG to TIFF Converter., Python Save PNG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

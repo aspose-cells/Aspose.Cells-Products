@@ -1,7 +1,7 @@
 ---
 title: Java XML to XLAM - XML to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. XML to XLAM in Java. Java Convert XML to XLAM saveformat. Java XML to XLAM format. Save XML to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XML to XLAM in Java., Java XML to XLAM saveformat., XML to XLAM Java., Java Convert XML to XLAM]
+description: Aspose Excel. Convert XML to XLAM quickly and easily with Aspose.Cells. Java XML to XLAM. Java Save XML to XLAM. Save XML as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLAM in Java., Save XML to XLAM using Java., Java XML to XLAM saveformat., XML to XLAM Converter., Java Save XML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to SQL - EXCEL to SQL Converter
-description: PHP Aspose.Cells. EXCEL to SQL in PHP. PHP Convert EXCEL to SQL saveformat. PHP EXCEL to SQL Converter. Save EXCEL to SQL PHP.
-keywords: [PHP Aspose.Cells., EXCEL to SQL in PHP., PHP EXCEL to SQL saveformat., EXCEL to SQL PHP., PHP Convert EXCEL to SQL., Save EXCEL to SQL PHP., EXCEL to SQL Converter., Save EXCEL as SQL]
+description: Aspose Excel. Convert EXCEL to SQL quickly and easily with Aspose.Cells. PHP EXCEL to SQL. PHP Save EXCEL to SQL. Save EXCEL as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to SQL in PHP., Save EXCEL to SQL using PHP., PHP EXCEL to SQL saveformat., EXCEL to SQL Converter., PHP Save EXCEL as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

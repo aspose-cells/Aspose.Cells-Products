@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to BMP - XLTX to BMP Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTX to BMP in C++. C++ Convert XLTX to BMP saveformat. C++ XLTX to BMP format. Save XLTX to BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTX to BMP in C++., C++ XLTX to BMP saveformat., XLTX to BMP C++., C++ Convert XLTX to BMP]
+description: Aspose Excel. Convert XLTX to BMP quickly and easily with Aspose.Cells. C++ XLTX to BMP. C++ Save XLTX to BMP. Save XLTX as BMP using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to BMP in C++., Save XLTX to BMP using C++., C++ XLTX to BMP saveformat., XLTX to BMP Converter., C++ Save XLTX as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

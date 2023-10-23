@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to DIF - XLSX to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to DIF in C++. C++ Convert XLSX to DIF saveformat. C++ XLSX to DIF format. Save XLSX to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to DIF in C++., C++ XLSX to DIF saveformat., XLSX to DIF C++., C++ Convert XLSX to DIF]
+description: Aspose Excel. Convert XLSX to DIF quickly and easily with Aspose.Cells. C++ XLSX to DIF. C++ Save XLSX to DIF. Save XLSX as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to DIF in C++., Save XLSX to DIF using C++., C++ XLSX to DIF saveformat., XLSX to DIF Converter., C++ Save XLSX as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

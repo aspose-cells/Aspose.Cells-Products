@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to ET - XLSX to ET Converter
-description: PHP Aspose.Cells. XLSX to ET in PHP. PHP Convert XLSX to ET saveformat. PHP XLSX to ET Converter. Save XLSX to ET PHP.
-keywords: [PHP Aspose.Cells., XLSX to ET in PHP., PHP XLSX to ET saveformat., XLSX to ET PHP., PHP Convert XLSX to ET., Save XLSX to ET PHP., XLSX to ET Converter., Save XLSX as ET]
+description: Aspose Excel. Convert XLSX to ET quickly and easily with Aspose.Cells. PHP XLSX to ET. PHP Save XLSX to ET. Save XLSX as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to ET in PHP., Save XLSX to ET using PHP., PHP XLSX to ET saveformat., XLSX to ET Converter., PHP Save XLSX as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

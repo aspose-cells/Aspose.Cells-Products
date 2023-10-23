@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to BMP - XLSX to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to BMP in Python. Python Convert XLSX to BMP saveformat. Python XLSX to BMP format. Save XLSX to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to BMP in Python., Python XLSX to BMP saveformat., XLSX to BMP Python., Python Convert XLSX to BMP]
+description: Aspose Excel. Convert XLSX to BMP quickly and easily with Aspose.Cells. Python XLSX to BMP. Python Save XLSX to BMP. Save XLSX as BMP using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to BMP in Python., Save XLSX to BMP using Python., Python XLSX to BMP saveformat., XLSX to BMP Converter., Python Save XLSX as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to PNG - SXC to PNG Converter
-description: PHP Aspose.Cells. SXC to PNG in PHP. PHP Convert SXC to PNG saveformat. PHP SXC to PNG Converter. Save SXC to PNG PHP.
-keywords: [PHP Aspose.Cells., SXC to PNG in PHP., PHP SXC to PNG saveformat., SXC to PNG PHP., PHP Convert SXC to PNG., Save SXC to PNG PHP., SXC to PNG Converter., Save SXC as PNG]
+description: Aspose Excel. Convert SXC to PNG quickly and easily with Aspose.Cells. PHP SXC to PNG. PHP Save SXC to PNG. Save SXC as PNG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to PNG in PHP., Save SXC to PNG using PHP., PHP SXC to PNG saveformat., SXC to PNG Converter., PHP Save SXC as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

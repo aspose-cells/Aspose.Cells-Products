@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to ET - TABDELIMITED to ET Converter
-description: PHP Aspose.Cells. TABDELIMITED to ET in PHP. PHP Convert TABDELIMITED to ET saveformat. PHP TABDELIMITED to ET Converter. Save TABDELIMITED to ET PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to ET in PHP., PHP TABDELIMITED to ET saveformat., TABDELIMITED to ET PHP., PHP Convert TABDELIMITED to ET., Save TABDELIMITED to ET PHP., TABDELIMITED to ET Converter., Save TABDELIMITED as ET]
+description: Aspose Excel. Convert TABDELIMITED to ET quickly and easily with Aspose.Cells. PHP TABDELIMITED to ET. PHP Save TABDELIMITED to ET. Save TABDELIMITED as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ET in PHP., Save TABDELIMITED to ET using PHP., PHP TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., PHP Save TABDELIMITED as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

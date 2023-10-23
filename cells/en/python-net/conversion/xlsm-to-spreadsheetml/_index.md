@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to SPREADSHEETML - XLSM to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to SPREADSHEETML in Python. Python Convert XLSM to SPREADSHEETML saveformat. Python XLSM to SPREADSHEETML format. Save XLSM to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to SPREADSHEETML in Python., Python XLSM to SPREADSHEETML saveformat., XLSM to SPREADSHEETML Python., Python Convert XLSM to SPREADSHEETML]
+description: Aspose Excel. Convert XLSM to SPREADSHEETML quickly and easily with Aspose.Cells. Python XLSM to SPREADSHEETML. Python Save XLSM to SPREADSHEETML. Save XLSM as SPREADSHEETML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to SPREADSHEETML in Python., Save XLSM to SPREADSHEETML using Python., Python XLSM to SPREADSHEETML saveformat., XLSM to SPREADSHEETML Converter., Python Save XLSM as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

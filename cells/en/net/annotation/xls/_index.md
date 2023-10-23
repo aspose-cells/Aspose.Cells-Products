@@ -1,8 +1,9 @@
 ---
-title: Remove XLS Annotation via .NET 
+title: Add or Remove XLS Annotation via .NET 
 weight: 9270
 
 description: C# source code to add and delete XLS format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

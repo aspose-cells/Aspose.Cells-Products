@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to PDF - MHTML to PDF Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to PDF in C#. C# Convert MHTML to PDF saveformat. C# MHTML to PDF format. Save MHTML to PDF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to PDF in C#., C# MHTML to PDF saveformat., MHTML to PDF C#., C# Convert MHTML to PDF]
+description: Aspose Excel. Convert MHTML to PDF quickly and easily with Aspose.Cells. C# MHTML to PDF. C# Save MHTML to PDF. Save MHTML as PDF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to PDF in C#., Save MHTML to PDF using C#., C# MHTML to PDF saveformat., MHTML to PDF Converter., C# Save MHTML as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

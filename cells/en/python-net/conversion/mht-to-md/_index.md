@@ -1,7 +1,7 @@
 ---
 title: Python MHT to MD - MHT to MD Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to MD in Python. Python Convert MHT to MD saveformat. Python MHT to MD format. Save MHT to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to MD in Python., Python MHT to MD saveformat., MHT to MD Python., Python Convert MHT to MD]
+description: Aspose Excel. Convert MHT to MD quickly and easily with Aspose.Cells. Python MHT to MD. Python Save MHT to MD. Save MHT as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to MD in Python., Save MHT to MD using Python., Python MHT to MD saveformat., MHT to MD Converter., Python Save MHT as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

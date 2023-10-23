@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to IMAGE - XLSB to IMAGE Converter
-description: PHP Aspose.Cells. XLSB to IMAGE in PHP. PHP Convert XLSB to IMAGE saveformat. PHP XLSB to IMAGE Converter. Save XLSB to IMAGE PHP.
-keywords: [PHP Aspose.Cells., XLSB to IMAGE in PHP., PHP XLSB to IMAGE saveformat., XLSB to IMAGE PHP., PHP Convert XLSB to IMAGE., Save XLSB to IMAGE PHP., XLSB to IMAGE Converter., Save XLSB as IMAGE]
+description: Aspose Excel. Convert XLSB to IMAGE quickly and easily with Aspose.Cells. PHP XLSB to IMAGE. PHP Save XLSB to IMAGE. Save XLSB as IMAGE using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to IMAGE in PHP., Save XLSB to IMAGE using PHP., PHP XLSB to IMAGE saveformat., XLSB to IMAGE Converter., PHP Save XLSB as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

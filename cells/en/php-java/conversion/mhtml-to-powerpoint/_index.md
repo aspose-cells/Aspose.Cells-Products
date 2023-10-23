@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to POWERPOINT - MHTML to POWERPOINT Converter
-description: PHP Aspose.Cells. MHTML to POWERPOINT in PHP. PHP Convert MHTML to POWERPOINT saveformat. PHP MHTML to POWERPOINT Converter. Save MHTML to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., MHTML to POWERPOINT in PHP., PHP MHTML to POWERPOINT saveformat., MHTML to POWERPOINT PHP., PHP Convert MHTML to POWERPOINT., Save MHTML to POWERPOINT PHP., MHTML to POWERPOINT Converter., Save MHTML as POWERPOINT]
+description: Aspose Excel. Convert MHTML to POWERPOINT quickly and easily with Aspose.Cells. PHP MHTML to POWERPOINT. PHP Save MHTML to POWERPOINT. Save MHTML as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to POWERPOINT in PHP., Save MHTML to POWERPOINT using PHP., PHP MHTML to POWERPOINT saveformat., MHTML to POWERPOINT Converter., PHP Save MHTML as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

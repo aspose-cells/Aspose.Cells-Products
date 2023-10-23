@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to POWERPOINT - XLSM to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to POWERPOINT in Java. Java Convert XLSM to POWERPOINT saveformat. Java XLSM to POWERPOINT format. Save XLSM to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to POWERPOINT in Java., Java XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Java., Java Convert XLSM to POWERPOINT]
+description: Aspose Excel. Convert XLSM to POWERPOINT quickly and easily with Aspose.Cells. Java XLSM to POWERPOINT. Java Save XLSM to POWERPOINT. Save XLSM as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to POWERPOINT in Java., Save XLSM to POWERPOINT using Java., Java XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Converter., Java Save XLSM as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

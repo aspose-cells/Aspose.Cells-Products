@@ -1,8 +1,9 @@
 ---
-title: Add XLS Excel File Annotation via C++ 
+title: Add or Remove XLS Excel File Annotation via C++ 
 weight: 10040
 
 description: C++ sample code to add and delete XLS format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

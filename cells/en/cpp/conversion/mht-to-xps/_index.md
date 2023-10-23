@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to XPS - MHT to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to XPS in C++. C++ Convert MHT to XPS saveformat. C++ MHT to XPS format. Save MHT to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to XPS in C++., C++ MHT to XPS saveformat., MHT to XPS C++., C++ Convert MHT to XPS]
+description: Aspose Excel. Convert MHT to XPS quickly and easily with Aspose.Cells. C++ MHT to XPS. C++ Save MHT to XPS. Save MHT as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to XPS in C++., Save MHT to XPS using C++., C++ MHT to XPS saveformat., MHT to XPS Converter., C++ Save MHT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

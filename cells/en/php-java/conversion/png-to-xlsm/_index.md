@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLSM - PNG to XLSM Converter
-description: PHP Aspose.Cells. PNG to XLSM in PHP. PHP Convert PNG to XLSM saveformat. PHP PNG to XLSM Converter. Save PNG to XLSM PHP.
-keywords: [PHP Aspose.Cells., PNG to XLSM in PHP., PHP PNG to XLSM saveformat., PNG to XLSM PHP., PHP Convert PNG to XLSM., Save PNG to XLSM PHP., PNG to XLSM Converter., Save PNG as XLSM]
+description: Aspose Excel. Convert PNG to XLSM quickly and easily with Aspose.Cells. PHP PNG to XLSM. PHP Save PNG to XLSM. Save PNG as XLSM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLSM in PHP., Save PNG to XLSM using PHP., PHP PNG to XLSM saveformat., PNG to XLSM Converter., PHP Save PNG as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

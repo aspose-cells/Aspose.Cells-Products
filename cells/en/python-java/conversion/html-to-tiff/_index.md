@@ -1,7 +1,7 @@
 ---
 title: Python HTML to TIFF - HTML to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to TIFF in Python. Python Convert HTML to TIFF saveformat. Python HTML to TIFF format. Save HTML to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to TIFF in Python., Python HTML to TIFF saveformat., HTML to TIFF Python., Python Convert HTML to TIFF]
+description: Aspose Excel. Convert HTML to TIFF quickly and easily with Aspose.Cells. Python HTML to TIFF. Python Save HTML to TIFF. Save HTML as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to TIFF in Python., Save HTML to TIFF using Python., Python HTML to TIFF saveformat., HTML to TIFF Converter., Python Save HTML as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

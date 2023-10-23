@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to JPG - MHT to JPG Converter
-description: PHP Aspose.Cells. MHT to JPG in PHP. PHP Convert MHT to JPG saveformat. PHP MHT to JPG Converter. Save MHT to JPG PHP.
-keywords: [PHP Aspose.Cells., MHT to JPG in PHP., PHP MHT to JPG saveformat., MHT to JPG PHP., PHP Convert MHT to JPG., Save MHT to JPG PHP., MHT to JPG Converter., Save MHT as JPG]
+description: Aspose Excel. Convert MHT to JPG quickly and easily with Aspose.Cells. PHP MHT to JPG. PHP Save MHT to JPG. Save MHT as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to JPG in PHP., Save MHT to JPG using PHP., PHP MHT to JPG saveformat., MHT to JPG Converter., PHP Save MHT as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

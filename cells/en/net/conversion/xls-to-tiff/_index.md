@@ -1,7 +1,7 @@
 ---
 title: C# XLS to TIFF - XLS to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to TIFF in C#. C# Convert XLS to TIFF saveformat. C# XLS to TIFF format. Save XLS to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to TIFF in C#., C# XLS to TIFF saveformat., XLS to TIFF C#., C# Convert XLS to TIFF]
+description: Aspose Excel. Convert XLS to TIFF quickly and easily with Aspose.Cells. C# XLS to TIFF. C# Save XLS to TIFF. Save XLS as TIFF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to TIFF in C#., Save XLS to TIFF using C#., C# XLS to TIFF saveformat., XLS to TIFF Converter., C# Save XLS as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

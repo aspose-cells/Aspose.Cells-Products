@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to SVG - XLTM to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to SVG in C++. C++ Convert XLTM to SVG saveformat. C++ XLTM to SVG format. Save XLTM to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to SVG in C++., C++ XLTM to SVG saveformat., XLTM to SVG C++., C++ Convert XLTM to SVG]
+description: Aspose Excel. Convert XLTM to SVG quickly and easily with Aspose.Cells. C++ XLTM to SVG. C++ Save XLTM to SVG. Save XLTM as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to SVG in C++., Save XLTM to SVG using C++., C++ XLTM to SVG saveformat., XLTM to SVG Converter., C++ Save XLTM as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

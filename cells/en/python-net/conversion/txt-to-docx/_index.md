@@ -1,7 +1,7 @@
 ---
 title: Python TXT to DOCX - TXT to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to DOCX in Python. Python Convert TXT to DOCX saveformat. Python TXT to DOCX format. Save TXT to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to DOCX in Python., Python TXT to DOCX saveformat., TXT to DOCX Python., Python Convert TXT to DOCX]
+description: Aspose Excel. Convert TXT to DOCX quickly and easily with Aspose.Cells. Python TXT to DOCX. Python Save TXT to DOCX. Save TXT as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to DOCX in Python., Save TXT to DOCX using Python., Python TXT to DOCX saveformat., TXT to DOCX Converter., Python Save TXT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# JPG to JPEG - JPG to JPEG Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to JPEG in C#. C# Convert JPG to JPEG saveformat. C# JPG to JPEG format. Save JPG to JPEG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to JPEG in C#., C# JPG to JPEG saveformat., JPG to JPEG C#., C# Convert JPG to JPEG]
+description: Aspose Excel. Convert JPG to JPEG quickly and easily with Aspose.Cells. C# JPG to JPEG. C# Save JPG to JPEG. Save JPG as JPEG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to JPEG in C#., Save JPG to JPEG using C#., C# JPG to JPEG saveformat., JPG to JPEG Converter., C# Save JPG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to EXCEL - SPREADSHEETML to EXCEL Converter
-description: PHP Aspose.Cells. SPREADSHEETML to EXCEL in PHP. PHP Convert SPREADSHEETML to EXCEL saveformat. PHP SPREADSHEETML to EXCEL Converter. Save SPREADSHEETML to EXCEL PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to EXCEL in PHP., PHP SPREADSHEETML to EXCEL saveformat., SPREADSHEETML to EXCEL PHP., PHP Convert SPREADSHEETML to EXCEL., Save SPREADSHEETML to EXCEL PHP., SPREADSHEETML to EXCEL Converter., Save SPREADSHEETML as EXCEL]
+description: Aspose Excel. Convert SPREADSHEETML to EXCEL quickly and easily with Aspose.Cells. PHP SPREADSHEETML to EXCEL. PHP Save SPREADSHEETML to EXCEL. Save SPREADSHEETML as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to EXCEL in PHP., Save SPREADSHEETML to EXCEL using PHP., PHP SPREADSHEETML to EXCEL saveformat., SPREADSHEETML to EXCEL Converter., PHP Save SPREADSHEETML as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

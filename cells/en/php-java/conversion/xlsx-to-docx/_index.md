@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to DOCX - XLSX to DOCX Converter
-description: PHP Aspose.Cells. XLSX to DOCX in PHP. PHP Convert XLSX to DOCX saveformat. PHP XLSX to DOCX Converter. Save XLSX to DOCX PHP.
-keywords: [PHP Aspose.Cells., XLSX to DOCX in PHP., PHP XLSX to DOCX saveformat., XLSX to DOCX PHP., PHP Convert XLSX to DOCX., Save XLSX to DOCX PHP., XLSX to DOCX Converter., Save XLSX as DOCX]
+description: Aspose Excel. Convert XLSX to DOCX quickly and easily with Aspose.Cells. PHP XLSX to DOCX. PHP Save XLSX to DOCX. Save XLSX as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to DOCX in PHP., Save XLSX to DOCX using PHP., PHP XLSX to DOCX saveformat., XLSX to DOCX Converter., PHP Save XLSX as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLT to JSON - XLT to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. XLT to JSON in Java. Java Convert XLT to JSON saveformat. Java XLT to JSON format. Save XLT to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLT to JSON in Java., Java XLT to JSON saveformat., XLT to JSON Java., Java Convert XLT to JSON]
+description: Aspose Excel. Convert XLT to JSON quickly and easily with Aspose.Cells. Java XLT to JSON. Java Save XLT to JSON. Save XLT as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to JSON in Java., Save XLT to JSON using Java., Java XLT to JSON saveformat., XLT to JSON Converter., Java Save XLT as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

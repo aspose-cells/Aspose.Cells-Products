@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to XLAM - EXCEL to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to XLAM in C++. C++ Convert EXCEL to XLAM saveformat. C++ EXCEL to XLAM format. Save EXCEL to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to XLAM in C++., C++ EXCEL to XLAM saveformat., EXCEL to XLAM C++., C++ Convert EXCEL to XLAM]
+description: Aspose Excel. Convert EXCEL to XLAM quickly and easily with Aspose.Cells. C++ EXCEL to XLAM. C++ Save EXCEL to XLAM. Save EXCEL as XLAM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XLAM in C++., Save EXCEL to XLAM using C++., C++ EXCEL to XLAM saveformat., EXCEL to XLAM Converter., C++ Save EXCEL as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

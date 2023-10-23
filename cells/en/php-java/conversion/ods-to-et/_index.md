@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to ET - ODS to ET Converter
-description: PHP Aspose.Cells. ODS to ET in PHP. PHP Convert ODS to ET saveformat. PHP ODS to ET Converter. Save ODS to ET PHP.
-keywords: [PHP Aspose.Cells., ODS to ET in PHP., PHP ODS to ET saveformat., ODS to ET PHP., PHP Convert ODS to ET., Save ODS to ET PHP., ODS to ET Converter., Save ODS as ET]
+description: Aspose Excel. Convert ODS to ET quickly and easily with Aspose.Cells. PHP ODS to ET. PHP Save ODS to ET. Save ODS as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to ET in PHP., Save ODS to ET using PHP., PHP ODS to ET saveformat., ODS to ET Converter., PHP Save ODS as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

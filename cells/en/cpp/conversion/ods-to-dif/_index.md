@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to DIF - ODS to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to DIF in C++. C++ Convert ODS to DIF saveformat. C++ ODS to DIF format. Save ODS to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to DIF in C++., C++ ODS to DIF saveformat., ODS to DIF C++., C++ Convert ODS to DIF]
+description: Aspose Excel. Convert ODS to DIF quickly and easily with Aspose.Cells. C++ ODS to DIF. C++ Save ODS to DIF. Save ODS as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to DIF in C++., Save ODS to DIF using C++., C++ ODS to DIF saveformat., ODS to DIF Converter., C++ Save ODS as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

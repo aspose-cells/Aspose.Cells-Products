@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to PRN - MHT to PRN Converter
-description: PHP Aspose.Cells. MHT to PRN in PHP. PHP Convert MHT to PRN saveformat. PHP MHT to PRN Converter. Save MHT to PRN PHP.
-keywords: [PHP Aspose.Cells., MHT to PRN in PHP., PHP MHT to PRN saveformat., MHT to PRN PHP., PHP Convert MHT to PRN., Save MHT to PRN PHP., MHT to PRN Converter., Save MHT as PRN]
+description: Aspose Excel. Convert MHT to PRN quickly and easily with Aspose.Cells. PHP MHT to PRN. PHP Save MHT to PRN. Save MHT as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to PRN in PHP., Save MHT to PRN using PHP., PHP MHT to PRN saveformat., MHT to PRN Converter., PHP Save MHT as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

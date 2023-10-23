@@ -1,7 +1,7 @@
 ---
 title: C# MHT to TXT - MHT to TXT Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to TXT in C#. C# Convert MHT to TXT saveformat. C# MHT to TXT format. Save MHT to TXT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to TXT in C#., C# MHT to TXT saveformat., MHT to TXT C#., C# Convert MHT to TXT]
+description: Aspose Excel. Convert MHT to TXT quickly and easily with Aspose.Cells. C# MHT to TXT. C# Save MHT to TXT. Save MHT as TXT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to TXT in C#., Save MHT to TXT using C#., C# MHT to TXT saveformat., MHT to TXT Converter., C# Save MHT as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to SQL - XLTM to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. XLTM to SQL in Java. Java Convert XLTM to SQL saveformat. Java XLTM to SQL format. Save XLTM to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTM to SQL in Java., Java XLTM to SQL saveformat., XLTM to SQL Java., Java Convert XLTM to SQL]
+description: Aspose Excel. Convert XLTM to SQL quickly and easily with Aspose.Cells. Java XLTM to SQL. Java Save XLTM to SQL. Save XLTM as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SQL in Java., Save XLTM to SQL using Java., Java XLTM to SQL saveformat., XLTM to SQL Converter., Java Save XLTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

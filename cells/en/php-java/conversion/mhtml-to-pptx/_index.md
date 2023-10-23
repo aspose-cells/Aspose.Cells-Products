@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to PPTX - MHTML to PPTX Converter
-description: PHP Aspose.Cells. MHTML to PPTX in PHP. PHP Convert MHTML to PPTX saveformat. PHP MHTML to PPTX Converter. Save MHTML to PPTX PHP.
-keywords: [PHP Aspose.Cells., MHTML to PPTX in PHP., PHP MHTML to PPTX saveformat., MHTML to PPTX PHP., PHP Convert MHTML to PPTX., Save MHTML to PPTX PHP., MHTML to PPTX Converter., Save MHTML as PPTX]
+description: Aspose Excel. Convert MHTML to PPTX quickly and easily with Aspose.Cells. PHP MHTML to PPTX. PHP Save MHTML to PPTX. Save MHTML as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to PPTX in PHP., Save MHTML to PPTX using PHP., PHP MHTML to PPTX saveformat., MHTML to PPTX Converter., PHP Save MHTML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

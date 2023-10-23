@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLS - PNG to XLS Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to XLS in Python. Python Convert PNG to XLS saveformat. Python PNG to XLS format. Save PNG to XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLS in Python., Python PNG to XLS saveformat., PNG to XLS Python., Python Convert PNG to XLS]
+description: Aspose Excel. Convert PNG to XLS quickly and easily with Aspose.Cells. Python PNG to XLS. Python Save PNG to XLS. Save PNG as XLS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to XLS in Python., Save PNG to XLS using Python., Python PNG to XLS saveformat., PNG to XLS Converter., Python Save PNG as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

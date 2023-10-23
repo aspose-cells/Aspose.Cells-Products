@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to XLSM - JPEG to XLSM Converter
-description: Aspose Excel. Java Aspose.Cells. JPEG to XLSM in Java. Java Convert JPEG to XLSM saveformat. Java JPEG to XLSM format. Save JPEG to XLSM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPEG to XLSM in Java., Java JPEG to XLSM saveformat., JPEG to XLSM Java., Java Convert JPEG to XLSM]
+description: Aspose Excel. Convert JPEG to XLSM quickly and easily with Aspose.Cells. Java JPEG to XLSM. Java Save JPEG to XLSM. Save JPEG as XLSM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to XLSM in Java., Save JPEG to XLSM using Java., Java JPEG to XLSM saveformat., JPEG to XLSM Converter., Java Save JPEG as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

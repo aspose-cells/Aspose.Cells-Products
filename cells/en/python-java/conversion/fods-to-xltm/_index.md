@@ -1,7 +1,7 @@
 ---
 title: Python FODS to XLTM - FODS to XLTM Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to XLTM in Python. Python Convert FODS to XLTM saveformat. Python FODS to XLTM format. Save FODS to XLTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to XLTM in Python., Python FODS to XLTM saveformat., FODS to XLTM Python., Python Convert FODS to XLTM]
+description: Aspose Excel. Convert FODS to XLTM quickly and easily with Aspose.Cells. Python FODS to XLTM. Python Save FODS to XLTM. Save FODS as XLTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to XLTM in Python., Save FODS to XLTM using Python., Python FODS to XLTM saveformat., FODS to XLTM Converter., Python Save FODS as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

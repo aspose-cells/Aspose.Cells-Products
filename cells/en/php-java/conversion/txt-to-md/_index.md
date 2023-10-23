@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to MD - TXT to MD Converter
-description: PHP Aspose.Cells. TXT to MD in PHP. PHP Convert TXT to MD saveformat. PHP TXT to MD Converter. Save TXT to MD PHP.
-keywords: [PHP Aspose.Cells., TXT to MD in PHP., PHP TXT to MD saveformat., TXT to MD PHP., PHP Convert TXT to MD., Save TXT to MD PHP., TXT to MD Converter., Save TXT as MD]
+description: Aspose Excel. Convert TXT to MD quickly and easily with Aspose.Cells. PHP TXT to MD. PHP Save TXT to MD. Save TXT as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to MD in PHP., Save TXT to MD using PHP., PHP TXT to MD saveformat., TXT to MD Converter., PHP Save TXT as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

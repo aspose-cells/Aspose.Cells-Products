@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLSM - PNG to XLSM Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to XLSM in Python. Python Convert PNG to XLSM saveformat. Python PNG to XLSM format. Save PNG to XLSM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLSM in Python., Python PNG to XLSM saveformat., PNG to XLSM Python., Python Convert PNG to XLSM]
+description: Aspose Excel. Convert PNG to XLSM quickly and easily with Aspose.Cells. Python PNG to XLSM. Python Save PNG to XLSM. Save PNG as XLSM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to XLSM in Python., Save PNG to XLSM using Python., Python PNG to XLSM saveformat., PNG to XLSM Converter., Python Save PNG as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

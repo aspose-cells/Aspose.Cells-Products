@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to XPS - XLTX to XPS Converter
-description: PHP Aspose.Cells. XLTX to XPS in PHP. PHP Convert XLTX to XPS saveformat. PHP XLTX to XPS Converter. Save XLTX to XPS PHP.
-keywords: [PHP Aspose.Cells., XLTX to XPS in PHP., PHP XLTX to XPS saveformat., XLTX to XPS PHP., PHP Convert XLTX to XPS., Save XLTX to XPS PHP., XLTX to XPS Converter., Save XLTX as XPS]
+description: Aspose Excel. Convert XLTX to XPS quickly and easily with Aspose.Cells. PHP XLTX to XPS. PHP Save XLTX to XPS. Save XLTX as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to XPS in PHP., Save XLTX to XPS using PHP., PHP XLTX to XPS saveformat., XLTX to XPS Converter., PHP Save XLTX as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

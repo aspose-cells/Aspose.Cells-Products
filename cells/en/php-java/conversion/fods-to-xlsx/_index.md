@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to XLSX - FODS to XLSX Converter
-description: PHP Aspose.Cells. FODS to XLSX in PHP. PHP Convert FODS to XLSX saveformat. PHP FODS to XLSX Converter. Save FODS to XLSX PHP.
-keywords: [PHP Aspose.Cells., FODS to XLSX in PHP., PHP FODS to XLSX saveformat., FODS to XLSX PHP., PHP Convert FODS to XLSX., Save FODS to XLSX PHP., FODS to XLSX Converter., Save FODS as XLSX]
+description: Aspose Excel. Convert FODS to XLSX quickly and easily with Aspose.Cells. PHP FODS to XLSX. PHP Save FODS to XLSX. Save FODS as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to XLSX in PHP., Save FODS to XLSX using PHP., PHP FODS to XLSX saveformat., FODS to XLSX Converter., PHP Save FODS as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

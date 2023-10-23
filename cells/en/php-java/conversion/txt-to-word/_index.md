@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to WORD - TXT to WORD Converter
-description: PHP Aspose.Cells. TXT to WORD in PHP. PHP Convert TXT to WORD saveformat. PHP TXT to WORD Converter. Save TXT to WORD PHP.
-keywords: [PHP Aspose.Cells., TXT to WORD in PHP., PHP TXT to WORD saveformat., TXT to WORD PHP., PHP Convert TXT to WORD., Save TXT to WORD PHP., TXT to WORD Converter., Save TXT as WORD]
+description: Aspose Excel. Convert TXT to WORD quickly and easily with Aspose.Cells. PHP TXT to WORD. PHP Save TXT to WORD. Save TXT as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to WORD in PHP., Save TXT to WORD using PHP., PHP TXT to WORD saveformat., TXT to WORD Converter., PHP Save TXT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

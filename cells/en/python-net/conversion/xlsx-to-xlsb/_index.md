@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to XLSB - XLSX to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to XLSB in Python. Python Convert XLSX to XLSB saveformat. Python XLSX to XLSB format. Save XLSX to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to XLSB in Python., Python XLSX to XLSB saveformat., XLSX to XLSB Python., Python Convert XLSX to XLSB]
+description: Aspose Excel. Convert XLSX to XLSB quickly and easily with Aspose.Cells. Python XLSX to XLSB. Python Save XLSX to XLSB. Save XLSX as XLSB using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to XLSB in Python., Save XLSX to XLSB using Python., Python XLSX to XLSB saveformat., XLSX to XLSB Converter., Python Save XLSX as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

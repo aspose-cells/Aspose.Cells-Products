@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to SQL - SXC to SQL Converter
-description: PHP Aspose.Cells. SXC to SQL in PHP. PHP Convert SXC to SQL saveformat. PHP SXC to SQL Converter. Save SXC to SQL PHP.
-keywords: [PHP Aspose.Cells., SXC to SQL in PHP., PHP SXC to SQL saveformat., SXC to SQL PHP., PHP Convert SXC to SQL., Save SXC to SQL PHP., SXC to SQL Converter., Save SXC as SQL]
+description: Aspose Excel. Convert SXC to SQL quickly and easily with Aspose.Cells. PHP SXC to SQL. PHP Save SXC to SQL. Save SXC as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to SQL in PHP., Save SXC to SQL using PHP., PHP SXC to SQL saveformat., SXC to SQL Converter., PHP Save SXC as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

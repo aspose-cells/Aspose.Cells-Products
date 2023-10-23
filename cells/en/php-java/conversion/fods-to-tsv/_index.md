@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to TSV - FODS to TSV Converter
-description: PHP Aspose.Cells. FODS to TSV in PHP. PHP Convert FODS to TSV saveformat. PHP FODS to TSV Converter. Save FODS to TSV PHP.
-keywords: [PHP Aspose.Cells., FODS to TSV in PHP., PHP FODS to TSV saveformat., FODS to TSV PHP., PHP Convert FODS to TSV., Save FODS to TSV PHP., FODS to TSV Converter., Save FODS as TSV]
+description: Aspose Excel. Convert FODS to TSV quickly and easily with Aspose.Cells. PHP FODS to TSV. PHP Save FODS to TSV. Save FODS as TSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to TSV in PHP., Save FODS to TSV using PHP., PHP FODS to TSV saveformat., FODS to TSV Converter., PHP Save FODS as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to PPTX - IMAGE to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to PPTX in C++. C++ Convert IMAGE to PPTX saveformat. C++ IMAGE to PPTX format. Save IMAGE to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to PPTX in C++., C++ IMAGE to PPTX saveformat., IMAGE to PPTX C++., C++ Convert IMAGE to PPTX]
+description: Aspose Excel. Convert IMAGE to PPTX quickly and easily with Aspose.Cells. C++ IMAGE to PPTX. C++ Save IMAGE to PPTX. Save IMAGE as PPTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to PPTX in C++., Save IMAGE to PPTX using C++., C++ IMAGE to PPTX saveformat., IMAGE to PPTX Converter., C++ Save IMAGE as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

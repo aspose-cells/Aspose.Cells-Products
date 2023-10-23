@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XLT - NUMBERS to XLT Converter
-description: PHP Aspose.Cells. NUMBERS to XLT in PHP. PHP Convert NUMBERS to XLT saveformat. PHP NUMBERS to XLT Converter. Save NUMBERS to XLT PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to XLT in PHP., PHP NUMBERS to XLT saveformat., NUMBERS to XLT PHP., PHP Convert NUMBERS to XLT., Save NUMBERS to XLT PHP., NUMBERS to XLT Converter., Save NUMBERS as XLT]
+description: Aspose Excel. Convert NUMBERS to XLT quickly and easily with Aspose.Cells. PHP NUMBERS to XLT. PHP Save NUMBERS to XLT. Save NUMBERS as XLT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XLT in PHP., Save NUMBERS to XLT using PHP., PHP NUMBERS to XLT saveformat., NUMBERS to XLT Converter., PHP Save NUMBERS as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

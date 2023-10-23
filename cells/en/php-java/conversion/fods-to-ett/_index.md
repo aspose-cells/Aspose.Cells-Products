@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to ETT - FODS to ETT Converter
-description: PHP Aspose.Cells. FODS to ETT in PHP. PHP Convert FODS to ETT saveformat. PHP FODS to ETT Converter. Save FODS to ETT PHP.
-keywords: [PHP Aspose.Cells., FODS to ETT in PHP., PHP FODS to ETT saveformat., FODS to ETT PHP., PHP Convert FODS to ETT., Save FODS to ETT PHP., FODS to ETT Converter., Save FODS as ETT]
+description: Aspose Excel. Convert FODS to ETT quickly and easily with Aspose.Cells. PHP FODS to ETT. PHP Save FODS to ETT. Save FODS as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to ETT in PHP., Save FODS to ETT using PHP., PHP FODS to ETT saveformat., FODS to ETT Converter., PHP Save FODS as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

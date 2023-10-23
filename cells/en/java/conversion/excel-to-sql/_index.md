@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to SQL - EXCEL to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to SQL in Java. Java Convert EXCEL to SQL saveformat. Java EXCEL to SQL format. Save EXCEL to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to SQL in Java., Java EXCEL to SQL saveformat., EXCEL to SQL Java., Java Convert EXCEL to SQL]
+description: Aspose Excel. Convert EXCEL to SQL quickly and easily with Aspose.Cells. Java EXCEL to SQL. Java Save EXCEL to SQL. Save EXCEL as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to SQL in Java., Save EXCEL to SQL using Java., Java EXCEL to SQL saveformat., EXCEL to SQL Converter., Java Save EXCEL as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

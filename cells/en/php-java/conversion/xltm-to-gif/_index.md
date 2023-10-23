@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to GIF - XLTM to GIF Converter
-description: PHP Aspose.Cells. XLTM to GIF in PHP. PHP Convert XLTM to GIF saveformat. PHP XLTM to GIF Converter. Save XLTM to GIF PHP.
-keywords: [PHP Aspose.Cells., XLTM to GIF in PHP., PHP XLTM to GIF saveformat., XLTM to GIF PHP., PHP Convert XLTM to GIF., Save XLTM to GIF PHP., XLTM to GIF Converter., Save XLTM as GIF]
+description: Aspose Excel. Convert XLTM to GIF quickly and easily with Aspose.Cells. PHP XLTM to GIF. PHP Save XLTM to GIF. Save XLTM as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to GIF in PHP., Save XLTM to GIF using PHP., PHP XLTM to GIF saveformat., XLTM to GIF Converter., PHP Save XLTM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

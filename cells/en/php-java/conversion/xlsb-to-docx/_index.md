@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to DOCX - XLSB to DOCX Converter
-description: PHP Aspose.Cells. XLSB to DOCX in PHP. PHP Convert XLSB to DOCX saveformat. PHP XLSB to DOCX Converter. Save XLSB to DOCX PHP.
-keywords: [PHP Aspose.Cells., XLSB to DOCX in PHP., PHP XLSB to DOCX saveformat., XLSB to DOCX PHP., PHP Convert XLSB to DOCX., Save XLSB to DOCX PHP., XLSB to DOCX Converter., Save XLSB as DOCX]
+description: Aspose Excel. Convert XLSB to DOCX quickly and easily with Aspose.Cells. PHP XLSB to DOCX. PHP Save XLSB to DOCX. Save XLSB as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to DOCX in PHP., Save XLSB to DOCX using PHP., PHP XLSB to DOCX saveformat., XLSB to DOCX Converter., PHP Save XLSB as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

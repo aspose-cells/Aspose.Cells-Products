@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to ETT - MHT to ETT Converter
-description: PHP Aspose.Cells. MHT to ETT in PHP. PHP Convert MHT to ETT saveformat. PHP MHT to ETT Converter. Save MHT to ETT PHP.
-keywords: [PHP Aspose.Cells., MHT to ETT in PHP., PHP MHT to ETT saveformat., MHT to ETT PHP., PHP Convert MHT to ETT., Save MHT to ETT PHP., MHT to ETT Converter., Save MHT as ETT]
+description: Aspose Excel. Convert MHT to ETT quickly and easily with Aspose.Cells. PHP MHT to ETT. PHP Save MHT to ETT. Save MHT as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to ETT in PHP., Save MHT to ETT using PHP., PHP MHT to ETT saveformat., MHT to ETT Converter., PHP Save MHT as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

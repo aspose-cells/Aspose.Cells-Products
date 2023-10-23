@@ -1,7 +1,7 @@
 ---
 title: C# PNG to XLSX - PNG to XLSX Converter
-description: Aspose Excel. C# Aspose.Cells. PNG to XLSX in C#. C# Convert PNG to XLSX saveformat. C# PNG to XLSX format. Save PNG to XLSX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., PNG to XLSX in C#., C# PNG to XLSX saveformat., PNG to XLSX C#., C# Convert PNG to XLSX]
+description: Aspose Excel. Convert PNG to XLSX quickly and easily with Aspose.Cells. C# PNG to XLSX. C# Save PNG to XLSX. Save PNG as XLSX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to XLSX in C#., Save PNG to XLSX using C#., C# PNG to XLSX saveformat., PNG to XLSX Converter., C# Save PNG as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

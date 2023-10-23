@@ -1,7 +1,7 @@
 ---
 title: Python XLS to MHT - XLS to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to MHT in Python. Python Convert XLS to MHT saveformat. Python XLS to MHT format. Save XLS to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to MHT in Python., Python XLS to MHT saveformat., XLS to MHT Python., Python Convert XLS to MHT]
+description: Aspose Excel. Convert XLS to MHT quickly and easily with Aspose.Cells. Python XLS to MHT. Python Save XLS to MHT. Save XLS as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to MHT in Python., Save XLS to MHT using Python., Python XLS to MHT saveformat., XLS to MHT Converter., Python Save XLS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

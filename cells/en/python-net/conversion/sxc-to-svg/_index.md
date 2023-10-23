@@ -1,7 +1,7 @@
 ---
 title: Python SXC to SVG - SXC to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to SVG in Python. Python Convert SXC to SVG saveformat. Python SXC to SVG format. Save SXC to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to SVG in Python., Python SXC to SVG saveformat., SXC to SVG Python., Python Convert SXC to SVG]
+description: Aspose Excel. Convert SXC to SVG quickly and easily with Aspose.Cells. Python SXC to SVG. Python Save SXC to SVG. Save SXC as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to SVG in Python., Save SXC to SVG using Python., Python SXC to SVG saveformat., SXC to SVG Converter., Python Save SXC as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

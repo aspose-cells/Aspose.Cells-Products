@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to HTM - SXC to HTM Converter
-description: PHP Aspose.Cells. SXC to HTM in PHP. PHP Convert SXC to HTM saveformat. PHP SXC to HTM Converter. Save SXC to HTM PHP.
-keywords: [PHP Aspose.Cells., SXC to HTM in PHP., PHP SXC to HTM saveformat., SXC to HTM PHP., PHP Convert SXC to HTM., Save SXC to HTM PHP., SXC to HTM Converter., Save SXC as HTM]
+description: Aspose Excel. Convert SXC to HTM quickly and easily with Aspose.Cells. PHP SXC to HTM. PHP Save SXC to HTM. Save SXC as HTM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to HTM in PHP., Save SXC to HTM using PHP., PHP SXC to HTM saveformat., SXC to HTM Converter., PHP Save SXC as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

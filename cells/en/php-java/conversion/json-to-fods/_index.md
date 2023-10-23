@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to FODS - JSON to FODS Converter
-description: PHP Aspose.Cells. JSON to FODS in PHP. PHP Convert JSON to FODS saveformat. PHP JSON to FODS Converter. Save JSON to FODS PHP.
-keywords: [PHP Aspose.Cells., JSON to FODS in PHP., PHP JSON to FODS saveformat., JSON to FODS PHP., PHP Convert JSON to FODS., Save JSON to FODS PHP., JSON to FODS Converter., Save JSON as FODS]
+description: Aspose Excel. Convert JSON to FODS quickly and easily with Aspose.Cells. PHP JSON to FODS. PHP Save JSON to FODS. Save JSON as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to FODS in PHP., Save JSON to FODS using PHP., PHP JSON to FODS saveformat., JSON to FODS Converter., PHP Save JSON as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to SQL - XLSM to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to SQL in Java. Java Convert XLSM to SQL saveformat. Java XLSM to SQL format. Save XLSM to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to SQL in Java., Java XLSM to SQL saveformat., XLSM to SQL Java., Java Convert XLSM to SQL]
+description: Aspose Excel. Convert XLSM to SQL quickly and easily with Aspose.Cells. Java XLSM to SQL. Java Save XLSM to SQL. Save XLSM as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to SQL in Java., Save XLSM to SQL using Java., Java XLSM to SQL saveformat., XLSM to SQL Converter., Java Save XLSM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

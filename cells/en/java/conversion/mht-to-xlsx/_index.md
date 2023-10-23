@@ -1,7 +1,7 @@
 ---
 title: Java MHT to XLSX - MHT to XLSX Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to XLSX in Java. Java Convert MHT to XLSX saveformat. Java MHT to XLSX format. Save MHT to XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to XLSX in Java., Java MHT to XLSX saveformat., MHT to XLSX Java., Java Convert MHT to XLSX]
+description: Aspose Excel. Convert MHT to XLSX quickly and easily with Aspose.Cells. Java MHT to XLSX. Java Save MHT to XLSX. Save MHT as XLSX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XLSX in Java., Save MHT to XLSX using Java., Java MHT to XLSX saveformat., MHT to XLSX Converter., Java Save MHT as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to TXT - ODS to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to TXT in C++. C++ Convert ODS to TXT saveformat. C++ ODS to TXT format. Save ODS to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to TXT in C++., C++ ODS to TXT saveformat., ODS to TXT C++., C++ Convert ODS to TXT]
+description: Aspose Excel. Convert ODS to TXT quickly and easily with Aspose.Cells. C++ ODS to TXT. C++ Save ODS to TXT. Save ODS as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to TXT in C++., Save ODS to TXT using C++., C++ ODS to TXT saveformat., ODS to TXT Converter., C++ Save ODS as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

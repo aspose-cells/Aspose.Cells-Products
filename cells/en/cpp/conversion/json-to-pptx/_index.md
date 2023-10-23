@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to PPTX - JSON to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to PPTX in C++. C++ Convert JSON to PPTX saveformat. C++ JSON to PPTX format. Save JSON to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to PPTX in C++., C++ JSON to PPTX saveformat., JSON to PPTX C++., C++ Convert JSON to PPTX]
+description: Aspose Excel. Convert JSON to PPTX quickly and easily with Aspose.Cells. C++ JSON to PPTX. C++ Save JSON to PPTX. Save JSON as PPTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to PPTX in C++., Save JSON to PPTX using C++., C++ JSON to PPTX saveformat., JSON to PPTX Converter., C++ Save JSON as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

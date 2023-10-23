@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to OTS - EXCEL to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. EXCEL to OTS in Python. Python Convert EXCEL to OTS saveformat. Python EXCEL to OTS format. Save EXCEL to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., EXCEL to OTS in Python., Python EXCEL to OTS saveformat., EXCEL to OTS Python., Python Convert EXCEL to OTS]
+description: Aspose Excel. Convert EXCEL to OTS quickly and easily with Aspose.Cells. Python EXCEL to OTS. Python Save EXCEL to OTS. Save EXCEL as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to OTS in Python., Save EXCEL to OTS using Python., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

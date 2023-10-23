@@ -1,7 +1,7 @@
 ---
 title: C# XLTM to PPTX - XLTM to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. XLTM to PPTX in C#. C# Convert XLTM to PPTX saveformat. C# XLTM to PPTX format. Save XLTM to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTM to PPTX in C#., C# XLTM to PPTX saveformat., XLTM to PPTX C#., C# Convert XLTM to PPTX]
+description: Aspose Excel. Convert XLTM to PPTX quickly and easily with Aspose.Cells. C# XLTM to PPTX. C# Save XLTM to PPTX. Save XLTM as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTM to PPTX in C#., Save XLTM to PPTX using C#., C# XLTM to PPTX saveformat., XLTM to PPTX Converter., C# Save XLTM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

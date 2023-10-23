@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to XPS - SXC to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to XPS in C++. C++ Convert SXC to XPS saveformat. C++ SXC to XPS format. Save SXC to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to XPS in C++., C++ SXC to XPS saveformat., SXC to XPS C++., C++ Convert SXC to XPS]
+description: Aspose Excel. Convert SXC to XPS quickly and easily with Aspose.Cells. C++ SXC to XPS. C++ Save SXC to XPS. Save SXC as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to XPS in C++., Save SXC to XPS using C++., C++ SXC to XPS saveformat., SXC to XPS Converter., C++ Save SXC as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

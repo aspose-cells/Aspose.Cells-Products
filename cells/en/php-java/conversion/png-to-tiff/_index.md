@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to TIFF - PNG to TIFF Converter
-description: PHP Aspose.Cells. PNG to TIFF in PHP. PHP Convert PNG to TIFF saveformat. PHP PNG to TIFF Converter. Save PNG to TIFF PHP.
-keywords: [PHP Aspose.Cells., PNG to TIFF in PHP., PHP PNG to TIFF saveformat., PNG to TIFF PHP., PHP Convert PNG to TIFF., Save PNG to TIFF PHP., PNG to TIFF Converter., Save PNG as TIFF]
+description: Aspose Excel. Convert PNG to TIFF quickly and easily with Aspose.Cells. PHP PNG to TIFF. PHP Save PNG to TIFF. Save PNG as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to TIFF in PHP., Save PNG to TIFF using PHP., PHP PNG to TIFF saveformat., PNG to TIFF Converter., PHP Save PNG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to JPG - XLSX to JPG Converter
-description: Aspose Excel. C# Aspose.Cells. XLSX to JPG in C#. C# Convert XLSX to JPG saveformat. C# XLSX to JPG format. Save XLSX to JPG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSX to JPG in C#., C# XLSX to JPG saveformat., XLSX to JPG C#., C# Convert XLSX to JPG]
+description: Aspose Excel. Convert XLSX to JPG quickly and easily with Aspose.Cells. C# XLSX to JPG. C# Save XLSX to JPG. Save XLSX as JPG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to JPG in C#., Save XLSX to JPG using C#., C# XLSX to JPG saveformat., XLSX to JPG Converter., C# Save XLSX as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

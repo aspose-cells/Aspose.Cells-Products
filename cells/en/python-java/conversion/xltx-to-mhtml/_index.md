@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to MHTML - XLTX to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to MHTML in Python. Python Convert XLTX to MHTML saveformat. Python XLTX to MHTML format. Save XLTX to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to MHTML in Python., Python XLTX to MHTML saveformat., XLTX to MHTML Python., Python Convert XLTX to MHTML]
+description: Aspose Excel. Convert XLTX to MHTML quickly and easily with Aspose.Cells. Python XLTX to MHTML. Python Save XLTX to MHTML. Save XLTX as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to MHTML in Python., Save XLTX to MHTML using Python., Python XLTX to MHTML saveformat., XLTX to MHTML Converter., Python Save XLTX as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

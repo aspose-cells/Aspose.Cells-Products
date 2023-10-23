@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to MHT - PNG to MHT Converter
-description: PHP Aspose.Cells. PNG to MHT in PHP. PHP Convert PNG to MHT saveformat. PHP PNG to MHT Converter. Save PNG to MHT PHP.
-keywords: [PHP Aspose.Cells., PNG to MHT in PHP., PHP PNG to MHT saveformat., PNG to MHT PHP., PHP Convert PNG to MHT., Save PNG to MHT PHP., PNG to MHT Converter., Save PNG as MHT]
+description: Aspose Excel. Convert PNG to MHT quickly and easily with Aspose.Cells. PHP PNG to MHT. PHP Save PNG to MHT. Save PNG as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to MHT in PHP., Save PNG to MHT using PHP., PHP PNG to MHT saveformat., PNG to MHT Converter., PHP Save PNG as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

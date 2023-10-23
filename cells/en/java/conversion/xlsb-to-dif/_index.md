@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to DIF - XLSB to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to DIF in Java. Java Convert XLSB to DIF saveformat. Java XLSB to DIF format. Save XLSB to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to DIF in Java., Java XLSB to DIF saveformat., XLSB to DIF Java., Java Convert XLSB to DIF]
+description: Aspose Excel. Convert XLSB to DIF quickly and easily with Aspose.Cells. Java XLSB to DIF. Java Save XLSB to DIF. Save XLSB as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to DIF in Java., Save XLSB to DIF using Java., Java XLSB to DIF saveformat., XLSB to DIF Converter., Java Save XLSB as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

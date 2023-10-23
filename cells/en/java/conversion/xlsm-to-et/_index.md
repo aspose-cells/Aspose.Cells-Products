@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to ET - XLSM to ET Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to ET in Java. Java Convert XLSM to ET saveformat. Java XLSM to ET format. Save XLSM to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to ET in Java., Java XLSM to ET saveformat., XLSM to ET Java., Java Convert XLSM to ET]
+description: Aspose Excel. Convert XLSM to ET quickly and easily with Aspose.Cells. Java XLSM to ET. Java Save XLSM to ET. Save XLSM as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to ET in Java., Save XLSM to ET using Java., Java XLSM to ET saveformat., XLSM to ET Converter., Java Save XLSM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

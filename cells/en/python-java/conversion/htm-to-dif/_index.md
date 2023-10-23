@@ -1,7 +1,7 @@
 ---
 title: Python HTM to DIF - HTM to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to DIF in Python. Python Convert HTM to DIF saveformat. Python HTM to DIF format. Save HTM to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to DIF in Python., Python HTM to DIF saveformat., HTM to DIF Python., Python Convert HTM to DIF]
+description: Aspose Excel. Convert HTM to DIF quickly and easily with Aspose.Cells. Python HTM to DIF. Python Save HTM to DIF. Save HTM as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to DIF in Python., Save HTM to DIF using Python., Python HTM to DIF saveformat., HTM to DIF Converter., Python Save HTM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java JPG to SXC - JPG to SXC Converter
-description: Aspose Excel. Java Aspose.Cells. JPG to SXC in Java. Java Convert JPG to SXC saveformat. Java JPG to SXC format. Save JPG to SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPG to SXC in Java., Java JPG to SXC saveformat., JPG to SXC Java., Java Convert JPG to SXC]
+description: Aspose Excel. Convert JPG to SXC quickly and easily with Aspose.Cells. Java JPG to SXC. Java Save JPG to SXC. Save JPG as SXC using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to SXC in Java., Save JPG to SXC using Java., Java JPG to SXC saveformat., JPG to SXC Converter., Java Save JPG as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

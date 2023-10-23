@@ -1,7 +1,7 @@
 ---
 title: PHP XML to MHT - XML to MHT Converter
-description: PHP Aspose.Cells. XML to MHT in PHP. PHP Convert XML to MHT saveformat. PHP XML to MHT Converter. Save XML to MHT PHP.
-keywords: [PHP Aspose.Cells., XML to MHT in PHP., PHP XML to MHT saveformat., XML to MHT PHP., PHP Convert XML to MHT., Save XML to MHT PHP., XML to MHT Converter., Save XML as MHT]
+description: Aspose Excel. Convert XML to MHT quickly and easily with Aspose.Cells. PHP XML to MHT. PHP Save XML to MHT. Save XML as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to MHT in PHP., Save XML to MHT using PHP., PHP XML to MHT saveformat., XML to MHT Converter., PHP Save XML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

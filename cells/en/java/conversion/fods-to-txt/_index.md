@@ -1,7 +1,7 @@
 ---
 title: Java FODS to TXT - FODS to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to TXT in Java. Java Convert FODS to TXT saveformat. Java FODS to TXT format. Save FODS to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to TXT in Java., Java FODS to TXT saveformat., FODS to TXT Java., Java Convert FODS to TXT]
+description: Aspose Excel. Convert FODS to TXT quickly and easily with Aspose.Cells. Java FODS to TXT. Java Save FODS to TXT. Save FODS as TXT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to TXT in Java., Save FODS to TXT using Java., Java FODS to TXT saveformat., FODS to TXT Converter., Java Save FODS as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

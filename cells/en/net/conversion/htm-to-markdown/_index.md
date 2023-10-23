@@ -1,7 +1,7 @@
 ---
 title: C# HTM to MARKDOWN - HTM to MARKDOWN Converter
-description: Aspose Excel. C# Aspose.Cells. HTM to MARKDOWN in C#. C# Convert HTM to MARKDOWN saveformat. C# HTM to MARKDOWN format. Save HTM to MARKDOWN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTM to MARKDOWN in C#., C# HTM to MARKDOWN saveformat., HTM to MARKDOWN C#., C# Convert HTM to MARKDOWN]
+description: Aspose Excel. Convert HTM to MARKDOWN quickly and easily with Aspose.Cells. C# HTM to MARKDOWN. C# Save HTM to MARKDOWN. Save HTM as MARKDOWN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to MARKDOWN in C#., Save HTM to MARKDOWN using C#., C# HTM to MARKDOWN saveformat., HTM to MARKDOWN Converter., C# Save HTM as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML to DIF - SPREADSHEETML to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML to DIF in Python. Python Convert SPREADSHEETML to DIF saveformat. Python SPREADSHEETML to DIF format. Save SPREADSHEETML to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SPREADSHEETML to DIF in Python., Python SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Python., Python Convert SPREADSHEETML to DIF]
+description: Aspose Excel. Convert SPREADSHEETML to DIF quickly and easily with Aspose.Cells. Python SPREADSHEETML to DIF. Python Save SPREADSHEETML to DIF. Save SPREADSHEETML as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to DIF in Python., Save SPREADSHEETML to DIF using Python., Python SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., Python Save SPREADSHEETML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

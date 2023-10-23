@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to MHT - NUMBERS to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. NUMBERS to MHT in C++. C++ Convert NUMBERS to MHT saveformat. C++ NUMBERS to MHT format. Save NUMBERS to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to MHT in C++., C++ NUMBERS to MHT saveformat., NUMBERS to MHT C++., C++ Convert NUMBERS to MHT]
+description: Aspose Excel. Convert NUMBERS to MHT quickly and easily with Aspose.Cells. C++ NUMBERS to MHT. C++ Save NUMBERS to MHT. Save NUMBERS as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to MHT in C++., Save NUMBERS to MHT using C++., C++ NUMBERS to MHT saveformat., NUMBERS to MHT Converter., C++ Save NUMBERS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

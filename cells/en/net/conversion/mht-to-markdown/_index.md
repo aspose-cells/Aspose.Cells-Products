@@ -1,7 +1,7 @@
 ---
 title: C# MHT to MARKDOWN - MHT to MARKDOWN Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to MARKDOWN in C#. C# Convert MHT to MARKDOWN saveformat. C# MHT to MARKDOWN format. Save MHT to MARKDOWN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to MARKDOWN in C#., C# MHT to MARKDOWN saveformat., MHT to MARKDOWN C#., C# Convert MHT to MARKDOWN]
+description: Aspose Excel. Convert MHT to MARKDOWN quickly and easily with Aspose.Cells. C# MHT to MARKDOWN. C# Save MHT to MARKDOWN. Save MHT as MARKDOWN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to MARKDOWN in C#., Save MHT to MARKDOWN using C#., C# MHT to MARKDOWN saveformat., MHT to MARKDOWN Converter., C# Save MHT as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

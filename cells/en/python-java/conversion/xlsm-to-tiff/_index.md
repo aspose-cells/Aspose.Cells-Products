@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to TIFF - XLSM to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to TIFF in Python. Python Convert XLSM to TIFF saveformat. Python XLSM to TIFF format. Save XLSM to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to TIFF in Python., Python XLSM to TIFF saveformat., XLSM to TIFF Python., Python Convert XLSM to TIFF]
+description: Aspose Excel. Convert XLSM to TIFF quickly and easily with Aspose.Cells. Python XLSM to TIFF. Python Save XLSM to TIFF. Save XLSM as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to TIFF in Python., Save XLSM to TIFF using Python., Python XLSM to TIFF saveformat., XLSM to TIFF Converter., Python Save XLSM as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

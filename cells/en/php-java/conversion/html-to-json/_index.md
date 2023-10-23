@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to JSON - HTML to JSON Converter
-description: PHP Aspose.Cells. HTML to JSON in PHP. PHP Convert HTML to JSON saveformat. PHP HTML to JSON Converter. Save HTML to JSON PHP.
-keywords: [PHP Aspose.Cells., HTML to JSON in PHP., PHP HTML to JSON saveformat., HTML to JSON PHP., PHP Convert HTML to JSON., Save HTML to JSON PHP., HTML to JSON Converter., Save HTML as JSON]
+description: Aspose Excel. Convert HTML to JSON quickly and easily with Aspose.Cells. PHP HTML to JSON. PHP Save HTML to JSON. Save HTML as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to JSON in PHP., Save HTML to JSON using PHP., PHP HTML to JSON saveformat., HTML to JSON Converter., PHP Save HTML as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

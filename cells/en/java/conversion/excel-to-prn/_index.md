@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to PRN - EXCEL to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to PRN in Java. Java Convert EXCEL to PRN saveformat. Java EXCEL to PRN format. Save EXCEL to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to PRN in Java., Java EXCEL to PRN saveformat., EXCEL to PRN Java., Java Convert EXCEL to PRN]
+description: Aspose Excel. Convert EXCEL to PRN quickly and easily with Aspose.Cells. Java EXCEL to PRN. Java Save EXCEL to PRN. Save EXCEL as PRN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to PRN in Java., Save EXCEL to PRN using Java., Java EXCEL to PRN saveformat., EXCEL to PRN Converter., Java Save EXCEL as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

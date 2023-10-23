@@ -1,7 +1,7 @@
 ---
 title: Python FODS to OTS - FODS to OTS Converter
-description: Aspose Excel. Python Aspose.Cells. FODS to OTS in Python. Python Convert FODS to OTS saveformat. Python FODS to OTS format. Save FODS to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., FODS to OTS in Python., Python FODS to OTS saveformat., FODS to OTS Python., Python Convert FODS to OTS]
+description: Aspose Excel. Convert FODS to OTS quickly and easily with Aspose.Cells. Python FODS to OTS. Python Save FODS to OTS. Save FODS as OTS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to OTS in Python., Save FODS to OTS using Python., Python FODS to OTS saveformat., FODS to OTS Converter., Python Save FODS as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

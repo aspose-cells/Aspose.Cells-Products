@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to JPG - XLTX to JPG Converter
-description: PHP Aspose.Cells. XLTX to JPG in PHP. PHP Convert XLTX to JPG saveformat. PHP XLTX to JPG Converter. Save XLTX to JPG PHP.
-keywords: [PHP Aspose.Cells., XLTX to JPG in PHP., PHP XLTX to JPG saveformat., XLTX to JPG PHP., PHP Convert XLTX to JPG., Save XLTX to JPG PHP., XLTX to JPG Converter., Save XLTX as JPG]
+description: Aspose Excel. Convert XLTX to JPG quickly and easily with Aspose.Cells. PHP XLTX to JPG. PHP Save XLTX to JPG. Save XLTX as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to JPG in PHP., Save XLTX to JPG using PHP., PHP XLTX to JPG saveformat., XLTX to JPG Converter., PHP Save XLTX as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

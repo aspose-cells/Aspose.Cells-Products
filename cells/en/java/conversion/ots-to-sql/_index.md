@@ -1,7 +1,7 @@
 ---
 title: Java OTS to SQL - OTS to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to SQL in Java. Java Convert OTS to SQL saveformat. Java OTS to SQL format. Save OTS to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to SQL in Java., Java OTS to SQL saveformat., OTS to SQL Java., Java Convert OTS to SQL]
+description: Aspose Excel. Convert OTS to SQL quickly and easily with Aspose.Cells. Java OTS to SQL. Java Save OTS to SQL. Save OTS as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to SQL in Java., Save OTS to SQL using Java., Java OTS to SQL saveformat., OTS to SQL Converter., Java Save OTS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

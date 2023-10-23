@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to XLAM - XLSB to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to XLAM in Java. Java Convert XLSB to XLAM saveformat. Java XLSB to XLAM format. Save XLSB to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to XLAM in Java., Java XLSB to XLAM saveformat., XLSB to XLAM Java., Java Convert XLSB to XLAM]
+description: Aspose Excel. Convert XLSB to XLAM quickly and easily with Aspose.Cells. Java XLSB to XLAM. Java Save XLSB to XLAM. Save XLSB as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XLAM in Java., Save XLSB to XLAM using Java., Java XLSB to XLAM saveformat., XLSB to XLAM Converter., Java Save XLSB as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

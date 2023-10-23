@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to DIF - TXT to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to DIF in C++. C++ Convert TXT to DIF saveformat. C++ TXT to DIF format. Save TXT to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to DIF in C++., C++ TXT to DIF saveformat., TXT to DIF C++., C++ Convert TXT to DIF]
+description: Aspose Excel. Convert TXT to DIF quickly and easily with Aspose.Cells. C++ TXT to DIF. C++ Save TXT to DIF. Save TXT as DIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to DIF in C++., Save TXT to DIF using C++., C++ TXT to DIF saveformat., TXT to DIF Converter., C++ Save TXT as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java HTM to OTS - HTM to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. HTM to OTS in Java. Java Convert HTM to OTS saveformat. Java HTM to OTS format. Save HTM to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., HTM to OTS in Java., Java HTM to OTS saveformat., HTM to OTS Java., Java Convert HTM to OTS]
+description: Aspose Excel. Convert HTM to OTS quickly and easily with Aspose.Cells. Java HTM to OTS. Java Save HTM to OTS. Save HTM as OTS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to OTS in Java., Save HTM to OTS using Java., Java HTM to OTS saveformat., HTM to OTS Converter., Java Save HTM as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

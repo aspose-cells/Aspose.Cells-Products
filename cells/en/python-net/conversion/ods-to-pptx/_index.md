@@ -1,7 +1,7 @@
 ---
 title: Python ODS to PPTX - ODS to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. ODS to PPTX in Python. Python Convert ODS to PPTX saveformat. Python ODS to PPTX format. Save ODS to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., ODS to PPTX in Python., Python ODS to PPTX saveformat., ODS to PPTX Python., Python Convert ODS to PPTX]
+description: Aspose Excel. Convert ODS to PPTX quickly and easily with Aspose.Cells. Python ODS to PPTX. Python Save ODS to PPTX. Save ODS as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to PPTX in Python., Save ODS to PPTX using Python., Python ODS to PPTX saveformat., ODS to PPTX Converter., Python Save ODS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

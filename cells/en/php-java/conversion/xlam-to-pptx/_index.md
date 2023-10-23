@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to PPTX - XLAM to PPTX Converter
-description: PHP Aspose.Cells. XLAM to PPTX in PHP. PHP Convert XLAM to PPTX saveformat. PHP XLAM to PPTX Converter. Save XLAM to PPTX PHP.
-keywords: [PHP Aspose.Cells., XLAM to PPTX in PHP., PHP XLAM to PPTX saveformat., XLAM to PPTX PHP., PHP Convert XLAM to PPTX., Save XLAM to PPTX PHP., XLAM to PPTX Converter., Save XLAM as PPTX]
+description: Aspose Excel. Convert XLAM to PPTX quickly and easily with Aspose.Cells. PHP XLAM to PPTX. PHP Save XLAM to PPTX. Save XLAM as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to PPTX in PHP., Save XLAM to PPTX using PHP., PHP XLAM to PPTX saveformat., XLAM to PPTX Converter., PHP Save XLAM as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

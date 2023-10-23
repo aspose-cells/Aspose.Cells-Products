@@ -1,7 +1,7 @@
 ---
 title: Java SXC to SQL - SXC to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to SQL in Java. Java Convert SXC to SQL saveformat. Java SXC to SQL format. Save SXC to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to SQL in Java., Java SXC to SQL saveformat., SXC to SQL Java., Java Convert SXC to SQL]
+description: Aspose Excel. Convert SXC to SQL quickly and easily with Aspose.Cells. Java SXC to SQL. Java Save SXC to SQL. Save SXC as SQL using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to SQL in Java., Save SXC to SQL using Java., Java SXC to SQL saveformat., SXC to SQL Converter., Java Save SXC as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

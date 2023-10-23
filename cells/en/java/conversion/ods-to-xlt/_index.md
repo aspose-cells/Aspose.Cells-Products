@@ -1,7 +1,7 @@
 ---
 title: Java ODS to XLT - ODS to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. ODS to XLT in Java. Java Convert ODS to XLT saveformat. Java ODS to XLT format. Save ODS to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., ODS to XLT in Java., Java ODS to XLT saveformat., ODS to XLT Java., Java Convert ODS to XLT]
+description: Aspose Excel. Convert ODS to XLT quickly and easily with Aspose.Cells. Java ODS to XLT. Java Save ODS to XLT. Save ODS as XLT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to XLT in Java., Save ODS to XLT using Java., Java ODS to XLT saveformat., ODS to XLT Converter., Java Save ODS as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

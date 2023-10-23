@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to SXC - XLSB to SXC Converter
-description: PHP Aspose.Cells. XLSB to SXC in PHP. PHP Convert XLSB to SXC saveformat. PHP XLSB to SXC Converter. Save XLSB to SXC PHP.
-keywords: [PHP Aspose.Cells., XLSB to SXC in PHP., PHP XLSB to SXC saveformat., XLSB to SXC PHP., PHP Convert XLSB to SXC., Save XLSB to SXC PHP., XLSB to SXC Converter., Save XLSB as SXC]
+description: Aspose Excel. Convert XLSB to SXC quickly and easily with Aspose.Cells. PHP XLSB to SXC. PHP Save XLSB to SXC. Save XLSB as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to SXC in PHP., Save XLSB to SXC using PHP., PHP XLSB to SXC saveformat., XLSB to SXC Converter., PHP Save XLSB as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

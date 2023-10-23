@@ -1,7 +1,7 @@
 ---
 title: Java MHT to DIF - MHT to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to DIF in Java. Java Convert MHT to DIF saveformat. Java MHT to DIF format. Save MHT to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to DIF in Java., Java MHT to DIF saveformat., MHT to DIF Java., Java Convert MHT to DIF]
+description: Aspose Excel. Convert MHT to DIF quickly and easily with Aspose.Cells. Java MHT to DIF. Java Save MHT to DIF. Save MHT as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to DIF in Java., Save MHT to DIF using Java., Java MHT to DIF saveformat., MHT to DIF Converter., Java Save MHT as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to MHTML - MHTML to MHTML Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to MHTML in Java. Java Convert MHTML to MHTML saveformat. Java MHTML to MHTML format. Save MHTML to MHTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to MHTML in Java., Java MHTML to MHTML saveformat., MHTML to MHTML Java., Java Convert MHTML to MHTML]
+description: Aspose Excel. Convert MHTML to MHTML quickly and easily with Aspose.Cells. Java MHTML to MHTML. Java Save MHTML to MHTML. Save MHTML as MHTML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to MHTML in Java., Save MHTML to MHTML using Java., Java MHTML to MHTML saveformat., MHTML to MHTML Converter., Java Save MHTML as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

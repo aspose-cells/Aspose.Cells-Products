@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to ETT - XLT to ETT Converter
-description: PHP Aspose.Cells. XLT to ETT in PHP. PHP Convert XLT to ETT saveformat. PHP XLT to ETT Converter. Save XLT to ETT PHP.
-keywords: [PHP Aspose.Cells., XLT to ETT in PHP., PHP XLT to ETT saveformat., XLT to ETT PHP., PHP Convert XLT to ETT., Save XLT to ETT PHP., XLT to ETT Converter., Save XLT as ETT]
+description: Aspose Excel. Convert XLT to ETT quickly and easily with Aspose.Cells. PHP XLT to ETT. PHP Save XLT to ETT. Save XLT as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to ETT in PHP., Save XLT to ETT using PHP., PHP XLT to ETT saveformat., XLT to ETT Converter., PHP Save XLT as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

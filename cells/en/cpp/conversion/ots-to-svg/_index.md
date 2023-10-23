@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to SVG - OTS to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to SVG in C++. C++ Convert OTS to SVG saveformat. C++ OTS to SVG format. Save OTS to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to SVG in C++., C++ OTS to SVG saveformat., OTS to SVG C++., C++ Convert OTS to SVG]
+description: Aspose Excel. Convert OTS to SVG quickly and easily with Aspose.Cells. C++ OTS to SVG. C++ Save OTS to SVG. Save OTS as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to SVG in C++., Save OTS to SVG using C++., C++ OTS to SVG saveformat., OTS to SVG Converter., C++ Save OTS as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

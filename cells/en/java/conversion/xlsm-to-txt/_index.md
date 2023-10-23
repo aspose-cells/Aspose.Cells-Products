@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to TXT - XLSM to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to TXT in Java. Java Convert XLSM to TXT saveformat. Java XLSM to TXT format. Save XLSM to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to TXT in Java., Java XLSM to TXT saveformat., XLSM to TXT Java., Java Convert XLSM to TXT]
+description: Aspose Excel. Convert XLSM to TXT quickly and easily with Aspose.Cells. Java XLSM to TXT. Java Save XLSM to TXT. Save XLSM as TXT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to TXT in Java., Save XLSM to TXT using Java., Java XLSM to TXT saveformat., XLSM to TXT Converter., Java Save XLSM as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to SQL - SPREADSHEETML to SQL Converter
-description: PHP Aspose.Cells. SPREADSHEETML to SQL in PHP. PHP Convert SPREADSHEETML to SQL saveformat. PHP SPREADSHEETML to SQL Converter. Save SPREADSHEETML to SQL PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to SQL in PHP., PHP SPREADSHEETML to SQL saveformat., SPREADSHEETML to SQL PHP., PHP Convert SPREADSHEETML to SQL., Save SPREADSHEETML to SQL PHP., SPREADSHEETML to SQL Converter., Save SPREADSHEETML as SQL]
+description: Aspose Excel. Convert SPREADSHEETML to SQL quickly and easily with Aspose.Cells. PHP SPREADSHEETML to SQL. PHP Save SPREADSHEETML to SQL. Save SPREADSHEETML as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to SQL in PHP., Save SPREADSHEETML to SQL using PHP., PHP SPREADSHEETML to SQL saveformat., SPREADSHEETML to SQL Converter., PHP Save SPREADSHEETML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to MD - PRN to MD Converter
-description: PHP Aspose.Cells. PRN to MD in PHP. PHP Convert PRN to MD saveformat. PHP PRN to MD Converter. Save PRN to MD PHP.
-keywords: [PHP Aspose.Cells., PRN to MD in PHP., PHP PRN to MD saveformat., PRN to MD PHP., PHP Convert PRN to MD., Save PRN to MD PHP., PRN to MD Converter., Save PRN as MD]
+description: Aspose Excel. Convert PRN to MD quickly and easily with Aspose.Cells. PHP PRN to MD. PHP Save PRN to MD. Save PRN as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to MD in PHP., Save PRN to MD using PHP., PHP PRN to MD saveformat., PRN to MD Converter., PHP Save PRN as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

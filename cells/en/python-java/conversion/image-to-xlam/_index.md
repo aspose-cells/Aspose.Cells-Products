@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE to XLAM - IMAGE to XLAM Converter
-description: Aspose Excel. Python Aspose.Cells. IMAGE to XLAM in Python. Python Convert IMAGE to XLAM saveformat. Python IMAGE to XLAM format. Save IMAGE to XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to XLAM in Python., Python IMAGE to XLAM saveformat., IMAGE to XLAM Python., Python Convert IMAGE to XLAM]
+description: Aspose Excel. Convert IMAGE to XLAM quickly and easily with Aspose.Cells. Python IMAGE to XLAM. Python Save IMAGE to XLAM. Save IMAGE as XLAM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to XLAM in Python., Save IMAGE to XLAM using Python., Python IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Python Save IMAGE as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

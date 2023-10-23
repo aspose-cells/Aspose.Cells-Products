@@ -1,7 +1,7 @@
 ---
 title: C++ XLTM to SXC - XLTM to SXC Converter
-description: Aspose Excel. C++ Aspose.Cells. XLTM to SXC in C++. C++ Convert XLTM to SXC saveformat. C++ XLTM to SXC format. Save XLTM to SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLTM to SXC in C++., C++ XLTM to SXC saveformat., XLTM to SXC C++., C++ Convert XLTM to SXC]
+description: Aspose Excel. Convert XLTM to SXC quickly and easily with Aspose.Cells. C++ XLTM to SXC. C++ Save XLTM to SXC. Save XLTM as SXC using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to SXC in C++., Save XLTM to SXC using C++., C++ XLTM to SXC saveformat., XLTM to SXC Converter., C++ Save XLTM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

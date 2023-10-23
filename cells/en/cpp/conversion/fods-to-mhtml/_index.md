@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to MHTML - FODS to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to MHTML in C++. C++ Convert FODS to MHTML saveformat. C++ FODS to MHTML format. Save FODS to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to MHTML in C++., C++ FODS to MHTML saveformat., FODS to MHTML C++., C++ Convert FODS to MHTML]
+description: Aspose Excel. Convert FODS to MHTML quickly and easily with Aspose.Cells. C++ FODS to MHTML. C++ Save FODS to MHTML. Save FODS as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to MHTML in C++., Save FODS to MHTML using C++., C++ FODS to MHTML saveformat., FODS to MHTML Converter., C++ Save FODS as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

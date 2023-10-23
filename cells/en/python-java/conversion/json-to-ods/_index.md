@@ -1,7 +1,7 @@
 ---
 title: Python JSON to ODS - JSON to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. JSON to ODS in Python. Python Convert JSON to ODS saveformat. Python JSON to ODS format. Save JSON to ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JSON to ODS in Python., Python JSON to ODS saveformat., JSON to ODS Python., Python Convert JSON to ODS]
+description: Aspose Excel. Convert JSON to ODS quickly and easily with Aspose.Cells. Python JSON to ODS. Python Save JSON to ODS. Save JSON as ODS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to ODS in Python., Save JSON to ODS using Python., Python JSON to ODS saveformat., JSON to ODS Converter., Python Save JSON as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

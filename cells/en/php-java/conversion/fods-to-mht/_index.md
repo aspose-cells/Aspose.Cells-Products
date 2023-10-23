@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to MHT - FODS to MHT Converter
-description: PHP Aspose.Cells. FODS to MHT in PHP. PHP Convert FODS to MHT saveformat. PHP FODS to MHT Converter. Save FODS to MHT PHP.
-keywords: [PHP Aspose.Cells., FODS to MHT in PHP., PHP FODS to MHT saveformat., FODS to MHT PHP., PHP Convert FODS to MHT., Save FODS to MHT PHP., FODS to MHT Converter., Save FODS as MHT]
+description: Aspose Excel. Convert FODS to MHT quickly and easily with Aspose.Cells. PHP FODS to MHT. PHP Save FODS to MHT. Save FODS as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to MHT in PHP., Save FODS to MHT using PHP., PHP FODS to MHT saveformat., FODS to MHT Converter., PHP Save FODS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

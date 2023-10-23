@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to POWERPOINT - XLSB to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to POWERPOINT in C#. C# Convert XLSB to POWERPOINT saveformat. C# XLSB to POWERPOINT format. Save XLSB to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to POWERPOINT in C#., C# XLSB to POWERPOINT saveformat., XLSB to POWERPOINT C#., C# Convert XLSB to POWERPOINT]
+description: Aspose Excel. Convert XLSB to POWERPOINT quickly and easily with Aspose.Cells. C# XLSB to POWERPOINT. C# Save XLSB to POWERPOINT. Save XLSB as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to POWERPOINT in C#., Save XLSB to POWERPOINT using C#., C# XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Converter., C# Save XLSB as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

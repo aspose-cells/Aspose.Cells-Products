@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to PDF - SXC to PDF Converter
-description: PHP Aspose.Cells. SXC to PDF in PHP. PHP Convert SXC to PDF saveformat. PHP SXC to PDF Converter. Save SXC to PDF PHP.
-keywords: [PHP Aspose.Cells., SXC to PDF in PHP., PHP SXC to PDF saveformat., SXC to PDF PHP., PHP Convert SXC to PDF., Save SXC to PDF PHP., SXC to PDF Converter., Save SXC as PDF]
+description: Aspose Excel. Convert SXC to PDF quickly and easily with Aspose.Cells. PHP SXC to PDF. PHP Save SXC to PDF. Save SXC as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to PDF in PHP., Save SXC to PDF using PHP., PHP SXC to PDF saveformat., SXC to PDF Converter., PHP Save SXC as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

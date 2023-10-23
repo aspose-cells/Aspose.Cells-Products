@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLT - PNG to XLT Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to XLT in Python. Python Convert PNG to XLT saveformat. Python PNG to XLT format. Save PNG to XLT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLT in Python., Python PNG to XLT saveformat., PNG to XLT Python., Python Convert PNG to XLT]
+description: Aspose Excel. Convert PNG to XLT quickly and easily with Aspose.Cells. Python PNG to XLT. Python Save PNG to XLT. Save PNG as XLT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to XLT in Python., Save PNG to XLT using Python., Python PNG to XLT saveformat., PNG to XLT Converter., Python Save PNG as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

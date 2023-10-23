@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to POWERPOINT - XLTX to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to POWERPOINT in C#. C# Convert XLTX to POWERPOINT saveformat. C# XLTX to POWERPOINT format. Save XLTX to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to POWERPOINT in C#., C# XLTX to POWERPOINT saveformat., XLTX to POWERPOINT C#., C# Convert XLTX to POWERPOINT]
+description: Aspose Excel. Convert XLTX to POWERPOINT quickly and easily with Aspose.Cells. C# XLTX to POWERPOINT. C# Save XLTX to POWERPOINT. Save XLTX as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to POWERPOINT in C#., Save XLTX to POWERPOINT using C#., C# XLTX to POWERPOINT saveformat., XLTX to POWERPOINT Converter., C# Save XLTX as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

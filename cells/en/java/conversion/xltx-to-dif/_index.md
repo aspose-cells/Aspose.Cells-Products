@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to DIF - XLTX to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to DIF in Java. Java Convert XLTX to DIF saveformat. Java XLTX to DIF format. Save XLTX to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to DIF in Java., Java XLTX to DIF saveformat., XLTX to DIF Java., Java Convert XLTX to DIF]
+description: Aspose Excel. Convert XLTX to DIF quickly and easily with Aspose.Cells. Java XLTX to DIF. Java Save XLTX to DIF. Save XLTX as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to DIF in Java., Save XLTX to DIF using Java., Java XLTX to DIF saveformat., XLTX to DIF Converter., Java Save XLTX as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

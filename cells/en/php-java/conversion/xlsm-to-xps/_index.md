@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to XPS - XLSM to XPS Converter
-description: PHP Aspose.Cells. XLSM to XPS in PHP. PHP Convert XLSM to XPS saveformat. PHP XLSM to XPS Converter. Save XLSM to XPS PHP.
-keywords: [PHP Aspose.Cells., XLSM to XPS in PHP., PHP XLSM to XPS saveformat., XLSM to XPS PHP., PHP Convert XLSM to XPS., Save XLSM to XPS PHP., XLSM to XPS Converter., Save XLSM as XPS]
+description: Aspose Excel. Convert XLSM to XPS quickly and easily with Aspose.Cells. PHP XLSM to XPS. PHP Save XLSM to XPS. Save XLSM as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to XPS in PHP., Save XLSM to XPS using PHP., PHP XLSM to XPS saveformat., XLSM to XPS Converter., PHP Save XLSM as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

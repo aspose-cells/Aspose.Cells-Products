@@ -1,7 +1,7 @@
 ---
 title: C# JPG to PPTX - JPG to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to PPTX in C#. C# Convert JPG to PPTX saveformat. C# JPG to PPTX format. Save JPG to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to PPTX in C#., C# JPG to PPTX saveformat., JPG to PPTX C#., C# Convert JPG to PPTX]
+description: Aspose Excel. Convert JPG to PPTX quickly and easily with Aspose.Cells. C# JPG to PPTX. C# Save JPG to PPTX. Save JPG as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to PPTX in C#., Save JPG to PPTX using C#., C# JPG to PPTX saveformat., JPG to PPTX Converter., C# Save JPG as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

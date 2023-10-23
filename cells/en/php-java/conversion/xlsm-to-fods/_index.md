@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to FODS - XLSM to FODS Converter
-description: PHP Aspose.Cells. XLSM to FODS in PHP. PHP Convert XLSM to FODS saveformat. PHP XLSM to FODS Converter. Save XLSM to FODS PHP.
-keywords: [PHP Aspose.Cells., XLSM to FODS in PHP., PHP XLSM to FODS saveformat., XLSM to FODS PHP., PHP Convert XLSM to FODS., Save XLSM to FODS PHP., XLSM to FODS Converter., Save XLSM as FODS]
+description: Aspose Excel. Convert XLSM to FODS quickly and easily with Aspose.Cells. PHP XLSM to FODS. PHP Save XLSM to FODS. Save XLSM as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to FODS in PHP., Save XLSM to FODS using PHP., PHP XLSM to FODS saveformat., XLSM to FODS Converter., PHP Save XLSM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

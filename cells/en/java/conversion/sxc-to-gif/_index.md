@@ -1,7 +1,7 @@
 ---
 title: Java SXC to GIF - SXC to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to GIF in Java. Java Convert SXC to GIF saveformat. Java SXC to GIF format. Save SXC to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to GIF in Java., Java SXC to GIF saveformat., SXC to GIF Java., Java Convert SXC to GIF]
+description: Aspose Excel. Convert SXC to GIF quickly and easily with Aspose.Cells. Java SXC to GIF. Java Save SXC to GIF. Save SXC as GIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to GIF in Java., Save SXC to GIF using Java., Java SXC to GIF saveformat., SXC to GIF Converter., Java Save SXC as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

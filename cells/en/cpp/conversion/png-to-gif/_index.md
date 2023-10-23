@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to GIF - PNG to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to GIF in C++. C++ Convert PNG to GIF saveformat. C++ PNG to GIF format. Save PNG to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to GIF in C++., C++ PNG to GIF saveformat., PNG to GIF C++., C++ Convert PNG to GIF]
+description: Aspose Excel. Convert PNG to GIF quickly and easily with Aspose.Cells. C++ PNG to GIF. C++ Save PNG to GIF. Save PNG as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to GIF in C++., Save PNG to GIF using C++., C++ PNG to GIF saveformat., PNG to GIF Converter., C++ Save PNG as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

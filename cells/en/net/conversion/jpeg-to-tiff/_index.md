@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to TIFF - JPEG to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. JPEG to TIFF in C#. C# Convert JPEG to TIFF saveformat. C# JPEG to TIFF format. Save JPEG to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPEG to TIFF in C#., C# JPEG to TIFF saveformat., JPEG to TIFF C#., C# Convert JPEG to TIFF]
+description: Aspose Excel. Convert JPEG to TIFF quickly and easily with Aspose.Cells. C# JPEG to TIFF. C# Save JPEG to TIFF. Save JPEG as TIFF using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to TIFF in C#., Save JPEG to TIFF using C#., C# JPEG to TIFF saveformat., JPEG to TIFF Converter., C# Save JPEG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

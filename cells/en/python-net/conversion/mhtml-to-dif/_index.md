@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to DIF - MHTML to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to DIF in Python. Python Convert MHTML to DIF saveformat. Python MHTML to DIF format. Save MHTML to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to DIF in Python., Python MHTML to DIF saveformat., MHTML to DIF Python., Python Convert MHTML to DIF]
+description: Aspose Excel. Convert MHTML to DIF quickly and easily with Aspose.Cells. Python MHTML to DIF. Python Save MHTML to DIF. Save MHTML as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to DIF in Python., Save MHTML to DIF using Python., Python MHTML to DIF saveformat., MHTML to DIF Converter., Python Save MHTML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

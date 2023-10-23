@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to WORD - IMAGE to WORD Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to WORD in C++. C++ Convert IMAGE to WORD saveformat. C++ IMAGE to WORD format. Save IMAGE to WORD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to WORD in C++., C++ IMAGE to WORD saveformat., IMAGE to WORD C++., C++ Convert IMAGE to WORD]
+description: Aspose Excel. Convert IMAGE to WORD quickly and easily with Aspose.Cells. C++ IMAGE to WORD. C++ Save IMAGE to WORD. Save IMAGE as WORD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to WORD in C++., Save IMAGE to WORD using C++., C++ IMAGE to WORD saveformat., IMAGE to WORD Converter., C++ Save IMAGE as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

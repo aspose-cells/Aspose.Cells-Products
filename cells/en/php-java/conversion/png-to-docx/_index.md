@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to DOCX - PNG to DOCX Converter
-description: PHP Aspose.Cells. PNG to DOCX in PHP. PHP Convert PNG to DOCX saveformat. PHP PNG to DOCX Converter. Save PNG to DOCX PHP.
-keywords: [PHP Aspose.Cells., PNG to DOCX in PHP., PHP PNG to DOCX saveformat., PNG to DOCX PHP., PHP Convert PNG to DOCX., Save PNG to DOCX PHP., PNG to DOCX Converter., Save PNG as DOCX]
+description: Aspose Excel. Convert PNG to DOCX quickly and easily with Aspose.Cells. PHP PNG to DOCX. PHP Save PNG to DOCX. Save PNG as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to DOCX in PHP., Save PNG to DOCX using PHP., PHP PNG to DOCX saveformat., PNG to DOCX Converter., PHP Save PNG as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

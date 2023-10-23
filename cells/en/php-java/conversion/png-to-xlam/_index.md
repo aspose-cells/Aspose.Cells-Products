@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLAM - PNG to XLAM Converter
-description: PHP Aspose.Cells. PNG to XLAM in PHP. PHP Convert PNG to XLAM saveformat. PHP PNG to XLAM Converter. Save PNG to XLAM PHP.
-keywords: [PHP Aspose.Cells., PNG to XLAM in PHP., PHP PNG to XLAM saveformat., PNG to XLAM PHP., PHP Convert PNG to XLAM., Save PNG to XLAM PHP., PNG to XLAM Converter., Save PNG as XLAM]
+description: Aspose Excel. Convert PNG to XLAM quickly and easily with Aspose.Cells. PHP PNG to XLAM. PHP Save PNG to XLAM. Save PNG as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLAM in PHP., Save PNG to XLAM using PHP., PHP PNG to XLAM saveformat., PNG to XLAM Converter., PHP Save PNG as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

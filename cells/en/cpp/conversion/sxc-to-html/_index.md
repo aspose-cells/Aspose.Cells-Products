@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to HTML - SXC to HTML Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to HTML in C++. C++ Convert SXC to HTML saveformat. C++ SXC to HTML format. Save SXC to HTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to HTML in C++., C++ SXC to HTML saveformat., SXC to HTML C++., C++ Convert SXC to HTML]
+description: Aspose Excel. Convert SXC to HTML quickly and easily with Aspose.Cells. C++ SXC to HTML. C++ Save SXC to HTML. Save SXC as HTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to HTML in C++., Save SXC to HTML using C++., C++ SXC to HTML saveformat., SXC to HTML Converter., C++ Save SXC as HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

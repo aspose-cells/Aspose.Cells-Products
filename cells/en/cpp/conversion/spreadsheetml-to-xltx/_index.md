@@ -1,7 +1,7 @@
 ---
 title: C++ SPREADSHEETML to XLTX - SPREADSHEETML to XLTX Converter
-description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML to XLTX in C++. C++ Convert SPREADSHEETML to XLTX saveformat. C++ SPREADSHEETML to XLTX format. Save SPREADSHEETML to XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SPREADSHEETML to XLTX in C++., C++ SPREADSHEETML to XLTX saveformat., SPREADSHEETML to XLTX C++., C++ Convert SPREADSHEETML to XLTX]
+description: Aspose Excel. Convert SPREADSHEETML to XLTX quickly and easily with Aspose.Cells. C++ SPREADSHEETML to XLTX. C++ Save SPREADSHEETML to XLTX. Save SPREADSHEETML as XLTX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to XLTX in C++., Save SPREADSHEETML to XLTX using C++., C++ SPREADSHEETML to XLTX saveformat., SPREADSHEETML to XLTX Converter., C++ Save SPREADSHEETML as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

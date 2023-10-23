@@ -1,7 +1,7 @@
 ---
 title: C# MHT to TSV - MHT to TSV Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to TSV in C#. C# Convert MHT to TSV saveformat. C# MHT to TSV format. Save MHT to TSV C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to TSV in C#., C# MHT to TSV saveformat., MHT to TSV C#., C# Convert MHT to TSV]
+description: Aspose Excel. Convert MHT to TSV quickly and easily with Aspose.Cells. C# MHT to TSV. C# Save MHT to TSV. Save MHT as TSV using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to TSV in C#., Save MHT to TSV using C#., C# MHT to TSV saveformat., MHT to TSV Converter., C# Save MHT as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

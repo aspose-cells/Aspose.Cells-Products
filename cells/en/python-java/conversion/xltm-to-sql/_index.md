@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to SQL - XLTM to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to SQL in Python. Python Convert XLTM to SQL saveformat. Python XLTM to SQL format. Save XLTM to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to SQL in Python., Python XLTM to SQL saveformat., XLTM to SQL Python., Python Convert XLTM to SQL]
+description: Aspose Excel. Convert XLTM to SQL quickly and easily with Aspose.Cells. Python XLTM to SQL. Python Save XLTM to SQL. Save XLTM as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to SQL in Python., Save XLTM to SQL using Python., Python XLTM to SQL saveformat., XLTM to SQL Converter., Python Save XLTM as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

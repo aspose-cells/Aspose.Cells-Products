@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to DIF - XLSX to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to DIF in Java. Java Convert XLSX to DIF saveformat. Java XLSX to DIF format. Save XLSX to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to DIF in Java., Java XLSX to DIF saveformat., XLSX to DIF Java., Java Convert XLSX to DIF]
+description: Aspose Excel. Convert XLSX to DIF quickly and easily with Aspose.Cells. Java XLSX to DIF. Java Save XLSX to DIF. Save XLSX as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to DIF in Java., Save XLSX to DIF using Java., Java XLSX to DIF saveformat., XLSX to DIF Converter., Java Save XLSX as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

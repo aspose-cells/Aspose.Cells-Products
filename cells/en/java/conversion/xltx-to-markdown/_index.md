@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to MARKDOWN - XLTX to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to MARKDOWN in Java. Java Convert XLTX to MARKDOWN saveformat. Java XLTX to MARKDOWN format. Save XLTX to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to MARKDOWN in Java., Java XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Java., Java Convert XLTX to MARKDOWN]
+description: Aspose Excel. Convert XLTX to MARKDOWN quickly and easily with Aspose.Cells. Java XLTX to MARKDOWN. Java Save XLTX to MARKDOWN. Save XLTX as MARKDOWN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to MARKDOWN in Java., Save XLTX to MARKDOWN using Java., Java XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., Java Save XLTX as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

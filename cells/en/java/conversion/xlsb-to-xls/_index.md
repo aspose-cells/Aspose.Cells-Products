@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to XLS - XLSB to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to XLS in Java. Java Convert XLSB to XLS saveformat. Java XLSB to XLS format. Save XLSB to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to XLS in Java., Java XLSB to XLS saveformat., XLSB to XLS Java., Java Convert XLSB to XLS]
+description: Aspose Excel. Convert XLSB to XLS quickly and easily with Aspose.Cells. Java XLSB to XLS. Java Save XLSB to XLS. Save XLSB as XLS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XLS in Java., Save XLSB to XLS using Java., Java XLSB to XLS saveformat., XLSB to XLS Converter., Java Save XLSB as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

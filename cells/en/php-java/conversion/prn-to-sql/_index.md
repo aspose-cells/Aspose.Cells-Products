@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to SQL - PRN to SQL Converter
-description: PHP Aspose.Cells. PRN to SQL in PHP. PHP Convert PRN to SQL saveformat. PHP PRN to SQL Converter. Save PRN to SQL PHP.
-keywords: [PHP Aspose.Cells., PRN to SQL in PHP., PHP PRN to SQL saveformat., PRN to SQL PHP., PHP Convert PRN to SQL., Save PRN to SQL PHP., PRN to SQL Converter., Save PRN as SQL]
+description: Aspose Excel. Convert PRN to SQL quickly and easily with Aspose.Cells. PHP PRN to SQL. PHP Save PRN to SQL. Save PRN as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to SQL in PHP., Save PRN to SQL using PHP., PHP PRN to SQL saveformat., PRN to SQL Converter., PHP Save PRN as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

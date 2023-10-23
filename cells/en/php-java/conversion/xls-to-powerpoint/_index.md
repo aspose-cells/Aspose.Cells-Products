@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to POWERPOINT - XLS to POWERPOINT Converter
-description: PHP Aspose.Cells. XLS to POWERPOINT in PHP. PHP Convert XLS to POWERPOINT saveformat. PHP XLS to POWERPOINT Converter. Save XLS to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., XLS to POWERPOINT in PHP., PHP XLS to POWERPOINT saveformat., XLS to POWERPOINT PHP., PHP Convert XLS to POWERPOINT., Save XLS to POWERPOINT PHP., XLS to POWERPOINT Converter., Save XLS as POWERPOINT]
+description: Aspose Excel. Convert XLS to POWERPOINT quickly and easily with Aspose.Cells. PHP XLS to POWERPOINT. PHP Save XLS to POWERPOINT. Save XLS as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to POWERPOINT in PHP., Save XLS to POWERPOINT using PHP., PHP XLS to POWERPOINT saveformat., XLS to POWERPOINT Converter., PHP Save XLS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

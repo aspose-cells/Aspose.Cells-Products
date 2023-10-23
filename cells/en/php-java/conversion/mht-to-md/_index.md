@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to MD - MHT to MD Converter
-description: PHP Aspose.Cells. MHT to MD in PHP. PHP Convert MHT to MD saveformat. PHP MHT to MD Converter. Save MHT to MD PHP.
-keywords: [PHP Aspose.Cells., MHT to MD in PHP., PHP MHT to MD saveformat., MHT to MD PHP., PHP Convert MHT to MD., Save MHT to MD PHP., MHT to MD Converter., Save MHT as MD]
+description: Aspose Excel. Convert MHT to MD quickly and easily with Aspose.Cells. PHP MHT to MD. PHP Save MHT to MD. Save MHT as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to MD in PHP., Save MHT to MD using PHP., PHP MHT to MD saveformat., MHT to MD Converter., PHP Save MHT as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

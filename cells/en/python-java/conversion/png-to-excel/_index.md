@@ -1,7 +1,7 @@
 ---
 title: Python PNG to EXCEL - PNG to EXCEL Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to EXCEL in Python. Python Convert PNG to EXCEL saveformat. Python PNG to EXCEL format. Save PNG to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to EXCEL in Python., Python PNG to EXCEL saveformat., PNG to EXCEL Python., Python Convert PNG to EXCEL]
+description: Aspose Excel. Convert PNG to EXCEL quickly and easily with Aspose.Cells. Python PNG to EXCEL. Python Save PNG to EXCEL. Save PNG as EXCEL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to EXCEL in Python., Save PNG to EXCEL using Python., Python PNG to EXCEL saveformat., PNG to EXCEL Converter., Python Save PNG as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

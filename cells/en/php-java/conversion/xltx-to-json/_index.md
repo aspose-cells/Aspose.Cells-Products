@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to JSON - XLTX to JSON Converter
-description: PHP Aspose.Cells. XLTX to JSON in PHP. PHP Convert XLTX to JSON saveformat. PHP XLTX to JSON Converter. Save XLTX to JSON PHP.
-keywords: [PHP Aspose.Cells., XLTX to JSON in PHP., PHP XLTX to JSON saveformat., XLTX to JSON PHP., PHP Convert XLTX to JSON., Save XLTX to JSON PHP., XLTX to JSON Converter., Save XLTX as JSON]
+description: Aspose Excel. Convert XLTX to JSON quickly and easily with Aspose.Cells. PHP XLTX to JSON. PHP Save XLTX to JSON. Save XLTX as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to JSON in PHP., Save XLTX to JSON using PHP., PHP XLTX to JSON saveformat., XLTX to JSON Converter., PHP Save XLTX as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

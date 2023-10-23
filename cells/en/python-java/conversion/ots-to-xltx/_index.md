@@ -1,7 +1,7 @@
 ---
 title: Python OTS to XLTX - OTS to XLTX Converter
-description: Aspose Excel. Python Aspose.Cells. OTS to XLTX in Python. Python Convert OTS to XLTX saveformat. Python OTS to XLTX format. Save OTS to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., OTS to XLTX in Python., Python OTS to XLTX saveformat., OTS to XLTX Python., Python Convert OTS to XLTX]
+description: Aspose Excel. Convert OTS to XLTX quickly and easily with Aspose.Cells. Python OTS to XLTX. Python Save OTS to XLTX. Save OTS as XLTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to XLTX in Python., Save OTS to XLTX using Python., Python OTS to XLTX saveformat., OTS to XLTX Converter., Python Save OTS as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to PRN - XLSB to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to PRN in Python. Python Convert XLSB to PRN saveformat. Python XLSB to PRN format. Save XLSB to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to PRN in Python., Python XLSB to PRN saveformat., XLSB to PRN Python., Python Convert XLSB to PRN]
+description: Aspose Excel. Convert XLSB to PRN quickly and easily with Aspose.Cells. Python XLSB to PRN. Python Save XLSB to PRN. Save XLSB as PRN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to PRN in Python., Save XLSB to PRN using Python., Python XLSB to PRN saveformat., XLSB to PRN Converter., Python Save XLSB as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

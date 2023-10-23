@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to PPTX - OTS to PPTX Converter
-description: PHP Aspose.Cells. OTS to PPTX in PHP. PHP Convert OTS to PPTX saveformat. PHP OTS to PPTX Converter. Save OTS to PPTX PHP.
-keywords: [PHP Aspose.Cells., OTS to PPTX in PHP., PHP OTS to PPTX saveformat., OTS to PPTX PHP., PHP Convert OTS to PPTX., Save OTS to PPTX PHP., OTS to PPTX Converter., Save OTS as PPTX]
+description: Aspose Excel. Convert OTS to PPTX quickly and easily with Aspose.Cells. PHP OTS to PPTX. PHP Save OTS to PPTX. Save OTS as PPTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to PPTX in PHP., Save OTS to PPTX using PHP., PHP OTS to PPTX saveformat., OTS to PPTX Converter., PHP Save OTS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

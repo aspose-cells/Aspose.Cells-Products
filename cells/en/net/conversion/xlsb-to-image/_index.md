@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to IMAGE - XLSB to IMAGE Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to IMAGE in C#. C# Convert XLSB to IMAGE saveformat. C# XLSB to IMAGE format. Save XLSB to IMAGE C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to IMAGE in C#., C# XLSB to IMAGE saveformat., XLSB to IMAGE C#., C# Convert XLSB to IMAGE]
+description: Aspose Excel. Convert XLSB to IMAGE quickly and easily with Aspose.Cells. C# XLSB to IMAGE. C# Save XLSB to IMAGE. Save XLSB as IMAGE using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to IMAGE in C#., Save XLSB to IMAGE using C#., C# XLSB to IMAGE saveformat., XLSB to IMAGE Converter., C# Save XLSB as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

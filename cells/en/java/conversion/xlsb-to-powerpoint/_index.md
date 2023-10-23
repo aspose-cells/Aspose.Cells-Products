@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to POWERPOINT - XLSB to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to POWERPOINT in Java. Java Convert XLSB to POWERPOINT saveformat. Java XLSB to POWERPOINT format. Save XLSB to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to POWERPOINT in Java., Java XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Java., Java Convert XLSB to POWERPOINT]
+description: Aspose Excel. Convert XLSB to POWERPOINT quickly and easily with Aspose.Cells. Java XLSB to POWERPOINT. Java Save XLSB to POWERPOINT. Save XLSB as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to POWERPOINT in Java., Save XLSB to POWERPOINT using Java., Java XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Converter., Java Save XLSB as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

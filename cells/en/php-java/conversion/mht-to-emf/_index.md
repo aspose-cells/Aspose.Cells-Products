@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to EMF - MHT to EMF Converter
-description: PHP Aspose.Cells. MHT to EMF in PHP. PHP Convert MHT to EMF saveformat. PHP MHT to EMF Converter. Save MHT to EMF PHP.
-keywords: [PHP Aspose.Cells., MHT to EMF in PHP., PHP MHT to EMF saveformat., MHT to EMF PHP., PHP Convert MHT to EMF., Save MHT to EMF PHP., MHT to EMF Converter., Save MHT as EMF]
+description: Aspose Excel. Convert MHT to EMF quickly and easily with Aspose.Cells. PHP MHT to EMF. PHP Save MHT to EMF. Save MHT as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to EMF in PHP., Save MHT to EMF using PHP., PHP MHT to EMF saveformat., MHT to EMF Converter., PHP Save MHT as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

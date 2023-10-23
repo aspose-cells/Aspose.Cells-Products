@@ -1,7 +1,7 @@
 ---
 title: Java MHT to XML - MHT to XML Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to XML in Java. Java Convert MHT to XML saveformat. Java MHT to XML format. Save MHT to XML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to XML in Java., Java MHT to XML saveformat., MHT to XML Java., Java Convert MHT to XML]
+description: Aspose Excel. Convert MHT to XML quickly and easily with Aspose.Cells. Java MHT to XML. Java Save MHT to XML. Save MHT as XML using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XML in Java., Save MHT to XML using Java., Java MHT to XML saveformat., MHT to XML Converter., Java Save MHT as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

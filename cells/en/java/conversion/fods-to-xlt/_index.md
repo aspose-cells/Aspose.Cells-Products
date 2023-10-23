@@ -1,7 +1,7 @@
 ---
 title: Java FODS to XLT - FODS to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. FODS to XLT in Java. Java Convert FODS to XLT saveformat. Java FODS to XLT format. Save FODS to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., FODS to XLT in Java., Java FODS to XLT saveformat., FODS to XLT Java., Java Convert FODS to XLT]
+description: Aspose Excel. Convert FODS to XLT quickly and easily with Aspose.Cells. Java FODS to XLT. Java Save FODS to XLT. Save FODS as XLT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to XLT in Java., Save FODS to XLT using Java., Java FODS to XLT saveformat., FODS to XLT Converter., Java Save FODS as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

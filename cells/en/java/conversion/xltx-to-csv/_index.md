@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to CSV - XLTX to CSV Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to CSV in Java. Java Convert XLTX to CSV saveformat. Java XLTX to CSV format. Save XLTX to CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to CSV in Java., Java XLTX to CSV saveformat., XLTX to CSV Java., Java Convert XLTX to CSV]
+description: Aspose Excel. Convert XLTX to CSV quickly and easily with Aspose.Cells. Java XLTX to CSV. Java Save XLTX to CSV. Save XLTX as CSV using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to CSV in Java., Save XLTX to CSV using Java., Java XLTX to CSV saveformat., XLTX to CSV Converter., Java Save XLTX as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

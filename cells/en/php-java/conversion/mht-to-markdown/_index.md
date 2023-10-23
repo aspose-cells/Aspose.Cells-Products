@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to MARKDOWN - MHT to MARKDOWN Converter
-description: PHP Aspose.Cells. MHT to MARKDOWN in PHP. PHP Convert MHT to MARKDOWN saveformat. PHP MHT to MARKDOWN Converter. Save MHT to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., MHT to MARKDOWN in PHP., PHP MHT to MARKDOWN saveformat., MHT to MARKDOWN PHP., PHP Convert MHT to MARKDOWN., Save MHT to MARKDOWN PHP., MHT to MARKDOWN Converter., Save MHT as MARKDOWN]
+description: Aspose Excel. Convert MHT to MARKDOWN quickly and easily with Aspose.Cells. PHP MHT to MARKDOWN. PHP Save MHT to MARKDOWN. Save MHT as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to MARKDOWN in PHP., Save MHT to MARKDOWN using PHP., PHP MHT to MARKDOWN saveformat., MHT to MARKDOWN Converter., PHP Save MHT as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to XLSM - EXCEL to XLSM Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to XLSM in Java. Java Convert EXCEL to XLSM saveformat. Java EXCEL to XLSM format. Save EXCEL to XLSM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to XLSM in Java., Java EXCEL to XLSM saveformat., EXCEL to XLSM Java., Java Convert EXCEL to XLSM]
+description: Aspose Excel. Convert EXCEL to XLSM quickly and easily with Aspose.Cells. Java EXCEL to XLSM. Java Save EXCEL to XLSM. Save EXCEL as XLSM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to XLSM in Java., Save EXCEL to XLSM using Java., Java EXCEL to XLSM saveformat., EXCEL to XLSM Converter., Java Save EXCEL as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

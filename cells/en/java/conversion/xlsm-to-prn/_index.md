@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to PRN - XLSM to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to PRN in Java. Java Convert XLSM to PRN saveformat. Java XLSM to PRN format. Save XLSM to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to PRN in Java., Java XLSM to PRN saveformat., XLSM to PRN Java., Java Convert XLSM to PRN]
+description: Aspose Excel. Convert XLSM to PRN quickly and easily with Aspose.Cells. Java XLSM to PRN. Java Save XLSM to PRN. Save XLSM as PRN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to PRN in Java., Save XLSM to PRN using Java., Java XLSM to PRN saveformat., XLSM to PRN Converter., Java Save XLSM as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

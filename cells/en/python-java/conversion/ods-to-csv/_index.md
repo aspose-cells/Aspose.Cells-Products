@@ -1,7 +1,7 @@
 ---
 title: Python ODS to CSV - ODS to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. ODS to CSV in Python. Python Convert ODS to CSV saveformat. Python ODS to CSV format. Save ODS to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., ODS to CSV in Python., Python ODS to CSV saveformat., ODS to CSV Python., Python Convert ODS to CSV]
+description: Aspose Excel. Convert ODS to CSV quickly and easily with Aspose.Cells. Python ODS to CSV. Python Save ODS to CSV. Save ODS as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to CSV in Python., Save ODS to CSV using Python., Python ODS to CSV saveformat., ODS to CSV Converter., Python Save ODS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

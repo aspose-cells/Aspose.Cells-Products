@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to EXCEL - XLTM to EXCEL Converter
-description: PHP Aspose.Cells. XLTM to EXCEL in PHP. PHP Convert XLTM to EXCEL saveformat. PHP XLTM to EXCEL Converter. Save XLTM to EXCEL PHP.
-keywords: [PHP Aspose.Cells., XLTM to EXCEL in PHP., PHP XLTM to EXCEL saveformat., XLTM to EXCEL PHP., PHP Convert XLTM to EXCEL., Save XLTM to EXCEL PHP., XLTM to EXCEL Converter., Save XLTM as EXCEL]
+description: Aspose Excel. Convert XLTM to EXCEL quickly and easily with Aspose.Cells. PHP XLTM to EXCEL. PHP Save XLTM to EXCEL. Save XLTM as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to EXCEL in PHP., Save XLTM to EXCEL using PHP., PHP XLTM to EXCEL saveformat., XLTM to EXCEL Converter., PHP Save XLTM as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

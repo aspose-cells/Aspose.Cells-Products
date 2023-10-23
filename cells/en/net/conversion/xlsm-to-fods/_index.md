@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to FODS - XLSM to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. XLSM to FODS in C#. C# Convert XLSM to FODS saveformat. C# XLSM to FODS format. Save XLSM to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSM to FODS in C#., C# XLSM to FODS saveformat., XLSM to FODS C#., C# Convert XLSM to FODS]
+description: Aspose Excel. Convert XLSM to FODS quickly and easily with Aspose.Cells. C# XLSM to FODS. C# Save XLSM to FODS. Save XLSM as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to FODS in C#., Save XLSM to FODS using C#., C# XLSM to FODS saveformat., XLSM to FODS Converter., C# Save XLSM as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

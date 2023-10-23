@@ -1,7 +1,7 @@
 ---
 title: C# HTML to FODS - HTML to FODS Converter
-description: Aspose Excel. C# Aspose.Cells. HTML to FODS in C#. C# Convert HTML to FODS saveformat. C# HTML to FODS format. Save HTML to FODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTML to FODS in C#., C# HTML to FODS saveformat., HTML to FODS C#., C# Convert HTML to FODS]
+description: Aspose Excel. Convert HTML to FODS quickly and easily with Aspose.Cells. C# HTML to FODS. C# Save HTML to FODS. Save HTML as FODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to FODS in C#., Save HTML to FODS using C#., C# HTML to FODS saveformat., HTML to FODS Converter., C# Save HTML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

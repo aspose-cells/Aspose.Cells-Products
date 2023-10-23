@@ -1,7 +1,7 @@
 ---
 title: C# JPG to ET - JPG to ET Converter
-description: Aspose Excel. C# Aspose.Cells. JPG to ET in C#. C# Convert JPG to ET saveformat. C# JPG to ET format. Save JPG to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPG to ET in C#., C# JPG to ET saveformat., JPG to ET C#., C# Convert JPG to ET]
+description: Aspose Excel. Convert JPG to ET quickly and easily with Aspose.Cells. C# JPG to ET. C# Save JPG to ET. Save JPG as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to ET in C#., Save JPG to ET using C#., C# JPG to ET saveformat., JPG to ET Converter., C# Save JPG as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

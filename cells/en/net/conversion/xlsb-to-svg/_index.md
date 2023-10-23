@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to SVG - XLSB to SVG Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to SVG in C#. C# Convert XLSB to SVG saveformat. C# XLSB to SVG format. Save XLSB to SVG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to SVG in C#., C# XLSB to SVG saveformat., XLSB to SVG C#., C# Convert XLSB to SVG]
+description: Aspose Excel. Convert XLSB to SVG quickly and easily with Aspose.Cells. C# XLSB to SVG. C# Save XLSB to SVG. Save XLSB as SVG using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to SVG in C#., Save XLSB to SVG using C#., C# XLSB to SVG saveformat., XLSB to SVG Converter., C# Save XLSB as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

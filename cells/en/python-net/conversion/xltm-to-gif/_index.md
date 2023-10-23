@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to GIF - XLTM to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. XLTM to GIF in Python. Python Convert XLTM to GIF saveformat. Python XLTM to GIF format. Save XLTM to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTM to GIF in Python., Python XLTM to GIF saveformat., XLTM to GIF Python., Python Convert XLTM to GIF]
+description: Aspose Excel. Convert XLTM to GIF quickly and easily with Aspose.Cells. Python XLTM to GIF. Python Save XLTM to GIF. Save XLTM as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to GIF in Python., Save XLTM to GIF using Python., Python XLTM to GIF saveformat., XLTM to GIF Converter., Python Save XLTM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to ODS - XLSM to ODS Converter
-description: PHP Aspose.Cells. XLSM to ODS in PHP. PHP Convert XLSM to ODS saveformat. PHP XLSM to ODS Converter. Save XLSM to ODS PHP.
-keywords: [PHP Aspose.Cells., XLSM to ODS in PHP., PHP XLSM to ODS saveformat., XLSM to ODS PHP., PHP Convert XLSM to ODS., Save XLSM to ODS PHP., XLSM to ODS Converter., Save XLSM as ODS]
+description: Aspose Excel. Convert XLSM to ODS quickly and easily with Aspose.Cells. PHP XLSM to ODS. PHP Save XLSM to ODS. Save XLSM as ODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to ODS in PHP., Save XLSM to ODS using PHP., PHP XLSM to ODS saveformat., XLSM to ODS Converter., PHP Save XLSM as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

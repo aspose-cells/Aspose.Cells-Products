@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to SXC - MHTML to SXC Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to SXC in C++. C++ Convert MHTML to SXC saveformat. C++ MHTML to SXC format. Save MHTML to SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to SXC in C++., C++ MHTML to SXC saveformat., MHTML to SXC C++., C++ Convert MHTML to SXC]
+description: Aspose Excel. Convert MHTML to SXC quickly and easily with Aspose.Cells. C++ MHTML to SXC. C++ Save MHTML to SXC. Save MHTML as SXC using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to SXC in C++., Save MHTML to SXC using C++., C++ MHTML to SXC saveformat., MHTML to SXC Converter., C++ Save MHTML as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

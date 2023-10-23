@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to SQL - XLTX to SQL Converter
-description: PHP Aspose.Cells. XLTX to SQL in PHP. PHP Convert XLTX to SQL saveformat. PHP XLTX to SQL Converter. Save XLTX to SQL PHP.
-keywords: [PHP Aspose.Cells., XLTX to SQL in PHP., PHP XLTX to SQL saveformat., XLTX to SQL PHP., PHP Convert XLTX to SQL., Save XLTX to SQL PHP., XLTX to SQL Converter., Save XLTX as SQL]
+description: Aspose Excel. Convert XLTX to SQL quickly and easily with Aspose.Cells. PHP XLTX to SQL. PHP Save XLTX to SQL. Save XLTX as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to SQL in PHP., Save XLTX to SQL using PHP., PHP XLTX to SQL saveformat., XLTX to SQL Converter., PHP Save XLTX as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

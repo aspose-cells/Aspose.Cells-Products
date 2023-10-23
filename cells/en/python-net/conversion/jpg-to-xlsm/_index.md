@@ -1,7 +1,7 @@
 ---
 title: Python JPG to XLSM - JPG to XLSM Converter
-description: Aspose Excel. Python Aspose.Cells. JPG to XLSM in Python. Python Convert JPG to XLSM saveformat. Python JPG to XLSM format. Save JPG to XLSM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPG to XLSM in Python., Python JPG to XLSM saveformat., JPG to XLSM Python., Python Convert JPG to XLSM]
+description: Aspose Excel. Convert JPG to XLSM quickly and easily with Aspose.Cells. Python JPG to XLSM. Python Save JPG to XLSM. Save JPG as XLSM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to XLSM in Python., Save JPG to XLSM using Python., Python JPG to XLSM saveformat., JPG to XLSM Converter., Python Save JPG as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

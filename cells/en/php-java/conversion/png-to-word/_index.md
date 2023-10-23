@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to WORD - PNG to WORD Converter
-description: PHP Aspose.Cells. PNG to WORD in PHP. PHP Convert PNG to WORD saveformat. PHP PNG to WORD Converter. Save PNG to WORD PHP.
-keywords: [PHP Aspose.Cells., PNG to WORD in PHP., PHP PNG to WORD saveformat., PNG to WORD PHP., PHP Convert PNG to WORD., Save PNG to WORD PHP., PNG to WORD Converter., Save PNG as WORD]
+description: Aspose Excel. Convert PNG to WORD quickly and easily with Aspose.Cells. PHP PNG to WORD. PHP Save PNG to WORD. Save PNG as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to WORD in PHP., Save PNG to WORD using PHP., PHP PNG to WORD saveformat., PNG to WORD Converter., PHP Save PNG as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java TXT to PDF - TXT to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to PDF in Java. Java Convert TXT to PDF saveformat. Java TXT to PDF format. Save TXT to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to PDF in Java., Java TXT to PDF saveformat., TXT to PDF Java., Java Convert TXT to PDF]
+description: Aspose Excel. Convert TXT to PDF quickly and easily with Aspose.Cells. Java TXT to PDF. Java Save TXT to PDF. Save TXT as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to PDF in Java., Save TXT to PDF using Java., Java TXT to PDF saveformat., TXT to PDF Converter., Java Save TXT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

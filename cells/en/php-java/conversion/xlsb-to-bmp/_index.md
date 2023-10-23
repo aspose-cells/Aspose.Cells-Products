@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to BMP - XLSB to BMP Converter
-description: PHP Aspose.Cells. XLSB to BMP in PHP. PHP Convert XLSB to BMP saveformat. PHP XLSB to BMP Converter. Save XLSB to BMP PHP.
-keywords: [PHP Aspose.Cells., XLSB to BMP in PHP., PHP XLSB to BMP saveformat., XLSB to BMP PHP., PHP Convert XLSB to BMP., Save XLSB to BMP PHP., XLSB to BMP Converter., Save XLSB as BMP]
+description: Aspose Excel. Convert XLSB to BMP quickly and easily with Aspose.Cells. PHP XLSB to BMP. PHP Save XLSB to BMP. Save XLSB as BMP using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to BMP in PHP., Save XLSB to BMP using PHP., PHP XLSB to BMP saveformat., XLSB to BMP Converter., PHP Save XLSB as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

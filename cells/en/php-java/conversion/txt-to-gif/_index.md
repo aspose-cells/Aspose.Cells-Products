@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to GIF - TXT to GIF Converter
-description: PHP Aspose.Cells. TXT to GIF in PHP. PHP Convert TXT to GIF saveformat. PHP TXT to GIF Converter. Save TXT to GIF PHP.
-keywords: [PHP Aspose.Cells., TXT to GIF in PHP., PHP TXT to GIF saveformat., TXT to GIF PHP., PHP Convert TXT to GIF., Save TXT to GIF PHP., TXT to GIF Converter., Save TXT as GIF]
+description: Aspose Excel. Convert TXT to GIF quickly and easily with Aspose.Cells. PHP TXT to GIF. PHP Save TXT to GIF. Save TXT as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to GIF in PHP., Save TXT to GIF using PHP., PHP TXT to GIF saveformat., TXT to GIF Converter., PHP Save TXT as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

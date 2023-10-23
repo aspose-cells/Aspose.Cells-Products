@@ -1,7 +1,7 @@
 ---
 title: Java OTS to PDF - OTS to PDF Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to PDF in Java. Java Convert OTS to PDF saveformat. Java OTS to PDF format. Save OTS to PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to PDF in Java., Java OTS to PDF saveformat., OTS to PDF Java., Java Convert OTS to PDF]
+description: Aspose Excel. Convert OTS to PDF quickly and easily with Aspose.Cells. Java OTS to PDF. Java Save OTS to PDF. Save OTS as PDF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to PDF in Java., Save OTS to PDF using Java., Java OTS to PDF saveformat., OTS to PDF Converter., Java Save OTS as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

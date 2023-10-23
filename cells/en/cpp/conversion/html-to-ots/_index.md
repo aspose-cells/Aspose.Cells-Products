@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to OTS - HTML to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to OTS in C++. C++ Convert HTML to OTS saveformat. C++ HTML to OTS format. Save HTML to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to OTS in C++., C++ HTML to OTS saveformat., HTML to OTS C++., C++ Convert HTML to OTS]
+description: Aspose Excel. Convert HTML to OTS quickly and easily with Aspose.Cells. C++ HTML to OTS. C++ Save HTML to OTS. Save HTML as OTS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to OTS in C++., Save HTML to OTS using C++., C++ HTML to OTS saveformat., HTML to OTS Converter., C++ Save HTML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

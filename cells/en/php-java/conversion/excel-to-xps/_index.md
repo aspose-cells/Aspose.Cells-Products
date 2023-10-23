@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to XPS - EXCEL to XPS Converter
-description: PHP Aspose.Cells. EXCEL to XPS in PHP. PHP Convert EXCEL to XPS saveformat. PHP EXCEL to XPS Converter. Save EXCEL to XPS PHP.
-keywords: [PHP Aspose.Cells., EXCEL to XPS in PHP., PHP EXCEL to XPS saveformat., EXCEL to XPS PHP., PHP Convert EXCEL to XPS., Save EXCEL to XPS PHP., EXCEL to XPS Converter., Save EXCEL as XPS]
+description: Aspose Excel. Convert EXCEL to XPS quickly and easily with Aspose.Cells. PHP EXCEL to XPS. PHP Save EXCEL to XPS. Save EXCEL as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to XPS in PHP., Save EXCEL to XPS using PHP., PHP EXCEL to XPS saveformat., EXCEL to XPS Converter., PHP Save EXCEL as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

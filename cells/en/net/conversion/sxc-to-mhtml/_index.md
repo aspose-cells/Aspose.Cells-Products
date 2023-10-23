@@ -1,7 +1,7 @@
 ---
 title: C# SXC to MHTML - SXC to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. SXC to MHTML in C#. C# Convert SXC to MHTML saveformat. C# SXC to MHTML format. Save SXC to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., SXC to MHTML in C#., C# SXC to MHTML saveformat., SXC to MHTML C#., C# Convert SXC to MHTML]
+description: Aspose Excel. Convert SXC to MHTML quickly and easily with Aspose.Cells. C# SXC to MHTML. C# Save SXC to MHTML. Save SXC as MHTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to MHTML in C#., Save SXC to MHTML using C#., C# SXC to MHTML saveformat., SXC to MHTML Converter., C# Save SXC as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

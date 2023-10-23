@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to BMP - JPEG to BMP Converter
-description: PHP Aspose.Cells. JPEG to BMP in PHP. PHP Convert JPEG to BMP saveformat. PHP JPEG to BMP Converter. Save JPEG to BMP PHP.
-keywords: [PHP Aspose.Cells., JPEG to BMP in PHP., PHP JPEG to BMP saveformat., JPEG to BMP PHP., PHP Convert JPEG to BMP., Save JPEG to BMP PHP., JPEG to BMP Converter., Save JPEG as BMP]
+description: Aspose Excel. Convert JPEG to BMP quickly and easily with Aspose.Cells. PHP JPEG to BMP. PHP Save JPEG to BMP. Save JPEG as BMP using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to BMP in PHP., Save JPEG to BMP using PHP., PHP JPEG to BMP saveformat., JPEG to BMP Converter., PHP Save JPEG as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

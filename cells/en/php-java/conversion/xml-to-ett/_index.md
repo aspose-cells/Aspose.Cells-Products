@@ -1,7 +1,7 @@
 ---
 title: PHP XML to ETT - XML to ETT Converter
-description: PHP Aspose.Cells. XML to ETT in PHP. PHP Convert XML to ETT saveformat. PHP XML to ETT Converter. Save XML to ETT PHP.
-keywords: [PHP Aspose.Cells., XML to ETT in PHP., PHP XML to ETT saveformat., XML to ETT PHP., PHP Convert XML to ETT., Save XML to ETT PHP., XML to ETT Converter., Save XML as ETT]
+description: Aspose Excel. Convert XML to ETT quickly and easily with Aspose.Cells. PHP XML to ETT. PHP Save XML to ETT. Save XML as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to ETT in PHP., Save XML to ETT using PHP., PHP XML to ETT saveformat., XML to ETT Converter., PHP Save XML as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

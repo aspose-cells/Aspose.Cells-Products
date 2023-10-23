@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED to XLS - TABDELIMITED to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. TABDELIMITED to XLS in C++. C++ Convert TABDELIMITED to XLS saveformat. C++ TABDELIMITED to XLS format. Save TABDELIMITED to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TABDELIMITED to XLS in C++., C++ TABDELIMITED to XLS saveformat., TABDELIMITED to XLS C++., C++ Convert TABDELIMITED to XLS]
+description: Aspose Excel. Convert TABDELIMITED to XLS quickly and easily with Aspose.Cells. C++ TABDELIMITED to XLS. C++ Save TABDELIMITED to XLS. Save TABDELIMITED as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to XLS in C++., Save TABDELIMITED to XLS using C++., C++ TABDELIMITED to XLS saveformat., TABDELIMITED to XLS Converter., C++ Save TABDELIMITED as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

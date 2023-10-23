@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to POWERPOINT - XLSB to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to POWERPOINT in Python. Python Convert XLSB to POWERPOINT saveformat. Python XLSB to POWERPOINT format. Save XLSB to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to POWERPOINT in Python., Python XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Python., Python Convert XLSB to POWERPOINT]
+description: Aspose Excel. Convert XLSB to POWERPOINT quickly and easily with Aspose.Cells. Python XLSB to POWERPOINT. Python Save XLSB to POWERPOINT. Save XLSB as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to POWERPOINT in Python., Save XLSB to POWERPOINT using Python., Python XLSB to POWERPOINT saveformat., XLSB to POWERPOINT Converter., Python Save XLSB as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

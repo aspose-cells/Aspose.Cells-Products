@@ -1,7 +1,7 @@
 ---
 title: Python ODS to XLTM - ODS to XLTM Converter
-description: Aspose Excel. Python Aspose.Cells. ODS to XLTM in Python. Python Convert ODS to XLTM saveformat. Python ODS to XLTM format. Save ODS to XLTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., ODS to XLTM in Python., Python ODS to XLTM saveformat., ODS to XLTM Python., Python Convert ODS to XLTM]
+description: Aspose Excel. Convert ODS to XLTM quickly and easily with Aspose.Cells. Python ODS to XLTM. Python Save ODS to XLTM. Save ODS as XLTM using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to XLTM in Python., Save ODS to XLTM using Python., Python ODS to XLTM saveformat., ODS to XLTM Converter., Python Save ODS as XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

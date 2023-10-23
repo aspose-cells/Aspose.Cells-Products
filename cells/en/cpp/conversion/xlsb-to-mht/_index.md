@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to MHT - XLSB to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to MHT in C++. C++ Convert XLSB to MHT saveformat. C++ XLSB to MHT format. Save XLSB to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to MHT in C++., C++ XLSB to MHT saveformat., XLSB to MHT C++., C++ Convert XLSB to MHT]
+description: Aspose Excel. Convert XLSB to MHT quickly and easily with Aspose.Cells. C++ XLSB to MHT. C++ Save XLSB to MHT. Save XLSB as MHT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to MHT in C++., Save XLSB to MHT using C++., C++ XLSB to MHT saveformat., XLSB to MHT Converter., C++ Save XLSB as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

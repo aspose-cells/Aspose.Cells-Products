@@ -1,7 +1,7 @@
 ---
 title: C# TXT to EXCEL - TXT to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to EXCEL in C#. C# Convert TXT to EXCEL saveformat. C# TXT to EXCEL format. Save TXT to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to EXCEL in C#., C# TXT to EXCEL saveformat., TXT to EXCEL C#., C# Convert TXT to EXCEL]
+description: Aspose Excel. Convert TXT to EXCEL quickly and easily with Aspose.Cells. C# TXT to EXCEL. C# Save TXT to EXCEL. Save TXT as EXCEL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to EXCEL in C#., Save TXT to EXCEL using C#., C# TXT to EXCEL saveformat., TXT to EXCEL Converter., C# Save TXT as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

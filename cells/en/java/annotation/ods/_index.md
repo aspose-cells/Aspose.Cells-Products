@@ -1,8 +1,9 @@
 ---
-title: Remove ODS Annotation via Java 
+title: Add or Remove ODS Annotation via Java 
 weight: 8840
 
 description: Java sample code to delete ODS format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

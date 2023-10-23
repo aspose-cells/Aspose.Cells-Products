@@ -1,7 +1,7 @@
 ---
 title: C# XLS to DOCX - XLS to DOCX Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to DOCX in C#. C# Convert XLS to DOCX saveformat. C# XLS to DOCX format. Save XLS to DOCX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to DOCX in C#., C# XLS to DOCX saveformat., XLS to DOCX C#., C# Convert XLS to DOCX]
+description: Aspose Excel. Convert XLS to DOCX quickly and easily with Aspose.Cells. C# XLS to DOCX. C# Save XLS to DOCX. Save XLS as DOCX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to DOCX in C#., Save XLS to DOCX using C#., C# XLS to DOCX saveformat., XLS to DOCX Converter., C# Save XLS as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to FODS - PNG to FODS Converter
-description: PHP Aspose.Cells. PNG to FODS in PHP. PHP Convert PNG to FODS saveformat. PHP PNG to FODS Converter. Save PNG to FODS PHP.
-keywords: [PHP Aspose.Cells., PNG to FODS in PHP., PHP PNG to FODS saveformat., PNG to FODS PHP., PHP Convert PNG to FODS., Save PNG to FODS PHP., PNG to FODS Converter., Save PNG as FODS]
+description: Aspose Excel. Convert PNG to FODS quickly and easily with Aspose.Cells. PHP PNG to FODS. PHP Save PNG to FODS. Save PNG as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to FODS in PHP., Save PNG to FODS using PHP., PHP PNG to FODS saveformat., PNG to FODS Converter., PHP Save PNG as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

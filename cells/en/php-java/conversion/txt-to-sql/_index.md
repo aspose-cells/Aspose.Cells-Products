@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to SQL - TXT to SQL Converter
-description: PHP Aspose.Cells. TXT to SQL in PHP. PHP Convert TXT to SQL saveformat. PHP TXT to SQL Converter. Save TXT to SQL PHP.
-keywords: [PHP Aspose.Cells., TXT to SQL in PHP., PHP TXT to SQL saveformat., TXT to SQL PHP., PHP Convert TXT to SQL., Save TXT to SQL PHP., TXT to SQL Converter., Save TXT as SQL]
+description: Aspose Excel. Convert TXT to SQL quickly and easily with Aspose.Cells. PHP TXT to SQL. PHP Save TXT to SQL. Save TXT as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to SQL in PHP., Save TXT to SQL using PHP., PHP TXT to SQL saveformat., TXT to SQL Converter., PHP Save TXT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

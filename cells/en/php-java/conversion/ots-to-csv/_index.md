@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to CSV - OTS to CSV Converter
-description: PHP Aspose.Cells. OTS to CSV in PHP. PHP Convert OTS to CSV saveformat. PHP OTS to CSV Converter. Save OTS to CSV PHP.
-keywords: [PHP Aspose.Cells., OTS to CSV in PHP., PHP OTS to CSV saveformat., OTS to CSV PHP., PHP Convert OTS to CSV., Save OTS to CSV PHP., OTS to CSV Converter., Save OTS as CSV]
+description: Aspose Excel. Convert OTS to CSV quickly and easily with Aspose.Cells. PHP OTS to CSV. PHP Save OTS to CSV. Save OTS as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to CSV in PHP., Save OTS to CSV using PHP., PHP OTS to CSV saveformat., OTS to CSV Converter., PHP Save OTS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

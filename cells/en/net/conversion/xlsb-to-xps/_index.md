@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to XPS - XLSB to XPS Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to XPS in C#. C# Convert XLSB to XPS saveformat. C# XLSB to XPS format. Save XLSB to XPS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to XPS in C#., C# XLSB to XPS saveformat., XLSB to XPS C#., C# Convert XLSB to XPS]
+description: Aspose Excel. Convert XLSB to XPS quickly and easily with Aspose.Cells. C# XLSB to XPS. C# Save XLSB to XPS. Save XLSB as XPS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to XPS in C#., Save XLSB to XPS using C#., C# XLSB to XPS saveformat., XLSB to XPS Converter., C# Save XLSB as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

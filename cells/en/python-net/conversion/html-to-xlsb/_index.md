@@ -1,7 +1,7 @@
 ---
 title: Python HTML to XLSB - HTML to XLSB Converter
-description: Aspose Excel. Python Aspose.Cells. HTML to XLSB in Python. Python Convert HTML to XLSB saveformat. Python HTML to XLSB format. Save HTML to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTML to XLSB in Python., Python HTML to XLSB saveformat., HTML to XLSB Python., Python Convert HTML to XLSB]
+description: Aspose Excel. Convert HTML to XLSB quickly and easily with Aspose.Cells. Python HTML to XLSB. Python Save HTML to XLSB. Save HTML as XLSB using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to XLSB in Python., Save HTML to XLSB using Python., Python HTML to XLSB saveformat., HTML to XLSB Converter., Python Save HTML as XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

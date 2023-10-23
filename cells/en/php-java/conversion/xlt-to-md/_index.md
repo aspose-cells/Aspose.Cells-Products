@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to MD - XLT to MD Converter
-description: PHP Aspose.Cells. XLT to MD in PHP. PHP Convert XLT to MD saveformat. PHP XLT to MD Converter. Save XLT to MD PHP.
-keywords: [PHP Aspose.Cells., XLT to MD in PHP., PHP XLT to MD saveformat., XLT to MD PHP., PHP Convert XLT to MD., Save XLT to MD PHP., XLT to MD Converter., Save XLT as MD]
+description: Aspose Excel. Convert XLT to MD quickly and easily with Aspose.Cells. PHP XLT to MD. PHP Save XLT to MD. Save XLT as MD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to MD in PHP., Save XLT to MD using PHP., PHP XLT to MD saveformat., XLT to MD Converter., PHP Save XLT as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

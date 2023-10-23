@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to PRN - ODS to PRN Converter
-description: PHP Aspose.Cells. ODS to PRN in PHP. PHP Convert ODS to PRN saveformat. PHP ODS to PRN Converter. Save ODS to PRN PHP.
-keywords: [PHP Aspose.Cells., ODS to PRN in PHP., PHP ODS to PRN saveformat., ODS to PRN PHP., PHP Convert ODS to PRN., Save ODS to PRN PHP., ODS to PRN Converter., Save ODS as PRN]
+description: Aspose Excel. Convert ODS to PRN quickly and easily with Aspose.Cells. PHP ODS to PRN. PHP Save ODS to PRN. Save ODS as PRN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to PRN in PHP., Save ODS to PRN using PHP., PHP ODS to PRN saveformat., ODS to PRN Converter., PHP Save ODS as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

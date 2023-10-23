@@ -1,7 +1,7 @@
 ---
 title: Java SXC to MARKDOWN - SXC to MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to MARKDOWN in Java. Java Convert SXC to MARKDOWN saveformat. Java SXC to MARKDOWN format. Save SXC to MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to MARKDOWN in Java., Java SXC to MARKDOWN saveformat., SXC to MARKDOWN Java., Java Convert SXC to MARKDOWN]
+description: Aspose Excel. Convert SXC to MARKDOWN quickly and easily with Aspose.Cells. Java SXC to MARKDOWN. Java Save SXC to MARKDOWN. Save SXC as MARKDOWN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to MARKDOWN in Java., Save SXC to MARKDOWN using Java., Java SXC to MARKDOWN saveformat., SXC to MARKDOWN Converter., Java Save SXC as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

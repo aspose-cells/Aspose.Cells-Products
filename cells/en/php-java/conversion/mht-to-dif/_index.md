@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to DIF - MHT to DIF Converter
-description: PHP Aspose.Cells. MHT to DIF in PHP. PHP Convert MHT to DIF saveformat. PHP MHT to DIF Converter. Save MHT to DIF PHP.
-keywords: [PHP Aspose.Cells., MHT to DIF in PHP., PHP MHT to DIF saveformat., MHT to DIF PHP., PHP Convert MHT to DIF., Save MHT to DIF PHP., MHT to DIF Converter., Save MHT as DIF]
+description: Aspose Excel. Convert MHT to DIF quickly and easily with Aspose.Cells. PHP MHT to DIF. PHP Save MHT to DIF. Save MHT as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to DIF in PHP., Save MHT to DIF using PHP., PHP MHT to DIF saveformat., MHT to DIF Converter., PHP Save MHT as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

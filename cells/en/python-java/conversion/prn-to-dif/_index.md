@@ -1,7 +1,7 @@
 ---
 title: Python PRN to DIF - PRN to DIF Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to DIF in Python. Python Convert PRN to DIF saveformat. Python PRN to DIF format. Save PRN to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to DIF in Python., Python PRN to DIF saveformat., PRN to DIF Python., Python Convert PRN to DIF]
+description: Aspose Excel. Convert PRN to DIF quickly and easily with Aspose.Cells. Python PRN to DIF. Python Save PRN to DIF. Save PRN as DIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to DIF in Python., Save PRN to DIF using Python., Python PRN to DIF saveformat., PRN to DIF Converter., Python Save PRN as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

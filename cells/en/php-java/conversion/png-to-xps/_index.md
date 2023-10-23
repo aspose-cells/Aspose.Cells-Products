@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XPS - PNG to XPS Converter
-description: PHP Aspose.Cells. PNG to XPS in PHP. PHP Convert PNG to XPS saveformat. PHP PNG to XPS Converter. Save PNG to XPS PHP.
-keywords: [PHP Aspose.Cells., PNG to XPS in PHP., PHP PNG to XPS saveformat., PNG to XPS PHP., PHP Convert PNG to XPS., Save PNG to XPS PHP., PNG to XPS Converter., Save PNG as XPS]
+description: Aspose Excel. Convert PNG to XPS quickly and easily with Aspose.Cells. PHP PNG to XPS. PHP Save PNG to XPS. Save PNG as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XPS in PHP., Save PNG to XPS using PHP., PHP PNG to XPS saveformat., PNG to XPS Converter., PHP Save PNG as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

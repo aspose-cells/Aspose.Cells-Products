@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to XLS - JSON to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. JSON to XLS in C++. C++ Convert JSON to XLS saveformat. C++ JSON to XLS format. Save JSON to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JSON to XLS in C++., C++ JSON to XLS saveformat., JSON to XLS C++., C++ Convert JSON to XLS]
+description: Aspose Excel. Convert JSON to XLS quickly and easily with Aspose.Cells. C++ JSON to XLS. C++ Save JSON to XLS. Save JSON as XLS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to XLS in C++., Save JSON to XLS using C++., C++ JSON to XLS saveformat., JSON to XLS Converter., C++ Save JSON as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

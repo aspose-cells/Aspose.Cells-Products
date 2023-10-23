@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to MHTML - HTML to MHTML Converter
-description: PHP Aspose.Cells. HTML to MHTML in PHP. PHP Convert HTML to MHTML saveformat. PHP HTML to MHTML Converter. Save HTML to MHTML PHP.
-keywords: [PHP Aspose.Cells., HTML to MHTML in PHP., PHP HTML to MHTML saveformat., HTML to MHTML PHP., PHP Convert HTML to MHTML., Save HTML to MHTML PHP., HTML to MHTML Converter., Save HTML as MHTML]
+description: Aspose Excel. Convert HTML to MHTML quickly and easily with Aspose.Cells. PHP HTML to MHTML. PHP Save HTML to MHTML. Save HTML as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to MHTML in PHP., Save HTML to MHTML using PHP., PHP HTML to MHTML saveformat., HTML to MHTML Converter., PHP Save HTML as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

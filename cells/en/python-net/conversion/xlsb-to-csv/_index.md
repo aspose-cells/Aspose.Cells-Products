@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to CSV - XLSB to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to CSV in Python. Python Convert XLSB to CSV saveformat. Python XLSB to CSV format. Save XLSB to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to CSV in Python., Python XLSB to CSV saveformat., XLSB to CSV Python., Python Convert XLSB to CSV]
+description: Aspose Excel. Convert XLSB to CSV quickly and easily with Aspose.Cells. Python XLSB to CSV. Python Save XLSB to CSV. Save XLSB as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to CSV in Python., Save XLSB to CSV using Python., Python XLSB to CSV saveformat., XLSB to CSV Converter., Python Save XLSB as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

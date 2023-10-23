@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to JSON - EXCEL to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to JSON in Java. Java Convert EXCEL to JSON saveformat. Java EXCEL to JSON format. Save EXCEL to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to JSON in Java., Java EXCEL to JSON saveformat., EXCEL to JSON Java., Java Convert EXCEL to JSON]
+description: Aspose Excel. Convert EXCEL to JSON quickly and easily with Aspose.Cells. Java EXCEL to JSON. Java Save EXCEL to JSON. Save EXCEL as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to JSON in Java., Save EXCEL to JSON using Java., Java EXCEL to JSON saveformat., EXCEL to JSON Converter., Java Save EXCEL as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

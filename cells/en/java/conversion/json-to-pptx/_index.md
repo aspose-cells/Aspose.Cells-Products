@@ -1,7 +1,7 @@
 ---
 title: Java JSON to PPTX - JSON to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. JSON to PPTX in Java. Java Convert JSON to PPTX saveformat. Java JSON to PPTX format. Save JSON to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JSON to PPTX in Java., Java JSON to PPTX saveformat., JSON to PPTX Java., Java Convert JSON to PPTX]
+description: Aspose Excel. Convert JSON to PPTX quickly and easily with Aspose.Cells. Java JSON to PPTX. Java Save JSON to PPTX. Save JSON as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to PPTX in Java., Save JSON to PPTX using Java., Java JSON to PPTX saveformat., JSON to PPTX Converter., Java Save JSON as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to TSV - XLS to TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to TSV in C++. C++ Convert XLS to TSV saveformat. C++ XLS to TSV format. Save XLS to TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to TSV in C++., C++ XLS to TSV saveformat., XLS to TSV C++., C++ Convert XLS to TSV]
+description: Aspose Excel. Convert XLS to TSV quickly and easily with Aspose.Cells. C++ XLS to TSV. C++ Save XLS to TSV. Save XLS as TSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to TSV in C++., Save XLS to TSV using C++., C++ XLS to TSV saveformat., XLS to TSV Converter., C++ Save XLS as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

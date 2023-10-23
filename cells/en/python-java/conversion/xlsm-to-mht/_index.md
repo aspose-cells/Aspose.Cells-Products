@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to MHT - XLSM to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to MHT in Python. Python Convert XLSM to MHT saveformat. Python XLSM to MHT format. Save XLSM to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to MHT in Python., Python XLSM to MHT saveformat., XLSM to MHT Python., Python Convert XLSM to MHT]
+description: Aspose Excel. Convert XLSM to MHT quickly and easily with Aspose.Cells. Python XLSM to MHT. Python Save XLSM to MHT. Save XLSM as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to MHT in Python., Save XLSM to MHT using Python., Python XLSM to MHT saveformat., XLSM to MHT Converter., Python Save XLSM as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

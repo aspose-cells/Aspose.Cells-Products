@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to TIFF - XLSB to TIFF Converter
-description: PHP Aspose.Cells. XLSB to TIFF in PHP. PHP Convert XLSB to TIFF saveformat. PHP XLSB to TIFF Converter. Save XLSB to TIFF PHP.
-keywords: [PHP Aspose.Cells., XLSB to TIFF in PHP., PHP XLSB to TIFF saveformat., XLSB to TIFF PHP., PHP Convert XLSB to TIFF., Save XLSB to TIFF PHP., XLSB to TIFF Converter., Save XLSB as TIFF]
+description: Aspose Excel. Convert XLSB to TIFF quickly and easily with Aspose.Cells. PHP XLSB to TIFF. PHP Save XLSB to TIFF. Save XLSB as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to TIFF in PHP., Save XLSB to TIFF using PHP., PHP XLSB to TIFF saveformat., XLSB to TIFF Converter., PHP Save XLSB as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

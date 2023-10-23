@@ -1,7 +1,7 @@
 ---
 title: Python XML to PPTX - XML to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. XML to PPTX in Python. Python Convert XML to PPTX saveformat. Python XML to PPTX format. Save XML to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XML to PPTX in Python., Python XML to PPTX saveformat., XML to PPTX Python., Python Convert XML to PPTX]
+description: Aspose Excel. Convert XML to PPTX quickly and easily with Aspose.Cells. Python XML to PPTX. Python Save XML to PPTX. Save XML as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to PPTX in Python., Save XML to PPTX using Python., Python XML to PPTX saveformat., XML to PPTX Converter., Python Save XML as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

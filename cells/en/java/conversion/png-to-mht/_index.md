@@ -1,7 +1,7 @@
 ---
 title: Java PNG to MHT - PNG to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. PNG to MHT in Java. Java Convert PNG to MHT saveformat. Java PNG to MHT format. Save PNG to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PNG to MHT in Java., Java PNG to MHT saveformat., PNG to MHT Java., Java Convert PNG to MHT]
+description: Aspose Excel. Convert PNG to MHT quickly and easily with Aspose.Cells. Java PNG to MHT. Java Save PNG to MHT. Save PNG as MHT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to MHT in Java., Save PNG to MHT using Java., Java PNG to MHT saveformat., PNG to MHT Converter., Java Save PNG as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

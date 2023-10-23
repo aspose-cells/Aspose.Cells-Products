@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to SVG - TABDELIMITED to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. TABDELIMITED to SVG in Python. Python Convert TABDELIMITED to SVG saveformat. Python TABDELIMITED to SVG format. Save TABDELIMITED to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TABDELIMITED to SVG in Python., Python TABDELIMITED to SVG saveformat., TABDELIMITED to SVG Python., Python Convert TABDELIMITED to SVG]
+description: Aspose Excel. Convert TABDELIMITED to SVG quickly and easily with Aspose.Cells. Python TABDELIMITED to SVG. Python Save TABDELIMITED to SVG. Save TABDELIMITED as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to SVG in Python., Save TABDELIMITED to SVG using Python., Python TABDELIMITED to SVG saveformat., TABDELIMITED to SVG Converter., Python Save TABDELIMITED as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

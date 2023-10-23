@@ -1,7 +1,7 @@
 ---
 title: Java JPG to PRN - JPG to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. JPG to PRN in Java. Java Convert JPG to PRN saveformat. Java JPG to PRN format. Save JPG to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPG to PRN in Java., Java JPG to PRN saveformat., JPG to PRN Java., Java Convert JPG to PRN]
+description: Aspose Excel. Convert JPG to PRN quickly and easily with Aspose.Cells. Java JPG to PRN. Java Save JPG to PRN. Save JPG as PRN using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to PRN in Java., Save JPG to PRN using Java., Java JPG to PRN saveformat., JPG to PRN Converter., Java Save JPG as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to ET - MHTML to ET Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to ET in C#. C# Convert MHTML to ET saveformat. C# MHTML to ET format. Save MHTML to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to ET in C#., C# MHTML to ET saveformat., MHTML to ET C#., C# Convert MHTML to ET]
+description: Aspose Excel. Convert MHTML to ET quickly and easily with Aspose.Cells. C# MHTML to ET. C# Save MHTML to ET. Save MHTML as ET using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to ET in C#., Save MHTML to ET using C#., C# MHTML to ET saveformat., MHTML to ET Converter., C# Save MHTML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

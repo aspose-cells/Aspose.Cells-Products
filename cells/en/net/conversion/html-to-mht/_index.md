@@ -1,7 +1,7 @@
 ---
 title: C# HTML to MHT - HTML to MHT Converter
-description: Aspose Excel. C# Aspose.Cells. HTML to MHT in C#. C# Convert HTML to MHT saveformat. C# HTML to MHT format. Save HTML to MHT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTML to MHT in C#., C# HTML to MHT saveformat., HTML to MHT C#., C# Convert HTML to MHT]
+description: Aspose Excel. Convert HTML to MHT quickly and easily with Aspose.Cells. C# HTML to MHT. C# Save HTML to MHT. Save HTML as MHT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to MHT in C#., Save HTML to MHT using C#., C# HTML to MHT saveformat., HTML to MHT Converter., C# Save HTML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C# TXT to XLSX - TXT to XLSX Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to XLSX in C#. C# Convert TXT to XLSX saveformat. C# TXT to XLSX format. Save TXT to XLSX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to XLSX in C#., C# TXT to XLSX saveformat., TXT to XLSX C#., C# Convert TXT to XLSX]
+description: Aspose Excel. Convert TXT to XLSX quickly and easily with Aspose.Cells. C# TXT to XLSX. C# Save TXT to XLSX. Save TXT as XLSX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to XLSX in C#., Save TXT to XLSX using C#., C# TXT to XLSX saveformat., TXT to XLSX Converter., C# Save TXT as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

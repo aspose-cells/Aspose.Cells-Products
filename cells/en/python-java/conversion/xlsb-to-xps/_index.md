@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to XPS - XLSB to XPS Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to XPS in Python. Python Convert XLSB to XPS saveformat. Python XLSB to XPS format. Save XLSB to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to XPS in Python., Python XLSB to XPS saveformat., XLSB to XPS Python., Python Convert XLSB to XPS]
+description: Aspose Excel. Convert XLSB to XPS quickly and easily with Aspose.Cells. Python XLSB to XPS. Python Save XLSB to XPS. Save XLSB as XPS using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to XPS in Python., Save XLSB to XPS using Python., Python XLSB to XPS saveformat., XLSB to XPS Converter., Python Save XLSB as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

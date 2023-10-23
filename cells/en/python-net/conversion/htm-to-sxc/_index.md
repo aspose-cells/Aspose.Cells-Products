@@ -1,7 +1,7 @@
 ---
 title: Python HTM to SXC - HTM to SXC Converter
-description: Aspose Excel. Python Aspose.Cells. HTM to SXC in Python. Python Convert HTM to SXC saveformat. Python HTM to SXC format. Save HTM to SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., HTM to SXC in Python., Python HTM to SXC saveformat., HTM to SXC Python., Python Convert HTM to SXC]
+description: Aspose Excel. Convert HTM to SXC quickly and easily with Aspose.Cells. Python HTM to SXC. Python Save HTM to SXC. Save HTM as SXC using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to SXC in Python., Save HTM to SXC using Python., Python HTM to SXC saveformat., HTM to SXC Converter., Python Save HTM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

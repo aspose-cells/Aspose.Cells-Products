@@ -1,7 +1,7 @@
 ---
 title: C# IMAGE to PRN - IMAGE to PRN Converter
-description: Aspose Excel. C# Aspose.Cells. IMAGE to PRN in C#. C# Convert IMAGE to PRN saveformat. C# IMAGE to PRN format. Save IMAGE to PRN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., IMAGE to PRN in C#., C# IMAGE to PRN saveformat., IMAGE to PRN C#., C# Convert IMAGE to PRN]
+description: Aspose Excel. Convert IMAGE to PRN quickly and easily with Aspose.Cells. C# IMAGE to PRN. C# Save IMAGE to PRN. Save IMAGE as PRN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert IMAGE to PRN in C#., Save IMAGE to PRN using C#., C# IMAGE to PRN saveformat., IMAGE to PRN Converter., C# Save IMAGE as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

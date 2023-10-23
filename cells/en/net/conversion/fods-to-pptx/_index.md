@@ -1,7 +1,7 @@
 ---
 title: C# FODS to PPTX - FODS to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. FODS to PPTX in C#. C# Convert FODS to PPTX saveformat. C# FODS to PPTX format. Save FODS to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., FODS to PPTX in C#., C# FODS to PPTX saveformat., FODS to PPTX C#., C# Convert FODS to PPTX]
+description: Aspose Excel. Convert FODS to PPTX quickly and easily with Aspose.Cells. C# FODS to PPTX. C# Save FODS to PPTX. Save FODS as PPTX using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to PPTX in C#., Save FODS to PPTX using C#., C# FODS to PPTX saveformat., FODS to PPTX Converter., C# Save FODS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to FODS - JPG to FODS Converter
-description: PHP Aspose.Cells. JPG to FODS in PHP. PHP Convert JPG to FODS saveformat. PHP JPG to FODS Converter. Save JPG to FODS PHP.
-keywords: [PHP Aspose.Cells., JPG to FODS in PHP., PHP JPG to FODS saveformat., JPG to FODS PHP., PHP Convert JPG to FODS., Save JPG to FODS PHP., JPG to FODS Converter., Save JPG as FODS]
+description: Aspose Excel. Convert JPG to FODS quickly and easily with Aspose.Cells. PHP JPG to FODS. PHP Save JPG to FODS. Save JPG as FODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to FODS in PHP., Save JPG to FODS using PHP., PHP JPG to FODS saveformat., JPG to FODS Converter., PHP Save JPG as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

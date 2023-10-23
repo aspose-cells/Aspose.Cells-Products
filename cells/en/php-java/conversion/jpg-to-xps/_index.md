@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to XPS - JPG to XPS Converter
-description: PHP Aspose.Cells. JPG to XPS in PHP. PHP Convert JPG to XPS saveformat. PHP JPG to XPS Converter. Save JPG to XPS PHP.
-keywords: [PHP Aspose.Cells., JPG to XPS in PHP., PHP JPG to XPS saveformat., JPG to XPS PHP., PHP Convert JPG to XPS., Save JPG to XPS PHP., JPG to XPS Converter., Save JPG as XPS]
+description: Aspose Excel. Convert JPG to XPS quickly and easily with Aspose.Cells. PHP JPG to XPS. PHP Save JPG to XPS. Save JPG as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to XPS in PHP., Save JPG to XPS using PHP., PHP JPG to XPS saveformat., JPG to XPS Converter., PHP Save JPG as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

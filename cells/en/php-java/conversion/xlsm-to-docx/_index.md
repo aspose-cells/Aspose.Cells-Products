@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to DOCX - XLSM to DOCX Converter
-description: PHP Aspose.Cells. XLSM to DOCX in PHP. PHP Convert XLSM to DOCX saveformat. PHP XLSM to DOCX Converter. Save XLSM to DOCX PHP.
-keywords: [PHP Aspose.Cells., XLSM to DOCX in PHP., PHP XLSM to DOCX saveformat., XLSM to DOCX PHP., PHP Convert XLSM to DOCX., Save XLSM to DOCX PHP., XLSM to DOCX Converter., Save XLSM as DOCX]
+description: Aspose Excel. Convert XLSM to DOCX quickly and easily with Aspose.Cells. PHP XLSM to DOCX. PHP Save XLSM to DOCX. Save XLSM as DOCX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to DOCX in PHP., Save XLSM to DOCX using PHP., PHP XLSM to DOCX saveformat., XLSM to DOCX Converter., PHP Save XLSM as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHT to MARKDOWN - MHT to MARKDOWN Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to MARKDOWN in Python. Python Convert MHT to MARKDOWN saveformat. Python MHT to MARKDOWN format. Save MHT to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to MARKDOWN in Python., Python MHT to MARKDOWN saveformat., MHT to MARKDOWN Python., Python Convert MHT to MARKDOWN]
+description: Aspose Excel. Convert MHT to MARKDOWN quickly and easily with Aspose.Cells. Python MHT to MARKDOWN. Python Save MHT to MARKDOWN. Save MHT as MARKDOWN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to MARKDOWN in Python., Save MHT to MARKDOWN using Python., Python MHT to MARKDOWN saveformat., MHT to MARKDOWN Converter., Python Save MHT as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java XML to FODS - XML to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. XML to FODS in Java. Java Convert XML to FODS saveformat. Java XML to FODS format. Save XML to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XML to FODS in Java., Java XML to FODS saveformat., XML to FODS Java., Java Convert XML to FODS]
+description: Aspose Excel. Convert XML to FODS quickly and easily with Aspose.Cells. Java XML to FODS. Java Save XML to FODS. Save XML as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to FODS in Java., Save XML to FODS using Java., Java XML to FODS saveformat., XML to FODS Converter., Java Save XML as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

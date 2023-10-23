@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to XML - FODS to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to XML in C++. C++ Convert FODS to XML saveformat. C++ FODS to XML format. Save FODS to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to XML in C++., C++ FODS to XML saveformat., FODS to XML C++., C++ Convert FODS to XML]
+description: Aspose Excel. Convert FODS to XML quickly and easily with Aspose.Cells. C++ FODS to XML. C++ Save FODS to XML. Save FODS as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to XML in C++., Save FODS to XML using C++., C++ FODS to XML saveformat., FODS to XML Converter., C++ Save FODS as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

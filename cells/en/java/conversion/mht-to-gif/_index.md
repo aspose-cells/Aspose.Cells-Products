@@ -1,7 +1,7 @@
 ---
 title: Java MHT to GIF - MHT to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to GIF in Java. Java Convert MHT to GIF saveformat. Java MHT to GIF format. Save MHT to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to GIF in Java., Java MHT to GIF saveformat., MHT to GIF Java., Java Convert MHT to GIF]
+description: Aspose Excel. Convert MHT to GIF quickly and easily with Aspose.Cells. Java MHT to GIF. Java Save MHT to GIF. Save MHT as GIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to GIF in Java., Save MHT to GIF using Java., Java MHT to GIF saveformat., MHT to GIF Converter., Java Save MHT as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

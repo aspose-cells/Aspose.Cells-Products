@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to OTS - OTS to OTS Converter
-description: PHP Aspose.Cells. OTS to OTS in PHP. PHP Convert OTS to OTS saveformat. PHP OTS to OTS Converter. Save OTS to OTS PHP.
-keywords: [PHP Aspose.Cells., OTS to OTS in PHP., PHP OTS to OTS saveformat., OTS to OTS PHP., PHP Convert OTS to OTS., Save OTS to OTS PHP., OTS to OTS Converter., Save OTS as OTS]
+description: Aspose Excel. Convert OTS to OTS quickly and easily with Aspose.Cells. PHP OTS to OTS. PHP Save OTS to OTS. Save OTS as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to OTS in PHP., Save OTS to OTS using PHP., PHP OTS to OTS saveformat., OTS to OTS Converter., PHP Save OTS as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

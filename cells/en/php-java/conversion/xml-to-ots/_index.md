@@ -1,7 +1,7 @@
 ---
 title: PHP XML to OTS - XML to OTS Converter
-description: PHP Aspose.Cells. XML to OTS in PHP. PHP Convert XML to OTS saveformat. PHP XML to OTS Converter. Save XML to OTS PHP.
-keywords: [PHP Aspose.Cells., XML to OTS in PHP., PHP XML to OTS saveformat., XML to OTS PHP., PHP Convert XML to OTS., Save XML to OTS PHP., XML to OTS Converter., Save XML as OTS]
+description: Aspose Excel. Convert XML to OTS quickly and easily with Aspose.Cells. PHP XML to OTS. PHP Save XML to OTS. Save XML as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to OTS in PHP., Save XML to OTS using PHP., PHP XML to OTS saveformat., XML to OTS Converter., PHP Save XML as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

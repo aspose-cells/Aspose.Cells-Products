@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to JSON - XLT to JSON Converter
-description: PHP Aspose.Cells. XLT to JSON in PHP. PHP Convert XLT to JSON saveformat. PHP XLT to JSON Converter. Save XLT to JSON PHP.
-keywords: [PHP Aspose.Cells., XLT to JSON in PHP., PHP XLT to JSON saveformat., XLT to JSON PHP., PHP Convert XLT to JSON., Save XLT to JSON PHP., XLT to JSON Converter., Save XLT as JSON]
+description: Aspose Excel. Convert XLT to JSON quickly and easily with Aspose.Cells. PHP XLT to JSON. PHP Save XLT to JSON. Save XLT as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to JSON in PHP., Save XLT to JSON using PHP., PHP XLT to JSON saveformat., XLT to JSON Converter., PHP Save XLT as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

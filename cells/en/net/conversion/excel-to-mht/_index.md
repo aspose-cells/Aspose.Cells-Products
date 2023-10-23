@@ -1,7 +1,7 @@
 ---
 title: C# EXCEL to MHT - EXCEL to MHT Converter
-description: Aspose Excel. C# Aspose.Cells. EXCEL to MHT in C#. C# Convert EXCEL to MHT saveformat. C# EXCEL to MHT format. Save EXCEL to MHT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., EXCEL to MHT in C#., C# EXCEL to MHT saveformat., EXCEL to MHT C#., C# Convert EXCEL to MHT]
+description: Aspose Excel. Convert EXCEL to MHT quickly and easily with Aspose.Cells. C# EXCEL to MHT. C# Save EXCEL to MHT. Save EXCEL as MHT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert EXCEL to MHT in C#., Save EXCEL to MHT using C#., C# EXCEL to MHT saveformat., EXCEL to MHT Converter., C# Save EXCEL as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

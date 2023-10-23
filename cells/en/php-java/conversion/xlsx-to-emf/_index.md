@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to EMF - XLSX to EMF Converter
-description: PHP Aspose.Cells. XLSX to EMF in PHP. PHP Convert XLSX to EMF saveformat. PHP XLSX to EMF Converter. Save XLSX to EMF PHP.
-keywords: [PHP Aspose.Cells., XLSX to EMF in PHP., PHP XLSX to EMF saveformat., XLSX to EMF PHP., PHP Convert XLSX to EMF., Save XLSX to EMF PHP., XLSX to EMF Converter., Save XLSX as EMF]
+description: Aspose Excel. Convert XLSX to EMF quickly and easily with Aspose.Cells. PHP XLSX to EMF. PHP Save XLSX to EMF. Save XLSX as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to EMF in PHP., Save XLSX to EMF using PHP., PHP XLSX to EMF saveformat., XLSX to EMF Converter., PHP Save XLSX as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to WORD - FODS to WORD Converter
-description: PHP Aspose.Cells. FODS to WORD in PHP. PHP Convert FODS to WORD saveformat. PHP FODS to WORD Converter. Save FODS to WORD PHP.
-keywords: [PHP Aspose.Cells., FODS to WORD in PHP., PHP FODS to WORD saveformat., FODS to WORD PHP., PHP Convert FODS to WORD., Save FODS to WORD PHP., FODS to WORD Converter., Save FODS as WORD]
+description: Aspose Excel. Convert FODS to WORD quickly and easily with Aspose.Cells. PHP FODS to WORD. PHP Save FODS to WORD. Save FODS as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to WORD in PHP., Save FODS to WORD using PHP., PHP FODS to WORD saveformat., FODS to WORD Converter., PHP Save FODS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

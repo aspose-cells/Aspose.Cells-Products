@@ -1,7 +1,7 @@
 ---
 title: Python PRN to CSV - PRN to CSV Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to CSV in Python. Python Convert PRN to CSV saveformat. Python PRN to CSV format. Save PRN to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to CSV in Python., Python PRN to CSV saveformat., PRN to CSV Python., Python Convert PRN to CSV]
+description: Aspose Excel. Convert PRN to CSV quickly and easily with Aspose.Cells. Python PRN to CSV. Python Save PRN to CSV. Save PRN as CSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to CSV in Python., Save PRN to CSV using Python., Python PRN to CSV saveformat., PRN to CSV Converter., Python Save PRN as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

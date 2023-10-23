@@ -1,7 +1,7 @@
 ---
 title: Python SXC to MHTML - SXC to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to MHTML in Python. Python Convert SXC to MHTML saveformat. Python SXC to MHTML format. Save SXC to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to MHTML in Python., Python SXC to MHTML saveformat., SXC to MHTML Python., Python Convert SXC to MHTML]
+description: Aspose Excel. Convert SXC to MHTML quickly and easily with Aspose.Cells. Python SXC to MHTML. Python Save SXC to MHTML. Save SXC as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to MHTML in Python., Save SXC to MHTML using Python., Python SXC to MHTML saveformat., SXC to MHTML Converter., Python Save SXC as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

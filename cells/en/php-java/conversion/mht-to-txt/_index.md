@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to TXT - MHT to TXT Converter
-description: PHP Aspose.Cells. MHT to TXT in PHP. PHP Convert MHT to TXT saveformat. PHP MHT to TXT Converter. Save MHT to TXT PHP.
-keywords: [PHP Aspose.Cells., MHT to TXT in PHP., PHP MHT to TXT saveformat., MHT to TXT PHP., PHP Convert MHT to TXT., Save MHT to TXT PHP., MHT to TXT Converter., Save MHT as TXT]
+description: Aspose Excel. Convert MHT to TXT quickly and easily with Aspose.Cells. PHP MHT to TXT. PHP Save MHT to TXT. Save MHT as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to TXT in PHP., Save MHT to TXT using PHP., PHP MHT to TXT saveformat., MHT to TXT Converter., PHP Save MHT as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

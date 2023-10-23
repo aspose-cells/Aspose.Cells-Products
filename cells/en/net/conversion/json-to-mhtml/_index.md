@@ -1,7 +1,7 @@
 ---
 title: C# JSON to MHTML - JSON to MHTML Converter
-description: Aspose Excel. C# Aspose.Cells. JSON to MHTML in C#. C# Convert JSON to MHTML saveformat. C# JSON to MHTML format. Save JSON to MHTML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JSON to MHTML in C#., C# JSON to MHTML saveformat., JSON to MHTML C#., C# Convert JSON to MHTML]
+description: Aspose Excel. Convert JSON to MHTML quickly and easily with Aspose.Cells. C# JSON to MHTML. C# Save JSON to MHTML. Save JSON as MHTML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JSON to MHTML in C#., Save JSON to MHTML using C#., C# JSON to MHTML saveformat., JSON to MHTML Converter., C# Save JSON as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

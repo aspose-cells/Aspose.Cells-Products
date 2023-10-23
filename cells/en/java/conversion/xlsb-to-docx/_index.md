@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to DOCX - XLSB to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. XLSB to DOCX in Java. Java Convert XLSB to DOCX saveformat. Java XLSB to DOCX format. Save XLSB to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSB to DOCX in Java., Java XLSB to DOCX saveformat., XLSB to DOCX Java., Java Convert XLSB to DOCX]
+description: Aspose Excel. Convert XLSB to DOCX quickly and easily with Aspose.Cells. Java XLSB to DOCX. Java Save XLSB to DOCX. Save XLSB as DOCX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to DOCX in Java., Save XLSB to DOCX using Java., Java XLSB to DOCX saveformat., XLSB to DOCX Converter., Java Save XLSB as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to MHTML - SXC to MHTML Converter
-description: PHP Aspose.Cells. SXC to MHTML in PHP. PHP Convert SXC to MHTML saveformat. PHP SXC to MHTML Converter. Save SXC to MHTML PHP.
-keywords: [PHP Aspose.Cells., SXC to MHTML in PHP., PHP SXC to MHTML saveformat., SXC to MHTML PHP., PHP Convert SXC to MHTML., Save SXC to MHTML PHP., SXC to MHTML Converter., Save SXC as MHTML]
+description: Aspose Excel. Convert SXC to MHTML quickly and easily with Aspose.Cells. PHP SXC to MHTML. PHP Save SXC to MHTML. Save SXC as MHTML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to MHTML in PHP., Save SXC to MHTML using PHP., PHP SXC to MHTML saveformat., SXC to MHTML Converter., PHP Save SXC as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

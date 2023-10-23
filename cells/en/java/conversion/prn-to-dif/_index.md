@@ -1,7 +1,7 @@
 ---
 title: Java PRN to DIF - PRN to DIF Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to DIF in Java. Java Convert PRN to DIF saveformat. Java PRN to DIF format. Save PRN to DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to DIF in Java., Java PRN to DIF saveformat., PRN to DIF Java., Java Convert PRN to DIF]
+description: Aspose Excel. Convert PRN to DIF quickly and easily with Aspose.Cells. Java PRN to DIF. Java Save PRN to DIF. Save PRN as DIF using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to DIF in Java., Save PRN to DIF using Java., Java PRN to DIF saveformat., PRN to DIF Converter., Java Save PRN as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

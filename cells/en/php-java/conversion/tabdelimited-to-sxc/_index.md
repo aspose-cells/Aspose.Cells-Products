@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to SXC - TABDELIMITED to SXC Converter
-description: PHP Aspose.Cells. TABDELIMITED to SXC in PHP. PHP Convert TABDELIMITED to SXC saveformat. PHP TABDELIMITED to SXC Converter. Save TABDELIMITED to SXC PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to SXC in PHP., PHP TABDELIMITED to SXC saveformat., TABDELIMITED to SXC PHP., PHP Convert TABDELIMITED to SXC., Save TABDELIMITED to SXC PHP., TABDELIMITED to SXC Converter., Save TABDELIMITED as SXC]
+description: Aspose Excel. Convert TABDELIMITED to SXC quickly and easily with Aspose.Cells. PHP TABDELIMITED to SXC. PHP Save TABDELIMITED to SXC. Save TABDELIMITED as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SXC in PHP., Save TABDELIMITED to SXC using PHP., PHP TABDELIMITED to SXC saveformat., TABDELIMITED to SXC Converter., PHP Save TABDELIMITED as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

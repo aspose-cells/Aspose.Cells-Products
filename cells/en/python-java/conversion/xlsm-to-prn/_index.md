@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to PRN - XLSM to PRN Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to PRN in Python. Python Convert XLSM to PRN saveformat. Python XLSM to PRN format. Save XLSM to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to PRN in Python., Python XLSM to PRN saveformat., XLSM to PRN Python., Python Convert XLSM to PRN]
+description: Aspose Excel. Convert XLSM to PRN quickly and easily with Aspose.Cells. Python XLSM to PRN. Python Save XLSM to PRN. Save XLSM as PRN using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to PRN in Python., Save XLSM to PRN using Python., Python XLSM to PRN saveformat., XLSM to PRN Converter., Python Save XLSM as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

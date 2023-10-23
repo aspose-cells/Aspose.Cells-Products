@@ -1,7 +1,7 @@
 ---
 title: Python PRN to PPTX - PRN to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to PPTX in Python. Python Convert PRN to PPTX saveformat. Python PRN to PPTX format. Save PRN to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to PPTX in Python., Python PRN to PPTX saveformat., PRN to PPTX Python., Python Convert PRN to PPTX]
+description: Aspose Excel. Convert PRN to PPTX quickly and easily with Aspose.Cells. Python PRN to PPTX. Python Save PRN to PPTX. Save PRN as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to PPTX in Python., Save PRN to PPTX using Python., Python PRN to PPTX saveformat., PRN to PPTX Converter., Python Save PRN as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python JPG to POWERPOINT - JPG to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. JPG to POWERPOINT in Python. Python Convert JPG to POWERPOINT saveformat. Python JPG to POWERPOINT format. Save JPG to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPG to POWERPOINT in Python., Python JPG to POWERPOINT saveformat., JPG to POWERPOINT Python., Python Convert JPG to POWERPOINT]
+description: Aspose Excel. Convert JPG to POWERPOINT quickly and easily with Aspose.Cells. Python JPG to POWERPOINT. Python Save JPG to POWERPOINT. Save JPG as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to POWERPOINT in Python., Save JPG to POWERPOINT using Python., Python JPG to POWERPOINT saveformat., JPG to POWERPOINT Converter., Python Save JPG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

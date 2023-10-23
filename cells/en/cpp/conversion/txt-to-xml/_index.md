@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to XML - TXT to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to XML in C++. C++ Convert TXT to XML saveformat. C++ TXT to XML format. Save TXT to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to XML in C++., C++ TXT to XML saveformat., TXT to XML C++., C++ Convert TXT to XML]
+description: Aspose Excel. Convert TXT to XML quickly and easily with Aspose.Cells. C++ TXT to XML. C++ Save TXT to XML. Save TXT as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to XML in C++., Save TXT to XML using C++., C++ TXT to XML saveformat., TXT to XML Converter., C++ Save TXT as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

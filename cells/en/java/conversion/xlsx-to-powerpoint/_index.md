@@ -1,7 +1,7 @@
 ---
 title: Java XLSX to POWERPOINT - XLSX to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. XLSX to POWERPOINT in Java. Java Convert XLSX to POWERPOINT saveformat. Java XLSX to POWERPOINT format. Save XLSX to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSX to POWERPOINT in Java., Java XLSX to POWERPOINT saveformat., XLSX to POWERPOINT Java., Java Convert XLSX to POWERPOINT]
+description: Aspose Excel. Convert XLSX to POWERPOINT quickly and easily with Aspose.Cells. Java XLSX to POWERPOINT. Java Save XLSX to POWERPOINT. Save XLSX as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to POWERPOINT in Java., Save XLSX to POWERPOINT using Java., Java XLSX to POWERPOINT saveformat., XLSX to POWERPOINT Converter., Java Save XLSX as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

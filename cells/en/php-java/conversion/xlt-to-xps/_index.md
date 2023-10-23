@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to XPS - XLT to XPS Converter
-description: PHP Aspose.Cells. XLT to XPS in PHP. PHP Convert XLT to XPS saveformat. PHP XLT to XPS Converter. Save XLT to XPS PHP.
-keywords: [PHP Aspose.Cells., XLT to XPS in PHP., PHP XLT to XPS saveformat., XLT to XPS PHP., PHP Convert XLT to XPS., Save XLT to XPS PHP., XLT to XPS Converter., Save XLT as XPS]
+description: Aspose Excel. Convert XLT to XPS quickly and easily with Aspose.Cells. PHP XLT to XPS. PHP Save XLT to XPS. Save XLT as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to XPS in PHP., Save XLT to XPS using PHP., PHP XLT to XPS saveformat., XLT to XPS Converter., PHP Save XLT as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

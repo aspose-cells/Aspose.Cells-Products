@@ -1,7 +1,7 @@
 ---
 title: Python TXT to PPTX - TXT to PPTX Converter
-description: Aspose Excel. Python Aspose.Cells. TXT to PPTX in Python. Python Convert TXT to PPTX saveformat. Python TXT to PPTX format. Save TXT to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., TXT to PPTX in Python., Python TXT to PPTX saveformat., TXT to PPTX Python., Python Convert TXT to PPTX]
+description: Aspose Excel. Convert TXT to PPTX quickly and easily with Aspose.Cells. Python TXT to PPTX. Python Save TXT to PPTX. Save TXT as PPTX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to PPTX in Python., Save TXT to PPTX using Python., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

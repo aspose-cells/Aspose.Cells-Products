@@ -1,7 +1,7 @@
 ---
 title: Java XML to ET - XML to ET Converter
-description: Aspose Excel. Java Aspose.Cells. XML to ET in Java. Java Convert XML to ET saveformat. Java XML to ET format. Save XML to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XML to ET in Java., Java XML to ET saveformat., XML to ET Java., Java Convert XML to ET]
+description: Aspose Excel. Convert XML to ET quickly and easily with Aspose.Cells. Java XML to ET. Java Save XML to ET. Save XML as ET using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to ET in Java., Save XML to ET using Java., Java XML to ET saveformat., XML to ET Converter., Java Save XML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

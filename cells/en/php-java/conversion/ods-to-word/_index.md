@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to WORD - ODS to WORD Converter
-description: PHP Aspose.Cells. ODS to WORD in PHP. PHP Convert ODS to WORD saveformat. PHP ODS to WORD Converter. Save ODS to WORD PHP.
-keywords: [PHP Aspose.Cells., ODS to WORD in PHP., PHP ODS to WORD saveformat., ODS to WORD PHP., PHP Convert ODS to WORD., Save ODS to WORD PHP., ODS to WORD Converter., Save ODS as WORD]
+description: Aspose Excel. Convert ODS to WORD quickly and easily with Aspose.Cells. PHP ODS to WORD. PHP Save ODS to WORD. Save ODS as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to WORD in PHP., Save ODS to WORD using PHP., PHP ODS to WORD saveformat., ODS to WORD Converter., PHP Save ODS as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

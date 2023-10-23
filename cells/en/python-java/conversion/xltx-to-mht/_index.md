@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to MHT - XLTX to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. XLTX to MHT in Python. Python Convert XLTX to MHT saveformat. Python XLTX to MHT format. Save XLTX to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLTX to MHT in Python., Python XLTX to MHT saveformat., XLTX to MHT Python., Python Convert XLTX to MHT]
+description: Aspose Excel. Convert XLTX to MHT quickly and easily with Aspose.Cells. Python XLTX to MHT. Python Save XLTX to MHT. Save XLTX as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to MHT in Python., Save XLTX to MHT using Python., Python XLTX to MHT saveformat., XLTX to MHT Converter., Python Save XLTX as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

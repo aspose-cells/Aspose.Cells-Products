@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to SXC - XLT to SXC Converter
-description: PHP Aspose.Cells. XLT to SXC in PHP. PHP Convert XLT to SXC saveformat. PHP XLT to SXC Converter. Save XLT to SXC PHP.
-keywords: [PHP Aspose.Cells., XLT to SXC in PHP., PHP XLT to SXC saveformat., XLT to SXC PHP., PHP Convert XLT to SXC., Save XLT to SXC PHP., XLT to SXC Converter., Save XLT as SXC]
+description: Aspose Excel. Convert XLT to SXC quickly and easily with Aspose.Cells. PHP XLT to SXC. PHP Save XLT to SXC. Save XLT as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to SXC in PHP., Save XLT to SXC using PHP., PHP XLT to SXC saveformat., XLT to SXC Converter., PHP Save XLT as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

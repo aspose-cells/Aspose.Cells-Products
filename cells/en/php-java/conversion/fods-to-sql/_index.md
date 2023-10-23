@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to SQL - FODS to SQL Converter
-description: PHP Aspose.Cells. FODS to SQL in PHP. PHP Convert FODS to SQL saveformat. PHP FODS to SQL Converter. Save FODS to SQL PHP.
-keywords: [PHP Aspose.Cells., FODS to SQL in PHP., PHP FODS to SQL saveformat., FODS to SQL PHP., PHP Convert FODS to SQL., Save FODS to SQL PHP., FODS to SQL Converter., Save FODS as SQL]
+description: Aspose Excel. Convert FODS to SQL quickly and easily with Aspose.Cells. PHP FODS to SQL. PHP Save FODS to SQL. Save FODS as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to SQL in PHP., Save FODS to SQL using PHP., PHP FODS to SQL saveformat., FODS to SQL Converter., PHP Save FODS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

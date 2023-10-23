@@ -1,7 +1,7 @@
 ---
 title: C# MHT to XML - MHT to XML Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to XML in C#. C# Convert MHT to XML saveformat. C# MHT to XML format. Save MHT to XML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to XML in C#., C# MHT to XML saveformat., MHT to XML C#., C# Convert MHT to XML]
+description: Aspose Excel. Convert MHT to XML quickly and easily with Aspose.Cells. C# MHT to XML. C# Save MHT to XML. Save MHT as XML using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to XML in C#., Save MHT to XML using C#., C# MHT to XML saveformat., MHT to XML Converter., C# Save MHT as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

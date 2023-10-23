@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to TSV - XLSB to TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to TSV in C++. C++ Convert XLSB to TSV saveformat. C++ XLSB to TSV format. Save XLSB to TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to TSV in C++., C++ XLSB to TSV saveformat., XLSB to TSV C++., C++ Convert XLSB to TSV]
+description: Aspose Excel. Convert XLSB to TSV quickly and easily with Aspose.Cells. C++ XLSB to TSV. C++ Save XLSB to TSV. Save XLSB as TSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to TSV in C++., Save XLSB to TSV using C++., C++ XLSB to TSV saveformat., XLSB to TSV Converter., C++ Save XLSB as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

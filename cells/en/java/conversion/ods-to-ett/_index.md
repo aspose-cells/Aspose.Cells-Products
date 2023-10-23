@@ -1,7 +1,7 @@
 ---
 title: Java ODS to ETT - ODS to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. ODS to ETT in Java. Java Convert ODS to ETT saveformat. Java ODS to ETT format. Save ODS to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., ODS to ETT in Java., Java ODS to ETT saveformat., ODS to ETT Java., Java Convert ODS to ETT]
+description: Aspose Excel. Convert ODS to ETT quickly and easily with Aspose.Cells. Java ODS to ETT. Java Save ODS to ETT. Save ODS as ETT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to ETT in Java., Save ODS to ETT using Java., Java ODS to ETT saveformat., ODS to ETT Converter., Java Save ODS as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

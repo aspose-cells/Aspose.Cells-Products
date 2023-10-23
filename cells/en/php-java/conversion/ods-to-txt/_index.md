@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to TXT - ODS to TXT Converter
-description: PHP Aspose.Cells. ODS to TXT in PHP. PHP Convert ODS to TXT saveformat. PHP ODS to TXT Converter. Save ODS to TXT PHP.
-keywords: [PHP Aspose.Cells., ODS to TXT in PHP., PHP ODS to TXT saveformat., ODS to TXT PHP., PHP Convert ODS to TXT., Save ODS to TXT PHP., ODS to TXT Converter., Save ODS as TXT]
+description: Aspose Excel. Convert ODS to TXT quickly and easily with Aspose.Cells. PHP ODS to TXT. PHP Save ODS to TXT. Save ODS as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to TXT in PHP., Save ODS to TXT using PHP., PHP ODS to TXT saveformat., ODS to TXT Converter., PHP Save ODS as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

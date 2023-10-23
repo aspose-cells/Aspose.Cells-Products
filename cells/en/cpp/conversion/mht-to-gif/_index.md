@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to GIF - MHT to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. MHT to GIF in C++. C++ Convert MHT to GIF saveformat. C++ MHT to GIF format. Save MHT to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHT to GIF in C++., C++ MHT to GIF saveformat., MHT to GIF C++., C++ Convert MHT to GIF]
+description: Aspose Excel. Convert MHT to GIF quickly and easily with Aspose.Cells. C++ MHT to GIF. C++ Save MHT to GIF. Save MHT as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to GIF in C++., Save MHT to GIF using C++., C++ MHT to GIF saveformat., MHT to GIF Converter., C++ Save MHT as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

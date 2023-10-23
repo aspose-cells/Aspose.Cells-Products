@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to TXT - SXC to TXT Converter
-description: PHP Aspose.Cells. SXC to TXT in PHP. PHP Convert SXC to TXT saveformat. PHP SXC to TXT Converter. Save SXC to TXT PHP.
-keywords: [PHP Aspose.Cells., SXC to TXT in PHP., PHP SXC to TXT saveformat., SXC to TXT PHP., PHP Convert SXC to TXT., Save SXC to TXT PHP., SXC to TXT Converter., Save SXC as TXT]
+description: Aspose Excel. Convert SXC to TXT quickly and easily with Aspose.Cells. PHP SXC to TXT. PHP Save SXC to TXT. Save SXC as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to TXT in PHP., Save SXC to TXT using PHP., PHP SXC to TXT saveformat., SXC to TXT Converter., PHP Save SXC as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

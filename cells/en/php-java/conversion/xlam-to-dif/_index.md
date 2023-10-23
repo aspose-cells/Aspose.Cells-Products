@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to DIF - XLAM to DIF Converter
-description: PHP Aspose.Cells. XLAM to DIF in PHP. PHP Convert XLAM to DIF saveformat. PHP XLAM to DIF Converter. Save XLAM to DIF PHP.
-keywords: [PHP Aspose.Cells., XLAM to DIF in PHP., PHP XLAM to DIF saveformat., XLAM to DIF PHP., PHP Convert XLAM to DIF., Save XLAM to DIF PHP., XLAM to DIF Converter., Save XLAM as DIF]
+description: Aspose Excel. Convert XLAM to DIF quickly and easily with Aspose.Cells. PHP XLAM to DIF. PHP Save XLAM to DIF. Save XLAM as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to DIF in PHP., Save XLAM to DIF using PHP., PHP XLAM to DIF saveformat., XLAM to DIF Converter., PHP Save XLAM as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to PNG - XLS to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to PNG in C++. C++ Convert XLS to PNG saveformat. C++ XLS to PNG format. Save XLS to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to PNG in C++., C++ XLS to PNG saveformat., XLS to PNG C++., C++ Convert XLS to PNG]
+description: Aspose Excel. Convert XLS to PNG quickly and easily with Aspose.Cells. C++ XLS to PNG. C++ Save XLS to PNG. Save XLS as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to PNG in C++., Save XLS to PNG using C++., C++ XLS to PNG saveformat., XLS to PNG Converter., C++ Save XLS as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

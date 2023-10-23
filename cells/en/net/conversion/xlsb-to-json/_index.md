@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to JSON - XLSB to JSON Converter
-description: Aspose Excel. C# Aspose.Cells. XLSB to JSON in C#. C# Convert XLSB to JSON saveformat. C# XLSB to JSON format. Save XLSB to JSON C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLSB to JSON in C#., C# XLSB to JSON saveformat., XLSB to JSON C#., C# Convert XLSB to JSON]
+description: Aspose Excel. Convert XLSB to JSON quickly and easily with Aspose.Cells. C# XLSB to JSON. C# Save XLSB to JSON. Save XLSB as JSON using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to JSON in C#., Save XLSB to JSON using C#., C# XLSB to JSON saveformat., XLSB to JSON Converter., C# Save XLSB as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

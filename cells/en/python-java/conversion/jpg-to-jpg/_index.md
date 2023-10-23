@@ -1,7 +1,7 @@
 ---
 title: Python JPG to JPG - JPG to JPG Converter
-description: Aspose Excel. Python Aspose.Cells. JPG to JPG in Python. Python Convert JPG to JPG saveformat. Python JPG to JPG format. Save JPG to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPG to JPG in Python., Python JPG to JPG saveformat., JPG to JPG Python., Python Convert JPG to JPG]
+description: Aspose Excel. Convert JPG to JPG quickly and easily with Aspose.Cells. Python JPG to JPG. Python Save JPG to JPG. Save JPG as JPG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to JPG in Python., Save JPG to JPG using Python., Python JPG to JPG saveformat., JPG to JPG Converter., Python Save JPG as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to POWERPOINT - OTS to POWERPOINT Converter
-description: PHP Aspose.Cells. OTS to POWERPOINT in PHP. PHP Convert OTS to POWERPOINT saveformat. PHP OTS to POWERPOINT Converter. Save OTS to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., OTS to POWERPOINT in PHP., PHP OTS to POWERPOINT saveformat., OTS to POWERPOINT PHP., PHP Convert OTS to POWERPOINT., Save OTS to POWERPOINT PHP., OTS to POWERPOINT Converter., Save OTS as POWERPOINT]
+description: Aspose Excel. Convert OTS to POWERPOINT quickly and easily with Aspose.Cells. PHP OTS to POWERPOINT. PHP Save OTS to POWERPOINT. Save OTS as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to POWERPOINT in PHP., Save OTS to POWERPOINT using PHP., PHP OTS to POWERPOINT saveformat., OTS to POWERPOINT Converter., PHP Save OTS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java OTS to PPTX - OTS to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. OTS to PPTX in Java. Java Convert OTS to PPTX saveformat. Java OTS to PPTX format. Save OTS to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., OTS to PPTX in Java., Java OTS to PPTX saveformat., OTS to PPTX Java., Java Convert OTS to PPTX]
+description: Aspose Excel. Convert OTS to PPTX quickly and easily with Aspose.Cells. Java OTS to PPTX. Java Save OTS to PPTX. Save OTS as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to PPTX in Java., Save OTS to PPTX using Java., Java OTS to PPTX saveformat., OTS to PPTX Converter., Java Save OTS as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

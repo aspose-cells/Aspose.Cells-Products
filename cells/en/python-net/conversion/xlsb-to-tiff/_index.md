@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to TIFF - XLSB to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. XLSB to TIFF in Python. Python Convert XLSB to TIFF saveformat. Python XLSB to TIFF format. Save XLSB to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSB to TIFF in Python., Python XLSB to TIFF saveformat., XLSB to TIFF Python., Python Convert XLSB to TIFF]
+description: Aspose Excel. Convert XLSB to TIFF quickly and easily with Aspose.Cells. Python XLSB to TIFF. Python Save XLSB to TIFF. Save XLSB as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to TIFF in Python., Save XLSB to TIFF using Python., Python XLSB to TIFF saveformat., XLSB to TIFF Converter., Python Save XLSB as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

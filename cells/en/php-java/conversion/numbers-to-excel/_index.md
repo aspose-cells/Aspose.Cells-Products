@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to EXCEL - NUMBERS to EXCEL Converter
-description: PHP Aspose.Cells. NUMBERS to EXCEL in PHP. PHP Convert NUMBERS to EXCEL saveformat. PHP NUMBERS to EXCEL Converter. Save NUMBERS to EXCEL PHP.
-keywords: [PHP Aspose.Cells., NUMBERS to EXCEL in PHP., PHP NUMBERS to EXCEL saveformat., NUMBERS to EXCEL PHP., PHP Convert NUMBERS to EXCEL., Save NUMBERS to EXCEL PHP., NUMBERS to EXCEL Converter., Save NUMBERS as EXCEL]
+description: Aspose Excel. Convert NUMBERS to EXCEL quickly and easily with Aspose.Cells. PHP NUMBERS to EXCEL. PHP Save NUMBERS to EXCEL. Save NUMBERS as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to EXCEL in PHP., Save NUMBERS to EXCEL using PHP., PHP NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., PHP Save NUMBERS as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

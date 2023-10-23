@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to XLAM - NUMBERS to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. NUMBERS to XLAM in Java. Java Convert NUMBERS to XLAM saveformat. Java NUMBERS to XLAM format. Save NUMBERS to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., NUMBERS to XLAM in Java., Java NUMBERS to XLAM saveformat., NUMBERS to XLAM Java., Java Convert NUMBERS to XLAM]
+description: Aspose Excel. Convert NUMBERS to XLAM quickly and easily with Aspose.Cells. Java NUMBERS to XLAM. Java Save NUMBERS to XLAM. Save NUMBERS as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to XLAM in Java., Save NUMBERS to XLAM using Java., Java NUMBERS to XLAM saveformat., NUMBERS to XLAM Converter., Java Save NUMBERS as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

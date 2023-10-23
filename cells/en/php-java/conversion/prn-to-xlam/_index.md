@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to XLAM - PRN to XLAM Converter
-description: PHP Aspose.Cells. PRN to XLAM in PHP. PHP Convert PRN to XLAM saveformat. PHP PRN to XLAM Converter. Save PRN to XLAM PHP.
-keywords: [PHP Aspose.Cells., PRN to XLAM in PHP., PHP PRN to XLAM saveformat., PRN to XLAM PHP., PHP Convert PRN to XLAM., Save PRN to XLAM PHP., PRN to XLAM Converter., Save PRN as XLAM]
+description: Aspose Excel. Convert PRN to XLAM quickly and easily with Aspose.Cells. PHP PRN to XLAM. PHP Save PRN to XLAM. Save PRN as XLAM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLAM in PHP., Save PRN to XLAM using PHP., PHP PRN to XLAM saveformat., PRN to XLAM Converter., PHP Save PRN as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

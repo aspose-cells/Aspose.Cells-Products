@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to JSON - XLSM to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to JSON in Java. Java Convert XLSM to JSON saveformat. Java XLSM to JSON format. Save XLSM to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to JSON in Java., Java XLSM to JSON saveformat., XLSM to JSON Java., Java Convert XLSM to JSON]
+description: Aspose Excel. Convert XLSM to JSON quickly and easily with Aspose.Cells. Java XLSM to JSON. Java Save XLSM to JSON. Save XLSM as JSON using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to JSON in Java., Save XLSM to JSON using Java., Java XLSM to JSON saveformat., XLSM to JSON Converter., Java Save XLSM as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

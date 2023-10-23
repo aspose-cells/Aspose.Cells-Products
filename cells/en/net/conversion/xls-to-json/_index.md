@@ -1,7 +1,7 @@
 ---
 title: C# XLS to JSON - XLS to JSON Converter
-description: Aspose Excel. C# Aspose.Cells. XLS to JSON in C#. C# Convert XLS to JSON saveformat. C# XLS to JSON format. Save XLS to JSON C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLS to JSON in C#., C# XLS to JSON saveformat., XLS to JSON C#., C# Convert XLS to JSON]
+description: Aspose Excel. Convert XLS to JSON quickly and easily with Aspose.Cells. C# XLS to JSON. C# Save XLS to JSON. Save XLS as JSON using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to JSON in C#., Save XLS to JSON using C#., C# XLS to JSON saveformat., XLS to JSON Converter., C# Save XLS as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

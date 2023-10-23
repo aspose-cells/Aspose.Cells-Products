@@ -1,7 +1,7 @@
 ---
 title: Python SXC to POWERPOINT - SXC to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to POWERPOINT in Python. Python Convert SXC to POWERPOINT saveformat. Python SXC to POWERPOINT format. Save SXC to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to POWERPOINT in Python., Python SXC to POWERPOINT saveformat., SXC to POWERPOINT Python., Python Convert SXC to POWERPOINT]
+description: Aspose Excel. Convert SXC to POWERPOINT quickly and easily with Aspose.Cells. Python SXC to POWERPOINT. Python Save SXC to POWERPOINT. Save SXC as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to POWERPOINT in Python., Save SXC to POWERPOINT using Python., Python SXC to POWERPOINT saveformat., SXC to POWERPOINT Converter., Python Save SXC as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

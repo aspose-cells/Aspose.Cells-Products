@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to SPREADSHEETML - MHTML to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to SPREADSHEETML in Python. Python Convert MHTML to SPREADSHEETML saveformat. Python MHTML to SPREADSHEETML format. Save MHTML to SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to SPREADSHEETML in Python., Python MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Python., Python Convert MHTML to SPREADSHEETML]
+description: Aspose Excel. Convert MHTML to SPREADSHEETML quickly and easily with Aspose.Cells. Python MHTML to SPREADSHEETML. Python Save MHTML to SPREADSHEETML. Save MHTML as SPREADSHEETML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to SPREADSHEETML in Python., Save MHTML to SPREADSHEETML using Python., Python MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Converter., Python Save MHTML as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

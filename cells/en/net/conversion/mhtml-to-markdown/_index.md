@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to MARKDOWN - MHTML to MARKDOWN Converter
-description: Aspose Excel. C# Aspose.Cells. MHTML to MARKDOWN in C#. C# Convert MHTML to MARKDOWN saveformat. C# MHTML to MARKDOWN format. Save MHTML to MARKDOWN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHTML to MARKDOWN in C#., C# MHTML to MARKDOWN saveformat., MHTML to MARKDOWN C#., C# Convert MHTML to MARKDOWN]
+description: Aspose Excel. Convert MHTML to MARKDOWN quickly and easily with Aspose.Cells. C# MHTML to MARKDOWN. C# Save MHTML to MARKDOWN. Save MHTML as MARKDOWN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to MARKDOWN in C#., Save MHTML to MARKDOWN using C#., C# MHTML to MARKDOWN saveformat., MHTML to MARKDOWN Converter., C# Save MHTML as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

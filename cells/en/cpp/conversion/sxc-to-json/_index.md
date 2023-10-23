@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to JSON - SXC to JSON Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to JSON in C++. C++ Convert SXC to JSON saveformat. C++ SXC to JSON format. Save SXC to JSON C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to JSON in C++., C++ SXC to JSON saveformat., SXC to JSON C++., C++ Convert SXC to JSON]
+description: Aspose Excel. Convert SXC to JSON quickly and easily with Aspose.Cells. C++ SXC to JSON. C++ Save SXC to JSON. Save SXC as JSON using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to JSON in C++., Save SXC to JSON using C++., C++ SXC to JSON saveformat., SXC to JSON Converter., C++ Save SXC as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

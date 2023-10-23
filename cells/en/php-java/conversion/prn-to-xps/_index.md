@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to XPS - PRN to XPS Converter
-description: PHP Aspose.Cells. PRN to XPS in PHP. PHP Convert PRN to XPS saveformat. PHP PRN to XPS Converter. Save PRN to XPS PHP.
-keywords: [PHP Aspose.Cells., PRN to XPS in PHP., PHP PRN to XPS saveformat., PRN to XPS PHP., PHP Convert PRN to XPS., Save PRN to XPS PHP., PRN to XPS Converter., Save PRN as XPS]
+description: Aspose Excel. Convert PRN to XPS quickly and easily with Aspose.Cells. PHP PRN to XPS. PHP Save PRN to XPS. Save PRN as XPS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XPS in PHP., Save PRN to XPS using PHP., PHP PRN to XPS saveformat., PRN to XPS Converter., PHP Save PRN as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

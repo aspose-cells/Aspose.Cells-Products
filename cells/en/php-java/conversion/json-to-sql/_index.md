@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to SQL - JSON to SQL Converter
-description: PHP Aspose.Cells. JSON to SQL in PHP. PHP Convert JSON to SQL saveformat. PHP JSON to SQL Converter. Save JSON to SQL PHP.
-keywords: [PHP Aspose.Cells., JSON to SQL in PHP., PHP JSON to SQL saveformat., JSON to SQL PHP., PHP Convert JSON to SQL., Save JSON to SQL PHP., JSON to SQL Converter., Save JSON as SQL]
+description: Aspose Excel. Convert JSON to SQL quickly and easily with Aspose.Cells. PHP JSON to SQL. PHP Save JSON to SQL. Save JSON as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to SQL in PHP., Save JSON to SQL using PHP., PHP JSON to SQL saveformat., JSON to SQL Converter., PHP Save JSON as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

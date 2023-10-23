@@ -1,7 +1,7 @@
 ---
 title: Python MHT to BMP - MHT to BMP Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to BMP in Python. Python Convert MHT to BMP saveformat. Python MHT to BMP format. Save MHT to BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to BMP in Python., Python MHT to BMP saveformat., MHT to BMP Python., Python Convert MHT to BMP]
+description: Aspose Excel. Convert MHT to BMP quickly and easily with Aspose.Cells. Python MHT to BMP. Python Save MHT to BMP. Save MHT as BMP using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to BMP in Python., Save MHT to BMP using Python., Python MHT to BMP saveformat., MHT to BMP Converter., Python Save MHT as BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

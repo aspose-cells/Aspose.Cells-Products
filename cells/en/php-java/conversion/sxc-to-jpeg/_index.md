@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to JPEG - SXC to JPEG Converter
-description: PHP Aspose.Cells. SXC to JPEG in PHP. PHP Convert SXC to JPEG saveformat. PHP SXC to JPEG Converter. Save SXC to JPEG PHP.
-keywords: [PHP Aspose.Cells., SXC to JPEG in PHP., PHP SXC to JPEG saveformat., SXC to JPEG PHP., PHP Convert SXC to JPEG., Save SXC to JPEG PHP., SXC to JPEG Converter., Save SXC as JPEG]
+description: Aspose Excel. Convert SXC to JPEG quickly and easily with Aspose.Cells. PHP SXC to JPEG. PHP Save SXC to JPEG. Save SXC as JPEG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to JPEG in PHP., Save SXC to JPEG using PHP., PHP SXC to JPEG saveformat., SXC to JPEG Converter., PHP Save SXC as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

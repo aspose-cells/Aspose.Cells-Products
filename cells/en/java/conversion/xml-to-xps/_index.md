@@ -1,7 +1,7 @@
 ---
 title: Java XML to XPS - XML to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. XML to XPS in Java. Java Convert XML to XPS saveformat. Java XML to XPS format. Save XML to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XML to XPS in Java., Java XML to XPS saveformat., XML to XPS Java., Java Convert XML to XPS]
+description: Aspose Excel. Convert XML to XPS quickly and easily with Aspose.Cells. Java XML to XPS. Java Save XML to XPS. Save XML as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XPS in Java., Save XML to XPS using Java., Java XML to XPS saveformat., XML to XPS Converter., Java Save XML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

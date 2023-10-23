@@ -1,7 +1,7 @@
 ---
 title: Python PNG to JPEG - PNG to JPEG Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to JPEG in Python. Python Convert PNG to JPEG saveformat. Python PNG to JPEG format. Save PNG to JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to JPEG in Python., Python PNG to JPEG saveformat., PNG to JPEG Python., Python Convert PNG to JPEG]
+description: Aspose Excel. Convert PNG to JPEG quickly and easily with Aspose.Cells. Python PNG to JPEG. Python Save PNG to JPEG. Save PNG as JPEG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to JPEG in Python., Save PNG to JPEG using Python., Python PNG to JPEG saveformat., PNG to JPEG Converter., Python Save PNG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

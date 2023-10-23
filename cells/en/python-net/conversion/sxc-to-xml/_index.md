@@ -1,7 +1,7 @@
 ---
 title: Python SXC to XML - SXC to XML Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to XML in Python. Python Convert SXC to XML saveformat. Python SXC to XML format. Save SXC to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to XML in Python., Python SXC to XML saveformat., SXC to XML Python., Python Convert SXC to XML]
+description: Aspose Excel. Convert SXC to XML quickly and easily with Aspose.Cells. Python SXC to XML. Python Save SXC to XML. Save SXC as XML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to XML in Python., Save SXC to XML using Python., Python SXC to XML saveformat., SXC to XML Converter., Python Save SXC as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

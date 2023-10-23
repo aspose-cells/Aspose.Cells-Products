@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to JPEG - EXCEL to JPEG Converter
-description: Aspose Excel. C++ Aspose.Cells. EXCEL to JPEG in C++. C++ Convert EXCEL to JPEG saveformat. C++ EXCEL to JPEG format. Save EXCEL to JPEG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., EXCEL to JPEG in C++., C++ EXCEL to JPEG saveformat., EXCEL to JPEG C++., C++ Convert EXCEL to JPEG]
+description: Aspose Excel. Convert EXCEL to JPEG quickly and easily with Aspose.Cells. C++ EXCEL to JPEG. C++ Save EXCEL to JPEG. Save EXCEL as JPEG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to JPEG in C++., Save EXCEL to JPEG using C++., C++ EXCEL to JPEG saveformat., EXCEL to JPEG Converter., C++ Save EXCEL as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

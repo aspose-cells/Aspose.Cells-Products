@@ -1,7 +1,7 @@
 ---
 title: Python CSV to SQL - CSV to SQL Converter
-description: Aspose Excel. Python Aspose.Cells. CSV to SQL in Python. Python Convert CSV to SQL saveformat. Python CSV to SQL format. Save CSV to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., CSV to SQL in Python., Python CSV to SQL saveformat., CSV to SQL Python., Python Convert CSV to SQL]
+description: Aspose Excel. Convert CSV to SQL quickly and easily with Aspose.Cells. Python CSV to SQL. Python Save CSV to SQL. Save CSV as SQL using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to SQL in Python., Save CSV to SQL using Python., Python CSV to SQL saveformat., CSV to SQL Converter., Python Save CSV as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

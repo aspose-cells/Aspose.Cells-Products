@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to JPEG - JPEG to JPEG Converter
-description: Aspose Excel. Python Aspose.Cells. JPEG to JPEG in Python. Python Convert JPEG to JPEG saveformat. Python JPEG to JPEG format. Save JPEG to JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., JPEG to JPEG in Python., Python JPEG to JPEG saveformat., JPEG to JPEG Python., Python Convert JPEG to JPEG]
+description: Aspose Excel. Convert JPEG to JPEG quickly and easily with Aspose.Cells. Python JPEG to JPEG. Python Save JPEG to JPEG. Save JPEG as JPEG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to JPEG in Python., Save JPEG to JPEG using Python., Python JPEG to JPEG saveformat., JPEG to JPEG Converter., Python Save JPEG as JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

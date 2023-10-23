@@ -1,7 +1,7 @@
 ---
 title: Python MHT to XML - MHT to XML Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to XML in Python. Python Convert MHT to XML saveformat. Python MHT to XML format. Save MHT to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to XML in Python., Python MHT to XML saveformat., MHT to XML Python., Python Convert MHT to XML]
+description: Aspose Excel. Convert MHT to XML quickly and easily with Aspose.Cells. Python MHT to XML. Python Save MHT to XML. Save MHT as XML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to XML in Python., Save MHT to XML using Python., Python MHT to XML saveformat., MHT to XML Converter., Python Save MHT as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

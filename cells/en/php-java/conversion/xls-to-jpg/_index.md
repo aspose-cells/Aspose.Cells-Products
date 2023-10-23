@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to JPG - XLS to JPG Converter
-description: PHP Aspose.Cells. XLS to JPG in PHP. PHP Convert XLS to JPG saveformat. PHP XLS to JPG Converter. Save XLS to JPG PHP.
-keywords: [PHP Aspose.Cells., XLS to JPG in PHP., PHP XLS to JPG saveformat., XLS to JPG PHP., PHP Convert XLS to JPG., Save XLS to JPG PHP., XLS to JPG Converter., Save XLS as JPG]
+description: Aspose Excel. Convert XLS to JPG quickly and easily with Aspose.Cells. PHP XLS to JPG. PHP Save XLS to JPG. Save XLS as JPG using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to JPG in PHP., Save XLS to JPG using PHP., PHP XLS to JPG saveformat., XLS to JPG Converter., PHP Save XLS as JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

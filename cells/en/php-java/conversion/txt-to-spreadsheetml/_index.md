@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to SPREADSHEETML - TXT to SPREADSHEETML Converter
-description: PHP Aspose.Cells. TXT to SPREADSHEETML in PHP. PHP Convert TXT to SPREADSHEETML saveformat. PHP TXT to SPREADSHEETML Converter. Save TXT to SPREADSHEETML PHP.
-keywords: [PHP Aspose.Cells., TXT to SPREADSHEETML in PHP., PHP TXT to SPREADSHEETML saveformat., TXT to SPREADSHEETML PHP., PHP Convert TXT to SPREADSHEETML., Save TXT to SPREADSHEETML PHP., TXT to SPREADSHEETML Converter., Save TXT as SPREADSHEETML]
+description: Aspose Excel. Convert TXT to SPREADSHEETML quickly and easily with Aspose.Cells. PHP TXT to SPREADSHEETML. PHP Save TXT to SPREADSHEETML. Save TXT as SPREADSHEETML using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to SPREADSHEETML in PHP., Save TXT to SPREADSHEETML using PHP., PHP TXT to SPREADSHEETML saveformat., TXT to SPREADSHEETML Converter., PHP Save TXT as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

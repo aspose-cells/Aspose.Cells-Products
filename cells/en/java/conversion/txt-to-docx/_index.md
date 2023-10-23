@@ -1,7 +1,7 @@
 ---
 title: Java TXT to DOCX - TXT to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. TXT to DOCX in Java. Java Convert TXT to DOCX saveformat. Java TXT to DOCX format. Save TXT to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., TXT to DOCX in Java., Java TXT to DOCX saveformat., TXT to DOCX Java., Java Convert TXT to DOCX]
+description: Aspose Excel. Convert TXT to DOCX quickly and easily with Aspose.Cells. Java TXT to DOCX. Java Save TXT to DOCX. Save TXT as DOCX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to DOCX in Java., Save TXT to DOCX using Java., Java TXT to DOCX saveformat., TXT to DOCX Converter., Java Save TXT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

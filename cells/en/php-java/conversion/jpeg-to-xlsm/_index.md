@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to XLSM - JPEG to XLSM Converter
-description: PHP Aspose.Cells. JPEG to XLSM in PHP. PHP Convert JPEG to XLSM saveformat. PHP JPEG to XLSM Converter. Save JPEG to XLSM PHP.
-keywords: [PHP Aspose.Cells., JPEG to XLSM in PHP., PHP JPEG to XLSM saveformat., JPEG to XLSM PHP., PHP Convert JPEG to XLSM., Save JPEG to XLSM PHP., JPEG to XLSM Converter., Save JPEG as XLSM]
+description: Aspose Excel. Convert JPEG to XLSM quickly and easily with Aspose.Cells. PHP JPEG to XLSM. PHP Save JPEG to XLSM. Save JPEG as XLSM using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to XLSM in PHP., Save JPEG to XLSM using PHP., PHP JPEG to XLSM saveformat., JPEG to XLSM Converter., PHP Save JPEG as XLSM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

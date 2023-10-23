@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to SXC - FODS to SXC Converter
-description: PHP Aspose.Cells. FODS to SXC in PHP. PHP Convert FODS to SXC saveformat. PHP FODS to SXC Converter. Save FODS to SXC PHP.
-keywords: [PHP Aspose.Cells., FODS to SXC in PHP., PHP FODS to SXC saveformat., FODS to SXC PHP., PHP Convert FODS to SXC., Save FODS to SXC PHP., FODS to SXC Converter., Save FODS as SXC]
+description: Aspose Excel. Convert FODS to SXC quickly and easily with Aspose.Cells. PHP FODS to SXC. PHP Save FODS to SXC. Save FODS as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to SXC in PHP., Save FODS to SXC using PHP., PHP FODS to SXC saveformat., FODS to SXC Converter., PHP Save FODS as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

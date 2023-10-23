@@ -1,7 +1,7 @@
 ---
 title: Python MHT to ET - MHT to ET Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to ET in Python. Python Convert MHT to ET saveformat. Python MHT to ET format. Save MHT to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to ET in Python., Python MHT to ET saveformat., MHT to ET Python., Python Convert MHT to ET]
+description: Aspose Excel. Convert MHT to ET quickly and easily with Aspose.Cells. Python MHT to ET. Python Save MHT to ET. Save MHT as ET using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to ET in Python., Save MHT to ET using Python., Python MHT to ET saveformat., MHT to ET Converter., Python Save MHT as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

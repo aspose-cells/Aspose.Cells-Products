@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to MHTML - HTML to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to MHTML in C++. C++ Convert HTML to MHTML saveformat. C++ HTML to MHTML format. Save HTML to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to MHTML in C++., C++ HTML to MHTML saveformat., HTML to MHTML C++., C++ Convert HTML to MHTML]
+description: Aspose Excel. Convert HTML to MHTML quickly and easily with Aspose.Cells. C++ HTML to MHTML. C++ Save HTML to MHTML. Save HTML as MHTML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to MHTML in C++., Save HTML to MHTML using C++., C++ HTML to MHTML saveformat., HTML to MHTML Converter., C++ Save HTML as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

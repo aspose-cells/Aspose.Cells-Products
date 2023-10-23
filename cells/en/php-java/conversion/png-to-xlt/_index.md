@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLT - PNG to XLT Converter
-description: PHP Aspose.Cells. PNG to XLT in PHP. PHP Convert PNG to XLT saveformat. PHP PNG to XLT Converter. Save PNG to XLT PHP.
-keywords: [PHP Aspose.Cells., PNG to XLT in PHP., PHP PNG to XLT saveformat., PNG to XLT PHP., PHP Convert PNG to XLT., Save PNG to XLT PHP., PNG to XLT Converter., Save PNG as XLT]
+description: Aspose Excel. Convert PNG to XLT quickly and easily with Aspose.Cells. PHP PNG to XLT. PHP Save PNG to XLT. Save PNG as XLT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLT in PHP., Save PNG to XLT using PHP., PHP PNG to XLT saveformat., PNG to XLT Converter., PHP Save PNG as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

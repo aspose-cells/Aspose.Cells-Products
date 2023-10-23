@@ -1,7 +1,7 @@
 ---
 title: C++ TXT to DOCX - TXT to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. TXT to DOCX in C++. C++ Convert TXT to DOCX saveformat. C++ TXT to DOCX format. Save TXT to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., TXT to DOCX in C++., C++ TXT to DOCX saveformat., TXT to DOCX C++., C++ Convert TXT to DOCX]
+description: Aspose Excel. Convert TXT to DOCX quickly and easily with Aspose.Cells. C++ TXT to DOCX. C++ Save TXT to DOCX. Save TXT as DOCX using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to DOCX in C++., Save TXT to DOCX using C++., C++ TXT to DOCX saveformat., TXT to DOCX Converter., C++ Save TXT as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

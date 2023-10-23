@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to XLSX - JSON to XLSX Converter
-description: PHP Aspose.Cells. JSON to XLSX in PHP. PHP Convert JSON to XLSX saveformat. PHP JSON to XLSX Converter. Save JSON to XLSX PHP.
-keywords: [PHP Aspose.Cells., JSON to XLSX in PHP., PHP JSON to XLSX saveformat., JSON to XLSX PHP., PHP Convert JSON to XLSX., Save JSON to XLSX PHP., JSON to XLSX Converter., Save JSON as XLSX]
+description: Aspose Excel. Convert JSON to XLSX quickly and easily with Aspose.Cells. PHP JSON to XLSX. PHP Save JSON to XLSX. Save JSON as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to XLSX in PHP., Save JSON to XLSX using PHP., PHP JSON to XLSX saveformat., JSON to XLSX Converter., PHP Save JSON as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

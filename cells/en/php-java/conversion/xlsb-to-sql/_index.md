@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to SQL - XLSB to SQL Converter
-description: PHP Aspose.Cells. XLSB to SQL in PHP. PHP Convert XLSB to SQL saveformat. PHP XLSB to SQL Converter. Save XLSB to SQL PHP.
-keywords: [PHP Aspose.Cells., XLSB to SQL in PHP., PHP XLSB to SQL saveformat., XLSB to SQL PHP., PHP Convert XLSB to SQL., Save XLSB to SQL PHP., XLSB to SQL Converter., Save XLSB as SQL]
+description: Aspose Excel. Convert XLSB to SQL quickly and easily with Aspose.Cells. PHP XLSB to SQL. PHP Save XLSB to SQL. Save XLSB as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to SQL in PHP., Save XLSB to SQL using PHP., PHP XLSB to SQL saveformat., XLSB to SQL Converter., PHP Save XLSB as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

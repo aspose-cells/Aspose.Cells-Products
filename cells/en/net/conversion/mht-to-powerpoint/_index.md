@@ -1,7 +1,7 @@
 ---
 title: C# MHT to POWERPOINT - MHT to POWERPOINT Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to POWERPOINT in C#. C# Convert MHT to POWERPOINT saveformat. C# MHT to POWERPOINT format. Save MHT to POWERPOINT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to POWERPOINT in C#., C# MHT to POWERPOINT saveformat., MHT to POWERPOINT C#., C# Convert MHT to POWERPOINT]
+description: Aspose Excel. Convert MHT to POWERPOINT quickly and easily with Aspose.Cells. C# MHT to POWERPOINT. C# Save MHT to POWERPOINT. Save MHT as POWERPOINT using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to POWERPOINT in C#., Save MHT to POWERPOINT using C#., C# MHT to POWERPOINT saveformat., MHT to POWERPOINT Converter., C# Save MHT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

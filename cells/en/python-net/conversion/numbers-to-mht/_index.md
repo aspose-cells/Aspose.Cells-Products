@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS to MHT - NUMBERS to MHT Converter
-description: Aspose Excel. Python Aspose.Cells. NUMBERS to MHT in Python. Python Convert NUMBERS to MHT saveformat. Python NUMBERS to MHT format. Save NUMBERS to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., NUMBERS to MHT in Python., Python NUMBERS to MHT saveformat., NUMBERS to MHT Python., Python Convert NUMBERS to MHT]
+description: Aspose Excel. Convert NUMBERS to MHT quickly and easily with Aspose.Cells. Python NUMBERS to MHT. Python Save NUMBERS to MHT. Save NUMBERS as MHT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to MHT in Python., Save NUMBERS to MHT using Python., Python NUMBERS to MHT saveformat., NUMBERS to MHT Converter., Python Save NUMBERS as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

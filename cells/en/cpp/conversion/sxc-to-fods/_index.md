@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to FODS - SXC to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to FODS in C++. C++ Convert SXC to FODS saveformat. C++ SXC to FODS format. Save SXC to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to FODS in C++., C++ SXC to FODS saveformat., SXC to FODS C++., C++ Convert SXC to FODS]
+description: Aspose Excel. Convert SXC to FODS quickly and easily with Aspose.Cells. C++ SXC to FODS. C++ Save SXC to FODS. Save SXC as FODS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to FODS in C++., Save SXC to FODS using C++., C++ SXC to FODS saveformat., SXC to FODS Converter., C++ Save SXC as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

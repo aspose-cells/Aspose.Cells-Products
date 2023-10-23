@@ -1,7 +1,7 @@
 ---
 title: Python PRN to TSV - PRN to TSV Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to TSV in Python. Python Convert PRN to TSV saveformat. Python PRN to TSV format. Save PRN to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to TSV in Python., Python PRN to TSV saveformat., PRN to TSV Python., Python Convert PRN to TSV]
+description: Aspose Excel. Convert PRN to TSV quickly and easily with Aspose.Cells. Python PRN to TSV. Python Save PRN to TSV. Save PRN as TSV using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to TSV in Python., Save PRN to TSV using Python., Python PRN to TSV saveformat., PRN to TSV Converter., Python Save PRN as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

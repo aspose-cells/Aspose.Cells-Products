@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to OTS - TXT to OTS Converter
-description: PHP Aspose.Cells. TXT to OTS in PHP. PHP Convert TXT to OTS saveformat. PHP TXT to OTS Converter. Save TXT to OTS PHP.
-keywords: [PHP Aspose.Cells., TXT to OTS in PHP., PHP TXT to OTS saveformat., TXT to OTS PHP., PHP Convert TXT to OTS., Save TXT to OTS PHP., TXT to OTS Converter., Save TXT as OTS]
+description: Aspose Excel. Convert TXT to OTS quickly and easily with Aspose.Cells. PHP TXT to OTS. PHP Save TXT to OTS. Save TXT as OTS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to OTS in PHP., Save TXT to OTS using PHP., PHP TXT to OTS saveformat., TXT to OTS Converter., PHP Save TXT as OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

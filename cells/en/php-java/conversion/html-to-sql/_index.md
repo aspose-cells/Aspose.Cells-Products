@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to SQL - HTML to SQL Converter
-description: PHP Aspose.Cells. HTML to SQL in PHP. PHP Convert HTML to SQL saveformat. PHP HTML to SQL Converter. Save HTML to SQL PHP.
-keywords: [PHP Aspose.Cells., HTML to SQL in PHP., PHP HTML to SQL saveformat., HTML to SQL PHP., PHP Convert HTML to SQL., Save HTML to SQL PHP., HTML to SQL Converter., Save HTML as SQL]
+description: Aspose Excel. Convert HTML to SQL quickly and easily with Aspose.Cells. PHP HTML to SQL. PHP Save HTML to SQL. Save HTML as SQL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to SQL in PHP., Save HTML to SQL using PHP., PHP HTML to SQL saveformat., HTML to SQL Converter., PHP Save HTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

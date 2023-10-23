@@ -1,7 +1,7 @@
 ---
 title: Python MHT to SVG - MHT to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. MHT to SVG in Python. Python Convert MHT to SVG saveformat. Python MHT to SVG format. Save MHT to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHT to SVG in Python., Python MHT to SVG saveformat., MHT to SVG Python., Python Convert MHT to SVG]
+description: Aspose Excel. Convert MHT to SVG quickly and easily with Aspose.Cells. Python MHT to SVG. Python Save MHT to SVG. Save MHT as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to SVG in Python., Save MHT to SVG using Python., Python MHT to SVG saveformat., MHT to SVG Converter., Python Save MHT as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

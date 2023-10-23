@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to XLAM - JPEG to XLAM Converter
-description: Aspose Excel. C# Aspose.Cells. JPEG to XLAM in C#. C# Convert JPEG to XLAM saveformat. C# JPEG to XLAM format. Save JPEG to XLAM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., JPEG to XLAM in C#., C# JPEG to XLAM saveformat., JPEG to XLAM C#., C# Convert JPEG to XLAM]
+description: Aspose Excel. Convert JPEG to XLAM quickly and easily with Aspose.Cells. C# JPEG to XLAM. C# Save JPEG to XLAM. Save JPEG as XLAM using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to XLAM in C#., Save JPEG to XLAM using C#., C# JPEG to XLAM saveformat., JPEG to XLAM Converter., C# Save JPEG as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

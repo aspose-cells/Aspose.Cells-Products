@@ -1,7 +1,7 @@
 ---
 title: C# SXC to PRN - SXC to PRN Converter
-description: Aspose Excel. C# Aspose.Cells. SXC to PRN in C#. C# Convert SXC to PRN saveformat. C# SXC to PRN format. Save SXC to PRN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., SXC to PRN in C#., C# SXC to PRN saveformat., SXC to PRN C#., C# Convert SXC to PRN]
+description: Aspose Excel. Convert SXC to PRN quickly and easily with Aspose.Cells. C# SXC to PRN. C# Save SXC to PRN. Save SXC as PRN using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to PRN in C#., Save SXC to PRN using C#., C# SXC to PRN saveformat., SXC to PRN Converter., C# Save SXC as PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

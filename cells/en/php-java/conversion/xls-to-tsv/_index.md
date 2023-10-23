@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to TSV - XLS to TSV Converter
-description: PHP Aspose.Cells. XLS to TSV in PHP. PHP Convert XLS to TSV saveformat. PHP XLS to TSV Converter. Save XLS to TSV PHP.
-keywords: [PHP Aspose.Cells., XLS to TSV in PHP., PHP XLS to TSV saveformat., XLS to TSV PHP., PHP Convert XLS to TSV., Save XLS to TSV PHP., XLS to TSV Converter., Save XLS as TSV]
+description: Aspose Excel. Convert XLS to TSV quickly and easily with Aspose.Cells. PHP XLS to TSV. PHP Save XLS to TSV. Save XLS as TSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TSV in PHP., Save XLS to TSV using PHP., PHP XLS to TSV saveformat., XLS to TSV Converter., PHP Save XLS as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

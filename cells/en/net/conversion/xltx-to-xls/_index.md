@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to XLS - XLTX to XLS Converter
-description: Aspose Excel. C# Aspose.Cells. XLTX to XLS in C#. C# Convert XLTX to XLS saveformat. C# XLTX to XLS format. Save XLTX to XLS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., XLTX to XLS in C#., C# XLTX to XLS saveformat., XLTX to XLS C#., C# Convert XLTX to XLS]
+description: Aspose Excel. Convert XLTX to XLS quickly and easily with Aspose.Cells. C# XLTX to XLS. C# Save XLTX to XLS. Save XLTX as XLS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to XLS in C#., Save XLTX to XLS using C#., C# XLTX to XLS saveformat., XLTX to XLS Converter., C# Save XLTX as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

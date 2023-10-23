@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to PDF - TXT to PDF Converter
-description: PHP Aspose.Cells. TXT to PDF in PHP. PHP Convert TXT to PDF saveformat. PHP TXT to PDF Converter. Save TXT to PDF PHP.
-keywords: [PHP Aspose.Cells., TXT to PDF in PHP., PHP TXT to PDF saveformat., TXT to PDF PHP., PHP Convert TXT to PDF., Save TXT to PDF PHP., TXT to PDF Converter., Save TXT as PDF]
+description: Aspose Excel. Convert TXT to PDF quickly and easily with Aspose.Cells. PHP TXT to PDF. PHP Save TXT to PDF. Save TXT as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to PDF in PHP., Save TXT to PDF using PHP., PHP TXT to PDF saveformat., TXT to PDF Converter., PHP Save TXT as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

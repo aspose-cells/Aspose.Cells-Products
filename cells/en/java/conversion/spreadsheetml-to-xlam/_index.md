@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to XLAM - SPREADSHEETML to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML to XLAM in Java. Java Convert SPREADSHEETML to XLAM saveformat. Java SPREADSHEETML to XLAM format. Save SPREADSHEETML to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SPREADSHEETML to XLAM in Java., Java SPREADSHEETML to XLAM saveformat., SPREADSHEETML to XLAM Java., Java Convert SPREADSHEETML to XLAM]
+description: Aspose Excel. Convert SPREADSHEETML to XLAM quickly and easily with Aspose.Cells. Java SPREADSHEETML to XLAM. Java Save SPREADSHEETML to XLAM. Save SPREADSHEETML as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to XLAM in Java., Save SPREADSHEETML to XLAM using Java., Java SPREADSHEETML to XLAM saveformat., SPREADSHEETML to XLAM Converter., Java Save SPREADSHEETML as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

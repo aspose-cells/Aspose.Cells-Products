@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to XLTX - XLSM to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. XLSM to XLTX in Java. Java Convert XLSM to XLTX saveformat. Java XLSM to XLTX format. Save XLSM to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLSM to XLTX in Java., Java XLSM to XLTX saveformat., XLSM to XLTX Java., Java Convert XLSM to XLTX]
+description: Aspose Excel. Convert XLSM to XLTX quickly and easily with Aspose.Cells. Java XLSM to XLTX. Java Save XLSM to XLTX. Save XLSM as XLTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XLTX in Java., Save XLSM to XLTX using Java., Java XLSM to XLTX saveformat., XLSM to XLTX Converter., Java Save XLSM as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

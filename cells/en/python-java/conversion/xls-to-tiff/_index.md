@@ -1,7 +1,7 @@
 ---
 title: Python XLS to TIFF - XLS to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. XLS to TIFF in Python. Python Convert XLS to TIFF saveformat. Python XLS to TIFF format. Save XLS to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLS to TIFF in Python., Python XLS to TIFF saveformat., XLS to TIFF Python., Python Convert XLS to TIFF]
+description: Aspose Excel. Convert XLS to TIFF quickly and easily with Aspose.Cells. Python XLS to TIFF. Python Save XLS to TIFF. Save XLS as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to TIFF in Python., Save XLS to TIFF using Python., Python XLS to TIFF saveformat., XLS to TIFF Converter., Python Save XLS as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

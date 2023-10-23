@@ -1,7 +1,7 @@
 ---
 title: Java XLT to POWERPOINT - XLT to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. XLT to POWERPOINT in Java. Java Convert XLT to POWERPOINT saveformat. Java XLT to POWERPOINT format. Save XLT to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLT to POWERPOINT in Java., Java XLT to POWERPOINT saveformat., XLT to POWERPOINT Java., Java Convert XLT to POWERPOINT]
+description: Aspose Excel. Convert XLT to POWERPOINT quickly and easily with Aspose.Cells. Java XLT to POWERPOINT. Java Save XLT to POWERPOINT. Save XLT as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to POWERPOINT in Java., Save XLT to POWERPOINT using Java., Java XLT to POWERPOINT saveformat., XLT to POWERPOINT Converter., Java Save XLT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

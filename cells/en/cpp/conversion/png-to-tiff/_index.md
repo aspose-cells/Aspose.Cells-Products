@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to TIFF - PNG to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to TIFF in C++. C++ Convert PNG to TIFF saveformat. C++ PNG to TIFF format. Save PNG to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to TIFF in C++., C++ PNG to TIFF saveformat., PNG to TIFF C++., C++ Convert PNG to TIFF]
+description: Aspose Excel. Convert PNG to TIFF quickly and easily with Aspose.Cells. C++ PNG to TIFF. C++ Save PNG to TIFF. Save PNG as TIFF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to TIFF in C++., Save PNG to TIFF using C++., C++ PNG to TIFF saveformat., PNG to TIFF Converter., C++ Save PNG as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

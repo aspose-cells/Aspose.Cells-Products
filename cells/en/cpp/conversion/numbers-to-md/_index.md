@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to MD - NUMBERS to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. NUMBERS to MD in C++. C++ Convert NUMBERS to MD saveformat. C++ NUMBERS to MD format. Save NUMBERS to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., NUMBERS to MD in C++., C++ NUMBERS to MD saveformat., NUMBERS to MD C++., C++ Convert NUMBERS to MD]
+description: Aspose Excel. Convert NUMBERS to MD quickly and easily with Aspose.Cells. C++ NUMBERS to MD. C++ Save NUMBERS to MD. Save NUMBERS as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to MD in C++., Save NUMBERS to MD using C++., C++ NUMBERS to MD saveformat., NUMBERS to MD Converter., C++ Save NUMBERS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

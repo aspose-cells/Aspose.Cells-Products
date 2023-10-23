@@ -1,7 +1,7 @@
 ---
 title: Python XLT to POWERPOINT - XLT to POWERPOINT Converter
-description: Aspose Excel. Python Aspose.Cells. XLT to POWERPOINT in Python. Python Convert XLT to POWERPOINT saveformat. Python XLT to POWERPOINT format. Save XLT to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLT to POWERPOINT in Python., Python XLT to POWERPOINT saveformat., XLT to POWERPOINT Python., Python Convert XLT to POWERPOINT]
+description: Aspose Excel. Convert XLT to POWERPOINT quickly and easily with Aspose.Cells. Python XLT to POWERPOINT. Python Save XLT to POWERPOINT. Save XLT as POWERPOINT using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to POWERPOINT in Python., Save XLT to POWERPOINT using Python., Python XLT to POWERPOINT saveformat., XLT to POWERPOINT Converter., Python Save XLT as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

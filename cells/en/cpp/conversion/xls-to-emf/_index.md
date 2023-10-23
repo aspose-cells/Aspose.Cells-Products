@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to EMF - XLS to EMF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLS to EMF in C++. C++ Convert XLS to EMF saveformat. C++ XLS to EMF format. Save XLS to EMF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLS to EMF in C++., C++ XLS to EMF saveformat., XLS to EMF C++., C++ Convert XLS to EMF]
+description: Aspose Excel. Convert XLS to EMF quickly and easily with Aspose.Cells. C++ XLS to EMF. C++ Save XLS to EMF. Save XLS as EMF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to EMF in C++., Save XLS to EMF using C++., C++ XLS to EMF saveformat., XLS to EMF Converter., C++ Save XLS as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

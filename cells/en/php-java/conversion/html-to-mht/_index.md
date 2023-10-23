@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to MHT - HTML to MHT Converter
-description: PHP Aspose.Cells. HTML to MHT in PHP. PHP Convert HTML to MHT saveformat. PHP HTML to MHT Converter. Save HTML to MHT PHP.
-keywords: [PHP Aspose.Cells., HTML to MHT in PHP., PHP HTML to MHT saveformat., HTML to MHT PHP., PHP Convert HTML to MHT., Save HTML to MHT PHP., HTML to MHT Converter., Save HTML as MHT]
+description: Aspose Excel. Convert HTML to MHT quickly and easily with Aspose.Cells. PHP HTML to MHT. PHP Save HTML to MHT. Save HTML as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to MHT in PHP., Save HTML to MHT using PHP., PHP HTML to MHT saveformat., HTML to MHT Converter., PHP Save HTML as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

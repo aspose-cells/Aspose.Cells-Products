@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to WORD - XLT to WORD Converter
-description: PHP Aspose.Cells. XLT to WORD in PHP. PHP Convert XLT to WORD saveformat. PHP XLT to WORD Converter. Save XLT to WORD PHP.
-keywords: [PHP Aspose.Cells., XLT to WORD in PHP., PHP XLT to WORD saveformat., XLT to WORD PHP., PHP Convert XLT to WORD., Save XLT to WORD PHP., XLT to WORD Converter., Save XLT as WORD]
+description: Aspose Excel. Convert XLT to WORD quickly and easily with Aspose.Cells. PHP XLT to WORD. PHP Save XLT to WORD. Save XLT as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to WORD in PHP., Save XLT to WORD using PHP., PHP XLT to WORD saveformat., XLT to WORD Converter., PHP Save XLT as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

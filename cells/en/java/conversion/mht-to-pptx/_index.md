@@ -1,7 +1,7 @@
 ---
 title: Java MHT to PPTX - MHT to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. MHT to PPTX in Java. Java Convert MHT to PPTX saveformat. Java MHT to PPTX format. Save MHT to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHT to PPTX in Java., Java MHT to PPTX saveformat., MHT to PPTX Java., Java Convert MHT to PPTX]
+description: Aspose Excel. Convert MHT to PPTX quickly and easily with Aspose.Cells. Java MHT to PPTX. Java Save MHT to PPTX. Save MHT as PPTX using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to PPTX in Java., Save MHT to PPTX using Java., Java MHT to PPTX saveformat., MHT to PPTX Converter., Java Save MHT as PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

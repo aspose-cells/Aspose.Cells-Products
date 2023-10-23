@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to ET - SPREADSHEETML to ET Converter
-description: PHP Aspose.Cells. SPREADSHEETML to ET in PHP. PHP Convert SPREADSHEETML to ET saveformat. PHP SPREADSHEETML to ET Converter. Save SPREADSHEETML to ET PHP.
-keywords: [PHP Aspose.Cells., SPREADSHEETML to ET in PHP., PHP SPREADSHEETML to ET saveformat., SPREADSHEETML to ET PHP., PHP Convert SPREADSHEETML to ET., Save SPREADSHEETML to ET PHP., SPREADSHEETML to ET Converter., Save SPREADSHEETML as ET]
+description: Aspose Excel. Convert SPREADSHEETML to ET quickly and easily with Aspose.Cells. PHP SPREADSHEETML to ET. PHP Save SPREADSHEETML to ET. Save SPREADSHEETML as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to ET in PHP., Save SPREADSHEETML to ET using PHP., PHP SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Converter., PHP Save SPREADSHEETML as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to POWERPOINT - JPEG to POWERPOINT Converter
-description: PHP Aspose.Cells. JPEG to POWERPOINT in PHP. PHP Convert JPEG to POWERPOINT saveformat. PHP JPEG to POWERPOINT Converter. Save JPEG to POWERPOINT PHP.
-keywords: [PHP Aspose.Cells., JPEG to POWERPOINT in PHP., PHP JPEG to POWERPOINT saveformat., JPEG to POWERPOINT PHP., PHP Convert JPEG to POWERPOINT., Save JPEG to POWERPOINT PHP., JPEG to POWERPOINT Converter., Save JPEG as POWERPOINT]
+description: Aspose Excel. Convert JPEG to POWERPOINT quickly and easily with Aspose.Cells. PHP JPEG to POWERPOINT. PHP Save JPEG to POWERPOINT. Save JPEG as POWERPOINT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to POWERPOINT in PHP., Save JPEG to POWERPOINT using PHP., PHP JPEG to POWERPOINT saveformat., JPEG to POWERPOINT Converter., PHP Save JPEG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

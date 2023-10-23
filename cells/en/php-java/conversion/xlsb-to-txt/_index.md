@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to TXT - XLSB to TXT Converter
-description: PHP Aspose.Cells. XLSB to TXT in PHP. PHP Convert XLSB to TXT saveformat. PHP XLSB to TXT Converter. Save XLSB to TXT PHP.
-keywords: [PHP Aspose.Cells., XLSB to TXT in PHP., PHP XLSB to TXT saveformat., XLSB to TXT PHP., PHP Convert XLSB to TXT., Save XLSB to TXT PHP., XLSB to TXT Converter., Save XLSB as TXT]
+description: Aspose Excel. Convert XLSB to TXT quickly and easily with Aspose.Cells. PHP XLSB to TXT. PHP Save XLSB to TXT. Save XLSB as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to TXT in PHP., Save XLSB to TXT using PHP., PHP XLSB to TXT saveformat., XLSB to TXT Converter., PHP Save XLSB as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

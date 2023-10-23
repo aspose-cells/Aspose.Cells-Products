@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to EXCEL - XLAM to EXCEL Converter
-description: PHP Aspose.Cells. XLAM to EXCEL in PHP. PHP Convert XLAM to EXCEL saveformat. PHP XLAM to EXCEL Converter. Save XLAM to EXCEL PHP.
-keywords: [PHP Aspose.Cells., XLAM to EXCEL in PHP., PHP XLAM to EXCEL saveformat., XLAM to EXCEL PHP., PHP Convert XLAM to EXCEL., Save XLAM to EXCEL PHP., XLAM to EXCEL Converter., Save XLAM as EXCEL]
+description: Aspose Excel. Convert XLAM to EXCEL quickly and easily with Aspose.Cells. PHP XLAM to EXCEL. PHP Save XLAM to EXCEL. Save XLAM as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to EXCEL in PHP., Save XLAM to EXCEL using PHP., PHP XLAM to EXCEL saveformat., XLAM to EXCEL Converter., PHP Save XLAM as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

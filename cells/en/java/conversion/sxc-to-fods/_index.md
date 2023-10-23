@@ -1,7 +1,7 @@
 ---
 title: Java SXC to FODS - SXC to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. SXC to FODS in Java. Java Convert SXC to FODS saveformat. Java SXC to FODS format. Save SXC to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., SXC to FODS in Java., Java SXC to FODS saveformat., SXC to FODS Java., Java Convert SXC to FODS]
+description: Aspose Excel. Convert SXC to FODS quickly and easily with Aspose.Cells. Java SXC to FODS. Java Save SXC to FODS. Save SXC as FODS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to FODS in Java., Save SXC to FODS using Java., Java SXC to FODS saveformat., SXC to FODS Converter., Java Save SXC as FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java PRN to XLS - PRN to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to XLS in Java. Java Convert PRN to XLS saveformat. Java PRN to XLS format. Save PRN to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to XLS in Java., Java PRN to XLS saveformat., PRN to XLS Java., Java Convert PRN to XLS]
+description: Aspose Excel. Convert PRN to XLS quickly and easily with Aspose.Cells. Java PRN to XLS. Java Save PRN to XLS. Save PRN as XLS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XLS in Java., Save PRN to XLS using Java., Java PRN to XLS saveformat., PRN to XLS Converter., Java Save PRN as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

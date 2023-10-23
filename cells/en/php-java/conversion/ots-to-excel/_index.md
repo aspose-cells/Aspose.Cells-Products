@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to EXCEL - OTS to EXCEL Converter
-description: PHP Aspose.Cells. OTS to EXCEL in PHP. PHP Convert OTS to EXCEL saveformat. PHP OTS to EXCEL Converter. Save OTS to EXCEL PHP.
-keywords: [PHP Aspose.Cells., OTS to EXCEL in PHP., PHP OTS to EXCEL saveformat., OTS to EXCEL PHP., PHP Convert OTS to EXCEL., Save OTS to EXCEL PHP., OTS to EXCEL Converter., Save OTS as EXCEL]
+description: Aspose Excel. Convert OTS to EXCEL quickly and easily with Aspose.Cells. PHP OTS to EXCEL. PHP Save OTS to EXCEL. Save OTS as EXCEL using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to EXCEL in PHP., Save OTS to EXCEL using PHP., PHP OTS to EXCEL saveformat., OTS to EXCEL Converter., PHP Save OTS as EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

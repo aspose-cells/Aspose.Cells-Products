@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to TIFF - SXC to TIFF Converter
-description: PHP Aspose.Cells. SXC to TIFF in PHP. PHP Convert SXC to TIFF saveformat. PHP SXC to TIFF Converter. Save SXC to TIFF PHP.
-keywords: [PHP Aspose.Cells., SXC to TIFF in PHP., PHP SXC to TIFF saveformat., SXC to TIFF PHP., PHP Convert SXC to TIFF., Save SXC to TIFF PHP., SXC to TIFF Converter., Save SXC as TIFF]
+description: Aspose Excel. Convert SXC to TIFF quickly and easily with Aspose.Cells. PHP SXC to TIFF. PHP Save SXC to TIFF. Save SXC as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to TIFF in PHP., Save SXC to TIFF using PHP., PHP SXC to TIFF saveformat., SXC to TIFF Converter., PHP Save SXC as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

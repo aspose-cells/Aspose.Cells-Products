@@ -1,7 +1,7 @@
 ---
 title: C# MHT to SXC - MHT to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. MHT to SXC in C#. C# Convert MHT to SXC saveformat. C# MHT to SXC format. Save MHT to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., MHT to SXC in C#., C# MHT to SXC saveformat., MHT to SXC C#., C# Convert MHT to SXC]
+description: Aspose Excel. Convert MHT to SXC quickly and easily with Aspose.Cells. C# MHT to SXC. C# Save MHT to SXC. Save MHT as SXC using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to SXC in C#., Save MHT to SXC using C#., C# MHT to SXC saveformat., MHT to SXC Converter., C# Save MHT as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

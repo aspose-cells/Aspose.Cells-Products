@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to ODS - XLSX to ODS Converter
-description: PHP Aspose.Cells. XLSX to ODS in PHP. PHP Convert XLSX to ODS saveformat. PHP XLSX to ODS Converter. Save XLSX to ODS PHP.
-keywords: [PHP Aspose.Cells., XLSX to ODS in PHP., PHP XLSX to ODS saveformat., XLSX to ODS PHP., PHP Convert XLSX to ODS., Save XLSX to ODS PHP., XLSX to ODS Converter., Save XLSX as ODS]
+description: Aspose Excel. Convert XLSX to ODS quickly and easily with Aspose.Cells. PHP XLSX to ODS. PHP Save XLSX to ODS. Save XLSX as ODS using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to ODS in PHP., Save XLSX to ODS using PHP., PHP XLSX to ODS saveformat., XLSX to ODS Converter., PHP Save XLSX as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

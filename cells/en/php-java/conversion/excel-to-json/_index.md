@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to JSON - EXCEL to JSON Converter
-description: PHP Aspose.Cells. EXCEL to JSON in PHP. PHP Convert EXCEL to JSON saveformat. PHP EXCEL to JSON Converter. Save EXCEL to JSON PHP.
-keywords: [PHP Aspose.Cells., EXCEL to JSON in PHP., PHP EXCEL to JSON saveformat., EXCEL to JSON PHP., PHP Convert EXCEL to JSON., Save EXCEL to JSON PHP., EXCEL to JSON Converter., Save EXCEL as JSON]
+description: Aspose Excel. Convert EXCEL to JSON quickly and easily with Aspose.Cells. PHP EXCEL to JSON. PHP Save EXCEL to JSON. Save EXCEL as JSON using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to JSON in PHP., Save EXCEL to JSON using PHP., PHP EXCEL to JSON saveformat., EXCEL to JSON Converter., PHP Save EXCEL as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

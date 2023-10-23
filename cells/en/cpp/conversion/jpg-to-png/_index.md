@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to PNG - JPG to PNG Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to PNG in C++. C++ Convert JPG to PNG saveformat. C++ JPG to PNG format. Save JPG to PNG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to PNG in C++., C++ JPG to PNG saveformat., JPG to PNG C++., C++ Convert JPG to PNG]
+description: Aspose Excel. Convert JPG to PNG quickly and easily with Aspose.Cells. C++ JPG to PNG. C++ Save JPG to PNG. Save JPG as PNG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to PNG in C++., Save JPG to PNG using C++., C++ JPG to PNG saveformat., JPG to PNG Converter., C++ Save JPG as PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

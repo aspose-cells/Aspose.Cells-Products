@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to MARKDOWN - XLTX to MARKDOWN Converter
-description: PHP Aspose.Cells. XLTX to MARKDOWN in PHP. PHP Convert XLTX to MARKDOWN saveformat. PHP XLTX to MARKDOWN Converter. Save XLTX to MARKDOWN PHP.
-keywords: [PHP Aspose.Cells., XLTX to MARKDOWN in PHP., PHP XLTX to MARKDOWN saveformat., XLTX to MARKDOWN PHP., PHP Convert XLTX to MARKDOWN., Save XLTX to MARKDOWN PHP., XLTX to MARKDOWN Converter., Save XLTX as MARKDOWN]
+description: Aspose Excel. Convert XLTX to MARKDOWN quickly and easily with Aspose.Cells. PHP XLTX to MARKDOWN. PHP Save XLTX to MARKDOWN. Save XLTX as MARKDOWN using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to MARKDOWN in PHP., Save XLTX to MARKDOWN using PHP., PHP XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., PHP Save XLTX as MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,9 @@
 ---
-title: Add ODS Annotation via C++ 
+title: Add or Remove ODS Annotation via C++ 
 weight: 8840
 
 description: C++ sample code to delete ODS format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

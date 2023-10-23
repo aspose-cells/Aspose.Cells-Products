@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB to TIFF - XLSB to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSB to TIFF in C++. C++ Convert XLSB to TIFF saveformat. C++ XLSB to TIFF format. Save XLSB to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSB to TIFF in C++., C++ XLSB to TIFF saveformat., XLSB to TIFF C++., C++ Convert XLSB to TIFF]
+description: Aspose Excel. Convert XLSB to TIFF quickly and easily with Aspose.Cells. C++ XLSB to TIFF. C++ Save XLSB to TIFF. Save XLSB as TIFF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to TIFF in C++., Save XLSB to TIFF using C++., C++ XLSB to TIFF saveformat., XLSB to TIFF Converter., C++ Save XLSB as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

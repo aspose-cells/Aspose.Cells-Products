@@ -1,7 +1,7 @@
 ---
 title: C++ OTS to SQL - OTS to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. OTS to SQL in C++. C++ Convert OTS to SQL saveformat. C++ OTS to SQL format. Save OTS to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., OTS to SQL in C++., C++ OTS to SQL saveformat., OTS to SQL C++., C++ Convert OTS to SQL]
+description: Aspose Excel. Convert OTS to SQL quickly and easily with Aspose.Cells. C++ OTS to SQL. C++ Save OTS to SQL. Save OTS as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to SQL in C++., Save OTS to SQL using C++., C++ OTS to SQL saveformat., OTS to SQL Converter., C++ Save OTS as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

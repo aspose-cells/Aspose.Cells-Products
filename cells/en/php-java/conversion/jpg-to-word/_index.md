@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to WORD - JPG to WORD Converter
-description: PHP Aspose.Cells. JPG to WORD in PHP. PHP Convert JPG to WORD saveformat. PHP JPG to WORD Converter. Save JPG to WORD PHP.
-keywords: [PHP Aspose.Cells., JPG to WORD in PHP., PHP JPG to WORD saveformat., JPG to WORD PHP., PHP Convert JPG to WORD., Save JPG to WORD PHP., JPG to WORD Converter., Save JPG as WORD]
+description: Aspose Excel. Convert JPG to WORD quickly and easily with Aspose.Cells. PHP JPG to WORD. PHP Save JPG to WORD. Save JPG as WORD using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to WORD in PHP., Save JPG to WORD using PHP., PHP JPG to WORD saveformat., JPG to WORD Converter., PHP Save JPG as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to XLSX - XLT to XLSX Converter
-description: PHP Aspose.Cells. XLT to XLSX in PHP. PHP Convert XLT to XLSX saveformat. PHP XLT to XLSX Converter. Save XLT to XLSX PHP.
-keywords: [PHP Aspose.Cells., XLT to XLSX in PHP., PHP XLT to XLSX saveformat., XLT to XLSX PHP., PHP Convert XLT to XLSX., Save XLT to XLSX PHP., XLT to XLSX Converter., Save XLT as XLSX]
+description: Aspose Excel. Convert XLT to XLSX quickly and easily with Aspose.Cells. PHP XLT to XLSX. PHP Save XLT to XLSX. Save XLT as XLSX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to XLSX in PHP., Save XLT to XLSX using PHP., PHP XLT to XLSX saveformat., XLT to XLSX Converter., PHP Save XLT as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

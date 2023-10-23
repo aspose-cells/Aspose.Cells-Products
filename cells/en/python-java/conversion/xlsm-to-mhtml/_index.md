@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to MHTML - XLSM to MHTML Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to MHTML in Python. Python Convert XLSM to MHTML saveformat. Python XLSM to MHTML format. Save XLSM to MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to MHTML in Python., Python XLSM to MHTML saveformat., XLSM to MHTML Python., Python Convert XLSM to MHTML]
+description: Aspose Excel. Convert XLSM to MHTML quickly and easily with Aspose.Cells. Python XLSM to MHTML. Python Save XLSM to MHTML. Save XLSM as MHTML using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to MHTML in Python., Save XLSM to MHTML using Python., Python XLSM to MHTML saveformat., XLSM to MHTML Converter., Python Save XLSM as MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

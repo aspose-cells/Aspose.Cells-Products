@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to DIF - MHTML to DIF Converter
-description: PHP Aspose.Cells. MHTML to DIF in PHP. PHP Convert MHTML to DIF saveformat. PHP MHTML to DIF Converter. Save MHTML to DIF PHP.
-keywords: [PHP Aspose.Cells., MHTML to DIF in PHP., PHP MHTML to DIF saveformat., MHTML to DIF PHP., PHP Convert MHTML to DIF., Save MHTML to DIF PHP., MHTML to DIF Converter., Save MHTML as DIF]
+description: Aspose Excel. Convert MHTML to DIF quickly and easily with Aspose.Cells. PHP MHTML to DIF. PHP Save MHTML to DIF. Save MHTML as DIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to DIF in PHP., Save MHTML to DIF using PHP., PHP MHTML to DIF saveformat., MHTML to DIF Converter., PHP Save MHTML as DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

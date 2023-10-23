@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to XLT - ODS to XLT Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to XLT in C++. C++ Convert ODS to XLT saveformat. C++ ODS to XLT format. Save ODS to XLT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to XLT in C++., C++ ODS to XLT saveformat., ODS to XLT C++., C++ Convert ODS to XLT]
+description: Aspose Excel. Convert ODS to XLT quickly and easily with Aspose.Cells. C++ ODS to XLT. C++ Save ODS to XLT. Save ODS as XLT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to XLT in C++., Save ODS to XLT using C++., C++ ODS to XLT saveformat., ODS to XLT Converter., C++ Save ODS as XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python PNG to IMAGE - PNG to IMAGE Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to IMAGE in Python. Python Convert PNG to IMAGE saveformat. Python PNG to IMAGE format. Save PNG to IMAGE Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to IMAGE in Python., Python PNG to IMAGE saveformat., PNG to IMAGE Python., Python Convert PNG to IMAGE]
+description: Aspose Excel. Convert PNG to IMAGE quickly and easily with Aspose.Cells. Python PNG to IMAGE. Python Save PNG to IMAGE. Save PNG as IMAGE using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to IMAGE in Python., Save PNG to IMAGE using Python., Python PNG to IMAGE saveformat., PNG to IMAGE Converter., Python Save PNG as IMAGE]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

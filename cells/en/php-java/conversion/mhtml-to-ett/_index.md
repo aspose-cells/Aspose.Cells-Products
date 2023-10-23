@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to ETT - MHTML to ETT Converter
-description: PHP Aspose.Cells. MHTML to ETT in PHP. PHP Convert MHTML to ETT saveformat. PHP MHTML to ETT Converter. Save MHTML to ETT PHP.
-keywords: [PHP Aspose.Cells., MHTML to ETT in PHP., PHP MHTML to ETT saveformat., MHTML to ETT PHP., PHP Convert MHTML to ETT., Save MHTML to ETT PHP., MHTML to ETT Converter., Save MHTML as ETT]
+description: Aspose Excel. Convert MHTML to ETT quickly and easily with Aspose.Cells. PHP MHTML to ETT. PHP Save MHTML to ETT. Save MHTML as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to ETT in PHP., Save MHTML to ETT using PHP., PHP MHTML to ETT saveformat., MHTML to ETT Converter., PHP Save MHTML as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

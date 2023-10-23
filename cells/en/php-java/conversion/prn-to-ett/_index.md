@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to ETT - PRN to ETT Converter
-description: PHP Aspose.Cells. PRN to ETT in PHP. PHP Convert PRN to ETT saveformat. PHP PRN to ETT Converter. Save PRN to ETT PHP.
-keywords: [PHP Aspose.Cells., PRN to ETT in PHP., PHP PRN to ETT saveformat., PRN to ETT PHP., PHP Convert PRN to ETT., Save PRN to ETT PHP., PRN to ETT Converter., Save PRN as ETT]
+description: Aspose Excel. Convert PRN to ETT quickly and easily with Aspose.Cells. PHP PRN to ETT. PHP Save PRN to ETT. Save PRN as ETT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to ETT in PHP., Save PRN to ETT using PHP., PHP PRN to ETT saveformat., PRN to ETT Converter., PHP Save PRN as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

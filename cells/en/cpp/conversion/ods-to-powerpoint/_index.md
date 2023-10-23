@@ -1,7 +1,7 @@
 ---
 title: C++ ODS to POWERPOINT - ODS to POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. ODS to POWERPOINT in C++. C++ Convert ODS to POWERPOINT saveformat. C++ ODS to POWERPOINT format. Save ODS to POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., ODS to POWERPOINT in C++., C++ ODS to POWERPOINT saveformat., ODS to POWERPOINT C++., C++ Convert ODS to POWERPOINT]
+description: Aspose Excel. Convert ODS to POWERPOINT quickly and easily with Aspose.Cells. C++ ODS to POWERPOINT. C++ Save ODS to POWERPOINT. Save ODS as POWERPOINT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to POWERPOINT in C++., Save ODS to POWERPOINT using C++., C++ ODS to POWERPOINT saveformat., ODS to POWERPOINT Converter., C++ Save ODS as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to CSV - FODS to CSV Converter
-description: PHP Aspose.Cells. FODS to CSV in PHP. PHP Convert FODS to CSV saveformat. PHP FODS to CSV Converter. Save FODS to CSV PHP.
-keywords: [PHP Aspose.Cells., FODS to CSV in PHP., PHP FODS to CSV saveformat., FODS to CSV PHP., PHP Convert FODS to CSV., Save FODS to CSV PHP., FODS to CSV Converter., Save FODS as CSV]
+description: Aspose Excel. Convert FODS to CSV quickly and easily with Aspose.Cells. PHP FODS to CSV. PHP Save FODS to CSV. Save FODS as CSV using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to CSV in PHP., Save FODS to CSV using PHP., PHP FODS to CSV saveformat., FODS to CSV Converter., PHP Save FODS as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: C++ HTML to XPS - HTML to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. HTML to XPS in C++. C++ Convert HTML to XPS saveformat. C++ HTML to XPS format. Save HTML to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., HTML to XPS in C++., C++ HTML to XPS saveformat., HTML to XPS C++., C++ Convert HTML to XPS]
+description: Aspose Excel. Convert HTML to XPS quickly and easily with Aspose.Cells. C++ HTML to XPS. C++ Save HTML to XPS. Save HTML as XPS using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XPS in C++., Save HTML to XPS using C++., C++ HTML to XPS saveformat., HTML to XPS Converter., C++ Save HTML as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLSM to WORD - XLSM to WORD Converter
-description: Aspose Excel. Python Aspose.Cells. XLSM to WORD in Python. Python Convert XLSM to WORD saveformat. Python XLSM to WORD format. Save XLSM to WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSM to WORD in Python., Python XLSM to WORD saveformat., XLSM to WORD Python., Python Convert XLSM to WORD]
+description: Aspose Excel. Convert XLSM to WORD quickly and easily with Aspose.Cells. Python XLSM to WORD. Python Save XLSM to WORD. Save XLSM as WORD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to WORD in Python., Save XLSM to WORD using Python., Python XLSM to WORD saveformat., XLSM to WORD Converter., Python Save XLSM as WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

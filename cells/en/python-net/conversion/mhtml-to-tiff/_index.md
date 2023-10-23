@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to TIFF - MHTML to TIFF Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to TIFF in Python. Python Convert MHTML to TIFF saveformat. Python MHTML to TIFF format. Save MHTML to TIFF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to TIFF in Python., Python MHTML to TIFF saveformat., MHTML to TIFF Python., Python Convert MHTML to TIFF]
+description: Aspose Excel. Convert MHTML to TIFF quickly and easily with Aspose.Cells. Python MHTML to TIFF. Python Save MHTML to TIFF. Save MHTML as TIFF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to TIFF in Python., Save MHTML to TIFF using Python., Python MHTML to TIFF saveformat., MHTML to TIFF Converter., Python Save MHTML as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

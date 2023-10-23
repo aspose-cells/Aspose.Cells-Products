@@ -1,7 +1,7 @@
 ---
 title: Python SXC to GIF - SXC to GIF Converter
-description: Aspose Excel. Python Aspose.Cells. SXC to GIF in Python. Python Convert SXC to GIF saveformat. Python SXC to GIF format. Save SXC to GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., SXC to GIF in Python., Python SXC to GIF saveformat., SXC to GIF Python., Python Convert SXC to GIF]
+description: Aspose Excel. Convert SXC to GIF quickly and easily with Aspose.Cells. Python SXC to GIF. Python Save SXC to GIF. Save SXC as GIF using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to GIF in Python., Save SXC to GIF using Python., Python SXC to GIF saveformat., SXC to GIF Converter., Python Save SXC as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

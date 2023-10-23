@@ -1,7 +1,7 @@
 ---
 title: C# TXT to ODS - TXT to ODS Converter
-description: Aspose Excel. C# Aspose.Cells. TXT to ODS in C#. C# Convert TXT to ODS saveformat. C# TXT to ODS format. Save TXT to ODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., TXT to ODS in C#., C# TXT to ODS saveformat., TXT to ODS C#., C# Convert TXT to ODS]
+description: Aspose Excel. Convert TXT to ODS quickly and easily with Aspose.Cells. C# TXT to ODS. C# Save TXT to ODS. Save TXT as ODS using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to ODS in C#., Save TXT to ODS using C#., C# TXT to ODS saveformat., TXT to ODS Converter., C# Save TXT as ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

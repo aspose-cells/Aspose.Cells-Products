@@ -1,7 +1,7 @@
 ---
 title: C# HTML to SQL - HTML to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. HTML to SQL in C#. C# Convert HTML to SQL saveformat. C# HTML to SQL format. Save HTML to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., HTML to SQL in C#., C# HTML to SQL saveformat., HTML to SQL C#., C# Convert HTML to SQL]
+description: Aspose Excel. Convert HTML to SQL quickly and easily with Aspose.Cells. C# HTML to SQL. C# Save HTML to SQL. Save HTML as SQL using C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to SQL in C#., Save HTML to SQL using C#., C# HTML to SQL saveformat., HTML to SQL Converter., C# Save HTML as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

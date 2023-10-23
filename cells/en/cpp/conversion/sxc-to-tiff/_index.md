@@ -1,7 +1,7 @@
 ---
 title: C++ SXC to TIFF - SXC to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. SXC to TIFF in C++. C++ Convert SXC to TIFF saveformat. C++ SXC to TIFF format. Save SXC to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., SXC to TIFF in C++., C++ SXC to TIFF saveformat., SXC to TIFF C++., C++ Convert SXC to TIFF]
+description: Aspose Excel. Convert SXC to TIFF quickly and easily with Aspose.Cells. C++ SXC to TIFF. C++ Save SXC to TIFF. Save SXC as TIFF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to TIFF in C++., Save SXC to TIFF using C++., C++ SXC to TIFF saveformat., SXC to TIFF Converter., C++ Save SXC as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

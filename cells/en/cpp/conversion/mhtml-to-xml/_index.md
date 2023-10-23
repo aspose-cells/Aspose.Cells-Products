@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML to XML - MHTML to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. MHTML to XML in C++. C++ Convert MHTML to XML saveformat. C++ MHTML to XML format. Save MHTML to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., MHTML to XML in C++., C++ MHTML to XML saveformat., MHTML to XML C++., C++ Convert MHTML to XML]
+description: Aspose Excel. Convert MHTML to XML quickly and easily with Aspose.Cells. C++ MHTML to XML. C++ Save MHTML to XML. Save MHTML as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to XML in C++., Save MHTML to XML using C++., C++ MHTML to XML saveformat., MHTML to XML Converter., C++ Save MHTML as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

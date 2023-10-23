@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to XLTX - XLAM to XLTX Converter
-description: PHP Aspose.Cells. XLAM to XLTX in PHP. PHP Convert XLAM to XLTX saveformat. PHP XLAM to XLTX Converter. Save XLAM to XLTX PHP.
-keywords: [PHP Aspose.Cells., XLAM to XLTX in PHP., PHP XLAM to XLTX saveformat., XLAM to XLTX PHP., PHP Convert XLAM to XLTX., Save XLAM to XLTX PHP., XLAM to XLTX Converter., Save XLAM as XLTX]
+description: Aspose Excel. Convert XLAM to XLTX quickly and easily with Aspose.Cells. PHP XLAM to XLTX. PHP Save XLAM to XLTX. Save XLAM as XLTX using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to XLTX in PHP., Save XLAM to XLTX using PHP., PHP XLAM to XLTX saveformat., XLAM to XLTX Converter., PHP Save XLAM as XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

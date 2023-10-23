@@ -1,7 +1,7 @@
 ---
 title: C++ FODS to MD - FODS to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. FODS to MD in C++. C++ Convert FODS to MD saveformat. C++ FODS to MD format. Save FODS to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., FODS to MD in C++., C++ FODS to MD saveformat., FODS to MD C++., C++ Convert FODS to MD]
+description: Aspose Excel. Convert FODS to MD quickly and easily with Aspose.Cells. C++ FODS to MD. C++ Save FODS to MD. Save FODS as MD using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to MD in C++., Save FODS to MD using C++., C++ FODS to MD saveformat., FODS to MD Converter., C++ Save FODS as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

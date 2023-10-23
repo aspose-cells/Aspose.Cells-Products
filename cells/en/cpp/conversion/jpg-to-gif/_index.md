@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to GIF - JPG to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to GIF in C++. C++ Convert JPG to GIF saveformat. C++ JPG to GIF format. Save JPG to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to GIF in C++., C++ JPG to GIF saveformat., JPG to GIF C++., C++ Convert JPG to GIF]
+description: Aspose Excel. Convert JPG to GIF quickly and easily with Aspose.Cells. C++ JPG to GIF. C++ Save JPG to GIF. Save JPG as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to GIF in C++., Save JPG to GIF using C++., C++ JPG to GIF saveformat., JPG to GIF Converter., C++ Save JPG as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

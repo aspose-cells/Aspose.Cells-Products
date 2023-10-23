@@ -1,7 +1,7 @@
 ---
 title: C++ XLT to SQL - XLT to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. XLT to SQL in C++. C++ Convert XLT to SQL saveformat. C++ XLT to SQL format. Save XLT to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLT to SQL in C++., C++ XLT to SQL saveformat., XLT to SQL C++., C++ Convert XLT to SQL]
+description: Aspose Excel. Convert XLT to SQL quickly and easily with Aspose.Cells. C++ XLT to SQL. C++ Save XLT to SQL. Save XLT as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to SQL in C++., Save XLT to SQL using C++., C++ XLT to SQL saveformat., XLT to SQL Converter., C++ Save XLT as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

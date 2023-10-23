@@ -1,7 +1,7 @@
 ---
 title: Python PRN to MD - PRN to MD Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to MD in Python. Python Convert PRN to MD saveformat. Python PRN to MD format. Save PRN to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to MD in Python., Python PRN to MD saveformat., PRN to MD Python., Python Convert PRN to MD]
+description: Aspose Excel. Convert PRN to MD quickly and easily with Aspose.Cells. Python PRN to MD. Python Save PRN to MD. Save PRN as MD using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to MD in Python., Save PRN to MD using Python., Python PRN to MD saveformat., PRN to MD Converter., Python Save PRN as MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

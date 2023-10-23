@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to SVG - MHTML to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. MHTML to SVG in Java. Java Convert MHTML to SVG saveformat. Java MHTML to SVG format. Save MHTML to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., MHTML to SVG in Java., Java MHTML to SVG saveformat., MHTML to SVG Java., Java Convert MHTML to SVG]
+description: Aspose Excel. Convert MHTML to SVG quickly and easily with Aspose.Cells. Java MHTML to SVG. Java Save MHTML to SVG. Save MHTML as SVG using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to SVG in Java., Save MHTML to SVG using Java., Java MHTML to SVG saveformat., MHTML to SVG Converter., Java Save MHTML as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

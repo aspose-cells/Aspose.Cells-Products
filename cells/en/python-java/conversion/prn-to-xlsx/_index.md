@@ -1,7 +1,7 @@
 ---
 title: Python PRN to XLSX - PRN to XLSX Converter
-description: Aspose Excel. Python Aspose.Cells. PRN to XLSX in Python. Python Convert PRN to XLSX saveformat. Python PRN to XLSX format. Save PRN to XLSX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PRN to XLSX in Python., Python PRN to XLSX saveformat., PRN to XLSX Python., Python Convert PRN to XLSX]
+description: Aspose Excel. Convert PRN to XLSX quickly and easily with Aspose.Cells. Python PRN to XLSX. Python Save PRN to XLSX. Save PRN as XLSX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to XLSX in Python., Save PRN to XLSX using Python., Python PRN to XLSX saveformat., PRN to XLSX Converter., Python Save PRN as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

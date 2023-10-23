@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to XLS - EXCEL to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. EXCEL to XLS in Java. Java Convert EXCEL to XLS saveformat. Java EXCEL to XLS format. Save EXCEL to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., EXCEL to XLS in Java., Java EXCEL to XLS saveformat., EXCEL to XLS Java., Java Convert EXCEL to XLS]
+description: Aspose Excel. Convert EXCEL to XLS quickly and easily with Aspose.Cells. Java EXCEL to XLS. Java Save EXCEL to XLS. Save EXCEL as XLS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to XLS in Java., Save EXCEL to XLS using Java., Java EXCEL to XLS saveformat., EXCEL to XLS Converter., Java Save EXCEL as XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

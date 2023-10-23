@@ -1,7 +1,7 @@
 ---
 title: PHP XML to TXT - XML to TXT Converter
-description: PHP Aspose.Cells. XML to TXT in PHP. PHP Convert XML to TXT saveformat. PHP XML to TXT Converter. Save XML to TXT PHP.
-keywords: [PHP Aspose.Cells., XML to TXT in PHP., PHP XML to TXT saveformat., XML to TXT PHP., PHP Convert XML to TXT., Save XML to TXT PHP., XML to TXT Converter., Save XML as TXT]
+description: Aspose Excel. Convert XML to TXT quickly and easily with Aspose.Cells. PHP XML to TXT. PHP Save XML to TXT. Save XML as TXT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to TXT in PHP., Save XML to TXT using PHP., PHP XML to TXT saveformat., XML to TXT Converter., PHP Save XML as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

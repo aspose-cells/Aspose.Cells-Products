@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to MHT - TABDELIMITED to MHT Converter
-description: PHP Aspose.Cells. TABDELIMITED to MHT in PHP. PHP Convert TABDELIMITED to MHT saveformat. PHP TABDELIMITED to MHT Converter. Save TABDELIMITED to MHT PHP.
-keywords: [PHP Aspose.Cells., TABDELIMITED to MHT in PHP., PHP TABDELIMITED to MHT saveformat., TABDELIMITED to MHT PHP., PHP Convert TABDELIMITED to MHT., Save TABDELIMITED to MHT PHP., TABDELIMITED to MHT Converter., Save TABDELIMITED as MHT]
+description: Aspose Excel. Convert TABDELIMITED to MHT quickly and easily with Aspose.Cells. PHP TABDELIMITED to MHT. PHP Save TABDELIMITED to MHT. Save TABDELIMITED as MHT using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to MHT in PHP., Save TABDELIMITED to MHT using PHP., PHP TABDELIMITED to MHT saveformat., TABDELIMITED to MHT Converter., PHP Save TABDELIMITED as MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to SXC - JSON to SXC Converter
-description: PHP Aspose.Cells. JSON to SXC in PHP. PHP Convert JSON to SXC saveformat. PHP JSON to SXC Converter. Save JSON to SXC PHP.
-keywords: [PHP Aspose.Cells., JSON to SXC in PHP., PHP JSON to SXC saveformat., JSON to SXC PHP., PHP Convert JSON to SXC., Save JSON to SXC PHP., JSON to SXC Converter., Save JSON as SXC]
+description: Aspose Excel. Convert JSON to SXC quickly and easily with Aspose.Cells. PHP JSON to SXC. PHP Save JSON to SXC. Save JSON as SXC using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to SXC in PHP., Save JSON to SXC using PHP., PHP JSON to SXC saveformat., JSON to SXC Converter., PHP Save JSON as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

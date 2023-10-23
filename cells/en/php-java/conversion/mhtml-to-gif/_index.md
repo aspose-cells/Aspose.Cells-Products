@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to GIF - MHTML to GIF Converter
-description: PHP Aspose.Cells. MHTML to GIF in PHP. PHP Convert MHTML to GIF saveformat. PHP MHTML to GIF Converter. Save MHTML to GIF PHP.
-keywords: [PHP Aspose.Cells., MHTML to GIF in PHP., PHP MHTML to GIF saveformat., MHTML to GIF PHP., PHP Convert MHTML to GIF., Save MHTML to GIF PHP., MHTML to GIF Converter., Save MHTML as GIF]
+description: Aspose Excel. Convert MHTML to GIF quickly and easily with Aspose.Cells. PHP MHTML to GIF. PHP Save MHTML to GIF. Save MHTML as GIF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to GIF in PHP., Save MHTML to GIF using PHP., PHP MHTML to GIF saveformat., MHTML to GIF Converter., PHP Save MHTML as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

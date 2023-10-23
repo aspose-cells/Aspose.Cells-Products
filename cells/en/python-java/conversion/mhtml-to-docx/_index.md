@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to DOCX - MHTML to DOCX Converter
-description: Aspose Excel. Python Aspose.Cells. MHTML to DOCX in Python. Python Convert MHTML to DOCX saveformat. Python MHTML to DOCX format. Save MHTML to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., MHTML to DOCX in Python., Python MHTML to DOCX saveformat., MHTML to DOCX Python., Python Convert MHTML to DOCX]
+description: Aspose Excel. Convert MHTML to DOCX quickly and easily with Aspose.Cells. Python MHTML to DOCX. Python Save MHTML to DOCX. Save MHTML as DOCX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to DOCX in Python., Save MHTML to DOCX using Python., Python MHTML to DOCX saveformat., MHTML to DOCX Converter., Python Save MHTML as DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

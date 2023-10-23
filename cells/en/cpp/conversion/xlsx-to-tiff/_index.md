@@ -1,7 +1,7 @@
 ---
 title: C++ XLSX to TIFF - XLSX to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. XLSX to TIFF in C++. C++ Convert XLSX to TIFF saveformat. C++ XLSX to TIFF format. Save XLSX to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., XLSX to TIFF in C++., C++ XLSX to TIFF saveformat., XLSX to TIFF C++., C++ Convert XLSX to TIFF]
+description: Aspose Excel. Convert XLSX to TIFF quickly and easily with Aspose.Cells. C++ XLSX to TIFF. C++ Save XLSX to TIFF. Save XLSX as TIFF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to TIFF in C++., Save XLSX to TIFF using C++., C++ XLSX to TIFF saveformat., XLSX to TIFF Converter., C++ Save XLSX as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

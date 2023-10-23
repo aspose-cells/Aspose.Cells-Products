@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to HTM - JPEG to HTM Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to HTM in C++. C++ Convert JPEG to HTM saveformat. C++ JPEG to HTM format. Save JPEG to HTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to HTM in C++., C++ JPEG to HTM saveformat., JPEG to HTM C++., C++ Convert JPEG to HTM]
+description: Aspose Excel. Convert JPEG to HTM quickly and easily with Aspose.Cells. C++ JPEG to HTM. C++ Save JPEG to HTM. Save JPEG as HTM using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to HTM in C++., Save JPEG to HTM using C++., C++ JPEG to HTM saveformat., JPEG to HTM Converter., C++ Save JPEG as HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

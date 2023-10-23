@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to ET - XLAM to ET Converter
-description: PHP Aspose.Cells. XLAM to ET in PHP. PHP Convert XLAM to ET saveformat. PHP XLAM to ET Converter. Save XLAM to ET PHP.
-keywords: [PHP Aspose.Cells., XLAM to ET in PHP., PHP XLAM to ET saveformat., XLAM to ET PHP., PHP Convert XLAM to ET., Save XLAM to ET PHP., XLAM to ET Converter., Save XLAM as ET]
+description: Aspose Excel. Convert XLAM to ET quickly and easily with Aspose.Cells. PHP XLAM to ET. PHP Save XLAM to ET. Save XLAM as ET using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to ET in PHP., Save XLAM to ET using PHP., PHP XLAM to ET saveformat., XLAM to ET Converter., PHP Save XLAM as ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

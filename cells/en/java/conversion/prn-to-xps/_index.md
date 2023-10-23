@@ -1,7 +1,7 @@
 ---
 title: Java PRN to XPS - PRN to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. PRN to XPS in Java. Java Convert PRN to XPS saveformat. Java PRN to XPS format. Save PRN to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., PRN to XPS in Java., Java PRN to XPS saveformat., PRN to XPS Java., Java Convert PRN to XPS]
+description: Aspose Excel. Convert PRN to XPS quickly and easily with Aspose.Cells. Java PRN to XPS. Java Save PRN to XPS. Save PRN as XPS using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XPS in Java., Save PRN to XPS using Java., Java PRN to XPS saveformat., PRN to XPS Converter., Java Save PRN as XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

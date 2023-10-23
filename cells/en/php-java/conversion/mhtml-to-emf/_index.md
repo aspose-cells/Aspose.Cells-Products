@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to EMF - MHTML to EMF Converter
-description: PHP Aspose.Cells. MHTML to EMF in PHP. PHP Convert MHTML to EMF saveformat. PHP MHTML to EMF Converter. Save MHTML to EMF PHP.
-keywords: [PHP Aspose.Cells., MHTML to EMF in PHP., PHP MHTML to EMF saveformat., MHTML to EMF PHP., PHP Convert MHTML to EMF., Save MHTML to EMF PHP., MHTML to EMF Converter., Save MHTML as EMF]
+description: Aspose Excel. Convert MHTML to EMF quickly and easily with Aspose.Cells. PHP MHTML to EMF. PHP Save MHTML to EMF. Save MHTML as EMF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to EMF in PHP., Save MHTML to EMF using PHP., PHP MHTML to EMF saveformat., MHTML to EMF Converter., PHP Save MHTML as EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Java JPG to POWERPOINT - JPG to POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. JPG to POWERPOINT in Java. Java Convert JPG to POWERPOINT saveformat. Java JPG to POWERPOINT format. Save JPG to POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., JPG to POWERPOINT in Java., Java JPG to POWERPOINT saveformat., JPG to POWERPOINT Java., Java Convert JPG to POWERPOINT]
+description: Aspose Excel. Convert JPG to POWERPOINT quickly and easily with Aspose.Cells. Java JPG to POWERPOINT. Java Save JPG to POWERPOINT. Save JPG as POWERPOINT using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to POWERPOINT in Java., Save JPG to POWERPOINT using Java., Java JPG to POWERPOINT saveformat., JPG to POWERPOINT Converter., Java Save JPG as POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

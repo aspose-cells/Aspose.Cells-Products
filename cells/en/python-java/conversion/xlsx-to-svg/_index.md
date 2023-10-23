@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to SVG - XLSX to SVG Converter
-description: Aspose Excel. Python Aspose.Cells. XLSX to SVG in Python. Python Convert XLSX to SVG saveformat. Python XLSX to SVG format. Save XLSX to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., XLSX to SVG in Python., Python XLSX to SVG saveformat., XLSX to SVG Python., Python Convert XLSX to SVG]
+description: Aspose Excel. Convert XLSX to SVG quickly and easily with Aspose.Cells. Python XLSX to SVG. Python Save XLSX to SVG. Save XLSX as SVG using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to SVG in Python., Save XLSX to SVG using Python., Python XLSX to SVG saveformat., XLSX to SVG Converter., Python Save XLSX as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

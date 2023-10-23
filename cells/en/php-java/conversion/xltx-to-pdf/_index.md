@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to PDF - XLTX to PDF Converter
-description: PHP Aspose.Cells. XLTX to PDF in PHP. PHP Convert XLTX to PDF saveformat. PHP XLTX to PDF Converter. Save XLTX to PDF PHP.
-keywords: [PHP Aspose.Cells., XLTX to PDF in PHP., PHP XLTX to PDF saveformat., XLTX to PDF PHP., PHP Convert XLTX to PDF., Save XLTX to PDF PHP., XLTX to PDF Converter., Save XLTX as PDF]
+description: Aspose Excel. Convert XLTX to PDF quickly and easily with Aspose.Cells. PHP XLTX to PDF. PHP Save XLTX to PDF. Save XLTX as PDF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to PDF in PHP., Save XLTX to PDF using PHP., PHP XLTX to PDF saveformat., XLTX to PDF Converter., PHP Save XLTX as PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

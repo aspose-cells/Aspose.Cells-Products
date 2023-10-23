@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to TIFF - MHTML to TIFF Converter
-description: PHP Aspose.Cells. MHTML to TIFF in PHP. PHP Convert MHTML to TIFF saveformat. PHP MHTML to TIFF Converter. Save MHTML to TIFF PHP.
-keywords: [PHP Aspose.Cells., MHTML to TIFF in PHP., PHP MHTML to TIFF saveformat., MHTML to TIFF PHP., PHP Convert MHTML to TIFF., Save MHTML to TIFF PHP., MHTML to TIFF Converter., Save MHTML as TIFF]
+description: Aspose Excel. Convert MHTML to TIFF quickly and easily with Aspose.Cells. PHP MHTML to TIFF. PHP Save MHTML to TIFF. Save MHTML as TIFF using PHP.
+keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TIFF in PHP., Save MHTML to TIFF using PHP., PHP MHTML to TIFF saveformat., MHTML to TIFF Converter., PHP Save MHTML as TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

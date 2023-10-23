@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLSX - PNG to XLSX Converter
-description: Aspose Excel. Python Aspose.Cells. PNG to XLSX in Python. Python Convert PNG to XLSX saveformat. Python PNG to XLSX format. Save PNG to XLSX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., PNG to XLSX in Python., Python PNG to XLSX saveformat., PNG to XLSX Python., Python Convert PNG to XLSX]
+description: Aspose Excel. Convert PNG to XLSX quickly and easily with Aspose.Cells. Python PNG to XLSX. Python Save PNG to XLSX. Save PNG as XLSX using Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to XLSX in Python., Save PNG to XLSX using Python., Python PNG to XLSX saveformat., PNG to XLSX Converter., Python Save PNG as XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

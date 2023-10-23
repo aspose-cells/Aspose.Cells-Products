@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to XLAM - XLTX to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. XLTX to XLAM in Java. Java Convert XLTX to XLAM saveformat. Java XLTX to XLAM format. Save XLTX to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., XLTX to XLAM in Java., Java XLTX to XLAM saveformat., XLTX to XLAM Java., Java Convert XLTX to XLAM]
+description: Aspose Excel. Convert XLTX to XLAM quickly and easily with Aspose.Cells. Java XLTX to XLAM. Java Save XLTX to XLAM. Save XLTX as XLAM using Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to XLAM in Java., Save XLTX to XLAM using Java., Java XLTX to XLAM saveformat., XLTX to XLAM Converter., Java Save XLTX as XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

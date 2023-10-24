@@ -3,6 +3,7 @@ title: Edit or View XLSM Files Metadata via Java
 weight: 9030
 
 description: Java sample code to edit or view XLSM format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java view xlsm metadata., Java add xlsm metadata., Java insert xlsm metadata., Java edit xlsm metadata., Java remove xlsm metadata., Java extract xlsm metadata., Java modify xlsm metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

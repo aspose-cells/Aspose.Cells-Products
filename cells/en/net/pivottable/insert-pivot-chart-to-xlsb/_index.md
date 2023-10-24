@@ -2,7 +2,8 @@
 title: Insert Pivot Chart in Micorsoft Excel XLSB files via C# 
 weight: 7690
 
-description: C# Sample code for generating XLSB documents with pivot chart. Use this code for creating Micorsoft Excel XLSB files with pivot chart within VB.NET, Asp.NET or any .NET based application.
+description: C# Sample code for adding Pivot Chart to XLSB using .NET Library. Use this code for inserting Pivot Chart to XLSB file within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,9 +14,7 @@ description: C# Sample code for generating XLSB documents with pivot chart. Use 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generating MS Excel XLSB file with Pivot Chart dynamically within running application is easy. In order to create XLSB documents with Pivot Chart from scratch without requiring MS Office, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
+ Generating MS Excel XLSB file with Pivot Chart dynamically within running application is easy. In order to create XLSB documents with Pivot Chart from scratch without requiring MS Office, we’ll use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

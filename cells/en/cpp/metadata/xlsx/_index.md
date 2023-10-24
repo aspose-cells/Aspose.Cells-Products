@@ -3,6 +3,7 @@ title: Edit or View XLSX Document Metadata via C++
 weight: 8970
 
 description: C++ example code to edit or view XLSX file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ view xlsx metadata., C++ add xlsx metadata., C++ insert xlsx metadata., C++ edit xlsx metadata., C++ remove xlsx metadata., C++ extract xlsx metadata., C++ modify xlsx metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

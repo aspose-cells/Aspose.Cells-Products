@@ -2,7 +2,8 @@
 title: Insert Pivot Chart in Micorsoft Excel XLSX files via C# 
 weight: 7690
 
-description: C# Sample code for generating XLSX documents with pivot chart. Use this code for creating Micorsoft Excel XLSX files with pivot chart within VB.NET, Asp.NET or any .NET based application.
+description: C# Sample code for adding Pivot Chart to XLSX using .NET Library. Use this code for inserting Pivot Chart to XLSX file within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart in xlsx., c# create pivot chart in xlsx., c# modify pivot chart in xlsx., access pivot chart in xlsx]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,9 +14,7 @@ description: C# Sample code for generating XLSX documents with pivot chart. Use 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generating MS Excel XLSX file with Pivot Chart dynamically within running application is easy. In order to create XLSX documents with Pivot Chart from scratch without requiring MS Office, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
+ Generating MS Excel XLSX file with Pivot Chart dynamically within running application is easy. In order to create XLSX documents with Pivot Chart from scratch without requiring MS Office, we’ll use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

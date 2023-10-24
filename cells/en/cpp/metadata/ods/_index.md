@@ -3,6 +3,7 @@ title: Edit or View ODS Document Metadata via C++
 weight: 1000
 
 description: C++ example code to edit or view ODS file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ view ods metadata., C++ add ods metadata., C++ insert ods metadata., C++ edit ods metadata., C++ remove ods metadata., C++ extract ods metadata., C++ modify ods metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Manage Excel File Metadata via .NET C#
 
 description: View, add, edit, remove or extract Excel files metadata with just few lines of C# code
+keywords: [C# Aspose.Cells., c# view excel metadata., c# add excel metadata., c# insert excel metadata., c# edit excel metadata., c# remove excel metadata., c# extract excel metadata., c# modify excel metadata]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

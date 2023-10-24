@@ -3,6 +3,7 @@ title: View or Edit XLSM Files Metadata via .NET
 weight: 5590
 
 description: C# source code to edit or view XLSM format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsm metadata., c# add xlsm metadata., c# insert xlsm metadata., c# edit xlsm metadata., c# remove xlsm metadata., c# extract xlsm metadata., c# modify xlsm metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

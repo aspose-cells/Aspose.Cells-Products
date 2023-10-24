@@ -3,6 +3,7 @@ title: Edit or View XLSB Files Metadata via Java
 weight: 7290
 
 description: Java sample code to edit or view XLSB format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java view xlsb metadata., Java add xlsb metadata., Java insert xlsb metadata., Java edit xlsb metadata., Java remove xlsb metadata., Java extract xlsb metadata., Java modify xlsb metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

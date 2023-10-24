@@ -2,7 +2,8 @@
 title: Insert PivotTable in Micorsoft Excel XLSX files via C# 
 weight: 7690
 
-description: C# Sample code for generating XLSX documents with PivotTable. Use this code for creating Micorsoft Excel XLSX files with PivotTable within VB.NET, Asp.NET or any .NET based application.
+description: C# Sample code for adding PivotTable to XLSX using .NET Library. Use this code for inserting PivotTable to XLSX file within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in xlsx., c# create PivotTable in xlsx., c# modify PivotTable in xlsx., access PivotTable in xlsx., c# add pivot table in xlsx., c# insert pivot table in xlsx., c# create pivot table in xlsx., c# modify pivot table in xlsx., access pivot table in xlsx]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,9 +14,7 @@ description: C# Sample code for generating XLSX documents with PivotTable. Use t
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generating MS Excel XLSX file with PivotTable dynamically within running application is easy. In order to create XLSX documents with PivotTable from scratch without requiring MS Office, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
+ Generating MS Excel XLSX file with PivotTable dynamically within running application is easy. In order to create XLSX documents with PivotTable from scratch without requiring MS Office, we’ll use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

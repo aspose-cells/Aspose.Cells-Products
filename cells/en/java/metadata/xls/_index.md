@@ -3,6 +3,7 @@ title: Edit or View XLS Files Metadata via Java
 weight: 730
 
 description: Java sample code to edit or view XLS format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java view xls metadata., Java add xls metadata., Java insert xls metadata., Java edit xls metadata., Java remove xls metadata., Java extract xls metadata., Java modify xls metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

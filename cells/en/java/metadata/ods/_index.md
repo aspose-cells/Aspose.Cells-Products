@@ -3,6 +3,7 @@ title: Edit or View ODS Files Metadata via Java
 weight: 2080
 
 description: Java sample code to edit or view ODS format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java view ods metadata., Java add ods metadata., Java insert ods metadata., Java edit ods metadata., Java remove ods metadata., Java extract ods metadata., Java modify ods metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -32,13 +32,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document editing with
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs can be done with just few lines of code.
+ A basic document editing with [Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Include the namespace in your class file
+1.  Load your sample file.
+1.  Add and access the new worksheet of the workbook.
+1.  Get the desired cell(s) of the worksheet and put the value in the cell(s).
+1.  Insert PivotTable and set the style
+1.  Use Save method to save the workbook as XLTX file.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -58,10 +61,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Edit XLTX Files - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xltx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

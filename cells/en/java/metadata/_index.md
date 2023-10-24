@@ -2,6 +2,7 @@
 title: Manage Excel File Metadata via Java
 
 description: View, add, edit, remove or extract Excel files metadata with just few lines of Java code
+keywords: [Java Aspose.Cells., Java view excel metadata., Java add excel metadata., Java insert excel metadata., Java edit excel metadata., Java remove excel metadata., Java extract excel metadata., Java modify excel metadata]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

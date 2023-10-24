@@ -3,6 +3,7 @@ title: View or Edit XLSB Files Metadata via .NET
 weight: 7890
 
 description: C# source code to edit or view XLSB format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

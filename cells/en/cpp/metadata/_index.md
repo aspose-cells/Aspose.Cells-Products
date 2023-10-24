@@ -2,6 +2,7 @@
 title: Manage Excel File Metadata via C++
 
 description: View, add, edit, remove or extract Excel files metadata using C++ library
+keywords: [C++ Aspose.Cells., C++ view excel metadata., C++ add excel metadata., C++ insert excel metadata., C++ edit excel metadata., C++ remove excel metadata., C++ extract excel metadata., C++ modify excel metadata]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

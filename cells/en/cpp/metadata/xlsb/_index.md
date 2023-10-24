@@ -3,6 +3,7 @@ title: Edit or View XLSB Document Metadata via C++
 weight: 4820
 
 description: C++ example code to edit or view XLSB file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ view xlsb metadata., C++ add xlsb metadata., C++ insert xlsb metadata., C++ edit xlsb metadata., C++ remove xlsb metadata., C++ extract xlsb metadata., C++ modify xlsb metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

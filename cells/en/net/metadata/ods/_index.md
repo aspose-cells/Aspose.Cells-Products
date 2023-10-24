@@ -3,6 +3,7 @@ title: View or Edit ODS Files Metadata via .NET
 weight: 320
 
 description: C# source code to edit or view ODS format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view ods metadata., c# add ods metadata., c# insert ods metadata., c# edit ods metadata., c# remove ods metadata., c# extract ods metadata., c# modify ods metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

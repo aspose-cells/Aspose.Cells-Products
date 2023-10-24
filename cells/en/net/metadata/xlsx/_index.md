@@ -3,6 +3,7 @@ title: View or Edit XLSX Files Metadata via .NET
 weight: 3430
 
 description: C# source code to edit or view XLSX format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsx metadata., c# add xlsx metadata., c# insert xlsx metadata., c# edit xlsx metadata., c# remove xlsx metadata., c# extract xlsx metadata., c# modify xlsx metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

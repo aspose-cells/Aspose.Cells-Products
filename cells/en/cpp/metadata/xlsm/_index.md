@@ -3,6 +3,7 @@ title: Edit or View XLSM Document Metadata via C++
 weight: 1300
 
 description: C++ example code to edit or view XLSM file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ view xlsm metadata., C++ add xlsm metadata., C++ insert xlsm metadata., C++ edit xlsm metadata., C++ remove xlsm metadata., C++ extract xlsm metadata., C++ modify xlsm metadata]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

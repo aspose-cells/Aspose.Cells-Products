@@ -1,7 +1,7 @@
 ---
 title: Create PNG - Create PNG file in C#
-description: Aspose Excel. C# Create PNG File. Create PNG C#. C# PNG Creater. Create PNG in C#. Generate PNG file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create PNG C#., C# PNG Creater., Create PNG file in C#., Generate PNG file in C#]
+description: Aspose Excel. C# Create PNG File quickly and easily with Aspose.Cells. Generate PNG file using C#. Create PNG in C#. C# PNG Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create PNG file., Generate PNG file in C#., Create PNG file using C#., Write data to PNG file via C#., Create a PNG file in C#., C# Generate a PNG file., C# PNG Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

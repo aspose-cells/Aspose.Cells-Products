@@ -1,7 +1,7 @@
 ---
 title: Create TIFF - Create TIFF file in Python
-description: Aspose Excel. Python Create TIFF File. Create TIFF Python. Python TIFF Creater. Create TIFF in Python. Generate TIFF file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create TIFF Python., Python TIFF Creater., Create TIFF file in Python., Generate TIFF file in Python]
+description: Aspose Excel. Python Create TIFF File quickly and easily with Aspose.Cells. Generate TIFF file using Python. Create TIFF in Python. Python TIFF Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create TIFF file., Generate TIFF file in Python., Create TIFF file using Python., Write data to TIFF file via Python., Create a TIFF file in Python., Python Generate a TIFF file., Python TIFF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

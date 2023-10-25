@@ -1,7 +1,7 @@
 ---
 title: Create ETT - Create ETT file in C++
-description: Aspose Excel. C++ Create ETT File. Create ETT C++. C++ ETT Creater. Create ETT in C++. Generate ETT file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create ETT C++., C++ ETT Creater., Create ETT file in C++., Generate ETT file in C++]
+description: Aspose Excel. C++ Create ETT File quickly and easily with Aspose.Cells. Generate ETT file using C++. Create ETT in C++. C++ ETT Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ETT file., Generate ETT file in C++., Create ETT file using C++., Write data to ETT file via C++., Create a ETT file in C++., C++ Generate a ETT file., C++ ETT Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MD - Create MD file in C++
-description: Aspose Excel. C++ Create MD File. Create MD C++. C++ MD Creater. Create MD in C++. Generate MD file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create MD C++., C++ MD Creater., Create MD file in C++., Generate MD file in C++]
+description: Aspose Excel. C++ Create MD File quickly and easily with Aspose.Cells. Generate MD file using C++. Create MD in C++. C++ MD Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MD file., Generate MD file in C++., Create MD file using C++., Write data to MD file via C++., Create a MD file in C++., C++ Generate a MD file., C++ MD Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

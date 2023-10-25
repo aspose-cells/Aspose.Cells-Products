@@ -1,7 +1,7 @@
 ---
 title: Create BMP - Create BMP file in Java
-description: Aspose Excel. Java Create BMP File. Create BMP Java. Java BMP Creater. Create BMP in Java. Generate BMP file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create BMP Java., Java BMP Creater., Create BMP file in Java., Generate BMP file in Java]
+description: Aspose Excel. Java Create BMP File quickly and easily with Aspose.Cells. Generate BMP file using Java. Create BMP in Java. Java BMP Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create BMP file., Generate BMP file in Java., Create BMP file using Java., Write data to BMP file via Java., Create a BMP file in Java., Java Generate a BMP file., Java BMP Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

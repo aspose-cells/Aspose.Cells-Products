@@ -1,7 +1,7 @@
 ---
 title: Create ETT - Create ETT file in Python
-description: Aspose Excel. Python Create ETT File. Create ETT Python. Python ETT Creater. Create ETT in Python. Generate ETT file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create ETT Python., Python ETT Creater., Create ETT file in Python., Generate ETT file in Python]
+description: Aspose Excel. Python Create ETT File quickly and easily with Aspose.Cells. Generate ETT file using Python. Create ETT in Python. Python ETT Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ETT file., Generate ETT file in Python., Create ETT file using Python., Write data to ETT file via Python., Create a ETT file in Python., Python Generate a ETT file., Python ETT Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

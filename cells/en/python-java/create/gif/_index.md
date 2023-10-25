@@ -1,7 +1,7 @@
 ---
 title: Create GIF - Create GIF file in Python
-description: Aspose Excel. Python Create GIF File. Create GIF Python. Python GIF Creater. Create GIF in Python. Generate GIF file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create GIF Python., Python GIF Creater., Create GIF file in Python., Generate GIF file in Python]
+description: Aspose Excel. Python Create GIF File quickly and easily with Aspose.Cells. Generate GIF file using Python. Create GIF in Python. Python GIF Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create GIF file., Generate GIF file in Python., Create GIF file using Python., Write data to GIF file via Python., Create a GIF file in Python., Python Generate a GIF file., Python GIF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

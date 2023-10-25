@@ -1,7 +1,7 @@
 ---
 title: Create XLT - Create XLT file in Python
-description: Aspose Excel. Python Create XLT File. Create XLT Python. Python XLT Creater. Create XLT in Python. Generate XLT file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLT Python., Python XLT Creater., Create XLT file in Python., Generate XLT file in Python]
+description: Aspose Excel. Python Create XLT File quickly and easily with Aspose.Cells. Generate XLT file using Python. Create XLT in Python. Python XLT Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLT file., Generate XLT file in Python., Create XLT file using Python., Write data to XLT file via Python., Create a XLT file in Python., Python Generate a XLT file., Python XLT Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

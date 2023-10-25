@@ -1,7 +1,7 @@
 ---
 title: Create MHTML - Create MHTML file in C#
-description: Aspose Excel. C# Create MHTML File. Create MHTML C#. C# MHTML Creater. Create MHTML in C#. Generate MHTML file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create MHTML C#., C# MHTML Creater., Create MHTML file in C#., Generate MHTML file in C#]
+description: Aspose Excel. C# Create MHTML File quickly and easily with Aspose.Cells. Generate MHTML file using C#. Create MHTML in C#. C# MHTML Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create MHTML file., Generate MHTML file in C#., Create MHTML file using C#., Write data to MHTML file via C#., Create a MHTML file in C#., C# Generate a MHTML file., C# MHTML Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

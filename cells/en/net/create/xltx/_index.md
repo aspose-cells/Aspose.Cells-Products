@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in C#
-description: Aspose Excel. C# Create XLTX File. Create XLTX C#. C# XLTX Creater. Create XLTX in C#. Generate XLTX file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create XLTX C#., C# XLTX Creater., Create XLTX file in C#., Generate XLTX file in C#]
+description: Aspose Excel. C# Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using C#. Create XLTX in C#. C# XLTX Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLTX file., Generate XLTX file in C#., Create XLTX file using C#., Write data to XLTX file via C#., Create a XLTX file in C#., C# Generate a XLTX file., C# XLTX Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

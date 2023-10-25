@@ -1,7 +1,7 @@
 ---
 title: Create XLAM - Create XLAM file in C#
-description: Aspose Excel. C# Create XLAM File. Create XLAM C#. C# XLAM Creater. Create XLAM in C#. Generate XLAM file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create XLAM C#., C# XLAM Creater., Create XLAM file in C#., Generate XLAM file in C#]
+description: Aspose Excel. C# Create XLAM File quickly and easily with Aspose.Cells. Generate XLAM file using C#. Create XLAM in C#. C# XLAM Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLAM file., Generate XLAM file in C#., Create XLAM file using C#., Write data to XLAM file via C#., Create a XLAM file in C#., C# Generate a XLAM file., C# XLAM Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

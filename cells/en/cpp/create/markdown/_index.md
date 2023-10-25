@@ -1,7 +1,7 @@
 ---
 title: Create MARKDOWN - Create MARKDOWN file in C++
-description: Aspose Excel. C++ Create MARKDOWN File. Create MARKDOWN C++. C++ MARKDOWN Creater. Create MARKDOWN in C++. Generate MARKDOWN file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create MARKDOWN C++., C++ MARKDOWN Creater., Create MARKDOWN file in C++., Generate MARKDOWN file in C++]
+description: Aspose Excel. C++ Create MARKDOWN File quickly and easily with Aspose.Cells. Generate MARKDOWN file using C++. Create MARKDOWN in C++. C++ MARKDOWN Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MARKDOWN file., Generate MARKDOWN file in C++., Create MARKDOWN file using C++., Write data to MARKDOWN file via C++., Create a MARKDOWN file in C++., C++ Generate a MARKDOWN file., C++ MARKDOWN Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

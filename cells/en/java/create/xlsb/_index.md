@@ -1,7 +1,7 @@
 ---
 title: Create XLSB - Create XLSB file in Java
-description: Aspose Excel. Java Create XLSB File. Create XLSB Java. Java XLSB Creater. Create XLSB in Java. Generate XLSB file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLSB Java., Java XLSB Creater., Create XLSB file in Java., Generate XLSB file in Java]
+description: Aspose Excel. Java Create XLSB File quickly and easily with Aspose.Cells. Generate XLSB file using Java. Create XLSB in Java. Java XLSB Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLSB file., Generate XLSB file in Java., Create XLSB file using Java., Write data to XLSB file via Java., Create a XLSB file in Java., Java Generate a XLSB file., Java XLSB Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

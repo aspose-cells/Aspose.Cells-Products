@@ -1,7 +1,7 @@
 ---
 title: Create XLSB - Create XLSB file in C#
-description: Aspose Excel. C# Create XLSB File. Create XLSB C#. C# XLSB Creater. Create XLSB in C#. Generate XLSB file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create XLSB C#., C# XLSB Creater., Create XLSB file in C#., Generate XLSB file in C#]
+description: Aspose Excel. C# Create XLSB File quickly and easily with Aspose.Cells. Generate XLSB file using C#. Create XLSB in C#. C# XLSB Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLSB file., Generate XLSB file in C#., Create XLSB file using C#., Write data to XLSB file via C#., Create a XLSB file in C#., C# Generate a XLSB file., C# XLSB Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

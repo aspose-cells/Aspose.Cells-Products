@@ -1,7 +1,7 @@
 ---
 title: Create SQL - Create SQL file in Java
-description: Aspose Excel. Java Create SQL File. Create SQL Java. Java SQL Creater. Create SQL in Java. Generate SQL file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create SQL Java., Java SQL Creater., Create SQL file in Java., Generate SQL file in Java]
+description: Aspose Excel. Java Create SQL File quickly and easily with Aspose.Cells. Generate SQL file using Java. Create SQL in Java. Java SQL Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SQL file., Generate SQL file in Java., Create SQL file using Java., Write data to SQL file via Java., Create a SQL file in Java., Java Generate a SQL file., Java SQL Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

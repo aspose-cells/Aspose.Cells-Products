@@ -1,7 +1,7 @@
 ---
 title: Create XLAM - Create XLAM file in Python
-description: Aspose Excel. Python Create XLAM File. Create XLAM Python. Python XLAM Creater. Create XLAM in Python. Generate XLAM file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM Creater., Create XLAM file in Python., Generate XLAM file in Python]
+description: Aspose Excel. Python Create XLAM File quickly and easily with Aspose.Cells. Generate XLAM file using Python. Create XLAM in Python. Python XLAM Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLAM file., Generate XLAM file in Python., Create XLAM file using Python., Write data to XLAM file via Python., Create a XLAM file in Python., Python Generate a XLAM file., Python XLAM Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MD - Create MD file in Java
-description: Aspose Excel. Java Create MD File. Create MD Java. Java MD Creater. Create MD in Java. Generate MD file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MD Java., Java MD Creater., Create MD file in Java., Generate MD file in Java]
+description: Aspose Excel. Java Create MD File quickly and easily with Aspose.Cells. Generate MD file using Java. Create MD in Java. Java MD Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MD file., Generate MD file in Java., Create MD file using Java., Write data to MD file via Java., Create a MD file in Java., Java Generate a MD file., Java MD Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

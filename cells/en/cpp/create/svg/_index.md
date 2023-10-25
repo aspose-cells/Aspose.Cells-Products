@@ -1,7 +1,7 @@
 ---
 title: Create SVG - Create SVG file in C++
-description: Aspose Excel. C++ Create SVG File. Create SVG C++. C++ SVG Creater. Create SVG in C++. Generate SVG file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create SVG C++., C++ SVG Creater., Create SVG file in C++., Generate SVG file in C++]
+description: Aspose Excel. C++ Create SVG File quickly and easily with Aspose.Cells. Generate SVG file using C++. Create SVG in C++. C++ SVG Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SVG file., Generate SVG file in C++., Create SVG file using C++., Write data to SVG file via C++., Create a SVG file in C++., C++ Generate a SVG file., C++ SVG Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

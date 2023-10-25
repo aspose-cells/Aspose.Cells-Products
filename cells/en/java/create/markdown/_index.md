@@ -1,7 +1,7 @@
 ---
 title: Create MARKDOWN - Create MARKDOWN file in Java
-description: Aspose Excel. Java Create MARKDOWN File. Create MARKDOWN Java. Java MARKDOWN Creater. Create MARKDOWN in Java. Generate MARKDOWN file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MARKDOWN Java., Java MARKDOWN Creater., Create MARKDOWN file in Java., Generate MARKDOWN file in Java]
+description: Aspose Excel. Java Create MARKDOWN File quickly and easily with Aspose.Cells. Generate MARKDOWN file using Java. Create MARKDOWN in Java. Java MARKDOWN Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MARKDOWN file., Generate MARKDOWN file in Java., Create MARKDOWN file using Java., Write data to MARKDOWN file via Java., Create a MARKDOWN file in Java., Java Generate a MARKDOWN file., Java MARKDOWN Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

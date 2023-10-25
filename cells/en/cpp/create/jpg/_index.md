@@ -1,7 +1,7 @@
 ---
 title: Create JPG - Create JPG file in C++
-description: Aspose Excel. C++ Create JPG File. Create JPG C++. C++ JPG Creater. Create JPG in C++. Generate JPG file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create JPG C++., C++ JPG Creater., Create JPG file in C++., Generate JPG file in C++]
+description: Aspose Excel. C++ Create JPG File quickly and easily with Aspose.Cells. Generate JPG file using C++. Create JPG in C++. C++ JPG Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPG file., Generate JPG file in C++., Create JPG file using C++., Write data to JPG file via C++., Create a JPG file in C++., C++ Generate a JPG file., C++ JPG Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

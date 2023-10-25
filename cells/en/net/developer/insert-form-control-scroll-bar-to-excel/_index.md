@@ -3,6 +3,7 @@ title: Insert ScrollBar into Excel via .NET
 weight: 90
 
 description: C# source code to insert ScrollBar into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add ScrollBar into Excel., c# insert ScrollBar into Excel., c# create ScrollBar in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

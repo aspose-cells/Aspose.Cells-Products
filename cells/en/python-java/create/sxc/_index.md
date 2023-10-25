@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in Python
-description: Aspose Excel. Python Create SXC File. Create SXC Python. Python SXC Creater. Create SXC in Python. Generate SXC file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SXC Python., Python SXC Creater., Create SXC file in Python., Generate SXC file in Python]
+description: Aspose Excel. Python Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using Python. Create SXC in Python. Python SXC Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python., Create SXC file using Python., Write data to SXC file via Python., Create a SXC file in Python., Python Generate a SXC file., Python SXC Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

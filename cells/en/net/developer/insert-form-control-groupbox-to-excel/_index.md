@@ -3,6 +3,7 @@ title: Insert GroupBox into Excel via .NET
 weight: 40
 
 description: C# source code to insert GroupBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add GroupBox into Excel., c# insert GroupBox into Excel., c# create GroupBox in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

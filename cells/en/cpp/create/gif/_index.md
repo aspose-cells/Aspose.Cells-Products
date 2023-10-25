@@ -1,7 +1,7 @@
 ---
 title: Create GIF - Create GIF file in C++
-description: Aspose Excel. C++ Create GIF File. Create GIF C++. C++ GIF Creater. Create GIF in C++. Generate GIF file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create GIF C++., C++ GIF Creater., Create GIF file in C++., Generate GIF file in C++]
+description: Aspose Excel. C++ Create GIF File quickly and easily with Aspose.Cells. Generate GIF file using C++. Create GIF in C++. C++ GIF Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create GIF file., Generate GIF file in C++., Create GIF file using C++., Write data to GIF file via C++., Create a GIF file in C++., C++ Generate a GIF file., C++ GIF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

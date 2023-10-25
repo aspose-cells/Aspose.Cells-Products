@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in C#
-description: Aspose Excel. C# Create SXC File. Create SXC C#. C# SXC Creater. Create SXC in C#. Generate SXC file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create SXC C#., C# SXC Creater., Create SXC file in C#., Generate SXC file in C#]
+description: Aspose Excel. C# Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using C#. Create SXC in C#. C# SXC Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create SXC file., Generate SXC file in C#., Create SXC file using C#., Write data to SXC file via C#., Create a SXC file in C#., C# Generate a SXC file., C# SXC Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MARKDOWN - Create MARKDOWN file in Python
-description: Aspose Excel. Python Create MARKDOWN File. Create MARKDOWN Python. Python MARKDOWN Creater. Create MARKDOWN in Python. Generate MARKDOWN file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MARKDOWN Python., Python MARKDOWN Creater., Create MARKDOWN file in Python., Generate MARKDOWN file in Python]
+description: Aspose Excel. Python Create MARKDOWN File quickly and easily with Aspose.Cells. Generate MARKDOWN file using Python. Create MARKDOWN in Python. Python MARKDOWN Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MARKDOWN file., Generate MARKDOWN file in Python., Create MARKDOWN file using Python., Write data to MARKDOWN file via Python., Create a MARKDOWN file in Python., Python Generate a MARKDOWN file., Python MARKDOWN Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

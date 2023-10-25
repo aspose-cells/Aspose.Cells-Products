@@ -1,7 +1,7 @@
 ---
 title: Create XLSX - Create XLSX file in Java
-description: Aspose Excel. Java Create XLSX File. Create XLSX Java. Java XLSX Creater. Create XLSX in Java. Generate XLSX file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLSX Java., Java XLSX Creater., Create XLSX file in Java., Generate XLSX file in Java]
+description: Aspose Excel. Java Create XLSX File quickly and easily with Aspose.Cells. Generate XLSX file using Java. Create XLSX in Java. Java XLSX Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLSX file., Generate XLSX file in Java., Create XLSX file using Java., Write data to XLSX file via Java., Create a XLSX file in Java., Java Generate a XLSX file., Java XLSX Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

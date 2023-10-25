@@ -1,7 +1,7 @@
 ---
 title: Create XLTM - Create XLTM file in C#
-description: Aspose Excel. C# Create XLTM File. Create XLTM C#. C# XLTM Creater. Create XLTM in C#. Generate XLTM file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create XLTM C#., C# XLTM Creater., Create XLTM file in C#., Generate XLTM file in C#]
+description: Aspose Excel. C# Create XLTM File quickly and easily with Aspose.Cells. Generate XLTM file using C#. Create XLTM in C#. C# XLTM Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLTM file., Generate XLTM file in C#., Create XLTM file using C#., Write data to XLTM file via C#., Create a XLTM file in C#., C# Generate a XLTM file., C# XLTM Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

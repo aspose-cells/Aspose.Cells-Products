@@ -3,6 +3,7 @@ title: Insert CheckBox into Excel via .NET
 weight: 30
 
 description: C# source code to insert CheckBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add CheckBox into Excel., c# insert CheckBox into Excel., c# create CheckBox in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

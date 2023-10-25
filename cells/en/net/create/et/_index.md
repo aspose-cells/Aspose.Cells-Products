@@ -1,7 +1,7 @@
 ---
 title: Create ET - Create ET file in C#
-description: Aspose Excel. C# Create ET File. Create ET C#. C# ET Creater. Create ET in C#. Generate ET file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create ET C#., C# ET Creater., Create ET file in C#., Generate ET file in C#]
+description: Aspose Excel. C# Create ET File quickly and easily with Aspose.Cells. Generate ET file using C#. Create ET in C#. C# ET Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create ET file., Generate ET file in C#., Create ET file using C#., Write data to ET file via C#., Create a ET file in C#., C# Generate a ET file., C# ET Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

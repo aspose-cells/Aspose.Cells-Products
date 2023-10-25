@@ -3,6 +3,7 @@ title: Insert spin button into Excel via .NET
 weight: 40
 
 description: C# source code to insert spin button into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add spin button into Excel., c# insert spin button into Excel., c# create spin button in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

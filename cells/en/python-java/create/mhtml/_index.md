@@ -1,7 +1,7 @@
 ---
 title: Create MHTML - Create MHTML file in Python
-description: Aspose Excel. Python Create MHTML File. Create MHTML Python. Python MHTML Creater. Create MHTML in Python. Generate MHTML file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHTML Creater., Create MHTML file in Python., Generate MHTML file in Python]
+description: Aspose Excel. Python Create MHTML File quickly and easily with Aspose.Cells. Generate MHTML file using Python. Create MHTML in Python. Python MHTML Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHTML file., Generate MHTML file in Python., Create MHTML file using Python., Write data to MHTML file via Python., Create a MHTML file in Python., Python Generate a MHTML file., Python MHTML Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

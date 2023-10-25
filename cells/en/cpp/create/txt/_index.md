@@ -1,7 +1,7 @@
 ---
 title: Create TXT - Create TXT file in C++
-description: Aspose Excel. C++ Create TXT File. Create TXT C++. C++ TXT Creater. Create TXT in C++. Generate TXT file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create TXT C++., C++ TXT Creater., Create TXT file in C++., Generate TXT file in C++]
+description: Aspose Excel. C++ Create TXT File quickly and easily with Aspose.Cells. Generate TXT file using C++. Create TXT in C++. C++ TXT Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TXT file., Generate TXT file in C++., Create TXT file using C++., Write data to TXT file via C++., Create a TXT file in C++., C++ Generate a TXT file., C++ TXT Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

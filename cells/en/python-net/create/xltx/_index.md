@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in Python
-description: Aspose Excel. Python Create XLTX File. Create XLTX Python. Python XLTX Creater. Create XLTX in Python. Generate XLTX file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX Creater., Create XLTX file in Python., Generate XLTX file in Python]
+description: Aspose Excel. Python Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using Python. Create XLTX in Python. Python XLTX Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Create XLTX file using Python., Write data to XLTX file via Python., Create a XLTX file in Python., Python Generate a XLTX file., Python XLTX Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

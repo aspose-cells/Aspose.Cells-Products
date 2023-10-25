@@ -3,6 +3,7 @@ title: Insert Button into Excel via .NET
 weight: 10
 
 description: C# source code to insert button into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add button into Excel., c# insert button into Excel., c# create button in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create EMF - Create EMF file in C++
-description: Aspose Excel. C++ Create EMF File. Create EMF C++. C++ EMF Creater. Create EMF in C++. Generate EMF file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create EMF C++., C++ EMF Creater., Create EMF file in C++., Generate EMF file in C++]
+description: Aspose Excel. C++ Create EMF File quickly and easily with Aspose.Cells. Generate EMF file using C++. Create EMF in C++. C++ EMF Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Create EMF file using C++., Write data to EMF file via C++., Create a EMF file in C++., C++ Generate a EMF file., C++ EMF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create JPEG - Create JPEG file in Python
-description: Aspose Excel. Python Create JPEG File. Create JPEG Python. Python JPEG Creater. Create JPEG in Python. Generate JPEG file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create JPEG Python., Python JPEG Creater., Create JPEG file in Python., Generate JPEG file in Python]
+description: Aspose Excel. Python Create JPEG File quickly and easily with Aspose.Cells. Generate JPEG file using Python. Create JPEG in Python. Python JPEG Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JPEG file., Generate JPEG file in Python., Create JPEG file using Python., Write data to JPEG file via Python., Create a JPEG file in Python., Python Generate a JPEG file., Python JPEG Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

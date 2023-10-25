@@ -1,7 +1,7 @@
 ---
 title: Create DIF - Create DIF file in Java
-description: Aspose Excel. Java Create DIF File. Create DIF Java. Java DIF Creater. Create DIF in Java. Generate DIF file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create DIF Java., Java DIF Creater., Create DIF file in Java., Generate DIF file in Java]
+description: Aspose Excel. Java Create DIF File quickly and easily with Aspose.Cells. Generate DIF file using Java. Create DIF in Java. Java DIF Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create DIF file., Generate DIF file in Java., Create DIF file using Java., Write data to DIF file via Java., Create a DIF file in Java., Java Generate a DIF file., Java DIF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

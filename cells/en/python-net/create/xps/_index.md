@@ -1,7 +1,7 @@
 ---
 title: Create XPS - Create XPS file in Python
-description: Aspose Excel. Python Create XPS File. Create XPS Python. Python XPS Creater. Create XPS in Python. Generate XPS file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XPS Python., Python XPS Creater., Create XPS file in Python., Generate XPS file in Python]
+description: Aspose Excel. Python Create XPS File quickly and easily with Aspose.Cells. Generate XPS file using Python. Create XPS in Python. Python XPS Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XPS file., Generate XPS file in Python., Create XPS file using Python., Write data to XPS file via Python., Create a XPS file in Python., Python Generate a XPS file., Python XPS Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

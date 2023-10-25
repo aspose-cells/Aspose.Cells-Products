@@ -1,7 +1,7 @@
 ---
 title: Create FODS - Create FODS file in C#
-description: Aspose Excel. C# Create FODS File. Create FODS C#. C# FODS Creater. Create FODS in C#. Generate FODS file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create FODS C#., C# FODS Creater., Create FODS file in C#., Generate FODS file in C#]
+description: Aspose Excel. C# Create FODS File quickly and easily with Aspose.Cells. Generate FODS file using C#. Create FODS in C#. C# FODS Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create FODS file., Generate FODS file in C#., Create FODS file using C#., Write data to FODS file via C#., Create a FODS file in C#., C# Generate a FODS file., C# FODS Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

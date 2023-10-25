@@ -1,7 +1,7 @@
 ---
 title: Create XLSX - Create XLSX file in C#
-description: Aspose Excel. C# Create XLSX File. Create XLSX C#. C# XLSX Creater. Create XLSX in C#. Generate XLSX file using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Create XLSX C#., C# XLSX Creater., Create XLSX file in C#., Generate XLSX file in C#]
+description: Aspose Excel. C# Create XLSX File quickly and easily with Aspose.Cells. Generate XLSX file using C#. Create XLSX in C#. C# XLSX Creater. 
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLSX file., Generate XLSX file in C#., Create XLSX file using C#., Write data to XLSX file via C#., Create a XLSX file in C#., C# Generate a XLSX file., C# XLSX Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

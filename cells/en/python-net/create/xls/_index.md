@@ -1,7 +1,7 @@
 ---
 title: Create XLS - Create XLS file in Python
-description: Aspose Excel. Python Create XLS File. Create XLS Python. Python XLS Creater. Create XLS in Python. Generate XLS file using Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLS Python., Python XLS Creater., Create XLS file in Python., Generate XLS file in Python]
+description: Aspose Excel. Python Create XLS File quickly and easily with Aspose.Cells. Generate XLS file using Python. Create XLS in Python. Python XLS Creater. 
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLS file., Generate XLS file in Python., Create XLS file using Python., Write data to XLS file via Python., Create a XLS file in Python., Python Generate a XLS file., Python XLS Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create ETT - Create ETT file in Java
-description: Aspose Excel. Java Create ETT File. Create ETT Java. Java ETT Creater. Create ETT in Java. Generate ETT file using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create ETT Java., Java ETT Creater., Create ETT file in Java., Generate ETT file in Java]
+description: Aspose Excel. Java Create ETT File quickly and easily with Aspose.Cells. Generate ETT file using Java. Create ETT in Java. Java ETT Creater. 
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create ETT file., Generate ETT file in Java., Create ETT file using Java., Write data to ETT file via Java., Create a ETT file in Java., Java Generate a ETT file., Java ETT Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

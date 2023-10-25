@@ -1,7 +1,7 @@
 ---
 title: Create DIF - Create DIF file in C++
-description: Aspose Excel. C++ Create DIF File. Create DIF C++. C++ DIF Creater. Create DIF in C++. Generate DIF file using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create DIF C++., C++ DIF Creater., Create DIF file in C++., Generate DIF file in C++]
+description: Aspose Excel. C++ Create DIF File quickly and easily with Aspose.Cells. Generate DIF file using C++. Create DIF in C++. C++ DIF Creater. 
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create DIF file., Generate DIF file in C++., Create DIF file using C++., Write data to DIF file via C++., Create a DIF file in C++., C++ Generate a DIF file., C++ DIF Creater]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

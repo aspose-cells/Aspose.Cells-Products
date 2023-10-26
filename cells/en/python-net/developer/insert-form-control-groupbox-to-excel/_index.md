@@ -3,6 +3,7 @@ title: Insert GroupBox(Form control) into Excel using Python via .Net
 weight: 40
 
 description: Python via .Net source code to insert GroupBox(Form control) into Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add GroupBox into Excel., Python via .Net insert GroupBox into Excel., Python via .Net create GroupBox in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

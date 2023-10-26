@@ -3,6 +3,7 @@ title: Search ODS document without opening via C++
 weight: 3300
 
 description: C++ example code to search words with pattern in ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in ods file., C++ find words with pattern in ods file., C++ search string with pattern in ods file., C++ find words with pattern in ods file., C++ search words in ods file., C++ find words in ods file., C++ search string in ods file., C++ find string in ods file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

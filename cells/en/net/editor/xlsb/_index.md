@@ -2,6 +2,7 @@
 title: Edit XLSB files via .NET 
 
 description: C# source code to edit XLSB document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xlsb document., c# load xlsb file., c# modify xlsb file., c# save file to xlsb format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

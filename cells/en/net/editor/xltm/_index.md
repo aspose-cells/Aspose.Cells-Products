@@ -2,6 +2,7 @@
 title: Edit XLTM files via .NET 
 
 description: C# source code to edit XLTM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xltm document., c# load xltm file., c# modify xltm file., c# save file to xltm format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Insert ActiveX Control into Excel using Python via Java
 weight: 10
 
 description: Python via Java source code to insert ActiveX Control into Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add ActiveX Control into Excel., Python via Java insert ActiveX Control into Excel., Python via Java create ActiveX Control in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Search CSV document without opening via C++
 weight: 5540
 
 description: C++ example code to search words with pattern in CSV file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in csv file., C++ find words with pattern in csv file., C++ search string with pattern in csv file., C++ find words with pattern in csv file., C++ search words in csv file., C++ find words in csv file., C++ search string in csv file., C++ find string in csv file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

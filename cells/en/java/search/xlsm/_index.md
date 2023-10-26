@@ -3,7 +3,9 @@ title: Search XLSM document without opening via Java
 weight: 6780
 
 description: Java sample code to search words with pattern in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in xlsm file., Java find words with pattern in xlsm file., Java search string with pattern in xlsm file., Java find words with pattern in xlsm file., Java search words in xlsm file., Java find words in xlsm file., Java search string in xlsm file., Java find string in xlsm file]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Search XLSM Formats in Java" h2="Native and high performance XLSM document search using server-side Aspose.Cells for Java APIs, without the use of any software like Microsoft or Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

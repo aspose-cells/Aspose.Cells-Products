@@ -3,6 +3,7 @@ title: Search TSV document without opening via Java
 weight: 4940
 
 description: Java sample code to search words with pattern in TSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in tsv file., Java find words with pattern in tsv file., Java search string with pattern in tsv file., Java find words with pattern in tsv file., Java search words in tsv file., Java find words in tsv file., Java search string in tsv file., Java find string in tsv file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

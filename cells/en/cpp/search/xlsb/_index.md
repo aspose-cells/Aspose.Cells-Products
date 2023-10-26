@@ -3,6 +3,7 @@ title: Search XLSB document without opening via C++
 weight: 7020
 
 description: C++ example code to search words with pattern in XLSB file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in xlsb file., C++ find words with pattern in xlsb file., C++ search string with pattern in xlsb file., C++ find words with pattern in xlsb file., C++ search words in xlsb file., C++ find words in xlsb file., C++ search string in xlsb file., C++ find string in xlsb file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

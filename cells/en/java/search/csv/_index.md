@@ -3,6 +3,7 @@ title: Search CSV document without opening via Java
 weight: 390
 
 description: Java sample code to search words with pattern in CSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in csv file., Java find words with pattern in csv file., Java search string with pattern in csv file., Java find words with pattern in csv file., Java search words in csv file., Java find words in csv file., Java search string in csv file., Java find string in csv file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

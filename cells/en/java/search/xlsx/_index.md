@@ -3,6 +3,7 @@ title: Search XLSX document without opening via Java
 weight: 6780
 
 description: Java sample code to search words with pattern in XLSX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

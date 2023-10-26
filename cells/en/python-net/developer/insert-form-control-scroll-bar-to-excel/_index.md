@@ -3,6 +3,7 @@ title: Insert ScrollBar(Form control) into Excel using Python via .Net
 weight: 90
 
 description: Python via .Net source code to insert ScrollBar(Form control) into Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ScrollBar into Excel., Python via .Net insert ScrollBar into Excel., Python via .Net create ScrollBar in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Search CSV document without opening via .NET
 weight: 7510
 
 description: C# source code to search words with pattern in CSV file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in csv file., c# find words with pattern in csv file., c# search string with pattern in csv file., c# find words with pattern in csv file., c# search words in csv file., c# find words in csv file., c# search string in csv file., c# find string in csv file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

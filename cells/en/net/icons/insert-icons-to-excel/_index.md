@@ -3,6 +3,7 @@ title: Insert SVG images/Icons into Excel via .NET
 weight: 110
 
 description: C# source code to insert SVG images/Icons into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add SVG images/Icons into Excel., c# insert SVG images/Icons into Excel., c# create SVG images/Icons in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

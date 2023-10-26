@@ -3,6 +3,7 @@ title: Search XLSB document without opening via Java
 weight: 9420
 
 description: Java sample code to search words with pattern in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in xlsb file., Java find words with pattern in xlsb file., Java search string with pattern in xlsb file., Java find words with pattern in xlsb file., Java search words in xlsb file., Java find words in xlsb file., Java search string in xlsb file., Java find string in xlsb file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

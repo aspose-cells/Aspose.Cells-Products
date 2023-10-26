@@ -2,6 +2,7 @@
 title: Edit XLT files via .NET 
 
 description: C# source code to edit XLT document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xlt document., c# load xlt file., c# modify xlt file., c# save file to xlt format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

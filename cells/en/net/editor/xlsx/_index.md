@@ -2,6 +2,7 @@
 title: Edit XLSX files via .NET 
 
 description: C# source code to edit XLSX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xlsx document., c# load xlsx file., c# modify xlsx file., c# save file to xlsx format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Insert SVG images/Icons into Excel using Python via .Net
 weight: 200
 
 description: Python via .Net source code to insert SVG images/Icons into Excel.
+keywords: [Python via .NET Aspose.Cells., Python via .NET add SVG images/Icons into Excel., Python via .NET insert SVG images/Icons into Excel., Python via .NET create SVG images/Icons in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -122,7 +123,7 @@ Aspose.Cells API capable of building cross-platform applications ,can be used to
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

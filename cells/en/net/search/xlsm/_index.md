@@ -3,6 +3,7 @@ title: Search XLSM document without opening via .NET
 weight: 4880
 
 description: C# source code to search words with pattern in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsm file., c# find words with pattern in xlsm file., c# search string with pattern in xlsm file., c# find words with pattern in xlsm file., c# search words in xlsm file., c# find words in xlsm file., c# search string in xlsm file., c# find string in xlsm file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

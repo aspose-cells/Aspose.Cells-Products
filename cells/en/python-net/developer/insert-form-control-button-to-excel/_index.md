@@ -3,6 +3,7 @@ title: Insert Button(Form control) into Excel using Python via .Net
 weight: 200
 
 description: Python via .Net source code to insert Button(Form control) into Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add button into Excel., Python via .Net insert button into Excel., Python via .Net create button in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

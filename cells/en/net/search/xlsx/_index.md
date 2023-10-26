@@ -3,6 +3,7 @@ title: Search XLSX document without opening via .NET
 weight: 4880
 
 description: C# source code to search words with pattern in XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in XLSX file., c# find words with pattern in XLSX file., c# search string with pattern in XLSX file., c# find words with pattern in XLSX file., c# search words in excel file., c# find words in excel file., c# search string in excel file., c# find string in excel file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

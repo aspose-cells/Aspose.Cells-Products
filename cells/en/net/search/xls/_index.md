@@ -3,6 +3,7 @@ title: Search XLS document without opening via .NET
 weight: 1490
 
 description: C# source code to search words with pattern in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in xls file., c# find words with pattern in xls file., c# search string with pattern in xls file., c# find words with pattern in xls file., c# search words in xls file., c# find words in xls file., c# search string in xls file., c# find string in xls file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

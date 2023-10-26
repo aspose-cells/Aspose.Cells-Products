@@ -3,6 +3,7 @@ title: Search ODS document without opening via .NET
 weight: 160
 
 description: C# source code to search words with pattern in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in ods file., c# find words with pattern in ods file., c# search string with pattern in ods file., c# find words with pattern in ods file., c# search words in ods file., c# find words in ods file., c# search string in ods file., c# find string in ods file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

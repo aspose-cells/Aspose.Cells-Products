@@ -3,6 +3,7 @@ title: Search TXT document without opening via .NET
 weight: 8410
 
 description: C# source code to search words with pattern in TXT file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in txt file., c# find words with pattern in txt file., c# search string with pattern in txt file., c# find words with pattern in txt file., c# search words in txt file., c# find words in txt file., c# search string in txt file., c# find string in txt file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

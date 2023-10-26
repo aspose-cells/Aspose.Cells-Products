@@ -3,6 +3,7 @@ title: Search ODS document without opening via Java
 weight: 8140
 
 description: Java sample code to search words with pattern in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in ods file., Java find words with pattern in ods file., Java search string with pattern in ods file., Java find words with pattern in ods file., Java search words in ods file., Java find words in ods file., Java search string in ods file., Java find string in ods file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Get Images/Pictures Size In Excel via .NET
 weight: 10
 
 description: C# source code to get Images/Pictures size in Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

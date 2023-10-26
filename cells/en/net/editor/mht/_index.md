@@ -2,6 +2,7 @@
 title: Edit MHT files via .NET 
 
 description: C# source code to edit MHT document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit mht document., c# load mht file., c# modify mht file., c# save file to mht format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

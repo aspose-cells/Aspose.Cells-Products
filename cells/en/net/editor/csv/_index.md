@@ -2,6 +2,7 @@
 title: Edit CSV files via .NET 
 
 description: C# source code to edit CSV document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit csv document., c# load csv file., c# modify csv file., c# save file to csv format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

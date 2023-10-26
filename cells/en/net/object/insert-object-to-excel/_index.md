@@ -3,6 +3,7 @@ title: Insert OLE object into Excel via .NET
 weight: 170
 
 description: C# source code to insert OLE object into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add OLE object into Excel., c# insert OLE object into Excel., c# create OLE object in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

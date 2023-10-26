@@ -2,6 +2,7 @@
 title: Edit XLSM files via .NET 
 
 description: C# source code to edit XLSM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xlsm document., c# load xlsm file., c# modify xlsm file., c# save file to xlsm format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

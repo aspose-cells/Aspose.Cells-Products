@@ -3,6 +3,7 @@ title: Search TXT document without opening via Java
 weight: 1200
 
 description: Java sample code to search words with pattern in TXT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in txt file., Java find words with pattern in txt file., Java search string with pattern in txt file., Java find words with pattern in txt file., Java search words in txt file., Java find words in txt file., Java search string in txt file., Java find string in txt file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

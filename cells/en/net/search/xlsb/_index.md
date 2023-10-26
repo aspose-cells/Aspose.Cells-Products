@@ -3,6 +3,7 @@ title: Search XLSB document without opening via .NET
 weight: 8880
 
 description: C# source code to search words with pattern in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

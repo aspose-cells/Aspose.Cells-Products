@@ -3,7 +3,9 @@ title: Get Images/Pictures Size In Excel via Java
 weight: 10
 
 description: Gets Images/Pictures size in Excel using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Get Images/Pictures Size In Excel via Java" h2="Using Aspose.Cells' API to work with various objects without any software like Microsoft or Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

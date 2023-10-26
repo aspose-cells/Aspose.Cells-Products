@@ -2,6 +2,7 @@
 title: Edit XLS files via .NET 
 
 description: C# source code to edit XLS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xls document., c# load xls file., c# modify xls file., c# save file to xls format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

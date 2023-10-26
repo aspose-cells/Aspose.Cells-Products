@@ -3,6 +3,7 @@ title: Search XLSX document without opening via C++
 weight: 9280
 
 description: C++ example code to search words with pattern in XLSX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

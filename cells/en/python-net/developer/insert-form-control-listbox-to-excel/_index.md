@@ -3,6 +3,7 @@ title: Insert ListBox(Form control) into Excel using Python via .Net
 weight: 50
 
 description: Python via .Net source code to insert ListBox(Form control) into Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ListBox into Excel., Python via .Net insert ListBox into Excel., Python via .Net create ListBox in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

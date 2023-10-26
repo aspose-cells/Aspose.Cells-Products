@@ -2,6 +2,7 @@
 title: Edit ODS files via .NET 
 
 description: C# source code to edit ODS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit ods document., c# load ods file., c# modify ods file., c# save file to ods format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

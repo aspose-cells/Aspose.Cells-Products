@@ -3,6 +3,7 @@ title: Insert picture into Excel via .NET
 weight: 200
 
 description: C# source code to insert picture into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# add picture into Excel., c# insert picture into Excel., c# create picture in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

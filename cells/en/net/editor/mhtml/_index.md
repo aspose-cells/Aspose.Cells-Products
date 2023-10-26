@@ -2,6 +2,7 @@
 title: Edit MHTML files via .NET 
 
 description: C# source code to edit MHTML document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit mhtml document., c# load mhtml file., c# modify mhtml file., c# save file to mhtml format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

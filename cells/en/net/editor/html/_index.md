@@ -2,6 +2,7 @@
 title: Edit HTML files via .NET 
 
 description: C# source code to edit HTML document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit html document., c# load html file., c# modify html file., c# save file to html format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

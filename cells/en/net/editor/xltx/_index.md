@@ -2,6 +2,7 @@
 title: Edit XLTX files via .NET 
 
 description: C# source code to edit XLTX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit xltx document., c# load xltx file., c# modify xltx file., c# save file to xltx format]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Insert ActiveX Control into Excel using Python via .Net
 weight: 10
 
 description: Python via .Net source code to insert ActiveX Control into Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ActiveX Control into Excel., Python via .Net insert ActiveX Control into Excel., Python via .Net create ActiveX Control in Excel]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,8 +2,10 @@
 title: Insert Star/Banner into Excel via .NET 
 weight: 381
 
-description: C# source code to insert Star/Banner into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert Star/Banner into Excel using .NET Library. Use this code to create Star/Banner in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add Star/Banner., c# insert Star/Banner., c# create Star/Banner]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Insert Star/Banner into Excel via .NET" h2="Insert Star/Banner using Aspose.Cells' API without any software like Microsoft or Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

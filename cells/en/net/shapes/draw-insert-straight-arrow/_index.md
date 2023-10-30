@@ -2,7 +2,8 @@
 title: How do I draw or insert straight arrow into Excel via .NET 
 weight: 10
 
-description: C# source code to draw or insert straight arrow into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert straight arrow into Excel using .NET Library. Use this code to create straight arrow in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add straight arrow., c# insert straight arrow., c# create straight arrow]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

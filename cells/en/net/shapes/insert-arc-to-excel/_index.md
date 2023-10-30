@@ -2,7 +2,8 @@
 title: Insert Arc into Excel via .NET 
 weight: 337
 
-description: C# source code to insert Arc into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert arc shape into Excel using .NET Library. Use this code to create arc shape in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add arc shape., c# insert arc shape., c# create arc shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

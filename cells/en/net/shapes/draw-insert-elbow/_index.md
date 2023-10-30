@@ -2,7 +2,8 @@
 title: How to draw or insert elbow shape into Excel via .NET 
 weight: 101
 
-description: C# source code to draw or insert elbow shape into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert elbow shape into Excel using .NET Library. Use this code to create elbow shape in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add elbow shape., c# insert elbow shape., c# create elbow shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

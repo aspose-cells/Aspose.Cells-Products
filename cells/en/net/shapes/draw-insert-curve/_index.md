@@ -2,7 +2,8 @@
 title: How to draw or insert curved shape into Excel via .NET 
 weight: 101
 
-description: C# source code to draw or insert curved shape into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert curved shape into Excel using .NET Library. Use this code to create curved shape in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add curved shape., c# insert curved shape., c# create curved shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

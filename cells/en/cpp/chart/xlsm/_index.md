@@ -3,6 +3,7 @@ title: XLSM document chart via C++
 weight: 8510
 
 description: C++ example code to draw and convert chart or diagram in XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsm., C++ Save chart to image in xlsm., C++ chart to image in xlsm., xlsm convert chart to image in C++., xlsm save chart to imagein C++., xlsm chart to image in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

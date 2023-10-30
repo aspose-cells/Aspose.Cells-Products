@@ -3,6 +3,7 @@ title: ODS document chart via Java
 weight: 2240
 
 description: Java sample code to draw and convert chart or diagram in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Convert chart to image in ods., Java Save chart to image in ods., Java chart to image in ods., ods convert chart to image in Java., ods save chart to image in Java., ods chart to image in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

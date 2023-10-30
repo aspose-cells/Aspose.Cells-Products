@@ -2,8 +2,10 @@
 title: Insert Equation Shapes into Excel via .NET 
 weight: 360
 
-description: C# source code to insert Equation Shapes into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert equation shapes into Excel using .NET Library. Use this code to create equation shapes in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add equation shapes., c# insert equation shapes., c# create equation shapes]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Insert Equation Shapes into Excel via .NET" h2="Insert Equation Shapes using Aspose.Cells' API without any software like Microsoft or Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

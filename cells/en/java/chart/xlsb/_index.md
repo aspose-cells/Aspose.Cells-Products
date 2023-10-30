@@ -3,6 +3,7 @@ title: XLSB document chart via Java
 weight: 670
 
 description: Java sample code to draw and convert chart or diagram in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsb., Java Save chart to image in xlsb., Java chart to image in xlsb., xlsb convert chart to image in Java., xlsb save chart to imagein Java., xlsb chart to image in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

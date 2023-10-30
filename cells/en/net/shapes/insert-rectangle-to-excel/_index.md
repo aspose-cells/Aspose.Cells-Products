@@ -2,7 +2,8 @@
 title: Insert rectangle into Excel via .NET 
 weight: 240
 
-description: C# source code to insert rectangle into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to add or insert Rectangle into Excel using .NET Library. Use this code to create Rectangle in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add Rectangle., c# insert Rectangle., c# create Rectangle]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

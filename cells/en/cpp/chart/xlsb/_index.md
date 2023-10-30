@@ -3,6 +3,7 @@ title: XLSB document chart via C++
 weight: 5200
 
 description: C++ example code to draw and convert chart or diagram in XLSB file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsb., C++ Save chart to image in xlsb., C++ chart to image in xlsb., xlsb convert chart to image in C++., xlsb save chart to imagein C++., xlsb chart to image in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

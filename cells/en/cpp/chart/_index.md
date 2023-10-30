@@ -2,7 +2,9 @@
 title: Create Excel Charts and Convert to Images via C++
 
 description: C++ source code to draw and convert chart or diagram in Microsoft Excel using C++ Library
+keywords: [C++ Aspose.Cells., C++ Convert chart to image., C++ Save chart to image., C++ chart to image., create charts in C++., insert charts in C++., manage charts in C++]
 ---
+
 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Create Microsoft<sup>&reg;</sup> Excel Charts and Convert to Images via C++" h2="Convert Excel document charts to images as well as create charts including Pie, Pyramid, Line and Bubble charts within C++ based applications." >}}

@@ -1,8 +1,10 @@
 ---
 title: Insert shapes in Excel via .NET
 
-description: C# source codes that how to insert a shape into Microsoft Excel files using .NET Library. 
+description: C# Sample code to add or insert shapes into Excel using .NET Library. Use this code to create shapes in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
+
 
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel shapes insertion via .NET" h2="Create Excel documents and insert shapes using server-side APIs in .NET-based applications." >}}

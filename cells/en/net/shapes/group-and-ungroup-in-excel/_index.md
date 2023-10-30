@@ -2,7 +2,8 @@
 title: Group And Ungroup Shapes in Excel via .NET 
 weight: 340
 
-description: C# source code to Group And Ungroup Shapes in Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+description: C# Sample code to group and ungroup shapes into Excel using .NET Library. Use this code to group or ungroup shapes in MS Excel within VB.NET, Asp.NET or any .NET based application.
+keywords: [C# Aspose.Cells., c# group shapes., c# ungroup shapes., c# group and ungroup shapes., c# group or ungroup shapes]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

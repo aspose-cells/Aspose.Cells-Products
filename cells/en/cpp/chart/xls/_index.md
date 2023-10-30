@@ -3,6 +3,7 @@ title: XLS document chart via C++
 weight: 2500
 
 description: C++ example code to draw and convert chart or diagram in XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xls., C++ Save chart to image in xls., C++ chart to image in xls., xls convert chart to image in C++., xls save chart to imagein C++., xls chart to image in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

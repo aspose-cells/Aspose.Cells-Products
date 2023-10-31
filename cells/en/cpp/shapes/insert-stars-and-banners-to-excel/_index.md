@@ -3,6 +3,7 @@ title: Insert Stars And Banners into Excel via C++
 weight: 800
 
 description: C++ example code to insert Stars And Banners in Excel file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add Star/Banner., C++ insert Star/Banner., C++ create Star/Banner]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,7 +2,7 @@
 title: Create Bubble Charts via Python
 
 description: Python Sample code for creating Bubble charts to Excel using Python Library. Use this code for creating a Bubble chart to MS Excel within Python based application.
-
+keywords: [Python Aspose.Cells., Python add Bubble Chart., Python insert Bubble Chart., Python create Bubble Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

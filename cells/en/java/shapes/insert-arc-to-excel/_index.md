@@ -3,6 +3,7 @@ title: Insert Arc into Excel via Java
 weight: 10
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add arc shape., Java insert arc shape., Java create arc shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

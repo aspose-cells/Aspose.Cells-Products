@@ -3,6 +3,7 @@ title: Insert Callouts into Excel via Java
 weight: 360
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Callouts shape., Java insert Callouts shape., Java create Callouts shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

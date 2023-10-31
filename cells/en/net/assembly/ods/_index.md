@@ -3,6 +3,7 @@ title: Generate Reports in ODS Files via .NET
 weight: 520
 
 description: C# source code to generate ODS format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Create ODS Reports Based on Predesigned Excel Template., c# Generate ODS Reports Based on Predesigned Excel Template., c# Create ODS Reports Based on Excel Template., C# Generate ODS Reports Based on Excel Template., c# Create ODS files Based on Excel Template., C# Generate ODS files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

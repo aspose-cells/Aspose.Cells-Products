@@ -3,6 +3,7 @@ title: Insert Cube into Excel via Java
 weight: 20
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Cube shape., Java insert Cube shape., Java create Cube shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

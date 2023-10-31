@@ -3,6 +3,7 @@ title: Insert Arc into Excel via C++
 weight: 10
 
 description: C++ example code to insert Arc in Excel file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add arc shape., C++ insert arc shape., C++ create arc shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

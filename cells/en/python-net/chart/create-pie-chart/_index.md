@@ -2,7 +2,7 @@
 title: Create Pie Charts via Python
 
 description: Python Sample code for creating Pie charts to Excel using Python Library. Use this code for creating a Pie chart to MS Excel within Python based application.
-
+keywords: [Python Aspose.Cells., Python add Pie Chart., Python insert Pie Chart., Python create Pie Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Group And Ungroup Shapes in Excel via Java
 weight: 360
 
 description: Group And Ungroup objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

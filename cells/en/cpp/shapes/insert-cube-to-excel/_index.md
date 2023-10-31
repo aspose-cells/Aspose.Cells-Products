@@ -3,6 +3,7 @@ title: Insert Cube into Excel via C++
 weight: 20
 
 description: C++ example code to insert Cube in Excel file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add Cube shape., C++ insert Cube shape., C++ create Cube shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

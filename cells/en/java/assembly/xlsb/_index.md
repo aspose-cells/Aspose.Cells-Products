@@ -3,6 +3,7 @@ title: Generate Reports in XLSB Files via Java
 weight: 3560
 
 description: Java sample code to create XLSB format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Create XLSB Reports Based on Predesigned Excel Template., Java Generate XLSB Reports Based on Predesigned Excel Template., Java Create XLSB Reports Based on Excel Template., Java Generate XLSB Reports Based on Excel Template., Java Create XLSB files Based on Excel Template., Java Generate XLSB files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -77,9 +78,9 @@ description: Java sample code to create XLSB format reports on Java Runtime Envi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generate Excel Reports in XLSB Format - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generate Excel Reports in XLSB Format - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

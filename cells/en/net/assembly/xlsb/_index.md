@@ -3,6 +3,7 @@ title: Generate Reports in XLSB Files via .NET
 weight: 1690
 
 description: C# source code to generate XLSB format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Create XLSB Reports Based on Predesigned Excel Template., c# Generate XLSB Reports Based on Predesigned Excel Template., c# Create XLSB Reports Based on Excel Template., C# Generate XLSB Reports Based on Excel Template., c# Create XLSB files Based on Excel Template., C# Generate XLSB files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

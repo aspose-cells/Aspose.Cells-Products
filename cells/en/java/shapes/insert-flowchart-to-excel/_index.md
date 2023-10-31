@@ -3,6 +3,7 @@ title: Insert/Create a FlowChart into Excel via Java
 weight: 360
 
 description: Insert/Create a FlowChart using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add FlowChart., Java insert FlowChart., Java create FlowChart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

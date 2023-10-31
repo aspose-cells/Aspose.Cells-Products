@@ -3,6 +3,7 @@ title: Insert Block Arrows into Excel via C++
 weight: 770
 
 description: C++ example code to insert Block Arrows in Excel file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add block arrows., C++ insert block arrows., C++ create block arrows]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

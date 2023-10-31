@@ -3,6 +3,7 @@ title: Insert TextBox into Excel via Java
 weight: 60
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add TextBox., Java insert TextBox., Java create TextBox]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

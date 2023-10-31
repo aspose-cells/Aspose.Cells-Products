@@ -3,6 +3,7 @@ title: Insert Oval into Excel via C++
 weight: 40
 
 description: C++ example code to insert Oval in Excel file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add Oval shape., C++ insert Oval shape., C++ create Oval shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

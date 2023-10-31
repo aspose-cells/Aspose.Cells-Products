@@ -2,7 +2,7 @@
 title: Create Area Charts via Python
 
 description: Python Sample code for creating Area charts to Excel using Python Library. Use this code for creating an Area chart to MS Excel within Python based application.
-
+keywords: [Python Aspose.Cells., Python add Area Chart., Python insert Area Chart., Python create Area Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

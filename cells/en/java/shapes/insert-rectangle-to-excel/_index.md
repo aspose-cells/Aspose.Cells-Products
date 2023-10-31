@@ -3,6 +3,7 @@ title: Insert Rectangle into Excel via Java
 weight: 50
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Rectangle., Java insert Rectangle., Java create Rectangle]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

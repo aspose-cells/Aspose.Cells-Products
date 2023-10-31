@@ -3,6 +3,7 @@ title: Insert Line into Excel via Java
 weight: 30
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add a Line., Java insert a Line., Java create a Line]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

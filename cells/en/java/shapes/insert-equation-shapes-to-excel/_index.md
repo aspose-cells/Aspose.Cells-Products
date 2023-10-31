@@ -3,6 +3,7 @@ title: Insert Equation Shapes into Excel via Java
 weight: 360
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add equation shapes., Java insert equation shapes., Java create equation shapes]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

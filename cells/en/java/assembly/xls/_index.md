@@ -3,6 +3,7 @@ title: Generate Reports in XLS Files via Java
 weight: 1090
 
 description: Java sample code to create XLS format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -77,9 +78,9 @@ description: Java sample code to create XLS format reports on Java Runtime Envir
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generate Excel Reports in XLS Format - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generate Excel Reports in XLS Format - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

@@ -2,7 +2,7 @@
 title: Create Line Charts via Python
 
 description: Python Sample code for creating Line charts to Excel using Python Library. Use this code for creating a Line chart to MS Excel within Python based application.
-
+keywords: [Python Aspose.Cells., Python add Line Chart., Python insert Line Chart., Python create Line Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

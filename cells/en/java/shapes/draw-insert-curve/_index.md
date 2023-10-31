@@ -3,6 +3,7 @@ title: How to draw or insert curved shape into Excel via Java
 weight: 30
 
 description: Draw or insert curved shape using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add curved shape., Java insert curved shape., Java create curved shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

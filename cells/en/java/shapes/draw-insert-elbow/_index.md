@@ -3,6 +3,7 @@ title: How to draw or insert elbow shape into Excel via Java
 weight: 30
 
 description: Draw or insert elbow shape using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add elbow shape., Java insert elbow shape., Java create elbow shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

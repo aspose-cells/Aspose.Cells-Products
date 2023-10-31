@@ -1,7 +1,8 @@
 ---
 title: Insert shapes in Excel via JAVA
 
-description: C# source codes that how to insert a shape into Microsoft Excel files using JAVA Library. 
+description: Java source codes that how to insert a shape into Microsoft Excel files using JAVA Library. 
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -16,7 +17,7 @@ In excel you can add shapes such as boxes, circles and arrows to documents, emai
 
 Insertting shapes using these APIs is simple. Process is, Create [Workbook class](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/) object and select the first worksheet or the relevant sheet by providing its index. Add a shape to the worksheet by using [shapecollection](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)’s Add method.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code to Insert Shape in Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code to Insert Shape in Excel" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

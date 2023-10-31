@@ -3,6 +3,7 @@ title: Generate Reports in XLSM Files via .NET
 weight: 4400
 
 description: C# source code to generate XLSM format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Create XLSM Reports Based on Predesigned Excel Template., c# Generate XLSM Reports Based on Predesigned Excel Template., c# Create XLSM Reports Based on Excel Template., C# Generate XLSM Reports Based on Excel Template., c# Create XLSM files Based on Excel Template., C# Generate XLSM files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

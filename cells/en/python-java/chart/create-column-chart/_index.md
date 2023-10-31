@@ -2,7 +2,7 @@
 title: Create Column Charts via Python
 
 description: Python Sample code for creating Column charts to Excel using Python Library. Use this code for creating a Column chart to MS Excel within Python based application.
-
+keywords: [Python Aspose.Cells., Python add Column Chart., Python insert Column Chart., Python create Column Chart]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

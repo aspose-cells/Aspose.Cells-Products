@@ -3,6 +3,7 @@ title: Insert Insert Star/Banner into Excel via Java
 weight: 381
 
 description: Insert Star/Banner using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Star/Banner., Java insert Star/Banner., Java create Star/Banner]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

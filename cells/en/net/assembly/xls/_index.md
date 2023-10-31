@@ -3,6 +3,7 @@ title: Generate Reports in XLS Files via .NET
 weight: 1700
 
 description: C# source code to generate XLS format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Create XLS Reports Based on Predesigned Excel Template., c# Generate XLS Reports Based on Predesigned Excel Template., c# Create XLS Reports Based on Excel Template., C# Generate XLS Reports Based on Excel Template., c# Create XLS files Based on Excel Template., C# Generate XLS files Based on Excel Template]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

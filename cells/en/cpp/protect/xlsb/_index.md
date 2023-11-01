@@ -3,6 +3,7 @@ title: Protect and lock XLSB document via C++
 weight: 4860
 
 description: C++ example code to lock XLSB file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLSB files., C++ How to Protect and lock XLSB document., C++ Protect XLSB files., Encrypt XLSB Files using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Protect and lock XLSX document via .NET
 weight: 90
 
 description: C# source code to lock XLSX file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock XLSX files., c# How to Protect and lock XLSX document., c# Protect XLSX files., Encrypt XLSX Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Insert Block Arrows into Excel using Python via .Net
 weight: 338
 
 description: Python via .Net source code to insert Block Arrows into Excel.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

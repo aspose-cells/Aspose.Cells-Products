@@ -3,6 +3,7 @@ title: How to draw or insert curved shape into Excel using Python via Java
 weight: 10
 
 description: Draw or insert curved shape using Aspose.Cells' Python via Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Python Aspose.Cells., Python add curved shape., Python insert curved shape., Python create curved shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -83,7 +84,7 @@ Aspose.Cells API capable of building cross-platform applications ,can be used to
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

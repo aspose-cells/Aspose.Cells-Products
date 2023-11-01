@@ -3,6 +3,7 @@ title: Extract text and images from XLSB document via C++
 weight: 3140
 
 description: C++ example code to extract text and images from XLSB file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

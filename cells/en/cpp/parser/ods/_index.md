@@ -3,6 +3,7 @@ title: Extract text and images from ODS document via C++
 weight: 9130
 
 description: C++ example code to extract text and images from ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

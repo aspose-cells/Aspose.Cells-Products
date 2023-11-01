@@ -3,6 +3,7 @@ title: Protect and lock ODS document via .NET
 weight: 5580
 
 description: C# source code to lock ODS file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock ODS files., c# How to Protect and lock ODS document., c# Protect ODS files., Encrypt ODS Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Extract text and images from ODS document via Java
 weight: 4740
 
 description: Java sample code to extract text and images from ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java How to Parse ODS File., Java Extract text from ODS file., Extract images from ODS file using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

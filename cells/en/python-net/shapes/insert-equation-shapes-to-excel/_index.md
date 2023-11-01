@@ -3,6 +3,7 @@ title: Insert Equation Shapes into Excel using Python via .Net
 weight: 360
 
 description: Python via .Net source code to insert Equation Shapes into Excel.
+keywords: [Python Aspose.Cells., Python add equation shapes., Python insert equation shapes., Python create equation shapes]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

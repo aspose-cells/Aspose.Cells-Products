@@ -3,6 +3,7 @@ title: Extract text and images from XLSM document via Java
 weight: 3260
 
 description: Java sample code to extract text and images from XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Java How to Parse XLSM File., Java Extract text from XLSM file., Extract images from XLSM file using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

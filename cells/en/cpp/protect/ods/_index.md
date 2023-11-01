@@ -3,6 +3,7 @@ title: Protect and lock ODS document via C++
 weight: 10010
 
 description: C++ example code to lock ODS file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock ODS files., C++ How to Protect and lock ODS document., C++ Protect ODS files., Encrypt ODS Files using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

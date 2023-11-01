@@ -2,6 +2,7 @@
 title: Insert shapes in Excel using Python via Java
 
 description: Python via Java source codes that how to insert a shape into Microsoft Excel files using Aspose.Cells for Python via Java Library. 
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

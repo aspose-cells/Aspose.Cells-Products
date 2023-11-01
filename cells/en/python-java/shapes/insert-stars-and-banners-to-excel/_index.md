@@ -3,6 +3,7 @@ title: Insert Star/Banner into Excel using Python via Java
 weight: 381
 
 description: Python via Java source code to insert Star/Banner into Excel.
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

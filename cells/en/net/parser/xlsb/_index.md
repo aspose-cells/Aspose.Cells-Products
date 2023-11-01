@@ -3,6 +3,7 @@ title: Extract text and images from XLSB document via .NET
 weight: 2200
 
 description: C# source code to extract text and images from XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How to Parse XLSB File., c# Extract text from XLSB file., Extract images from XLSB file using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

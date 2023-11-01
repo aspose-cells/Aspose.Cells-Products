@@ -3,6 +3,7 @@ title: Protect and lock XLSB document via .NET
 weight: 5920
 
 description: C# source code to lock XLSB file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock XLSB files., c# How to Protect and lock XLSB document., c# Protect XLSB files., Encrypt XLSB Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

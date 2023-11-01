@@ -3,6 +3,7 @@ title: Extract text and images from XLSM document via .NET
 weight: 4010
 
 description: C# source code to extract text and images from XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How to Parse XLSM File., c# Extract text from XLSM file., Extract images from XLSM file using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

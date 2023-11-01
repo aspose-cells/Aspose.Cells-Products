@@ -3,6 +3,7 @@ title: Protect and lock XLSM document via .NET
 weight: 7530
 
 description: C# source code to lock XLSM file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock XLSM files., c# How to Protect and lock XLSM document., c# Protect XLSM files., Encrypt XLSM Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

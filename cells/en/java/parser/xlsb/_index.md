@@ -3,6 +3,7 @@ title: Extract text and images from XLSB document via Java
 weight: 440
 
 description: Java sample code to extract text and images from XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Java How to Parse XLSB File., Java Extract text from XLSB file., Extract images from XLSB file using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

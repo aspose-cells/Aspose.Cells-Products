@@ -3,6 +3,7 @@ title: Protect and lock ODS document via Java
 weight: 6360
 
 description: Java sample code to lock ODS file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock ODS files., Java How to Protect and lock ODS document., Java Protect ODS files., Encrypt ODS Files using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

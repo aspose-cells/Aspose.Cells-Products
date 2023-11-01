@@ -3,6 +3,7 @@ title: Group And Ungroup Shapes in Excel Using Python via Java
 weight: 371
 
 description: Group And Ungroup objects using Aspose.Cells' Python via Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: How do I draw or insert double straight arrow into Excel using Python via
 weight: 10
 
 description: Python via java source code to draw or insert double straight arrow into Excel.
+keywords: [Python Aspose.Cells., Python add double straight arrow., Python insert double straight arrow., Python create double straight arrow]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -83,7 +84,7 @@ Aspose.Cells API capable of building cross-platform applications ,can be used to
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

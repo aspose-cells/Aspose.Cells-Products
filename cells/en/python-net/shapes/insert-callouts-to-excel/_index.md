@@ -3,6 +3,7 @@ title: Insert Callouts into Excel using Python via .Net
 weight: 360
 
 description: Python via .Net source code to insert Callouts into Excel.
+keywords: [Python Aspose.Cells., Python add Callouts shape., Python insert Callouts shape., Python create Callouts shape]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

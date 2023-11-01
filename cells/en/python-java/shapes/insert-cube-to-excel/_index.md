@@ -3,7 +3,9 @@ title: Insert Cube into Excel using Python via Java
 weight: 10
 
 description: Python via Java source code to insert Cube into Excel.
+keywords: [Python Aspose.Cells., Python add Cube shape., Python insert Cube shape., Python create Cube shape]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Insert Cube into Excel using Python via Java" h2="Insert Cube using Aspose.Cells' API without any software like Microsoft or Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -83,7 +85,7 @@ Aspose.Cells API capable of building cross-platform applications ,can be used to
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

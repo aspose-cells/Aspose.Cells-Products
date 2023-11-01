@@ -3,6 +3,7 @@ title: Protect and lock XLS document via C++
 weight: 8760
 
 description: C++ example code to lock XLS file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLS files., C++ How to Protect and lock XLS document., C++ Protect XLS files., Encrypt XLS Files using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

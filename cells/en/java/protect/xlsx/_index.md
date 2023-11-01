@@ -3,6 +3,7 @@ title: Protect and lock XLSX document via Java
 weight: 1870
 
 description: Java sample code to lock XLSX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock XLSX files., Java How to Protect and lock XLSX document., Java Protect XLSX files., Encrypt XLSX Files using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

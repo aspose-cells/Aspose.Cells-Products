@@ -3,6 +3,7 @@ title: Extract text and images from ODS document via .NET
 weight: 6970
 
 description: C# source code to extract text and images from ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How to Parse ODS File., c# Extract text from ODS file., Extract images from ODS file using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

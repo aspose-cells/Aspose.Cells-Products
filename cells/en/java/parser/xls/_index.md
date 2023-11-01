@@ -3,6 +3,7 @@ title: Extract text and images from XLS document via Java
 weight: 3700
 
 description: Java sample code to extract text and images from XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java How to Parse XLS File., Java Extract text from XLS file., Extract images from XLS file using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

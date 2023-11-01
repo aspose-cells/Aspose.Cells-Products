@@ -3,6 +3,7 @@ title: Extract text and images from XLS document via C++
 weight: 7610
 
 description: C++ example code to extract text and images from XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

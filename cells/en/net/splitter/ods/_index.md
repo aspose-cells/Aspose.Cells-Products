@@ -3,6 +3,7 @@ title: Split ODS Files via .NET
 weight: 140
 
 description: C# source code to split ODS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split ods files., C# how to split ods files into multiple files., C# ods splitter., C# split Cell., Cell splitter using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

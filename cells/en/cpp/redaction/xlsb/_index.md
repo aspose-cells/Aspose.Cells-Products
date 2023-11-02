@@ -3,6 +3,7 @@ title: Search and replace text in XLSB document via C++
 weight: 6660
 
 description: C++ example code to redact sensitive information in XLSB file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

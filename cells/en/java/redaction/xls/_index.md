@@ -3,6 +3,7 @@ title: Search and replace text in XLS document via Java
 weight: 7900
 
 description: Java sample code to redact sensitive information in XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java redact XLS file., Java edit XLS file., Java XLS file redaction., Java Search and replace string in XLS file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

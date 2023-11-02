@@ -3,6 +3,7 @@ title: Search and replace text in XLSM document via .NET
 weight: 2370
 
 description: C# source code to redact sensitive information in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact XLSM file., c# edit XLSM file., c# XLSM file redaction., c# Search and replace string in XLSM file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

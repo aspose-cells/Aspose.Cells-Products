@@ -3,6 +3,7 @@ title: Unlock XLS document via .NET
 weight: 4260
 
 description: C# source code to unlock password protected XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLS files., c# how to unlock XLS document., c# unprotect XLS files., remove protection from XLS files., decrypt XLS Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

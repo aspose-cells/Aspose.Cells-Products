@@ -2,6 +2,7 @@
 title: Split Excel Spreadsheet into Worksheets in Java
 
 description: Java source codes that explains how to split Microsoft Excel files into multiple documents using Java Excel library
+keywords: [Java Aspose.Cells., Java split excel files., Java how to split excel files into multiple files., Java excel splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

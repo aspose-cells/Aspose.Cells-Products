@@ -3,6 +3,7 @@ title: Split ODS Files via Java
 weight: 1950
 
 description: Java sample code to split ODS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split ods files., Java how to split ods files into multiple files., Java ods splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

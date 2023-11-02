@@ -3,6 +3,7 @@ title: Search and replace text in XLS document via .NET
 weight: 7280
 
 description: C# source code to redact sensitive information in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact XLS file., c# edit XLS file., c# XLS file redaction., c# Search and replace string in XLS file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

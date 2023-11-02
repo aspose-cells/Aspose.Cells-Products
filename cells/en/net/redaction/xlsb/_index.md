@@ -3,6 +3,7 @@ title: Search and replace text in XLSB document via .NET
 weight: 3890
 
 description: C# source code to redact sensitive information in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact XLSB file., c# edit XLSB file., c# XLSB file redaction., c# Search and replace string in XLSB file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

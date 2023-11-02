@@ -3,6 +3,7 @@ title: Search and replace text in ODS document via C++
 weight: 1610
 
 description: C++ example code to redact sensitive information in ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

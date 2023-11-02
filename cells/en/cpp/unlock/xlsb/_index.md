@@ -3,6 +3,7 @@ title: Unlock XLSB document via C++
 weight: 7420
 
 description: C++ example code to unlock password protected XLSB file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLSB files., C++ how to unlock XLSB document., C++ unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

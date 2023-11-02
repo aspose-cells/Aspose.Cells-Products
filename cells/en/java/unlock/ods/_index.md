@@ -3,7 +3,9 @@ title: Unlock ODS document via Java
 weight: 5080
 
 description: Java sample code to unlock password protected ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock ODS files., Java how to unlock ODS document., Java unprotect ODS files., remove protection from ODS files., decrypt ODS Files using Java]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Unlock ODS Files via Java" h2="Remove protection from Excel spreadsheets including ODS file using Java Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -75,7 +77,7 @@ description: Java sample code to unlock password protected ODS file on Java Runt
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Unlock ODS Files via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Unlock ODS Files via Java" offSpacer="" %}}
 
 ```cs
 

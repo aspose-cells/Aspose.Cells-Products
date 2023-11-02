@@ -3,6 +3,7 @@ title: Unlock XLSB document via Java
 weight: 5860
 
 description: Java sample code to unlock password protected XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -75,7 +76,7 @@ description: Java sample code to unlock password protected XLSB file on Java Run
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Unlock XLSB Files via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Unlock XLSB Files via Java" offSpacer="" %}}
 
 ```cs
 

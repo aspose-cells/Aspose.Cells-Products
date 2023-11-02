@@ -3,6 +3,7 @@ title: Search and replace text in ODS document via .NET
 weight: 6100
 
 description: C# source code to redact sensitive information in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact ODS file., c# edit ODS file., c# ODS file redaction., c# Search and replace string in ODS file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Split XLSB Files via Java
 weight: 7880
 
 description: Java sample code to split XLSB documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xlsb files., Java how to split xlsb files into multiple files., Java xlsb splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

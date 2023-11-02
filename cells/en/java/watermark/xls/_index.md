@@ -3,6 +3,7 @@ title: Watermark XLS document via Java
 weight: 2210
 
 description: Java sample code to add or remove watermark to XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

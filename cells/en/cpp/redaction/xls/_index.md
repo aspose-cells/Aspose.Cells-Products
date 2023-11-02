@@ -3,6 +3,7 @@ title: Search and replace text in XLS document via C++
 weight: 380
 
 description: C++ example code to redact sensitive information in XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

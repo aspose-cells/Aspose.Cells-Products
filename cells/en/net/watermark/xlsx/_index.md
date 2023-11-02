@@ -3,6 +3,7 @@ title: Watermark XLSX document via .NET
 weight: 8270
 
 description: C# source code to add or remove watermark to XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

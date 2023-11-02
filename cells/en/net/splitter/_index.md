@@ -2,6 +2,7 @@
 title: Split Excel Worksheet sheet wise in C#
 
 description: C# source codes that explains how to split Microsoft Excel files into multiple files in Visual C#.NET applications
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -3,6 +3,7 @@ title: Watermark XLSB document via Java
 weight: 5900
 
 description: Java sample code to add or remove watermark to XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

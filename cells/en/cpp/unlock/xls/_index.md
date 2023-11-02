@@ -3,6 +3,7 @@ title: Unlock XLS document via C++
 weight: 2380
 
 description: C++ example code to unlock password protected XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLS files., C++ how to unlock XLS document., C++ unprotect XLS files., remove protection from XLS files., decrypt XLS Files using C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: Search and replace text in XLSM document via C++
 weight: 9570
 
 description: C++ example code to redact sensitive information in XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

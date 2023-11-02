@@ -3,6 +3,7 @@ title: Split XLSM Files via .NET
 weight: 8890
 
 description: C# source code to split XLSM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split xlsm files., C# how to split xlsm files into multiple files., C# xlsm splitter., C# split Cell., Cell splitter using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

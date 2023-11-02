@@ -3,6 +3,7 @@ title: Unlock ODS document via .NET
 weight: 3110
 
 description: C# source code to unlock password protected ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock ODS files., c# how to unlock ODS document., c# unprotect ODS files., remove protection from ODS files., decrypt ODS Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

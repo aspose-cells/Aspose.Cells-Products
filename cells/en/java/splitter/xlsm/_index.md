@@ -3,6 +3,7 @@ title: Split XLSM Files via Java
 weight: 5670
 
 description: Java sample code to split XLSM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xlsm files., Java how to split xlsm files into multiple files., Java xlsm splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

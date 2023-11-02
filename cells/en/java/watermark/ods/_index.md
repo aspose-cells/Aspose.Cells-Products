@@ -3,6 +3,7 @@ title: Watermark ODS document via Java
 weight: 1040
 
 description: Java sample code to add or remove watermark to ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

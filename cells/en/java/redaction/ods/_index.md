@@ -3,7 +3,9 @@ title: Search and replace text in ODS document via Java
 weight: 9210
 
 description: Java sample code to redact sensitive information in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java redact ODS file., Java edit ODS file., Java ODS file redaction., Java Search and replace string in ODS file]
 ---
+
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/upper-banner h1="Redact ODS Formats in Java" h2="Native and high performance ODS document sensitive redaction information using server-side Aspose.Cells for Java APIs, without the use of any software like Microsoft or Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

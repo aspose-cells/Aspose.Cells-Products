@@ -3,6 +3,7 @@ title: Unlock XLSX document via Java
 weight: 310
 
 description: Java sample code to unlock password protected XLSX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSX files., Java how to unlock XLSX document., Java unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -75,7 +76,7 @@ description: Java sample code to unlock password protected XLSX file on Java Run
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Unlock XLSX Files via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Unlock XLSX Files via Java" offSpacer="" %}}
 
 ```cs
 

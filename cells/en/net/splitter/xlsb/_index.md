@@ -3,6 +3,7 @@ title: Split XLSB Files via .NET
 weight: 7370
 
 description: C# source code to split XLSB documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split xlsb files., C# how to split xlsb files into multiple files., C# xlsb splitter., C# split Cell., Cell splitter using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

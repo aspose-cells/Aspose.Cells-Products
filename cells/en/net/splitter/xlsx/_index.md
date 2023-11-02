@@ -3,6 +3,7 @@ title: Split XLSX Files via .NET
 weight: 1350
 
 description: C# source code to split XLSX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split xlsx files., C# how to split xlsx files into multiple files., C# xlsx splitter., C# split Cell., Cell splitter using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

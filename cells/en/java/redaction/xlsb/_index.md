@@ -3,6 +3,7 @@ title: Search and replace text in XLSB document via Java
 weight: 4590
 
 description: Java sample code to redact sensitive information in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

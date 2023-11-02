@@ -3,6 +3,7 @@ title: Unlock XLSM document via Java
 weight: 7700
 
 description: Java sample code to unlock password protected XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -75,7 +76,7 @@ description: Java sample code to unlock password protected XLSM file on Java Run
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Unlock XLSM Files via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Unlock XLSM Files via Java" offSpacer="" %}}
 
 ```cs
 

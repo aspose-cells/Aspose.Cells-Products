@@ -3,6 +3,7 @@ title: Split XLS Files via Java
 weight: 610
 
 description: Java sample code to split XLS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xls files., Java how to split xls files into multiple files., Java xls splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

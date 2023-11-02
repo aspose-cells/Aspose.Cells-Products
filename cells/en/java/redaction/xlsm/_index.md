@@ -3,6 +3,7 @@ title: Search and replace text in XLSM document via Java
 weight: 1590
 
 description: Java sample code to redact sensitive information in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java redact XLSM file., Java edit XLSM file., Java XLSM file redaction., Java Search and replace string in XLSM file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

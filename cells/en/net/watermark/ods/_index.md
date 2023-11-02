@@ -3,6 +3,7 @@ title: Watermark ODS document via .NET
 weight: 4190
 
 description: C# source code to add or remove watermark to ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to ods file., C# insert watermark to ods file., C# create watermark in ods file., remove watermark from ods file using C#., C# operate watermark in ods file., C# access watermark in ods file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

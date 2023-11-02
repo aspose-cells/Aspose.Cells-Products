@@ -3,6 +3,7 @@ title: Watermark XLSB document via .NET
 weight: 5410
 
 description: C# source code to add or remove watermark to XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

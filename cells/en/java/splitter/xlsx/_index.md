@@ -3,6 +3,7 @@ title: Split XLSX Files via Java
 weight: 3250
 
 description: Java sample code to split XLSX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xlsx files., Java how to split xlsx files into multiple files., Java xlsx splitter., Java split Cell., Cell splitter using Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

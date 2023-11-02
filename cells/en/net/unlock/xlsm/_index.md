@@ -3,6 +3,7 @@ title: Unlock XLSM document via .NET
 weight: 9810
 
 description: C# source code to unlock password protected XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLSM files., c# how to unlock XLSM document., c# unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

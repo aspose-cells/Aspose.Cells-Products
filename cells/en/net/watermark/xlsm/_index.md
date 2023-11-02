@@ -3,6 +3,7 @@ title: Watermark XLSM document via .NET
 weight: 8270
 
 description: C# source code to add or remove watermark to XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xlsm file., C# insert watermark to xlsm file., C# create watermark in xlsm file., remove watermark from xlsm file using C#., C# operate watermark in xlsm file., C# access watermark in xlsm file]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

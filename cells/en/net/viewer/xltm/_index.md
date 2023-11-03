@@ -3,6 +3,7 @@ title: View XLTM File Formats via .NET
 weight: 430
 
 description: C# source code to load, render and display XLTM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLTM files., c# how to render XLTM document., c# load and display XLTM files., XLTM File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: View MHT File Formats via .NET 
 
 description: C# source code to load, render and display MHT documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view MHT files., c# how to render MHT document., c# load and display MHT files., MHT File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

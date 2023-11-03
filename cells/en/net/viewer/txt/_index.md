@@ -3,6 +3,7 @@ title: View TXT File Formats via .NET
 weight: 8300
 
 description: C# source code to load, render and display TXT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view TXT files., c# how to render TXT document., c# load and display TXT files., TXT File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

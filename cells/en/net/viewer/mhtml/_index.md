@@ -2,6 +2,7 @@
 title: View MHTML File Formats via .NET 
 
 description: C# source code to load, render and display MHTML documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view MHTL files., c# how to render MHTL document., c# load and display MHTL files., MHTL File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: View HTML File Formats via .NET 
 
 description: C# source code to load, render and display HTML documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view HTML files., c# how to render HTML document., c# load and display HTML files., HTML File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

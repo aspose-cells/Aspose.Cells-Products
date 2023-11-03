@@ -3,6 +3,7 @@ title: View XLSM File Formats via .NET
 weight: 9980
 
 description: C# source code to load, render and display XLSM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLSM files., c# how to render XLSM document., c# load and display XLSM files., XLSM File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

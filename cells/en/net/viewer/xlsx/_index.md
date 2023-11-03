@@ -3,6 +3,7 @@ title: View XLSX File Formats via .NET
 weight: 2180
 
 description: C# source code to load, render and display XLSX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLSX files., c# how to render XLSX document., c# load and display XLSX files., XLSX File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -3,6 +3,7 @@ title: View XLT File Formats via .NET
 weight: 3610
 
 description: C# source code to load, render and display XLT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLT files., c# how to render XLT document., c# load and display XLT files., XLT File Viewer using C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

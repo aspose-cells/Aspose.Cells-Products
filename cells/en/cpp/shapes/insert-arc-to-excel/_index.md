@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the [add method](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#a4942e79c088d2fd459beeda50006b4c4) to insert Equation Shapes in the selected worksheet
++  Use the [add method](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.shape_collection#aa2d934dc0c5062d69222a5193bdf168b) to insert Equation Shapes in the selected worksheet
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Insert Arc - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertArcIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertArcIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Create XLSM Files Chart - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsm-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsm-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

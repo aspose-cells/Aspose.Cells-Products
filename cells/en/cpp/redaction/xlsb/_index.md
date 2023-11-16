@@ -71,29 +71,25 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="Redact XLSB Files - C++" offSpacer="" %}}
 
 ```cs
-// Source directory path.
-StringPtr srcDir = new String("SourceFolder\\");
 
-// Output directory path.
-StringPtr outDir = new String("OutputFolder\\");
+Aspose::Cells::Startup();
 
 // Load XLSB file
-intrusive_ptr<IWorkbook>  workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("book1.xlsb")));
-
-// Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
-
-// Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
-
+Workbook wb(u"Input.xlsb");
+//Create an instance of the ReplaceOptions class
+ReplaceOptions replaceOptions;
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
-
+replaceOptions.SetRegexKey(true);
+// Set case sensitivity option
+replaceOptions.SetCaseSensitive(false);
+// Set text matching option
+replaceOptions.SetMatchEntireCellContents(false);
 // Replace text
-workbook->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
-
+wb.Replace(u"\bKIM\b", u"^^^^^^^^", replaceOptions);
 // Save as XLSB file
-workbook->Save(outDir->StringAppend(new String("book1_out.xlsb")));
+wb.Save("output.xlsb");
+
+Aspose::Cells::Cleanup();
 
 ```
 

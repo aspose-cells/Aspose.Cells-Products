@@ -68,6 +68,8 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
+Aspose::Cells::Startup();
+
 //Load the sample excel file
 MetadataOptions options(MetadataType::Document_Properties);
 WorkbookMetadata meta(u"c:\\book1.ods", options);
@@ -75,6 +77,8 @@ WorkbookMetadata meta(u"c:\\book1.ods", options);
 meta.GetCustomDocumentProperties().Add(u"test", u"test");
 //Save the output excel file
 meta.Save(u"c:\\book2.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

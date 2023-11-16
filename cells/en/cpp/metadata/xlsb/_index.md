@@ -44,9 +44,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load XLSB file using CreateIWorkbookMetadata
-+  Create options using CreateIMetadataOptions
-+  Add new properties by GetICustomDocumentProperties() and AddIDocumentProperty
++  Create options using MetadataOptions
++  Load XLSB file using WorkbookMetadata
++  Add new properties by GetCustomDocumentProperties() and Add
 +  Save XLSB document
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,10 +68,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xlsb"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xlsb"));  
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xlsb", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xlsb");
 
 ```
 

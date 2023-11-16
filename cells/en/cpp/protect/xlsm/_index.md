@@ -44,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load XLSM file using IWorkbook class
+1.  Load XLSM file using Workbook class
 1.  Use Protect(..) method with ProtectionType and Password
 1.  Save the protected XLSM file by Save() method
 
@@ -67,20 +67,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsm")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("output.xlsm")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsm");
+
+Aspose::Cells::Cleanup();
 
 ```
 

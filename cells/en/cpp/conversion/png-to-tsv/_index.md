@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to TSV - PNG to TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to TSV in C++. C++ Convert PNG to TSV saveformat. C++ PNG to TSV format. Save PNG to TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to TSV in C++., C++ PNG to TSV saveformat., PNG to TSV C++., C++ Convert PNG to TSV]
+description: Aspose Excel. Convert PNG to TSV quickly and easily with Aspose.Cells. C++ PNG to TSV. C++ Save PNG to TSV. Save PNG as TSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to TSV in C++., Save PNG to TSV using C++., C++ PNG to TSV saveformat., PNG to TSV Converter., C++ Save PNG as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to TSV programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to TSV by calling Save() method.
 1.  Get the conversion result of PNG to TSV.
 

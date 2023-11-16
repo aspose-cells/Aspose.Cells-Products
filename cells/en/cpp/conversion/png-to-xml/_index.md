@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to XML - PNG to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to XML in C++. C++ Convert PNG to XML saveformat. C++ PNG to XML format. Save PNG to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to XML in C++., C++ PNG to XML saveformat., PNG to XML C++., C++ Convert PNG to XML]
+description: Aspose Excel. Convert PNG to XML quickly and easily with Aspose.Cells. C++ PNG to XML. C++ Save PNG to XML. Save PNG as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to XML in C++., Save PNG to XML using C++., C++ PNG to XML saveformat., PNG to XML Converter., C++ Save PNG as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to XML programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to XML by calling Save() method.
 1.  Get the conversion result of PNG to XML.
 

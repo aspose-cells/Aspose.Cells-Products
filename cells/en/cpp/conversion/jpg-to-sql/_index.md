@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to SQL - JPG to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to SQL in C++. C++ Convert JPG to SQL saveformat. C++ JPG to SQL format. Save JPG to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to SQL in C++., C++ JPG to SQL saveformat., JPG to SQL C++., C++ Convert JPG to SQL]
+description: Aspose Excel. Convert JPG to SQL quickly and easily with Aspose.Cells. C++ JPG to SQL. C++ Save JPG to SQL. Save JPG as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to SQL in C++., Save JPG to SQL using C++., C++ JPG to SQL saveformat., JPG to SQL Converter., C++ Save JPG as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPG files to SQL programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to SQL by calling Save() method.
 1.  Get the conversion result of JPG to SQL.
 

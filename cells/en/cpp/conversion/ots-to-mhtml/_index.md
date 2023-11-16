@@ -50,7 +50,7 @@ Need to convert OTS files to MHTML programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load OTS file using Factory::CreateIWorkbook.
+1.  Load OTS file using Workbook.
 1.  Convert OTS to MHTML by calling Save() method.
 1.  Get the conversion result of OTS to MHTML.
 

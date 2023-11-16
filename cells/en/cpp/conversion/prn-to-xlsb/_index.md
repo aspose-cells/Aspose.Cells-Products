@@ -50,7 +50,7 @@ Need to convert PRN files to XLSB programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PRN file using Factory::CreateIWorkbook.
+1.  Load PRN file using Workbook.
 1.  Convert PRN to XLSB by calling Save() method.
 1.  Get the conversion result of PRN to XLSB.
 

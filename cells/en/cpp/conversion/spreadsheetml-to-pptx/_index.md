@@ -50,7 +50,7 @@ Need to convert SPREADSHEETML files to PPTX programmatically? C++ developers can
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load SPREADSHEETML file using Factory::CreateIWorkbook.
+1.  Load SPREADSHEETML file using Workbook.
 1.  Convert SPREADSHEETML to PPTX by calling Save() method.
 1.  Get the conversion result of SPREADSHEETML to PPTX.
 

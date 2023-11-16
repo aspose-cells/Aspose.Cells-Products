@@ -50,7 +50,7 @@ Need to convert JSON files to MD programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JSON file using Factory::CreateIWorkbook.
+1.  Load JSON file using Workbook.
 1.  Convert JSON to MD by calling Save() method.
 1.  Get the conversion result of JSON to MD.
 

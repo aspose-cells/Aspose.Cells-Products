@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to SQL - IMAGE to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to SQL in C++. C++ Convert IMAGE to SQL saveformat. C++ IMAGE to SQL format. Save IMAGE to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to SQL in C++., C++ IMAGE to SQL saveformat., IMAGE to SQL C++., C++ Convert IMAGE to SQL]
+description: Aspose Excel. Convert IMAGE to SQL quickly and easily with Aspose.Cells. C++ IMAGE to SQL. C++ Save IMAGE to SQL. Save IMAGE as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to SQL in C++., Save IMAGE to SQL using C++., C++ IMAGE to SQL saveformat., IMAGE to SQL Converter., C++ Save IMAGE as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to SQL programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to SQL by calling Save() method.
 1.  Get the conversion result of IMAGE to SQL.
 

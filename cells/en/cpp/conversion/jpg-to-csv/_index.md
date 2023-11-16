@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to CSV - JPG to CSV Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to CSV in C++. C++ Convert JPG to CSV saveformat. C++ JPG to CSV format. Save JPG to CSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to CSV in C++., C++ JPG to CSV saveformat., JPG to CSV C++., C++ Convert JPG to CSV]
+description: Aspose Excel. Convert JPG to CSV quickly and easily with Aspose.Cells. C++ JPG to CSV. C++ Save JPG to CSV. Save JPG as CSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to CSV in C++., Save JPG to CSV using C++., C++ JPG to CSV saveformat., JPG to CSV Converter., C++ Save JPG as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPG files to CSV programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to CSV by calling Save() method.
 1.  Get the conversion result of JPG to CSV.
 

@@ -1,7 +1,7 @@
 ---
-title: XLAM to ETT - Convert XLAM to ETT files C++
-description: Aspose Excel. Free Online Convert XLAM to ETT saveformat. C++ XLAM to ETT format. Save XLAM as ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to ETT saveformat., Free Online XLAM to ETT Converter]
+title: C++ XLAM to ETT - XLAM to ETT Converter
+description: Aspose Excel. Convert XLAM to ETT quickly and easily with Aspose.Cells. C++ XLAM to ETT. C++ Save XLAM to ETT. Save XLAM as ETT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to ETT in C++., Save XLAM to ETT using C++., C++ XLAM to ETT saveformat., XLAM to ETT Converter., C++ Save XLAM as ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to ETT in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to ETT in C++" %}}
 
 The following example demonstrates how to convert XLAM to ETT in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to ETT. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to ETT via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to ETT programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to ETT by calling Save() method.
 1.  Get the conversion result of XLAM to ETT.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}An ETT file is a spreadsheet template created by Kingsoft Spreadsheets, a spreadsheet program included in the WPS Office suite. It stores a template that can be used as a starting point for creating new Kingsoft spreadsheets (.ET files). ETT files are often used for creating financial budgets and organizing data.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

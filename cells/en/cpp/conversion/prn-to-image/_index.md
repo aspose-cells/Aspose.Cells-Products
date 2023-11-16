@@ -50,7 +50,7 @@ Need to convert PRN files to IMAGE programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PRN file using Factory::CreateIWorkbook.
+1.  Load PRN file using Workbook.
 1.  Convert PRN to IMAGE by calling Save() method.
 1.  Get the conversion result of PRN to IMAGE.
 

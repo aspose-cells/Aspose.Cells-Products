@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to SPREADSHEETML - IMAGE to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to SPREADSHEETML in C++. C++ Convert IMAGE to SPREADSHEETML saveformat. C++ IMAGE to SPREADSHEETML format. Save IMAGE to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to SPREADSHEETML in C++., C++ IMAGE to SPREADSHEETML saveformat., IMAGE to SPREADSHEETML C++., C++ Convert IMAGE to SPREADSHEETML]
+description: Aspose Excel. Convert IMAGE to SPREADSHEETML quickly and easily with Aspose.Cells. C++ IMAGE to SPREADSHEETML. C++ Save IMAGE to SPREADSHEETML. Save IMAGE as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to SPREADSHEETML in C++., Save IMAGE to SPREADSHEETML using C++., C++ IMAGE to SPREADSHEETML saveformat., IMAGE to SPREADSHEETML Converter., C++ Save IMAGE as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to SPREADSHEETML programmatically? C++ developers ca
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to SPREADSHEETML by calling Save() method.
 1.  Get the conversion result of IMAGE to SPREADSHEETML.
 

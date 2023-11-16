@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to TSV - IMAGE to TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to TSV in C++. C++ Convert IMAGE to TSV saveformat. C++ IMAGE to TSV format. Save IMAGE to TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to TSV in C++., C++ IMAGE to TSV saveformat., IMAGE to TSV C++., C++ Convert IMAGE to TSV]
+description: Aspose Excel. Convert IMAGE to TSV quickly and easily with Aspose.Cells. C++ IMAGE to TSV. C++ Save IMAGE to TSV. Save IMAGE as TSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to TSV in C++., Save IMAGE to TSV using C++., C++ IMAGE to TSV saveformat., IMAGE to TSV Converter., C++ Save IMAGE as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to TSV programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to TSV by calling Save() method.
 1.  Get the conversion result of IMAGE to TSV.
 

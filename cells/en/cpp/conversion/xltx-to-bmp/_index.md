@@ -50,7 +50,7 @@ Need to convert XLTX files to BMP programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLTX file using Factory::CreateIWorkbook.
+1.  Load XLTX file using Workbook.
 1.  Convert XLTX to BMP by calling Save() method.
 1.  Get the conversion result of XLTX to BMP.
 

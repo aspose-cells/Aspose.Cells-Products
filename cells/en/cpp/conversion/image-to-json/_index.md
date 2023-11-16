@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to JSON - IMAGE to JSON Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to JSON in C++. C++ Convert IMAGE to JSON saveformat. C++ IMAGE to JSON format. Save IMAGE to JSON C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to JSON in C++., C++ IMAGE to JSON saveformat., IMAGE to JSON C++., C++ Convert IMAGE to JSON]
+description: Aspose Excel. Convert IMAGE to JSON quickly and easily with Aspose.Cells. C++ IMAGE to JSON. C++ Save IMAGE to JSON. Save IMAGE as JSON using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to JSON in C++., Save IMAGE to JSON using C++., C++ IMAGE to JSON saveformat., IMAGE to JSON Converter., C++ Save IMAGE as JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to JSON programmatically? C++ developers can easily 
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to JSON by calling Save() method.
 1.  Get the conversion result of IMAGE to JSON.
 

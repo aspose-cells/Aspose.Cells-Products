@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to SPREADSHEETML - JPEG to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to SPREADSHEETML in C++. C++ Convert JPEG to SPREADSHEETML saveformat. C++ JPEG to SPREADSHEETML format. Save JPEG to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to SPREADSHEETML in C++., C++ JPEG to SPREADSHEETML saveformat., JPEG to SPREADSHEETML C++., C++ Convert JPEG to SPREADSHEETML]
+description: Aspose Excel. Convert JPEG to SPREADSHEETML quickly and easily with Aspose.Cells. C++ JPEG to SPREADSHEETML. C++ Save JPEG to SPREADSHEETML. Save JPEG as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to SPREADSHEETML in C++., Save JPEG to SPREADSHEETML using C++., C++ JPEG to SPREADSHEETML saveformat., JPEG to SPREADSHEETML Converter., C++ Save JPEG as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPEG files to SPREADSHEETML programmatically? C++ developers can
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPEG file using Factory::CreateIWorkbook.
+1.  Load JPEG file using Workbook.
 1.  Convert JPEG to SPREADSHEETML by calling Save() method.
 1.  Get the conversion result of JPEG to SPREADSHEETML.
 

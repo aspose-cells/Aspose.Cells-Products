@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to SQL - PNG to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to SQL in C++. C++ Convert PNG to SQL saveformat. C++ PNG to SQL format. Save PNG to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to SQL in C++., C++ PNG to SQL saveformat., PNG to SQL C++., C++ Convert PNG to SQL]
+description: Aspose Excel. Convert PNG to SQL quickly and easily with Aspose.Cells. C++ PNG to SQL. C++ Save PNG to SQL. Save PNG as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to SQL in C++., Save PNG to SQL using C++., C++ PNG to SQL saveformat., PNG to SQL Converter., C++ Save PNG as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to SQL programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to SQL by calling Save() method.
 1.  Get the conversion result of PNG to SQL.
 

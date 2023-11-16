@@ -50,7 +50,7 @@ Need to convert XLS files to PRN programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLS file using Factory::CreateIWorkbook.
+1.  Load XLS file using Workbook.
 1.  Convert XLS to PRN by calling Save() method.
 1.  Get the conversion result of XLS to PRN.
 

@@ -50,7 +50,7 @@ Need to convert XLT files to TXT programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLT file using Factory::CreateIWorkbook.
+1.  Load XLT file using Workbook.
 1.  Convert XLT to TXT by calling Save() method.
 1.  Get the conversion result of XLT to TXT.
 

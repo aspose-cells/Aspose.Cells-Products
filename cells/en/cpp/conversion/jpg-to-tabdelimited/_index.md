@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to TABDELIMITED - JPG to TABDELIMITED Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to TABDELIMITED in C++. C++ Convert JPG to TABDELIMITED saveformat. C++ JPG to TABDELIMITED format. Save JPG to TABDELIMITED C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to TABDELIMITED in C++., C++ JPG to TABDELIMITED saveformat., JPG to TABDELIMITED C++., C++ Convert JPG to TABDELIMITED]
+description: Aspose Excel. Convert JPG to TABDELIMITED quickly and easily with Aspose.Cells. C++ JPG to TABDELIMITED. C++ Save JPG to TABDELIMITED. Save JPG as TABDELIMITED using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to TABDELIMITED in C++., Save JPG to TABDELIMITED using C++., C++ JPG to TABDELIMITED saveformat., JPG to TABDELIMITED Converter., C++ Save JPG as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPG files to TABDELIMITED programmatically? C++ developers can e
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to TABDELIMITED by calling Save() method.
 1.  Get the conversion result of JPG to TABDELIMITED.
 

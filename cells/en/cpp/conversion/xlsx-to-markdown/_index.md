@@ -50,7 +50,7 @@ Need to convert XLSX files to MARKDOWN programmatically? C++ developers can easi
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLSX file using Factory::CreateIWorkbook.
+1.  Load XLSX file using Workbook.
 1.  Convert XLSX to MARKDOWN by calling Save() method.
 1.  Get the conversion result of XLSX to MARKDOWN.
 

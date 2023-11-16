@@ -50,7 +50,7 @@ Need to convert MHTML files to TIFF programmatically? C++ developers can easily 
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load MHTML file using Factory::CreateIWorkbook.
+1.  Load MHTML file using Workbook.
 1.  Convert MHTML to TIFF by calling Save() method.
 1.  Get the conversion result of MHTML to TIFF.
 

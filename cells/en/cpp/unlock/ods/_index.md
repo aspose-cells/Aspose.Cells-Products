@@ -46,10 +46,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load ODS locked file using CreateIWorkbook.
-1.  Call Unprotect() function to unlock.
-1.  Set password to NULL using SetPassword.
-1.  Save ODS file at a specified location.
+1.  Instantiate Workbook class with path to protected ODS file
+1.  Get the default or any Worksheet to remove protection
+1.  Remove Worksheet protection with Worksheet.Unprotect method
+1.  Remove Workbook protection with Workbook.Unprotect method
+1.  Save result in ODS format
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,23 +71,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected ODS file
+Workbook workbook(u"protected.ods");
 
-// Load ODS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.ods")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the ODS file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.ods")));
+// save the result back in ODS format
+workbook.Save("unprotected.ods", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

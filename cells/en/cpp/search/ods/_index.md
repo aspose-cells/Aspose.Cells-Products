@@ -44,11 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ODS file by instantiating a IWorkbook class.
-+  Instantiate IReplaceOptions class.
++  Load ODS file by instantiating a Workbook class.
++  Instantiate ReplaceOptions class.
 +  Set required Pattern like SetCaseSensitive(bool value), SetMatchEntireCellContents(bool value) .
-+  Use IWorkbook->Replace(..) method with relevant options.
-+  Save ODS file using IWorkbook->Save(.) method.
++  Use Workbook::Replace(...) method with relevant options.
++  Save ODS file using Workbook::Save(...) method.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,29 +69,33 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load ODS file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.ods")));
+Workbook  wkb(srcDir + u"sourceFile.ods");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as ODS file
-wkb->Save(outDir->StringAppend(new String("outputFile.ods")));  
+wkb.Save(outDir + u"outputFile.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

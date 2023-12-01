@@ -12,12 +12,12 @@ keywords: [C++ Aspose.Cells., C++ Convert chart to image., C++ Save chart to ima
 {{% blocks/products/pf/feature-page-summary %}}
 
 Using Excel charts, one can get the bigger picture and analyse data easily for taking right decisions. [C++ Excel Library](/cells/cpp/) supports creating different charts listed by [enum Aspose::Cells::Charts::ChartType
-](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) including area, bar, pie, pyramid, line and bubble charts. Moreover, For conversion of charts to images, API provides a [ToImage mehtod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.chart#aca83e826ca337879c247fa7dec7f8157) into required image format.
+](https://reference.aspose.com/cells/cpp/aspose.cells.charts/charttype/) including area, bar, pie, pyramid, line and bubble charts. Moreover, For conversion of charts to images, API provides a [ToImage](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chart/toimage/) mehtod into required image format.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{% blocks/products/pf/feature-page-section  h2="Create Excel Charts" %}}
 
-Process of creating Excel chart is, create an instance of the [Workbook class](https://reference.aspose.com/cells/cpp/class/aspose.cells.workbook) and select the desired [Worksheet](https://reference.aspose.com/cells/cpp/class/aspose.cells.worksheet). Add the chart using [Add method](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.chart_collection#afd35866e3feb680c4191491b56c5bc84) with relevant parameters including chart type. Access the chart via index and [Add](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.series_collection#ab06472a0ec538f785bacd8154966e5e7) the data source for chart.
+Process of creating Excel chart is, create an instance of the [Workbook class](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) and select the desired [Worksheet](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/). Add the chart using [Add method](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chartcollection/add/) with relevant parameters including chart type. Access the chart via index and [Add](https://reference.aspose.com/cells/cpp/aspose.cells.charts/seriescollection/add/) the data source for chart.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code to Create Excel Charts" %}}
 

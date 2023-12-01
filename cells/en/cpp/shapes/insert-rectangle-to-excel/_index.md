@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the [add method](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.shape_collection#abfcd5ea8bf03bd13387f283b14991fbc) to insert Equation Shapes in the selected worksheet
++  Use the [add method](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addrectangle/) to insert Equation Shapes in the selected worksheet
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

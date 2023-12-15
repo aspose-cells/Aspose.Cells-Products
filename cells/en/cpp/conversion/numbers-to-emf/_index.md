@@ -50,7 +50,7 @@ Need to convert NUMBERS files to EMF programmatically? C++ developers can easily
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load NUMBERS file using Factory::CreateIWorkbook.
+1.  Load NUMBERS file using Workbook.
 1.  Convert NUMBERS to EMF by calling Save() method.
 1.  Get the conversion result of NUMBERS to EMF.
 

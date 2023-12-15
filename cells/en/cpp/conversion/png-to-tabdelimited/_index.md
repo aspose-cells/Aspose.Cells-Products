@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to TABDELIMITED - PNG to TABDELIMITED Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to TABDELIMITED in C++. C++ Convert PNG to TABDELIMITED saveformat. C++ PNG to TABDELIMITED format. Save PNG to TABDELIMITED C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to TABDELIMITED in C++., C++ PNG to TABDELIMITED saveformat., PNG to TABDELIMITED C++., C++ Convert PNG to TABDELIMITED]
+description: Aspose Excel. Convert PNG to TABDELIMITED quickly and easily with Aspose.Cells. C++ PNG to TABDELIMITED. C++ Save PNG to TABDELIMITED. Save PNG as TABDELIMITED using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to TABDELIMITED in C++., Save PNG to TABDELIMITED using C++., C++ PNG to TABDELIMITED saveformat., PNG to TABDELIMITED Converter., C++ Save PNG as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to TABDELIMITED programmatically? C++ developers can e
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to TABDELIMITED by calling Save() method.
 1.  Get the conversion result of PNG to TABDELIMITED.
 

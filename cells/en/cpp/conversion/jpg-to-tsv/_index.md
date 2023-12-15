@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to TSV - JPG to TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to TSV in C++. C++ Convert JPG to TSV saveformat. C++ JPG to TSV format. Save JPG to TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to TSV in C++., C++ JPG to TSV saveformat., JPG to TSV C++., C++ Convert JPG to TSV]
+description: Aspose Excel. Convert JPG to TSV quickly and easily with Aspose.Cells. C++ JPG to TSV. C++ Save JPG to TSV. Save JPG as TSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to TSV in C++., Save JPG to TSV using C++., C++ JPG to TSV saveformat., JPG to TSV Converter., C++ Save JPG as TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPG files to TSV programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to TSV by calling Save() method.
 1.  Get the conversion result of JPG to TSV.
 

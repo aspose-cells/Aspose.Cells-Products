@@ -50,7 +50,7 @@ Need to convert XLSM files to XLSX programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLSM file using Factory::CreateIWorkbook.
+1.  Load XLSM file using Workbook.
 1.  Convert XLSM to XLSX by calling Save() method.
 1.  Get the conversion result of XLSM to XLSX.
 

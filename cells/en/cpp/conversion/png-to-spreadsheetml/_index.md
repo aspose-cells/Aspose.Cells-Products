@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to SPREADSHEETML - PNG to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to SPREADSHEETML in C++. C++ Convert PNG to SPREADSHEETML saveformat. C++ PNG to SPREADSHEETML format. Save PNG to SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to SPREADSHEETML in C++., C++ PNG to SPREADSHEETML saveformat., PNG to SPREADSHEETML C++., C++ Convert PNG to SPREADSHEETML]
+description: Aspose Excel. Convert PNG to SPREADSHEETML quickly and easily with Aspose.Cells. C++ PNG to SPREADSHEETML. C++ Save PNG to SPREADSHEETML. Save PNG as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to SPREADSHEETML in C++., Save PNG to SPREADSHEETML using C++., C++ PNG to SPREADSHEETML saveformat., PNG to SPREADSHEETML Converter., C++ Save PNG as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to SPREADSHEETML programmatically? C++ developers can 
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to SPREADSHEETML by calling Save() method.
 1.  Get the conversion result of PNG to SPREADSHEETML.
 

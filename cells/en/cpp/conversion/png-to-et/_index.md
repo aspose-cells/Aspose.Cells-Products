@@ -50,7 +50,7 @@ Need to convert PNG files to ET programmatically? C++ developers can easily conv
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to ET by calling Save() method.
 1.  Get the conversion result of PNG to ET.
 

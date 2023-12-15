@@ -1,7 +1,7 @@
 ---
 title: C++ PNG to CSV - PNG to CSV Converter
-description: Aspose Excel. C++ Aspose.Cells. PNG to CSV in C++. C++ Convert PNG to CSV saveformat. C++ PNG to CSV format. Save PNG to CSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., PNG to CSV in C++., C++ PNG to CSV saveformat., PNG to CSV C++., C++ Convert PNG to CSV]
+description: Aspose Excel. Convert PNG to CSV quickly and easily with Aspose.Cells. C++ PNG to CSV. C++ Save PNG to CSV. Save PNG as CSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to CSV in C++., Save PNG to CSV using C++., C++ PNG to CSV saveformat., PNG to CSV Converter., C++ Save PNG as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert PNG files to CSV programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load PNG file using Factory::CreateIWorkbook.
+1.  Load PNG file using Workbook.
 1.  Convert PNG to CSV by calling Save() method.
 1.  Get the conversion result of PNG to CSV.
 

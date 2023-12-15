@@ -1,7 +1,7 @@
 ---
-title: XLAM to GIF - Convert XLAM to GIF files C++
-description: Aspose Excel. Free Online Convert XLAM to GIF saveformat. C++ XLAM to GIF format. Save XLAM as GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to GIF saveformat., Free Online XLAM to GIF Converter]
+title: C++ XLAM to GIF - XLAM to GIF Converter
+description: Aspose Excel. Convert XLAM to GIF quickly and easily with Aspose.Cells. C++ XLAM to GIF. C++ Save XLAM to GIF. Save XLAM as GIF using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to GIF in C++., Save XLAM to GIF using C++., C++ XLAM to GIF saveformat., XLAM to GIF Converter., C++ Save XLAM as GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to GIF in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to GIF in C++" %}}
 
 The following example demonstrates how to convert XLAM to GIF in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to GIF. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to GIF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to GIF via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to GIF programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to GIF by calling Save() method.
 1.  Get the conversion result of XLAM to GIF.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

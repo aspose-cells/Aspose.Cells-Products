@@ -1,7 +1,7 @@
 ---
-title: XLAM to TABDELIMITED - Convert XLAM to TABDELIMITED files C++
-description: Aspose Excel. Free Online Convert XLAM to TABDELIMITED saveformat. C++ XLAM to TABDELIMITED format. Save XLAM as TABDELIMITED in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to TABDELIMITED saveformat., Free Online XLAM to TABDELIMITED Converter]
+title: C++ XLAM to TABDELIMITED - XLAM to TABDELIMITED Converter
+description: Aspose Excel. Convert XLAM to TABDELIMITED quickly and easily with Aspose.Cells. C++ XLAM to TABDELIMITED. C++ Save XLAM to TABDELIMITED. Save XLAM as TABDELIMITED using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to TABDELIMITED in C++., Save XLAM to TABDELIMITED using C++., C++ XLAM to TABDELIMITED saveformat., XLAM to TABDELIMITED Converter., C++ Save XLAM as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to TABDELIMITED in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to TABDELIMITED in C++" %}}
 
 The following example demonstrates how to convert XLAM to TABDELIMITED in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to TABDELIMITED. Upload your XLAM file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to TABDELIMITED Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to TABDELIMITED via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to TABDELIMITED programmatically? C++ developers can 
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to TABDELIMITED by calling Save() method.
 1.  Get the conversion result of XLAM to TABDELIMITED.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

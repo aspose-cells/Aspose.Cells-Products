@@ -50,7 +50,7 @@ Need to convert TABDELIMITED files to IMAGE programmatically? C++ developers can
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load TABDELIMITED file using Factory::CreateIWorkbook.
+1.  Load TABDELIMITED file using Workbook.
 1.  Convert TABDELIMITED to IMAGE by calling Save() method.
 1.  Get the conversion result of TABDELIMITED to IMAGE.
 

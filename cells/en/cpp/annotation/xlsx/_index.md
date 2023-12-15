@@ -46,7 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Select the relevant sheet
 1.  Add the comment using the Add method
 1.  Set the note of the comment using the SetNote method.
-1.  Save the workbook using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method
+1.  Save the workbook using [Save](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) method
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Add Comments in XLSX - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsx-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsx-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

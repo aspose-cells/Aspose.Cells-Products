@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to TXT - IMAGE to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to TXT in C++. C++ Convert IMAGE to TXT saveformat. C++ IMAGE to TXT format. Save IMAGE to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to TXT in C++., C++ IMAGE to TXT saveformat., IMAGE to TXT C++., C++ Convert IMAGE to TXT]
+description: Aspose Excel. Convert IMAGE to TXT quickly and easily with Aspose.Cells. C++ IMAGE to TXT. C++ Save IMAGE to TXT. Save IMAGE as TXT using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to TXT in C++., Save IMAGE to TXT using C++., C++ IMAGE to TXT saveformat., IMAGE to TXT Converter., C++ Save IMAGE as TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to TXT programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to TXT by calling Save() method.
 1.  Get the conversion result of IMAGE to TXT.
 

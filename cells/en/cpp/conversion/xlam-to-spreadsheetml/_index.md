@@ -1,7 +1,7 @@
 ---
-title: XLAM to SPREADSHEETML - Convert XLAM to SPREADSHEETML files C++
-description: Aspose Excel. Free Online Convert XLAM to SPREADSHEETML saveformat. C++ XLAM to SPREADSHEETML format. Save XLAM as SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SPREADSHEETML saveformat., Free Online XLAM to SPREADSHEETML Converter]
+title: C++ XLAM to SPREADSHEETML - XLAM to SPREADSHEETML Converter
+description: Aspose Excel. Convert XLAM to SPREADSHEETML quickly and easily with Aspose.Cells. C++ XLAM to SPREADSHEETML. C++ Save XLAM to SPREADSHEETML. Save XLAM as SPREADSHEETML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to SPREADSHEETML in C++., Save XLAM to SPREADSHEETML using C++., C++ XLAM to SPREADSHEETML saveformat., XLAM to SPREADSHEETML Converter., C++ Save XLAM as SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to SPREADSHEETML in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to SPREADSHEETML in C++" %}}
 
 The following example demonstrates how to convert XLAM to SPREADSHEETML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to SPREADSHEETML. Upload your XLAM file, t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to SPREADSHEETML via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to SPREADSHEETML programmatically? C++ developers can
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to SPREADSHEETML by calling Save() method.
 1.  Get the conversion result of XLAM to SPREADSHEETML.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

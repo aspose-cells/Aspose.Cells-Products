@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to CSV - IMAGE to CSV Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to CSV in C++. C++ Convert IMAGE to CSV saveformat. C++ IMAGE to CSV format. Save IMAGE to CSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to CSV in C++., C++ IMAGE to CSV saveformat., IMAGE to CSV C++., C++ Convert IMAGE to CSV]
+description: Aspose Excel. Convert IMAGE to CSV quickly and easily with Aspose.Cells. C++ IMAGE to CSV. C++ Save IMAGE to CSV. Save IMAGE as CSV using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to CSV in C++., Save IMAGE to CSV using C++., C++ IMAGE to CSV saveformat., IMAGE to CSV Converter., C++ Save IMAGE as CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to CSV programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to CSV by calling Save() method.
 1.  Get the conversion result of IMAGE to CSV.
 

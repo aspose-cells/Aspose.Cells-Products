@@ -1,7 +1,7 @@
 ---
-title: XLAM to SXC - Convert XLAM to SXC files C++
-description: Aspose Excel. Free Online Convert XLAM to SXC saveformat. C++ XLAM to SXC format. Save XLAM as SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SXC saveformat., Free Online XLAM to SXC Converter]
+title: C++ XLAM to SXC - XLAM to SXC Converter
+description: Aspose Excel. Convert XLAM to SXC quickly and easily with Aspose.Cells. C++ XLAM to SXC. C++ Save XLAM to SXC. Save XLAM as SXC using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to SXC in C++., Save XLAM to SXC using C++., C++ XLAM to SXC saveformat., XLAM to SXC Converter., C++ Save XLAM as SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to SXC in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to SXC in C++" %}}
 
 The following example demonstrates how to convert XLAM to SXC in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to SXC. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to SXC Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="sxc" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="sxc" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to SXC via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to SXC programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to SXC by calling Save() method.
 1.  Get the conversion result of XLAM to SXC.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}The file format SXC(Sun XML Calc) belongs to an office suite called OpenOffice.org. This format generally deals with the spreadsheet needs of users as it is an XML based spreadsheet file format. SXC format supports formulas, functions, macros and charts along with DataPilot, which is an incredible feature because it automatically individualizes and provides summaries of raw imported data. The files created with this software are saved with extension .sxc.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

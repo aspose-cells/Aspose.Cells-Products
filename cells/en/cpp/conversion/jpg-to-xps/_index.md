@@ -50,7 +50,7 @@ Need to convert JPG files to XPS programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to XPS by calling Save() method.
 1.  Get the conversion result of JPG to XPS.
 

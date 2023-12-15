@@ -1,7 +1,7 @@
 ---
-title: XLAM to SVG - Convert XLAM to SVG files C++
-description: Aspose Excel. Free Online Convert XLAM to SVG saveformat. C++ XLAM to SVG format. Save XLAM as SVG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SVG saveformat., Free Online XLAM to SVG Converter]
+title: C++ XLAM to SVG - XLAM to SVG Converter
+description: Aspose Excel. Convert XLAM to SVG quickly and easily with Aspose.Cells. C++ XLAM to SVG. C++ Save XLAM to SVG. Save XLAM as SVG using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to SVG in C++., Save XLAM to SVG using C++., C++ XLAM to SVG saveformat., XLAM to SVG Converter., C++ Save XLAM as SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -27,7 +27,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to SVG in C++ Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to SVG in C++" %}}
 
 The following example demonstrates how to convert XLAM to SVG in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLAM to SVG. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to SVG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="svg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="svg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to SVG via C++" %}}
 
@@ -50,7 +50,7 @@ Need to convert XLAM files to SVG programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLAM file using Factory::CreateIWorkbook.
+1.  Load XLAM file using Workbook.
 1.  Convert XLAM to SVG by calling Save() method.
 1.  Get the conversion result of XLAM to SVG.
 
@@ -83,6 +83,12 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}An SVG file is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text-based description of such files makes them independent of resolution. It is one of the most used formats for building a website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

@@ -50,7 +50,7 @@ Need to convert ODS files to XLSB programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load ODS file using Factory::CreateIWorkbook.
+1.  Load ODS file using Workbook.
 1.  Convert ODS to XLSB by calling Save() method.
 1.  Get the conversion result of ODS to XLSB.
 

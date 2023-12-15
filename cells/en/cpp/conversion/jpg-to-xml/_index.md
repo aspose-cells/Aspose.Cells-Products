@@ -1,7 +1,7 @@
 ---
 title: C++ JPG to XML - JPG to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. JPG to XML in C++. C++ Convert JPG to XML saveformat. C++ JPG to XML format. Save JPG to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPG to XML in C++., C++ JPG to XML saveformat., JPG to XML C++., C++ Convert JPG to XML]
+description: Aspose Excel. Convert JPG to XML quickly and easily with Aspose.Cells. C++ JPG to XML. C++ Save JPG to XML. Save JPG as XML using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to XML in C++., Save JPG to XML using C++., C++ JPG to XML saveformat., JPG to XML Converter., C++ Save JPG as XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPG files to XML programmatically? C++ developers can easily con
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPG file using Factory::CreateIWorkbook.
+1.  Load JPG file using Workbook.
 1.  Convert JPG to XML by calling Save() method.
 1.  Get the conversion result of JPG to XML.
 

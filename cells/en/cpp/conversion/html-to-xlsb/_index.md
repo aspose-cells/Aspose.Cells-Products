@@ -50,7 +50,7 @@ Need to convert HTML files to XLSB programmatically? C++ developers can easily c
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load HTML file using Factory::CreateIWorkbook.
+1.  Load HTML file using Workbook.
 1.  Convert HTML to XLSB by calling Save() method.
 1.  Get the conversion result of HTML to XLSB.
 

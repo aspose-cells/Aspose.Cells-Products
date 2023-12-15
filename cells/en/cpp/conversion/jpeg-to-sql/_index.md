@@ -1,7 +1,7 @@
 ---
 title: C++ JPEG to SQL - JPEG to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. JPEG to SQL in C++. C++ Convert JPEG to SQL saveformat. C++ JPEG to SQL format. Save JPEG to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., JPEG to SQL in C++., C++ JPEG to SQL saveformat., JPEG to SQL C++., C++ Convert JPEG to SQL]
+description: Aspose Excel. Convert JPEG to SQL quickly and easily with Aspose.Cells. C++ JPEG to SQL. C++ Save JPEG to SQL. Save JPEG as SQL using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to SQL in C++., Save JPEG to SQL using C++., C++ JPEG to SQL saveformat., JPEG to SQL Converter., C++ Save JPEG as SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert JPEG files to SQL programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load JPEG file using Factory::CreateIWorkbook.
+1.  Load JPEG file using Workbook.
 1.  Convert JPEG to SQL by calling Save() method.
 1.  Get the conversion result of JPEG to SQL.
 

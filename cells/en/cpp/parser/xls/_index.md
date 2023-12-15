@@ -64,9 +64,30 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="Parse XLS Files - C++" offSpacer="" %}}
 
 ```cs
-  
 
-    
+Aspose::Cells::Startup();
+
+// extract images from Worksheets 
+// open a template Excel file
+Workbook workbook(u"sampleExtractImagesFromWorksheets.xls");
+
+// get the first worksheet
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
+
+// get the first Picture in the first worksheet
+Picture pic = worksheet.GetPictures().Get(0);
+
+// Note: you may evaluate the image format before specifying the image path
+// define ImageOrPrintOptions
+ImageOrPrintOptions printoption;
+
+// specify the image format
+printoption.SetImageType(ImageType::Jpeg);
+
+// save the image
+pic.ToImage(u"outputExtractImagesFromWorksheets.jpg", printoption);
+
+Aspose::Cells::Cleanup();
 
 ```
 

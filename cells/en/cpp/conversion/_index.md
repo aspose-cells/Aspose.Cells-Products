@@ -13,16 +13,19 @@ For any spreadsheet converter application or solution, **C++ Excel Library** spe
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer and saving back in the desired format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) method of [IWorkbook class](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Converting between spreadsheet formats only requires loading the spreadsheet using the [Workbook](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) class and re-saving it in the required format using the [Save](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) method of the [Workbook](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) class.
 {{% blocks/products/pf/feature-page-code h3="C++ Example Code for Excel File Format Conversion" %}}
 
-```cs
+```cpp
+
+Aspose::Cells::Startup();
 
 // Load the source excel format.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"src_excel_file.xls");
-
+Workbook wkb(u"src_excel_file.xls");
 // Save in required output format.
-wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
+wkb.Save(u"output_excel_format.xlsx", SaveFormat::Xlsx);
+
+Aspose::Cells::Cleanup();
 
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -31,25 +34,28 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Formats to PDF with Compliance Level Settings" %}}
-C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) along with [Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path. 
+C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [PdfSaveOptions](https://reference.aspose.com/cells/cpp/aspose.cells/pdfsaveoptions/) along with [Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/aspose.cells.rendering/) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path. 
 {{% blocks/products/pf/feature-page-code h3="C++ Sample Code for Excel to PDF Conversion" %}}
 
-```cs
-// Load the sample Excel file.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sample-convert-excel-to.pdf");
+```cpp
 
+Aspose::Cells::Startup();
+
+// Load the sample Excel file.
+Workbook wkb(u"sample-convert-excel-to.pdf");
 // Create pdf save options object.
-intrusive_ptr<Aspose::Cells::IPdfSaveOptions> pdfSaveOptions = Factory::CreateIPdfSaveOptions();
+PdfSaveOptions pdfSaveOptions;
 
 // Set the compliance to PDF/A-1b.
-pdfSaveOptions->SetCompliance(Aspose::Cells::Rendering::PdfCompliance_PdfA1b);
+pdfSaveOptions.SetCompliance(PdfCompliance::PdfA1b);
 
-// or PdfCompliance_PdfA1a 
-// for normal PDF it will be PdfCompliance_None
+// or PdfCompliance::PdfA1a
+// for normal PDF it will be PdfCompliance::None
 
 // Save the Excel Document in PDF format
-wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
+wkb.Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 
+Aspose::Cells::Cleanup();
 
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -58,53 +64,53 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Save Excel to Images" %}}
-**C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). For any **Convert Excel to Images** case, select the relevant case from links.
+**C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::ImageOrPrintOptions](https://reference.aspose.com/cells/cpp/aspose.cells.rendering/imageorprintoptions/). For any **Convert Excel to Images** case, select the relevant case from links.
 {{% blocks/products/pf/feature-page-code h3="C++ Code for Excel to Image Conversion" %}}
 
-```cs
-// Output directory path.
-StringPtr outDir = new String("ImagesOutputDirectoryPath");
+```cpp
+
+Aspose::Cells::Startup();
 
 // Load the XLSX.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"source-excel-file.xlsx");
+Aspose::Cells::Workbook wkb(u"source-excel-file.xlsx");
 
 // Access first worksheet.
-intrusive_ptr<Aspose::Cells::IWorksheet> wks = wkb->GetIWorksheets()->GetObjectByIndex(0);
+Aspose::Cells::Worksheet wks = wkb.GetWorksheets().Get(0);
 
 // Create image or print options object.
-intrusive_ptr<Aspose::Cells::Rendering::IImageOrPrintOptions> imgOptions = Factory::CreateIImageOrPrintOptions();
+Aspose::Cells::Rendering::ImageOrPrintOptions imgOptions;
 
 // Specify the image format. Below code is for JPEG
-imgOptions->SetImageFormat(Aspose::Cells::Systems::Drawing::Imaging::ImageFormat::GetJpeg());
+imgOptions.SetImageType(ImageType::Jpeg);
 
-// For other images like GIF, BMP and PNG one can use GetGif(), GetBmp() and GetPng() respectively 
+// For other images like GIF, BMP and PNG one can use ImageType::Gif, ImageType::Bmp and ImageType::Png respectively 
 
 // Specify horizontal and vertical resolution
-imgOptions->SetHorizontalResolution(200);
-imgOptions->SetVerticalResolution(200);
+imgOptions.SetHorizontalResolution(200);
+imgOptions.SetVerticalResolution(200);
 
 // Render the sheet with respect to specified image or print options.
-intrusive_ptr<Aspose::Cells::Rendering::ISheetRender> sr = Factory::CreateISheetRender(wks, imgOptions);
+Aspose::Cells::Rendering::SheetRender sr(wks, imgOptions);
 
 // Get page count.
-Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
+int pageCount = sr.GetPageCount();
 
-// Create string builder object for string concatenations.
-intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
-
+std::string sb = "";
 // Render each page to jpeg image one by one.
-for (int i = 0; i < pageCount; i++){
-	// Clear string builder and create output image path with string concatenations.
-	sb->Clear();
-	sb->Append(outDir);
-	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
-	sb->Append(i);
-	sb->Append((StringPtr)new String(".jpeg"));
+for (int i = 0; i < pageCount; i++) {
+	sb = ""; 
+	sb += "ImagesOutputDirectoryPath/";
+	sb += "outputConvertingWorksheetToImageJPEG_";
+	sb += std::to_string(i);
+	sb += ".jpeg";
 	// Get the output image path.
-	StringPtr outputJPEG = sb->ToString();
+	U16String outputJPEG(sb.c_str());
 	// Convert worksheet to image.
-	sr->ToImage(i, outputJPEG);
+	sr.ToImage(i, outputJPEG);
 }
+
+Aspose::Cells::Cleanup();
+	
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

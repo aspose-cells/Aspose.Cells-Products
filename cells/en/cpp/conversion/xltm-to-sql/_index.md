@@ -50,7 +50,7 @@ Need to convert XLTM files to SQL programmatically? C++ developers can easily co
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load XLTM file using Factory::CreateIWorkbook.
+1.  Load XLTM file using Workbook.
 1.  Convert XLTM to SQL by calling Save() method.
 1.  Get the conversion result of XLTM to SQL.
 

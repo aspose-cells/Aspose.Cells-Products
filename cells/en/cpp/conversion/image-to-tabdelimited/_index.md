@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to TABDELIMITED - IMAGE to TABDELIMITED Converter
-description: Aspose Excel. C++ Aspose.Cells. IMAGE to TABDELIMITED in C++. C++ Convert IMAGE to TABDELIMITED saveformat. C++ IMAGE to TABDELIMITED format. Save IMAGE to TABDELIMITED C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., IMAGE to TABDELIMITED in C++., C++ IMAGE to TABDELIMITED saveformat., IMAGE to TABDELIMITED C++., C++ Convert IMAGE to TABDELIMITED]
+description: Aspose Excel. Convert IMAGE to TABDELIMITED quickly and easily with Aspose.Cells. C++ IMAGE to TABDELIMITED. C++ Save IMAGE to TABDELIMITED. Save IMAGE as TABDELIMITED using C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to TABDELIMITED in C++., Save IMAGE to TABDELIMITED using C++., C++ IMAGE to TABDELIMITED saveformat., IMAGE to TABDELIMITED Converter., C++ Save IMAGE as TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ Need to convert IMAGE files to TABDELIMITED programmatically? C++ developers can
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load IMAGE file using Factory::CreateIWorkbook.
+1.  Load IMAGE file using Workbook.
 1.  Convert IMAGE to TABDELIMITED by calling Save() method.
 1.  Get the conversion result of IMAGE to TABDELIMITED.
 

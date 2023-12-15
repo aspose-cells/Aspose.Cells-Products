@@ -50,7 +50,7 @@ Need to convert HTM files to MD programmatically? C++ developers can easily conv
 
 1.  Install 'Aspose.Cells for C++'.
 1.  Add a library reference (import the library) to your C++ project.
-1.  Load HTM file using Factory::CreateIWorkbook.
+1.  Load HTM file using Workbook.
 1.  Convert HTM to MD by calling Save() method.
 1.  Get the conversion result of HTM to MD.
 

@@ -230,7 +230,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>

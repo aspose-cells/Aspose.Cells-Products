@@ -38,7 +38,7 @@ Follow the easy steps to merge TABDELIMITED to SXC. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Sample Code to Merge TABDELIMITED to SXC in C++" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge TABDELIMITED to SXC in C++" InputFormat="tsv" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to SXC via C++" %}}
 
@@ -108,7 +108,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-pdf/" name="Merge TABDELIMITED to PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-png/" name="Merge TABDELIMITED to PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-svg/" name="Merge TABDELIMITED to SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tiff/" name="Merge TABDELIMITED to TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="Merge TABDELIMITED to TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="Merge TABDELIMITED to TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="Merge TABDELIMITED to XLS" description="Excel Binary Format" >}}

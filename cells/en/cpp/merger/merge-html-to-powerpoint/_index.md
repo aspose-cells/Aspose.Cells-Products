@@ -38,7 +38,7 @@ Follow the easy steps to merge HTML to POWERPOINT. Upload your files, call Workb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Sample Code to Merge HTML to POWERPOINT in C++" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Sample Code to Merge HTML to POWERPOINT in C++" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to POWERPOINT via C++" %}}
 
@@ -108,7 +108,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-pdf/" name="Merge HTML to PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-png/" name="Merge HTML to PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-svg/" name="Merge HTML to SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-tiff/" name="Merge HTML to TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-tsv/" name="Merge HTML to TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-txt/" name="Merge HTML to TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xls/" name="Merge HTML to XLS" description="Excel Binary Format" >}}

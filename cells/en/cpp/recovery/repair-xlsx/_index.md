@@ -42,7 +42,7 @@ Need to repair xlsx file programmatically? C++ developers can easily load & repa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Sample Code to repair XLSX file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Sample Code to repair XLSX file" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ library to repair XLSX file" %}}
 

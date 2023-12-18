@@ -38,7 +38,7 @@ Follow the easy steps to convert TXT to MARKDOWN. Upload your TXT file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TXT to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to MARKDOWN via C++" %}}
 
@@ -102,7 +102,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-pdf/" name="TXT TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-png/" name="TXT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-svg/" name="TXT TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tiff/" name="TXT TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tsv/" name="TXT TO TSV" description="Tab-Separated Values" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-xls/" name="TXT TO XLS" description="Excel Binary Format" >}}

@@ -2,6 +2,7 @@
 title: 解锁XLSB文档via .NET
 weight: 6410
 description: 用于解锁 .NET Framework、.NET Core、Mono 或 Xamarin 平台上受密码保护的 XLSB 文件的 C# 源代码。
+keywords: [C# Aspose.Cells., c# unlock XLSB files., c# how to unlock XLSB document., c# unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 解锁 XLSB 电子表格" h2="使用 .NET 库删除 XLSB 的保护。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

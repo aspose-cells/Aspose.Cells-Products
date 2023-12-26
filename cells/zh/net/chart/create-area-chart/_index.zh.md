@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建面积图
 description: C# 使用 .NET 库将面积图创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 面积图。
+keywords: [C# Aspose.Cells., c# add Area Chart., c# insert Area Chart., c# create Area Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

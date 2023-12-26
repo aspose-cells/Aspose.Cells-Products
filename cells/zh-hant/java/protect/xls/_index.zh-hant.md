@@ -1,7 +1,8 @@
 ---
 title: 保護和鎖定XLS文檔via Java
 weight: 5070
-description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用程序的 Java 運行時環境上使用密碼鎖定 XLS 文件。
+description: Java 範例程式碼，用於在 JSP/JSF 應用程式和桌面應用程式的 Java 執行時間環境上使用密碼鎖定 XLS 檔案。
+keywords: [Java Aspose.Cells., Java Lock XLS files., Java How to Protect and lock XLS document., Java Protect XLS files., Encrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="加密 XLS 文件 via Java" h2="使用 .NET 庫對 Excel 電子表格進行密碼保護，包括 XLS 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -15,7 +16,7 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API這是一個功能豐富、功能強大且易於使用的加密API for Java平台。您可以直接從以下位置下載其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -31,7 +32,7 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="儲存庫" offSpacer="true" %}}
 
 ```cs
 <dependency>
@@ -53,26 +54,26 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
 
 {{% blocks/products/pf/agp/text %}}
 
-只需幾行代碼即可使用 Aspose.Cells API 進行文檔保護。
+只需幾行程式碼即可使用 Aspose.Cells API 進行文件保護。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通過實例化Workbook類加載XLS文件
-1. 使用帶有 ProtectionType 和密碼的 protected(..) 方法
-1. 通過save()方法保存受保護的XLS文件
+1. 透過實例化Workbook類別載入XLS文件
+1. 將protect(..) 方法與ProtectionType 和Password 一起使用
+1. 透過save()方法保存受保護的XLS文件
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
+{{% blocks/products/pf/agp/feature-section-col title="系統需求" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java 支持所有主要平台和操作系統。請確保您具備以下先決條件。
+Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。
-- 直接從 Aspose.Cells for Java 獲取最新版本
+-  Microsoft Windows 或具有 Java JSP/JSF 應用程式和桌面應用程式運行時環境的相容作業系統。
+- 直接從 Aspose.Cells for Java 取得最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -103,7 +104,7 @@ wkb.save("lockedFile.xls");
 
 {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
+ Aspose.Cells API 可用於建立、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟體應用程式中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟體。
 
 
 
@@ -111,15 +112,15 @@ wkb.save("lockedFile.xls");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="免費保護應用程序 XLS" sectionDescription="查看我們的現場演示[加密XLS文件](https://products.aspose.app/cells/protect/xls)具有以下好處。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯代碼" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 XLS 文件並點擊“解鎖”按鈕" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="免費保護應用程式 XLS" sectionDescription="查看我們的現場演示[加密XLS文件](https://products.aspose.app/cells/protect/xls)具有以下好處。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設定任何東西" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯程式碼" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 XLS 檔案並點擊「解鎖」按鈕" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="從鏈接下載生成的 XLS 文件" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-擴展名為 XLS 的文件代表 Excel 二進製文件格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程序（例如 OpenOffice Calc 或 Apple Numbers）創建。Excel 保存的文件稱為工作簿，其中每個工作簿可以有一個或多個工作表。數據以工作表中的表格格式存儲並顯示給用戶，可以涵蓋數值、文本數據、公式、外部數據連接、圖像和圖表。 Microsoft Excel 等應用程序可讓您將工作簿數據導出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。最新版本仍然支持創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。
+副檔名為 XLS 的檔案代表 Excel 二進位檔案格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程式（例如 OpenOffice Calc 或 Apple Numbers）建立。Excel 儲存的檔案稱為工作簿，其中每個工作簿可以有一個或多個工作表。資料以工作表中的表格格式儲存並顯示給用戶，可以涵蓋數值、文字資料、公式、外部資料連接、圖像和圖表。 Microsoft Excel 等應用程式可讓您將工作簿資料匯出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。最新版本仍然支援創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,11 +128,11 @@ wkb.save("lockedFile.xls");
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的保護文件" subTitle="使用Java，可以保護其他文件，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支援的保護文件" subTitle="使用Java，可以保護其他文件，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="二進制 Excel 工作簿文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="電子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="二進位 Excel 工作簿文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="試算表文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

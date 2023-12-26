@@ -2,6 +2,7 @@
 title: 通过 C++ 保护和锁定 XLS 文档
 weight: 8760
 description: 在 C++ 运行时环境（适用于 Windows 32 位、Windows 64 位和 Linux 64 位）上使用密码锁定 XLS 文件的 C++ 示例代码。
+keywords: [C++ Aspose.Cells., C++ Lock XLS files., C++ How to Protect and lock XLS document., C++ Protect XLS files., Encrypt XLS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 加密 XLS 文件" h2="使用 .NET 库对 Excel 电子表格进行密码保护，包括 XLS 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用IWorkbook类加载XLS文件
+1. 使用Workbook类加载XLS文件
 1. 使用带有 ProtectionType 和密码的 Protect(..) 方法
 1. 通过Save()方法保存受保护的XLS文件
 
@@ -64,20 +65,24 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xls");
 
-// Load XLS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xls")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLS file
-workbook->Save(outDir->StringAppend(new String("output.xls")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xls");
+
+Aspose::Cells::Cleanup();
 
 ```
 

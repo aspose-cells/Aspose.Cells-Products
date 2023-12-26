@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL 转 ET - 在线 EXCEL 转 ET 转换器
-description: Aspose Excel。 Python Aspose.Cells. Python Aspose Cells. 免费在线 Python 将 EXCEL 转换为 ET 保存格式。 Python EXCEL转ET格式。将 EXCEL 保存到 ET Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to ET saveformat., Free Online EXCEL to ET Python., Python Convert EXCEL to ET]
+title: Python EXCEL 到 ET - EXCEL 到 ET 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 EXCEL 转换为 ET。Python EXCEL 到 ET。 Python 将EXCEL保存到ET。使用 Python 将 EXCEL 保存为 ET。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to ET in Python., Save EXCEL to ET using Python., Python EXCEL to ET saveformat., EXCEL to ET Converter., Python Save EXCEL as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 EXCEL 转换为 ET Python" h2="用于将 EXCEL 转换为 ET 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="将 EXCEL 转换为 ET Python" %}}
 
-如何将 EXCEL 转换为 ET？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 ET。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 EXCEL 转换为 ET？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 ET。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="在线免费将EXCEL保存到Python中的ET" %}}
+{{% blocks/products/pf/agp/content h2="将EXCEL保存到ET中Python" %}}
 
 下面的例子演示了如何将Python via NET中的EXCEL转换为ET。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 EXCEL 在线转换为 ET 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 EXCEL 转换为 ET 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 EXCEL 转换为 ET" %}}
 

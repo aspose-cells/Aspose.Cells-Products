@@ -1,8 +1,8 @@
 ---
 title: 将 HTM 合并到 POWERPOINT - 在 Java 中将 HTM 合并到 POWERPOINT
 url: /zh/java/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel。 Java Aspose.Cells。免费在线合并 HTM 到 POWERPOINT 保存格式。 Java 将 HTM 合并为 POWERPOINT 格式。将 HTM 合并到 Java 中的 POWERPOINT。HTM 合并。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., Free Online Java Merge HTM to powerpoint., Java Combine HTM to POWERPOINT Online for Free., HTM Merge]
+description: Aspose Excel。 Java Aspose.Cells. 将 HTM 合并到 POWERPOINT 保存格式。 Java 将 HTM 合并为 POWERPOINT 格式。将 HTM 合并到 Java 中的 POWERPOINT。HTM 合并。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., Java Merge HTM to powerpoint., Java Combine HTM to POWERPOINT., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 HTM 合并到 POWERPOINT via Java" h2="用于将 HTM 合并到 POWERPOINT 的高速 Java 库。使用我们的Excel转换API在Java中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., 
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 HTM 合并到 POWERPOINT" %}}
 
-如何将 HTM 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 HTM 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 HTM 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 HTM 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="在线免费将 Java 中的 HTM 合并到 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 HTM 合并到 Java 中的 POWERPOINT" %}}
 
 以下示例演示如何将 HTM 合并到 Aspose.Cells for Java 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 HTM 合并到 POWERPOINT Java" InputFormat="htm" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java 中将 HTM 合并到 POWERPOINT 的示例代码" InputFormat="htm" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 HTM 合并到 POWERPOINT via Java" %}}
 
@@ -103,7 +103,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}扩展名为 .htm 的文件代表超文本标记语言，用于创建在 Web 浏览器（例如 Google Chrome、Internet Explorer、Firefox 等）中显示的网页。它定义了用于创建要在万维网 (WWW) 上发布以供其他人访问的静态页面的标记。这些标记告诉浏览器如何显示网页的内容。此类页面可以包含纯文本、图像、其他页面的超链接、视频和其他媒体信息。当网页发布时，您可以通过查看其页面源代码来查看其背后的标记代码。现代浏览器允许检查网页的每个部分，其中详细说明了 HTM 源中的每个细分或标记元素。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

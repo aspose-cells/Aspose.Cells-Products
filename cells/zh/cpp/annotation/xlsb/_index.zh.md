@@ -1,7 +1,8 @@
 ---
-title: 通过 C++ 添加 Excel 文件 XLSB 注释
+title: 添加或删除 Excel 文件 XLSB 通过 C++ 进行注释
 weight: 860
 description: C++ 示例代码，用于在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境上删除 XLSB 格式注释。
+keywords: [C++ Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 在 XLSB 文件中添加注释" h2="构建您自己的 C++ 应用程序，以使用服务器端 API 操作文档文件中的评论和作者。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1. 选择相关工作表
 1. 使用 Add 方法添加注释
 1. 使用 SetNote 方法设置注释的注释。
-1. 使用保存工作簿[节省](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349)方法
+1. 使用保存工作簿[节省](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/)方法
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 {{% blocks/products/pf/agp/code-block title="在 XLSB 文件中添加注释 - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsb-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsb-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

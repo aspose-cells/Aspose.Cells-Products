@@ -1,8 +1,8 @@
 ---
 title: 将数字合并为 XLTM - 将数字合并为 XLTM 中的 Python
 url: /zh/python-java/merger/merge-numbers-to-xltm/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并数字到XLTM保存格式。 Python 将数字组合为 XLTM 格式。将 NUMBERS 合并到 Python 中的 XLTM。NUMBERS 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLTM in Python., Free Online Python Merge NUMBERS to xltm., Python Combine NUMBERS to XLTM Online for Free., NUMBERS Merge]
+description: Aspose Excel。 Python Aspose.Cells。将数字合并到 XLTM 保存格式。 Python 将数字组合为 XLTM 格式。将 NUMBERS 合并到 Python 中的 XLTM。NUMBERS 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLTM in Python., Python Merge NUMBERS to xltm., Python Combine NUMBERS to XLTM., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 NUMBERS 合并到 XLTM" h2="高速 Python 库，用于将数字合并为 XLTM。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLTM in Python.
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将数字合并到 XLTM" %}}
 
-如何将 NUMBERS 合并到 XLTM？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 NUMBERS 合并到 XLTM。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 NUMBERS 合并到 XLTM？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 NUMBERS 合并到 XLTM。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 Python 中的号码合并到 XLTM" %}}
+{{% blocks/products/pf/agp/content h2="将 Python 中的 NUMBERS 合并到 XLTM" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via Java 中的 NUMBERS 合并到 XLTM。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLTM in Python.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将号码合并到 Python 中的 XLTM" InputFormat="numbers" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="将 NUMBERS 合并到 Python 中的 XLTM 的示例代码" InputFormat="numbers" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将号码合并到 XLTM" %}}
 

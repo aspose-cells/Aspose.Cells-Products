@@ -45,7 +45,7 @@ Python 开发人员只需几行代码即可轻松加载 XLSX 文件并将其转�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="将 XLSX 转换为 PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ Python 开发人员只需几行代码即可轻松加载 XLSX 文件并将其转�
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Excel 电子表格编程库能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+Excel 电子表格编程库能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
     {{% /blocks/products/pf/agp/content %}}
 

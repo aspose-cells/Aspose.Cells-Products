@@ -2,6 +2,7 @@
 title: 如何使用 Python via .Net 在 Excel 中绘制或插入肘部形状
 weight: 10
 description: Python via .Net 源代码将弯头形状插入Excel。
+keywords: [Python Aspose.Cells., Python add elbow shape., Python insert elbow shape., Python create elbow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="使用 Python via .Net 将肘部形状插入 Excel" h2="使用 Aspose.Cells\' API 插入弯头形状，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net 源代码将弯头形状插入Excel。
 
 为了将肘部形状插入 Excel 文件，我们将使用
  [Aspose.Cells for Python 通过.Net](https://pypi.org/project/aspose-cells-python/) 
-API 这是一个功能丰富、功能强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
+ API 这是一个功能丰富、强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -80,7 +81,7 @@ Aspose.Cells API 能够构建跨平台应用程序，可用于创建、编辑、
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

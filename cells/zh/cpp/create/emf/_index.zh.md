@@ -1,7 +1,7 @@
 ---
 title: 创建EMF - 在C++中创建EMF文件
-description: Aspose Excel。 C++ 创建 EMF 文件。创建EMF C++。C++ EMF创建者。在C++中创建EMF。使用C++生成EMF文件。
-keywords: [Aspose Excel., C++ Aspose.Cells., Create EMF C++., C++ EMF Creater., Create EMF file in C++., Generate EMF file in C++]
+description: Aspose Excel。 C++ 使用 Aspose.Cells 快速轻松地创建 EMF 文件。使用 C++ 生成 EMF 文件。在 C++ 中创建 EMF。C++ EMF 创建者。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Create EMF file using C++., Write data to EMF file via C++., Create a EMF file in C++., C++ Generate a EMF file., C++ EMF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中创建EMF文件" h2="使用 C++ 库以编程方式创建本机高性能 EMF 文件，无需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create EMF C++., C++ EMF Creater., 
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 创建 EMF 文件" %}}
 
-如何创建EMF文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松创建 EMF 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何创建EMF文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松创建 EMF 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 创建 IWorkbook 类的对象。
-1. 将第一个工作表放入 IWorksheet 对象中。
-1. 使用 IWorksheet->GetICells() 方法将工作表的单元格获取到 ICells 对象中。
-1. 使用 ICells->GetObjectByIndex() 方法将工作表中所需的单元格访问到 ICell 对象中。
-1. 使用 ICell->PutValue() 方法将值输入到单元格中。
+1. 创建 Workbook 类的对象。
+1. 将第一个工作表放入 Worksheet 对象中。
+1. 使用 Worksheet.GetCells() 方法将工作表的单元格获取到 Cells 对象中。
+1. 使用 Cells.Get() 方法将工作表的所需单元格访问到 Cell 对象中。
+1. 使用 Cell.PutValue() 方法将值输入到单元格中。
 1. 使用 Save() 方法将工作簿保存为 .emf 文件。
 
 {{% blocks/products/pf/agp/code-block title="示例代码展示了如何在 C++ 中创建 EMF 文件。" offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.emf"));
+wkb.Save(u"created_one.emf");
+
+Aspose::Cells::Cleanup();
 
 ```
 

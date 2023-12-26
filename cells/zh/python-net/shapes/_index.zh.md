@@ -1,6 +1,7 @@
 ---
 title: 使用 Python via .Net 在 Excel 中插入形状
 description: Python via .Net 源代码，如何使用 Python via .Net 库将形状插入 Microsoft Excel 文件。
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> 使用 Python via .Net 插入 Excel 形状" h2="在基于 Python via Net 的应用程序中使用服务器端 API 创建 Excel 文档并插入形状。" >}}

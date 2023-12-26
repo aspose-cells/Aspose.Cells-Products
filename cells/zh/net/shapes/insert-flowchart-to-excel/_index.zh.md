@@ -1,7 +1,8 @@
 ---
 title: 在 Excel 中插入/创建流程图 via .NET
 weight: 371
-description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 Excel 中插入/创建流程图的源代码。
+description: C# 使用 .NET 库将流程图添加或插入 Excel 的示例代码。使用此代码可在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 MS Excel 中创建流程图。
+keywords: [C# Aspose.Cells., c# add FlowChart., c# insert FlowChart., c# create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Excel 中插入/创建流程图 via .NET" h2="使用 Aspose.Cells\' API 插入/创建流程图，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -105,13 +106,13 @@ AutoShapeType.FlowChartProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/predefined_process.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartPredefinedProcess
+ AutoShapeType.FlowChartPredefinedProcess
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/internal_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartInternalStorage
+AutoShapeType.FlowChartInternalStorage
     </p>
    </div>
    <div class="col-lg-4">
@@ -243,7 +244,7 @@ AutoShapeType.FlowChartDirectAccessStorage
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/display.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartDisplay
+AutoShapeType.FlowChartDisplay
     </p>
    </div>
   </div>
@@ -259,7 +260,7 @@ AutoShapeType.FlowChartDirectAccessStorage
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

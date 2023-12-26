@@ -1,6 +1,7 @@
 ---
 title: 查看 MHT 文件格式 via .NET
 description: C# 用于在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上加载、渲染和显示 MHT 文档的源代码。
+keywords: [C# Aspose.Cells., c# view MHT files., c# how to render MHT document., c# load and display MHT files., MHT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格（例如 MHT），无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -50,7 +51,7 @@ Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
+-  Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
 - 开发环境如Microsoft Visual Studio
 - 在项目中添加对 Aspose.Cells for .NET DLL 的引用
 

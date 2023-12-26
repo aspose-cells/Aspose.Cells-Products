@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建蜡烛图
 description: C# 使用 .NET 库将烛台（开盘-高-低-收盘股票）图表创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 烛台图。
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

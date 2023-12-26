@@ -1,12 +1,13 @@
 ---
 title: Microsoft Excel 文件转换使用 Python via Java
-description: 转换Excel XLS，XLSX，ODS，CSV至PDF，XPS，HTML，HTML，JPEG，JPEG，HTML和许多其他形式的码数为076193131313131313。
+description: Aspose.Cells for Python via Java 图书馆。只需几行 Python 代码即可转换 EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL 等格式。
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> 通过 Python 进行 Excel 格式转换" h2="将 Excel 文件导入和导出为电子表格、Web、图像和固定布局格式" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Excel 库可加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS . 它还允许将Excel文件导出到PDF、XPS、HTML、MHTML、Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
+Python Excel 库可加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS。还允许将 Excel 文件导出到 PDF、XPS、HTML、MHTML、Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 转换为 XLSX、ODS、SXC 和 FODS" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 工作表转换为 JPG、BMP、PNG 和 GIF" %}}
- Excel文件的每个工作表都可以转换为不同的图像格式，调用[图像或打印选项](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat 设置图像格式。
+Excel文件的每个工作表都可以转换为不同的图像格式，调用[图像或打印选项](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat 设置图像格式。
 {{% blocks/products/pf/feature-page-code h3="Python Excel 到图像转换的代码" %}}
 ```cs
 // load template spreadsheet

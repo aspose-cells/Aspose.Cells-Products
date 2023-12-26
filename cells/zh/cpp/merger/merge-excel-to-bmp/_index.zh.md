@@ -1,8 +1,8 @@
 ---
 title: 合并 EXCEL 到 BMP - 将 EXCEL 合并到 BMP 中的 C++
 url: /zh/cpp/merger/merge-excel-to-bmp/ 
-description: Aspose Excel。 C++ Aspose.Cells。免费在线合并EXCEL到BMP保存格式。 C++ 将EXCEL合并为BMP格式。将EXCEL合并到C++中的BMP。EXCEL合并。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to BMP in C++., Free Online C++ Merge EXCEL to bmp., C++ Combine EXCEL to BMP Online for Free., EXCEL Merge]
+description: Aspose Excel。 C++ Aspose.Cells。合并EXCEL为BMP保存格式。 C++ 将EXCEL合并为BMP格式。将EXCEL合并到C++中的BMP。EXCEL合并。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to BMP in C++., C++ Merge EXCEL to bmp., C++ Combine EXCEL to BMP., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将 EXCEL 合并到 BMP" h2="用于将 EXCEL 合并到 BMP 的高速 C++ 库。使用我们的 Excel 转换 API 在 C++ 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="BMP" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to BMP in C++., Free On
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 EXCEL 合并到 BMP" %}}
 
-如何将EXCEL合并到BMP？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 EXCEL 合并到 BMP。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将EXCEL合并到BMP？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 EXCEL 合并到 BMP。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将C++中的EXCEL合并为BMP" %}}
+{{% blocks/products/pf/agp/content h2="将EXCEL合并到C++中的BMP" %}}
 
 下面的例子演示了如何将EXCEL合并到Aspose.Cells for C++中的BMP。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线合并EXCEL到C++中的BMP" InputFormat="xlsx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="将 EXCEL 合并到 C++ 中的 BMP 的示例代码" InputFormat="xlsx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过C++合并EXCEL到BMP" %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-pdf/" name="合并EXCEL到PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-png/" name="合并EXCEL到PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-svg/" name="合并EXCEL到SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tiff/" name="合并EXCEL到TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tsv/" name="合并EXCEL到TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-txt/" name="合并EXCEL到TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xls/" name="合并EXCEL到XLS" description="Excel 二进制格式" >}}

@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 生成 Excel 文件
 description: 使用 C# 代码从模板表生成 Microsoft Excel 电子表格
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> 基于 Excel 模板的文件创建 via .NET" h2="根据基于 .NET 的应用程序中的预定义模板生成 Excel 文件报告" >}}

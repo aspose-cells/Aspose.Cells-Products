@@ -1,8 +1,8 @@
 ---
 title: 将 XML 合并到 PPTX - 将 XML 合并到 C++ 中的 PPTX
 url: /zh/cpp/merger/merge-xml-to-pptx/ 
-description: Aspose Excel。 C++ Aspose.Cells。免费在线合并 XML 到 PPTX 保存格式。 C++ 将 XML 合并为 PPTX 格式。将 XML 合并到 C++ 中的 PPTX。XML 合并。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to PPTX in C++., Free Online C++ Merge XML to pptx., C++ Combine XML to PPTX Online for Free., XML Merge]
+description: Aspose Excel。 C++ Aspose.Cells。将 XML 合并为 PPTX 保存格式。 C++ 将 XML 合并为 PPTX 格式。将 XML 合并到 C++ 中的 PPTX。XML 合并。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to PPTX in C++., C++ Merge XML to pptx., C++ Combine XML to PPTX., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将 XML 合并到 PPTX" h2="高速 C++ 库，用于将 XML 合并为 PPTX。使用我们的 Excel 转换 API 在 C++ 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to PPTX in C++., Free Onl
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 XML 合并到 PPTX" %}}
 
-如何将 XML 合并到 PPTX？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XML 合并到 PPTX。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XML 合并到 PPTX？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XML 合并到 PPTX。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 C++ 中的 XML 合并到 PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将XML合并到C++中的PPTX" %}}
 
 以下示例演示如何将 XML 合并到 Aspose.Cells for C++ 中的 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XML 合并到 C++ 中的 PPTX" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="将 XML 合并到 C++ 中的 PPTX 的示例代码" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 XML 合并到 PPTX" %}}
 
@@ -89,7 +89,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML 代表可扩展标记语言，与 HTML 类似，但不同之处在于使用标签来定义对象。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是由于它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过万维网 (WWW) 等网络进行存储和共享。 XML 中的“X”表示可扩展，这意味着该语言可以根据用户需求扩展到任意数量的符号。许多标准文件格式都利用了这些功能，例如 Microsoft Open XML、LibreOffice OpenDocument、XHTML 和 SVG。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-pdf/" name="将 XML 合并到 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-png/" name="将 XML 合并到 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-svg/" name="将 XML 合并到 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tiff/" name="将 XML 合并到 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tsv/" name="将 XML 合并到 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-txt/" name="将 XML 合并到 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xls/" name="将 XML 合并到 XLS" description="Excel 二进制格式" >}}

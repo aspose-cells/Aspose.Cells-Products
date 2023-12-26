@@ -1,7 +1,7 @@
 ---
-title: C++ FODS 转 POWERPOINT - 在线 FODS 转 POWERPOINT 转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 FODS 转换为 POWERPOINT 保存格式。 C++ FODS 为 POWERPOINT 格式。将 FODS 保存到 POWERPOINT C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to POWERPOINT saveformat., Free Online FODS to POWERPOINT C++., C++ Convert FODS to POWERPOINT]
+title: C++ FODS 转 POWERPOINT - FODS 转 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 FODS 转换为 POWERPOINT。C++ FODS 转换为 POWERPOINT。 C++ 将 FODS 保存到 POWERPOINT。使用 C++ 将 FODS 另存为 POWERPOINT。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to POWERPOINT in C++., Save FODS to POWERPOINT using C++., C++ FODS to POWERPOINT saveformat., FODS to POWERPOINT Converter., C++ Save FODS as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 FODS 转换为 C++ 中的 POWERPOINT" h2="使用 C++ 库进行高性能 FODS 到 POWERPOINT 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to POWE
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 FODS 转换为 POWERPOINT" %}}
 
-如何将 FODS 转换为 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 FODS 转换为 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 FODS 转换为 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 FODS 转换为 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 FODS 保存到 C++ 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 FODS 保存到 C++ 中的 POWERPOINT" %}}
 
 以下示例演示如何将 FODS 转换为 C++ 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 FODS 在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 FODS 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 FODS 转换为 POWERPOINT" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 FODS 文件。
+1. 使用工作簿加载 FODS 文件。
 1. 通过调用 Save() 方法将 FODS 转换为 POWERPOINT。
 1. 获取 FODS 到 POWERPOINT 的转换结果。
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}扩展名为 .fods 的文件是一种 OpenDocument 电子表格文档格式，以行和列存储数据。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 FODS 文件无法使用 Excel（Microsoft 的另一个电子表格软件应用程序）打开。FODS 文件可以使用 LibreOffice 将其另存为 ODS，并且可以转换为其他格式，例如 XLS 和 XLSX。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-pdf/" name="FODS 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-png/" name="FODS 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-svg/" name="FODS 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tiff/" name="FODS 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tsv/" name="FODS 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-txt/" name="FODS 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xls/" name="FODS 至 XLS" description="Excel 二进制格式" >}}

@@ -1,7 +1,7 @@
 ---
-title: Java ODS 转 JSON - 在线 ODS 转 JSON 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 ODS 转换为 JSON 保存格式。 Java ODS 到 JSON 格式。将 ODS 保存为 JSON Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to JSON saveformat., Free Online ODS to JSON Java., Java Convert ODS to JSON]
+title: Java ODS 至 JSON - ODS 至 JSON 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 ODS 转换为 JSON。 Java ODS 为 JSON。 Java 将 ODS 保存为 JSON。 将 ODS 另存为 07611134 81 使用 Java。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to JSON in Java., Save ODS to JSON using Java., Java ODS to JSON saveformat., ODS to JSON Converter., Java Save ODS as JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 ODS 转换为 Java 中的 JSON" h2="高速Java库，用于将ODS转换为JSON。这是一个专业的软件解决方案，用于导入和导出ODS、JSON和使用Java的许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to JS
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 ODS 转换为 JSON" %}}
 
-如何将 ODS 转换为 JSON？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 ODS 转换为 JSON。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 ODS 转换为 JSON？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 ODS 转换为 JSON。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to JS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 ODS 至 JSON 于 Java" %}}
+{{% blocks/products/pf/agp/content h2="将 ODS 保存到 Java 中" %}}
 
 以下示例演示如何将 Java 中的 ODS 转换为 JSON。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to JS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 ODS 转换为 JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 ODS 转换为 JSON 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何转换 ODS 为 JSON via Java" %}}
 

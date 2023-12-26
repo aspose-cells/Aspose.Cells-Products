@@ -1,7 +1,7 @@
 ---
-title: C++ OTS 至 PPTX - 在线 OTS 至 PPTX 转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 OTS 转换为 PPTX 保存格式。 C++ OTS 到 PPTX 格式。将 OTS 保存到 PPTX C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to PPTX saveformat., Free Online OTS to PPTX C++., C++ Convert OTS to PPTX]
+title: C++ OTS 至 PPTX - OTS 至 PPTX 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 OTS 转换为 PPTX。 C++ OTS 转换为 PPTX。 C++ 将 OTS 保存为 PPTX。 使用 C++ 将 OTS 保存为 PPTX。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to PPTX in C++., Save OTS to PPTX using C++., C++ OTS to PPTX saveformat., OTS to PPTX Converter., C++ Save OTS as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 C++ 中的 OTS 转换为 PPTX" h2="使用 C++ 库进行高性能 OTS 到 PPTX 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to PPTX 
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 OTS 转换为 PPTX" %}}
 
-如何将 OTS 转换为 PPTX？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 OTS 转换为 PPTX。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 OTS 转换为 PPTX？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 OTS 转换为 PPTX。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在C++在线保存OTS到PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将OTS保存到C++中的PPTX" %}}
 
 以下示例演示如何将 C++ 中的 OTS 转换为 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 OTS 在线转换为 PPTX 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 OTS 转换为 PPTX 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 OTS 转换为 PPTX" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 OTS 文件。
+1. 使用工作簿加载 OTS 文件。
 1. 通过调用 Save() 方法将 OTS 转换为 PPTX。
 1. 获取OTS到PPTX的转换结果。
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}扩展名为 .ots 的文件是使用 Apache OpenOffice 中包含的 Calc 应用程序软件创建的 OpenDocument 电子表格模板文件。 Calc应用软件类似于Microsoft Office中的Excel。 OTS 文件格式用于创建包含与样式、字体、数据、电子表格布局和格式相关的预定义设置的模板。 OTF 文件具有 mime 类型 application/vnd.oasis.opendocument.spreadsheet-template。这些模板文件可用作生成和保存以 ODS 文件格式保存的实际数据文件的起点。 OTS 文件可与 OpenOffice 和 LibreOffice 等应用程序一起使用。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-pdf/" name="OTS至PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-png/" name="OTS至PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-svg/" name="OTS至SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tiff/" name="OTS至TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tsv/" name="OTS至TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-txt/" name="OTS至TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xls/" name="OTS至XLS" description="Excel 二进制格式" >}}

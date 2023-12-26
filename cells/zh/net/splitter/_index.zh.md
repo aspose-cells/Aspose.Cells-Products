@@ -1,6 +1,7 @@
 ---
 title: 在 C# 中按工作表拆分 Excel 工作表
 description: C# 源代码，解释如何在 Visual C#.NET 应用程序中将 Microsoft Excel 文件拆分为多个文件
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 文件分割 via .NET" h2="在基于 .NET 的应用程序中使用 C# 代码将单个 Excel 文档拆分为不同的文件" >}}

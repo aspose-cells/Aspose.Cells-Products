@@ -1,7 +1,7 @@
 ---
-title: Java XLTM 转 MHT - 在线 XLTM 转 MHT 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 XLTM 转换为 MHT 保存格式。 Java XLTM 为 MHT 格式。将 XLTM 保存到 MHT Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to MHT saveformat., Free Online XLTM to MHT Java., Java Convert XLTM to MHT]
+title: Java XLTM 转 MHT - XLTM 转 MHT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLTM 转换为 MHT。 Java XLTM 转换为 MHT。 Java 将 XLTM 保存到 MHT。使用 Java 将 XLTM 保存为 MHT。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to MHT in Java., Save XLTM to MHT using Java., Java XLTM to MHT saveformat., XLTM to MHT Converter., Java Save XLTM as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLTM 转换为 Java 中的 MHT" h2="用于将 XLTM 转换为 MHT 的高速 Java 库。这是一个专业的软件解决方案，可以使用Java导入和导出XLTM、MHT和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to M
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 XLTM 转换为 MHT" %}}
 
-如何将 XLTM 转换为 MHT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLTM 转换为 MHT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 XLTM 转换为 MHT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLTM 转换为 MHT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLTM 保存到 Java 中的 MHT" %}}
+{{% blocks/products/pf/agp/content h2="将 XLTM 保存到 Java 中的 MHT" %}}
 
 以下示例演示如何将 XLTM 转换为 Java 中的 MHT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 XLTM 转换为 MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 XLTM 转换为 MHT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 XLTM 转换为 MHT via Java" %}}
 

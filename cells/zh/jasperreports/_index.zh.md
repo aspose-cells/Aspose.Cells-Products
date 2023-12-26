@@ -12,7 +12,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式从 Jasper R
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports 是一个可靠的 JasperReports 和 JasperServer 扩展，提供 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的报表导出，无需使用 0 76193481 Excel。它可以作为 JasperReports 原始 Microsoft Excel 导出器的替代品，并消除对 POI 库的依赖。
+ Aspose.Cells for JasperReports 是一个可靠的 JasperReports 和 JasperServer 扩展，提供 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的报表导出，无需使用 076 193481 Excel。它可以作为 JasperReports 原始 Microsoft Excel 导出器的替代品，并消除对 POI 库的依赖。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

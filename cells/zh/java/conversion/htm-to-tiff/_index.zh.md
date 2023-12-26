@@ -1,7 +1,7 @@
 ---
-title: Java HTM 至 TIFF - 在线 HTM 至 TIFF 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 HTM 转换为 TIFF 保存格式。 Java HTM 至 TIFF 格式。将 HTM 保存到 TIFF Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to TIFF saveformat., Free Online HTM to TIFF Java., Java Convert HTM to TIFF]
+title: Java HTM 至 TIFF - HTM 至 TIFF 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 HTM 转换为 TIFF。 Java HTM 到 TIFF。 Java 将 HTM 保存为 TIFF。 使用 Java 将 HTM 保存为 TIFF。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to TIFF in Java., Save HTM to TIFF using Java., Java HTM to TIFF saveformat., HTM to TIFF Converter., Java Save HTM as TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Java 中的 HTM 转换为 TIFF" h2="用于将 HTM 转换为 TIFF 的高速 Java 库。这是一个使用 Java 导入和导出 HTM、TIFF 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to TI
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 HTM 转换为 TIFF" %}}
 
-如何将 HTM 转换为 TIFF？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 TIFF。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 HTM 转换为 TIFF？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 TIFF。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to TI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将HTM保存到Java中的TIFF" %}}
+{{% blocks/products/pf/agp/content h2="将 HTM 保存到 Java 中的 TIFF" %}}
 
 下面的例子演示了如何将Java中的HTM转换为TIFF。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to TI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 HTM 在线转换为 TIFF 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 HTM 转换为 TIFF 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 HTM 转换为 TIFF via Java" %}}
 

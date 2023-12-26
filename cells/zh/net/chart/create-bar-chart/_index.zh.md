@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建条形图
 description: C# 使用 .NET 库创建 Excel 条形图的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 条形图。
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

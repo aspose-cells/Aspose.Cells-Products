@@ -2,6 +2,7 @@
 title: 查看 XLTX 文件格式 via .NET
 weight: 7870
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加载、渲染和显示 XLTX 文档。
+keywords: [C# Aspose.Cells., c# view XLTX files., c# how to render XLTX document., c# load and display XLTX files., XLTX File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格，例如 XLTX，无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLTX" >}}

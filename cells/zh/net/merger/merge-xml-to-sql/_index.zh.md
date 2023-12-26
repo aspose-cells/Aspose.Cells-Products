@@ -1,8 +1,8 @@
 ---
 title: 将 XML 合并到 SQL - 将 XML 合并到 SQL 中 C#
 url: /zh/net/merger/merge-xml-to-sql/ 
-description: Aspose Excel。 C# Aspose.Cells。免费在线将 XML 合并为 SQL 保存格式。 C# 将 XML 合并为 SQL 格式。在 C#.XML 合并中将 XML 合并到 SQL。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to SQL in C#., Free Online C# Merge XML to sql., C# Combine XML to SQL Online for Free., XML Merge]
+description: Aspose Excel。 C# Aspose.Cells. 将 XML 合并为 SQL 保存格式。 C# 将 XML 合并为 SQL 格式。在 C#.XML 合并中将 XML 合并到 SQL。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to SQL in C#., C# Merge XML to sql., C# Combine XML to SQL., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 XML 合并到 SQL" h2="用于将 XML 合并到 SQL 的高速 C# 库。使用我们的Excel转换API在C#中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="SQL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to SQL in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="使用 C# 将 XML 合并到 SQL" %}}
 
-如何将 XML 合并到 SQL？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 XML 合并到 SQL。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XML 合并到 SQL？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 XML 合并到 SQL。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XML 合并为 SQL C#" %}}
+{{% blocks/products/pf/agp/content h2="将 XML 合并到 C# 中的 SQL" %}}
 
 以下示例演示如何将 Aspose.Cells for .NET 中的 XML 合并到 SQL。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XML 合并为 SQL C#" InputFormat="xml" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# 中将 XML 合并到 SQL 的示例代码" InputFormat="xml" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C# 将 XML 合并到 SQL" %}}
 

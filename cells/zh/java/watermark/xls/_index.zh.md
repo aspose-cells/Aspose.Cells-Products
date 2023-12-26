@@ -2,6 +2,7 @@
 title: 水印XLS文档via Java
 weight: 2210
 description: Java 用于向 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 XLS 文件添加或删除水印的示例代码。
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="添加文本水印到XLS via Java" h2="使用服务器端 API 构建您自己的 Java 应用程序来为 XLS 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,6 +1,7 @@
 ---
 title: 管理 Excel 文件元数据 via .NET C#
 description: 只需几行 C# 代码即可查看、添加、编辑、删除或提取 Excel 文件元数据
+keywords: [C# Aspose.Cells., c# view excel metadata., c# add excel metadata., c# insert excel metadata., c# edit excel metadata., c# remove excel metadata., c# extract excel metadata., c# modify excel metadata]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="管理 Microsoft<sup>&reg;</sup> Excel 文件元数据 via .NET" h2="使用服务器端 .NET API 查看、添加、更新、删除或提取内置和自定义 Excel 文件属性。" >}}

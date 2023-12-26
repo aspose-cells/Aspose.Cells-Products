@@ -2,6 +2,7 @@
 title: 在 Excel 中对形状进行分组和取消分组 via Java
 weight: 360
 description: 使用 Aspose.Cells' Java API 对对象进行分组和取消分组，无需任何软件，例如 Microsoft 或 Open Office、Adobe PDF 等。
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Excel 中对形状进行分组和取消分组 via Java" h2="使用 Aspose.Cells\' API 处理各种对象，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

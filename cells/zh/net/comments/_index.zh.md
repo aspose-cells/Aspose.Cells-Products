@@ -1,6 +1,7 @@
 ---
 title: 在 Excel 中插入注释 via .NET
-description:  C# 源代码，如何使用 .NET 库将注释插入 Microsoft Excel 文件。
+description:  C# 源代码，如何使用 .NET 库将注释插入到 Microsoft Excel 文件中。
+keywords: [C# Aspose.Cells., add excel comments., insert excel comments., access excel comments., remove excel comments., delete excel comments., add comments in excel., insert comments in excel., access comments in excel., remove comments in excel., delete comments in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 注释插入 via .NET" h2="在基于 .NET 的应用程序中使用服务器端 API 创建 Excel 文档并插入注释。" >}}

@@ -2,6 +2,7 @@
 title: 水印XLSB文档via Java
 weight: 5900
 description: Java 用于向 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 XLSB 文件添加或删除水印的示例代码。
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="添加文本水印到XLSB via Java" h2="使用服务器端 API 构建您自己的 Java 应用程序来为 XLSB 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

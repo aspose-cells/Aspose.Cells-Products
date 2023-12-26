@@ -2,6 +2,7 @@
 title: 保护和锁定XLS文档via .NET
 weight: 7010
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密码锁定 XLS 文件。
+keywords: [C# Aspose.Cells., c# Lock XLS files., c# How to Protect and lock XLS document., c# Protect XLS files., Encrypt XLS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 加密 XLS 文件" h2="使用 .NET 库对 Excel 电子表格进行密码保护，包括 XLS 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

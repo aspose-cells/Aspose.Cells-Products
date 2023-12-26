@@ -1,7 +1,7 @@
 ---
-title: Java TXT 转 POWERPOINT - 在线 TXT 转 POWERPOINT 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 TXT 转换为 POWERPOINT 保存格式。 Java TXT 为 POWERPOINT 格式。将 TXT 保存到 POWERPOINT Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT Java., Java Convert TXT to POWERPOINT]
+title: Java TXT 转 POWERPOINT - TXT 转 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 TXT 转换为 POWERPOINT。Java TXT 转换为 POWERPOINT。 Java 将 TXT 保存到 POWERPOINT。使用 Java 将 TXT 另存为 POWERPOINT。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to POWERPOINT in Java., Save TXT to POWERPOINT using Java., Java TXT to POWERPOINT saveformat., TXT to POWERPOINT Converter., Java Save TXT as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 TXT 转换为 Java 中的 POWERPOINT" h2="用于将 TXT 转换为 POWERPOINT 的高速 Java 库。这是一个专业的软件解决方案，可以使用 TXT 导入和导出 TXT、POWERPOINT 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PO
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 TXT 转换为 POWERPOINT" %}}
 
-如何将 TXT 转换为 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 TXT 转换为 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 TXT 转换为 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 TXT 转换为 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 TXT 保存到 Java 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 TXT 保存到 Java 中的 POWERPOINT" %}}
 
 以下示例演示如何将 TXT 转换为 Java 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 TXT 在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 TXT 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 TXT 转换为 POWERPOINT via Java" %}}
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PO
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}扩展名为 .TXT 的文件表示包含行形式的纯文本的文本文档。文本文档中的段落由回车符识别，用于更好地排列文件内容。标准文本文档可以在不同操作系统上的任何文本编辑器或文字处理应用程序中打开。此类文件中包含的所有文本都是人类可读的格式，并由字符序列表示。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

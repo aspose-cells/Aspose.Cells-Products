@@ -356,7 +356,7 @@ Aspose.Cells' 报告设计器工具
 将报告导出为电子表格格式
     </h2>
     <p>
-Aspose.Cells for Reporting Services 支持所有流行的 Microsoft Excel (97 - 2016) 文件格式，包括“本机” Microsoft Excel 格式，如 XLS、XLSX、XLSM、SpreadsheetML、CSV、Tab De有限和HTML。Aspose.Cells for Reporting Services还支持ODS（OpenDocument电子表格）文件格式。
+Aspose.Cells for Reporting Services 支持所有流行的 Microsoft Excel (97 - 2016) 文件格式，包括“本机” Microsoft Excel 格式，如 XLS、XLSX、XLSM、SpreadsheetML、CSV、制表符分隔和HTML。Aspose.Cells for Reporting Services还支持ODS（OpenDocument电子表格）文件格式。
     </p>
     <p>
 除此之外，Aspose.Cells for Reporting Services 将 Excel 文档导出为完全可编辑的电子表格，即；如果需要，最终用户可以在 Microsoft Excel 应用程序中手动编辑生成的电子表格。

@@ -1,6 +1,7 @@
 ---
 title: Excel 图表创建和图像转换 via .NET
 description:  C# 使用 .NET 库在 Microsoft Excel 中绘制和转换图表或图表的源代码。
+keywords: [C# Aspose.Cells., c# Convert chart to image., c# Save chart to image., c# chart to image., create charts in c#., insert charts in c#., manage charts in c#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 文件图表创建和转换 via .NET" h2="在基于 .NET 的应用程序中使用服务器端 API 创建 Excel 文档图表并转换为图像。" >}}

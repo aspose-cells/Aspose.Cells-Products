@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
+-  Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
 - 开发环境如Microsoft Visual Studio
 - 在项目中添加对 Aspose.Cells for .NET DLL 的引用 - 使用上面的下载按钮从 NuGet 安装
 

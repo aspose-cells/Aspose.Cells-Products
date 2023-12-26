@@ -1,8 +1,8 @@
 ---
-title: Java 修复 xlsx 文件 - 免费在线修复 xlsx 文件
+title: Java Repair xlsx - 恢复并修复损坏的 xlsx 文件
 url: /zh/java/recovery/repair-xlsx/ 
-description: Aspose Excel。 Java Aspose.Cells。Java 修复xlsx文件。免费在线 xlsx 修复工具。修复损坏的 xlsx 文件。恢复 Java 应用程序中损坏的 xlsx 文件。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsx file., Free Online Repair a corrupted xlsx file., Java Recover xlsx file.]
+description: Java Aspose.Cells。修复xlsx。修复 xlsx 文件。 xlsx 恢复工具。 xlsx 腐败。恢复 xlsx 数据。 xlsx 文件恢复。恢复损坏的 xlsx 文件。
+keywords: [Java Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="修复Java中的XLSX文件" h2="构建您自己的 Java 应用程序以使用 Java 修复 xlsx 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="使用 Java 修复 XLSX 文件" %}}
 
-如何修复 xlsx 文件？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松修复 XLSX 文件。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何修复 xlsx 文件？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松修复 XLSX 文件。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="免费应用程序和示例代码在线修复 XLSX 文件" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="修复 XLSX 文件的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java库修复XLSX文件" %}}
 

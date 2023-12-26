@@ -2,6 +2,7 @@
 title: 使用 Python via Java 将 ActiveX 控件插入 Excel
 weight: 10
 description: Python via Java 将 ActiveX 控件插入 Excel 的源代码。
+keywords: [Python via Java Aspose.Cells., Python via Java add ActiveX Control into Excel., Python via Java insert ActiveX Control into Excel., Python via Java create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="使用 Python via java 将 ActiveX 控件插入 Excel" h2="使用服务器端 API 插入对象，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via Java 将 ActiveX 控件插入 Excel 的源代码。
 
 为了将 ActiveX 控件插入到 Excel 文件中，我们将使用
  [Aspose.Cells for Python 通过java](https://pypi.org/project/aspose-cells/) 
-API，这是一个功能丰富、强大且易于使用的文档操作API，用于通过java平台的python。API提供Excel文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
+ API，这是一个功能丰富、强大且易于使用的文档操作API，用于通过java平台的python。API提供Excel文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 

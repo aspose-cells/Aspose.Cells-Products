@@ -1,7 +1,8 @@
 ---
 title: 如何在 Excel 中绘制或插入直箭头 via .NET
 weight: 10
-description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 Excel 中绘制或插入直箭头。
+description: C# 使用 .NET 库向 Excel 添加或插入直箭头的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 MS Excel 中创建直箭头。
+keywords: [C# Aspose.Cells., c# add straight arrow., c# insert straight arrow., c# create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将直箭头插入 Excel via .NET" h2="使用 Aspose.Cells\' API 插入直箭头，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -77,7 +78,7 @@ Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保�
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

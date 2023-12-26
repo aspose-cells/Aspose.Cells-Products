@@ -2,6 +2,7 @@
 title: 拆分 XLS 文件 via .NET
 weight: 1340
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 XLS 文档。
+keywords: [C# Aspose.Cells., C# split xls files., C# how to split xls files into multiple files., C# xls splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="拆分 XLS C# 中的格式" h2="使用服务器端 API 的本机高性能 XLS 拆分器，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}

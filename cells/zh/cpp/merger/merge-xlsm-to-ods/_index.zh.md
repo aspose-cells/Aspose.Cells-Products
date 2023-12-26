@@ -1,8 +1,8 @@
 ---
 title: 合并 XLSM 至 ODS - 将 XLSM 至 ODS 合并为 C++
 url: /zh/cpp/merger/merge-xlsm-to-ods/ 
-description: Aspose Excel。 C++ Aspose.Cells。免费在线合并XLSM到ODS保存格式。 C++ 将 XLSM 合并为 ODS 格式。将 XLSM 合并到 C++ 中的 ODS。 XLSM 合并。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to ODS in C++., Free Online C++ Merge XLSM to ods., C++ Combine XLSM to ODS Online for Free., XLSM Merge]
+description: Aspose Excel。 C++ Aspose.Cells。将XLSM合并到ODS保存格式。 C++ 将 XLSM 合并为 ODS 格式。将 XLSM 合并到 C++ 中的 ODS。 XLSM 合并。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to ODS in C++., C++ Merge XLSM to ods., C++ Combine XLSM to ODS., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将 XLSM 合并到 ODS" h2="用于合并 XLSM 到 ODS 的高速 C++ 库。使用我们的 Excel 转换 API 在 C++ 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to ODS in C++., Free Onl
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 XLSM 合并到 ODS" %}}
 
-如何将 XLSM 合并到 ODS？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松地将 XLSM 合并到 ODS。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XLSM 合并到 ODS？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松地将 XLSM 合并到 ODS。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLSM 合并为 C++ 中的 ODS" %}}
+{{% blocks/products/pf/agp/content h2="将 XLSM 合并到 C++ 中的 ODS" %}}
 
 以下示例演示如何将 XLSM 合并到 Aspose.Cells for C++ 中的 ODS。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLSM 合并到 C++ 中的 ODS" InputFormat="xlsm" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="将 XLSM 合并到 C++ 中的 ODS 的示例代码" InputFormat="xlsm" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 XLSM 合并到 ODS" %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-pdf/" name="合并 XLSM 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-png/" name="合并 XLSM 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-svg/" name="合并 XLSM 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-tiff/" name="合并 XLSM 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-tsv/" name="合并 XLSM 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-txt/" name="合并 XLSM 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xls/" name="合并 XLSM 至 XLS" description="Excel 二进制格式" >}}

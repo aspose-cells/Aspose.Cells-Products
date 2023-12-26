@@ -1,7 +1,7 @@
 ---
-title: Python TABDELIMITED 到 WORD - 在线 TABDELIMITED 到 WORD 转换器
-description: Aspose Excel。 Python Aspose.Cells. Python Aspose Cells. 免费在线 Python 将 TABDELIMITED 转换为 WORD 保存格式。 Python TABDELIMITED 为 WORD 格式。将 TABDELIMITED 保存到 WORD Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to WORD saveformat., Free Online TABDELIMITED to WORD Python., Python Convert TABDELIMITED to WORD]
+title: Python TABDELIMITED 到 WORD - TABDELIMITED 到 WORD 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 TABDELIMITED 转换为 WORD。 Python TABDELIMITED 为 WORD。 Python 将 TABDELIMITED 保存为 WORD。 使用 Python 将 TABDELIMITED 保存为 WORD。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to WORD in Python., Save TABDELIMITED to WORD using Python., Python TABDELIMITED to WORD saveformat., TABDELIMITED to WORD Converter., Python Save TABDELIMITED as WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 TABDELIMITED 转换为 WORD" h2="用于将 TABDELIMITED 转换为 WORD 的高速 Python 库。这是一个使用 Python 导入和导出 TABDELIMITED、WORD 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,28 +12,28 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 TABDELIMITED 转换为 WORD" %}}
 
-如何将 TABDELIMITED 转换为 WORD？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 TABDELIMITED 转换为 WORD。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 TABDELIMITED 转换为 WORD？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 TABDELIMITED 转换为 WORD。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 Python 中的 TABDELIMITED 保存为 WORD" %}}
+{{% blocks/products/pf/agp/content h2="将 TABDELIMITED 保存到 Python 中的 WORD" %}}
 
 以下示例演示如何将 Python 中的 TABDELIMITED 转换为 WORD。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 TABDELIMITED 转换为 WORD。上传 TABDELIMITED 文件，然后将其保存为 WORD 文件。对于 TABDELIMITED 读取和 WORD 写入，您可以使用完全限定的文件名。输出的 WORD 内容和格式将与原始 TABDELIMITED 文档相同。
+按照简单的步骤将 TABDELIMITED 转换为 WORD。上传您的 TABDELIMITED 文件，然后只需将其另存为 WORD 文件。对于 TABDELIMITED 读取和 WORD 写入，您可以使用完全限定的文件名。输出 WORD 内容和格式将与原始 TABDELIMITED 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="在线将 TABDELIMITED 转换为 WORD 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 TABDELIMITED 转换为 WORD 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 TABDELIMITED 转换为 WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以编程方式将 TABDELIMITED 文件转换为 WORD？ Python 开发人员只需几行代码即可轻松加载 TABDELIMITED 并将其转换为 WORD。
+需要以编程方式将 TABDELIMITED 文件转换为 WORD 吗？ Python 开发人员只需几行代码即可轻松加载 TABDELIMITED 并将其转换为 WORD。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -41,11 +41,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 1. 将库引用（导入库）添加到您的 Python 项目中。
 1. 使用工作簿实例加载 TABDELIMITED 文件。
 1. 通过调用 Workbook.save 方法将 TABDELIMITED 转换为 WORD。
-1. 获取 TABDELIMITED 到 WORD 的转换结果。
+1. 得到TABDELIMITED到WORD的转换结果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python 将 TABDELIMITED 转换为 WORD 的库" %}}
+{{% blocks/products/pf/agp/content h2="Python 库将 TABDELIMITED 转换为 WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

@@ -56,7 +56,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="免费应用程序在线合并 Excel 文件" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="免费应用程序在线合并 Excel 文件" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 

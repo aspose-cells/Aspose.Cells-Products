@@ -1,7 +1,7 @@
 ---
-title: Python PRN 至 XLSX - 在线 PRN 至 XLSX 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 PRN 转换为 XLSX 保存格式。 Python PRN 到 XLSX 格式。将 PRN 保存到 XLSX Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to XLSX saveformat., Free Online PRN to XLSX Python., Python Convert PRN to XLSX]
+title: Python PRN 至 XLSX - PRN 至 XLSX 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 PRN 转换为 XLSX。 Python PRN 为 XLSX。 Python 将 PRN 保存为 XLSX。 使用 Python 将 PRN 保存为 XLSX。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to XLSX in Python., Save PRN to XLSX using Python., Python PRN to XLSX saveformat., PRN to XLSX Converter., Python Save PRN as XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 PRN 转换为 XLSX" h2="用于将 PRN 转换为 XLSX 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% blocks/products/pf/agp/content h2="将 Python 中的 PRN 转换为 XLSX" %}}
 
-如何将 PRN 转换为 XLSX？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 PRN 转换为 XLSX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 PRN 转换为 XLSX？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 PRN 转换为 XLSX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将 PRN 保存到 Python 中的 XLSX" %}}
+{{% blocks/products/pf/agp/content h2="将 PRN 保存到 Python 中的 XLSX" %}}
 
 以下示例演示如何将 Python via NET 中的 PRN 转换为 XLSX。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 PRN 在线转换为 XLSX 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 PRN 转换为 XLSX 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 PRN 转换为 XLSX" %}}
 

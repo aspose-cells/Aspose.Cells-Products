@@ -12,7 +12,7 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python 是一款快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格、操作 Excel 文件以及从 Excel 文件中提取信息。 API 读取多种 Excel 格式，并可以将工作表渲染为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
+Aspose.Cells for Python 是一款快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格、操作 Excel 文件以及从 Excel 文件中提取信息。 API 读取多种 Excel 格式，并可以将工作表渲染为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 灵活的显示选项
     </h2>
     <p>
-Aspose.Cells for Python 提供对页面设置的完全控制，允许操作多个显示选项，如预览分页符、设置缩放级别、设置页面方向、通过冻结窗格控制数据可见性、纸张大小、缩放、标题和标题。页脚和打印区域。
+ Aspose.Cells for Python 提供对页面设置的完全控制，允许操作多个显示选项，如预览分页符、设置缩放级别、设置页面方向、通过冻结窗格控制数据可见性、纸张大小、缩放、标题和标题。页脚和打印区域。
     </p>
    </div>
    <!--<div class="col-lg-12">

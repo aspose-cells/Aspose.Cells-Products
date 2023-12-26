@@ -1,8 +1,8 @@
 ---
 title: 将 XLTX 合并到 POWERPOINT - 将 XLTX 合并到 Java 中的 POWERPOINT
 url: /zh/java/merger/merge-xltx-to-powerpoint/ 
-description: Aspose Excel。 Java Aspose.Cells。免费在线合并 XLTX 到 POWERPOINT 保存格式。 Java 将 XLTX 合并为 POWERPOINT 格式。将 XLTX 合并到 Java 中的 POWERPOINT。 XLTX 合并。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java., Free Online Java Merge XLTX to powerpoint., Java Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
+description: Aspose Excel。 Java Aspose.Cells。将 XLTX 合并到 POWERPOINT 保存格式。 Java 将 XLTX 合并为 POWERPOINT 格式。将 XLTX 合并到 Java 中的 POWERPOINT。 XLTX 合并。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java., Java Merge XLTX to powerpoint., Java Combine XLTX to POWERPOINT., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合并 XLTX 到 POWERPOINT via Java" h2="高速 Java 库，用于将 XLTX 合并到 POWERPOINT。使用我们的Excel转换API在Java中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java.,
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 XLTX 合并到 POWERPOINT" %}}
 
-如何将 XLTX 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLTX 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 XLTX 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLTX 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java.,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLTX 合并到 Java 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 XLTX 合并到 Java 中的 POWERPOINT" %}}
 
 以下示例演示如何将 XLTX 合并到 Aspose.Cells for Java 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java.,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLTX 合并到 Java 中的 POWERPOINT" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="将 XLTX 合并到 Java 中的 POWERPOINT 的示例代码" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 XLTX 合并到 POWERPOINT via Java" %}}
 
@@ -103,7 +103,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to POWERPOINT in Java.,
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}扩展名为 .xltx 的文件表示基于 Office OpenXML 文件格式规范的 Microsoft Excel 模板文件。它用于创建标准模板文件，该文件可用于生成 XLSX 文件，这些文件显示与 XLTX 文件中指定的相同设置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

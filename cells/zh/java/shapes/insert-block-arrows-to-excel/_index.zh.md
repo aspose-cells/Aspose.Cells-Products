@@ -2,6 +2,7 @@
 title: 将箭头插入 Excel via Java
 weight: 338
 description: 使用 Aspose.Cells' Java API 插入对象，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将箭头插入 Excel via Java" h2="使用 Aspose.Cells\' API 插入块箭头，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -151,7 +152,7 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

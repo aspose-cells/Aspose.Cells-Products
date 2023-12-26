@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 在图表中添加一条线
 description: C# 使用 .NET 库将图表中的线条添加到 Excel 的示例代码。使用此代码将图表中的线条添加到 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 MS Excel。
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 在图表中添加一条线" h2="使用服务器端 .NET API 以编程方式创建本机和高性能 MS Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

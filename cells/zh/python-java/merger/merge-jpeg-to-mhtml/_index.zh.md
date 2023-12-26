@@ -1,8 +1,8 @@
 ---
 title: 合并 JPEG 至 MHTML - 将 JPEG 至 MHTML 合并为 Python
 url: /zh/python-java/merger/merge-jpeg-to-mhtml/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并JPEG到MHTML保存格式。 Python 将 JPEG 合并为 MHTML 格式。将 JPEG 合并到 Python 中的 MHTML。 JPEG 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MHTML in Python., Free Online Python Merge JPEG to mhtml., Python Combine JPEG to MHTML Online for Free., JPEG Merge]
+description: Aspose Excel。 Python Aspose.Cells。将JPEG合并到MHTML保存格式。 Python 将 JPEG 合并为 MHTML 格式。将 JPEG 合并到 Python 中的 MHTML。 JPEG 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MHTML in Python., Python Merge JPEG to mhtml., Python Combine JPEG to MHTML., JPEG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 JPEG 合并到 MHTML" h2="用于合并 JPEG 到 MHTML 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MHTML in Python., 
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 JPEG 合并到 MHTML" %}}
 
-如何将 JPEG 合并到 MHTML？使用 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松地将 JPEG 合并到 MHTML。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 JPEG 合并到 MHTML？使用 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松地将 JPEG 合并到 MHTML。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 JPEG 合并为 Python 中的 MHTML" %}}
+{{% blocks/products/pf/agp/content h2="将 JPEG 合并到 Python 中的 MHTML" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via Java 中的 JPEG 合并到 MHTML。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MHTML in Python., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 JPEG 合并到 Python 中的 MHTML" InputFormat="jpg" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="将 JPEG 合并到 Python 中的 MHTML 的示例代码" InputFormat="jpg" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 JPEG 合并到 MHTML" %}}
 

@@ -1,10 +1,10 @@
 ---
 title: Android Excel 電子表格 API - Aspose
 weight: 6510
-description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。用於移動應用程序開發的電子表格 API
+description: Android 電子表格庫用於建立讀寫和解析 Excel 檔案。用於行動應用程式開發的電子表格 API
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用於操作 Excel 電子表格的 Android API" h2="在 Android 應用程序中創建、讀取、寫入或操作 Excel 文件，無需任何依賴。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用於操作 Excel 電子表格的 Android API" h2="在 Android 應用程式中建立、讀取、寫入或操作 Excel 文件，無需任何依賴。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java 是一個可擴展的 API，用於以編程方式生成、組合、修改和解析電子表格。 API 提供許多功能，包括 Excel 文檔格式和頁面設置任務、導入和導出功能、將工作表頁面渲染為光柵圖像以及指定圖像分辨率、質量、壓縮、添加不同的圖表等等。 Android電子表格API支持XLS、XLSX、CSV、SpreadsheetML、ODS、製表符分隔、HTML、PDF、XPS等格式。
+ Aspose.Cells for Android via Java 是一個可擴展的 API，用於以程式設計方式產生、組合、修改和解析電子表格。 API 提供許多功能，包括 Excel 文件格式和頁面設定任務、匯入和匯出功能、將工作表頁面渲染為光柵影像以及指定影像解析度、品質、壓縮、新增不同的圖表等等。 Android電子表格API支援XLS、XLSX、CSV、SpreadsheetML、ODS、製表符分隔、HTML、PDF、製表符分隔、HTML、0761123413、0076格式。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -31,7 +31,7 @@ description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。�
    </header>
    <ul>
     <li>
-數組
+陣列
     </li>
     <li>
 結果集
@@ -62,23 +62,23 @@ description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。�
    <header>
     <i class="fa fa-table">
     </i>
-數據處理
+資料處理
    </header>
    <ul>
     <li>
-應用格式設置
+應用程式格式設定
     </li>
     <li>
 應用公式
     </li>
     <li>
-創建圖表
+建立圖表
     </li>
     <li>
 總結
     </li>
     <li>
-智能標記
+智慧標記
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。�
    </header>
    <ul>
     <li>
-移動應用程序
+行動應用程式
     </li>
    </ul>
   </div>
@@ -144,7 +144,7 @@ description: Android 電子表格庫用於創建讀寫和解析 Excel 文件。�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Android電子表格API支持流行的Microsoft Excel格式、圖像和固定佈局格式。" >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Android電子表格API支援流行的Microsoft Excel格式、圖片和固定版面格式。" >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ Microsoft Excel：
     </li>
     <li>
      <b>
-文本：
+文字:
      </b>
      CSV, TSV, TXT
     </li>
@@ -234,7 +234,7 @@ Microsoft Excel：
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高級 Android Excel API 功能
+進階 Android Excel API 功能
    </h2>
    <p>
    </p>
@@ -242,14 +242,14 @@ Microsoft Excel：
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將格式應用於工作表、行、列、單元格和範圍
+將格式套用至工作表、行、列、儲存格和範圍
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-從 ArrayList、Array、Recordset 和 Recordset 導出和導入數據結果集
+從 ArrayList、Array、Recordset 和 Recordset 匯出和匯入數據結果集
     </p>
    </div>
    <div class="col-lg-4">
@@ -263,7 +263,7 @@ Microsoft Excel：
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置數字格式
+設定數字格式
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,21 +284,21 @@ Microsoft Excel：
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-讀取、設置和計算公式
+讀取、設定和計算公式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-配置頁面設置
+配置頁面設定
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置&amp;操縱自動過濾器和分頁符
+設定&amp;操縱自動過濾器和分頁符
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,14 +312,14 @@ Microsoft Excel：
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建現有工作表的副本
+建立現有工作表的副本
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置自 Microsoft Excel XP 以來引入的保護選項
+設定自 Microsoft Excel XP 以來引入的保護選項
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,7 +333,7 @@ Microsoft Excel：
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將Excel文件轉換為PDF
+將Excel檔轉換為PDF
     </p>
    </div>
    <div class="col-lg-4">
@@ -419,21 +419,21 @@ Microsoft Excel：
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建&amp;操縱數據透視表
+創建&amp;操縱資料透視表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建&amp;操作自定義圖表
+創建&amp;操作自訂圖表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-追踪先例和相關者
+追蹤先例和相關者
     </p>
    </div>
    <div class="col-lg-4">
@@ -462,11 +462,11 @@ Microsoft Excel：
 不同格式轉換
     </h2>
     <p>
-Android Excel 庫提供電子表格到 XPS、PDF 和 PDF 的轉換。 HTML 格式保持最高的視覺保真度。可靠的轉換過程使 API 成為公司以行業標準格式交換文件的完美選擇。
+Android Excel 函式庫提供電子表格到 XPS、PDF 和 PDF 的轉換。 HTML 格式保持最高的視覺保真度。可靠的轉換過程使 API 成為公司以行業標準格式交換文件的完美選擇。
     </p>
     <div class="codeblock" id="code">
      <h3>
-以各種格式保存工作簿 - Java
+以各種格式儲存工作簿 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,10 +490,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-將電子表格對象轉換為不同格式
+將電子表格物件轉換為不同格式
     </h2>
     <p>
-Aspose.Cells for Android via Java 提供一些獨特的功能，例如工作表到圖像、圖表到圖像和圖像。 PDF和電子表格到PDF文檔格式的轉換。靈活的過程有多種轉換選擇，例如在電子表格期間將圖像重新採樣為PDF，或者在渲染工作表和數據時設置結果圖像尺寸。圖表到圖像格式。
+Aspose.Cells for Android via Java 提供一些獨特的功能，例如工作表到圖像、圖表到圖像和圖像。 PDF和電子表格到PDF文檔格式的轉換。靈活的流程有多種轉換選擇，例如在電子表格期間將影像重新取樣為PDF，或在渲染工作表和資料時設定結果影像尺寸。圖表到圖像格式。
     </p>
    </div>
    <div class="col-lg-12">
@@ -501,7 +501,7 @@ Aspose.Cells for Android via Java 提供一些獨特的功能，例如工作表�
 電子表格API公式計算引擎
     </h2>
     <p>
-Android Sheets API 提供了強大的公式計算引擎，支持高級和標準的 Microsoft Excel 函數和公式。公式計算引擎可以輕鬆讀取、設置和計算內置或外掛式、數組和R1C1參考式公式的結果。
+Android Sheets API 提供了強大的公式計算引擎，支援進階且標準的 Microsoft Excel 函數和公式。公式計算引擎可以輕鬆讀取、設定和計算內建或外掛式、陣列和R1C1參考式公式的結果。
     </p>
    </div>
    <!--
@@ -570,16 +570,16 @@ Android Sheets API 提供了強大的公式計算引擎，支持高級和標準�
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/cells/androidjava/" >}}
-{{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
+{{< blocks/products/pf/slr-element name="文件" href="https://docs.aspose.com/cells/androidjava/" >}}
+{{< blocks/products/pf/slr-element name="原始碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API 參考文獻" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="教學影片" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-tab tabTitle="產品支援" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支援" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼是Aspose.Cells for Android via Java？" tabId="success-stories" >}}

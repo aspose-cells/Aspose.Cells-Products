@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML 到 POWERPOINT - 在线 SPREADSHEETML 到 POWERPOINT 转换器
-description: Aspose Excel。 Python Aspose.Cells. Python Aspose Cells. 免费在线 Python 将 SPREADSHEETML 转换为 POWERPOINT 保存格式。 Python SPREADSHEETML 到 POWERPOINT 格式。将电子表格保存到 POWERPOINT Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to POWERPOINT saveformat., Free Online SPREADSHEETML to POWERPOINT Python., Python Convert SPREADSHEETML to POWERPOINT]
+title: Python SPREADSHEETML 到 POWERPOINT - SPREADSHEETML 到 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 SPREADSHEETML 转换为 POWERPOINT。Python SPREADSHEETML 到 POWERPOINT。 Python 将电子表格保存到 POWERPOINT。使用 Python 将 SPREADSHEETML 保存为 POWERPOINT。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to POWERPOINT in Python., Save SPREADSHEETML to POWERPOINT using Python., Python SPREADSHEETML to POWERPOINT saveformat., SPREADSHEETML to POWERPOINT Converter., Python Save SPREADSHEETML as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 SPREADSHEETML 转换为 POWERPOINT" h2="用于将 SPREADSHEETML 转换为 POWERPOINT 的高速 Python 库。这是一个使用 Python 导入和导出 SPREADSHEETML、POWERPOINT 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 SPREADSHEETML 转换为 POWERPOINT" %}}
 
-如何将 SPREADSHEETML 转换为 POWERPOINT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 SPREADSHEETML 转换为 POWERPOINT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 SPREADSHEETML 转换为 POWERPOINT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 SPREADSHEETML 转换为 POWERPOINT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 SPREADSHEETML 保存到 POWERPOINT Python" %}}
+{{% blocks/products/pf/agp/content h2="将 SPREADSHEETML 保存到 POWERPOINT 中的 Python" %}}
 
 以下示例演示如何将 Python 中的 SPREADSHEETML 转换为 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 SPREADSHEETML 在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 SPREADSHEETML 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 SPREADSHEETML 转换为 POWERPOINT" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,7 +75,7 @@ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML 代表可扩展标记语言，与 HTML 类似，但不同之处在于使用标签来定义对象。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是由于它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过万维网 (WWW) 等网络进行存储和共享。 XML 中的“X”表示可扩展，这意味着该语言可以根据用户需求扩展到任意数量的符号。许多标准文件格式都利用了这些功能，例如 Microsoft Open XML、LibreOffice OpenDocument、XHTML 和 SVG。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -85,7 +85,7 @@ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="电子表格ML 至 EMF" description="增强的图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-gif/" name="电子表格ML 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="电子表格ML 至 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="电子表格ML 到 MD" description="降价语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="电子表格ML 到MD" description="降价语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="电子表格ML 至 MHTML" description="网页存档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="电子表格ML 至 ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="电子表格ML 至 PDF" description="便携式文档格式" >}}

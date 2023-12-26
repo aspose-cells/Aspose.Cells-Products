@@ -1,7 +1,8 @@
 ---
 title: 通过 C# 在 Microsoft Excel XLSM 文件中插入数据透视图
 weight: 7690
-description: C# 用于生成带有数据透视图的 XLSM 文档的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建带有数据透视图的 Microsoft Excel XLSM 文件。
+description: C# 使用 .NET 库将数据透视图添加到 XLSM 的示例代码。使用此代码将数据透视图插入 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 XLSM 文件。
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 在 XLSM 文档中插入数据透视图" h2="本机高性能 Microsoft Excel XLSM 电子表格，使用服务器端 .NET API 以编程方式创建数据透视图。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -11,9 +12,7 @@ description: C# 用于生成带有数据透视图的 XLSM 文档的示例代码�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-在运行的应用程序中动态生成带有数据透视图的 MS Excel XLSM 文件非常简单。为了从头开始创建带有数据透视图的 XLSM 文档而不需要 MS Office，我们将使用
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API，使用 .NET 平台提供电子表格创建、操作和转换的不同功能。开发人员可以轻松增强用于写入数据、生成图表或图形以及在电子表格中创建表格的代码。
+在运行的应用程序中动态生成带有数据透视图的 MS Excel XLSM 文件非常简单。为了从头开始创建带有数据透视图的 XLSM 文档而不需要 MS Office，我们将使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API，使用 .NET 平台提供电子表格创建、操作和转换的不同功能。开发人员可以轻松增强用于写入数据、生成图表或图形以及在电子表格中创建表格的代码。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ API，使用 .NET 平台提供电子表格创建、操作和转换的不同功�
 
 {{% blocks/products/pf/agp/text %}}
 
-开发人员只需几行代码即可轻松在运行不同的报告应用程序中插入 XLSM 格式电子表格的数据透视图以进行数据处理。
+开发人员可以轻松地在运行不同的报告应用程序中插入 XLSM 格式电子表格的数据透视图，以进行数据处理，只需几行代码。
 
 {{% /blocks/products/pf/agp/text %}}
 

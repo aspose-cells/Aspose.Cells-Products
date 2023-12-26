@@ -2,6 +2,7 @@
 title: 水印ODS文档via Java
 weight: 1040
 description: Java 用于向 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 ODS 文件添加或删除水印的示例代码。
+keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="添加文本水印到ODS via Java" h2="使用服务器端 API 构建您自己的 Java 应用程序来为 ODS 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

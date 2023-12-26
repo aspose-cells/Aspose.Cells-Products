@@ -1,7 +1,7 @@
 ---
-title: Java 数字 转 SVG - 在线 数字 转 SVG 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将数字转换为 SVG 保存格式。 Java 数字为 SVG 格式。将号码保存到 SVG Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to SVG saveformat., Free Online NUMBERS to SVG Java., Java Convert NUMBERS to SVG]
+title: Java 数字到 SVG - 数字到 SVG 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 NUMBERS 转换为 SVG。 将 Java NUMBERS 转换为 SVG。 Java 将 NUMBERS 保存为 SVG。 使用 Java 将 NUMBERS 保存为 SVG。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to SVG in Java., Save NUMBERS to SVG using Java., Java NUMBERS to SVG saveformat., NUMBERS to SVG Converter., Java Save NUMBERS as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Java 中的 NUMBERS 转换为 SVG" h2="用于将数字转换为 SVG 的高速 Java 库。这是一个使用 Java 导入和导出数字、SVG 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 NUMBERS 转换为 SVG" %}}
 
-如何将 NUMBERS 转换为 SVG？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 NUMBERS 转换为 SVG。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 NUMBERS 转换为 SVG？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 NUMBERS 转换为 SVG。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存号码到 Java 中的 SVG" %}}
+{{% blocks/products/pf/agp/content h2="将号码保存到 Java 中的 SVG" %}}
 
 以下示例演示如何将 Java 中的 NUMBERS 转换为 SVG。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码，可在线将数字转换为 SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将数字转换为 SVG 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将数字转换为 SVG via Java" %}}
 

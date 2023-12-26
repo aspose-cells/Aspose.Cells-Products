@@ -2,6 +2,7 @@
 title: 搜索并替换 XLSB 文档 via .NET 中的文本
 weight: 3890
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑 XLSB 文件中的敏感信息。
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact XLSB file., c# edit XLSB file., c# XLSB file redaction., c# Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="编辑 XLSB C# 格式" h2="本机高性能 XLSB 使用服务器端 Aspose.Cells for .NET API 记录敏感的编辑信息，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}

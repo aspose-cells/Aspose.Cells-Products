@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建 Column3D 图表
 description: C# 使用 .NET 库将 Column3D 图表创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 的 Column3D 图表。
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

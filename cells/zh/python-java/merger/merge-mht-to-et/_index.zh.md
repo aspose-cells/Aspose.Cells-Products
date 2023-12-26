@@ -1,8 +1,8 @@
 ---
 title: 将 MHT 合并到 ET - 在 Python 中将 MHT 合并到 ET
 url: /zh/python-java/merger/merge-mht-to-et/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并 MHT 到 ET 保存格式。 Python 将 MHT 合并为 ET 格式。将 MHT 合并到 Python 中的 ET。MHT 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ET in Python., Free Online Python Merge MHT to et., Python Combine MHT to ET Online for Free., MHT Merge]
+description: Aspose Excel。 Python Aspose.Cells. 将 MHT 合并为 ET 保存格式。 Python 将 MHT 合并为 ET 格式。将 MHT 合并到 Python 中的 ET。MHT 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ET in Python., Python Merge MHT to et., Python Combine MHT to ET., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 MHT 合并到 ET" h2="用于将 MHT 合并到 ET 的高速 Python 库。使用我们的Excel转换API在Python中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ET in Python., Free
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 MHT 合并到 ET" %}}
 
-如何将 MHT 合并到 ET？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 MHT 合并到 ET。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 MHT 合并到 ET？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 MHT 合并到 ET。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="在线免费将 Python 中的 MHT 合并为 ET" %}}
+{{% blocks/products/pf/agp/content h2="将 Python 中的 MHT 合并到 ET" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via Java 中的 MHT 合并到 ET。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ET in Python., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 MHT 合并为 ET Python" InputFormat="mht" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="将 Python 中的 MHT 合并到 ET 的示例代码" InputFormat="mht" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 MHT 合并到 ET" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL 转 DIF - 在线 EXCEL 转 DIF 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将EXCEL转换为DIF保存格式。 Python EXCEL 为 DIF 格式。将EXCEL保存到DIF Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to DIF saveformat., Free Online EXCEL to DIF Python., Python Convert EXCEL to DIF]
+title: Python EXCEL 到 DIF - EXCEL 到 DIF 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 EXCEL 转换为 DIF。 Python EXCEL 到 DIF。 Python 将 EXCEL 保存为 DIF。 使用 Python 将 EXCEL 保存为 DIF。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to DIF in Python., Save EXCEL to DIF using Python., Python EXCEL to DIF saveformat., EXCEL to DIF Converter., Python Save EXCEL as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将EXCEL中的Python转换为DIF" h2="用于将 EXCEL 转换为 DIF 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="将EXCEL中的Python转换为DIF" %}}
 
-如何将 EXCEL 转换为 DIF？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 DIF。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 EXCEL 转换为 DIF？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 DIF。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将EXCEL保存到Python中的DIF" %}}
+{{% blocks/products/pf/agp/content h2="将EXCEL保存到Python中的DIF" %}}
 
 下面的例子演示了如何将EXCEL中的Python via NET转换为DIF。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="在线将 EXCEL 转换为 DIF 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 EXCEL 转换为 DIF 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将EXCEL转换为DIF" %}}
 

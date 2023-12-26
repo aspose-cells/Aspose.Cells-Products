@@ -1,8 +1,8 @@
 ---
 title: 合并图像到 EXCEL - 将图像合并到 EXCEL Java
 url: /zh/java/merger/merge-image-to-excel/ 
-description: Aspose Excel。 Java Aspose.Cells。免费在线合并图像到 EXCEL 保存格式。 Java 将IMAGE合并为EXCEL格式。将IMAGE合并到Java中的EXCEL中。IMAGE合并。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EXCEL in Java., Free Online Java Merge IMAGE to excel., Java Combine IMAGE to EXCEL Online for Free., IMAGE Merge]
+description: Aspose Excel。 Java Aspose.Cells.将IMAGE合并为EXCEL保存格式。 Java 将IMAGE合并为EXCEL格式。将IMAGE合并到Java中的EXCEL中。IMAGE合并。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EXCEL in Java., Java Merge IMAGE to excel., Java Combine IMAGE to EXCEL., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合并图像到 EXCEL via Java" h2="用于将 IMAGE 合并到 EXCEL 的高速 Java 库。使用我们的Excel转换API在Java中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EXCEL in Java., Fre
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将图像合并到 EXCEL" %}}
 
-如何将IMAGE合并到EXCEL中？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 IMAGE 合并到 EXCEL。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将IMAGE合并到EXCEL中？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 IMAGE 合并到 EXCEL。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EXCEL in Java., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java 免费在线合并IMAGE到EXCEL" %}}
+{{% blocks/products/pf/agp/content h2="将IMAGE合并到EXCEL中Java" %}}
 
 下面的例子演示了如何将Aspose.Cells for Java中的IMAGE合并到EXCEL中。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EXCEL in Java., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线合并IMAGE到EXCEL Java" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java 中将 IMAGE 合并到 EXCEL 的示例代码" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将图像合并到EXCEL via Java" %}}
 

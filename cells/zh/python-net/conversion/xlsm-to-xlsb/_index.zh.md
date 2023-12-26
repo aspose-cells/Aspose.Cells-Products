@@ -1,7 +1,7 @@
 ---
-title: Python XLSM 转 XLSB - 在线 XLSM 转 XLSB 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 XLSM 转换为 XLSB 保存格式。 Python XLSM 到 XLSB 格式。将 XLSM 保存为 XLSB Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to XLSB saveformat., Free Online XLSM to XLSB Python., Python Convert XLSM to XLSB]
+title: Python XLSM 至 XLSB - XLSM 至 XLSB 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLSM 转换为 XLSB。 Python XLSM 为 XLSB。 Python 将 XLSM 保存为 XLSB。 将 XLSM 另存为 07611134 81 使用 Python。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to XLSB in Python., Save XLSM to XLSB using Python., Python XLSM to XLSB saveformat., XLSM to XLSB Converter., Python Save XLSM as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLSM 转换为 Python 中的 XLSB" h2="高速 Python 库，用于将 XLSM 转换为 XLSB。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="将 XLSM 转换为 Python 中的 XLSB" %}}
 
-如何将 XLSM 转换为 XLSB？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 XLSB。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLSM 转换为 XLSB？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 XLSB。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 XLSM 至 XLSB 于 Python" %}}
+{{% blocks/products/pf/agp/content h2="将 XLSM 保存到 Python 中" %}}
 
 以下示例演示如何将 Python via NET 中的 XLSM 转换为 XLSB。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 XLSM 转换为 XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 XLSM 转换为 XLSB 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 XLSM 转换为 XLSB" %}}
 

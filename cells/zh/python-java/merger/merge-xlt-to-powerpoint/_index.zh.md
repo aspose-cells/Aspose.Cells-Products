@@ -1,8 +1,8 @@
 ---
 title: 将 XLT 合并到 POWERPOINT - 将 XLT 合并到 Python 中的 POWERPOINT
 url: /zh/python-java/merger/merge-xlt-to-powerpoint/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并 XLT 到 POWERPOINT 保存格式。 Python 将 XLT 合并为 POWERPOINT 格式。将 XLT 合并到 Python 中的 POWERPOINT。 XLT 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Free Online Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT Online for Free., XLT Merge]
+description: Aspose Excel。 Python Aspose.Cells。将 XLT 合并到 POWERPOINT 保存格式。 Python 将 XLT 合并为 POWERPOINT 格式。将 XLT 合并到 Python 中的 POWERPOINT。 XLT 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLT 合并到 POWERPOINT" h2="高速 Python 库，用于将 XLT 合并到 POWERPOINT。使用我们的Excel转换API在Python中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Pytho
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLT 合并到 POWERPOINT" %}}
 
-如何将 XLT 合并到 POWERPOINT？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 XLT 合并到 POWERPOINT。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 XLT 合并到 POWERPOINT？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 XLT 合并到 POWERPOINT。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLT 合并到 Python 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 XLT 合并到 Python 中的 POWERPOINT" %}}
 
 以下示例演示如何将 XLT 合并到 Aspose.Cells for Python via Java 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Pytho
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLT 合并到 Python 中的 POWERPOINT" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="将 XLT 合并到 Python 中的 POWERPOINT 的示例代码" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLT 合并到 POWERPOINT" %}}
 
@@ -81,7 +81,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Pytho
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}扩展名为 .xlt 的文件是使用 Microsoft Excel 创建的模板文件，Excel 是一个电子表格应用程序，作为 Microsoft Office 套件的一部分提供。 Microsoft Office 97-2003 支持创建新的 XLT 文件以及打开这些文件。最新版本的 Excel 仍然能够打开这种旧格式的模板文件。此类模板文件用于快速创建具有默认数据和设置（例如页面格式、字体大小、边距、图表等）的新 Excel 文件，这些文件可以进一步保存为新的 .xls 文件。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

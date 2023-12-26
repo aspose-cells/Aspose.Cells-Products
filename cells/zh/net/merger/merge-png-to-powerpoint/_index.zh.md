@@ -1,8 +1,8 @@
 ---
 title: 将 PNG 合并到 POWERPOINT - 将 PNG 合并到 C# 中的 POWERPOINT
 url: /zh/net/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel。 C# Aspose.Cells。免费在线合并 PNG 到 POWERPOINT 保存格式。 C# 将 PNG 合并为 POWERPOINT 格式。将 PNG 合并到 C# 中的 POWERPOINT。 PNG 合并。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to POWERPOINT in C#., Free Online C# Merge PNG to powerpoint., C# Combine PNG to POWERPOINT Online for Free., PNG Merge]
+description: Aspose Excel。 C# Aspose.Cells。将 PNG 合并到 POWERPOINT 保存格式。 C# 将 PNG 合并为 POWERPOINT 格式。将 PNG 合并到 C# 中的 POWERPOINT。 PNG 合并。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to POWERPOINT in C#., C# Merge PNG to powerpoint., C# Combine PNG to POWERPOINT., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 PNG 合并到 POWERPOINT" h2="高速 C# 库，用于将 PNG 合并到 POWERPOINT。使用我们的Excel转换API在C#中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to POWERPOINT in C#., Free
 
 {{% blocks/products/pf/agp/content h2="使用 C# 将 PNG 合并到 POWERPOINT" %}}
 
-如何将 PNG 合并到 POWERPOINT？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 PNG 合并到 POWERPOINT。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
+如何将 PNG 合并到 POWERPOINT？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 PNG 合并到 POWERPOINT。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 PNG 合并到 C# 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 PNG 合并到 C# 中的 POWERPOINT" %}}
 
 以下示例演示如何将 PNG 合并到 Aspose.Cells for .NET 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 PNG 合并到 C# 中的 POWERPOINT" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="将 PNG 合并到 C# 中的 POWERPOINT 的示例代码" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C# 将 PNG 合并到 POWERPOINT" %}}
 
@@ -88,7 +88,7 @@ PM> Install-Package Aspose.Cells
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG（便携式网络图形）文件是一种使用无损压缩的光栅图像文件格式。此文件格式是作为图形交换格式 (GIF) 的替代品而创建的，并且没有版权限制。但是，PNG 文件格式不支持动画。 PNG 文件格式支持无损图像压缩，这使其在用户中很受欢迎。随着时间的推移，PNG 已发展成为广泛使用的图像文件格式之一。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

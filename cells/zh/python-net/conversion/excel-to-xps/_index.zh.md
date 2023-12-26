@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL 转 XPS - 在线 EXCEL 转 XPS 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将EXCEL转换为XPS保存格式。 Python EXCEL 为 XPS 格式。将EXCEL保存到XPS Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to XPS saveformat., Free Online EXCEL to XPS Python., Python Convert EXCEL to XPS]
+title: Python EXCEL 到 XPS - EXCEL 到 XPS 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 EXCEL 转换为 XPS。 Python EXCEL 到 XPS。 Python 将 EXCEL 保存为 XPS。 使用 Python 将 EXCEL 保存为 XPS。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to XPS in Python., Save EXCEL to XPS using Python., Python EXCEL to XPS saveformat., EXCEL to XPS Converter., Python Save EXCEL as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将EXCEL中的Python转换为XPS" h2="用于将 EXCEL 转换为 XPS 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="将EXCEL中的Python转换为XPS" %}}
 
-如何将 EXCEL 转换为 XPS？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 XPS。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 EXCEL 转换为 XPS？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 EXCEL 转换为 XPS。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将EXCEL保存到Python中的XPS" %}}
+{{% blocks/products/pf/agp/content h2="将EXCEL保存到Python中的XPS" %}}
 
 下面的例子演示了如何将EXCEL中的Python via NET转换为XPS。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="在线将 EXCEL 转换为 XPS 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 EXCEL 转换为 XPS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将EXCEL转换为XPS" %}}
 

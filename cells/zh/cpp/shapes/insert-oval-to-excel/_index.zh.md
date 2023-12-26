@@ -2,6 +2,7 @@
 title: 通过 C++ 将椭圆插入 Excel
 weight: 40
 description: C++ 在 C++ 运行时环境（Windows 32 位、Windows 64 位和 Linux 64 位）上的 Excel 文件中插入 Oval 的示例代码。
+keywords: [C++ Aspose.Cells., C++ add Oval shape., C++ insert Oval shape., C++ create Oval shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将椭圆插入 Excel" h2="使用服务器端的本机高性能插入对象 Aspose.Cells for C++ API，无需使用任何软件，例如 Microsoft 或 Adobe PDF。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 实例化一个 Workbook 对象。（或者->加载 XLSX 文件的完整路径。）
 + 通过索引选择工作表。
- + 使用[添加方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#a90bc960de1b4a6d6beaf6c7cc4651bc2)在选定的工作表中插入方程形状
+ + 使用[添加方法](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addoval/)在选定的工作表中插入方程形状
 以 XLSX 格式保存工作簿。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 {{% blocks/products/pf/agp/code-block title="插入椭圆形 - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertOvalIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertOvalIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -74,7 +75,7 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

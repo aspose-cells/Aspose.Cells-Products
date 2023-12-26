@@ -1,7 +1,7 @@
 ---
-title: C++ PNG 转 GIF - 在线 PNG 转 GIF 转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 PNG 转换为 GIF 保存格式。 C++ PNG 到 GIF 格式。将 PNG 保存为 GIF C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to GIF saveformat., Free Online PNG to GIF C++., C++ Convert PNG to GIF]
+title: C++ PNG 至 GIF - PNG 至 GIF 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 PNG 转换为 GIF。 C++ PNG 为 GIF。 C++ 将 PNG 保存为 GIF。 将 PNG 另存为 07611134 81 使用 C++。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to GIF in C++., Save PNG to GIF using C++., C++ PNG to GIF saveformat., PNG to GIF Converter., C++ Save PNG as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 PNG 转换为 C++ 中的 GIF" h2="使用 C++ 库进行高性能 PNG 到 GIF 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to GIF s
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 PNG 转换为 GIF" %}}
 
-如何将 PNG 转换为 GIF？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 PNG 转换为 GIF。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 PNG 转换为 GIF？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 PNG 转换为 GIF。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 PNG 至 GIF 于 C++" %}}
+{{% blocks/products/pf/agp/content h2="将 PNG 保存到 C++ 中" %}}
 
 以下示例演示如何将 C++ 中的 PNG 转换为 GIF。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 PNG 转换为 GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 PNG 转换为 GIF 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 PNG 转换为 GIF" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 PNG 文件。
+1. 使用工作簿加载 PNG 文件。
 1. 通过调用 Save() 方法将 PNG 转换为 GIF。
 1. 获取PNG到GIF的转换结果。
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-pdf/" name="PNG 至 PDF" description="便携式文档格式" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-svg/" name="PNG 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tiff/" name="PNG 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-txt/" name="PNG 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xls/" name="PNG 至 XLS" description="Excel 二进制格式" >}}

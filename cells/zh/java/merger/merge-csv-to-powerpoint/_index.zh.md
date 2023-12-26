@@ -1,8 +1,8 @@
 ---
 title: 将 CSV 合并到 POWERPOINT - 将 CSV 合并到 Java 中的 POWERPOINT
 url: /zh/java/merger/merge-csv-to-powerpoint/ 
-description: Aspose Excel。 Java Aspose.Cells。免费在线合并 CSV 到 POWERPOINT 保存格式。 Java 将 CSV 合并为 POWERPOINT 格式。将 CSV 合并到 Java 中的 POWERPOINT。 CSV 合并。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., Free Online Java Merge CSV to powerpoint., Java Combine CSV to POWERPOINT Online for Free., CSV Merge]
+description: Aspose Excel。 Java Aspose.Cells。将 CSV 合并到 POWERPOINT 保存格式。 Java 将 CSV 合并为 POWERPOINT 格式。将 CSV 合并到 Java 中的 POWERPOINT。 CSV 合并。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., Java Merge CSV to powerpoint., Java Combine CSV to POWERPOINT., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合并 CSV 到 POWERPOINT via Java" h2="高速 Java 库，用于将 CSV 合并到 POWERPOINT。使用我们的Excel转换API在Java中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., 
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 CSV 合并到 POWERPOINT" %}}
 
-如何将 CSV 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 CSV 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 CSV 合并到 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 CSV 合并到 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 CSV 合并到 Java 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 CSV 合并到 Java 中的 POWERPOINT" %}}
 
 以下示例演示如何将 CSV 合并到 Aspose.Cells for Java 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 CSV 合并到 Java 中的 POWERPOINT" InputFormat="csv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="将 CSV 合并到 Java 中的 POWERPOINT 的示例代码" InputFormat="csv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 CSV 合并到 POWERPOINT via Java" %}}
 
@@ -103,7 +103,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT in Java., 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}扩展名为 .csv（逗号分隔值）的文件表示纯文本文件，其中包含带有逗号分隔值的数据记录。 CSV 文件中的每一行都是该文件中包含的记录集中的一条新记录。当数据从一个存储系统传输到另一存储系统时，会生成此类文件。由于所有应用程序都可以识别以逗号分隔的记录，因此将此类数据文件导入数据库非常方便。几乎所有电子表格应用程序（例如 Microsoft Excel 或 OpenOffice Calc）都可以轻松导入 CSV。从此类文件导入的数据排列在电子表格的单元格中以向用户表示。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

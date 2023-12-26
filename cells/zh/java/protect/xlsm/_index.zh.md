@@ -2,6 +2,7 @@
 title: 保护和锁定XLSM文档via Java
 weight: 9620
 description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上使用密码锁定 XLSM 文件。
+keywords: [Java Aspose.Cells., Java Lock XLSM files., Java How to Protect and lock XLSM document., Java Protect XLSM files., Encrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="加密 XLSM 文件 via Java" h2="使用 .NET 库对 Excel 电子表格进行密码保护，包括 XLSM 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

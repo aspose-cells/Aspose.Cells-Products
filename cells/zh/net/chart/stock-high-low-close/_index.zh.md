@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建高低收盘股票图表
 description: C# 使用 .NET 库将高-低-收盘价股票图表创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 的高低收盘股票图表。
+keywords: [C# Aspose.Cells., c# add High-Low-Close Stock Chart., c# insert High-Low-Close Stock Chart., c# create High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

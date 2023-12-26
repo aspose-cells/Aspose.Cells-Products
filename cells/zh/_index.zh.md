@@ -54,7 +54,7 @@ Java 用于在任何基于 Java SE 或 EE 的应用程序中创建、操作、�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="观众" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
-随时随地在您喜欢的浏览器中查看电子表格文件，包括 XLS、XLSX、XLSM、XLSB 和 ODS。
+随时随地在您喜爱的浏览器中查看电子表格文件，包括 XLS、XLSX、XLSM、XLSB 和 ODS。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/cells/family" innerText="查看所有无代码应用程序" >}}

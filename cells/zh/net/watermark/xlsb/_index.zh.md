@@ -2,6 +2,7 @@
 title: 水印XLSB文档via .NET
 weight: 5410
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上向 XLSB 文件添加或删除水印。
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 添加文本水印到 XLSB" h2="使用服务器端 API 构建您自己的 .NET 应用程序来为 XLSB 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

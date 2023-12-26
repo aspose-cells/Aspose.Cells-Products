@@ -1,7 +1,7 @@
 ---
 title: 创建BMP - 在Python中创建BMP文件
-description: Aspose Excel。 Python 创建 BMP 文件。创建BMP Python。Python BMP创建者。在Python中创建BMP。使用Python生成BMP文件。
-keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP Creater., Create BMP file in Python., Generate BMP file in Python]
+description: Aspose Excel。 Python 使用 Aspose.Cells 快速轻松地创建 BMP 文件。使用 Python 生成 BMP 文件。在 Python 中创建 BMP。Python BMP 创建者。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create BMP file., Generate BMP file in Python., Create BMP file using Python., Write data to BMP file via Python., Create a BMP file in Python., Python Generate a BMP file., Python BMP Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在Python中创建BMP文件" h2="用于创建 BMP 文件的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP C
 
 {{% blocks/products/pf/agp/content h2="使用 Python 创建 BMP 文件" %}}
 
-如何创建BMP文件？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松创建 BMP 文件。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何创建BMP文件？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松创建 BMP 文件。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 

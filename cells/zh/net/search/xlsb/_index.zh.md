@@ -2,6 +2,7 @@
 title: 搜索XLSB文档，无需打开via .NET
 weight: 8880
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上搜索 XLSB 文件中具有模式的单词。
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="搜索 XLSB C# 中的格式" h2="使用服务器端 Aspose.Cells for .NET API 进行本机高性能 XLSB 文档搜索，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xama
 
 为了搜索 XLSB 文件，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API这是一个功能丰富、功能强大且易于使用的文档搜索API for C#平台。打开
+ API这是一个功能丰富、功能强大且易于使用的文档搜索API for C#平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 

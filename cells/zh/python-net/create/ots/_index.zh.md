@@ -1,7 +1,7 @@
 ---
 title: 创建OTS - 在Python中创建OTS文件
-description: Aspose Excel。 Python 创建 OTS 文件。创建 OTS Python。Python OTS 创建者。在Python中创建OTS。使用Python生成OTS文件。
-keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS Creater., Create OTS file in Python., Generate OTS file in Python]
+description: Aspose Excel。 Python 使用 Aspose.Cells 快速轻松地创建 OTS 文件。使用 Python 生成 OTS 文件。在 Python 中创建 OTS。Python OTS Creater。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Create OTS file using Python., Write data to OTS file via Python., Create a OTS file in Python., Python Generate a OTS file., Python OTS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在Python中创建OTS文件" h2="用于创建 OTS 文件的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/content h2="使用 Python 创建 OTS 文件" %}}
 
-如何创建 OTS 文件？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松创建 OTS 文件。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何创建 OTS 文件？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松创建 OTS 文件。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 

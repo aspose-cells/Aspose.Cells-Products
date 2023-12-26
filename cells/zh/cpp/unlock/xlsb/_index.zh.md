@@ -2,6 +2,7 @@
 title: 通过C++解锁XLSB文档
 weight: 7420
 description: C++ 用于解锁 C++ 运行时环境中受密码保护的 XLSB 文件的示例代码，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+keywords: [C++ Aspose.Cells., C++ unlock XLSB files., C++ how to unlock XLSB document., C++ unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 解锁 XLSB 文件" h2="使用 C++ 库删除 Excel 电子表格（包括 XLSB 文件）的保护。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 CreateIWorkbook 加载 XLSB 锁定文件。
-1. 调用 Unprotect() 函数解锁。
-1. 使用 SetPassword 将密码设置为 NULL。
-1. 将 XLSB 文件保存在指定位置。
+1. 使用受保护的 XLSB 文件的路径实例化 Workbook 类
+1. 获取默认工作表或任何工作表以删除保护
+1. 使用 Worksheet.Unprotect 方法删除工作表保护
+1. 使用 Workbook.Unprotect 方法删除工作簿保护
+1. 以 XLSB 格式保存结果
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSB file
+Workbook workbook(u"protected.xlsb");
 
-// Load XLSB file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsb")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSB file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsb")));
+// save the result back in XLSB format
+workbook.Save("unprotected.xlsb", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

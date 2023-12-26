@@ -1,7 +1,7 @@
 ---
-title: XLAM 到 XML - 将 XLAM 转换为 XML 文件 C++
-description: Aspose Excel。免费在线将 XLAM 转换为 XML 保存格式。 C++ XLAM 为 XML 格式。将 XLAM 保存为 C++ 中的 XML。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XML saveformat., Free Online XLAM to XML Converter]
+title: C++ XLAM 到 XML - XLAM 到 XML 转换器
+description: Aspose Excel。使用 Aspose.Cells. C++ XLAM 到 XML 快速轻松地将 XLAM 转换为 XML。 C++ 将 XLAM 保存到 XML。使用 C++ 将 XLAM 保存为 XML。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to XML in C++., Save XLAM to XML using C++., C++ XLAM to XML saveformat., XLAM to XML Converter., C++ Save XLAM as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLAM 转换为 C++ 中的 XML" h2="使用 C++ 库进行高性能 XLAM 到 XML 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XML saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 XLAM 转换为 XML" %}}
 
-如何将 XLAM 转换为 XML？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 XML。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XLAM 转换为 XML？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 XML。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLAM 保存为 XML C++" %}}
+{{% blocks/products/pf/agp/content h2="将 XLAM 保存到 C++ 中的 XML" %}}
 
 以下示例演示如何将 XLAM 转换为 C++ 中的 XML。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 XLAM 在线转换为 XML 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 XLAM 转换为 XML 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 XLAM 转换为 XML" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 XLAM 文件。
+1. 使用工作簿加载 XLAM 文件。
 1. 通过调用 Save() 方法将 XLAM 转换为 XML。
 1. 获取XLAM到XML的转换结果。
 
@@ -82,6 +82,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM 是一个启用宏的加载项文件，用于向电子表格添加新功能。加载项是一种补充程序，它运行附加代码并为电子表格提供附加功能。 XLAM 文件以 .xlam 扩展名存储。 XLAM 文件是基于 XML 的文件，类似于 XLSM 和 XLSX 文件格式，并使用 ZIP 压缩保存以减小总体文件大小。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML 代表可扩展标记语言，与 HTML 类似，但不同之处在于使用标签来定义对象。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是由于它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过万维网 (WWW) 等网络进行存储和共享。 XML 中的“X”表示可扩展，这意味着该语言可以根据用户需求扩展到任意数量的符号。许多标准文件格式都利用了这些功能，例如 Microsoft Open XML、LibreOffice OpenDocument、XHTML 和 SVG。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 XLAM 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
@@ -95,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM 至 XLS" description="Excel 二进制格式" >}}

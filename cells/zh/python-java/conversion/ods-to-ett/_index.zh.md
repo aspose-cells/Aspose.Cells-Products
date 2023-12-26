@@ -1,7 +1,7 @@
 ---
-title: Python ODS 转 ETT - 在线 ODS 转 ETT 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 ODS 转换为 ETT 保存格式。 Python ODS 为 ETT 格式。将 ODS 保存至 ETT Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to ETT saveformat., Free Online ODS to ETT Python., Python Convert ODS to ETT]
+title: Python ODS 转 ETT - ODS 转 ETT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 ODS 转换为 ETT。Python ODS 转换为 ETT。 Python 将 ODS 保存至 ETT。使用 Python 将 ODS 保存为 ETT。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to ETT in Python., Save ODS to ETT using Python., Python ODS to ETT saveformat., ODS to ETT Converter., Python Save ODS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 ODS 转换为 Python 中的 ETT" h2="用于将 ODS 转换为 ETT 的高速 Python 库。这是一个专业的软件解决方案，可以使用Python导入和导出ODS、ETT和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 ODS 转换为 ETT" %}}
 
-如何将 ODS 转换为 ETT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 ODS 转换为 ETT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 ODS 转换为 ETT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 ODS 转换为 ETT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 ODS 至 ETT Python" %}}
+{{% blocks/products/pf/agp/content h2="将 ODS 保存到 Python 中的 ETT" %}}
 
 以下示例演示如何将 ODS 转换为 Python 中的 ETT。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 ODS 在线转换为 ETT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 ODS 转换为 ETT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 ODS 转换为 ETT" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

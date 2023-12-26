@@ -26,7 +26,7 @@ description: 用于读写和操作 .NET Java C++ Android 和 SharePoint 应用�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="共享点" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
-在 SharePoint Services 或 SharePoint Server 中转换和组合 Excel 电子表格。
+在 SharePoint Services 或 SharePoint Server 中转换和合并 Excel 电子表格。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="报告服务" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}

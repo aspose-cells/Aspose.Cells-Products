@@ -2,6 +2,7 @@
 title: 通过 Python 将注释插入到 XLS 文件
 url: /zh/python-java/comments/insert-comments-to-xls/ 
 description: 使用 Python 将注释插入到 XLS。使用 API 示例代码在 Python 应用程序中插入注释。
+keywords: [Python Aspose.Cells., add XLS comments., insert XLS comments., access XLS comments., remove XLS comments., delete XLS comments., add comments in XLS., insert comments in XLS., access comments in XLS., remove comments in XLS., delete comments in XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 在 XLS 文件中插入注释" h2="构建您自己的 Python 应用程序，以使用服务器端 API 操作文档文件中的评论和作者。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: 使用 Python 将注释插入到 XLS。使用 API 示例代码在 P
 
 {{% blocks/products/pf/agp/content h2="使用 Python 在 XLS 文件中插入注释" %}}
 
-使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地在 XLS 文件中插入注释。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地在 XLS 文件中插入注释。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -55,7 +56,7 @@ Aspose.Cells for Python 在所有主要操作系统上均受支持。只需确�
 
 
 
-{{% cells-annotation title="免费应用程序从 XLS 文件中删除注释" InputFormat="xls" IsLandingPage="true" language="python" %}}
+{{% cells-annotation title="免费应用程序可从 XLS 文件中删除注释" InputFormat="xls" IsLandingPage="true" language="python" %}}
 
 <!-- aboutfile Starts -->
 

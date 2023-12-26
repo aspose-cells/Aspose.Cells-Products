@@ -1,8 +1,8 @@
 ---
 title: 合并 XLTX 至 XLTM - 将 XLTX 至 XLTM 合并为 Python
 url: /zh/python-net/merger/merge-xltx-to-xltm/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并XLTX到XLTM保存格式。 Python 将 XLTX 合并为 XLTM 格式。将 XLTX 合并到 Python 中的 XLTM。 XLTX 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLTM in Python., Free Online Python Merge XLTX to xltm., Python Combine XLTX to XLTM Online for Free., XLTX Merge]
+description: Aspose Excel。 Python Aspose.Cells。将XLTX合并到XLTM保存格式。 Python 将 XLTX 合并为 XLTM 格式。将 XLTX 合并到 Python 中的 XLTM。 XLTX 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLTM in Python., Python Merge XLTX to xltm., Python Combine XLTX to XLTM., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLTX 合并到 XLTM" h2="用于合并 XLTX 到 XLTM 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLTM in Python., F
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLTX 合并到 XLTM" %}}
 
-如何将 XLTX 合并到 XLTM？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLTX 合并到 XLTM。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+如何将 XLTX 合并到 XLTM？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLTX 合并到 XLTM。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLTX 合并为 Python 中的 XLTM" %}}
+{{% blocks/products/pf/agp/content h2="将 XLTX 合并到 Python 中的 XLTM" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via .NET 中的 XLTX 合并到 XLTM。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLTM in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLTX 合并到 Python 中的 XLTM" InputFormat="xltx" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="将 XLTX 合并到 Python 中的 XLTM 的示例代码" InputFormat="xltx" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLTX 合并到 XLTM" %}}
 

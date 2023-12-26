@@ -1,8 +1,8 @@
 ---
 title: 合并 XLS 至 PPTX - 将 XLS 至 PPTX 合并为 Python
 url: /zh/python-java/merger/merge-xls-to-pptx/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并XLS到PPTX保存格式。 Python 将 XLS 合并为 PPTX 格式。将 XLS 合并到 Python 中的 PPTX。 XLS 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to PPTX in Python., Free Online Python Merge XLS to pptx., Python Combine XLS to PPTX Online for Free., XLS Merge]
+description: Aspose Excel。 Python Aspose.Cells。将XLS合并到PPTX保存格式。 Python 将 XLS 合并为 PPTX 格式。将 XLS 合并到 Python 中的 PPTX。 XLS 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to PPTX in Python., Python Merge XLS to pptx., Python Combine XLS to PPTX., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLS 合并到 PPTX" h2="用于合并 XLS 到 PPTX 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to PPTX in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLS 合并到 PPTX" %}}
 
-如何将 XLS 合并到 PPTX？使用 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松地将 XLS 合并到 PPTX。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 XLS 合并到 PPTX？使用 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松地将 XLS 合并到 PPTX。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLS 合并为 Python 中的 PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将 XLS 合并到 Python 中的 PPTX" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via Java 中的 XLS 合并到 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to PPTX in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLS 合并到 Python 中的 PPTX" InputFormat="xls" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="将 XLS 合并到 Python 中的 PPTX 的示例代码" InputFormat="xls" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLS 合并到 PPTX" %}}
 
@@ -81,7 +81,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to PPTX in Python., Fr
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}扩展名为 XLS 的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（例如 OpenOffice Calc 或 Apple Numbers）创建。Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据以工作表中的表格格式存储并显示给用户，可以涵盖数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在使用的首选。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

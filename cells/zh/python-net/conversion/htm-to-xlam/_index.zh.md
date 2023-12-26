@@ -1,7 +1,7 @@
 ---
-title: Python HTM 至 XLAM - 在线 HTM 至 XLAM 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 HTM 转换为 XLAM 保存格式。 Python HTM 至 XLAM 格式。将 HTM 保存到 XLAM Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to XLAM saveformat., Free Online HTM to XLAM Python., Python Convert HTM to XLAM]
+title: Python HTM 至 XLAM - HTM 至 XLAM 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 HTM 转换为 XLAM。 Python HTM 到 XLAM。 Python 将 HTM 保存为 XLAM。 使用 Python 将 HTM 保存为 XLAM。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to XLAM in Python., Save HTM to XLAM using Python., Python HTM to XLAM saveformat., HTM to XLAM Converter., Python Save HTM as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 HTM 转换为 XLAM" h2="用于将 HTM 转换为 XLAM 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="将 Python 中的 HTM 转换为 XLAM" %}}
 
-如何将 HTM 转换为 XLAM？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 XLAM。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 HTM 转换为 XLAM？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 XLAM。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将HTM保存到Python中的XLAM" %}}
+{{% blocks/products/pf/agp/content h2="将 HTM 保存到 Python 中的 XLAM" %}}
 
 下面的例子演示了如何将Python via NET中的HTM转换为XLAM。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 HTM 在线转换为 XLAM 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 HTM 转换为 XLAM 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 HTM 转换为 XLAM" %}}
 

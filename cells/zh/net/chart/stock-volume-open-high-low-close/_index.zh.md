@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建成交量-开盘价-最高价-最低价-收盘价股票图表
 description: C# 使用 .NET 库将成交量-开盘-高-低-收盘股票图表创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 的成交量-开盘-高-低-收盘股票图表。
+keywords: [C# Aspose.Cells., c# add Volume-Open-High-Low-Close Stock Chart., c# insert Volume-Open-High-Low-Close Stock Chart., c# create Volume-Open-High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ description: C# 使用 .NET 库将成交量-开盘-高-低-收盘股票图表创
 
 {{% blocks/products/pf/agp/text %}}
 
-开发人员只需几行代码即可在运行不同的报告应用程序进行数据处理时轻松创建成交量-开盘价-高价-低价-收盘价股票图表。
+开发人员只需几行代码即可轻松地在运行不同的报告应用程序进行数据处理时创建成交量-开盘价-高价-低价-收盘价股票图表。
 
 {{% /blocks/products/pf/agp/text %}}
 

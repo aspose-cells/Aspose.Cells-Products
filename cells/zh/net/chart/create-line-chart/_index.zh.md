@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建折线图
 description: C# 使用 .NET 库将折线图创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 折线图。
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 创建折线图" h2="使用服务器端 .NET API 以编程方式创建本机和高性能 MS Excel 图表。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

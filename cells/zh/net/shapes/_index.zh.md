@@ -1,6 +1,7 @@
 ---
 title: 在 Excel 中插入形状 via .NET
-description:  C# 源代码，说明如何使用 .NET 库将形状插入到 Microsoft Excel 文件中。
+description: C# 使用 .NET 库向 Excel 添加或插入形状的示例代码。使用此代码可在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 MS Excel 中创建形状。
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 形状插入 via .NET" h2="在基于 .NET 的应用程序中使用服务器端 API 创建 Excel 文档并插入形状。" >}}

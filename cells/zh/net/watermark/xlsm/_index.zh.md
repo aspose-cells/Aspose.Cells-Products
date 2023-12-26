@@ -2,6 +2,7 @@
 title: 水印XLSM文档via .NET
 weight: 8270
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上向 XLSM 文件添加或删除水印。
+keywords: [C# Aspose.Cells., C# add watermark to xlsm file., C# insert watermark to xlsm file., C# create watermark in xlsm file., remove watermark from xlsm file using C#., C# operate watermark in xlsm file., C# access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 添加文本水印到 XLSM" h2="使用服务器端 API 构建您自己的 .NET 应用程序来为 XLSM 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

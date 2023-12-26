@@ -1,6 +1,7 @@
 ---
-title: 修复Excel文件via .NET
-description: 使用 C# 修复损坏的 Excel 文件。恢复工具可修复 .NET 应用程序中损坏的 Excel 文件。
+title: C# 修复 excel - 恢复并修复损坏的 excel 文件
+description: C# Aspose.Cells.修复Excel。修复 Excel 文件。 Excel 恢复工具。超越腐败。恢复Excel数据。 Excel文件恢复。恢复损坏的 Excel 文件。
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过C#恢复EXCEL文件" h2="构建您自己的 .NET 应用程序以使用 .NET 修复 Excel 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

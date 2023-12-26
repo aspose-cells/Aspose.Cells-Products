@@ -2,6 +2,7 @@
 title: 保护和锁定ODS文档via .NET
 weight: 5580
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密码锁定 ODS 文件。
+keywords: [C# Aspose.Cells., c# Lock ODS files., c# How to Protect and lock ODS document., c# Protect ODS files., Encrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 加密 ODS 文件" h2="使用 .NET 库对 Excel 电子表格进行密码保护，包括 ODS 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

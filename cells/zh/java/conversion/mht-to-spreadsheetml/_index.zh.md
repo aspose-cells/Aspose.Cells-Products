@@ -1,7 +1,7 @@
 ---
-title: Java MHT 到 SPREADSHEETML - 在线 MHT 到 SPREADSHEETML 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 MHT 转换为 SPREADSHEETML 保存格式。 Java MHT 到 SPREADSHEETML 格式。将 MHT 保存到电子表格ML Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SPREADSHEETML saveformat., Free Online MHT to SPREADSHEETML Java., Java Convert MHT to SPREADSHEETML]
+title: Java MHT 到 SPREADSHEETML - MHT 到 SPREADSHEETML 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 MHT 转换为 SPREADSHEETML。Java MHT 到 SPREADSHEETML。 Java 将 MHT 保存到 SPREADSHEETML。使用 Java 将 MHT 保存为 SPREADSHEETML。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to SPREADSHEETML in Java., Save MHT to SPREADSHEETML using Java., Java MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Java Save MHT as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 MHT 转换为 Java 中的 SPREADSHEETML" h2="用于将 MHT 转换为 SPREADSHEETML 的高速 Java 库。这是一个使用 Java 导入和导出 MHT、SPREADSHEETML 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SP
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 MHT 转换为 SPREADSHEETML" %}}
 
-如何将 MHT 转换为 SPREADSHEETML？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 MHT 转换为 SPREADSHEETML。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 MHT 转换为 SPREADSHEETML？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 MHT 转换为 SPREADSHEETML。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 MHT 保存到 Java 中的 SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="将 MHT 保存到 SPREADSHEETML 中的 Java" %}}
 
 以下示例演示如何将 Java 中的 MHT 转换为 SPREADSHEETML。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 MHT 在线转换为 SPREADSHEETML 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 MHT 转换为 SPREADSHEETML 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 MHT 转换为 SPREADSHEETML via Java" %}}
 

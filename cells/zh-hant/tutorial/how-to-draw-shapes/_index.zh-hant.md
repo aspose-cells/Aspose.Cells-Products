@@ -1,31 +1,31 @@
 ---
-title: 如何通過 Aspose.Cells 添加形狀
+title: 如何透過 Aspose.Cells 新增形狀
 weight: 7700
 limit:
-description: 了解如何添加形狀。
+description: 了解如何新增形狀。
 keywords: [add shapes., how to add shapes in Aspose.Cells., how to add shapes using Aspose.Cells]
 url: /zh-hant/tutorial/add-shapes-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="了解如何使用 Aspose.Cells 添加形狀" >}}
+{{< blocks/products/pf/feature-page-section h2="了解如何使用 Aspose.Cells 新增形狀" >}}
 
 <p>
-在本教程中，我們將在 Excel 文件中添加形狀。
+在本教程中，我們將在 Excel 檔案中新增形狀。
 </p>
 
 <p>
-我們將首先使用以下命令創建一個新工作簿<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 圖書館</a>並添加形狀。
+我們將首先使用以下命令建立新工作簿<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 圖書館</a>並添加形狀。
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: 請檢查以下代碼以了解如何添加形狀。
-//ExStepSummary:0: 以下代碼顯示如何添加矩形形狀。
+//ExSummary: 請檢查以下程式碼以了解如何新增形狀。
+//ExStepSummary:0: 以下程式碼顯示如何新增矩形形狀。
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: 以下代碼展示瞭如何添加線條形狀。
+//ExStepSummary:1: 以下程式碼展示如何新增線條形狀。
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: 以下代碼顯示如何添加橢圓形。
+//ExStepSummary:2: 以下程式碼顯示如何新增橢圓形。
 //ExStepImage:2:step-3.png
 //Ex開始
 //ExStep:0-
@@ -43,15 +43,15 @@ sheet.PageSetup.PrintArea = "A1:F20";
 
 ShapeCollection 形狀 =sheet.Shapes;
 
-//添加矩形形狀
+//新增矩形形狀
 形狀.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStep:1-
-//添加線條形狀
+//新增線條形狀
 形狀.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
-//添加橢圓形
+//新增橢圓形
 形狀.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-

@@ -1,8 +1,8 @@
 ---
 title: 合并 XLS 至 XPS - 将 XLS 至 XPS 合并为 Python
 url: /zh/python-net/merger/merge-xls-to-xps/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并XLS到XPS保存格式。 Python 将 XLS 合并为 XPS 格式。将 XLS 合并到 Python 中的 XPS。 XLS 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XPS in Python., Free Online Python Merge XLS to xps., Python Combine XLS to XPS Online for Free., XLS Merge]
+description: Aspose Excel。 Python Aspose.Cells。将XLS合并到XPS保存格式。 Python 将 XLS 合并为 XPS 格式。将 XLS 合并到 Python 中的 XPS。 XLS 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XPS in Python., Python Merge XLS to xps., Python Combine XLS to XPS., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLS 合并到 XPS" h2="用于合并 XLS 到 XPS 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XPS in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLS 合并到 XPS" %}}
 
-如何将 XLS 合并到 XPS？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLS 合并到 XPS。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+如何将 XLS 合并到 XPS？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLS 合并到 XPS。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLS 合并为 Python 中的 XPS" %}}
+{{% blocks/products/pf/agp/content h2="将 XLS 合并到 Python 中的 XPS" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via .NET 中的 XLS 合并到 XPS。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XPS in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLS 合并到 Python 中的 XPS" InputFormat="xls" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="将 XLS 合并到 Python 中的 XPS 的示例代码" InputFormat="xls" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLS 合并到 XPS" %}}
 

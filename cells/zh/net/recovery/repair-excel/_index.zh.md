@@ -1,8 +1,8 @@
 ---
-title: C# 修复excel文件 - 免费在线修复excel文件
+title: C# 修复 excel - 恢复并修复损坏的 excel 文件
 url: /zh/net/recovery/repair-excel/ 
-description: Aspose Excel。 C# Aspose.Cells。C# 修复excel文件。免费在线 Excel 修复工具。修复损坏的 Excel 文件。恢复 .NET 应用程序中损坏的 Excel 文件。
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel file., Free Online Repair a corrupted excel file., C# Recover excel file.]
+description: C# Aspose.Cells.修复Excel。修复 Excel 文件。 Excel 恢复工具。超越腐败。恢复Excel数据。 Excel文件恢复。恢复损坏的 Excel 文件。
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="修复C#中的EXCEL文件" h2="构建您自己的 .NET 应用程序以使用 .NET 修复 Excel 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel fi
 
 {{% blocks/products/pf/agp/content h2="使用C#修复EXCEL文件" %}}
 
-如何修复Excel文件？借助 Aspose.Cells for .NET 库，您可以通过几行代码轻松地以编程方式修复 EXCEL 文件。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
+如何修复Excel文件？借助 Aspose.Cells for .NET 库，您可以通过几行代码轻松地以编程方式修复 EXCEL 文件。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="在线修复 EXCEL 文件的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="修复 EXCEL 文件的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET 修复EXCEL文件的库" %}}
 

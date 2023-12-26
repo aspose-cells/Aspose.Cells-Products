@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java 用于电子表格处理的 Excel 库。读写渲染和转换XLS XLSX XLSM ODS CSV TSV和更多格式。兼容 Windows Linux 和 Unix
+description:  Aspose.Cells for Java 创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、CSV、HTML等。
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Excel 电子表格处理 API" h2="创建、操作、转换、保护或打印电子表格，无需依赖 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -383,7 +384,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
 将 Excel 文件保存为不同格式
     </h2>
     <p>
-Excel API 提供电子表格到 PDF、XPS、HTML 和更多格式的转换，同时保持最高的视觉保真度。可靠且灵活的转换过程使 Aspose.Cells 成为主要以行业标准格式交换文件的组织的完美选择。
+Excel API 可以将电子表格转换为 PDF、XPS、HTML 和更多格式，同时保持最高的视觉保真度。可靠且灵活的转换过程使 Aspose.Cells 成为主要以行业标准格式交换文件的组织的完美选择。
     </p>
     <div class="codeblock" id="code">
      <h3>

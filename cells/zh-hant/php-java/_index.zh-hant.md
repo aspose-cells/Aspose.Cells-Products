@@ -1,10 +1,10 @@
 ---
-title:  Excel 電子表格 PHP API - Aspose
+title: Excel 電子表格 PHP API - Aspose
 weight: 3660
-description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML ODS SpreadsheetML和所有Excel 97-2016格式。將電子表格導出為多種格式
+description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML ODS SpreadsheetML和所有Excel 976173481和所有Excel 格式。將電子表格匯出為多種格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 電子表格 API" h2="執行電子表格操作任務以及將 Excel 文件導出為多種格式，無需任何 Microsoft Excel 依賴項。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 電子表格 API" h2="執行電子表格操作任務以及將 Excel 檔案匯出為多種格式，無需任何 Microsoft Excel 依賴項。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -12,7 +12,7 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java 是一個可擴展且功能豐富的 Excel 電子表格管理和處理 API。應用程序可以執行電子表格格式轉換、圖表管理和渲染、實施公式、將工作表樣式設置到最精細的級別等等。 API支持XLS、XLSX、ODS、SpreadsheetML、CSV、製表符分隔、HTML/MHTML、PDF、XPS等格式。使用 JavaBridge 時，開發人員可以輕鬆地在其 PHP 應用程序中添加創建、編輯、轉換和呈現 Excel 文件的功能。
+ Aspose.Cells for PHP via Java 是一個可擴展且功能豐富的 Excel 電子表格管理和處理 API。應用程式可以執行電子表格格式轉換、圖表管理和渲染、實施公式、將工作表樣式設定到最精細的層級等等。 API支援XLS、XLSX、ODS、SpreadsheetML、CSV、製表符分隔、HTML/MHTML、製表符分隔、HTML/MHTML、07611076110761381107613812。使用 JavaBridge 時，開發人員可以輕鬆地在其 PHP 應用程式中新增建立、編輯、轉換和呈現 Excel 檔案的功能。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -31,10 +31,10 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
    </header>
    <ul>
     <li>
-將圖表轉換為圖像
+將圖表轉換為影像
     </li>
     <li>
-將工作表轉換為圖像
+將工作表轉換為影像
     </li>
     <li>
 將電子表格轉換為 PDF
@@ -46,7 +46,7 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
    <header>
     <i class="fa fa-cogs">
     </i>
-數據處理
+資料處理
    </header>
    <ul>
     <li>
@@ -56,7 +56,7 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
 公式計算
     </li>
     <li>
-智能標記
+智慧標記
     </li>
     <li>
 數據透視表
@@ -165,7 +165,7 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for PHP via Java 支持流行的電子表格格式以及最常用的圖像和固定佈局格式。" >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Cells for PHP via Java 支援流行的電子表格格式以及最常用的圖像和固定佈局格式。" >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -189,7 +189,7 @@ Microsoft Excel：
     </li>
     <li>
      <b>
-文本：
+文字:
      </b>
  CSV，製表符分隔，TXT
     </li>
@@ -255,7 +255,7 @@ Microsoft Excel：
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高級 PHP 電子表格 API 功能
+進階 PHP 電子表格 API 功能
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -264,14 +264,14 @@ Microsoft Excel：
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-支持 CSV、製表符分隔和HTML 格式
+支援 CSV、製表符分隔和HTML 格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-負載&amp;保存 OpenDocument 電子表格 (ODS) 格式
+負載&amp;儲存 OpenDocument 電子表格 (ODS) 格式
     </p>
    </div>
    <div class="col-lg-4">
@@ -292,28 +292,28 @@ Microsoft Excel：
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-配置頁面設置
+配置頁面設定
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建和操作評論
+建立和操作評論
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置自動過濾器和分頁符
+設定自動過濾器和分頁符
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置&amp;計算複雜的公式
+設定&amp;計算複雜的公式
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Microsoft Excel：
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置安全/保護選項
+設定安全/保護選項
     </p>
    </div>
    <div class="col-lg-4">
@@ -341,21 +341,21 @@ Microsoft Excel：
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-通過智能標記填充工作表
+透過智慧標記填充工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建、操縱和刷新數據透視表
+創建、操縱和重新整理資料透視表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-以 SVG 格式導出工作表
+以 SVG 格式匯出工作表
     </p>
    </div>
    <div class="col-lg-4">
@@ -367,14 +367,14 @@ Microsoft Excel：
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-將 Excel 文件轉換為 XPS、PDF 和 PDF HTML
+將 Excel 檔案轉換為 XPS、PDF 和 PDF HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API 能夠將 Excel 文件轉換為 XPS、XPS 和 HTML 格式，並保持最高的視覺保真度。轉換過程可靠，開發人員只需幾行即可獲得所需的格式。
+Aspose.Cells for PHP via Java API 能夠將 Excel 檔案轉換為 XPS、XPS 和 HTML 格式，並保持最高的視覺保真度。轉換過程可靠，開發人員只需幾行即可獲得所需的格式。
     </p>
     <div class="codeblock" id="code">
      <h3>
-以多種格式保存電子表格 - PHP
+以多種格式儲存電子表格 - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -396,7 +396,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 渲染 Excel 電子表格和反對 PDF &amp;圖片
     </h2>
     <p>
-Aspose.Cells for PHP via Java 有自己的渲染引擎，專門用於以最高保真度渲染 Microsoft Excel。使用 Aspose.Cells for PHP via Java 時，您可以轉換整個電子表格、單個工作表和文件。圖表到許多圖像和固定佈局格式。
+Aspose.Cells for PHP via Java 有自己的渲染引擎，專門用於以最高保真度渲染 Microsoft Excel。使用 Aspose.Cells for PHP via Java 時，您可以轉換整個電子表格、單一工作表和文件。圖表到許多圖像和固定佈局格式。
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +404,7 @@ Aspose.Cells for PHP via Java 有自己的渲染引擎，專門用於以最高�
 靈活的工作表顯示選項
     </h2>
     <p>
-Aspose.Cells for PHP via Java 使您可以完全控制工作表的頁面設置，從而允許您操縱 Excel 工作表的顯示選項，例如分頁符、頁面方向、縮放、紙張大小、頁眉/頁腳和頁腳。縮放級別。您還可以使用凍結窗格和窗口來控制數據可見性。打印區域以滿足您的應用要求。
+Aspose.Cells for PHP via Java 可讓您完全控制工作表的頁面設置，從而允許您操縱 Excel 工作表的顯示選項，例如分頁符號、頁面方向、縮放、紙張大小、頁首/頁尾和頁尾。縮放等級。您也可以使用凍結窗格和視窗來控制資料可見性。列印區域以滿足您的應用要求。
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,18 +412,18 @@ Aspose.Cells for PHP via Java 使您可以完全控制工作表的頁面設置�
 高效、穩健、穩定可靠的公式計算引擎
     </h2>
     <p>
-Aspose.Cells for PHP via Java配備了強大的公式計算引擎，支持幾乎所有標準和高級Microsoft Excel公式和函數。您可以讀取、設置和計算內置或附加類型、數組和 R1C1 參考樣式公式的結果。
+ Aspose.Cells for PHP via Java配備了強大的公式計算引擎，支援幾乎所有標準和高級Microsoft Excel公式和函數。您可以讀取、設定和計算內建或附加類型、陣列和 R1C1 參考樣式公式的結果。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-通過格式、圖表和圖表可視化數據圖形
+透過格式、圖表和圖表可視化數據圖形
     </h2>
     <p>
-該庫非常靈活，可以為電子表格提供各種視覺效果，還可以將格式應用於工作表、行、列或單元格，設置帶有屬性的字體，定義單元格樣式和样式。數字格式、添加富文本並定義條件格式規則。
+函式庫非常靈活，可以為電子表格提供各種視覺效果，還可以將格式套用到工作表、行、列或儲存格，設定帶有屬性的字體，定義儲存格樣式和樣式。數字格式、新增富文本並定義條件格式規則。
     </p>
     <p>
-同樣，為了獲得專業的外觀和易於理解的圖表和圖形是不可或缺的部分。 Aspose.Cells for PHP via Java API 可以創建和操作所有類型的標準和自定義圖表。此外，可以輕鬆地將不同類型的繪圖對象添加到單元格中。
+同樣，為了獲得專業的外觀和易於理解的圖表和圖形是不可或缺的部分。 Aspose.Cells for PHP via Java API 可以建立和操作所有類型的標準和自訂圖表。此外，可以輕鬆地將不同類型的繪圖物件新增至儲存格。
     </p>
    </div>
   </div>
@@ -436,16 +436,16 @@ Aspose.Cells for PHP via Java配備了強大的公式計算引擎，支持幾乎
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/cells/phpjava/" >}}
-{{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
+{{< blocks/products/pf/slr-element name="文件" href="https://docs.aspose.com/cells/phpjava/" >}}
+{{< blocks/products/pf/slr-element name="原始碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API 參考文獻" href="https://reference.aspose.com/php/cells" >}}
-{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="教學影片" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-tab tabTitle="產品支援" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支援" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼是Aspose.Cells for PHP via Java？" tabId="success-stories" >}}

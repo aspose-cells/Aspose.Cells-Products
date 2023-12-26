@@ -1,7 +1,7 @@
 ---
-title: Java XML 到 POWERPOINT - 在线 XML 到 POWERPOINT 转换器
-description: Aspose Excel。 Java Aspose.Cells。Java Aspose Cells。免费在线 Java 将 XML 转换为 POWERPOINT 保存格式。 Java XML 到 POWERPOINT 格式。将 XML 保存到 POWERPOINT Java。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to POWERPOINT saveformat., Free Online XML to POWERPOINT Java., Java Convert XML to POWERPOINT]
+title: Java XML 到 POWERPOINT - XML 到 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XML 转换为 POWERPOINT。Java XML 到 POWERPOINT。 Java 将 XML 保存到 POWERPOINT。使用 Java 将 XML 保存为 POWERPOINT。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to POWERPOINT in Java., Save XML to POWERPOINT using Java., Java XML to POWERPOINT saveformat., XML to POWERPOINT Converter., Java Save XML as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Java 中的 XML 转换为 POWERPOINT" h2="用于将 XML 转换为 POWERPOINT 的高速 Java 库。这是一个使用 Java 导入和导出 XML、POWERPOINT 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to PO
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 XML 转换为 POWERPOINT" %}}
 
-如何将 XML 转换为 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XML 转换为 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 XML 转换为 POWERPOINT？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XML 转换为 POWERPOINT。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="在 Java 在线免费将 XML 保存到 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 XML 保存到 POWERPOINT 中 Java" %}}
 
 以下示例演示如何将 Java 中的 XML 转换为 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 XML 在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="将 XML 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 XML 转换为 POWERPOINT via Java" %}}
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to PO
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML 代表可扩展标记语言，与 HTML 类似，但不同之处在于使用标签来定义对象。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是由于它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过万维网 (WWW) 等网络进行存储和共享。 XML 中的“X”表示可扩展，这意味着该语言可以根据用户需求扩展到任意数量的符号。许多标准文件格式都利用了这些功能，例如 Microsoft Open XML、LibreOffice OpenDocument、XHTML 和 SVG。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

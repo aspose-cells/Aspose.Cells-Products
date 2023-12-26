@@ -2,6 +2,7 @@
 title: 编辑或查看 XLSB 文件元数据 via Java
 weight: 7290
 description: Java 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上编辑或查看 XLSB 格式元数据的示例代码。
+keywords: [Java Aspose.Cells., Java view xlsb metadata., Java add xlsb metadata., Java insert xlsb metadata., Java edit xlsb metadata., Java remove xlsb metadata., Java extract xlsb metadata., Java modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 XLSB 元数据 via Java" h2="构建您自己的 Java 应用程序，以使用服务器端 API 添加、编辑、删除或提取 XLSB 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

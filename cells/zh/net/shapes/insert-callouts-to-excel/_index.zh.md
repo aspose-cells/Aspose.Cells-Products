@@ -1,7 +1,8 @@
 ---
 title: 将标注插入 Excel via .NET
 weight: 360
-description: C# 用于将标注插入 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 Excel 的源代码。
+description: C# 使用 .NET 库向 Excel 添加或插入标注的示例代码。使用此代码可在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 MS Excel 中创建标注。
+keywords: [C# Aspose.Cells., c# add Callouts shape., c# insert Callouts shape., c# create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将标注插入 Excel via .NET" h2="使用 Aspose.Cells\' API 插入标注，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -111,7 +112,7 @@ AutoShapeType.RoundedRectangleCallout
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/bent_line.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.LineCalloutWithBorder2
+AutoShapeType.LineCalloutWithBorder2
     </p>
    </div>
    <div class="col-lg-4">
@@ -171,7 +172,7 @@ AutoShapeType.RoundedRectangleCallout
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/double_bent_line_with_border_and_accent_bar.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.LineCalloutWithBorderAndAccentBar3
+ AutoShapeType.LineCalloutWithBorderAndAccentBar3
     </p>
    </div>
   </div>
@@ -187,7 +188,7 @@ AutoShapeType.LineCalloutWithBorderAndAccentBar3
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

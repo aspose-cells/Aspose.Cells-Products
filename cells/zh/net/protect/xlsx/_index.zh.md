@@ -2,6 +2,7 @@
 title: 保护和锁定XLSX文档via .NET
 weight: 90
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密码锁定 XLSX 文件。
+keywords: [C# Aspose.Cells., c# Lock XLSX files., c# How to Protect and lock XLSX document., c# Protect XLSX files., Encrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 加密 XLSX 文件" h2="使用 .NET 库对 Excel 电子表格进行密码保护，包括 XLSX 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

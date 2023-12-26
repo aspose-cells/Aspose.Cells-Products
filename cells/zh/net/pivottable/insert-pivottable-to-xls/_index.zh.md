@@ -1,7 +1,8 @@
 ---
 title: 通过 C# 在 Microsoft Excel XLS 文件中插入数据透视表
 weight: 7690
-description: C# 使用数据透视表生成 XLS 文档的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用数据透视表创建 Microsoft Excel XLS 文件。
+description: C# 使用 .NET 库将数据透视表添加到 XLS 的示例代码。使用此代码将数据透视表插入 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中的 XLS 文件。
+keywords: [C# Aspose.Cells., c# add PivotTable in xls., c# insert PivotTable in xls., c# create PivotTable in xls., c# modify PivotTable in xls., access PivotTable in xls., c# add pivot table in xls., c# insert pivot table in xls., c# create pivot table in xls., c# modify pivot table in xls., access pivot table in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 在 XLS 文档中插入数据透视表" h2="本机高性能 Microsoft Excel XLS 电子表格，使用服务器端 .NET API 以编程方式创建数据透视表。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,9 +12,7 @@ description: C# 使用数据透视表生成 XLS 文档的示例代码。使用�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-在运行的应用程序中动态生成带有数据透视表的 MS Excel XLS 文件非常简单。为了使用数据透视表从头开始创建 XLS 文档而不需要 MS Office，我们将使用
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API，使用 .NET 平台提供电子表格创建、操作和转换的不同功能。开发人员可以轻松增强用于写入数据、生成图表或图形以及在电子表格中创建表格的代码。
+在运行的应用程序中动态生成带有数据透视表的 MS Excel XLS 文件非常简单。为了使用数据透视表从头开始创建 XLS 文档而不需要 MS Office，我们将使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API，使用 .NET 平台提供电子表格创建、操作和转换的不同功能。开发人员可以轻松增强用于写入数据、生成图表或图形以及在电子表格中创建表格的代码。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

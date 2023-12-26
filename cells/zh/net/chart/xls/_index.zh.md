@@ -2,6 +2,7 @@
 title:  XLS 文档图表到图像 via .NET
 weight: 3210
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上绘制和转换 XLS 文件中的图表或图表。
+keywords: [C# Aspose.Cells., c# Convert chart to image in xls., c# Save chart to image in xls., c# chart to image in xls., xls convert chart to image in c#., xls save chart to imagein c#., xls chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS 将图表文件转换为 C# 中的图像" h2="本机高性能 XLS 使用服务器端 API 记录图表到图像的转换，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -44,7 +45,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 +加载XLS文件。
-+ 获取图表。
+获取图表。
 将图表转换为图像。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。将Excel图表转换为PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。将Excel图表转换为PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS。
  
 
 

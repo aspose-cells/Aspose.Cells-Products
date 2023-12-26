@@ -1,7 +1,8 @@
 ---
 title:  .NET Excel API |处理电子表格格式 via .NET 核心
 weight: 2030
-description: C# ASP.NET VB.NET 库，用于处理 Microsoft Excel 文档。创建读写保存和打印电子表格文件。转换为PDF或更多格式
+description: C# ASP.NET VB.NET 用于创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、XML、TSV、HTML等。
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="操作 Excel 文件 via .NET API" h2="在 .NET、.NET Core 和 Xamarin 平台上读取和写入电子表格文件。将电子表格导出为其他格式，无需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}

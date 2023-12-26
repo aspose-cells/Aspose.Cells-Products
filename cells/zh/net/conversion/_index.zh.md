@@ -1,12 +1,13 @@
 ---
 title: Microsoft Excel 文件转换通过 C#
-description: 转换Excel XLS，XLSX，ODS，CSV至PDF，XPS，HTML，HTML，JPEG，JPEG，HTML和许多其他形式的码数为076193131313131313。
+description: Aspose.Cells for .NET 图书馆。只需几行 C# 代码即可转换 EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL、JPG、PNG 等格式。
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 格式转换 via .NET" h2="将 Excel 文件导入和导出为电子表格、Web、图像和固定布局格式" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel 库可加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS . 它还允许将Excel文件导出到PDF、XPS、HTML、MHTML、Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
+.NET Excel 库可加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS。还允许将 Excel 文件导出到 PDF、XPS、HTML、MHTML、Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 转换为 XLSX、ODS、SXC 和 FODS" %}}

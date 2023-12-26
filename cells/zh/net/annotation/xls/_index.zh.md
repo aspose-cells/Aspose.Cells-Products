@@ -1,7 +1,8 @@
 ---
-title: 删除 XLS 注释 via .NET
+title: 添加或删除 XLS 注释 via .NET
 weight: 9270
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上添加和删除 XLS 格式注释。
+keywords: [C# Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 从 XLS 添加或删除注释" h2="构建您自己的 .NET 应用程序，以使用服务器端 API 操作文档文件中的评论和作者。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

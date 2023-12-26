@@ -2,6 +2,7 @@
 title: 从XLSB文档via .NET中提取文本和图像
 weight: 2200
 description: C# 源代码，用于从 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSB 文件中提取文本和图像。
+keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How to Parse XLSB File., c# Extract text from XLSB file., Extract images from XLSB file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="解析 C# 中的 XLSB 格式" h2="使用服务器端 Aspose.Cells for .NET API 进行本机高性能 XLSB 文档解析，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}

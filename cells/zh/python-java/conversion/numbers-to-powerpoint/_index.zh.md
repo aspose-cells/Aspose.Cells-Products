@@ -1,7 +1,7 @@
 ---
-title: Python 数字到 POWERPOINT - 在线数字到 POWERPOINT 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将数字转换为 POWERPOINT 保存格式。 Python 数字到 POWERPOINT 格式。将数字保存到 POWERPOINT Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to POWERPOINT saveformat., Free Online NUMBERS to POWERPOINT Python., Python Convert NUMBERS to POWERPOINT]
+title: Python 数字到 POWERPOINT - 数字到 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 NUMBERS 转换为 POWERPOINT。Python NUMBERS 到 POWERPOINT。 Python 将数字保存到 PowerPoint。使用 Python 将数字另存为 POWERPOINT。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to POWERPOINT in Python., Save NUMBERS to POWERPOINT using Python., Python NUMBERS to POWERPOINT saveformat., NUMBERS to POWERPOINT Converter., Python Save NUMBERS as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 NUMBERS 转换为 POWERPOINT" h2="用于将 NUMBERS 转换为 POWERPOINT 的高速 Python 库。这是一个使用 Python 导入和导出 NUMBERS、POWERPOINT 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将数字转换为 POWERPOINT" %}}
 
-如何将 NUMBERS 转换为 POWERPOINT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 NUMBERS 转换为 POWERPOINT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 NUMBERS 转换为 POWERPOINT？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 NUMBERS 转换为 POWERPOINT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将数字保存到 Python 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将数字保存到 POWERPOINT 中 Python" %}}
 
 以下示例演示如何将 Python 中的 NUMBERS 转换为 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将数字在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 NUMBERS 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将数字转换为 POWERPOINT" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,7 +75,7 @@ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}扩展名为 .numbers 的文件被归类为电子表格文件类型，这就是它们与 .xlsx 文件类似的原因；但 Numbers 文件是使用 Apple iWork Numbers 电子表格软件创建的。 Apple iWork Numbers 是 iWork Productivity Suite 的一个单元软件。 iWork Productivity Suite 相当于 Windows PC 上使用的 Microsoft Office Suite。因此，我们可以说适用于 MacOS 的 Numbers 也是 Microsoft Excel 的竞争对手。同样，Microsoft Excel，NUMBERS 文件也可能包含表格、图表和公式。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

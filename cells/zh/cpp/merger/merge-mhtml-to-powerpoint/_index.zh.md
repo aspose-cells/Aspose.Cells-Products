@@ -1,8 +1,8 @@
 ---
 title: 将 MHTML 合并到 POWERPOINT - 将 MHTML 合并到 C++ 中的 POWERPOINT
 url: /zh/cpp/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel。 C++ Aspose.Cells。免费在线合并 MHTML 到 POWERPOINT 保存格式。 C++ 将 MHTML 合并为 POWERPOINT 格式。将 MHTML 合并到 C++ 中的 POWERPOINT。 MHTML 合并。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT in C++., Free Online C++ Merge MHTML to powerpoint., C++ Combine MHTML to POWERPOINT Online for Free., MHTML Merge]
+description: Aspose Excel。 C++ Aspose.Cells。将 MHTML 合并到 POWERPOINT 保存格式。 C++ 将 MHTML 合并为 POWERPOINT 格式。将 MHTML 合并到 C++ 中的 POWERPOINT。 MHTML 合并。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT in C++., C++ Merge MHTML to powerpoint., C++ Combine MHTML to POWERPOINT., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将 MHTML 合并到 POWERPOINT" h2="高速 C++ 库，用于将 MHTML 合并到 POWERPOINT。使用我们的Excel转换API在C++中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT in C++., 
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 MHTML 合并到 POWERPOINT" %}}
 
-如何将 MHTML 合并到 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 MHTML 合并到 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 MHTML 合并到 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 MHTML 合并到 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 MHTML 合并到 C++ 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 MHTML 合并到 C++ 中的 POWERPOINT" %}}
 
 以下示例演示如何将 MHTML 合并到 Aspose.Cells for C++ 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 MHTML 合并到 C++ 中的 POWERPOINT" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="将 MHTML 合并到 C++ 中的 POWERPOINT 的示例代码" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 MHTML 合并到 POWERPOINT" %}}
 
@@ -89,7 +89,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}扩展名为 MHTML 的文件代表一种网页存档格式，可以由许多不同的应用程序创建。该格式称为存档格式，因为它将 Web HTML 代码和相关资源保存在单个文件中。这些资源包括链接到网页的任何内容，例如图像、小程序、动画、音频文件等。 MHTML 文件可以在各种应用程序中打开，例如 Internet Explorer 和 Microsoft Word。 Microsoft Windows 使用 MHTML 文件格式来记录在使用 Windows 上出现问题的任何应用程序期间观察到的问题场景。 MHTML 文件格式对页面内容进行编码，类似于 message/rfc822 中定义的规范，这是纯文本电子邮件相关规范。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-pdf/" name="合并 MHTML 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-png/" name="合并 MHTML 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-svg/" name="合并 MHTML 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-tiff/" name="合并 MHTML 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-tsv/" name="合并 MHTML 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-txt/" name="合并 MHTML 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xls/" name="合并 MHTML 至 XLS" description="Excel 二进制格式" >}}

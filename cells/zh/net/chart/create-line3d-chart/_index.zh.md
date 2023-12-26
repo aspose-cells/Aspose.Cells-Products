@@ -1,6 +1,7 @@
 ---
 title: 通过 C# 创建 3D 折线图
 description: C# 使用 .NET 库将 3D 折线图创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel 的 3D 折线图。
+keywords: [C# Aspose.Cells., c# add 3D Line Chart., c# insert 3D Line Chart., c# create 3D Line Chart., c# add Line3D Chart., c# insert Line3D Chart., c# create Line3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

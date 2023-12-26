@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML 到 ETT - 在线 SPREADSHEETML 到 ETT 转换器
-description: Aspose Excel。 Python Aspose.Cells. Python Aspose Cells. 免费在线 Python 将 SPREADSHEETML 转换为 ETT 保存格式。 Python SPREADSHEETML 为 ETT 格式。将电子表格保存到 ETT Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to ETT saveformat., Free Online SPREADSHEETML to ETT Python., Python Convert SPREADSHEETML to ETT]
+title: Python SPREADSHEETML 到 ETT - SPREADSHEETML 到 ETT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 SPREADSHEETML 转换为 ETT。Python SPREADSHEETML 到 ETT。 Python 将电子表格保存到 ETT。使用 Python 将 SPREADSHEETML 保存为 ETT。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to ETT in Python., Save SPREADSHEETML to ETT using Python., Python SPREADSHEETML to ETT saveformat., SPREADSHEETML to ETT Converter., Python Save SPREADSHEETML as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 SPREADSHEETML 转换为 Python 中的 ETT" h2="用于将 SPREADSHEETML 转换为 ETT 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/content h2="将 SPREADSHEETML 转换为 Python 中的 ETT" %}}
 
-如何将 SPREADSHEETML 转换为 ETT？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 SPREADSHEETML 转换为 ETT。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 SPREADSHEETML 转换为 ETT？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 SPREADSHEETML 转换为 ETT。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将 SPREADSHEETML 保存到 Python 中的 ETT" %}}
+{{% blocks/products/pf/agp/content h2="将 SPREADSHEETML 保存到 ETT，格式为 Python" %}}
 
 以下示例演示如何将 Python via NET 中的 SPREADSHEETML 转换为 ETT。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 SPREADSHEETML 在线转换为 ETT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 SPREADSHEETML 转换为 ETT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 SPREADSHEETML 转换为 ETT" %}}
 
@@ -83,7 +83,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-emf/" name="电子表格ML 至 EMF" description="增强的图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-gif/" name="电子表格ML 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-html/" name="电子表格ML 至 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-md/" name="电子表格ML 到 MD" description="降价语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-md/" name="电子表格ML 到MD" description="降价语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-mhtml/" name="电子表格ML 至 MHTML" description="网页存档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-ods/" name="电子表格ML 至 ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-pdf/" name="电子表格ML 至 PDF" description="便携式文档格式" >}}

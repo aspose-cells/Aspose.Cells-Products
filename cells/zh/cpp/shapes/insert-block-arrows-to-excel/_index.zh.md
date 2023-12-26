@@ -2,6 +2,7 @@
 title: 通过 C++ 将箭头插入 Excel 中
 weight: 770
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中在 Excel 文件中插入块箭头的示例代码。
+keywords: [C++ Aspose.Cells., C++ add block arrows., C++ insert block arrows., C++ create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将箭头插入 Excel 中" h2="使用服务器端的本机高性能插入对象 Aspose.Cells for C++ API，无需使用任何软件，例如 Microsoft 或 Adobe PDF。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 实例化一个 Workbook 对象。（或者->加载 XLSX 文件的完整路径。）
 + 通过索引选择工作表。
- + 使用[添加方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d)在选定的工作表中插入块箭头类型概述
+ + 使用[添加方法](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/)在选定的工作表中插入块箭头类型概述
 以 XLSX 格式保存工作簿。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -57,13 +58,13 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 {{% blocks/products/pf/agp/text %}}
 
-下面的示例代码演示了如何插入“右箭头”。更多类型请参阅下面的“方块箭头类型概述”。
+下面的示例代码演示了如何插入“右箭头”。更多类型请参考下面的“方块箭头类型概述”。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/code-block title="插入箭头块 - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -248,7 +249,7 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

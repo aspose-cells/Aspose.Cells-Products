@@ -2,6 +2,7 @@
 title: 水印XLSM文档via Java
 weight: 7680
 description: Java 用于向 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 XLSM 文件添加或删除水印的示例代码。
+keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="添加文本水印到XLSM via Java" h2="使用服务器端 API 构建您自己的 Java 应用程序来为 XLSM 文件添加水印。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

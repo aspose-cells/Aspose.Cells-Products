@@ -1,6 +1,7 @@
 ---
 title: 将图表转换为 BMP 图像 via .NET
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上转换 XLSX 文件中的图表。
+keywords: [C# Aspose.Cells., c# Convert chart to BMP., c# Save chart to BMP., c# chart to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将图表转换为 BMP C# 中的图像" h2="本机高性能 XLS 使用服务器端 API 记录图表到图像的转换，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 创建 XLSX 文件。
-+ 获取图表。
+获取图表。
 + 将图表转换为 BMP 图像。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

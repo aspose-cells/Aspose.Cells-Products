@@ -2,6 +2,7 @@
 title: 通过C++从ODS文档中提取文本和图像
 weight: 9130
 description: C++ 示例代码，用于在 C++ 运行时环境中从 ODS 文件中提取文本和图像，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="解析 C++ 中的 ODS 格式" h2="使用服务器端 Aspose.Cells for C++ API 进行本机高性能 ODS 文档解析，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -61,9 +62,30 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 {{% blocks/products/pf/agp/code-block title="解析 ODS 文件 - C++" offSpacer="" %}}
 
 ```cs
-  
 
-    
+Aspose::Cells::Startup();
+
+// extract images from Worksheets 
+// open a template Excel file
+Workbook workbook(u"sampleExtractImagesFromWorksheets.ods");
+
+// get the first worksheet
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
+
+// get the first Picture in the first worksheet
+Picture pic = worksheet.GetPictures().Get(0);
+
+// Note: you may evaluate the image format before specifying the image path
+// define ImageOrPrintOptions
+ImageOrPrintOptions printoption;
+
+// specify the image format
+printoption.SetImageType(ImageType::Jpeg);
+
+// save the image
+pic.ToImage(u"outputExtractImagesFromWorksheets.jpg", printoption);
+
+Aspose::Cells::Cleanup();
 
 ```
 

@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to HTM saveformat., Free
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 XLAM 转换为 HTM" %}}
 
-如何将 XLAM 转换为 HTM？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 HTM。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 XLAM 转换为 HTM？借助 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 HTM。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to HTM saveformat., Free
 以下示例演示如何将 XLAM 转换为 Java 中的 HTM。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 XLAM 转换为 HTM。上传 XLAM 文件，然后将其保存为 HTM 文件。对于 XLAM 读取和 HTM 写入，您可以使用完全限定的文件名。输出的 HTM 内容和格式将与原始 XLAM 文档相同。
+按照简单的步骤将 XLAM 转换为 HTM。上传您的 XLAM 文件，然后将其保存为 HTM 文件。对于 XLAM 读取和 HTM 写入，您可以使用完全限定的文件名。输出的 HTM 内容和格式将与原始 XLAM 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 

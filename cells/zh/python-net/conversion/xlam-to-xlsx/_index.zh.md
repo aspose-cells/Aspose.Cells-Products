@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to XLSX saveformat.,
 
 {{% blocks/products/pf/agp/content h2="将 XLAM 转换为 Python 中的 XLSX" %}}
 
-如何将 XLAM 转换为 XLSX？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 XLSX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLAM 转换为 XLSX？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 XLSX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 

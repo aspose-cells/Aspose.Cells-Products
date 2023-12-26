@@ -1,6 +1,7 @@
 ---
 title: 通过 Python 创建气泡图
 description: Python 使用 Python 库将气泡图创建到 Excel 的示例代码。使用此代码在基于 Python 的应用程序中创建 MS Excel 气泡图。
+keywords: [Python Aspose.Cells., Python add Bubble Chart., Python insert Bubble Chart., Python create Bubble Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

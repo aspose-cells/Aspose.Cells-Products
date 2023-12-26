@@ -2,6 +2,7 @@
 title: 将注释插入到 XLSB 文件 via .NET
 url: /zh/net/notes/insert-notes-to-xlsb/ 
 description: 使用 C# 将注释插入到 XLSB。使用 API 示例代码在 .NET 应用程序中插入注释。
+keywords: [C# Aspose.Cells., add XLSB notes., insert XLSB notes., access XLSB notes., remove XLSB notes., delete XLSB notes., add notes in XLSB., insert notes in XLSB., access notes in XLSB., remove notes in XLSB., delete notes in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 在 XLSB 文件中插入注释" h2="构建您自己的 .NET 应用程序，以使用服务器端 API 操作文档文件中的评论和作者。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: 使用 C# 将注释插入到 XLSB。使用 API 示例代码在 .NET
 
 {{% blocks/products/pf/agp/content h2="使用 .NET 在 XLSB 文件中插入注释" %}}
 
-使用 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松地在 XLSB 文件中插入注释。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
+使用 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松地在 XLSB 文件中插入注释。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -62,7 +63,7 @@ Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保�
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% cells-annotation title="免费应用程序从 XLSB 文件中删除注释" InputFormat="xlsb" IsLandingPage="true" language="net" %}}
+{{% cells-annotation title="免费应用程序可从 XLSB 文件中删除注释" InputFormat="xlsb" IsLandingPage="true" language="net" %}}
 
 <!-- aboutfile Starts -->
 

@@ -2,6 +2,7 @@
 title: 使用Python via .Net将ListBox（表单控件）插入Excel
 weight: 50
 description: Python via .Net 将ListBox（表单控件）插入Excel的源代码。
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ListBox into Excel., Python via .Net insert ListBox into Excel., Python via .Net create ListBox in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="使用Python via .Net将ListBox（表单控件）插入Excel" h2="使用服务器端 API 插入对象，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net 将ListBox（表单控件）插入Excel的源代码
 
 为了将ListBox（表单控件）插入到Excel文件中，我们将使用
  [Aspose.Cells for Python 通过.Net](https://pypi.org/project/aspose-cells-python/) 
-API 这是一个功能丰富、功能强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
+ API 这是一个功能丰富、强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 

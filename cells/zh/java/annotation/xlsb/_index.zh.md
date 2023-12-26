@@ -1,7 +1,8 @@
 ---
-title: 删除 XLSB 注释 via Java
+title: 添加或删除 XLSB 注释 via Java
 weight: 860
 description: Java 用于删除 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上的 XLSB 格式注释的示例代码。
+keywords: [Java Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="添加或删除注释 XLSB via Java" h2="构建您自己的 Java 应用程序，以使用服务器端 API 操作文档文件中的评论和作者。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

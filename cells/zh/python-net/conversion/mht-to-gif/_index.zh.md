@@ -1,7 +1,7 @@
 ---
-title: Python MHT 转 GIF - 在线 MHT 转 GIF 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 MHT 转换为 GIF 保存格式。 Python MHT 到 GIF 格式。将 MHT 保存到 GIF Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to GIF saveformat., Free Online MHT to GIF Python., Python Convert MHT to GIF]
+title: Python MHT 至 GIF - MHT 至 GIF 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 MHT 转换为 GIF。 Python MHT 到 GIF。 Python 将 MHT 保存到 GIF。 使用 Python 将 MHT 保存为 GIF。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to GIF in Python., Save MHT to GIF using Python., Python MHT to GIF saveformat., MHT to GIF Converter., Python Save MHT as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 MHT 转换为 GIF" h2="用于将 MHT 转换为 GIF 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="将 Python 中的 MHT 转换为 GIF" %}}
 
-如何将 MHT 转换为 GIF？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 MHT 转换为 GIF。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 MHT 转换为 GIF？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 MHT 转换为 GIF。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线将MHT保存到Python中的GIF" %}}
+{{% blocks/products/pf/agp/content h2="将MHT保存到Python中的GIF" %}}
 
 以下示例演示如何将 Python via NET 中的 MHT 转换为 GIF。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 MHT 转换为 GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 MHT 转换为 GIF 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 MHT 转换为 GIF" %}}
 

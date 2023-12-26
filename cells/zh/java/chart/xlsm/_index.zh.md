@@ -1,7 +1,8 @@
 ---
-title: XLSM 文件图表 via Java
+title:  XLSM 文件图表 via Java
 weight: 3020
 description: Java 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中绘制和转换 XLSM 文件中的图表或图表的示例代码。
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsm., Java Save chart to image in xlsm., Java chart to image in xlsm., xlsm convert chart to image in Java., xlsm save chart to imagein Java., xlsm chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM 格式化 Java 中的图表" h2="使用服务器端 Aspose.Cells for Java API 的本机高性能 XLSM 文档图表，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -64,7 +65,7 @@ API 这是一个功能丰富、功能强大且易于使用的图表平台 API fo
 + 将样本值添加到单元格中。
 + 将图表添加到工作表。
 + 访问新添加的图表的实例。
-设置图表数据源为范围。
++ 设置图表数据源为范围。
 + 保存工作簿。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

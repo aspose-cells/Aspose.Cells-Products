@@ -1,7 +1,7 @@
 ---
-title: C++ HTML 转 XLTM - 在线 HTML 转 XLTM 转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 HTML 转换为 XLTM 保存格式。 C++ HTML 到 XLTM 格式。将 HTML 保存为 XLTM C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to XLTM saveformat., Free Online HTML to XLTM C++., C++ Convert HTML to XLTM]
+title: C++ HTML 至 XLTM - HTML 至 XLTM 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 HTML 转换为 XLTM。 C++ HTML 为 XLTM。 C++ 将 HTML 保存为 XLTM。 将 HTML 另存为 07611134 81 使用 C++。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTML to XLTM in C++., Save HTML to XLTM using C++., C++ HTML to XLTM saveformat., HTML to XLTM Converter., C++ Save HTML as XLTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 HTML 转换为 C++ 中的 XLTM" h2="使用 C++ 库进行高性能 HTML 到 XLTM 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to XLTM
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 HTML 转换为 XLTM" %}}
 
-如何将 HTML 转换为 XLTM？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 HTML 转换为 XLTM。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 HTML 转换为 XLTM？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 HTML 转换为 XLTM。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 HTML 至 XLTM 于 C++" %}}
+{{% blocks/products/pf/agp/content h2="将 HTML 保存到 C++ 中" %}}
 
 以下示例演示如何将 C++ 中的 HTML 转换为 XLTM。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 HTML 转换为 XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xltm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 HTML 转换为 XLTM 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xltm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 HTML 转换为 XLTM" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 HTML 文件。
+1. 使用工作簿加载 HTML 文件。
 1. 通过调用 Save() 方法将 HTML 转换为 XLTM。
 1. 获取HTML到XLTM的转换结果。
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-pdf/" name="HTML 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-png/" name="HTML 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-svg/" name="HTML 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-tiff/" name="HTML 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-tsv/" name="HTML 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-txt/" name="HTML 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/html-to-xls/" name="HTML 至 XLS" description="Excel 二进制格式" >}}

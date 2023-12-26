@@ -12,14 +12,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to EXCEL saveformat.
 
 {{% blocks/products/pf/agp/content h2="将 XLAM 转换为 EXCEL Python" %}}
 
-如何将 XLAM 转换为 EXCEL？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 EXCEL。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLAM 转换为 EXCEL？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 XLAM 转换为 EXCEL。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="免费将 XLAM 保存到 Python 在线 EXCEL" %}}
 
-下面的例子演示了如何将Python via NET中的XLAM转换为EXCEL。
+以下示例演示如何将Python via NET中的XLAM转换为EXCEL。
 {{% blocks/products/pf/agp/text %}}
 
 按照简单的步骤将 XLAM 转换为 EXCEL。上传 XLAM 文件，然后将其保存为 EXCEL 文件。对于 XLAM 读取和 EXCEL 写入，您可以使用完全限定的文件名。输出的 EXCEL 内容和格式将与原始 XLAM 文档相同。

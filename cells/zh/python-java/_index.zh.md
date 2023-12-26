@@ -1,7 +1,8 @@
 ---
 title: Python Excel 电子表格 API - Aspose
 weight: 2820
-description: Python 电子表格库，用于创建读写和解析 Excel 文件。
+description: Python 用于创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、HTML、TXT和其他流行格式。
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel电子表格解析API" h2="在 Python 应用程序中生成、读取、写入或操作电子表格以及将 Excel 文件导出为多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

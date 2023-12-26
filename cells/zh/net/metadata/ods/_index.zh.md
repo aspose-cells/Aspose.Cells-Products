@@ -2,6 +2,7 @@
 title: 查看或编辑 ODS 文件元数据 via .NET
 weight: 320
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑或查看 ODS 格式元数据。
+keywords: [C# Aspose.Cells., c# view ods metadata., c# add ods metadata., c# insert ods metadata., c# edit ods metadata., c# remove ods metadata., c# extract ods metadata., c# modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 ODS 元数据 via .NET" h2="构建您自己的 .NET 应用程序，以使用服务器端 API 添加、编辑、删除或提取 ODS 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

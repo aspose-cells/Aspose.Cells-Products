@@ -2,6 +2,7 @@
 title: 从ODS文档via Java中提取文本和图像
 weight: 4740
 description: Java 示例代码，用于从 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 ODS 文件中提取文本和图像。
+keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java How to Parse ODS File., Java Extract text from ODS file., Extract images from ODS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="解析 Java 中的 ODS 格式" h2="使用服务器端 Aspose.Cells for Java API 进行本机高性能 ODS 文档解析，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

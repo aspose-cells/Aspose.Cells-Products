@@ -1,8 +1,8 @@
 ---
 title: 合并 MHTML 至 PPTX - 将 MHTML 至 PPTX 合并为 Java
 url: /zh/java/merger/merge-mhtml-to-pptx/ 
-description: Aspose Excel。 Java Aspose.Cells。免费在线合并MHTML到PPTX保存格式。 Java 将 MHTML 合并为 PPTX 格式。将 MHTML 合并到 Java 中的 PPTX。 MHTML 合并。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free Online Java Merge MHTML to pptx., Java Combine MHTML to PPTX Online for Free., MHTML Merge]
+description: Aspose Excel。 Java Aspose.Cells。将MHTML合并到PPTX保存格式。 Java 将 MHTML 合并为 PPTX 格式。将 MHTML 合并到 Java 中的 PPTX。 MHTML 合并。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Java Merge MHTML to pptx., Java Combine MHTML to PPTX., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合并 MHTML 至 PPTX via Java" h2="用于合并 MHTML 到 PPTX 的高速 Java 库。使用我们的 Excel 转换 API 在 Java 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 MHTML 合并到 PPTX" %}}
 
-如何将 MHTML 合并到 PPTX？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松地将 MHTML 合并到 PPTX。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+如何将 MHTML 合并到 PPTX？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松地将 MHTML 合并到 PPTX。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 MHTML 合并为 Java 中的 PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将 MHTML 合并到 Java 中的 PPTX" %}}
 
 以下示例演示如何将 MHTML 合并到 Aspose.Cells for Java 中的 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 MHTML 合并到 Java 中的 PPTX" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="将 MHTML 合并到 Java 中的 PPTX 的示例代码" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="如何合并 MHTML 至 PPTX via Java" %}}
 
@@ -103,7 +103,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}扩展名为 MHTML 的文件代表一种网页存档格式，可以由许多不同的应用程序创建。该格式称为存档格式，因为它将 Web HTML 代码和相关资源保存在单个文件中。这些资源包括链接到网页的任何内容，例如图像、小程序、动画、音频文件等。 MHTML 文件可以在各种应用程序中打开，例如 Internet Explorer 和 Microsoft Word。 Microsoft Windows 使用 MHTML 文件格式来记录在使用 Windows 上出现问题的任何应用程序期间观察到的问题场景。 MHTML 文件格式对页面内容进行编码，类似于 message/rfc822 中定义的规范，这是纯文本电子邮件相关规范。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

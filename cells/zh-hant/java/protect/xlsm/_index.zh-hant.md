@@ -1,7 +1,8 @@
 ---
 title: 保護和鎖定XLSM文檔via Java
 weight: 9620
-description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用程序的 Java 運行時環境上使用密碼鎖定 XLSM 文件。
+description: Java 範例程式碼，用於在 JSP/JSF 應用程式和桌面應用程式的 Java 執行時間環境上使用密碼鎖定 XLSM 檔案。
+keywords: [Java Aspose.Cells., Java Lock XLSM files., Java How to Protect and lock XLSM document., Java Protect XLSM files., Encrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="加密 XLSM 文件 via Java" h2="使用 .NET 庫對 Excel 電子表格進行密碼保護，包括 XLSM 格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -15,7 +16,7 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API這是一個功能豐富、功能強大且易於使用的加密API for Java平台。您可以直接從以下位置下載其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -31,7 +32,7 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="儲存庫" offSpacer="true" %}}
 
 ```cs
 <dependency>
@@ -53,26 +54,26 @@ description: Java 示例代碼，用於在 JSP/JSF 應用程序和桌面應用�
 
 {{% blocks/products/pf/agp/text %}}
 
-只需幾行代碼即可使用 Aspose.Cells API 進行文檔保護。
+只需幾行程式碼即可使用 Aspose.Cells API 進行文件保護。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 通過實例化Workbook類加載XLSM文件
-1. 使用帶有 ProtectionType 和密碼的 protected(..) 方法
-1. 通過save()方法保存受保護的XLSM文件
+1. 透過實例化Workbook類別載入XLSM文件
+1. 將protect(..) 方法與ProtectionType 和Password 一起使用
+1. 透過save()方法保存受保護的XLSM文件
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
+{{% blocks/products/pf/agp/feature-section-col title="系統需求" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java 支持所有主要平台和操作系統。請確保您具備以下先決條件。
+Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。
-- 直接從 Aspose.Cells for Java 獲取最新版本
+-  Microsoft Windows 或具有 Java JSP/JSF 應用程式和桌面應用程式運行時環境的相容作業系統。
+- 直接從 Aspose.Cells for Java 取得最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -103,7 +104,7 @@ wkb.save("lockedFile.xlsm");
 
 {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
+ Aspose.Cells API 可用於建立、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟體應用程式中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟體。
 
 
 
@@ -111,15 +112,15 @@ wkb.save("lockedFile.xlsm");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="免費保護應用程序 XLSM" sectionDescription="查看我們的現場演示[加密XLSM文件](https://products.aspose.app/cells/protect/xlsm)具有以下好處。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯代碼" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 XLSM 文件並點擊“解鎖”按鈕" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="免費保護應用程式 XLSM" sectionDescription="查看我們的現場演示[加密XLSM文件](https://products.aspose.app/cells/protect/xlsm)具有以下好處。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設定任何東西" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯程式碼" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 XLSM 檔案並點擊「解鎖」按鈕" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="從鏈接下載生成的 XLSM 文件" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-擴展名為 XLSM 的文件是一種支持宏的電子表格文件。從應用程序的角度來看，宏是用於自動化流程的指令集。宏用於記錄重複執行的步驟，並通過再次運行宏來方便執行操作。宏是使用 Visual Basic 編輯器在 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 進行編程的，並且可以直接從那裡運行/調試。
+副檔名為 XLSM 的檔案是一種支援巨集的電子表格檔案。從應用程式的角度來看，巨集是用於自動化流程的指令集。巨集用於記錄重複執行的步驟，並透過再次執行巨集來方便執行操作。巨集是使用 Visual Basic 編輯器在 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 進行程式設計的，並且可以直接從那裡執行/偵錯。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,11 +128,11 @@ wkb.save("lockedFile.xlsm");
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的保護文件" subTitle="使用Java，可以保護其他文件，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支援的保護文件" subTitle="使用Java，可以保護其他文件，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Excel 二進制格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="二進制 Excel 工作簿文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Excel 二進位格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="二進位 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

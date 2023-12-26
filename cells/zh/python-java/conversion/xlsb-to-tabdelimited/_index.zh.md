@@ -1,7 +1,7 @@
 ---
-title: Python XLSB 转 TABDELIMITED - 在线 XLSB 转 TABDELIMITED 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 XLSB 转换为 TABDELIMITED 保存格式。 Python XLSB 为制表符格式。将 XLSB 保存为 TABDELIMITED Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to TABDELIMITED saveformat., Free Online XLSB to TABDELIMITED Python., Python Convert XLSB to TABDELIMITED]
+title: Python XLSB 至 TABDELIMITED - XLSB 至 TABDELIMITED 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLSB 转换为 TABDELIMITED。 Python XLSB 转换为 TABDELIMITED。 Python 将 XLSB 保存到制表符。使用 Python 将 XLSB 保存为 TABDELIMITED。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to TABDELIMITED in Python., Save XLSB to TABDELIMITED using Python., Python XLSB to TABDELIMITED saveformat., XLSB to TABDELIMITED Converter., Python Save XLSB as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLSB 转换为 Python 中的 TABDELIMITED" h2="用于将 XLSB 转换为 TABDELIMITED 的高速 Python 库。这是一个专业的软件解决方案，用于导入和导出 XLSB、TABDELIMITED 以及使用 Python 的许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLSB 转换为 TABDELIMITED" %}}
 
-如何将 XLSB 转换为 TABDELIMITED？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLSB 转换为 TABDELIMITED。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLSB 转换为 TABDELIMITED？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLSB 转换为 TABDELIMITED。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLSB 保存为 Python 中的 TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="将 XLSB 保存为 Python 中的 TABDELIMITED" %}}
 
 以下示例演示如何将 XLSB 转换为 Python 中的 TABDELIMITED。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 XLSB 转换为 TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 XLSB 转换为 TABDELIMITED 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLSB 转换为 TABDELIMITED" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

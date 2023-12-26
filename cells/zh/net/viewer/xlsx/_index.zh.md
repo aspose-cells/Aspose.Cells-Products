@@ -2,6 +2,7 @@
 title: 查看 XLSX 文件格式 via .NET
 weight: 2180
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加载、渲染和显示 XLSX 文档。
+keywords: [C# Aspose.Cells., c# view XLSX files., c# how to render XLSX document., c# load and display XLSX files., XLSX File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格，例如 XLSX，无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

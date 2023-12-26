@@ -1,8 +1,8 @@
 ---
 title: 合并 JPG 到 EXCEL - 将 JPG 合并到 EXCEL Python
 url: /zh/python-java/merger/merge-jpg-to-excel/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并JPG到EXCEL保存格式。 Python 将JPG合并为EXCEL格式。将JPG合并为EXCEL Python.JPG合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to EXCEL in Python., Free Online Python Merge JPG to excel., Python Combine JPG to EXCEL Online for Free., JPG Merge]
+description: Aspose Excel。 Python Aspose.Cells. 将 JPG 合并为 EXCEL 保存格式。 Python 将JPG合并为EXCEL格式。将JPG合并为EXCEL Python.JPG合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to EXCEL in Python., Python Merge JPG to excel., Python Combine JPG to EXCEL., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 JPG 合并为 EXCEL" h2="用于将 JPG 合并到 EXCEL 的高速 Python 库。使用我们的Excel转换API在Python中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to EXCEL in Python., F
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 JPG 合并为 EXCEL" %}}
 
-如何将 JPG 合并到 EXCEL？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 JPG 合并到 EXCEL。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+如何将 JPG 合并到 EXCEL？借助 Aspose.Cells for Python via Java 库，您可以通过几行代码以编程方式轻松将 JPG 合并到 EXCEL。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via Java<a href="https://pypi.org/project/aspose-cells/">pypi</a>，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将Python JPG合并为EXCEL" %}}
+{{% blocks/products/pf/agp/content h2="将JPG合并为EXCEL Python" %}}
 
 下面的例子演示了如何将JPG合并到EXCEL中Aspose.Cells for Python via Java。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to EXCEL in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将JPG合并为EXCEL Python" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Python 中 JPG 合并为 EXCEL 的示例代码" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将JPG合并为EXCEL通过Python" %}}
 

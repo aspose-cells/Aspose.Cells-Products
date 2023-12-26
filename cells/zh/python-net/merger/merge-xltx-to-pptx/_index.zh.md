@@ -1,8 +1,8 @@
 ---
 title: 合并 XLTX 至 PPTX - 将 XLTX 至 PPTX 合并为 Python
 url: /zh/python-net/merger/merge-xltx-to-pptx/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并XLTX到PPTX保存格式。 Python 将 XLTX 合并为 PPTX 格式。将 XLTX 合并到 Python 中的 PPTX。 XLTX 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., Free Online Python Merge XLTX to pptx., Python Combine XLTX to PPTX Online for Free., XLTX Merge]
+description: Aspose Excel。 Python Aspose.Cells。将XLTX合并到PPTX保存格式。 Python 将 XLTX 合并为 PPTX 格式。将 XLTX 合并到 Python 中的 PPTX。 XLTX 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., Python Merge XLTX to pptx., Python Combine XLTX to PPTX., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLTX 合并到 PPTX" h2="用于合并 XLTX 到 PPTX 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。这是导入和导出 Excel, CSV, OpenOffice, PDF, HTML, image 和许多其他 Excel 格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., F
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLTX 合并到 PPTX" %}}
 
-如何将 XLTX 合并到 PPTX？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLTX 合并到 PPTX。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+如何将 XLTX 合并到 PPTX？使用 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松地将 XLTX 合并到 PPTX。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLTX 合并为 Python 中的 PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将 XLTX 合并到 Python 中的 PPTX" %}}
 
 以下示例演示如何将 Aspose.Cells for Python via .NET 中的 XLTX 合并到 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 XLTX 合并到 Python 中的 PPTX" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="将 XLTX 合并到 Python 中的 PPTX 的示例代码" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLTX 合并到 PPTX" %}}
 
@@ -80,7 +80,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PPTX in Python., F
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}扩展名为 .xltx 的文件表示基于 Office OpenXML 文件格式规范的 Microsoft Excel 模板文件。它用于创建标准模板文件，该文件可用于生成 XLSX 文件，这些文件显示与 XLTX 文件中指定的相同设置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -2,6 +2,7 @@
 title: 解锁XLSM文档via Java
 weight: 7700
 description: Java 用于解锁 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上受密码保护的 XLSM 文件的示例代码。
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="解锁 XLSM 文件 via Java" h2="使用 Java 库删除 Excel 电子表格（包括 XLSM 文件）的保护。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="通过 C# 解锁 XLSM 文件" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="解锁 XLSM 文件 via Java" offSpacer="" %}}
 
 ```cs
 

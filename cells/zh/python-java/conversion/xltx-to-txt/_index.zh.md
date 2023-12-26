@@ -1,7 +1,7 @@
 ---
-title: Python XLTX 转 TXT - 在线 XLTX 转 TXT 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 XLTX 转换为 TXT 保存格式。 Python XLTX 到 TXT 格式。将 XLTX 保存为 TXT Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to TXT saveformat., Free Online XLTX to TXT Python., Python Convert XLTX to TXT]
+title: Python XLTX 至 TXT - XLTX 至 TXT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLTX 转换为 TXT。 Python XLTX 为 TXT。 Python 将 XLTX 保存为 TXT。 将 XLTX 另存为 07611134 81 使用 Python。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to TXT in Python., Save XLTX to TXT using Python., Python XLTX to TXT saveformat., XLTX to TXT Converter., Python Save XLTX as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLTX 转换为 Python 中的 TXT" h2="高速Python库，用于将XLTX转换为TXT。这是一个专业的软件解决方案，用于导入和导出XLTX、TXT和使用Python的许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLTX 转换为 TXT" %}}
 
-如何将 XLTX 转换为 TXT？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLTX 转换为 TXT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLTX 转换为 TXT？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLTX 转换为 TXT。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 XLTX 至 TXT 于 Python" %}}
+{{% blocks/products/pf/agp/content h2="将 XLTX 保存到 Python 中" %}}
 
 以下示例演示如何将 Python 中的 XLTX 转换为 TXT。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 XLTX 转换为 TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 XLTX 转换为 TXT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLTX 转换为 TXT" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

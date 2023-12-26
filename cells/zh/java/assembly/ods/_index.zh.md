@@ -2,6 +2,7 @@
 title: 在 ODS 文件 via Java 中生成报告
 weight: 2440
 description: Java 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上创建 ODS 格式报告的示例代码。
+keywords: [Java Aspose.Cells., Java Create ODS Reports Based on Predesigned Excel Template., Java Generate ODS Reports Based on Predesigned Excel Template., Java Create ODS Reports Based on Excel Template., Java Generate ODS Reports Based on Excel Template., Java Create ODS files Based on Excel Template., Java Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="以 ODS 格式生成批量报告 via Java" h2="使用数据源和模板生成 ODS 格式的报告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -75,9 +76,9 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="生成 ODS 格式的 Excel 报告 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="生成 ODS 格式的 Excel 报告 - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

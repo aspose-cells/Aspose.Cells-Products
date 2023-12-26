@@ -2,6 +2,7 @@
 title: 使用 Python via .Net 在 Excel 中对形状进行分组和取消分组
 weight: 360
 description: 使用 Aspose.Cells' Python via .Net API 对对象进行分组和取消分组，无需任何软件，例如 Microsoft 或 Open Office、Adobe PDF 等。
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="使用 Python via .Net 在 Excel 中对形状进行分组和取消分组" h2="使用 Aspose.Cells\' API 处理各种对象，无需任何软件，如 Microsoft 或 Open Office、Adobe PDF 等。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: 使用 Aspose.Cells' Python via .Net API 对对象进行分组和�
 
 为了对 Excel 文件中的形状进行分组和取消分组，我们将使用
  [Aspose.Cells for Python 通过.Net](https://pypi.org/project/aspose-cells-python/) 
-API 这是一个功能丰富、功能强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
+ API 这是一个功能丰富、强大且易于使用的文档操作API for Python 通过.Net 平台。API 提供Excel 文件创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -73,7 +74,7 @@ API 这是一个功能丰富、功能强大且易于使用的文档操作API for
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

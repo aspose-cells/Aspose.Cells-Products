@@ -2,6 +2,7 @@
 title: 拆分 XLSM 文件 via .NET
 weight: 8890
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 XLSM 文档。
+keywords: [C# Aspose.Cells., C# split xlsm files., C# how to split xlsm files into multiple files., C# xlsm splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="拆分 XLSM C# 中的格式" h2="使用服务器端 API 的本机高性能 XLSM 拆分器，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

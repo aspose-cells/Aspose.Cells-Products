@@ -2,6 +2,7 @@
 title: 通过 C++ 搜索 CSV 文档，无需打开
 weight: 5540
 description: C++ 示例代码，用于在 C++ 运行时环境中搜索 CSV 文件中具有模式的单词，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+keywords: [C++ Aspose.Cells., C++ search words with pattern in csv file., C++ find words with pattern in csv file., C++ search string with pattern in csv file., C++ find words with pattern in csv file., C++ search words in csv file., C++ find words in csv file., C++ search string in csv file., C++ find string in csv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="搜索 CSV C++ 中的格式" h2="使用服务器端 Aspose.Cells for C++ API 进行本机高性能 CSV 文档搜索，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-通过实例化 IWorkbook 类加载 CSV 文件。
-+ 实例化 IReplaceOptions 类。
++ 通过实例化 Workbook 类来加载 CSV 文件。
++ 实例化 ReplaceOptions 类。
 + 设置所需的模式，如 SetCaseSensitive(bool value)、SetMatchEntireCellContents(bool value) 。
-+ 使用 IWorkbook->Replace(..) 方法和相关选项。
-+ 使用 IWorkbook->Save(.) 方法保存 CSV 文件。
+使用带有相关选项的 Workbook::Replace(...) 方法。
++ 使用 Workbook::Save(...) 方法保存 CSV 文件。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load CSV file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.csv")));
+Workbook  wkb(srcDir + u"sourceFile.csv");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as CSV file
-wkb->Save(outDir->StringAppend(new String("outputFile.csv")));  
+wkb.Save(outDir + u"outputFile.csv");
+
+Aspose::Cells::Cleanup();
 
 ```
 

@@ -1,6 +1,7 @@
 ---
 title: 编辑XLT文件via .NET
 description: C# 源代码，用于在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上编辑 XLT 文档。
+keywords: [C# Aspose.Cells., c# edit xlt document., c# load xlt file., c# modify xlt file., c# save file to xlt format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="编辑 XLT C# 中的格式" h2="使用服务器端 Aspose.Cells for .NET API 进行本机高性能 XLT 文档编辑，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的文档编辑
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-只需几行代码即可完成 API。
+基本的文档编辑[Aspose.Cells for .NET](https://products.aspose.com/cells/net)只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1. 在类文件中包含命名空间
+1. 加载您的示例文件。
+1. 添加并访问工作簿的新工作表。
+1. 获取工作表的所需单元格并将值放入单元格中。
+1. 插入数据透视表并设置样式
+1. 使用 Save 方法将工作簿另存为 XLT 文件。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +52,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
+-  Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
 - 开发环境如Microsoft Visual Studio
 - 在项目中添加对 Aspose.Cells for .NET DLL 的引用 - 使用上面的下载按钮从 NuGet 安装
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="编辑 XLT 文件 - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xlt.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

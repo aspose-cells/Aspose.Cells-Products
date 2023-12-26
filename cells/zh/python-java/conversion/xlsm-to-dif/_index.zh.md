@@ -1,7 +1,7 @@
 ---
-title: Python XLSM 转 DIF - 在线 XLSM 转 DIF 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 XLSM 转换为 DIF 保存格式。 Python XLSM 到 DIF 格式。将 XLSM 保存为 DIF Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to DIF saveformat., Free Online XLSM to DIF Python., Python Convert XLSM to DIF]
+title: Python XLSM 至 DIF - XLSM 至 DIF 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLSM 转换为 DIF。 Python XLSM 为 DIF。 Python 将 XLSM 保存为 DIF。 将 XLSM 另存为 07611134 81 使用 Python。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to DIF in Python., Save XLSM to DIF using Python., Python XLSM to DIF saveformat., XLSM to DIF Converter., Python Save XLSM as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLSM 转换为 Python 中的 DIF" h2="高速Python库，用于将XLSM转换为DIF。这是一个专业的软件解决方案，用于导入和导出XLSM、DIF和使用Python的许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLSM 转换为 DIF" %}}
 
-如何将 XLSM 转换为 DIF？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 DIF。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 XLSM 转换为 DIF？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 DIF。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 XLSM 至 DIF 于 Python" %}}
+{{% blocks/products/pf/agp/content h2="将 XLSM 保存到 Python 中" %}}
 
 以下示例演示如何将 Python 中的 XLSM 转换为 DIF。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 XLSM 转换为 DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 XLSM 转换为 DIF 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 XLSM 转换为 DIF" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

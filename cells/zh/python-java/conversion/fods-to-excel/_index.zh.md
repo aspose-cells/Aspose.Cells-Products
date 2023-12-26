@@ -1,7 +1,7 @@
 ---
-title: Python FODS转EXCEL - 在线FODS转EXCEL转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将FODS转换为EXCEL保存格式。 Python FODS 为 EXCEL 格式。将 FODS 保存到 EXCEL Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to EXCEL saveformat., Free Online FODS to EXCEL Python., Python Convert FODS to EXCEL]
+title: Python FODS 转 EXCEL - FODS 转 EXCEL 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 FODS 转换为 EXCEL。Python FODS 转换为 EXCEL。 Python 将 FODS 保存到 EXCEL。使用 Python 将 FODS 另存为 EXCEL。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to EXCEL in Python., Save FODS to EXCEL using Python., Python FODS to EXCEL saveformat., FODS to EXCEL Converter., Python Save FODS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 FODS 转换为 EXCEL Python" h2="高速Python库，用于将FODS转换为EXCEL。这是一个使用Python导入和导出FODS、EXCEL和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FOD
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 FODS 转换为 EXCEL" %}}
 
-如何将 FODS 转换为 EXCEL？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 FODS 转换为 EXCEL。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 FODS 转换为 EXCEL？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 FODS 转换为 EXCEL。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费将 FODS 保存到 Python 在线 EXCEL" %}}
+{{% blocks/products/pf/agp/content h2="将 FODS 保存到 EXCEL 中 Python" %}}
 
 下面的例子演示了如何将FODS转换为EXCEL中的Python。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FOD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码，可在线将 FODS 转换为 EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 FODS 转换为 EXCEL 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 FODS 转换为 EXCEL" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FOD
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

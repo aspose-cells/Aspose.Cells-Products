@@ -1,7 +1,7 @@
 ---
-title: Python MHTML 转 BMP - 在线 MHTML 转 BMP 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 MHTML 转换为 BMP 保存格式。 Python MHTML 到 BMP 格式。将 MHTML 保存为 BMP Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to BMP saveformat., Free Online MHTML to BMP Python., Python Convert MHTML to BMP]
+title: Python MHTML 至 BMP - MHTML 至 BMP 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 MHTML 转换为 BMP。 Python MHTML 为 BMP。 Python 将 MHTML 保存为 BMP。 将 MHTML 另存为 07611134 81 使用 Python。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to BMP in Python., Save MHTML to BMP using Python., Python MHTML to BMP saveformat., MHTML to BMP Converter., Python Save MHTML as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 MHTML 转换为 Python 中的 BMP" h2="高速 Python 库，用于将 MHTML 转换为 BMP。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="将 MHTML 转换为 Python 中的 BMP" %}}
 
-如何将 MHTML 转换为 BMP？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 MHTML 转换为 BMP。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 MHTML 转换为 BMP？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 MHTML 转换为 BMP。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 MHTML 至 BMP 于 Python" %}}
+{{% blocks/products/pf/agp/content h2="将 MHTML 保存到 Python 中" %}}
 
 以下示例演示如何将 Python via NET 中的 MHTML 转换为 BMP。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 MHTML 转换为 BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 MHTML 转换为 BMP 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 MHTML 转换为 BMP" %}}
 

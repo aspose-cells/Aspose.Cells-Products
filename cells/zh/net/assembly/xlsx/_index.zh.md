@@ -2,6 +2,7 @@
 title: 在 XLSX 文件 via .NET 中生成报告
 weight: 6740
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLSX 格式报告。
+keywords: [C# Aspose.Cells., c# Create XLSX Reports Based on Predesigned Excel Template., c# Generate XLSX Reports Based on Predesigned Excel Template., c# Create XLSX Reports Based on Excel Template., C# Generate XLSX Reports Based on Excel Template., c# Create xlsx files Based on Excel Template., C# Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 生成 XLSX 格式的批量报告" h2="使用数据源和模板生成 XLSX 格式的报告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

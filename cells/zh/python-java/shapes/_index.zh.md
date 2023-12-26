@@ -1,6 +1,7 @@
 ---
 title: 使用 Python via Java 在 Excel 中插入形状
 description: Python via Java 如何使用 Aspose.Cells for Python via Java 库将形状插入到 Microsoft Excel 文件中的源代码。
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> 使用 Excel 形状插入 Python via Java" h2="通过基于 Java 的应用程序，使用 Python 中的服务器端 API 创建 Excel 文档并插入形状。" >}}

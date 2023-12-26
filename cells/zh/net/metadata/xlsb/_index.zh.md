@@ -2,6 +2,7 @@
 title: 查看或编辑 XLSB 文件元数据 via .NET
 weight: 7890
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑或查看 XLSB 格式元数据。
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 XLSB 元数据 via .NET" h2="构建您自己的 .NET 应用程序，以使用服务器端 API 添加、编辑、删除或提取 XLSB 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

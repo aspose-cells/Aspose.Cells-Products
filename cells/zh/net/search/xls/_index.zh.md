@@ -2,6 +2,7 @@
 title: 搜索XLS文档，无需打开via .NET
 weight: 1490
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上搜索 XLS 文件中具有模式的单词。
+keywords: [C# Aspose.Cells., c# search words with pattern in xls file., c# find words with pattern in xls file., c# search string with pattern in xls file., c# find words with pattern in xls file., c# search words in xls file., c# find words in xls file., c# search string in xls file., c# find string in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="搜索 XLS C# 中的格式" h2="使用服务器端 Aspose.Cells for .NET API 进行本机高性能 XLS 文档搜索，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xama
 
 为了搜索 XLS 文件，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API这是一个功能丰富、功能强大且易于使用的文档搜索API for C#平台。打开
+ API这是一个功能丰富、功能强大且易于使用的文档搜索API for C#平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 

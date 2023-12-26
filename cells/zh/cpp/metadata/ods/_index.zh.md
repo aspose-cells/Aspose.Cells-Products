@@ -2,6 +2,7 @@
 title: 通过 C++ 编辑或查看 ODS 文档元数据
 weight: 1000
 description: 用于在 C++ 运行时环境（适用于 Windows 32 位、Windows 64 位和 Linux 64 位）上编辑或查看 ODS 文件元数据的 C++ 示例代码。
+keywords: [C++ Aspose.Cells., C++ view ods metadata., C++ add ods metadata., C++ insert ods metadata., C++ edit ods metadata., C++ remove ods metadata., C++ extract ods metadata., C++ modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 提取 ODS 元数据" h2="构建您自己的 C++ 应用程序，以使用服务器端 API 添加、编辑、删除或提取 ODS 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 使用 CreateIWorkbookMetadata 加载 ODS 文件
-使用 CreateIMetadataOptions 创建选项
-通过 GetICustomDocumentProperties() 和 AddIDocumentProperty 添加新属性
++ 使用 MetadataOptions 创建选项
+使用 WorkbookMetadata 加载 ODS 文件
+通过 GetCustomDocumentProperties() 和 Add 添加新属性
 保存ODS文档
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.ods"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.ods"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.ods", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

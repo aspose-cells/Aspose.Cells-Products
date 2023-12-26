@@ -2,6 +2,7 @@
 title: 查看或编辑 XLS 文件元数据 via .NET
 weight: 1410
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑或查看 XLS 格式元数据。
+keywords: [C# Aspose.Cells., c# view xls metadata., c# add xls metadata., c# insert xls metadata., c# edit xls metadata., c# remove xls metadata., c# extract xls metadata., c# modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 XLS 元数据 via .NET" h2="构建您自己的 .NET 应用程序，以使用服务器端 API 添加、编辑、删除或提取 XLS 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

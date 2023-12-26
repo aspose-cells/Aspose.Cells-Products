@@ -1,6 +1,7 @@
 ---
 title: 将 Excel 电子表格拆分为 Java 中的工作表
 description: Java 源代码，解释如何使用 Java Excel 库将 Microsoft Excel 文件拆分为多个文档
+keywords: [Java Aspose.Cells., Java split excel files., Java how to split excel files into multiple files., Java excel splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 文件分割 via Java" h2="在基于 Java 的应用程序中将 Excel 电子表格拆分为工作表" >}}

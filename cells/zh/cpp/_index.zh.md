@@ -1,7 +1,8 @@
 ---
-title:  C++ Excel 电子表格编程 API - Aspose
+title: C++ Excel 电子表格编程 API - Aspose
 weight: 7140
-description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、XLSM 和 XLSB 格式。将电子表格转换为 PDF、CSV 及更多格式
+description: Aspose.Cells for C++ 创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、XML、TSV等。
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel 电子表格 API" h2="在全功能 C++ 应用程序中创建、读取、写入和解析电子表格，无需任何 Microsoft Excel 依赖项。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -227,7 +228,7 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
      <b>
 图片：
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -415,17 +416,17 @@ Aspose.Cells for C++ 是一组功能强大的 API，提供加载、编辑、写�
      <h3>
 转换多种格式的 Excel 文件 - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ 提供了一套全面的 API，可动态创建 Excel 应用
 将工作表渲染为图像
     </h2>
     <p>
-该库使用自己的渲染引擎以最高保真度渲染 Microsoft Excel。它提供了独特的功能，例如将工作表渲染为流行格式的图像，包括 BMP、TIFF、PNG、JPEG 和 JPEG。 EMF。Sheet2Image 过程非常灵活，因此允许选择选项，例如控制结果图像的分辨率。
+该库使用自己的渲染引擎以最高保真度渲染 Microsoft Excel。它提供了独特的功能，例如将工作表渲染为流行格式的图像，包括 BMP、PNG、JPEG 和 PNG。 EMF。Sheet2Image 过程非常灵活，因此允许选择选项，例如控制结果图像的分辨率。
     </p>
    </div>
    <div class="col-lg-12">

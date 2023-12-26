@@ -1,7 +1,7 @@
 ---
-title: Python TXT 转 MARKDOWN - 在线 TXT 转 MARKDOWN 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 TXT 转换为 MARKDOWN 保存格式。 Python TXT 到 MARKDOWN 格式。将 TXT 保存为 MARKDOWN Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN Python., Python Convert TXT to MARKDOWN]
+title: Python TXT 至 MARKDOWN - TXT 至 MARKDOWN 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 TXT 转换为 MARKDOWN。 Python TXT 为 MARKDOWN。 Python 将 TXT 保存为 MARKDOWN。 将 TXT 另存为 07611134 81 使用 Python。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to MARKDOWN in Python., Save TXT to MARKDOWN using Python., Python TXT to MARKDOWN saveformat., TXT to MARKDOWN Converter., Python Save TXT as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 TXT 转换为 Python 中的 MARKDOWN" h2="高速 Python 库，用于将 TXT 转换为 MARKDOWN。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="将 TXT 转换为 Python 中的 MARKDOWN" %}}
 
-如何将 TXT 转换为 MARKDOWN？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 TXT 转换为 MARKDOWN。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 TXT 转换为 MARKDOWN？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 TXT 转换为 MARKDOWN。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在线保存 TXT 至 MARKDOWN 于 Python" %}}
+{{% blocks/products/pf/agp/content h2="将 TXT 保存到 Python 中" %}}
 
 以下示例演示如何将 Python via NET 中的 TXT 转换为 MARKDOWN。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="免费应用程序和示例代码可在线将 TXT 转换为 MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 TXT 转换为 MARKDOWN 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 TXT 转换为 MARKDOWN" %}}
 

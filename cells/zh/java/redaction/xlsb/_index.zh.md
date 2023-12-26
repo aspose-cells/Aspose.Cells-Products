@@ -2,6 +2,7 @@
 title: 搜索并替换 XLSB 文档 via Java 中的文本
 weight: 4590
 description: Java 示例代码，用于编辑 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中的 XLSB 文件中的敏感信息。
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="编辑 XLSB Java 格式" h2="本机高性能 XLSB 使用服务器端 Aspose.Cells for Java API 记录敏感的编辑信息，无需使用 Microsoft 或 Adobe PDF 等任何软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Java 示例代码，用于编辑 JSP/JSF 应用程序和桌面应�
 
 为了编辑 XLSB 文件，我们将使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API这是一个功能丰富、功能强大且易于使用的编辑API for Java平台。您可以直接从以下位置下载其最新版本
+API这是一个功能丰富、功能强大且易于使用的编辑API for Java平台。您可以直接从以下位置下载其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 

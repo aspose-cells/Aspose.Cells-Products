@@ -1,8 +1,8 @@
 ---
-title: C++ 修复 ods 文件 - 免费在线修复 ods 文件
+title: C++ 修复 ods - 恢复并修复损坏的 ods 文件
 url: /zh/cpp/recovery/repair-ods/ 
-description: Aspose Excel。 C++ Aspose.Cells。C++ 修复ods文件。免费在线 ods 修复工具。修复损坏的 ods 文件。恢复 C++ 应用程序中损坏的 ods 文件。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: C++ Aspose.Cells.修复ODS。修复 ods 文件。消耗臭氧层物质恢复工具。消耗臭氧层物质腐败。恢复ODS数据。 ods文件恢复。恢复损坏的 ods 文件。
+keywords: [C++ Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="修复C++中的ODS文件" h2="构建您自己的 C++ 应用程序以使用 C++ 修复 ods 文件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods f
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 修复 ODS 文件" %}}
 
-如何修复 ods 文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何修复 ods 文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="免费应用程序和示例代码在线修复 ODS 文件" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="修复 ODS 文件的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++库修复ODS文件" %}}
 

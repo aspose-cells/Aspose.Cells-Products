@@ -1,8 +1,8 @@
 ---
 title: 合并 JPG 到 HTM - 将 JPG 合并到 HTM C#
 url: /zh/net/merger/merge-jpg-to-htm/ 
-description: Aspose Excel。 C# Aspose.Cells。免费在线合并 JPG 到 HTM 保存格式。 C# 将JPG合并为HTM格式。将 C# 中的 JPG 合并为 HTM。JPG 合并。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to HTM in C#., Free Online C# Merge JPG to htm., C# Combine JPG to HTM Online for Free., JPG Merge]
+description: Aspose Excel。 C# Aspose.Cells. 将 JPG 合并为 HTM 保存格式。 C# 将JPG合并为HTM格式。将 C# 中的 JPG 合并为 HTM。JPG 合并。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to HTM in C#., C# Merge JPG to htm., C# Combine JPG to HTM., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 将 JPG 合并为 HTM" h2="用于将 JPG 合并为 HTM 的高速 C# 库。使用我们的Excel转换API在C#中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to HTM in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="使用 C# 将 JPG 合并为 HTM" %}}
 
-如何将 JPG 合并到 HTM？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 JPG 合并到 HTM。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
+如何将 JPG 合并到 HTM？借助 Aspose.Cells for .NET 库，您可以通过几行代码以编程方式轻松将 JPG 合并到 HTM。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 .NET Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索Aspose.Cells并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 C# 中的 JPG 合并为 HTM" %}}
+{{% blocks/products/pf/agp/content h2="将 C# 中的 JPG 合并为 HTM" %}}
 
 下面的例子演示了如何将Aspose.Cells for .NET中的JPG合并为HTM。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 JPG 合并为 HTM C#" InputFormat="jpg" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# 中将 JPG 合并为 HTM 的示例代码" InputFormat="jpg" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C# 将 JPG 合并为 HTM" %}}
 

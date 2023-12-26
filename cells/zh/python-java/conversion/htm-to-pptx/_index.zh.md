@@ -1,7 +1,7 @@
 ---
-title: Python HTM 至 PPTX - 在线 HTM 至 PPTX 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 HTM 转换为 PPTX 保存格式。 Python HTM 至 PPTX 格式。将 HTM 保存到 PPTX Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to PPTX saveformat., Free Online HTM to PPTX Python., Python Convert HTM to PPTX]
+title: Python HTM 至 PPTX - HTM 至 PPTX 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 HTM 转换为 PPTX。 Python HTM 到 PPTX。 Python 将 HTM 保存为 PPTX。 使用 Python 将 HTM 保存为 PPTX。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to PPTX in Python., Save HTM to PPTX using Python., Python HTM to PPTX saveformat., HTM to PPTX Converter., Python Save HTM as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 HTM 转换为 PPTX" h2="用于将 HTM 转换为 PPTX 的高速 Python 库。这是一个使用 Python 导入和导出 HTM、PPTX 和许多其他格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 HTM 转换为 PPTX" %}}
 
-如何将 HTM 转换为 PPTX？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 PPTX。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 HTM 转换为 PPTX？借助 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 PPTX。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将HTM保存到Python中的PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将 HTM 保存到 Python 中的 PPTX" %}}
 
 下面的例子演示了如何将Python中的HTM转换为PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 HTM 在线转换为 PPTX 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="将 HTM 转换为 PPTX 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 HTM 转换为 PPTX" %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
+ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平台上使用（Windows、Linux 和 MacOS），只需确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/)3.5或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,7 +75,7 @@ Aspose.Cells for Python via Java 是与平台无关的 API，可以在任何平�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}扩展名为 .htm 的文件代表超文本标记语言，用于创建在 Web 浏览器（例如 Google Chrome、Internet Explorer、Firefox 等）中显示的网页。它定义了用于创建要在万维网 (WWW) 上发布以供其他人访问的静态页面的标记。这些标记告诉浏览器如何显示网页的内容。此类页面可以包含纯文本、图像、其他页面的超链接、视频和其他媒体信息。当网页发布时，您可以通过查看其页面源代码来查看其背后的标记代码。现代浏览器允许检查网页的每个部分，其中详细说明了 HTM 源中的每个细分或标记元素。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

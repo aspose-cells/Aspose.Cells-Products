@@ -1,6 +1,7 @@
 ---
 title: 通过 Python 创建 Column3D 图表
 description: Python 使用 Python 库将 Column3D 图表创建到 Excel 的示例代码。使用此代码在基于 Python 的应用程序中创建 MS Excel 的 Column3D 图表。
+keywords: [Python Aspose.Cells., Python add Column3D Chart., Python insert Column3D Chart., Python create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

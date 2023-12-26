@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM 转 POWERPOINT - 在线 XLSM 转 POWERPOINT 转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 XLSM 转换为 POWERPOINT 保存格式。 C++ XLSM 为 POWERPOINT 格式。将 XLSM 保存到 POWERPOINT C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to POWERPOINT saveformat., Free Online XLSM to POWERPOINT C++., C++ Convert XLSM to POWERPOINT]
+title: C++ XLSM 转 POWERPOINT - XLSM 转 POWERPOINT 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLSM 转换为 POWERPOINT。C++ XLSM 转换为 POWERPOINT。 C++ 将 XLSM 保存到 POWERPOINT。使用 C++ 将 XLSM 另存为 POWERPOINT。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSM to POWERPOINT in C++., Save XLSM to POWERPOINT using C++., C++ XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Converter., C++ Save XLSM as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLSM 转换为 C++ 中的 POWERPOINT" h2="使用 C++ 库进行高性能 XLSM 到 POWERPOINT 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to POWE
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 XLSM 转换为 POWERPOINT" %}}
 
-如何将 XLSM 转换为 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XLSM 转换为 POWERPOINT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XLSM 转换为 POWERPOINT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 XLSM 保存到 C++ 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 XLSM 保存到 C++ 中的 POWERPOINT" %}}
 
 以下示例演示如何将 XLSM 转换为 C++ 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 XLSM 在线转换为 POWERPOINT 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 XLSM 转换为 POWERPOINT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 XLSM 转换为 POWERPOINT" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 XLSM 文件。
+1. 使用工作簿加载 XLSM 文件。
 1. 通过调用 Save() 方法将 XLSM 转换为 POWERPOINT。
 1. 获取 XLSM 到 POWERPOINT 的转换结果。
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}扩展名为 XLSM 的文件是一种支持宏的电子表格文件。从应用程序的角度来看，宏是用于自动化流程的指令集。宏用于记录重复执行的步骤，并通过再次运行宏来方便执行操作。宏是使用 Visual Basic 编辑器在 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 进行编程的，并且可以直接从那里运行/调试。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-pdf/" name="XLSM 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-png/" name="XLSM 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-svg/" name="XLSM 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tiff/" name="XLSM 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tsv/" name="XLSM 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-txt/" name="XLSM 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-xls/" name="XLSM 至 XLS" description="Excel 二进制格式" >}}

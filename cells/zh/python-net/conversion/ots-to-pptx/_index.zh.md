@@ -1,7 +1,7 @@
 ---
-title: Python OTS 至 PPTX - 在线 OTS 至 PPTX 转换器
-description: Aspose Excel。 Python Aspose.Cells。Python Aspose Cells。免费在线 Python 将 OTS 转换为 PPTX 保存格式。 Python OTS 到 PPTX 格式。将 OTS 保存到 PPTX Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to PPTX saveformat., Free Online OTS to PPTX Python., Python Convert OTS to PPTX]
+title: Python OTS 至 PPTX - OTS 至 PPTX 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 OTS 转换为 PPTX。 Python OTS 转换为 PPTX。 Python 将 OTS 保存为 PPTX。 使用 Python 将 OTS 保存为 PPTX。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to PPTX in Python., Save OTS to PPTX using Python., Python OTS to PPTX saveformat., OTS to PPTX Converter., Python Save OTS as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 OTS 转换为 PPTX" h2="用于将 OTS 转换为 PPTX 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台无关的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="将 Python 中的 OTS 转换为 PPTX" %}}
 
-如何将 OTS 转换为 PPTX？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 OTS 转换为 PPTX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 OTS 转换为 PPTX？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 OTS 转换为 PPTX。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="免费在Python在线保存OTS到PPTX" %}}
+{{% blocks/products/pf/agp/content h2="将OTS保存到Python中的PPTX" %}}
 
 以下示例演示如何将 Python via NET 中的 OTS 转换为 PPTX。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 OTS 在线转换为 PPTX 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 OTS 转换为 PPTX 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 OTS 转换为 PPTX" %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}扩展名为 .ots 的文件是使用 Apache OpenOffice 中包含的 Calc 应用程序软件创建的 OpenDocument 电子表格模板文件。 Calc应用软件类似于Microsoft Office中的Excel。 OTS 文件格式用于创建包含与样式、字体、数据、电子表格布局和格式相关的预定义设置的模板。 OTF 文件具有 mime 类型 application/vnd.oasis.opendocument.spreadsheet-template。这些模板文件可用作生成和保存以 ODS 文件格式保存的实际数据文件的起点。 OTS 文件可与 OpenOffice 和 LibreOffice 等应用程序一起使用。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

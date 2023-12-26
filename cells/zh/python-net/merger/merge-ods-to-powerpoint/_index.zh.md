@@ -1,8 +1,8 @@
 ---
 title: 将 ODS 合并到 POWERPOINT - 将 ODS 合并到 Python 中的 POWERPOINT
 url: /zh/python-net/merger/merge-ods-to-powerpoint/ 
-description: Aspose Excel。 Python Aspose.Cells。免费在线合并 ODS 到 POWERPOINT 保存格式。 Python 将 ODS 合并为 POWERPOINT 格式。将 ODS 合并到 Python 中的 POWERPOINT。 ODS 合并。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to POWERPOINT in Python., Free Online Python Merge ODS to powerpoint., Python Combine ODS to POWERPOINT Online for Free., ODS Merge]
+description: Aspose Excel。 Python Aspose.Cells。将 ODS 合并到 POWERPOINT 保存格式。 Python 将 ODS 合并为 POWERPOINT 格式。将 ODS 合并到 Python 中的 POWERPOINT。 ODS 合并。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to POWERPOINT in Python., Python Merge ODS to powerpoint., Python Combine ODS to POWERPOINT., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 ODS 合并到 POWERPOINT" h2="高速 Python 库，用于将 ODS 合并到 POWERPOINT。使用我们的Excel转换API在Python中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to POWERPOINT in Pytho
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 ODS 合并到 POWERPOINT" %}}
 
-如何将 ODS 合并到 POWERPOINT？借助 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松将 ODS 合并到 POWERPOINT。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+如何将 ODS 合并到 POWERPOINT？借助 Aspose.Cells for Python via .NET 库，您可以通过几行代码以编程方式轻松将 ODS 合并到 POWERPOINT。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以安装 Aspose.Cells for Python via .NET<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 ODS 合并到 Python 中的 POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="将 ODS 合并到 Python 中的 POWERPOINT" %}}
 
 以下示例演示如何将 ODS 合并到 Aspose.Cells for Python via .NET 中的 POWERPOINT。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to POWERPOINT in Pytho
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将 ODS 合并到 Python 中的 POWERPOINT" InputFormat="ods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="将 ODS 合并到 Python 中的 POWERPOINT 的示例代码" InputFormat="ods" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 ODS 合并到 POWERPOINT" %}}
 
@@ -80,7 +80,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to POWERPOINT in Pytho
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}扩展名为 .ods 的文件代表可由用户编辑的 OpenDocument 电子表格文档格式。数据按行和列存储在 ODF 文件内。它是基于 XML 的格式，并且是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 以及其他操作系统上的许多应用程序都可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件还可以通过不同的应用程序转换为其他电子表格格式，例如 XLS、XLSX 等。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文稿文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}扩展名为 PPTX 的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。与之前版本的演示文件格式 PPT 是二进制的不同，PPTX 格式基于 Microsoft PowerPoint 开放 XML 演示文件格式。演示文稿文件是幻灯片的集合，其中每张幻灯片可以包含文本、图像、格式、动画和其他媒体。这些幻灯片以具有自定义演示设置的幻灯片形式呈现给观众。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
-title: Python HTM 到 WORD - 在线 HTM 到 WORD 转换器
-description: Aspose Excel。 Python Aspose.Cells. Python Aspose Cells. 免费在线 Python 将 HTM 转换为 WORD 保存格式。 Python HTM 转 WORD 格式。将 HTM 保存到 WORD Python。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to WORD saveformat., Free Online HTM to WORD Python., Python Convert HTM to WORD]
+title: Python HTM 至 WORD - HTM 至 WORD 转换器
+description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 HTM 转换为 WORD。 Python HTM 到 WORD。 Python 将 HTM 保存为 WORD。 使用 Python 将 HTM 保存为 WORD。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to WORD in Python., Save HTM to WORD using Python., Python HTM to WORD saveformat., HTM to WORD Converter., Python Save HTM as WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 Python 中的 HTM 转换为 WORD" h2="用于将 HTM 转换为 WORD 的高速 Python 库。使用我们的 Excel 转换 API 在 Python 中开发高级、平台独立的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="将 Python 中的 HTM 转换为 WORD" %}}
 
-如何将 HTM 转换为 WORD？使用 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
+如何将 HTM 转换为 WORD？通过 Aspose.Cells for Python via NET 库，您可以通过几行代码以编程方式轻松将 HTM 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python在线免费将HTM保存为WORD" %}}
+{{% blocks/products/pf/agp/content h2="将 HTM 保存到 Python 中的 WORD" %}}
 
-以下示例演示如何将 Python via NET 中的 HTM 转换为 WORD。
+下面的例子演示了如何将Python via NET中的HTM转换为WORD。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 HTM 转换为 WORD。上传您的 HTM 文件，然后将其保存为 WORD 文件。对于 HTM 读取和 WORD 写入，您可以使用完全限定的文件名。输出的 WORD 内容和格式将与原始 HTM 文档相同。
+按照简单的步骤将 HTM 转换为 WORD。上传您的 HTM 文件，然后只需将其另存为 WORD 文件。对于 HTM 读取和 WORD 写入，您可以使用完全限定的文件名。输出 WORD 内容和格式将与原始 HTM 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 HTM 在线转换为 WORD 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="将 HTM 转换为 WORD 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 HTM 转换为 WORD" %}}
 
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python 将 HTM 转换为 WORD 的库" %}}
+{{% blocks/products/pf/agp/content h2="Python 库将 HTM 转换为 WORD" %}}
 
 我们在 PyPi 存储库中托管 Python 包。
 

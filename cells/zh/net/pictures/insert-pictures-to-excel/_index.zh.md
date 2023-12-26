@@ -2,6 +2,7 @@
 title: 将图片插入Excel via .NET
 weight: 200
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上将图片插入 Excel。
+keywords: [C# Aspose.Cells., c# add picture into Excel., c# insert picture into Excel., c# create picture in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将图片插入Excel via .NET" h2="使用Aspose.Cells\'API插入图片，无需任何软件，如Microsoft或Open Office、Adobe PDF等。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -79,7 +80,7 @@ Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保�
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 {{% /blocks/products/pf/agp/content %}}
 

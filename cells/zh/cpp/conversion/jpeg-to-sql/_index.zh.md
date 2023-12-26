@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG转SQL - 在线JPEG转SQL转换器
-description: Aspose Excel。 C++ Aspose.Cells。C++ Aspose Cells。免费在线 C++ 将 JPEG 转换为 SQL 保存格式。 C++ JPEG 为 SQL 格式。将 JPEG 保存到 SQL C++。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to SQL saveformat., Free Online JPEG to SQL C++., C++ Convert JPEG to SQL]
+title: C++ JPEG 到 SQL - JPEG 到 SQL 转换器
+description: Aspose Excel。使用 Aspose.Cells. C++ JPEG 到 SQL 快速轻松地将 JPEG 转换为 SQL。 C++ 将 JPEG 保存到 SQL。使用 C++ 将 JPEG 保存为 SQL。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to SQL in C++., Save JPEG to SQL using C++., C++ JPEG to SQL saveformat., JPEG to SQL Converter., C++ Save JPEG as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 JPEG 转换为 SQL 中的 C++" h2="使用 C++ 库进行高性能 JPEG 到 SQL 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to SQL 
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 JPEG 转换为 SQL" %}}
 
-如何将 JPEG 转换为 SQL？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 JPEG 转换为 SQL。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 JPEG 转换为 SQL？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 JPEG 转换为 SQL。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费将 JPEG 保存到 C++ 在线 SQL" %}}
+{{% blocks/products/pf/agp/content h2="将JPEG保存到SQL中C++" %}}
 
 以下示例演示如何将 JPEG 转换为 SQL 中的 C++。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 JPEG 转换为 SQL Online 的免费应用程序和示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 JPEG 转换为 SQL 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 JPEG 转换为 SQL" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装“Aspose.Cells for C++”。
 1. 将库引用（导入库）添加到您的 C++ 项目中。
-1. 使用 Factory::CreateIWorkbook 加载 JPEG 文件。
+1. 使用工作簿加载 JPEG 文件。
 1. 通过调用 Save() 方法将 JPEG 转换为 SQL。
 1. 获取JPEG到SQL的转换结果。
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-pdf/" name="JPEG 至 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-png/" name="JPEG 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-svg/" name="JPEG 至 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tiff/" name="JPEG 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tsv/" name="JPEG 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-txt/" name="JPEG 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xls/" name="JPEG 至 XLS" description="Excel 二进制格式" >}}

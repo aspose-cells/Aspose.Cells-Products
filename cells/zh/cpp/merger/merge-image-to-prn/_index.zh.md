@@ -1,8 +1,8 @@
 ---
 title: 合并图像到 PRN - 将图像合并到 C++ 中的 PRN
 url: /zh/cpp/merger/merge-image-to-prn/ 
-description: Aspose Excel。 C++ Aspose.Cells。免费在线将图像合并为 PRN 保存格式。 C++ 将IMAGE合并为PRN格式。将 IMAGE 合并到 C++ 中的 PRN。IMAGE 合并。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to PRN in C++., Free Online C++ Merge IMAGE to prn., C++ Combine IMAGE to PRN Online for Free., IMAGE Merge]
+description: Aspose Excel。 C++ Aspose.Cells. 将 IMAGE 合并为 PRN 保存格式。 C++ 将IMAGE合并为PRN格式。将 IMAGE 合并到 C++ 中的 PRN。IMAGE 合并。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to PRN in C++., C++ Merge IMAGE to prn., C++ Combine IMAGE to PRN., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 将 IMAGE 合并到 PRN" h2="用于将 IMAGE 合并到 PRN 的高速 C++ 库。使用我们的Excel转换API在C++中开发高级、平台无关的软件。这是导入和导出Excel, CSV, OpenOffice, PDF, HTML, image以及许多其他Excel格式的专业软件解决方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to PRN in C++., Free On
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 IMAGE 合并到 PRN" %}}
 
-如何将 IMAGE 合并到 PRN？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 IMAGE 合并到 PRN。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 IMAGE 合并到 PRN？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 IMAGE 合并到 PRN。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="免费在线将 C++ 中的 IMAGE 合并为 PRN" %}}
+{{% blocks/products/pf/agp/content h2="将 IMAGE 合并到 C++ 中的 PRN" %}}
 
 以下示例演示如何将 IMAGE 合并到 Aspose.Cells for C++ 中的 PRN。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="免费在线将图像合并到 PRN C++" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="将 IMAGE 合并到 PRN 的示例代码（C++）" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 IMAGE 合并到 PRN" %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-pdf/" name="将 IMAGE 合并到 PDF" description="便携式文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-png/" name="将 IMAGE 合并到 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-svg/" name="将 IMAGE 合并到 SVG" description="可缩放矢量图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tiff/" name="将 IMAGE 合并到 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tsv/" name="将 IMAGE 合并到 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-txt/" name="将 IMAGE 合并到 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xls/" name="将 IMAGE 合并到 XLS" description="Excel 二进制格式" >}}

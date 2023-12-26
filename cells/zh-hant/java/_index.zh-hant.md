@@ -1,10 +1,11 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java 用於電子表格處理的 Excel 庫。讀寫渲染和轉換XLS XLSX XLSM ODS CSV TSV和更多格式。兼容 Windows Linux 和 Unix
+description:  Aspose.Cells for Java 建立、修復、合併、解析和轉換 Excel 檔案的程式庫。將excel轉換為PDF、JSON、CSV、HTML等。
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Excel 電子表格處理 API" h2="創建、操作、轉換、保護或打印電子表格，無需依賴 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Excel 電子表格處理 API" h2="建立、操作、轉換、保護或列印電子表格，無需依賴 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -12,11 +13,11 @@ description: Java 用於電子表格處理的 Excel 庫。讀寫渲染和轉換X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java 是一款屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程序中打印電子表格，無需 Microsoft Excel 應用程序。
+ Aspose.Cells for Java 是一款屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程式中列印電子表格，無需 Microsoft Excel 應用程式。
 </p>
 
 <p>
-Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功能遠遠超出了市場上其他組件的簡單數據導出功能。 API 提供導出數據、將電子表格格式化為最精細的級別、導入和導出的功能。導出圖像、創建圖表和數據透視表、應用和使用公式計算引擎、流式 Excel 數據和數據流計算複雜的公式以各種格式保存結果。
+Aspose.Cells for Java 是一個成熟且功能豐富的函式庫，提供的許多功能遠遠超出了市場上其他元件的簡單資料匯出功能。 API 提供匯出資料、將電子表格格式化為最精細的等級、匯入和匯出的功能。匯出圖像、建立圖表和數據透視表、應用和使用公式計算引擎、串流 Excel 資料和資料流計算複雜的公式以各種格式儲存結果。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -50,14 +51,14 @@ Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功�
    <header>
     <i class="fa fa-cogs">
     </i>
-數據處理
+資料處理
    </header>
    <ul>
     <li>
-應用格式設置
+應用程式格式設定
     </li>
     <li>
-創建圖表
+建立圖表
     </li>
     <li>
 應用公式
@@ -66,7 +67,7 @@ Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功�
 總結
     </li>
     <li>
-智能標記
+智慧標記
     </li>
    </ul>
   </div>
@@ -79,19 +80,19 @@ Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功�
    </header>
    <ul>
     <li>
-支持JSP Web應用程序
+支援JSP Web應用程式
     </li>
     <li>
-加載 Excel 文件
+載入 Excel 文件
     </li>
     <li>
-保存 Excel 文檔
+儲存 Excel 文檔
     </li>
     <li>
 提供編輯功能
     </li>
     <li>
-與現代瀏覽器兼容
+與現代瀏覽器相容
     </li>
    </ul>
   </div>
@@ -117,7 +118,7 @@ Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="基於庫 for Java 的應用程序在 Windows Unix/Linux 和 Mac 平台上開發。" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="基於庫 for Java 的應用程式在 Windows Unix/Linux 和 Mac 平台上開發。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,14 +128,14 @@ Aspose.Cells for Java 是一個成熟且功能豐富的庫，提供的許多功�
    <header>
     <i class="fa fa-cubes">
     </i>
- Java 運行環境
+ Java 運轉環境
    </header>
    <ul>
     <li>
 JSP/JSF 應用
     </li>
     <li>
-桌面應用程序
+桌面應用程式
     </li>
    </ul>
   </div>
@@ -160,7 +161,7 @@ JSP/JSF 應用
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for Java 支持流行的電子表格格式、常用圖像、固定佈局和[更多格式](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Cells for Java 支援流行的電子表格格式、常用影像、固定佈局和[更多格式](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -184,7 +185,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-文本：
+文字:
      </b>
      CSV, TSV
     </li>
@@ -198,7 +199,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
      <b>
       Numbers:
      </b>
-蘋果iWork辦公套件Numbers應用文檔
+蘋果iWork辦公室套件Numbers應用文檔
     </li>
     <li>
      SXC, FODS
@@ -221,7 +222,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-數據交換：
+資料交換：
      </b>
      DIF
     </li>
@@ -268,7 +269,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高級 Java Excel 庫支持
+進階 Java Excel 庫支持
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -277,14 +278,14 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-從 ArrayList、Array 和 ArrayList 導入和導出數據記錄集
+從 ArrayList、Array 和 ArrayList 匯入和匯出數據記錄集
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-圖表創建和通過 API 進行操作
+圖表創建和透過 API 進行操作
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,14 +306,14 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將電子表格打印到物理打印機
+將電子表格列印到實體印表機
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-通過智能標記填充工作表
+透過智慧標記填充工作表
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +327,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置&amp;計算 Excel 和自定義公式
+設定&amp;計算 Excel 和自訂公式
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +348,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創建、操縱和刷新數據透視表和數據透視圖
+創建、操縱和刷新資料透視表和資料透視圖
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,22 +369,22 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將 Excel 中的圖像重新採樣為 PDF 轉換
+將 Excel 中的影像重新取樣為 PDF 轉換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-修改模板文檔中的VBA代碼或宏
+修改範本文件中的VBA程式碼或巨集
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-將 Excel 文件保存為不同格式
+將 Excel 檔案儲存為不同格式
     </h2>
     <p>
-Excel API 提供電子表格到 PDF、XPS、HTML 和更多格式的轉換，同時保持最高的視覺保真度。可靠且靈活的轉換過程使 Aspose.Cells 成為主要以行業標準格式交換文件的組織的完美選擇。
+Excel API 可以將電子表格轉換為 PDF、XPS、HTML 和更多格式，同時保持最高的視覺保真度。可靠且靈活的轉換過程使 Aspose.Cells 成為主要以行業標準格式交換文件的組織的完美選擇。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -407,7 +408,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 將工作表格式化為最精細的級別
     </h2>
     <p>
-庫提供電子表格樣式，包括但不限於行、列和單元格級別的工作表格式、添加條件格式規則、定義數字格式以及使用屬性設置字體。同樣，API 支持操作和創建所有類型的自定義和標準圖表以及各種繪圖對象，如 OLE 對象、圖片、註釋、形狀和單元格控件。
+庫提供電子表格樣式，包括但不限於行、列和儲存格層級的工作表格式、新增條件格式規則、定義數字格式以及使用屬性設定字型。同樣，API 支援操作和建立所有類型的自訂和標準圖表以及各種繪圖對象，如 OLE 對象、圖片、註釋、形狀和單元格控制項。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -422,7 +423,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 轉換圖表和圖紙到圖像和PDF 格式
     </h2>
     <p>
-Aspose.Cells for Java 提供特殊的轉換功能，例如圖表到圖像和 PDF、工作表到圖像、打印工作表以及將電子表格轉換為 PDF 文件格式。轉換過程非常靈活和簡單，允許選擇多種轉換方式，例如在電子表格到 PDF 轉換期間重新採樣圖像，或者在將工作表和圖表渲染為圖像時調整生成的圖像尺寸。
+Aspose.Cells for Java 提供特殊的轉換功能，例如圖表到圖像和 PDF、工作表到圖像、列印工作表以及將電子表格轉換為 PDF 文件格式。轉換過程非常靈活和簡單，允許選擇多種轉換方式，例如在電子表格到 PDF 轉換期間重新採樣圖像，或在將工作表和圖表渲染為圖像時調整生成的圖像尺寸。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -450,7 +451,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 操作 Excel 行和列
     </h2>
     <p>
-Aspose.Cells for Java 允許您以多種方式修改行和列。人們可以輕鬆調整列寬和行高，根據內容自動調整單元格的寬度/高度，插入和插入單元格。刪除、隱藏和取消隱藏以及分組和隱藏取消行和列的分組。
+Aspose.Cells for Java 讓您以多種方式修改行和列。人們可以輕鬆調整列寬和行高，根據內容自動調整儲存格的寬度/高度，插入和插入儲存格。刪除、隱藏和取消隱藏以及分組和隱藏取消行和列的分組。
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +459,7 @@ Aspose.Cells for Java 允許您以多種方式修改行和列。人們可以輕�
 用圖表和圖表總結數據數據透視表
     </h2>
     <p>
-使用非常大的電子表格來獲取匯總信息可能很困難。數據透視表可以快速描述平面數據並根據需要獲取相關信息。 API 動態創建數據透視表和圖表。可以動態更改數據透視表源數據。此外，智能標記是該庫的另一個頂級功能，可通過數據源填充工作表並生成視覺上有效的報告。
+使用非常大的電子表格來獲取匯總資訊可能很困難。資料透視表可以快速描述平面資料並根據需要取得相關資訊。 API 動態建立資料透視表和圖表。可以動態變更資料透視表來源資料。此外，智慧標記是該庫的另一個頂級功能，可透過資料來源填充工作表並產生視覺上有效的報告。
     </p>
    </div>
    <!--
@@ -484,10 +485,10 @@ Aspose.Cells for Java 允許您以多種方式修改行和列。人們可以輕�
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-基於網絡的電子表格可視化控制
+基於網路的電子表格視覺化控制
     </h2>
     <p>
-Aspose.Cells for Java 還提供了一個可以嵌入 JSP Web 應用程序的 UI 控件，並且與所有現代 Web 瀏覽器（如 Chrome、Firefox、Internet Explorer 和 Opera）兼容。最終用戶可以使用它從 Web 應用程序的前端加載、編輯和保存 Excel 文件。
+Aspose.Cells for Java 還提供了一個可以嵌入 JSP Web 應用程式的 UI 控件，並且與所有現代 Web 瀏覽器（如 Chrome、Firefox、Internet Explorer 和 Opera）相容。最終使用者可以使用它從 Web 應用程式的前端載入、編輯和儲存 Excel 檔案。
     </p>
    </div>
   </div>
@@ -497,7 +498,7 @@ Aspose.Cells for Java 還提供了一個可以嵌入 JSP Web 應用程序的 UI 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。了解用戶對電子表格 API 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。了解使用者對電子表格 API 的評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -510,9 +511,9 @@ Aspose.Cells for Java 還提供了一個可以嵌入 JSP Web 應用程序的 UI 
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-我們對 Aspose 產品的總體體驗非常積極。該組件增加了 Xpand IT 產品 - Xporter Plugin for JIRA 的商業價值，使我們能夠開發數據導出的參考解決方案。
+我們對 Aspose 產品的整體體驗非常積極。該元件增加了 Xpand IT 產品 - Xporter Plugin for JIRA 的商業價值，使我們能夠開發數據導出的參考解決方案。
  <em>
-保羅·洛佩斯 | Xpand IT，英國
+保羅‧洛佩斯 | Xpand IT，英國
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -521,16 +522,16 @@ Aspose.Cells for Java 還提供了一個可以嵌入 JSP Web 應用程序的 UI 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/cells/java" >}}
-{{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
+{{< blocks/products/pf/slr-element name="文件" href="https://docs.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="原始碼" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API 參考文獻" href="https://reference.aspose.com/cells/java" >}}
-{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="教學影片" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-tab tabTitle="產品支援" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支援" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -1,12 +1,13 @@
 ---
 title:  Microsoft Excel 文件转换 via Java
-description: 转换Excel XLS，XLSX，ODS，CSV至PDF，XPS，HTML，HTML，JPEG，JPEG，HTML和许多其他形式的码数为076193131313131313。
+description: Aspose.Cells for Java 图书馆。只需几行 Java 代码即可转换 EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL、JPG、PNG 等格式。
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 文件转换 via Java" h2="将 Microsoft Excel 文档另存为电子表格、Web、图像和固定布局格式" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-对于任何**Excel转换器**应用程序或解决方案，Java Excel 库可加速电子表格编程和转换过程，同时处理多种格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07619 3481. 它还允许*将 Excel 文件转换为 PDF**， XPS、HTML、MHTML、纯文本和流行图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
+对于任何**Excel转换器**应用程序或解决方案，Java Excel 库可加速电子表格编程和转换过程，同时处理多种格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、0761934 81. 它还允许*将Excel文件转换为PDF**， XPS、HTML、MHTML、纯文本和流行图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 格式的相互转换" %}}

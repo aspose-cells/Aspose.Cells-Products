@@ -1,6 +1,7 @@
 ---
 title: 创建 Excel 图表并转换为图像 via Java
 description:  Java 使用 Java 库在 Microsoft Excel 中绘制和转换图表或图表的源代码。
+keywords: [Java Aspose.Cells., Java Convert chart to image., Java Save chart to image., Java chart to image., create charts in Java., insert charts in Java., manage charts in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 文件图表转换与创建 via Java" h2="将 Excel 文档图表转换为图像，并在基于 Java 的应用程序中使用服务器端 API 创建各种图表。" >}}

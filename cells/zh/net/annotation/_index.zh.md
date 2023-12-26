@@ -1,6 +1,7 @@
 ---
-title: Excel 文件注释 NET C#
+title: 添加或删除 Excel 文件注释 NET C#
 description: 只需几行 C# 代码即可添加或删除 Excel 和 OpenOffice 电子表格的数据注释。
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="删除 Microsoft<sup>&reg;</sup> Excel 文件注释 via .NET" h2="在基于 .NET 的应用程序中使用 C# 代码添加或删除 Excel 文件注释。" >}}

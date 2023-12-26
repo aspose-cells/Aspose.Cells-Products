@@ -1,6 +1,7 @@
 ---
-title: Excel 文件注释 via Java
+title: 添加或删除 Excel 文件注释 via Java
 description: 使用 Java 库添加或删除 Excel 和 OpenOffice 电子表格的数据注释。
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="管理 Microsoft<sup>&reg;</sup> Excel 文件注释 via Java" h2="在基于 Java 的应用程序中插入简单注释以进行注释或删除 Excel 电子表格单元格级注释。" >}}

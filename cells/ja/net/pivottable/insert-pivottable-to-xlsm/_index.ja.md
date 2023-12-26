@@ -1,7 +1,8 @@
 ---
 title:  C# 経由で Micorsoft Excel XLSM ファイルにピボットテーブルを挿入します
 weight: 7690
-description: C# ピボットテーブルを使用して XLSM ドキュメントを生成するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内でピボットテーブルを使用して Micorsoft Excel XLSM ファイルを作成するには、このコードを使用します。
+description: C# .NET ライブラリを使用してピボットテーブルを XLSM に追加するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内の XLSM ファイルにピボットテーブルを挿入するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in xlsm., c# create PivotTable in xlsm., c# modify PivotTable in xlsm., access PivotTable in xlsm., c# add pivot table in xlsm., c# insert pivot table in xlsm., c# create pivot table in xlsm., c# modify pivot table in xlsm., access pivot table in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSM ドキュメントにピボットテーブルを挿入" h2="サーバー側 .NET API を使用してプログラムでピボットテーブルを作成できる、ネイティブで高パフォーマンスの Microsoft Excel XLSM スプレッドシート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -11,9 +12,7 @@ description: C# ピボットテーブルを使用して XLSM ドキュメント�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-実行中のアプリケーション内でピボットテーブルを使用して MS Excel XLSM ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボットテーブルを使用して XLSM ドキュメントを最初から作成するには、次を使用します。
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
+実行中のアプリケーション内でピボットテーブルを使用して MS Excel XLSM ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボットテーブルを使用して XLSM ドキュメントを最初から作成するには、次を使用します。[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -31,7 +30,7 @@ description: C# ピボットテーブルを使用して XLSM ドキュメント�
 1. ワークブックの最初のワークシートにアクセスします。
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
 1. ピボットテーブルを挿入してスタイルを設定する
-1. Save メソッドを使用して、ワークブックを XLSM ファイルとして保存します。
+1.  Save メソッドを使用して、ワークブックを XLSM ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

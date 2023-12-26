@@ -1,16 +1,17 @@
 ---
-title: Anotasi File Excel via Java
-description: Tambah atau hapus anotasi data spreadsheet Excel dan OpenOffice dengan perpustakaan Java.
+title: Tambah atau Hapus Anotasi File Excel via Java
+description: Tambahkan atau hapus anotasi data spreadsheet Excel dan OpenOffice dengan perpustakaan Java.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Kelola Microsoft<sup>&reg;</sup> Anotasi Berkas Excel via Java" h2="Sisipkan catatan sederhana untuk anotasi atau hapus komentar tingkat sel spreadsheet Excel dalam aplikasi berbasis Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Kelola Microsoft<sup>&reg;</sup> Anotasi File Excel via Java" h2="Sisipkan catatan sederhana untuk anotasi atau hapus komentar tingkat sel spreadsheet Excel dalam aplikasi berbasis Java." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel API](/cells/id/java/) memberikan dukungan untuk mengelola anotasi di tingkat sel dengan menambahkan, mengakses, dan menghapus komentar. API menyediakan[Komentar](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [KoleksiKomentar](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [Komentar Berulir](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) Dan[ThreadedCommentCollection](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) untuk menangani komentar di semua aspek.
-Format file yang didukung termasuk ODS, XLS, XLSX, XLSB dan XLSM.
+[Java Unggul API](/cells/id/java/) memberikan dukungan untuk mengelola anotasi di tingkat sel dengan menambahkan, mengakses dan menghapus komentar. API menyediakan[Komentar](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [Koleksi Komentar](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [Komentar Berulir](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) Dan[Koleksi Komentar Berulir](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) untuk menangani komentar di semua aspek.
+Format file yang didukung meliputi ODS, XLS, XLSX, XLSB dan XLSM.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Anotasi Data File Excel" %}}
- Mengelola Komentar di Lembar Kerja - Tidak ada batasan berapa banyak komentar yang dimiliki satu lembar di MS Excel. Satu dapat menambahkan sebanyak persyaratan aplikasi. Proses penambahan komentar adalah, create[Buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)objek kelas atau memuat file yang ada menggunakan kelas Workbook. Akses semua komentarnya menggunakan getComments(). Dapatkan indeks sel dan gunakan[setNote](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) untuk memasukkan komentar. Selain itu, API mampu menghapus semua komentar.
+ Mengelola Komentar di Lembar Kerja - Tidak ada batasan berapa banyak komentar yang dimiliki suatu lembar di MS Excel. Seseorang dapat menambahkan sebanyak kebutuhan aplikasi. Proses menambahkan komentar adalah, buat[Buku Kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)objek kelas atau memuat file yang ada menggunakan kelas Buku Kerja. Akses semua komentarnya menggunakan getComments(). Dapatkan indeks sel dan gunakan[setCatatan](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) untuk memasukkan komentar. Apalagi API mampu menghapus semua komentar.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Menambahkan Komentar Dalam File Excel" %}}
 

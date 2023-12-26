@@ -1,8 +1,8 @@
 ---
 title: MHT を XLS に結合 - MHT を C# に XLS に結合
 url: /ja/net/merger/merge-mht-to-xls/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン MHT を XLS 保存形式にマージします。 C# MHT を XLS 形式に結合します。 C# で MHT を XLS にマージします。MHT をマージします。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLS in C#., Free Online C# Merge MHT to xls., C# Combine MHT to XLS Online for Free., MHT Merge]
+description: Aspose エクセル。 C# Aspose.Cells。MHT を XLS 保存形式にマージします。 C# MHT を XLS 形式に結合します。 C# で MHT を XLS にマージします。MHT をマージします。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLS in C#., C# Merge MHT to xls., C# Combine MHT to XLS., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で MHT を XLS に結合します" h2="MHT を XLS にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLS in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="C# を使用して MHT を XLS にマージ" %}}
 
-MHT を XLS にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に MHT を XLS に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+MHT を XLS にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に MHT を XLS に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料で MHT を C# の XLS にマージします" %}}
+{{% blocks/products/pf/agp/content h2="MHT を C# の XLS にマージ" %}}
 
 次の例は、MHT を Aspose.Cells for .NET の XLS にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインで MHT を C# の XLS にマージする無料" InputFormat="mht" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# に MHT を XLS にマージするサンプルコード" InputFormat="mht" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# 経由で MHT を XLS にマージする方法" %}}
 
@@ -87,7 +87,7 @@ MHT ファイルを Workbook クラスでロードします。
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}拡張子が XLS のファイルは、Excel バイナリ ファイル形式を表します。このようなファイルは、Microsoft Excel だけでなく、OpenOffice Calc や Apple Numbers などの他の同様のスプレッドシート プログラムでも作成できます。Excel で保存されたファイルはワークブックとして知られており、各ワークブックには 1 つ以上のワークシートを含めることができます。データはワークシートに表形式で保存され、ユーザーに表示されます。データには、数値、テキスト データ、数式、外部データ接続、画像、グラフなどを含めることができます。 Microsoft Excel のようなアプリケーションでは、ワークブック データを、PDF、CSV、XLSX、TXT、HTML、XPS などのさまざまな形式にエクスポートできます。 XLS ファイル形式は、Microsoft Excel 2007 のリリースにより、よりオープンで構造化された形式 XLSX に置き換えられました。最新バージョンでも XLS ファイルの作成と読み取りのサポートは提供されていますが、現在は XLSX が使用の第一の選択肢です。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

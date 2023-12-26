@@ -2,6 +2,7 @@
 title:  Python via .Net を使用してスター/バナーを Excel に挿入します
 weight: 381
 description: Python via Excel にスター/バナーを挿入するための .Net ソース コード。
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via .Net を使用してスター/バナーを Excel に挿入します" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用してスター/バナーを挿入します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -206,7 +207,7 @@ Workbook オブジェクトをインスタンス化します。(または -> XLS
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

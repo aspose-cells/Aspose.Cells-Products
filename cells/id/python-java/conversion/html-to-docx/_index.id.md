@@ -1,7 +1,7 @@
 ---
-title: Python HTML ke DOCX - Online HTML ke DOCX Konverter
-description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Ubah HTML menjadi DOCX saveformat. Python HTML ke format DOCX. Simpan HTML ke DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to DOCX saveformat., Free Online HTML to DOCX Python., Python Convert HTML to DOCX]
+title: Python HTML hingga DOCX - HTML hingga DOCX Konverter
+description: Aspose Unggul. Ubah HTML menjadi DOCX dengan cepat dan mudah dengan Aspose.Cells. Python HTML menjadi DOCX. Python Simpan HTML menjadi DOCX. Simpan HTML sebagai 07611134 81 menggunakan Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to DOCX in Python., Save HTML to DOCX using Python., Python HTML to DOCX saveformat., HTML to DOCX Converter., Python Save HTML as DOCX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah HTML menjadi DOCX di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi HTML menjadi DOCX. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor HTML, DOCX, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,40 +12,40 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Ubah HTML menjadi DOCX Menggunakan Python" %}}
 
-Bagaimana cara mengubah HTML menjadi DOCX? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah mengonversi HTML menjadi DOCX secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+Bagaimana cara mengubah HTML menjadi DOCX? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah mengonversi HTML menjadi DOCX secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan HTML ke DOCX di Python Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan HTML hingga DOCX di Python" %}}
 
 Contoh berikut menunjukkan cara mengonversi HTML menjadi DOCX di Python.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi HTML menjadi DOCX. Unggah file HTML Anda, lalu simpan sebagai file DOCX. Untuk membaca HTML dan menulis DOCX Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format keluaran DOCX akan identik dengan dokumen asli HTML.
+Ikuti langkah mudah untuk mengonversi HTML menjadi DOCX. Unggah file HTML Anda, lalu simpan sebagai file DOCX. Untuk pembacaan HTML dan penulisan DOCX Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format keluaran DOCX akan sama dengan dokumen HTML asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi HTML menjadi DOCX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi HTML menjadi DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi HTML ke DOCX via Python" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengubah HTML menjadi DOCX melalui Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file HTML menjadi DOCX secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi HTML menjadi DOCX hanya dalam beberapa baris kode.
+Perlu mengonversi file HTML ke DOCX secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi HTML menjadi DOCX hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file HTML dengan instance Workbook.
+1.  Muat file HTML dengan instance Buku Kerja.
 1.  Ubah HTML menjadi DOCX dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi dari HTML menjadi DOCX.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengonversi HTML menjadi DOCX" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengubah HTML menjadi DOCX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,44 +63,44 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for Python via Java" ke sistem Anda
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java adalah platform-independen API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
+ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan saja sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Instal Java dan tambahkan ke variabel lingkungan PATH, misalnya:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+-  Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan persyaratan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. HTML halaman diterima dari server, tempat ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, tautan, dll. Elemen ini diwakili oleh tag dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa scripting seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX adalah format terkenal untuk dokumen Word Microsoft. Diperkenalkan dari tahun 2007 dengan dirilisnya Office 2007 Microsoft, struktur format Dokumen baru ini diubah dari biner biasa menjadi kombinasi file XML dan biner. File Docx dapat dibuka dengan Word 2007 dan versi lateral tetapi tidak dengan versi MS Word sebelumnya yang mendukung ekstensi file DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan kebutuhan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. Halaman HTML diterima dari server, tempat halaman ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, link, dll. Elemen ini diwakili oleh tag dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa skrip seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX adalah format terkenal untuk dokumen Word Microsoft. Diperkenalkan mulai tahun 2007 dengan dirilisnya Microsoft Office 2007, struktur format Dokumen baru ini diubah dari biner biasa menjadi kombinasi file XML dan biner. File Docx dapat dibuka dengan Word 2007 dan versi lateral tetapi tidak dengan versi MS Word sebelumnya yang mendukung ekstensi file DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi HTML ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi HTML ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-bmp/" name="HTML SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-emf/" name="HTML SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-emf/" name="HTML SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-gif/" name="HTML SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-md/" name="HTML KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-md/" name="HTML KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-mhtml/" name="HTML SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-ods/" name="HTML SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-ods/" name="HTML SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-pdf/" name="HTML SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-png/" name="HTML SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-svg/" name="HTML SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-tiff/" name="HTML SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-tsv/" name="HTML SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-txt/" name="HTML SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xls/" name="HTML SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xls/" name="HTML SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlsb/" name="HTML SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlsm/" name="HTML SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlsx/" name="HTML SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlt/" name="HTML SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltm/" name="HTML SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltx/" name="HTML SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlsm/" name="HTML SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlsx/" name="HTML SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlt/" name="HTML SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltm/" name="HTML SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltx/" name="HTML SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xml/" name="HTML KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xps/" name="HTML SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-json/" name="HTML SAMPAI JSON" description="Notasi Objek JavaScript" >}}

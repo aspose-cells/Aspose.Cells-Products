@@ -1,6 +1,7 @@
 ---
 title: C# で Excel ワークシートをシートごとに分割
 description: Visual アプリケーションで Excel ファイルを複数のファイルに分割する方法を説明する C# ソース コード C#.NET
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルの分割 via .NET" h2=".NET ベースのアプリケーション内で C# コードを使用して、単一の Excel ドキュメントを異なるファイルに分割します。" >}}
@@ -9,7 +10,7 @@ description: Visual アプリケーションで Excel ファイルを複数の�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel ドキュメントを複数のファイルに分割する" %}}
- Excel ファイルをシートごとに分割する最も簡単な方法は、次の方法ですべてのシートにアクセスすることです。[ワークシート](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) 各シートを繰り返し処理し、[コピー](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)方法。最後に指定したパスに保存します。
+Excel ファイルをシートごとに分割する最も簡単な方法は、次の方法ですべてのシートにアクセスすることです。[ワークシート](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) 各シートを繰り返し処理し、[コピー](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)方法。最後に指定したパスに保存します。
 
  + Excelファイルをフルパスでロードします。[ワークブッククラス](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + 各シートを反復処理する

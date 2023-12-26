@@ -1,8 +1,8 @@
 ---
-title: Python xlsx ファイルを修復する - オンラインで xlsx ファイルを無料で修復する
+title: Python xlsx の修復 - 破損した xlsx ファイルを回復して修正する
 url: /ja/python-net/recovery/repair-xlsx/ 
-description: Aspose エクセル。 Python Aspose.Cells。Python xlsx ファイルを修復します。無料のオンラインxlsx修復ツール。破損した xlsx ファイルを修復します。 Python アプリケーション内の破損した xlsx ファイルを回復します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Free Online Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Python Aspose.Cells.xlsxを修復します。 xlsxファイルを修正しました。 xlsxリカバリツール。 xlsx が破損しています。 xlsxデータを復元します。 xlsxファイルのリカバリ。破損したxlsxファイルを回復します。
+keywords: [Python Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python の XLSX ファイルを修復します" h2="Python を使用して xlsx ファイルを修復する独自の Python アプリケーションを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してXLSXファイルを修復する" %}}
 
- xlsxファイルを修復するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSX ファイルを簡単に修復できます。[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ xlsxファイルを修復するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSX ファイルを簡単に修復できます。[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ xlsx ファイルをプログラムで修復する必要がありますか? Pyth
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="XLSXファイルをオンラインで修復する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="XLSXファイルを修復するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python ファイルを修復するライブラリ" %}}
 
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 Aspose.Cells for Python は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
  
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

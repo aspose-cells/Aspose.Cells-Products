@@ -1,8 +1,8 @@
 ---
 title: MHTML を ET に結合 - MHTML を C# の ET に結合
 url: /ja/net/merger/merge-mhtml-to-et/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン MHTML を ET 保存形式にマージします。 C# MHTML を ET 形式に結合します。 MHTML を C# の ET にマージします。 MHTML をマージします。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ET in C#., Free Online C# Merge MHTML to et., C# Combine MHTML to ET Online for Free., MHTML Merge]
+description: Aspose エクセル。 C# Aspose.Cells。MHTML を ET 保存形式にマージします。 C# MHTML を ET 形式に結合します。 MHTML を C# の ET にマージします。 MHTML をマージします。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ET in C#., C# Merge MHTML to et., C# Combine MHTML to ET., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を C# 経由で ET にマージします" h2="MHTML を ET にマージするための高速 C# ライブラリ。 Excel 変換 API を使用して、C# でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ET in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="C# を使用して MHTML を ET にマージする" %}}
 
-MHTML を ET にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に MHTML を ET に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+MHTML を ET にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に MHTML を ET に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHTML をオンラインで無料で C# の ET にマージします" %}}
+{{% blocks/products/pf/agp/content h2="MHTML を C# の ET にマージ" %}}
 
 次の例は、MHTML を Aspose.Cells for .NET の ET にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML を C# の ET にオンラインで無料でマージ" InputFormat="mhtml" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="MHTML を C# の ET にマージするサンプルコード" InputFormat="mhtml" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML を経由して MHTML を ET にマージする方法" %}}
 

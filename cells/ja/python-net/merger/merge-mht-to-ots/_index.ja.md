@@ -1,8 +1,8 @@
 ---
 title: MHT を OTS に結合 - Python で MHT を OTS に結合
 url: /ja/python-net/merger/merge-mht-to-ots/ 
-description: Aspose エクセル。 Python Aspose.Cells. MHT を OTS 保存形式に無料でオンライン結合します。 Python MHT を OTS 形式に結合します。 Python で MHT を OTS にマージします。MHT をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to OTS in Python., Free Online Python Merge MHT to ots., Python Combine MHT to OTS Online for Free., MHT Merge]
+description: Aspose エクセル。 Python Aspose.Cells. MHT を OTS 保存形式にマージします。 Python MHT を OTS 形式に結合します。 Python で MHT を OTS にマージします。MHT をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to OTS in Python., Python Merge MHT to ots., Python Combine MHT to OTS., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python 経由で MHT を OTS にマージします" h2="MHT を OTS にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to OTS in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Python を使用して MHT を OTS にマージする" %}}
 
-MHT を OTS にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に MHT を OTS に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ MHT を OTS にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に MHT を OTS に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料で Python の MHT を OTS にマージします" %}}
+{{% blocks/products/pf/agp/content h2="Python で MHT を OTS にマージします" %}}
 
 次の例は、Aspose.Cells for Python via .NET で MHT を OTS にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ MHT を OTS にマージするにはどうすればよいですか? Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Python で MHT を OTS に無料オンラインでマージ" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Python で MHT を OTS にマージするサンプルコード" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で MHT を OTS にマージする方法" %}}
 
@@ -52,7 +52,7 @@ MHT ファイルを Workbook クラスでロードします。
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,14 +72,14 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 {{% /blocks/products/pf/agp/text %}}
 
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}.ots 拡張子を持つファイルは、Apache OpenOffice に含まれる Calc アプリケーション ソフトウェアで作成された OpenDocument スプレッドシート テンプレート ファイルです。 Calc アプリケーション ソフトウェアは、Microsoft Office で利用できる Excel に似ています。 OTS ファイル形式は、スタイル、フォント、データ、スプレッドシートのレイアウト、および書式設定に関連する事前定義の設定を含むテンプレートを作成するために使用されます。 OTF ファイルの MIME タイプは application/vnd.oasis.opendocument.spreadsheet-template です。これらのテンプレート ファイルは、ODS ファイル形式で保存される実際のデータ ファイルを生成および保存するための開始点として使用できます。 OTS ファイルは、OpenOffice や LibreOffice などのアプリケーションで使用できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

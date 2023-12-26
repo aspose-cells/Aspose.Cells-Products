@@ -1,7 +1,7 @@
 ---
-title: Java XLSM ke HTML - Online XLSM ke HTML Konverter
-description: Aspose Unggul. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Ubah XLSM menjadi HTML saveformat. Java XLSM ke format HTML. Simpan XLSM ke HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to HTML saveformat., Free Online XLSM to HTML Java., Java Convert XLSM to HTML]
+title: Java XLSM hingga HTML - XLSM hingga HTML Konverter
+description: Aspose Unggul. Ubah XLSM menjadi HTML dengan cepat dan mudah dengan Aspose.Cells. Java XLSM menjadi HTML. Java Simpan XLSM menjadi HTML. Simpan XLSM sebagai 07611134 81 menggunakan Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to HTML in Java., Save XLSM to HTML using Java., Java XLSM to HTML saveformat., XLSM to HTML Converter., Java Save XLSM as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah XLSM menjadi HTML di Java" h2="Pustaka Java berkecepatan tinggi untuk mengonversi XLSM menjadi HTML. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLSM, HTML, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to H
 
 {{% blocks/products/pf/agp/content h2="Ubah XLSM menjadi HTML Menggunakan Java" %}}
 
-Bagaimana cara mengubah XLSM menjadi HTML? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah mengonversi XLSM menjadi HTML secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Bagaimana cara mengubah XLSM menjadi HTML? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi XLSM menjadi HTML secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,36 +45,36 @@ Bagaimana cara mengubah XLSM menjadi HTML? Dengan perpustakaan Aspose.Cells for 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan XLSM ke HTML di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan XLSM hingga HTML di Java" %}}
 
 Contoh berikut menunjukkan cara mengonversi XLSM menjadi HTML di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi XLSM menjadi HTML. Unggah file XLSM Anda, lalu simpan sebagai file HTML. Untuk membaca XLSM dan menulis HTML Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format keluaran HTML akan identik dengan dokumen asli XLSM.
+Ikuti langkah mudah untuk mengonversi XLSM menjadi HTML. Unggah file XLSM Anda, lalu simpan sebagai file HTML. Untuk pembacaan XLSM dan penulisan HTML Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format keluaran HTML akan sama dengan dokumen XLSM asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLSM menjadi HTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi XLSM menjadi HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="html" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Mengubah XLSM menjadi HTML via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi XLSM menjadi HTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file XLSM menjadi HTML secara terprogram? Pengembang Java dapat dengan mudah mengonversi XLSM menjadi HTML hanya dalam beberapa baris kode.
+Perlu mengonversi file XLSM ke HTML secara terprogram? Pengembang Java dapat dengan mudah mengonversi XLSM menjadi HTML hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file XLSM dengan instance kelas Workbook.
+1. Muat file XLSM dengan instance kelas Buku Kerja.
 1.  Ubah XLSM menjadi HTML dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi dari XLSM menjadi HTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengonversi XLSM menjadi HTML" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengubah XLSM menjadi HTML" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Kami menghosting paket Java kami di[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositori. 'Aspose.Cells for Java' adalah file JAR umum yang berisi kode byte. Silakan ikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/java/installation/) tentang cara menginstalnya ke lingkungan pengembang Java Anda.
@@ -97,33 +97,33 @@ Perlu mengonversi file XLSM menjadi HTML secara terprogram? Pengembang Java dapa
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan persyaratan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. HTML halaman diterima dari server, tempat ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, tautan, dll. Elemen ini diwakili oleh tag dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa scripting seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro. Dari sudut pandang aplikasi, Makro adalah kumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk mencatat langkah-langkah yang dilakukan berulang kali dan memfasilitasi pelaksanaan tindakan dengan menjalankan kembali makro. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/debug langsung dari sana.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan kebutuhan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. Halaman HTML diterima dari server, tempat halaman ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, link, dll. Elemen ini diwakili oleh tag dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa skrip seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XLSM ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi XLSM ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-bmp/" name="XLSM SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-emf/" name="XLSM SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-emf/" name="XLSM SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-gif/" name="XLSM SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-html/" name="XLSM SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-md/" name="XLSM KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-md/" name="XLSM KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-mhtml/" name="XLSM SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-ods/" name="XLSM SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-ods/" name="XLSM SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-pdf/" name="XLSM SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-png/" name="XLSM SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-svg/" name="XLSM SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tiff/" name="XLSM SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tsv/" name="XLSM SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-txt/" name="XLSM SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xls/" name="XLSM SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xls/" name="XLSM SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsb/" name="XLSM SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsx/" name="XLSM SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlt/" name="XLSM SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="XLSM SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="XLSM SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsx/" name="XLSM SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlt/" name="XLSM SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="XLSM SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="XLSM SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xml/" name="XLSM KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-json/" name="XLSM SAMPAI JSON" description="Notasi Objek JavaScript" >}}

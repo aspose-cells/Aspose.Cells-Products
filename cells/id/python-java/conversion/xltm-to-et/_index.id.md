@@ -1,7 +1,7 @@
 ---
-title: Python XLTM to ET - Online XLTM to ET Converter
-description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah XLTM menjadi ET saveformat. Python XLTM ke format ET. Simpan XLTM ke ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to ET saveformat., Free Online XLTM to ET Python., Python Convert XLTM to ET]
+title: Python XLTM ke ET - XLTM ke ET Konverter
+description: Aspose Unggul. Ubah XLTM menjadi ET dengan cepat dan mudah dengan Aspose.Cells. Python XLTM menjadi ET. Python Simpan XLTM ke ET. Simpan XLTM sebagai ET menggunakan Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to ET in Python., Save XLTM to ET using Python., Python XLTM to ET saveformat., XLTM to ET Converter., Python Save XLTM as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah XLTM menjadi ET di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi XLTM ke ET. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLTM, ET, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,40 +12,40 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Ubah XLTM menjadi ET Menggunakan Python" %}}
 
- Bagaimana cara mengubah XLTM menjadi ET? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah mengonversi XLTM ke ET secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengubah XLTM ke ET? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah mengonversi XLTM ke ET secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan XLTM ke ET di Python Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan XLTM ke ET di Python" %}}
 
-Contoh berikut menunjukkan cara mengonversi XLTM menjadi ET di Python.
+Contoh berikut menunjukkan cara mengonversi XLTM ke ET di Python.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi XLTM menjadi ET. Unggah file XLTM Anda, lalu simpan sebagai file ET. Untuk pembacaan XLTM dan penulisan ET, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan ET keluaran akan identik dengan dokumen XLTM asli.
+Ikuti langkah mudah untuk mengkonversi XLTM ke ET. Unggah file XLTM Anda, lalu simpan saja sebagai file ET. Untuk pembacaan XLTM dan penulisan ET Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format ET keluaran akan sama dengan dokumen XLTM asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLTM menjadi ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi XLTM ke ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi XLTM ke ET via Python" %}}
+{{% blocks/products/pf/agp/content h2="Cara Konversi XLTM ke ET melalui Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file XLTM ke ET secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi XLTM menjadi ET hanya dalam beberapa baris kode.
+Perlu mengonversi file XLTM ke ET secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi XLTM ke ET hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file XLTM dengan instance Workbook.
+1.  Muat file XLTM dengan instance Buku Kerja.
 1.  Ubah XLTM menjadi ET dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi XLTM ke ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengonversi XLTM menjadi ET" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengonversi XLTM ke ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,44 +63,44 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for Python via Java" ke sistem Anda
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java adalah platform-independen API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
+ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan saja sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Instal Java dan tambahkan ke variabel lingkungan PATH, misalnya:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+-  Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}File ET adalah pelajaran pengajaran yang dibuat oleh Easiteach, sebuah program yang memungkinkan guru mengembangkan pelajaran di kelas dan menyampaikannya melalui antarmuka interaktif. Ini berisi data pelajaran seperti tata letak, navigasi, gambar, teks, tema, dan animasi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file templat yang mendukung Makro. Struktur file XLTM mirip dengan XLTX selain itu versi selanjutnya tidak mendukung pembuatan file templat dengan makro. File templat tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}File ET adalah pelajaran mengajar yang dibuat oleh Easiteach, sebuah program yang memungkinkan guru mengembangkan pelajaran di kelas dan menyampaikannya melalui antarmuka interaktif. Berisi data pelajaran seperti tata letak, navigasi, gambar, teks, tema, dan animasi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XLTM ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi XLTM ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-bmp/" name="XLTM SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-gif/" name="XLTM SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-html/" name="XLTM SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-md/" name="XLTM KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-md/" name="XLTM KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-mhtml/" name="XLTM SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-ods/" name="XLTM SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-ods/" name="XLTM SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-pdf/" name="XLTM SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-png/" name="XLTM SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-svg/" name="XLTM SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-tiff/" name="XLTM SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-tsv/" name="XLTM SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-txt/" name="XLTM SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xls/" name="XLTM SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xls/" name="XLTM SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlsb/" name="XLTM SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlsm/" name="XLTM SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlsx/" name="XLTM SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlt/" name="XLTM SAMPAI XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlsm/" name="XLTM SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlsx/" name="XLTM SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xlt/" name="XLTM SAMPAI XLT" description="Templat Excel Microsoft" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xltx/" name="XLTM SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xltx/" name="XLTM SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xml/" name="XLTM KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xps/" name="XLTM SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-json/" name="XLTM SAMPAI JSON" description="Notasi Objek JavaScript" >}}

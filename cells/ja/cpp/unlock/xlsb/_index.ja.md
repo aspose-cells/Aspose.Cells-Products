@@ -1,7 +1,8 @@
 ---
 title:  C++経由でXLSBドキュメントのロックを解除します
 weight: 7420
-description: C++ ランタイム環境 (Windows 32 ビット、Windows 64 ビット、および Linux 64 ビット) 上のパスワードで保護された XLSB ファイルのロックを解除するための C++ サンプル コード。
+description: C++ 32 ビット、Windows 64 ビット、および Linux 64 ビット用の C++ ランタイム環境で、パスワードで保護された XLSB ファイルのロックを解除するための C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ unlock XLSB files., C++ how to unlock XLSB document., C++ unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で XLSB ファイルのロックを解除する" h2="C++ ライブラリを使用して、XLSB ファイルを含む Excel スプレッドシートから保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  CreateIWorkbook を使用して、XLSB ロックされたファイルを読み込みます。
-1. ロックを解除するには Unprotect() 関数を呼び出します。
-1.  SetPassword を使用してパスワードを NULL に設定します。
-1.  XLSB ファイルを指定した場所に保存します。
+1. 保護された XLSB ファイルへのパスを使用して Workbook クラスをインスタンス化します。
+1. デフォルトまたは任意のワークシートを取得して保護を解除します
+1. Worksheet.Unprotect メソッドを使用してワークシートの保護を削除します
+1. Workbook.Unprotect メソッドを使用してブックの保護を削除します
+1. 結果をXLSB形式で保存
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSB file
+Workbook workbook(u"protected.xlsb");
 
-// Load XLSB file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsb")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSB file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsb")));
+// save the result back in XLSB format
+workbook.Save("unprotected.xlsb", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -121,7 +124,7 @@ XLSB ファイル形式は、Excel ワークブックのコンテンツを指定
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C++ を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C++を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="Excel バイナリ形式" >}}

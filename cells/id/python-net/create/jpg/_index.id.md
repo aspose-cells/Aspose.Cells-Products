@@ -1,7 +1,7 @@
 ---
 title: Buat JPG - Buat file JPG di Python
-description: Aspose Unggul. Python Buat File JPG. Buat JPG Python. Python Pembuat JPG. Buat JPG di Python. Hasilkan file JPG menggunakan Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG Creater., Create JPG file in Python., Generate JPG file in Python]
+description: Aspose Unggul. Python Buat File JPG dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file JPG menggunakan Python. Buat JPG di Python. Python JPG Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JPG file., Generate JPG file in Python., Create JPG file using Python., Write data to JPG file via Python., Create a JPG file in Python., Python Generate a JPG file., Python JPG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File JPG di Python" h2="Pustaka Python berkecepatan tinggi untuk membuat file JPG. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG C
 
 {{% blocks/products/pf/agp/content h2="Buat File JPG Menggunakan Python" %}}
 
- Bagaimana cara membuat file JPG? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah membuat file JPG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara membuat file JPG? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah membuat file JPG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,16 +21,16 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG C
 
 {{% blocks/products/pf/agp/text %}}
 
- Sangat mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file JPG dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+ Mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file JPG dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Buat instance kelas Workbook.
+1.  Buat instance kelas Buku Kerja.
 1.  Akses lembar kerja pertama dari buku kerja.
-1.  Dapatkan sel yang diinginkan dari lembar kerja dan masukkan nilainya ke dalam sel.
+1.  Dapatkan sel yang diinginkan pada lembar kerja dan masukkan nilainya ke dalam sel.
 1.  Gunakan metode Simpan untuk menyimpan buku kerja sebagai file JPG.
 
-{{% blocks/products/pf/agp/code-block title="Kode contoh menunjukkan cara membuat file JPG di Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Contoh kode menunjukkan cara membuat file JPG di Python." offSpacer="" %}}
 
 ```cs
 
@@ -57,16 +57,16 @@ workbook.save("output.jpg")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python perpustakaan untuk membuat file JPG" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk membuat file JPG" %}}
 
 Kami menghosting paket Python kami di repositori PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara menginstal "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -74,7 +74,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python adalah platform-independent API dan bisa digunakan di semua platform (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux), pastikan saja sistem memiliki[Python](https://www.python.org/downloads/) 3,7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,22 +82,22 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar dapat diabaikan jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar akan sedikit terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi pula penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Generasi Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Pembuatan Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Legacy)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Warisan)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Buka Buku Kerja XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Buku Kerja Biner Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Spreadsheet yang diaktifkan makro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Templat 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Spreadsheet berkemampuan makro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Templat Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Templat Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Template Berkemampuan Makro Excel" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Templat Excel yang Diaktifkan Makro" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Spreadsheet Dokumen Terbuka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
 

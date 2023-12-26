@@ -1,8 +1,8 @@
 ---
 title: XLSB を MD に結合 - XLSB を C++ に MD に結合
 url: /ja/cpp/merger/merge-xlsb-to-md/ 
-description: Aspose エクセル。 C++ Aspose.Cells。無料オンライン XLSB を MD 保存形式にマージします。 C++ XLSBをMD形式に結合します。 XLSB を C++ の MD にマージします。 XLSB マージします。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to MD in C++., Free Online C++ Merge XLSB to md., C++ Combine XLSB to MD Online for Free., XLSB Merge]
+description: Aspose エクセル。 C++ Aspose.Cells。XLSB を MD 保存形式にマージします。 C++ XLSBをMD形式に結合します。 XLSB を C++ の MD にマージします。 XLSB マージします。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to MD in C++., C++ Merge XLSB to md., C++ Combine XLSB to MD., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB を C++ 経由で MD にマージ" h2="XLSB を MD にマージするための高速 C++ ライブラリ。 Excel 変換 API を使用して、C++ でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to MD in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="C++ を使用して XLSB を MD にマージ" %}}
 
-XLSB を MD にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSB を MD に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSB を MD にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSB を MD に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSBをオンラインで無料でXLSBのMDにマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLSB を C++ の MD にマージ" %}}
 
 次の例は、XLSB を Aspose.Cells for C++ の MD にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSB をオンラインで C++ の MD に無料でマージする" InputFormat="xlsb" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="XLSB を C++ の MD にマージするサンプルコード" InputFormat="xlsb" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB を経由して XLSB を MD にマージする方法" %}}
 
@@ -107,7 +107,6 @@ Workbook クラスで XLSB ファイルをロードします。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-pdf/" name="XLSB を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-png/" name="XLSB を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-svg/" name="XLSB を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-tiff/" name="XLSB を TIFF に結合" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-tsv/" name="XLSB を TSV に結合" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-txt/" name="XLSB を TXT に結合" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xls/" name="XLSB を XLS に結合" description="Excel バイナリ形式" >}}

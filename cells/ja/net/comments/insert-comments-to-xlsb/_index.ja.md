@@ -2,6 +2,7 @@
 title: XLSB ファイル via .NET にコメントを挿入
 url: /ja/net/comments/insert-comments-to-xlsb/ 
 description: C# を使用して XLSB にコメントを挿入します。.NET アプリケーション内にコメントを挿入するには、API サンプル コードを使用します。
+keywords: [C# Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSB ファイルにコメントを挿入" h2="独自の .NET アプリケーションを構築し、サーバー側 API を使用してドキュメント ファイル内のコメントと作成者を操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: C# を使用して XLSB にコメントを挿入します。.NET �
 
 {{% blocks/products/pf/agp/content h2=".NET を使用して XLSB ファイルにコメントを挿入" %}}
 
-Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSB ファイルにコメントを簡単に挿入できます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSB ファイルにコメントを簡単に挿入できます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 

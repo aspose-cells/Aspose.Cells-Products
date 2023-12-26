@@ -1,7 +1,7 @@
 ---
-title: Java PRN から ET - オンライン PRN から ET コンバーター
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java PRN を ET 保存形式に変換します。 Java PRN から ET 形式。 PRN を ET Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to ET saveformat., Free Online PRN to ET Java., Java Convert PRN to ET]
+title: Java PRN から ET - PRN から ET コンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、PRN を ET にすばやく簡単に変換します。 Java PRN から ET。 Java PRN を ET に保存してください。 Java を使用して PRN を ET として保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to ET in Java., Save PRN to ET using Java., Java PRN to ET saveformat., PRN to ET Converter., Java Save PRN as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java で PRN を ET に変換します" h2="PRN を ET に変換するための高速 Java ライブラリ。これは、Java を使用して PRN、ET、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to ET
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してPRNをETに変換します" %}}
 
-PRN を ET に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に PRN を ET に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+PRN を ET に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に PRN を ET に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ PRN を ET に変換するにはどうすればよいですか? Aspose.Cells for
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="無料でオンラインでPRNをJavaのETに保存します" %}}
+{{% blocks/products/pf/agp/content h2="PRN を Java の ET に保存" %}}
 
 次の例は、PRN を Java の ET に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ PRN を ET に変換するにはどうすればよいですか? Aspose.Cells for
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでPRNをETに変換するための無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="PRN を ET に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="PRNをET via Javaに変換する方法" %}}
 
@@ -77,7 +77,7 @@ PRN を ET に変換するにはどうすればよいですか? Aspose.Cells for
 {{% blocks/products/pf/agp/content h2="Java PRN を ET に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

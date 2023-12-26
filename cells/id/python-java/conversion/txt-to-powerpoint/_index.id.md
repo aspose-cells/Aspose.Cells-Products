@@ -1,7 +1,7 @@
 ---
-title: Python TXT ke POWERPOINT - Konverter ke POWERPOINT Online TXT
-description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Konversi TXT ke format simpan POWERPOINT. Python TXT ke format POWERPOINT. Simpan TXT ke POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT Python., Python Convert TXT to POWERPOINT]
+title: Python TXT ke POWERPOINT - TXT ke POWERPOINT Konverter
+description: Aspose Unggul. Ubah TXT menjadi POWERPOINT dengan cepat dan mudah dengan Aspose.Cells. Python TXT menjadi POWERPOINT. Python Simpan TXT ke POWERPOINT. Simpan TXT sebagai POWERPOINT menggunakan Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to POWERPOINT in Python., Save TXT to POWERPOINT using Python., Python TXT to POWERPOINT saveformat., TXT to POWERPOINT Converter., Python Save TXT as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TXT menjadi POWERPOINT di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi TXT ke POWERPOINT. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor TXT, POWERPOINT, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,22 +12,22 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="Ubah TXT menjadi POWERPOINT Menggunakan Python" %}}
 
- Bagaimana cara mengubah TXT ke POWERPOINT? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah mengonversi TXT ke POWERPOINT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengubah TXT menjadi POWERPOINT? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah mengonversi TXT ke POWERPOINT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan TXT ke POWERPOINT di Python Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan TXT ke POWERPOINT di Python" %}}
 
-Contoh berikut menunjukkan cara mengonversi TXT ke POWERPOINT di Python.
+Contoh berikut menunjukkan cara mengkonversi TXT ke POWERPOINT di Python.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah-langkah mudah untuk mengubah TXT ke POWERPOINT. Unggah file TXT Anda, lalu simpan sebagai file POWERPOINT. Untuk membaca TXT dan menulis POWERPOINT, Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan pemformatan POWERPOINT keluaran akan identik dengan dokumen asli TXT.
+Ikuti langkah mudah untuk mengkonversi TXT ke POWERPOINT. Unggah file TXT Anda, lalu simpan sebagai file POWERPOINT. Untuk pembacaan TXT dan penulisan POWERPOINT Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format POWERPOINT keluaran akan sama dengan dokumen TXT asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TXT ke POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi TXT ke POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah TXT ke POWERPOINT melalui Python" %}}
 
@@ -39,13 +39,13 @@ Perlu mengonversi file TXT ke POWERPOINT secara terprogram? Pengembang Python da
 
 1.  Instal 'Aspose.Cells for Python via Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file TXT dengan instance Workbook.
+1.  Muat file TXT dengan instance Buku Kerja.
 1.  Ubah TXT menjadi POWERPOINT dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi TXT ke POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengonversi TXT ke POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengkonversi TXT ke POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,44 +63,44 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for Python via Java" ke sistem Anda
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java adalah platform-independen API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
+ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan saja sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Instal Java dan tambahkan ke variabel lingkungan PATH, misalnya:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+-  Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}File dengan ekstensi .TXT mewakili dokumen teks yang berisi teks biasa dalam bentuk garis. Paragraf dalam dokumen teks dikenali oleh carriage return dan digunakan untuk pengaturan konten file yang lebih baik. Dokumen teks standar dapat dibuka di editor teks apa pun atau aplikasi pengolah kata pada sistem operasi yang berbeda. Semua teks yang terkandung dalam file tersebut dalam format yang dapat dibaca manusia dan diwakili oleh urutan karakter.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}File dengan ekstensi PPTX adalah file presentasi yang dibuat dengan aplikasi populer Microsoft PowerPoint. Berbeda dengan versi sebelumnya dari format file presentasi PPT yang bersifat biner, format PPTX didasarkan pada format file presentasi terbuka XML Microsoft PowerPoint. File presentasi adalah kumpulan slide di mana setiap slide dapat terdiri dari teks, gambar, format, animasi, dan media lainnya. Slide ini disajikan kepada audiens dalam bentuk tayangan slide dengan pengaturan presentasi khusus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}File dengan ekstensi .TXT mewakili dokumen teks yang berisi teks biasa dalam bentuk garis. Paragraf dalam dokumen teks dikenali melalui pengangkutan kembali dan digunakan untuk pengaturan isi file yang lebih baik. Dokumen teks standar dapat dibuka di editor teks atau aplikasi pengolah kata apa pun pada sistem operasi berbeda. Semua teks yang terkandung dalam file tersebut dalam format yang dapat dibaca manusia dan diwakili oleh urutan karakter.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}File dengan ekstensi PPTX adalah file presentasi yang dibuat dengan aplikasi populer Microsoft PowerPoint. Berbeda dengan format file presentasi versi sebelumnya PPT yang biner, format PPTX didasarkan pada format file presentasi XML terbuka Microsoft PowerPoint. File presentasi adalah kumpulan slide yang setiap slidenya dapat terdiri dari teks, gambar, format, animasi, dan media lainnya. Slide-slide ini disajikan kepada audiens dalam bentuk slideshow dengan pengaturan presentasi khusus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi TXT ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi TXT ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="TXT SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-gif/" name="TXT SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-html/" name="TXT SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-md/" name="TXT KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-md/" name="TXT KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-mhtml/" name="TXT SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-ods/" name="TXT SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-ods/" name="TXT SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-pdf/" name="TXT SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-png/" name="TXT SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-svg/" name="TXT SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-tiff/" name="TXT SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-tsv/" name="TXT SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xls/" name="TXT SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xls/" name="TXT SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlsb/" name="TXT SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlsm/" name="TXT SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlsx/" name="TXT SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlt/" name="TXT SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xltm/" name="TXT SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xltx/" name="TXT SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlsm/" name="TXT SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlsx/" name="TXT SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xlt/" name="TXT SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xltm/" name="TXT SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xltx/" name="TXT SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xml/" name="TXT KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-xps/" name="TXT SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-json/" name="TXT SAMPAI JSON" description="Notasi Objek JavaScript" >}}

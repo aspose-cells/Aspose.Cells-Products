@@ -2,6 +2,7 @@
 title:  XLSM ドキュメント via .NET 内のテキストを検索して置換します
 weight: 2370
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLSM ファイル内の機密情報を編集するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact XLSM file., c# edit XLSM file., c# XLSM file redaction., c# Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM のフォーマットを編集" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for .NET API を使用して、ネイティブで高性能な XLSM 文書の機密秘匿化情報を作成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL から JPG - オンライン EXCEL から JPG コンバーター
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java EXCEL を JPG 保存形式に変換します。 Java EXCEL から JPG 形式。 EXCEL を JPG Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to JPG saveformat., Free Online EXCEL to JPG Java., Java Convert EXCEL to JPG]
+title: Java EXCEL から JPG - EXCEL から JPG コンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、EXCEL を JPG にすばやく簡単に変換します。 Java EXCEL を JPG に変換します。 Java EXCEL を JPG に保存します。 Java を使用して EXCEL を JPG として保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to JPG in Java., Save EXCEL to JPG using Java., Java EXCEL to JPG saveformat., EXCEL to JPG Converter., Java Save EXCEL as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JavaでEXCELをJPGに変換" h2="EXCELをJPGに変換する高速ライブラリJava。これは、Java を使用して EXCEL、JPG、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してEXCELをJPGに変換" %}}
 
-EXCELをJPGに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に EXCEL を JPG に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+EXCELをJPGに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に EXCEL を JPG に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ EXCELをJPGに変換するにはどうすればよいですか? Aspose.Cells for
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java オンラインで無料で EXCEL を JPG に保存" %}}
+{{% blocks/products/pf/agp/content h2="JavaでEXCELをJPGに保存" %}}
 
 次の例は、Java で EXCEL を JPG に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ EXCELをJPGに変換するにはどうすればよいですか? Aspose.Cells for
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでEXCELをJPGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="EXCELをJPGに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCELをJPGに変換する方法 via Java" %}}
 
@@ -70,14 +70,14 @@ EXCELをJPGに変換するにはどうすればよいですか? Aspose.Cells for
 1. ライブラリ参照を Java プロジェクトに追加します (ライブラリをインポートします)。
 1. ExcelファイルをWorkbookクラスのインスタンスで読み込みます。
 1.  Workbook.save メソッドを呼び出して、EXCEL を JPG に変換します。
-1.  EXCELからJPGへの変換結果を取得します。
+1. EXCELからJPGへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Java EXCEL を JPG に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

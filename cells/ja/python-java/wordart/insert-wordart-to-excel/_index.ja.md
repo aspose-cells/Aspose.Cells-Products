@@ -2,6 +2,7 @@
 title: Python via Java を使用してワードアートを Excel に挿入します
 weight: 200
 description: Python via Java Excel にワードアートを挿入するためのソース コード。
+keywords: [Python via Java Aspose.Cells., Python via Java add WordArt into Excel., Python via Java insert WordArt into Excel., Python via Java create WordArt in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via Java を使用してワードアートを Excel に挿入します" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用してワードアートを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ Workbook オブジェクトをインスタンス化します。(または -> XLS
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -81,7 +82,7 @@ Aspose.Cells API クロスプラットフォーム アプリケーションを�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

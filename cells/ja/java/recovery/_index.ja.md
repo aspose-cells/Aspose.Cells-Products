@@ -1,6 +1,7 @@
 ---
-title: Excelファイルvia Javaを修復する
-description: Java を使用して破損した Excel ファイルを修復します。Java アプリケーション内の破損した Excel ファイルを修復する回復ツール。
+title: Java Excel の修復 - 破損した Excel ファイルを回復して修正
+description: Java Aspose.Cells. Excel を修復します。エクセルファイルを修正。エクセルの回復ツール。エクセルの破損。エクセルデータを復元します。エクセルファイルの復元。破損したExcelファイルを回復します。
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excelファイルvia Javaを回復する" h2="Java を使用して Excel ファイルを修復する Java アプリケーションをビルドします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Java を使用して破損した Excel ファイルを修復しま�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してEXCELファイルを修復する" %}}
 
- EXCELファイルを修復するには、次のコマンドを使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java)API は、機能が豊富で強力で使いやすいドキュメント操作プラットフォームです。 API for Java
+ EXCELファイルを修復するには、次のコマンドを使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java) API は、機能が豊富で強力で使いやすいドキュメント操作プラットフォームです。 API for Java
  
  Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 

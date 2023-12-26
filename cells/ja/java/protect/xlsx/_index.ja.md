@@ -2,6 +2,7 @@
 title: 保護とロック XLSX ドキュメント via Java
 weight: 1870
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境で、パスワードを使用して XLSX ファイルをロックするための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java Lock XLSX files., Java How to Protect and lock XLSX document., Java Protect XLSX files., Encrypt XLSX Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="暗号化 XLSX ファイル via Java" h2=".NET ライブラリを使用して、XLSX 形式を含む Excel スプレッドシートをパスワードで保護します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

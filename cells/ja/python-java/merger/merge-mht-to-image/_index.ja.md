@@ -1,8 +1,8 @@
 ---
 title: MHT を IMAGE に結合 - Python で MHT を IMAGE に結合
 url: /ja/python-java/merger/merge-mht-to-image/ 
-description: Aspose エクセル。 Python Aspose.Cells. 無料オンライン MHT を IMAGE 保存形式にマージします。 Python MHT を IMAGE 形式に結合します。 MHT を Python の IMAGE にマージします。MHT をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to IMAGE in Python., Free Online Python Merge MHT to image., Python Combine MHT to IMAGE Online for Free., MHT Merge]
+description: Aspose エクセル。 Python Aspose.Cells. MHT を IMAGE 保存形式にマージします。 Python MHT を IMAGE 形式に結合します。 MHT を Python の IMAGE にマージします。MHT をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to IMAGE in Python., Python Merge MHT to image., Python Combine MHT to IMAGE., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python 経由で MHT を IMAGE にマージします" h2="MHT を IMAGE にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="IMAGE" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to IMAGE in Python., F
 
 {{% blocks/products/pf/agp/content h2="Python を使用して MHT を IMAGE にマージする" %}}
 
- MHT を IMAGE にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHT を IMAGE に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+ MHT を IMAGE にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHT を IMAGE に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でMHTをPythonのIMAGEに結合します" %}}
+{{% blocks/products/pf/agp/content h2="Python の MHT を IMAGE にマージします" %}}
 
 次の例は、MHT を Aspose.Cells for Python via Java の IMAGE にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to IMAGE in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Python で MHT を IMAGE に無料でオンラインでマージできます" InputFormat="mht" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Python の MHT を IMAGE にマージするサンプルコード" InputFormat="mht" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で MHT を IMAGE に結合する方法" %}}
 
@@ -73,14 +73,14 @@ MHT ファイルを Workbook クラスでロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) ファイルは、可逆圧縮を使用するラスター イメージ ファイル形式です。このファイル形式は、Graphics Interchange Format (GIF) の代替として作成され、著作権制限はありません。ただし、PNG ファイル形式はアニメーションをサポートしていません。 PNG ファイル形式は可逆画像圧縮をサポートしているため、ユーザーの間で人気があります。時間の経過とともに、PNG は広く使用されている画像ファイル形式の 1 つとして進化しました。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

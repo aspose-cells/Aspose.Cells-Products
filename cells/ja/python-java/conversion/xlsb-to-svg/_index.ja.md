@@ -1,7 +1,7 @@
 ---
-title: Python XLSB から SVG - オンライン XLSB から SVG コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLSB を SVG 保存形式に変換します。 Python XLSB ～ SVG の形式。 XLSB から SVG Python を保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to SVG saveformat., Free Online XLSB to SVG Python., Python Convert XLSB to SVG]
+title: Python XLSB ～ SVG - XLSB ～ SVG コンバータ
+description: Aspose エクセル。 XLSB を Aspose.Cells ですばやく簡単に SVG に変換します。 Python XLSB から SVG に変換します。 Python XLSB を SVG に保存します。 XLSB を 07611134 として保存しますPythonを使用して81。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to SVG in Python., Save XLSB to SVG using Python., Python XLSB to SVG saveformat., XLSB to SVG Converter., Python Save XLSB as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB を Python の SVG に変換します" h2="XLSB を SVG に変換するための高速 Python ライブラリ。これは、XLSB、SVG、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLSB を SVG に変換します" %}}
 
-XLSB を SVG に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSB を SVG に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+XLSB を SVG に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSB を SVG に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python に XLSB から SVG をオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="XLSB を Python に保存" %}}
 
 次の例は、XLSB を Python の SVG に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ XLSB を SVG に変換するにはどうすればよいですか? Aspose.Cells f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLSBをSVGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLSB を SVG に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python経由でXLSBをSVGに変換する方法" %}}
 
@@ -63,19 +63,19 @@ XLSB ファイルをプログラムで SVG に変換する必要があります�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB ファイル形式は、Excel ワークブックのコンテンツを指定するレコードと構造のコレクションである Excel バイナリ ファイル形式を指定します。コンテンツには、数値、テキスト、または数値とテキストの両方、数式、外部データ接続、グラフ、画像の非構造化または半構造化表を含めることができます。 XLSX (Open XML ファイル形式に基づく) とは異なり、XLSB はバイナリ Excel ワークブック ファイルを表します。 XLSB ファイルは高速に読み書きできるため、大きなファイルを扱う場合に便利です。 XLSX (および以前は XLS) はワークブックを保存するためにユーザーが選択する最も一般的なファイル形式であるため、XLSB がワークブックの保存に使用されることはほとんどありません。 Microsoft Office 2007 以降で開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。スケーラブルという言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。 「スケーラブル」という言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

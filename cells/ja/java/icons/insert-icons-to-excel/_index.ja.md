@@ -2,6 +2,7 @@
 title: SVG 画像/アイコンを Excel に挿入 via Java
 weight: 10
 description: Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells' Java API を使用してオブジェクトを挿入します。
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SVG 画像/アイコンを Excel に挿入 via Java" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用して SVG 画像/アイコンを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

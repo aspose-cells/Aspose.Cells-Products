@@ -1,7 +1,7 @@
 ---
-title: Python JSON to HTM - Online JSON to HTM Converter
-description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Ubah JSON menjadi HTM saveformat. Python JSON ke format HTM. Simpan JSON ke HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to HTM saveformat., Free Online JSON to HTM Python., Python Convert JSON to HTM]
+title: Python JSON ke HTM - JSON ke HTM Konverter
+description: Aspose Unggul. Ubah JSON menjadi HTM dengan cepat dan mudah dengan Aspose.Cells. Python JSON menjadi HTM. Python Simpan JSON ke HTM. Simpan JSON sebagai HTM menggunakan Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to HTM in Python., Save JSON to HTM using Python., Python JSON to HTM saveformat., JSON to HTM Converter., Python Save JSON as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah JSON menjadi HTM di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi JSON ke HTM. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor JSON, HTM, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,24 +12,24 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSO
 
 {{% blocks/products/pf/agp/content h2="Ubah JSON menjadi HTM Menggunakan Python" %}}
 
- Bagaimana cara mengonversi JSON ke HTM? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah mengonversi JSON ke HTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengubah JSON ke HTM? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah mengonversi JSON ke HTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan JSON ke HTM di Python Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan JSON ke HTM di Python" %}}
 
 Contoh berikut menunjukkan cara mengonversi JSON ke HTM di Python.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi JSON ke HTM. Unggah file JSON Anda, lalu simpan sebagai file HTM. Untuk pembacaan JSON dan penulisan HTM, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan HTM keluaran akan identik dengan dokumen JSON asli.
+Ikuti langkah mudah untuk mengkonversi JSON ke HTM. Unggah file JSON Anda, lalu simpan saja sebagai file HTM. Untuk membaca JSON dan menulis HTM Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format HTM keluaran akan sama dengan dokumen JSON asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi JSON ke HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi JSON ke HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi JSON ke HTM melalui Python" %}}
+{{% blocks/products/pf/agp/content h2="Cara Convert JSON ke HTM lewat Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -39,13 +39,13 @@ Perlu mengonversi file JSON ke HTM secara terprogram? Pengembang Python dapat de
 
 1.  Instal 'Aspose.Cells for Python via Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file JSON dengan instance Workbook.
-1.  Ubah JSON menjadi HTM dengan memanggil metode Workbook.save.
+1.  Muat file JSON dengan instance Buku Kerja.
+1.  Konversikan JSON ke HTM dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi JSON ke HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Pustaka Python untuk mengonversi JSON menjadi HTM" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk mengonversi JSON ke HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,44 +63,44 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for Python via Java" ke sistem Anda
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java adalah platform-independen API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
+ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux dan MacOS), pastikan saja sistem memiliki Java 1.8 atau lebih tinggi,[Python](https://www.python.org/downloads/) 3,5 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Instal Java dan tambahkan ke variabel lingkungan PATH, misalnya:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+-  Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) adalah format file standar terbuka untuk berbagi data yang menggunakan teks yang dapat dibaca manusia untuk menyimpan dan mengirimkan data. File JSON disimpan dengan ekstensi .json. JSON membutuhkan lebih sedikit pemformatan dan merupakan alternatif yang baik untuk XML. JSON berasal dari JavaScript tetapi merupakan format data yang bebas bahasa. Pembuatan dan penguraian JSON didukung oleh banyak bahasa pemrograman modern. application/json adalah jenis media yang digunakan untuk JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}File dengan ekstensi .htm mewakili Hypertext Markup Language untuk membuat halaman web untuk ditampilkan di browser web seperti Google Chrome, Internet Explorer, Firefox, dan sejumlah lainnya. Ini mendefinisikan markup untuk membuat halaman statis untuk dipublikasikan di World Wide Web (WWW) untuk diakses oleh orang lain. Markup ini memberi tahu browser cara menampilkan konten halaman web. Halaman tersebut dapat berisi teks biasa, gambar, hyperlink ke halaman lain, video, dan informasi media lainnya. Saat halaman web diterbitkan, Anda dapat melihat kode markup di belakangnya dengan melihat sumber halamannya. Browser modern memungkinkan untuk memeriksa setiap bagian dari halaman web di mana setiap sub-divisi atau elemen markup di sumber HTM diuraikan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) adalah format file standar terbuka untuk berbagi data yang menggunakan teks yang dapat dibaca manusia untuk menyimpan dan mengirimkan data. File JSON disimpan dengan ekstensi .json. JSON memerlukan lebih sedikit pemformatan dan merupakan alternatif yang baik untuk XML. JSON berasal dari JavaScript tetapi merupakan format data yang tidak bergantung pada bahasa. Pembuatan dan penguraian JSON didukung oleh banyak bahasa pemrograman modern. application/json adalah jenis media yang digunakan untuk JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}File dengan ekstensi .htm mewakili Hypertext Markup Language untuk membuat halaman web untuk ditampilkan di browser web seperti Google Chrome, Internet Explorer, Firefox dan sejumlah lainnya. Ini mendefinisikan markup untuk membuat halaman statis untuk dipublikasikan di World Wide Web (WWW) agar dapat diakses oleh orang lain. Markup ini memberi tahu browser cara menampilkan konten halaman web. Halaman tersebut dapat berisi teks biasa, gambar, hyperlink ke halaman lain, video dan informasi media lainnya. Saat halaman web diterbitkan, Anda dapat melihat kode markup di belakangnya dengan melihat sumber halamannya. Browser modern memungkinkan untuk memeriksa setiap bagian halaman web tempat setiap subdivisi atau elemen markup dalam sumber HTM diuraikan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi JSON ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi JSON ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-bmp/" name="JSON SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-emf/" name="JSON SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-emf/" name="JSON SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-gif/" name="JSON SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-html/" name="JSON SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-md/" name="JSON KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-md/" name="JSON KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-mhtml/" name="JSON SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-ods/" name="JSON SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-ods/" name="JSON SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-pdf/" name="JSON SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-png/" name="JSON SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-svg/" name="JSON SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-tiff/" name="JSON SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-tsv/" name="JSON SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-txt/" name="JSON SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xls/" name="JSON SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xls/" name="JSON SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsb/" name="JSON SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsm/" name="JSON SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsx/" name="JSON SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlt/" name="JSON SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltm/" name="JSON SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltx/" name="JSON SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsm/" name="JSON SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsx/" name="JSON SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlt/" name="JSON SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltm/" name="JSON SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltx/" name="JSON SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xml/" name="JSON KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xps/" name="JSON SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 

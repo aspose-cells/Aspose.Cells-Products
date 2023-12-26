@@ -2,6 +2,7 @@
 title: ロックを解除 XLSM ドキュメント via Java
 weight: 7700
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境で、パスワードで保護された XLSM ファイルのロックを解除するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM ファイルのロックを解除 via Java" h2="Java ライブラリを使用して、XLSM ファイルを含む Excel スプレッドシートから保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ Aspose.Cells for Java は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# 経由で XLSM ファイルのロックを解除する" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSM ファイルのロックを解除 via Java" offSpacer="" %}}
 
 ```cs
 
@@ -124,7 +125,7 @@ XLSM拡張子を持つファイルは、マクロをサポートするスプレ�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Java を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Javaを使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Excel バイナリ形式" >}}

@@ -1,8 +1,8 @@
 ---
 title: XLTX を POWERPOINT に結合 - XLTX を Python の POWERPOINT に結合
 url: /ja/python-java/merger/merge-xltx-to-powerpoint/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン XLTX を POWERPOINT 保存形式にマージします。 Python XLTXをPOWERPOINT形式に結合します。 XLTX を Python の POWERPOINT にマージします。 XLTX マージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT in Python., Free Online Python Merge XLTX to powerpoint., Python Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
+description: Aspose エクセル。 Python Aspose.Cells。XLTX を POWERPOINT 保存形式にマージします。 Python XLTXをPOWERPOINT形式に結合します。 XLTX を Python の POWERPOINT にマージします。 XLTX マージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT in Python., Python Merge XLTX to powerpoint., Python Combine XLTX to POWERPOINT., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX を Python 経由で POWERPOINT にマージします" h2="XLTX を POWERPOINT にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT in Pyth
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLTX を POWERPOINT にマージする" %}}
 
- XLTX を POWERPOINT にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XLTX を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+XLTX を POWERPOINT にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XLTX を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTX をオンラインで無料で Python の POWERPOINT にマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLTX を Python の POWERPOINT にマージします" %}}
 
 次の例は、XLTX を Aspose.Cells for Python via Java の POWERPOINT にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT in Pyth
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLTX をオンラインで Python の POWERPOINT に無料でマージ" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="XLTX を Python の POWERPOINT にマージするサンプル コード" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTX を経由して POWERPOINT に XLTX をマージする方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで XLTX ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

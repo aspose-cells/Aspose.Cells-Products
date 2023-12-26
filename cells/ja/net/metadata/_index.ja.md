@@ -1,6 +1,7 @@
 ---
 title: Excel ファイルのメタデータの管理 via .NET C#
 description: わずか数行の C# コードで Excel ファイルのメタデータを表示、追加、編集、削除、抽出できます。
+keywords: [C# Aspose.Cells., c# view excel metadata., c# add excel metadata., c# insert excel metadata., c# edit excel metadata., c# remove excel metadata., c# extract excel metadata., c# modify excel metadata]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルのメタデータを管理 via .NET" h2="サーバー側 .NET API を使用して、組み込みおよびカスタム Excel ファイルのプロパティを表示、追加、更新、削除、抽出します。" >}}

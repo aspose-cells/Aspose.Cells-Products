@@ -1,8 +1,8 @@
 ---
 title: PNG を XML に結合 - PNG を Java の XML に結合します
 url: /ja/java/merger/merge-png-to-xml/ 
-description: Aspose エクセル。 Java Aspose.Cells。無料オンライン PNG を XML 保存形式にマージします。 Java PNG を XML 形式に結合します。 PNG を Java の XML にマージします。 PNG マージします。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Free Online Java Merge PNG to xml., Java Combine PNG to XML Online for Free., PNG Merge]
+description: Aspose エクセル。 Java Aspose.Cells。PNG を XML 保存形式にマージします。 Java PNG を XML 形式に結合します。 PNG を Java の XML にマージします。 PNG マージします。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Java Merge PNG to xml., Java Combine PNG to XML., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG を XML via Java にマージ" h2="PNG を XML にマージするための高速 Java ライブラリ。 Excel 変換 API を使用して、Java でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Java を使用して PNG を XML にマージする" %}}
 
-PNG を XML にマージするにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に PNG を XML に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+PNG を XML にマージするにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に PNG を XML に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ PNG を XML にマージするにはどうすればよいですか? Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PNGをオンラインで無料でJavaのXMLにマージします" %}}
+{{% blocks/products/pf/agp/content h2="PNG を Java の XML にマージ" %}}
 
 次の例は、PNG を Aspose.Cells for Java の XML にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ PNG を XML にマージするにはどうすればよいですか? Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="PNGをオンラインでJavaのXMLにマージする無料" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="PNG を XML にマージするサンプルコード" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="PNG を XML via Java にマージする方法" %}}
 
@@ -79,7 +79,7 @@ Workbook クラスで PNG ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 

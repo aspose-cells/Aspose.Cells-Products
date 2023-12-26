@@ -1,8 +1,8 @@
 ---
 title: MHT を HTML に結合 - MHT を C++ に HTML に結合
 url: /ja/cpp/merger/merge-mht-to-html/ 
-description: Aspose エクセル。 C++ Aspose.Cells。無料オンライン MHT を HTML 保存形式にマージします。 C++ MHT を HTML 形式に結合します。 C++ で MHT を HTML にマージします。MHT をマージします。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to HTML in C++., Free Online C++ Merge MHT to html., C++ Combine MHT to HTML Online for Free., MHT Merge]
+description: Aspose エクセル。 C++ Aspose.Cells。MHT を HTML 保存形式にマージします。 C++ MHT を HTML 形式に結合します。 C++ で MHT を HTML にマージします。MHT をマージします。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to HTML in C++., C++ Merge MHT to html., C++ Combine MHT to HTML., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で MHT を HTML に結合します" h2="MHT を HTML にマージするための高速 C++ ライブラリ。Excel 変換 API を使用して、C++ で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to HTML in C++., Free Onl
 
 {{% blocks/products/pf/agp/content h2="C++ を使用して MHT を HTML にマージ" %}}
 
-MHT を HTML にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に MHT を HTML に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+MHT を HTML にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に MHT を HTML に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料で MHT を C++ の HTML にマージします" %}}
+{{% blocks/products/pf/agp/content h2="MHT を C++ の HTML にマージ" %}}
 
 次の例は、MHT を Aspose.Cells for C++ の HTML にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインで MHT を C++ の HTML にマージする無料" InputFormat="mht" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++ に MHT を HTML にマージするサンプルコード" InputFormat="mht" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ 経由で MHT を HTML にマージする方法" %}}
 
@@ -88,7 +88,7 @@ MHT ファイルを Workbook クラスでロードします。
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) は、ブラウザーで表示するために作成された Web ページの拡張子です。 Web の言語として知られる HTML は、Web ページの一部として表示される新しい情報要件の要件とともに進化してきました。最新の亜種は HTML 5 として知られており、この言語を使用する際の柔軟性が大幅に高まります。 HTML ページは、ホストされているサーバーから受信されるか、ローカル システムから読み込まれることもあります。各 HTML ページは、フォーム、テキスト、画像、アニメーション、リンクなどの HTML 要素で構成されています。これらの要素は、タグと、各タグに開始点と終了点があるその他のいくつかの要素によって表されます。また、全体的なレイアウト表現のために、JavaScript やスタイル シート (CSS) などのスクリプト言語で記述されたアプリケーションを埋め込むこともできます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ MHT ファイルを Workbook クラスでロードします。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-pdf/" name="MHT を PDF にマージします" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-png/" name="MHT を PNG にマージします" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-svg/" name="MHT を SVG にマージします" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tiff/" name="MHT を TIFF にマージします" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="MHT を TSV にマージします" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="MHT を TXT にマージします" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="MHT を XLS にマージします" description="Excel バイナリ形式" >}}

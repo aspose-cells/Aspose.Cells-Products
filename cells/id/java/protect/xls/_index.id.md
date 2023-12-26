@@ -1,7 +1,8 @@
 ---
-title: Lindungi dan kunci dokumen XLS via Java
+title:  Lindungi dan kunci dokumen XLS via Java
 weight: 5070
 description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+keywords: [Java Aspose.Cells., Java Lock XLS files., Java How to Protect and lock XLS document., Java Protect XLS files., Encrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Enkripsi XLS File via Java" h2="Spreadsheet Excel yang dilindungi kata sandi termasuk format XLS menggunakan Perpustakaan .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pad
 
  Untuk melindungi file XLS, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform enkripsi kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform enkripsi API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -49,7 +50,7 @@ description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pad
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Proteksi File XLS via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-Langkah Melindungi File XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -57,8 +58,8 @@ description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pad
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Muat file XLS dengan membuat instance kelas Workbook
-1.  Gunakan metode protect(..) dengan ProtectionType dan Password
+1.  Muat file XLS dengan membuat instance kelas Buku Kerja
+1.  Gunakan metode proteksi(..) dengan ProtectionType dan Kata Sandi
 1.  Simpan file XLS yang dilindungi dengan metode save()
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,7 +68,7 @@ description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pad
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java mendukung semua platform utama dan Sistem Operasi. Harap pastikan bahwa Anda memiliki prasyarat berikut.
+ Aspose.Cells for Java mendukung semua platform dan Sistem Operasi utama. Harap pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +104,7 @@ wkb.save("lockedFile.xls");
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for Java API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -111,7 +112,7 @@ wkb.save("lockedFile.xls");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLS" sectionDescription=" Periksa demo langsung kami untuk[mengenkripsi XLS file](https://products.aspose.app/cells/protect/xls) dengan manfaat sebagai berikut." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLS" sectionDescription=" Periksa demo langsung kami[mengenkripsi file XLS](https://products.aspose.app/cells/protect/xls) dengan manfaat berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLS dan tekan tombol \"Buka Kunci\"." >}}
@@ -119,7 +120,7 @@ wkb.save("lockedFile.xls");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-File dengan ekstensi XLS mewakili Format File Biner Excel. File semacam itu dapat dibuat oleh Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Buku Kerja di mana setiap buku kerja dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan rilis Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama penggunaan sekarang.
+File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat dibuat dengan Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Workbook dimana setiap workbook dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan dirilisnya Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama untuk digunakan sekarang.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,12 +128,12 @@ File dengan ekstensi XLS mewakili Format File Biner Excel. File semacam itu dapa
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan Lainnya yang Didukung" subTitle="Menggunakan Java, seseorang dapat melindungi file lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan yang Didukung Lainnya" subTitle="Menggunakan Java, seseorang dapat melindungi file lain termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

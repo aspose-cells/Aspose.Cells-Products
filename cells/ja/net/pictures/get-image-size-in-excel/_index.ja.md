@@ -2,6 +2,7 @@
 title: Excel で画像/写真のサイズを取得 via .NET
 weight: 10
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の Excel で画像/画像のサイズを取得するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel で画像/写真のサイズを取得 via .NET" h2="Aspose.Cells\' API を使用して、Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずにさまざまなオブジェクトを操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -92,7 +93,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

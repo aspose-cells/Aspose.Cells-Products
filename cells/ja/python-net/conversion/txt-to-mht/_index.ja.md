@@ -1,7 +1,7 @@
 ---
-title: Python TXT から MHT - オンライン TXT から MHT コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python TXT を MHT 保存形式に変換します。 Python TXT を MHT 形式に変換します。 TXT を MHT Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to MHT saveformat., Free Online TXT to MHT Python., Python Convert TXT to MHT]
+title: Python TXT から MHT - TXT から MHT コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、TXTをMHTにすばやく簡単に変換します。Python TXTをMHTに変換します。 Python TXT を MHT に保存します。 Python を使用して、TXT を MHT として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to MHT in Python., Save TXT to MHT using Python., Python TXT to MHT saveformat., TXT to MHT Converter., Python Save TXT as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT を Python の MHT に変換します" h2="TXT を MHT に変換するための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="TXT を Python の MHT に変換します" %}}
 
- TXTをMHTに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TXT を MHT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ TXTをMHTに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TXT を MHT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="TXTをオンラインで無料でMHTに保存します" %}}
+{{% blocks/products/pf/agp/content h2="TXT の MHT に TXT を保存" %}}
 
 次の例は、TXT を Python via NET の MHT に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TXTをオンラインでMHTに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TXTをMHTに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TXTをMHTに変換する方法" %}}
 
@@ -52,7 +52,7 @@ TXT ファイルをプログラムで MHT に変換する必要があります�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -73,7 +73,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}.TXT 拡張子を持つファイルは、行形式のプレーン テキストを含むテキスト ドキュメントを表します。テキスト文書内の段落は改行によって認識され、ファイルの内容をより適切に配置するために使用されます。標準のテキスト文書は、さまざまなオペレーティング システム上の任意のテキスト エディタまたはワード プロセッシング アプリケーションで開くことができます。このようなファイルに含まれるテキストはすべて人間が判読できる形式であり、一連の文字で表されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

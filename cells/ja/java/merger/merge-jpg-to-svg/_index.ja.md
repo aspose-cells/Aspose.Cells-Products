@@ -1,8 +1,8 @@
 ---
 title: JPG を SVG に結合 - JPG を SVG に Java に結合
 url: /ja/java/merger/merge-jpg-to-svg/ 
-description: Aspose エクセル。 Java Aspose.Cells。無料オンライン JPG を SVG 保存形式に結合します。 Java JPG を SVG 形式に結合します。 Java の SVG に JPG を結合します。JPG を結合します。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Free Online Java Merge JPG to svg., Java Combine JPG to SVG Online for Free., JPG Merge]
+description: Aspose エクセル。 Java Aspose.Cells。JPG を SVG 保存形式に結合します。 Java JPG を SVG 形式に結合します。 Java の SVG に JPG を結合します。JPG を結合します。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Java Merge JPG to svg., Java Combine JPG to SVG., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG を SVG via Java に結合" h2="JPG を SVG にマージするための高速 Java ライブラリ。Excel 変換 API を使用して、Java で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してJPGをSVGに結合" %}}
 
-JPG を SVG に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JPG を SVG に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+JPG を SVG に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JPG を SVG に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ JPG を SVG に結合するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でJPGをJavaのSVGに結合します" %}}
+{{% blocks/products/pf/agp/content h2="JPG を Java の SVG に結合" %}}
 
 次の例は、JPG を Aspose.Cells for Java の SVG に結合する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ JPG を SVG に結合するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JPGをJavaにSVGにマージする無料オンライン" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="JPGをSVGにJavaにマージするサンプルコード" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG を SVG via Java に結合する方法" %}}
 
@@ -79,7 +79,7 @@ WorkbookクラスでJPGファイルを読み込みます。
 
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +103,7 @@ WorkbookクラスでJPGファイルを読み込みます。
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG は、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力イメージは、ストレージ サイズと画質の間のトレードオフになります。ユーザーは圧縮レベルを調整して必要な品質レベルを達成しながら、同時にストレージ サイズを削減できます。 10:1 圧縮が画像に適用される場合、画像品質への影響はほとんどありません。圧縮値が高くなるほど、画質の劣化が大きくなります。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。スケーラブルという言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。 「スケーラブル」という言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,8 +1,8 @@
 ---
 title: XLT から SVG を結合 - XLT から SVG を C++ に結合
 url: /ja/cpp/merger/merge-xlt-to-svg/ 
-description: Aspose エクセル。 C++ Aspose.Cells。XLT を SVG の保存形式に無料でオンライン結合します。 C++ XLT と SVG の形式を結合します。 XLT から SVG を C++ に結合します。XLT を結合します。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SVG in C++., Free Online C++ Merge XLT to svg., C++ Combine XLT to SVG Online for Free., XLT Merge]
+description: Aspose エクセル。 C++ Aspose.Cells。XLT を SVG の保存形式にマージします。 C++ XLT と SVG の形式を結合します。 XLT から SVG を C++ に結合します。XLT を結合します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SVG in C++., C++ Merge XLT to svg., C++ Combine XLT to SVG., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT を C++ 経由で SVG に結合" h2="XLT を SVG にマージするための高速 C++ ライブラリ。Excel 変換 API を使用して、C++ で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SVG in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="C++ を使用して XLT を SVG に結合" %}}
 
-XLT を SVG に結合するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLT を SVG に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLT を SVG に結合するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLT を SVG に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLT を C++ にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="XLT を C++ に結合" %}}
 
 次の例は、XLT を Aspose.Cells for C++ の SVG にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLT を C++ にオンラインで無料でマージ" InputFormat="xlt" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="XLT から SVG を C++ にマージするサンプルコード" InputFormat="xlt" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT を C++ 経由で SVG に結合する方法" %}}
 
@@ -89,7 +89,7 @@ Workbook クラスで XLT ファイルをロードします。
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt 拡張子を持つファイルは、Microsoft Office スイートの一部として付属するスプレッドシート アプリケーションである Microsoft Excel で作成されたテンプレート ファイルです。 Microsoft Office 97-2003 では、新しい XLT ファイルの作成と、これらのファイルを開くことがサポートされていました。最新バージョンの Excel では、この古い形式のテンプレート ファイルを開くことができます。このようなテンプレート ファイルを使用すると、ページ書式設定、フォント サイズ、余白、グラフなどのデフォルト データと設定を含む新しい Excel ファイルをすばやく作成でき、新しい .xls ファイルとして保存できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。スケーラブルという言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。 「スケーラブル」という言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,6 @@ Workbook クラスで XLT ファイルをロードします。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-pdf/" name="XLT を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-png/" name="XLT を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-svg/" name="XLT を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-tiff/" name="XLT を TIFF に結合" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-tsv/" name="XLT を TSV に結合" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-txt/" name="XLT を TXT に結合" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xls/" name="XLT を XLS に結合" description="Excel バイナリ形式" >}}

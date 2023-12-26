@@ -95,7 +95,7 @@ Java 開発者は、わずか数行のコードで XLSX ファイルを PDF/A �
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX ～ PDF 変換ライブデモ" sectionDescription="[XLSX を PDF に変換します](https://products.aspose.app/cells/conversion/xlsx-to-pdf)今すぐライブ デモ Web サイトにアクセスしてください。ライブ デモには次の利点があります。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSX ファイルをアップロードするだけで、すぐに PDF に変換されます。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="XLSX ファイルをアップロードするだけで、すぐに PDF に変換されます。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="ダウンロードリンクが表示されます。" >}}
 
     {{% blocks/products/pf/agp/content h2="Java スプレッドシート操作ライブラリ" %}}

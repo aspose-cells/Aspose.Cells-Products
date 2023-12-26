@@ -1,8 +1,8 @@
 ---
 title: JPEG を OTS に結合 - JPEG を Python の OTS に結合
 url: /ja/python-java/merger/merge-jpeg-to-ots/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン JPEG を OTS 保存形式にマージします。 Python JPEG を OTS 形式に結合します。 JPEG を Python の OTS にマージします。 JPEG マージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to OTS in Python., Free Online Python Merge JPEG to ots., Python Combine JPEG to OTS Online for Free., JPEG Merge]
+description: Aspose エクセル。 Python Aspose.Cells。JPEG を OTS 保存形式にマージします。 Python JPEG を OTS 形式に結合します。 JPEG を Python の OTS にマージします。 JPEG をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to OTS in Python., Python Merge JPEG to ots., Python Combine JPEG to OTS., JPEG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEG を Python 経由で OTS にマージします" h2="JPEG を OTS にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to OTS in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Python を使用して JPEG を OTS にマージする" %}}
 
- JPEG を OTS にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を OTS に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+ JPEG を OTS にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を OTS に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEG をオンラインで無料で Python の OTS にマージします" %}}
+{{% blocks/products/pf/agp/content h2="JPEG を Python の OTS にマージします" %}}
 
 次の例は、JPEG を Aspose.Cells for Python via Java の OTS にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to OTS in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JPEG をオンラインで Python の OTS に無料でマージ" InputFormat="jpg" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="JPEG を Python の OTS にマージするサンプルコード" InputFormat="jpg" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python を経由して JPEG を OTS にマージする方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで JPEG ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

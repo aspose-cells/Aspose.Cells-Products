@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL から MHTML - オンライン EXCEL から MHTML コンバーター
-description: Aspose エクセル。 C++ Aspose.Cells. C++ Aspose Cells. 無料オンライン C++ EXCEL を MHTML 保存形式に変換します。 C++ EXCEL から MHTML 形式。 EXCEL を MHTML C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to MHTML saveformat., Free Online EXCEL to MHTML C++., C++ Convert EXCEL to MHTML]
+title: C++ EXCEL から MHTML - EXCEL から MHTML へのコンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、EXCEL を MHTML にすばやく簡単に変換します。 C++ EXCEL を MHTML に変換します。 C++ EXCEL を MHTML に保存します。 C++ を使用して、EXCEL を MHTML として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to MHTML in C++., Save EXCEL to MHTML using C++., C++ EXCEL to MHTML saveformat., EXCEL to MHTML Converter., C++ Save EXCEL as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCELをC++のMHTMLに変換します" h2="Microsoft Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用した高性能の EXCEL から MHTML への変換。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to MHT
 
 {{% blocks/products/pf/agp/content h2="C++を使用してEXCELをMHTMLに変換します" %}}
 
-EXCEL を MHTML に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に EXCEL を MHTML に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+EXCEL を MHTML に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に EXCEL を MHTML に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="EXCEL を C++ の MHTML にオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL を C++ の MHTML に保存" %}}
 
 次の例は、EXCEL を C++ の MHTML に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでEXCELをMHTMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="EXCELをMHTMLに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++経由でEXCELをMHTMLに変換する方法" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して EXCEL ファイルを読み込みます。
+1.  Workbookを使用してEXCELファイルを読み込みます。
 1.  Save() メソッドを呼び出して、EXCEL を MHTML に変換します。
 1.  EXCELからMHTMLへの変換結果を取得します。
 
@@ -101,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="エクセル PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="エクセル PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="エクセル SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="エクセル TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="エクセル TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="エクセル TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="エクセル XLS" description="Excel バイナリ形式" >}}

@@ -1,8 +1,8 @@
 ---
 title: XLSM を PRN に結合 - XLSM を PRN に結合して Python
 url: /ja/python-java/merger/merge-xlsm-to-prn/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン XLSM を PRN 保存形式にマージします。 Python XLSM を PRN 形式に結合します。 XLSM を Python の PRN にマージします。 XLSM をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to PRN in Python., Free Online Python Merge XLSM to prn., Python Combine XLSM to PRN Online for Free., XLSM Merge]
+description: Aspose エクセル。 Python Aspose.Cells。XLSM を PRN 保存形式にマージします。 Python XLSM を PRN 形式に結合します。 XLSM を Python の PRN にマージします。 XLSM をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to PRN in Python., Python Merge XLSM to prn., Python Combine XLSM to PRN., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM を Python 経由で PRN にマージします" h2="XLSM を PRN にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to PRN in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLSM を PRN にマージ" %}}
 
- XLSM を PRN にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XLSM を PRN に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+ XLSM を PRN にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XLSM を PRN に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSM をオンラインで無料で Python の PRN にマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLSM を Python の PRN にマージ" %}}
 
 次の例は、XLSM を Aspose.Cells for Python via Java の PRN にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to PRN in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSM をオンラインで Python の PRN に無料でマージ" InputFormat="xlsm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="XLSM を Python の PRN にマージするサンプルコード" InputFormat="xlsm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSM を経由して PRN に XLSM をマージする方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで XLSM ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

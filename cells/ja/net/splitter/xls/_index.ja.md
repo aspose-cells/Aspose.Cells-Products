@@ -2,6 +2,7 @@
 title: 分割 XLS ファイル via .NET
 weight: 1340
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLS ドキュメントを分割するための C# ソース コード。
+keywords: [C# Aspose.Cells., C# split xls files., C# how to split xls files into multiple files., C# xls splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS の分割 C# のフォーマット" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、サーバー側 API を使用したネイティブで高性能の XLS スプリッター。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}

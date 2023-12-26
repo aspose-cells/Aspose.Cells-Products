@@ -1,8 +1,8 @@
 ---
 title: XLS を MHT に結合 - XLS を Python の MHT に結合
 url: /ja/python-net/merger/merge-xls-to-mht/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン XLS を MHT 保存形式にマージします。 Python XLS を MHT 形式に結合します。 XLS を Python の MHT にマージします。 XLS をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MHT in Python., Free Online Python Merge XLS to mht., Python Combine XLS to MHT Online for Free., XLS Merge]
+description: Aspose エクセル。 Python Aspose.Cells。XLS を MHT 保存形式にマージします。 Python XLS を MHT 形式に結合します。 XLS を Python の MHT にマージします。 XLS をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MHT in Python., Python Merge XLS to mht., Python Combine XLS to MHT., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS を Python 経由で MHT にマージします" h2="XLS を MHT にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MHT in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLS を MHT にマージします" %}}
 
- XLS を MHT にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に XLS を MHT に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ XLS を MHT にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に XLS を MHT に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSをオンラインで無料でXLSのMHTにマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLS を Python の MHT にマージ" %}}
 
 次の例は、XLS を Aspose.Cells for Python via .NET の MHT にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MHT in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLS をオンラインで Python の MHT に無料でマージ" InputFormat="xls" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="XLS を Python の MHT にマージするサンプルコード" InputFormat="xls" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLS を経由して XLS を MHT にマージする方法" %}}
 
@@ -52,7 +52,7 @@ Workbook クラスで XLS ファイルをロードします。
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 {{% /blocks/products/pf/agp/text %}}
 
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -80,7 +80,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}拡張子が XLS のファイルは、Excel バイナリ ファイル形式を表します。このようなファイルは、Microsoft Excel だけでなく、OpenOffice Calc や Apple Numbers などの他の同様のスプレッドシート プログラムでも作成できます。Excel で保存されたファイルはワークブックとして知られており、各ワークブックには 1 つ以上のワークシートを含めることができます。データはワークシートに表形式で保存され、ユーザーに表示されます。データには、数値、テキスト データ、数式、外部データ接続、画像、グラフなどを含めることができます。 Microsoft Excel のようなアプリケーションでは、ワークブック データを、PDF、CSV、XLSX、TXT、HTML、XPS などのさまざまな形式にエクスポートできます。 XLS ファイル形式は、Microsoft Excel 2007 のリリースにより、よりオープンで構造化された形式 XLSX に置き換えられました。最新バージョンでも XLS ファイルの作成と読み取りのサポートは提供されていますが、現在は XLSX が使用の第一の選択肢です。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

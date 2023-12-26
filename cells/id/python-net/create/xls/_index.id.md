@@ -1,7 +1,7 @@
 ---
 title: Buat XLS - Buat file XLS di Python
-description: Aspose Unggul. Python Buat File XLS. Buat XLS Python. Python XLS Buat. Buat XLS di Python. Hasilkan file XLS menggunakan Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLS Python., Python XLS Creater., Create XLS file in Python., Generate XLS file in Python]
+description: Aspose Unggul. Python Buat file XLS dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file XLS menggunakan Python. Buat XLS di Python. Python XLS Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLS file., Generate XLS file in Python., Create XLS file using Python., Write data to XLS file via Python., Create a XLS file in Python., Python Generate a XLS file., Python XLS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File XLS di Python" h2="Pustaka Python berkecepatan tinggi untuk membuat file XLS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLS Python., Python XLS C
 
 {{% blocks/products/pf/agp/content h2="Buat File XLS Menggunakan Python" %}}
 
- Bagaimana cara membuat file XLS? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah membuat file XLS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara membuat file XLS? Dengan Aspose.Cells for Python melalui perpustakaan NET, Anda dapat dengan mudah membuat file XLS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,14 +21,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLS Python., Python XLS C
 
 {{% blocks/products/pf/agp/text %}}
 
- Sangat mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file XLS dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+ Mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file XLS dalam menjalankan aplikasi pelaporan berbeda untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Buat instance kelas Workbook.
+1.  Buat instance kelas Buku Kerja.
 1.  Akses lembar kerja pertama dari buku kerja.
-1.  Dapatkan sel yang diinginkan dari lembar kerja dan masukkan nilainya ke dalam sel.
-1. Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLS.
+1.  Dapatkan sel yang diinginkan pada lembar kerja dan masukkan nilainya ke dalam sel.
+1.  Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLS.
 
 {{% blocks/products/pf/agp/code-block title="Kode contoh menunjukkan cara membuat file XLS di Python." offSpacer="" %}}
 
@@ -62,11 +62,11 @@ workbook.save("output.xls")
 Kami menghosting paket Python kami di repositori PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara menginstal "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -74,7 +74,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python adalah platform-independent API dan bisa digunakan di semua platform (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux), pastikan saja sistem memiliki[Python](https://www.python.org/downloads/) 3,7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,22 +82,22 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}File dengan ekstensi XLS mewakili Format File Biner Excel. File semacam itu dapat dibuat oleh Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Buku Kerja di mana setiap buku kerja dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan rilis Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama penggunaan sekarang.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat dibuat dengan Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Workbook dimana setiap workbook dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan dirilisnya Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama untuk digunakan sekarang.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Generasi Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Pembuatan Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Legacy)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Warisan)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Buka Buku Kerja XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Buku Kerja Biner Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Spreadsheet yang diaktifkan makro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Templat 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Spreadsheet berkemampuan makro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Templat Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Templat Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Template Berkemampuan Makro Excel" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Templat Excel yang Diaktifkan Makro" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Spreadsheet Dokumen Terbuka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
 

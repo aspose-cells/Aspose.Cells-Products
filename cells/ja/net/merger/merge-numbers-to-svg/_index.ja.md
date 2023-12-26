@@ -1,8 +1,8 @@
 ---
 title: 番号を SVG に結合 - 番号を C# に結合して SVG
 url: /ja/net/merger/merge-numbers-to-svg/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン 番号を SVG 保存形式にマージします。 C# NUMBERS を SVG 形式に結合します。 NUMBERS を C# の SVG に結合します。 NUMBERS を結合します。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., Free Online C# Merge NUMBERS to svg., C# Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
+description: Aspose エクセル。 C# Aspose.Cells。数値を SVG 保存形式にマージします。 C# NUMBERS を SVG 形式に結合します。 NUMBERS を C# の SVG に結合します。 NUMBERS を結合します。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., C# Merge NUMBERS to svg., C# Combine NUMBERS to SVG., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="番号を C# 経由で SVG に結合します" h2="NUMBERS を SVG にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="C# を使用して NUMBERS を SVG に結合" %}}
 
-NUMBERS を SVG に結合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を SVG に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+NUMBERS を SVG に結合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を SVG に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でC#の番号をSVGに結合します" %}}
+{{% blocks/products/pf/agp/content h2="番号を C# の SVG に結合します" %}}
 
 次の例は、NUMBERS を Aspose.Cells for .NET の SVG にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインで番号を C# に SVG に結合するのは無料です" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# の NUMBERS を SVG にマージするサンプルコード" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# 経由で NUMBERS を SVG に結合する方法" %}}
 
@@ -88,7 +88,7 @@ Workbook クラスを使用して NUMBERS ファイルをロードします。
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers 拡張子を持つファイルはスプレッドシート ファイル タイプとして分類されるため、.xlsx ファイルに似ています。ただし、Numbers ファイルは Apple iWork Numbers スプレッドシート ソフトウェアを使用して作成されます。 Apple iWork Numbers は、iWork Productivity Suite の単体ソフトウェアです。 iWork Productivity Suite は、Windows PC で使用される Microsoft Office Suite と同等です。したがって、MacOS で利用できる Numbers も Microsoft Excel の競合製品であると言えます。同様に、Microsoft Excel の NUMBERS ファイルにも表、グラフ、数式が含まれる場合があります。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。スケーラブルという言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。 「スケーラブル」という言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

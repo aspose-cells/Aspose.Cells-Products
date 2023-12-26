@@ -2,6 +2,7 @@
 title: ロックを解除 XLSX ドキュメント via .NET
 weight: 2040
 description: .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上のパスワードで保護された XLSX ファイルのロックを解除するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSX スプレッドシートのロックを解除します" h2=".NET ライブラリを使用して XLSX から保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -120,7 +121,7 @@ XLSX は、Microsoft Office 2007 のリリースで Microsoft によって導入
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C# を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C#を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Excel バイナリ形式" >}}

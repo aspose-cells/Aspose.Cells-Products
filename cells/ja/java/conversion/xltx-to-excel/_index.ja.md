@@ -1,7 +1,7 @@
 ---
-title: Java XLTX から EXCEL - オンライン XLTX から EXCEL コンバータ
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java XLTX を EXCEL 保存形式に変換します。 Java XLTXをEXCEL形式に変換します。 XLTXをEXCEL Javaに保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to EXCEL saveformat., Free Online XLTX to EXCEL Java., Java Convert XLTX to EXCEL]
+title: Java XLTX から EXCEL - XLTX から EXCEL コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLTXをEXCELにすばやく簡単に変換します。Java XLTXをEXCELに変換します。 Java XLTXをEXCELに保存します。 Javaを使用してXLTXをEXCELとして保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to EXCEL in Java., Save XLTX to EXCEL using Java., Java XLTX to EXCEL saveformat., XLTX to EXCEL Converter., Java Save XLTX as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTXをJavaのEXCELに変換します" h2="XLTXをEXCELに変換する高速Javaライブラリ。これは、XLTX、EXCEL、および Java を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to E
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してXLTXをEXCELに変換します" %}}
 
-XLTXをEXCELに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に XLTX を EXCEL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+XLTXをEXCELに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に XLTX を EXCEL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ XLTXをEXCELに変換するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTXをオンラインで無料でEXCELに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLTX を Java の EXCEL に保存" %}}
 
 次の例は、XLTX を Java の EXCEL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ XLTXをEXCELに変換するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTXをオンラインでEXCELに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="XLTXをEXCELに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTXをEXCEL via Javaに変換する方法" %}}
 
@@ -77,7 +77,7 @@ XLTX ファイルをプログラムで EXCEL に変換する必要がありま�
 {{% blocks/products/pf/agp/content h2="Java XLTXをEXCELに変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

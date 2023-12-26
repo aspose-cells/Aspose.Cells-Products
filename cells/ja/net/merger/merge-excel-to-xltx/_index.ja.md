@@ -1,8 +1,8 @@
 ---
 title: EXCEL を XLTX に結合 - EXCEL を XLTX に C# に結合
 url: /ja/net/merger/merge-excel-to-xltx/ 
-description: Aspose エクセル。 C# Aspose.Cells. 無料オンライン EXCEL を XLTX 保存形式に結合します。 C# EXCEL を XLTX 形式に結合します。 EXCEL を C# の XLTX に結合します。EXCEL を結合します。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLTX in C#., Free Online C# Merge EXCEL to xltx., C# Combine EXCEL to XLTX Online for Free., EXCEL Merge]
+description: Aspose エクセル。 C# Aspose.Cells。EXCEL を XLTX 保存形式にマージします。 C# EXCEL を XLTX 形式に結合します。 EXCEL を C# の XLTX に結合します。EXCEL を結合します。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLTX in C#., C# Merge EXCEL to xltx., C# Combine EXCEL to XLTX., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL を C# 経由で XLTX に結合" h2="EXCEL を XLTX にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLTX in C#., Free Onl
 
 {{% blocks/products/pf/agp/content h2="C# を使用して EXCEL を XLTX に結合" %}}
 
-EXCEL を XLTX にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に EXCEL を XLTX に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+EXCEL を XLTX にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に EXCEL を XLTX に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でEXCELをC#のXLTXにマージします" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL を XLTX に C# に結合" %}}
 
 次の例は、EXCEL を Aspose.Cells for .NET の XLTX にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="EXCELをXLTXにC#にマージする無料オンライン" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="EXCELをXLTXにC#にマージするサンプルコード" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# 経由で EXCEL を XLTX にマージする方法" %}}
 

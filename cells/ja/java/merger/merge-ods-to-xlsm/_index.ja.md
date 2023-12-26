@@ -1,8 +1,8 @@
 ---
 title: ODS から XLSM を結合 - ODS から XLSM を Java に結合
 url: /ja/java/merger/merge-ods-to-xlsm/ 
-description: Aspose エクセル。 Java Aspose.Cells。ODS を XLSM の保存形式に無料でオンライン結合します。 Java ODS と XLSM の形式を結合します。 ODS から XLSM を Java に結合します。ODS を結合します。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XLSM in Java., Free Online Java Merge ODS to xlsm., Java Combine ODS to XLSM Online for Free., ODS Merge]
+description: Aspose エクセル。 Java Aspose.Cells。ODS を XLSM の保存形式にマージします。 Java ODS と XLSM の形式を結合します。 ODS から XLSM を Java に結合します。ODS を結合します。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XLSM in Java., Java Merge ODS to xlsm., Java Combine ODS to XLSM., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS を XLSM via Java に結合" h2="ODS を XLSM にマージするための高速 Java ライブラリ。Excel 変換 API を使用して、Java で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XLSM in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Java を使用して ODS を XLSM に結合" %}}
 
-ODS を XLSM に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に ODS を XLSM に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+ODS を XLSM に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に ODS を XLSM に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ ODS を XLSM に結合するにはどうすればよいですか? Aspose.Cells f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ODS を Java にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="ODS を Java に結合" %}}
 
 次の例は、ODS を Aspose.Cells for Java の XLSM にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ ODS を XLSM に結合するにはどうすればよいですか? Aspose.Cells f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="ODS を Java にオンラインで無料でマージ" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="ODS から XLSM を Java にマージするサンプルコード" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="ODS を XLSM via Java に結合する方法" %}}
 
@@ -79,7 +79,7 @@ Workbook クラスで ODS ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 

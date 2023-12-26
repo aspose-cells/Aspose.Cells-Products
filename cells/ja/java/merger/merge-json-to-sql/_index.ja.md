@@ -1,8 +1,8 @@
 ---
 title: JSON を SQL にマージ - JSON を Java の SQL に結合します
 url: /ja/java/merger/merge-json-to-sql/ 
-description: Aspose エクセル。 Java Aspose.Cells。無料オンライン JSON を SQL 保存形式にマージします。 Java JSON を SQL 形式に結合します。 JSON を Java の SQL にマージします。 JSON マージします。
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to SQL in Java., Free Online Java Merge JSON to sql., Java Combine JSON to SQL Online for Free., JSON Merge]
+description: Aspose エクセル。 Java Aspose.Cells。JSON を SQL 保存形式にマージします。 Java JSON を SQL 形式に結合します。 JSON を Java の SQL にマージします。 JSON マージします。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to SQL in Java., Java Merge JSON to sql., Java Combine JSON to SQL., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON を SQL via Java にマージ" h2="JSON を SQL にマージするための高速 Java ライブラリ。 Excel 変換 API を使用して、Java でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="SQL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to SQL in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Java を使用して JSON を SQL にマージする" %}}
 
-JSON を SQL にマージするにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JSON を SQL に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+JSON を SQL にマージするにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JSON を SQL に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ JSON を SQL にマージするにはどうすればよいですか? Aspose.Cell
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JSON をオンラインで無料で SQL にマージ" %}}
+{{% blocks/products/pf/agp/content h2="JSON を Java の SQL にマージ" %}}
 
 次の例は、JSON を Aspose.Cells for Java の SQL にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ JSON を SQL にマージするにはどうすればよいですか? Aspose.Cell
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JSON をオンラインで Java の SQL に無料でマージ" InputFormat="json" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="JSON を SQL にマージするサンプルコード Java" InputFormat="json" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JSON を SQL via Java にマージする方法" %}}
 
@@ -79,7 +79,7 @@ Workbook クラスで JSON ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 

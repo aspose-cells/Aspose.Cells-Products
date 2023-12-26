@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to SQL - オンライン IMAGE to SQL コンバーター
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java IMAGE を SQL 保存形式に変換します。 Java IMAGE を SQL 形式に変換します。画像を SQL Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to SQL saveformat., Free Online IMAGE to SQL Java., Java Convert IMAGE to SQL]
+title: Java IMAGE から SQL - IMAGE から SQL コンバータ
+description: Aspose エクセル。 Java Aspose.Cells。Java で IMAGE を SQL に変換します。Java IMAGE を SQL 保存形式に変換します。 Java IMAGE から SQL 形式へ。画像を SQL Java に保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to SQL in Java., Java IMAGE to SQL saveformat., IMAGE to SQL Java., Java Convert IMAGE to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java で IMAGE を SQL に変換" h2="IMAGE を SQL に変換するための高速 Java ライブラリ。これは、Java を使用して IMAGE、SQL、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Java を使用して IMAGE を SQL に変換する" %}}
 
-IMAGE を SQL に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に IMAGE を SQL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+IMAGE を SQL に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に IMAGE を SQL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ IMAGE を SQL に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java オンラインで画像を SQL に無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="Java で IMAGE を SQL に保存" %}}
 
 次の例は、Java で IMAGE を SQL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ IMAGE を SQL に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="IMAGE を SQL Online に変換するための無料アプリとサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="IMAGEをSQLに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="IMAGE を SQL via Java に変換する方法" %}}
 
@@ -70,14 +70,14 @@ IMAGE ファイルをプログラムで SQL に変換する必要があります
 1. ライブラリ参照を Java プロジェクトに追加します (ライブラリをインポートします)。
 1. Workbook クラスのインスタンスを使用して IMAGE ファイルを読み込みます。
 1. Workbook.save メソッドを呼び出して、IMAGE を SQL に変換します。
-1.  IMAGEからSQLへの変換結果を取得します。
+1. IMAGEからSQLへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Java IMAGE を SQL に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

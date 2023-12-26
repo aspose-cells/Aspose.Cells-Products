@@ -2,6 +2,7 @@
 title: ODS ドキュメント via Java からテキストと画像を抽出します
 weight: 4740
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の ODS ファイルからテキストと画像を抽出する Java サンプル コード。
+keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java How to Parse ODS File., Java Extract text from ODS file., Extract images from ODS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS の ODS 形式を解析する" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for Java API を使用したネイティブで高性能の ODS ドキュメント解析。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -63,7 +64,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 + getWorksheets().get メソッドを使用して必要なシートを選択します。
 + getCells() を使用して、選択したシートのすべてのセルを取得します。
 + 各セルを反復処理し、そのテキストを取得します。
-各セルの値を出力するか、StringBuilder の append() メソッドを使用して全体を表示します
++ 各セルの値を出力するか、StringBuilder の append() メソッドを使用して全体を表示します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,8 +1,8 @@
 ---
 title: OTS を MARKDOWN に結合 - OTS を C++ に MARKDOWN に結合
 url: /ja/cpp/merger/merge-ots-to-markdown/ 
-description: Aspose エクセル。 C++ Aspose.Cells。無料のオンライン OTS を MARKDOWN 保存形式にマージします。 C++ OTS を MARKDOWN 形式に結合します。 C++ で OTS を MARKDOWN にマージします。OTS マージ。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to MARKDOWN in C++., Free Online C++ Merge OTS to markdown., C++ Combine OTS to MARKDOWN Online for Free., OTS Merge]
+description: Aspose エクセル。 C++ Aspose.Cells。OTS を MARKDOWN 保存形式にマージします。 C++ OTS を MARKDOWN 形式に結合します。 C++ で OTS を MARKDOWN にマージします。OTS マージ。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to MARKDOWN in C++., C++ Merge OTS to markdown., C++ Combine OTS to MARKDOWN., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で OTS を MARKDOWN にマージします" h2="OTS を MARKDOWN にマージするための高速 C++ ライブラリ。Excel 変換 API を使用して、C++ で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to MARKDOWN in C++., Free
 
 {{% blocks/products/pf/agp/content h2="C++ を使用して OTS を MARKDOWN にマージする" %}}
 
-OTS を MARKDOWN にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に OTS を MARKDOWN に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+OTS を MARKDOWN にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に OTS を MARKDOWN に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="OTS を C++ の MARKDOWN にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="OTS を C++ の MARKDOWN にマージ" %}}
 
 次の例は、OTS を Aspose.Cells for C++ の MARKDOWN にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="OTS を C++ に無料でオンラインでマージして MARKDOWN" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="OTS を MARKDOWN に C++ にマージするサンプル コード" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ 経由で OTS を MARKDOWN にマージする方法" %}}
 
@@ -107,7 +107,6 @@ WorkbookクラスでOTSファイルを読み込みます。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-pdf/" name="OTS を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-png/" name="OTS を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-svg/" name="OTS を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tiff/" name="OTS を TIFF に結合" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="OTS を TSV に結合" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="OTS を TXT に結合" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="OTS を XLS に結合" description="Excel バイナリ形式" >}}

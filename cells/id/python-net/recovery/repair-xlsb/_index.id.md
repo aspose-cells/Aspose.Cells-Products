@@ -1,8 +1,8 @@
 ---
-title: Python Perbaiki File xlsb - Perbaiki File xlsb Online Gratis
+title: Python Perbaikan xlsb - Pulihkan dan Perbaiki File xlsb yang Rusak
 url: /id/python-net/recovery/repair-xlsb/ 
-description: Aspose Unggul. Python Aspose.Cells. Python Perbaiki file xlsb. Alat perbaikan xlsb online gratis. Perbaiki file xlsb yang rusak. Pulihkan file xlsb yang rusak dalam aplikasi Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Free Online Repair a corrupted xlsb file., Python Recover xlsb file.]
+description: Python Aspose.Cells. Perbaikan xlsb. Perbaiki file xlsb. alat pemulihan xlsb. korupsi xlsb. Pulihkan data xlsb. pemulihan file xlsb. Pulihkan file xlsb yang rusak.
+keywords: [Python Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Perbaiki file XLSB di Python" h2="Bangun aplikasi Python Anda sendiri untuk memperbaiki file xlsb menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Perbaiki File XLSB Menggunakan Python" %}}
 
-Bagaimana cara memperbaiki file xlsb? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah memperbaiki file XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python via .NET dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+ Bagaimana cara memperbaiki file xlsb? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah memperbaiki file XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat menginstal Aspose.Cells for Python via .NET dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,7 +22,7 @@ Bagaimana cara memperbaiki file xlsb? Dengan perpustakaan Aspose.Cells for Pytho
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu memperbaiki file xlsb secara terprogram? Python pengembang dapat dengan mudah memuat & memperbaiki file xlsb hanya dalam beberapa baris kode.
+Perlu memperbaiki file xlsb secara terprogram? Pengembang Python dapat dengan mudah memuat & memperbaiki file xlsb hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,18 +32,18 @@ Perlu memperbaiki file xlsb secara terprogram? Python pengembang dapat dengan mu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplikasi Gratis dan Kode Contoh untuk memperbaiki file XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Contoh Kode untuk memperbaiki file XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Perpustakaan Python untuk memperbaiki file XLSB" %}}
 
 Kami menghosting paket Python kami di repositori PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara menginstal "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -53,8 +53,8 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
  Aspose.Cells for Python didukung di semua sistem operasi utama. Pastikan Anda memiliki prasyarat berikut.
  
--  Install[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
-- Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+-  Install[Python](https://www.python.org/downloads/) 3,7 atau lebih tinggi.
+-  Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Konten dapat mencakup tabel angka, teks, atau angka dan teks yang tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Tidak seperti XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. XLSB file dapat dibaca dan ditulis lebih cepat yang membuatnya berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Bisa dibuka melalui Microsoft Office 2007 ke atas.
+Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Kontennya dapat mencakup tabel angka, teks, atau angka dan teks tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Berbeda dengan XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. File XLSB dapat dibaca dan ditulis lebih cepat sehingga berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Dapat dibuka dengan Microsoft Office 2007 keatas.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,13 +72,13 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lain yang Didukung" subTitle="Menggunakan Python, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lainnya yang Didukung" subTitle="Menggunakan Python, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Perbaikan ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Perbaikan XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Perbaikan ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Perbaikan XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Perbaikan XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Perbaikan XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Perbaikan XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

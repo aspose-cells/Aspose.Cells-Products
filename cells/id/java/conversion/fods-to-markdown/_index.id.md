@@ -1,7 +1,7 @@
 ---
-title: Java FODS ke MARKDOWN - Online FODS ke MARKDOWN Konverter
-description: Aspose Unggul. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Ubah FODS menjadi MARKDOWN saveformat. Java FODS ke format MARKDOWN. Simpan FODS ke MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Java., Java Convert FODS to MARKDOWN]
+title: Java FODS hingga MARKDOWN - FODS hingga MARKDOWN Konverter
+description: Aspose Unggul. Ubah FODS menjadi MARKDOWN dengan cepat dan mudah dengan Aspose.Cells. Java FODS menjadi MARKDOWN. Java Simpan FODS menjadi MARKDOWN. Simpan FODS sebagai 07611134 81 menggunakan Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to MARKDOWN in Java., Save FODS to MARKDOWN using Java., Java FODS to MARKDOWN saveformat., FODS to MARKDOWN Converter., Java Save FODS as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah FODS menjadi MARKDOWN di Java" h2="Pustaka Java berkecepatan tinggi untuk mengonversi FODS menjadi MARKDOWN. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor FODS, MARKDOWN, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to M
 
 {{% blocks/products/pf/agp/content h2="Ubah FODS menjadi MARKDOWN Menggunakan Java" %}}
 
-Bagaimana cara mengubah FODS menjadi MARKDOWN? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah mengonversi FODS menjadi MARKDOWN secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Bagaimana cara mengubah FODS menjadi MARKDOWN? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi FODS menjadi MARKDOWN secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,36 +45,36 @@ Bagaimana cara mengubah FODS menjadi MARKDOWN? Dengan perpustakaan Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan FODS ke MARKDOWN di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan FODS hingga MARKDOWN di Java" %}}
 
 Contoh berikut menunjukkan cara mengonversi FODS menjadi MARKDOWN di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi FODS menjadi MARKDOWN. Unggah file FODS Anda, lalu simpan sebagai file MARKDOWN. Untuk membaca FODS dan menulis MARKDOWN Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format keluaran MARKDOWN akan identik dengan dokumen asli FODS.
+Ikuti langkah mudah untuk mengonversi FODS menjadi MARKDOWN. Unggah file FODS Anda, lalu simpan sebagai file MARKDOWN. Untuk pembacaan FODS dan penulisan MARKDOWN Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format keluaran MARKDOWN akan sama dengan dokumen FODS asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi FODS menjadi MARKDOWN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi FODS menjadi MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Mengubah FODS menjadi MARKDOWN via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi FODS menjadi MARKDOWN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file FODS menjadi MARKDOWN secara terprogram? Pengembang Java dapat dengan mudah mengonversi FODS menjadi MARKDOWN hanya dalam beberapa baris kode.
+Perlu mengonversi file FODS ke MARKDOWN secara terprogram? Pengembang Java dapat dengan mudah mengonversi FODS menjadi MARKDOWN hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file FODS dengan instance kelas Workbook.
+1. Muat file FODS dengan instance kelas Buku Kerja.
 1.  Ubah FODS menjadi MARKDOWN dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi dari FODS menjadi MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengonversi FODS menjadi MARKDOWN" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengubah FODS menjadi MARKDOWN" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Kami menghosting paket Java kami di[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositori. 'Aspose.Cells for Java' adalah file JAR umum yang berisi kode byte. Silakan ikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/java/installation/) tentang cara menginstalnya ke lingkungan pengembang Java Anda.
@@ -97,33 +97,33 @@ Perlu mengonversi file FODS menjadi MARKDOWN secara terprogram? Pengembang Java 
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lain dengan Microsoft. File FODS dapat disimpan sebagai ODS menggunakan LibreOffice dan dapat dikonversi ke format lain seperti XLS dan XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}File teks yang dibuat dengan dialek bahasa Markdown disimpan dengan ekstensi file .md atau .MARKDOWN. File MD disimpan dalam format teks biasa yang menggunakan bahasa Markdown yang juga menyertakan simbol teks sebaris, yang menentukan bagaimana teks dapat diformat seperti indentasi, pemformatan tabel, font, dan header. File MD dapat dikonversi ke HTML dengan program yang disebut Markdown. Bahasa penurunan harga dirilis oleh John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ini ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lainnya dengan Microsoft. File FODS dapat disimpan sebagai ODS menggunakan LibreOffice dan dapat dikonversi ke format lain seperti XLS dan XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}File teks yang dibuat dengan dialek bahasa Markdown disimpan dengan ekstensi file .md atau .MARKDOWN. File MD disimpan dalam format teks biasa yang menggunakan bahasa Markdown yang juga menyertakan simbol teks sebaris, yang menentukan bagaimana teks dapat diformat seperti lekukan, pemformatan tabel, font, dan header. File MD dapat dikonversi ke HTML dengan program bernama Markdown. Bahasa penurunan harga dirilis oleh John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi FODS ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi FODS ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-bmp/" name="FODS SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-emf/" name="FODS SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-emf/" name="FODS SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-gif/" name="FODS SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-html/" name="FODS SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-md/" name="FODS KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-md/" name="FODS KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-mhtml/" name="FODS SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-pdf/" name="FODS SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-png/" name="FODS SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-svg/" name="FODS SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tiff/" name="FODS SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tsv/" name="FODS SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-txt/" name="FODS SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xls/" name="FODS SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xls/" name="FODS SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsb/" name="FODS SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsm/" name="FODS SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsx/" name="FODS SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlt/" name="FODS SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsm/" name="FODS SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsx/" name="FODS SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlt/" name="FODS SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xml/" name="FODS KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-json/" name="FODS SAMPAI JSON" description="Notasi Objek JavaScript" >}}

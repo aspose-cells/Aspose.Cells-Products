@@ -1,8 +1,8 @@
 ---
 title: SXC を POWERPOINT に結合 - SXC を Python の POWERPOINT に結合
 url: /ja/python-net/merger/merge-sxc-to-powerpoint/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン SXC を POWERPOINT 保存形式にマージします。 Python SXCをPOWERPOINT形式に結合します。 SXC を Python の POWERPOINT にマージします。 SXC マージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Python., Free Online Python Merge SXC to powerpoint., Python Combine SXC to POWERPOINT Online for Free., SXC Merge]
+description: Aspose エクセル。 Python Aspose.Cells。SXC を POWERPOINT 保存形式にマージします。 Python SXCをPOWERPOINT形式に結合します。 SXC を Python の POWERPOINT にマージします。 SXC マージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Python., Python Merge SXC to powerpoint., Python Combine SXC to POWERPOINT., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC を Python 経由で POWERPOINT にマージします" h2="SXC を POWERPOINT にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Pytho
 
 {{% blocks/products/pf/agp/content h2="Python を使用して SXC を POWERPOINT にマージする" %}}
 
- SXC を POWERPOINT にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に SXC を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+SXC を POWERPOINT にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に SXC を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="SXC をオンラインで無料で Python の POWERPOINT にマージします" %}}
+{{% blocks/products/pf/agp/content h2="SXC を Python の POWERPOINT にマージします" %}}
 
 次の例は、SXC を Aspose.Cells for Python via .NET の POWERPOINT にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Pytho
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="SXC をオンラインで Python の POWERPOINT に無料でマージ" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="SXC を Python の POWERPOINT にマージするサンプル コード" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC を経由して POWERPOINT に SXC をマージする方法" %}}
 
@@ -52,7 +52,7 @@ Workbook クラスで SXC ファイルをロードします。
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 {{% /blocks/products/pf/agp/text %}}
 
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

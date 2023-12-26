@@ -1,7 +1,7 @@
 ---
-title: C++ XML から MD - オンライン XML から MD コンバーター
-description: Aspose エクセル。 C++ Aspose.Cells. C++ Aspose Cells. 無料オンライン C++ XML を MD 保存形式に変換します。 C++ XML から MD 形式へ。 XML を MD C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to MD saveformat., Free Online XML to MD C++., C++ Convert XML to MD]
+title: C++ XML から MD - XML から MD コンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、XML を MD にすばやく簡単に変換します。 C++ XML から MD。 C++ XML を MD に保存します。 C++ を使用して XML を MD として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to MD in C++., Save XML to MD using C++., C++ XML to MD saveformat., XML to MD Converter., C++ Save XML as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++でXMLをMDに変換" h2="C++ Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用した高性能 XML から MD への変換。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to MD sa
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXMLをMDに変換します" %}}
 
-XML を MD に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XML を MD に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XML を MD に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XML を MD に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料で XML を C++ の MD に保存します" %}}
+{{% blocks/products/pf/agp/content h2="XML を C++ で MD に保存" %}}
 
 次の例は、C++ で XML を MD に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXMLをMDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XML を MD に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ 経由で XML を MD に変換する方法" %}}
 
@@ -49,7 +49,7 @@ XML ファイルをプログラムで MD に変換する必要がありますか
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して XML ファイルを読み込みます。
+1. Workbookを使用してXMLファイルを読み込みます。
 1.  Save() メソッドを呼び出して XML を MD に変換します。
 1.  XMLからMDへの変換結果を取得します。
 
@@ -101,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-pdf/" name="XML TO PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-png/" name="XML TO PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-svg/" name="XML TO SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tiff/" name="XML TO TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tsv/" name="XML TO TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-txt/" name="XML TO TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xls/" name="XML TO XLS" description="Excel バイナリ形式" >}}

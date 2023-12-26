@@ -1,7 +1,7 @@
 ---
-title: Java MHTML から SVG - オンライン MHTML から SVG コンバータ
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java MHTML を SVG 保存形式に変換します。 Java MHTML ～ SVG の形式。 MHTML から SVG Java を保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to SVG saveformat., Free Online MHTML to SVG Java., Java Convert MHTML to SVG]
+title: Java MHTML ～ SVG - MHTML ～ SVG コンバータ
+description: Aspose エクセル。 MHTML を Aspose.Cells ですばやく簡単に SVG に変換します。 Java MHTML から SVG に変換します。 Java MHTML を SVG に保存します。 MHTML を 07611134 として保存しますJavaを使用して81。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to SVG in Java., Save MHTML to SVG using Java., Java MHTML to SVG saveformat., MHTML to SVG Converter., Java Save MHTML as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を Java の SVG に変換します" h2="MHTML を SVG に変換するための高速 Java ライブラリ。これは、MHTML、SVG、および Java を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Java を使用して MHTML を SVG に変換します" %}}
 
-MHTML を SVG に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を SVG に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+MHTML を SVG に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を SVG に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ MHTML を SVG に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java に MHTML から SVG をオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="MHTML を Java に保存" %}}
 
 次の例は、MHTML を Java の SVG に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ MHTML を SVG に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでMHTMLをSVGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="MHTML を SVG に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML を SVG via Java に変換する方法" %}}
 
@@ -77,7 +77,7 @@ MHTML ファイルをプログラムで SVG に変換する必要があります
 {{% blocks/products/pf/agp/content h2="Java を MHTML に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -98,7 +98,7 @@ MHTML ファイルをプログラムで SVG に変換する必要があります
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}拡張子が MHTML のファイルは、さまざまなアプリケーションで作成できる Web ページのアーカイブ形式を表します。この形式は、Web HTML コードと関連リソースを 1 つのファイルに保存するため、アーカイブ形式として知られています。これらのリソースには、画像、アプレット、アニメーション、オーディオ ファイルなど、Web ページにリンクされているあらゆるものが含まれます。 MHTML ファイルは、Internet Explorer や Microsoft Word などのさまざまなアプリケーションで開くことができます。 Microsoft Windows は、Windows 上のアプリケーションの使用中に観察された、問題を引き起こす問題のシナリオを記録するために MHTML ファイル形式を使用します。 MHTML ファイル形式は、プレーン テキストの電子メール関連仕様である message/rfc822 で定義されている仕様と同様のページ コンテンツをエンコードします。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。スケーラブルという言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}SVG ファイルは、画像の外観を記述するために XML ベースのテキスト形式を使用するスカラー ベクター グラフィックス ファイルです。 「スケーラブル」という言葉は、SVG を品質を損なうことなくさまざまなサイズに拡張できるという事実を指します。このようなファイルはテキストベースで記述されているため、解像度に依存しません。これは、スケーラビリティを実現するために Web サイトや印刷グラフィックを構築するために最もよく使用される形式の 1 つです。ただし、この形式は 2 次元グラフィックスにのみ使用できます。 SVG ファイルは、Chrome、Internet Explorer、Firefox、Safari などのほとんどすべての最新ブラウザで表示したり開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

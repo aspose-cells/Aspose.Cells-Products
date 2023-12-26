@@ -1,7 +1,8 @@
 ---
-title:  XLSM 注釈 via .NET を削除
+title:  XLSM 注釈 via .NET を追加または削除します
 weight: 9890
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLSM 形式の注釈を追加および削除するための C# ソース コード。
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM から C# への注釈の追加または削除" h2="独自の .NET アプリを構築し、サーバー側 API を使用してドキュメント ファイル内のコメントと作成者を操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

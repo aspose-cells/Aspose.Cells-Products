@@ -1,8 +1,8 @@
 ---
 title: HTM を XLTX に結合 - HTM を Python に XLTX に結合
 url: /ja/python-net/merger/merge-htm-to-xltx/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン HTM を XLTX 保存形式にマージします。 Python HTM を XLTX 形式に結合します。 HTM を Python の XLTX にマージします。HTM をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Free Online Python Merge HTM to xltx., Python Combine HTM to XLTX Online for Free., HTM Merge]
+description: Aspose エクセル。 Python Aspose.Cells。HTM を XLTX 保存形式にマージします。 Python HTM を XLTX 形式に結合します。 HTM を Python の XLTX にマージします。HTM をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Python Merge HTM to xltx., Python Combine HTM to XLTX., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python を介して HTM を XLTX に結合します" h2="HTM を XLTX にマージするための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Python を使用して HTM を XLTX にマージ" %}}
 
- HTM を XLTX にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に HTM を XLTX に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ HTM を XLTX にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に HTM を XLTX に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="HTM を Python の XLTX にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="HTM を Python の XLTX に結合" %}}
 
 次の例は、HTM を Aspose.Cells for Python via .NET の XLTX にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインで HTM を XLTX に Python にマージする無料" InputFormat="htm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Python に HTM を XLTX にマージするサンプルコード" InputFormat="htm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で HTM を XLTX にマージする方法" %}}
 
@@ -52,7 +52,7 @@ WorkbookクラスでHTMファイルを読み込みます。
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 {{% /blocks/products/pf/agp/text %}}
 
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

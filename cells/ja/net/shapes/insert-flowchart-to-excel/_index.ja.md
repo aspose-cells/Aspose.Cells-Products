@@ -1,7 +1,8 @@
 ---
 title:  Excel へのフローチャートの挿入/作成 via .NET
 weight: 371
-description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の Excel にフローチャートを挿入/作成するための C# ソース コード。
+description: C# .NET ライブラリを使用して Excel にフローチャートを追加または挿入するサンプル コード。このコードを使用して、VB.NET、Asp.NET、または .NET ベースのアプリケーション内の MS Excel でフローチャートを作成します。
+keywords: [C# Aspose.Cells., c# add FlowChart., c# insert FlowChart., c# create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel へのフローチャートの挿入/作成 via .NET" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用してフローチャートを挿入/作成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -105,7 +106,7 @@ AutoShapeType.FlowChartProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/predefined_process.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChart事前定義済みプロセス
+ AutoShapeType.FlowChart事前定義済みプロセス
     </p>
    </div>
    <div class="col-lg-4">
@@ -237,13 +238,13 @@ AutoShapeType.FlowChartSummingJunction
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/direct_access_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartDirectAccessStorage
+ AutoShapeType.FlowChartDirectAccessStorage
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/display.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartDisplay
+AutoShapeType.FlowChartDisplay
     </p>
    </div>
   </div>
@@ -259,7 +260,7 @@ AutoShapeType.FlowChartDirectAccessStorage
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

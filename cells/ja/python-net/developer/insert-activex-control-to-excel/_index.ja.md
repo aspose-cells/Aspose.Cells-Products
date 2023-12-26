@@ -2,6 +2,7 @@
 title: Python via .Net を使用して ActiveX コントロールを Excel に挿入する
 weight: 10
 description: Python via ActiveX コントロールを Excel に挿入するための .Net ソース コード。
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ActiveX Control into Excel., Python via .Net insert ActiveX Control into Excel., Python via .Net create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via .Net を使用して ActiveX コントロールを Excel に挿入する" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、サーバー側 API を使用してオブジェクトを挿入します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

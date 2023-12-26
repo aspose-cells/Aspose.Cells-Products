@@ -1,8 +1,8 @@
 ---
 title: XLSM から XLTM を結合 - XLSM から XLTM を C# に結合
 url: /ja/net/merger/merge-xlsm-to-xltm/ 
-description: Aspose エクセル。 C# Aspose.Cells。XLSM を XLTM の保存形式に無料でオンライン結合します。 C# XLSM と XLTM の形式を結合します。 XLSM から XLTM を C# に結合します。XLSM を結合します。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTM in C#., Free Online C# Merge XLSM to xltm., C# Combine XLSM to XLTM Online for Free., XLSM Merge]
+description: Aspose エクセル。 C# Aspose.Cells。XLSM を XLTM の保存形式にマージします。 C# XLSM と XLTM の形式を結合します。 XLSM から XLTM を C# に結合します。XLSM を結合します。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTM in C#., C# Merge XLSM to xltm., C# Combine XLSM to XLTM., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM を C# 経由で XLTM に結合" h2="XLSM を XLTM にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTM in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="C# を使用して XLSM を XLTM に結合" %}}
 
-XLSM を XLTM に結合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSM を XLTM に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSM を XLTM に結合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSM を XLTM に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSM を C# にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="XLSM を C# に結合" %}}
 
 次の例は、XLSM を Aspose.Cells for .NET の XLTM にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSM を C# にオンラインで無料でマージ" InputFormat="xlsm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="XLSM から XLTM を C# にマージするサンプルコード" InputFormat="xlsm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSM を C# 経由で XLTM に結合する方法" %}}
 

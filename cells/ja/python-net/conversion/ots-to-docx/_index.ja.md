@@ -1,7 +1,7 @@
 ---
-title: Python OTS から DOCX - オンライン OTS から DOCX コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python OTS を DOCX 保存形式に変換します。 Python OTS から DOCX 形式。 OTS を DOCX Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to DOCX saveformat., Free Online OTS to DOCX Python., Python Convert OTS to DOCX]
+title: Python OTS から DOCX - OTS から DOCX へのコンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、OTS を DOCX にすばやく簡単に変換します。 Python OTS を DOCX に変換します。 Python OTS を DOCX に保存します。 Python を使用して、OTS を DOCX として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to DOCX in Python., Save OTS to DOCX using Python., Python OTS to DOCX saveformat., OTS to DOCX Converter., Python Save OTS as DOCX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS を Python の DOCX に変換します" h2="OTS を DOCX に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="OTS を Python の DOCX に変換します" %}}
 
- OTS を DOCX に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に OTS を DOCX に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ OTS を DOCX に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に OTS を DOCX に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でOTSをPythonのDOCXに保存します" %}}
+{{% blocks/products/pf/agp/content h2="OTS を Python の DOCX に保存します" %}}
 
 次の例は、OTS を Python via NET の DOCX に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ OTS を DOCX に変換するには、簡単な手順に従ってください。O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでOTSをDOCXに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="OTS を DOCX に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTSをDOCXに変換する方法" %}}
 
@@ -52,7 +52,7 @@ OTS ファイルをプログラムで DOCX に変換する必要があります�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

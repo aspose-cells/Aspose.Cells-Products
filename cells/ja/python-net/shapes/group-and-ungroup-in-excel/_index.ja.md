@@ -2,6 +2,7 @@
 title: Python via .Net を使用して Excel で図形をグループ化およびグループ解除する
 weight: 360
 description: Aspose.Cells や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells' Python via .Net API を使用してオブジェクトをグループ化およびグループ解除します。
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via .Net を使用して Excel で図形をグループ化およびグループ解除する" h2="Aspose.Cells\' API を使用して、Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずにさまざまなオブジェクトを操作します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -73,7 +74,7 @@ Workbook オブジェクトをインスタンス化します。(または -> XLS
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

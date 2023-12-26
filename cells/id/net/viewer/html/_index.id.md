@@ -1,6 +1,7 @@
 ---
-title:  Lihat Format File HTML via .NET
-description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen HTML pada Framework .NET, .NET Core, Windows Azure, Mono atau Platform Xamarin.
+title:  Lihat HTML Format File via .NET
+description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen HTML pada .NET Framework, .NET Core, Windows Azure, Mono atau Platform Xamarin.
+keywords: [C# Aspose.Cells., c# view HTML files., c# how to render HTML document., c# load and display HTML files., HTML File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML Penampil File for .NET" h2="Lihat spreadsheet Excel & OpenOffice seperti HTML tanpa memerlukan Microsoft Excel atau Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -10,9 +11,9 @@ description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen HTML
 
 {{% blocks/products/pf/agp/content h2="Cara Melihat File HTML Menggunakan C#" %}}
 
- Untuk melihat file HTML, kami akan menggunakan<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API yang kaya fitur, kuat, dan mudah digunakan API untuk platform C# untuk digunakan dengan Penampil apa pun. Membuka<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> manajer paket, cari<b>Aspose.Cells</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk melihat file HTML, kami akan menggunakan<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API yang merupakan API yang kaya fitur, kuat, dan mudah digunakan untuk platform C# untuk digunakan dengan Penampil mana pun. Membuka<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> manajer paket, cari<b>Aspose.Cells</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Perintah Konsol Pengelola Paket" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
 ```cs
 
@@ -34,8 +35,8 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file HTML dalam contoh Workbook
-1. Buat instance HtmlSaveOptions & setel properti ExportHeadings ke true
+1. Muat file HTML dalam contoh Buku Kerja
+1. Buat instance HtmlSaveOptions & setel properti EksporHeadings ke true
 1. Simpan file HTML dalam format HTML menggunakan metode Workbook.Save
 1. Muat resultan HTML di browser default dengan Process.Start
 
@@ -56,7 +57,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# contoh kode untuk melihat file HTML" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Contoh kode C# untuk melihat file HTML" offSpacer="" %}}
 
 ```cs
 
@@ -87,7 +88,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -95,14 +96,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat HTML" sectionDescription=" Periksa demo langsung kami untuk[Lihat HTML](https://products.aspose.app/cells/viewer/html) dengan manfaat sebagai berikut." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat HTML" sectionDescription=" Periksa demo langsung kami[Lihat HTML](https://products.aspose.app/cells/viewer/html) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file HTML dan tekan tombol \"Lihat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file HTML dari tautan, jika diperlukan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan persyaratan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. HTML halaman diterima dari server, tempat ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, tautan, dll. Elemen ini diwakili oleh tag seperti img, a, p dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa scripting seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.
+HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan kebutuhan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. Halaman HTML diterima dari server, tempat halaman ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti form, teks, gambar, animasi, link, dll. Elemen tersebut diwakili oleh tag seperti img, a, p dan beberapa lainnya yang mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa skrip seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

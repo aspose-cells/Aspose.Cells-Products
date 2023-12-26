@@ -1,7 +1,7 @@
 ---
-title: Python XLS から EXCEL - オンライン XLS から EXCEL コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLS を EXCEL 保存形式に変換します。 Python XLSをEXCEL形式に変換します。 XLSをEXCEL Pythonに保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to EXCEL saveformat., Free Online XLS to EXCEL Python., Python Convert XLS to EXCEL]
+title: Python XLS から EXCEL - XLS から EXCEL コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLSをEXCELにすばやく簡単に変換します。Python XLSをEXCELに変換します。 Python XLSをEXCELに保存します。 Pythonを使用してXLSをEXCELとして保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to EXCEL in Python., Save XLS to EXCEL using Python., Python XLS to EXCEL saveformat., XLS to EXCEL Converter., Python Save XLS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSをPythonのEXCELに変換します" h2="XLSをEXCELに変換する高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="XLSをPythonのEXCELに変換します" %}}
 
- XLSをEXCELに変換するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLS を EXCEL に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ XLSをEXCELに変換するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLS を EXCEL に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="XLSをオンラインで無料でEXCELに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLS を Python の EXCEL に保存" %}}
 
 次の例は、XLS を Python via NET の EXCEL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSをオンラインでEXCELに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSをEXCELに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSをEXCELに変換する方法" %}}
 
@@ -52,7 +52,7 @@ XLS ファイルをプログラムで EXCEL に変換する必要があります
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

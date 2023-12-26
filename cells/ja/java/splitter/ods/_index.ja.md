@@ -2,6 +2,7 @@
 title: 分割 ODS ファイル via Java
 weight: 1950
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーションの Java ランタイム環境で ODS ドキュメントを分割する Java サンプル コード。
+keywords: [Java Aspose.Cells., Java split ods files., Java how to split ods files into multiple files., Java ods splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="分割 ODS ファイル via Java" h2="サーバー側の Java ライブラリを使用して ODS を分割します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

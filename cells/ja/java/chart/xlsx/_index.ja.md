@@ -1,7 +1,8 @@
 ---
-title: XLSX 文書チャート via Java
+title:  XLSX 文書チャート via Java
 weight: 5380
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境上の XLSX ファイルにチャートまたはダイアグラムを描画および変換するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsx., Java Save chart to image in xlsx., Java chart to image in xlsx., xlsx convert chart to image in Java., xlsx save chart to imagein Java., xlsx chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX Java でグラフをフォーマットします" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for Java API を使用したネイティブで高パフォーマンスの XLSX ドキュメント チャート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: JSP/JSF アプリケーションおよびデスクトップ アプ�
 
 {{% blocks/products/pf/agp/content h2="Java を使用して XLSX ファイル チャートを作成する方法" %}}
 
- XLSX ファイル チャートを作成するには、次を使用します。
+XLSX ファイル チャートを作成するには、次を使用します。
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API は、機能が豊富で強力で使いやすいチャート API for Java プラットフォームです。最新バージョンはから直接ダウンロードできます。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ API はわずか数行のコードで実行できます。
 + サンプル値をセルに追加します。
 + ワークシートにグラフを追加します。
 + 新しく追加されたチャートのインスタンスにアクセスします。
-チャートのデータソースを範囲として設定します。
++ チャートのデータソースを範囲として設定します。
 + ワークブックを保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

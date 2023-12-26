@@ -2,6 +2,7 @@
 title: Python via Java を使用して Excel で画像/写真のサイズを取得する
 weight: 10
 description: Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells' Python via Java API を使用して Excel の画像/写真のサイズを取得します。
+keywords: [Python via Java Aspose.Cells., Python via Java Get Images/Pictures Size In Excel., Python via Java Obtain Images/Pictures Size In Excel., Python via Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via Java を使用して Excel で画像/写真のサイズを取得する" h2="Aspose.Cells\' API を使用して、Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずにさまざまなオブジェクトを操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -53,7 +54,7 @@ API は、機能が豊富で強力で使いやすいドキュメント操作 API
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -95,7 +96,7 @@ Aspose.Cells API クロスプラットフォーム アプリケーションを�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

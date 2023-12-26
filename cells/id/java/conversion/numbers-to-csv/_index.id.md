@@ -1,7 +1,7 @@
 ---
-title: Java NOMOR ke CSV - NOMOR Online ke CSV Converter
-description: Aspose Unggul. Java Aspose.Cells. Java Aspose Cells. Online Gratis Java Ubah ANGKA menjadi format simpan CSV. format Java ANGKA ke CSV. Simpan NOMOR ke CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to CSV saveformat., Free Online NUMBERS to CSV Java., Java Convert NUMBERS to CSV]
+title: Java ANGKA ke CSV - Konverter ANGKA ke CSV
+description: Aspose Unggul. Ubah ANGKA menjadi CSV dengan cepat dan mudah menggunakan Aspose.Cells. Java ANGKA menjadi CSV. Java Simpan ANGKA menjadi CSV. Simpan ANGKA sebagai CSV menggunakan Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to CSV in Java., Save NUMBERS to CSV using Java., Java NUMBERS to CSV saveformat., NUMBERS to CSV Converter., Java Save NUMBERS as CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah ANGKA menjadi CSV di Java" h2="Pustaka Java berkecepatan tinggi untuk mengonversi ANGKA menjadi CSV. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor ANGKA, CSV, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Ubah ANGKA menjadi CSV Menggunakan Java" %}}
 
- Bagaimana cara mengubah ANGKA menjadi CSV? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengubah ANGKA menjadi CSV secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara mengubah ANGKA menjadi CSV? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi ANGKA menjadi CSV secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,30 +45,30 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan NOMOR ke CSV di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan NOMOR ke CSV di Java" %}}
 
-Contoh berikut menunjukkan cara mengonversi ANGKA menjadi CSV di Java.
+Contoh berikut menunjukkan cara mengonversi ANGKA ke CSV di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi ANGKA menjadi CSV. Unggah file ANGKA Anda, lalu simpan sebagai file CSV. Untuk membaca ANGKA dan menulis CSV Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format output CSV akan identik dengan dokumen ANGKA asli.
+Ikuti langkah mudah untuk mengonversi ANGKA menjadi CSV. Unggah file ANGKA Anda, lalu simpan sebagai file CSV. Untuk pembacaan ANGKA dan penulisan CSV Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format keluaran CSV akan sama dengan dokumen NUMBER asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi ANGKA ke CSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi ANGKA menjadi CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="csv" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Mengubah ANGKA menjadi CSV via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi ANGKA menjadi CSV via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file NUMBERS ke CSV secara terprogram? Pengembang Java dapat dengan mudah mengubah ANGKA menjadi CSV hanya dalam beberapa baris kode.
+Perlu mengonversi file ANGKA ke CSV secara terprogram? Pengembang Java dapat dengan mudah mengonversi ANGKA menjadi CSV hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file NUMBERS dengan instance kelas Workbook.
+1.  Muat file ANGKA dengan turunan kelas Buku Kerja.
 1.  Ubah ANGKA menjadi CSV dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi ANGKA menjadi CSV.
 
@@ -97,34 +97,34 @@ Perlu mengonversi file NUMBERS ke CSV secara terprogram? Pengembang Java dapat d
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}File dengan ekstensi .numbers diklasifikasikan sebagai jenis file spreadsheet, oleh karena itu mirip dengan file .xlsx; tetapi file Numbers dibuat dengan menggunakan perangkat lunak spreadsheet Apple iWork Numbers. Apple iWork Numbers adalah unit perangkat lunak dari iWork Productivity Suite. Suite Produktivitas iWork setara dengan Office Suite Microsoft yang digunakan pada PC Windows. Oleh karena itu, kita dapat mengatakan bahwa Numbers yang tersedia untuk MacOS juga merupakan pesaing dari Microsoft Excel. Demikian pula, Microsoft Excel, file ANGKA juga dapat berisi tabel, bagan, dan rumus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}File dengan ekstensi .csv (Comma Separated Values) mewakili file teks biasa yang berisi rekaman data dengan nilai yang dipisahkan koma. Setiap baris dalam file CSV adalah record baru dari sekumpulan record yang terdapat dalam file. File semacam itu dihasilkan saat transfer data dimaksudkan dari satu sistem penyimpanan ke sistem penyimpanan lainnya. Karena semua aplikasi dapat mengenali record yang dipisahkan dengan koma, impor file data tersebut ke database dapat dilakukan dengan sangat mudah. Hampir semua aplikasi spreadsheet seperti Microsoft Excel atau OpenOffice Calc dapat mengimpor CSV tanpa banyak usaha. Data yang diimpor dari file tersebut diatur dalam sel spreadsheet untuk direpresentasikan ke pengguna.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} File dengan ekstensi .numbers diklasifikasikan sebagai jenis file spreadsheet, oleh karena itu mirip dengan file .xlsx; tetapi file Numbers dibuat dengan menggunakan perangkat lunak spreadsheet Apple iWork Numbers. Apple iWork Numbers adalah perangkat lunak unit dari iWork Productivity Suite. iWork Productivity Suite setara dengan Office Suite Microsoft yang digunakan pada PC Windows. Oleh karena itu, dapat dikatakan Numbers yang tersedia untuk MacOS juga merupakan pesaing Microsoft Excel. Begitu pula dengan Microsoft Excel, file ANGKA juga dapat berisi tabel, bagan, dan rumus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}File dengan ekstensi .csv (Comma Separated Values) mewakili file teks biasa yang berisi catatan data dengan nilai yang dipisahkan koma. Setiap baris dalam file CSV adalah catatan baru dari kumpulan catatan yang terdapat dalam file tersebut. File tersebut dihasilkan ketika transfer data dimaksudkan dari satu sistem penyimpanan ke sistem penyimpanan lainnya. Karena semua aplikasi dapat mengenali catatan yang dipisahkan dengan koma, impor file data tersebut ke database dilakukan dengan sangat mudah. Hampir semua aplikasi spreadsheet seperti Microsoft Excel atau OpenOffice Calc dapat mengimpor CSV tanpa banyak usaha. Data yang diimpor dari file tersebut disusun dalam sel spreadsheet untuk direpresentasikan kepada pengguna.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi ANGKA ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi ANGKA ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-bmp/" name="NOMOR KE BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-emf/" name="NOMOR KE EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-emf/" name="NOMOR KE EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-gif/" name="NOMOR KE GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-html/" name="NOMOR KE HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-md/" name="NOMOR KE MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-md/" name="ANGKA KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-mhtml/" name="NOMOR KE MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-ods/" name="NOMOR KE ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-ods/" name="NOMOR KE ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-pdf/" name="NOMOR KE PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-png/" name="NOMOR KE PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-svg/" name="NOMOR KE SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-tiff/" name="NOMOR KE TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-tsv/" name="NOMOR KE TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-txt/" name="NOMOR KE TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xls/" name="NOMOR KE XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xls/" name="NOMOR KE XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlsb/" name="NOMOR KE XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlsm/" name="NOMOR KE XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlsx/" name="NOMOR KE XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlt/" name="NOMOR KE XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xltm/" name="NOMOR KE XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xltx/" name="NOMOR KE XLTX" description="Templat Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xml/" name="ANGKA UNTUK XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlsm/" name="NOMOR KE XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlsx/" name="NOMOR KE XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xlt/" name="NOMOR KE XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xltm/" name="NOMOR KE XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xltx/" name="NOMOR KE XLTX" description="Templat Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xml/" name="ANGKA KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-xps/" name="NOMOR KE XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-json/" name="NOMOR KE JSON" description="Notasi Objek JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/numbers-to-jpeg/" name="NOMOR KE JPEG" description="JPEG Gambar" >}}

@@ -1,7 +1,7 @@
 ---
-title: C++ MHTML から MHT - オンライン MHTML から MHT コンバータ
-description: Aspose エクセル。 C++ Aspose.Cells. C++ Aspose Cells. 無料オンライン C++ MHTML を MHT 保存形式に変換します。 C++ MHTML を MHT 形式に変換します。 MHTML を MHT C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHTML to MHT saveformat., Free Online MHTML to MHT C++., C++ Convert MHTML to MHT]
+title: C++ MHTML から MHT - MHTML から MHT コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、MHTMLをMHTにすばやく簡単に変換します。C++ MHTMLをMHTに変換します。 C++ MHTML を MHT に保存します。 C++ を使用して、MHTML を MHT として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to MHT in C++., Save MHTML to MHT using C++., C++ MHTML to MHT saveformat., MHTML to MHT Converter., C++ Save MHTML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を C++ の MHT に変換します" h2="Microsoft Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用して MHTML から MHT への高性能変換を行います。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHTML to MHT
 
 {{% blocks/products/pf/agp/content h2="C++を使用してMHTMLをMHTに変換します" %}}
 
-MHTMLをMHTに変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に MHTML を MHT に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+MHTMLをMHTに変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に MHTML を MHT に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHTMLをオンラインで無料でMHTに保存します" %}}
+{{% blocks/products/pf/agp/content h2="MHTML の MHT に MHTML を保存" %}}
 
 次の例は、MHTML を C++ の MHT に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="MHTMLをオンラインでMHTに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="MHTMLをMHTに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML経由でMHTMLをMHTに変換する方法" %}}
 
@@ -49,7 +49,7 @@ MHTML ファイルをプログラムで MHT に変換する必要があります
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して MHTML ファイルを読み込みます。
+1. ワークブックを使用して MHTML ファイルをロードします。
 1.  Save() メソッドを呼び出して、MHTML を MHT に変換します。
 1.  MHTMLからMHTへの変換結果を取得します。
 
@@ -85,7 +85,7 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}拡張子が MHTML のファイルは、さまざまなアプリケーションで作成できる Web ページのアーカイブ形式を表します。この形式は、Web HTML コードと関連リソースを 1 つのファイルに保存するため、アーカイブ形式として知られています。これらのリソースには、画像、アプレット、アニメーション、オーディオ ファイルなど、Web ページにリンクされているあらゆるものが含まれます。 MHTML ファイルは、Internet Explorer や Microsoft Word などのさまざまなアプリケーションで開くことができます。 Microsoft Windows は、Windows 上のアプリケーションの使用中に観察された、問題を引き起こす問題のシナリオを記録するために MHTML ファイル形式を使用します。 MHTML ファイル形式は、プレーン テキストの電子メール関連仕様である message/rfc822 で定義されている仕様と同様のページ コンテンツをエンコードします。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-pdf/" name="MHTML から PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-png/" name="MHTML から PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-svg/" name="MHTML から SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tiff/" name="MHTML から TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tsv/" name="MHTML から TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-txt/" name="MHTML から TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-xls/" name="MHTML から XLS" description="Excel バイナリ形式" >}}

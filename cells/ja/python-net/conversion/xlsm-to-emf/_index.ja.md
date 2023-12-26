@@ -1,7 +1,7 @@
 ---
-title: Python XLSM から EMF - オンライン XLSM から EMF コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLSM を EMF 保存形式に変換します。 Python XLSM ～ EMF の形式。 XLSM から EMF Python を保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to EMF saveformat., Free Online XLSM to EMF Python., Python Convert XLSM to EMF]
+title: Python XLSM ～ EMF - XLSM ～ EMF コンバータ
+description: Aspose エクセル。 XLSM を Aspose.Cells ですばやく簡単に EMF に変換します。 Python XLSM から EMF に変換します。 Python XLSM を EMF に保存します。 XLSM を 07611134 として保存しますPythonを使用して81。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSM to EMF in Python., Save XLSM to EMF using Python., Python XLSM to EMF saveformat., XLSM to EMF Converter., Python Save XLSM as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM を Python の EMF に変換します" h2="XLSM を EMF に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="XLSM を Python の EMF に変換します" %}}
 
- XLSM を EMF に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSM を EMF に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ XLSM を EMF に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSM を EMF に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python に XLSM から EMF をオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="XLSM を Python に保存" %}}
 
 次の例は、XLSM を Python via NET の EMF に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLSMをEMFに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSM を EMF に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSMをEMFに変換する方法" %}}
 
@@ -52,7 +52,7 @@ XLSM ファイルをプログラムで EMF に変換する必要があります�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

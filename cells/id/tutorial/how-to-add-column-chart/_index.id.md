@@ -11,11 +11,11 @@ url: /id/tutorial/add-column-chart-in-excel
 {{< blocks/products/pf/feature-page-section h2="Pelajari cara menambahkan bagan kolom dengan Aspose.Cells" >}}
 
 <p>
-Dalam tutorial ini, kami akan menambahkan bagan kolom dalam file excel.
+Dalam tutorial ini, kita akan menambahkan bagan kolom dalam file excel.
 </p>
 
 <p>
- Kita akan mulai dengan membuat buku kerja baru menggunakan<a href="https://www.nuget.org/packages/Aspose.Cells">Perpustakaan Aspose.Cells</a> dan tambahkan bagan kolom.
+ Kita akan mulai dengan membuat buku kerja baru menggunakan<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells perpustakaan</a> dan tambahkan bagan kolom.
 </p>
 
 <br />
@@ -28,13 +28,13 @@ Dalam tutorial ini, kami akan menambahkan bagan kolom dalam file excel.
 //ExStepSummary:2: Kode berikut menunjukkan cara mengatur judul bagan dan mengubah warna font menjadi biru.
 //ExStepImage:2:langkah-3.png
 //ExStart
-//ExStep:0-
+//ExLangkah:0-
 menggunakan Aspose.Cells;
 menggunakan Aspose.Cells.Gambar;
 
 Buku kerja buku kerja = Buku Kerja baru();
 Lembar kerja = buku kerja.Lembar kerja[0];
-lembar.Nama = "LembarBagan";
+sheet.Nama = "Lembar Bagan";
 Cells sel = lembar.Cells;
 sel["A1"].Nilai = "Buah";
 sel["A2"].Nilai = "apel";
@@ -48,26 +48,26 @@ sel["B3"].Nilai = 5;
 sel["B4"].Nilai = 20;
 sel["B5"].Nilai = 8;
 
-sheet.PageSetup.PrintGridlines = true;
+sheet.PageSetup.PrintGridlines = benar;
 sheet.PageSetup.PrintArea = "A1:F20";
 
-Grafik ChartCollection = sheet.Charts;
+Bagan ChartCollection = lembar.Bagan;
 
-// Tambahkan bagan kolom
-int index = charts.Add(ChartType.Column, "=ChartSheet!A1:B5", false, 6, 0, 19, 5);
+//Tambahkan bagan kolom
+int indeks = grafik.Tambahkan(ChartType.Column, "=ChartSheet!A1:B5", false, 6, 0, 19, 5);
 Bagan bagan = bagan[indeks];
 
-//ExStep:1-
-// Pindahkan legenda ke kiri dan atur warna font legenda
+//Langkah Sebelumnya:1-
+//Pindahkan legenda ke kiri dan atur warna font legenda
 chart.Legend.Font.Color = Warna.Biru;
-chart.Legend.Position = LegendPositionType.Left;
+chart.Legend.Position = LegendPositionType.Kiri;
 
-//ExStep:2-
-// Tetapkan judul bagan dan ubah warna font menjadi biru
+//Langkah Sebelumnya:2-
+//Tetapkan judul bagan dan ubah warna font menjadi biru
 chart.Title.Text = "Bagan Kolom Harga Buah";
-bagan.Title.Font.Color = Warna.Biru;
+chart.Title.Font.Color = Warna.Biru;
 
-//ExStep:0-
+//ExLangkah:0-
 
 //ExEnd
 {{< /app/cells/tutorial >}}
@@ -78,7 +78,7 @@ bagan.Title.Font.Color = Warna.Biru;
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Pemasangan Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Penyunting</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Redaktur</a></li>
     </ul>
 </div>
 

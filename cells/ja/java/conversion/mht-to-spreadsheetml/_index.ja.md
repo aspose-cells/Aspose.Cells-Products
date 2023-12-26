@@ -1,7 +1,7 @@
 ---
-title: Java MHT から SPREADSHEETML - オンライン MHT から SPREADSHEETML コンバーター
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java MHT を SPREADSHEETML 保存形式に変換します。 Java MHT から SPREADSHEETML 形式。 MHT を SPREADSHEETML Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SPREADSHEETML saveformat., Free Online MHT to SPREADSHEETML Java., Java Convert MHT to SPREADSHEETML]
+title: Java MHTからSPREADSHEETMLへ - MHTからSPREADSHEETMLへのコンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、MHT を SPREADSHEETML にすばやく簡単に変換します。 Java MHT から SPREADSHEETML に変換します。 Java MHT を SPREADSHEETML に保存します。 Java を使用して MHT を SPREADSHEETML として保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to SPREADSHEETML in Java., Save MHT to SPREADSHEETML using Java., Java MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Java Save MHT as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JavaでMHTをSPREADSHEETMLに変換します" h2="MHT を SPREADSHEETML に変換するための高速 Java ライブラリ。これは、Java を使用して MHT、SPREADSHEETML、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to SP
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してMHTをSPREADSHEETMLに変換します" %}}
 
-MHT を SPREADSHEETML に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に MHT を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+MHT を SPREADSHEETML に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に MHT を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ MHT を SPREADSHEETML に変換するにはどうすればよいですか? Aspos
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でMHTをJavaのSPREADSHEETMLに保存します" %}}
+{{% blocks/products/pf/agp/content h2="Java で MHT を SPREADSHEETML に保存" %}}
 
 次の例は、Java で MHT を SPREADSHEETML に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ MHT を SPREADSHEETML に変換するにはどうすればよいですか? Aspos
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインで MHT を SPREADSHEETML に変換するための無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="MHT を SPREADSHEETML に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT を SPREADSHEETML に変換する方法 via Java" %}}
 
@@ -77,7 +77,7 @@ MHT ファイルをプログラムで SPREADSHEETML に変換する必要があ�
 {{% blocks/products/pf/agp/content h2="Java MHT を SPREADSHEETML に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -97,7 +97,7 @@ MHT ファイルをプログラムで SPREADSHEETML に変換する必要があ�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML は Extensible Markup Language の略で、HTML に似ていますが、オブジェクトを定義するためのタグの使用が異なります。 XML ファイル形式の作成の背後にある全体的な考え方は、ソフトウェアやハードウェア ツールに依存せずにデータを保存および転送することでした。その人気の理由は、人間にも機械にも読み取れることです。これにより、オブジェクトの形式で共通のデータ プロトコルを作成し、World Wide Web (WWW) などのネットワーク上で保存および共有できるようになります。 XML の「X」は拡張可能を表し、ユーザーの要件に応じて言語を任意の数のシンボルに拡張できることを意味します。 Microsoft Open XML、LibreOffice OpenDocument、XHTML、SVG など、多くの標準ファイル形式でこの機能が利用されているのは、これらの機能のためです。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

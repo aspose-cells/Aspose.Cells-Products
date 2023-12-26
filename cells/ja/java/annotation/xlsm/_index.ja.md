@@ -1,7 +1,8 @@
 ---
-title:  XLSM 注釈 via Java を削除
+title:  XLSM 注釈 via Java を追加または削除します
 weight: 2860
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の XLSM 形式のアノテーションを削除するための Java サンプル コード。
+keywords: [Java Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM via Java からの注釈の追加または削除" h2="独自の Java アプリを構築し、サーバー側 API を使用してドキュメント ファイル内のコメントと作成者を操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -55,7 +56,7 @@ API は、機能が豊富で強力で使いやすい注釈 API for Java プラ�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Workbookクラスを使用してXLSMファイルをロードします
+1.  Workbookクラスを使用してXLSMファイルをロードします
 1. 該当するシートを選択します
 1. CommentCollection によるすべてのコメントの取得
 1. 削除するには、Cell ID を指定して RemoveAt を呼び出します。

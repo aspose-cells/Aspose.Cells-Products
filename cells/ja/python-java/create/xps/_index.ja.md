@@ -1,7 +1,7 @@
 ---
 title: XPS を作成 - Python に XPS ファイルを作成
-description: Aspose エクセル。 Python XPS ファイルを作成します。 XPS Python を作成します。 Python XPS 作成者。 PythonにXPSを作成します。Pythonを使用してXPSファイルを生成します。
-keywords: [Aspose Excel., Python Aspose.Cells., Create XPS Python., Python XPS Creater., Create XPS file in Python., Generate XPS file in Python]
+description: Aspose エクセル。 Python Aspose.Cells を使用して XPS ファイルをすばやく簡単に作成します。 Python を使用して XPS ファイルを生成します。 Python に XPS を作成します。 Python XPS 作成者。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XPS file., Generate XPS file in Python., Create XPS file using Python., Write data to XPS file via Python., Create a XPS file in Python., Python Generate a XPS file., Python XPS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PythonにXPSファイルを作成" h2="XPSファイルを作成するための高速Pythonライブラリ。これは、XLSX、PDF、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XPS Python., Python XPS C
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してXPSファイルを作成" %}}
 
- XPSファイルを作成するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XPS ファイルを簡単に作成できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ XPSファイルを作成するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に XPS ファイルを簡単に作成できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XPS Python., Python XPS C
 1.  Workbookクラスのインスタンスを作成します。
 1. ワークブックの最初のワークシートにアクセスします。
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
-1. Save メソッドを使用して、ワークブックを XPS ファイルとして保存します。
+1.  Save メソッドを使用して、ワークブックを XPS ファイルとして保存します。
 
 {{% blocks/products/pf/agp/code-block title="サンプルコードは、PythonにXPSファイルを作成する方法を示しています。" offSpacer="" %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
 
 {{% /blocks/products/pf/agp/text %}}
 

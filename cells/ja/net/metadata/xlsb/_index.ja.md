@@ -2,6 +2,7 @@
 title: 表示または編集 XLSB ファイルのメタデータ via .NET
 weight: 7890
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLSB 形式のメタデータを編集または表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB メタデータ via .NET を抽出" h2="サーバー側 API を使用して、XLSB ファイルからメタデータを追加、編集、削除、抽出する独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,7 @@
 ---
-title: Java ODS ke ETT - Konverter ODS ke ETT Online
-description: Aspose Unggul. Java Aspose.Cells. Java Aspose Cells. Online Gratis Java Ubah ODS menjadi ETT saveformat. Java ODS ke format ETT. Simpan ODS ke ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to ETT saveformat., Free Online ODS to ETT Java., Java Convert ODS to ETT]
+title: Java ODS ke ETT - ODS ke ETT Konverter
+description: Aspose Unggul. Ubah ODS menjadi ETT dengan cepat dan mudah dengan Aspose.Cells. Java ODS menjadi ETT. Java Simpan ODS ke ETT. Simpan ODS sebagai ETT menggunakan Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to ETT in Java., Save ODS to ETT using Java., Java ODS to ETT saveformat., ODS to ETT Converter., Java Save ODS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah ODS menjadi ETT di Java" h2="Pustaka Java berkecepatan tinggi untuk mengonversi ODS ke ETT. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor ODS, ETT, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to ET
 
 {{% blocks/products/pf/agp/content h2="Ubah ODS menjadi ETT Menggunakan Java" %}}
 
- Bagaimana cara mengonversi ODS ke ETT? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah mengonversi ODS ke ETT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Bagaimana cara mengubah ODS ke ETT? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi ODS ke ETT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,36 +45,36 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to ET
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan ODS ke ETT di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan ODS ke ETT di Java" %}}
 
 Contoh berikut menunjukkan cara mengonversi ODS ke ETT di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi ODS ke ETT. Unggah file ODS Anda, lalu simpan sebagai file ETT. Untuk pembacaan ODS dan penulisan ETT, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan ETT keluaran akan identik dengan dokumen ODS asli.
+Ikuti langkah mudah untuk mengkonversi ODS ke ETT. Unggah file ODS Anda, lalu simpan sebagai file ETT. Untuk pembacaan ODS dan penulisan ETT Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format ETT keluaran akan sama dengan dokumen ODS asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi ODS ke ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi ODS ke ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi ODS menjadi ETT via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi ODS ke ETT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file ODS ke ETT secara terprogram? Pengembang Java dapat dengan mudah mengubah ODS menjadi ETT hanya dalam beberapa baris kode.
+Perlu mengonversi file ODS ke ETT secara terprogram? Pengembang Java dapat dengan mudah mengonversi ODS ke ETT hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file ODS dengan instance kelas Workbook.
+1. Muat file ODS dengan instance kelas Buku Kerja.
 1.  Ubah ODS menjadi ETT dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi ODS ke ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengonversi ODS menjadi ETT" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengkonversi ODS ke ETT" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Kami menghosting paket Java kami di[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositori. 'Aspose.Cells for Java' adalah file JAR umum yang berisi kode byte. Silakan ikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/java/installation/) tentang cara menginstalnya ke lingkungan pengembang Java Anda.
@@ -97,18 +97,18 @@ Perlu mengonversi file ODS ke ETT secara terprogram? Pengembang Java dapat denga
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}File dengan ekstensi .ods adalah format Dokumen OpenDocument Spreadsheet yang dapat diedit oleh pengguna. Data disimpan di dalam file ODF ke dalam baris dan kolom. Ini adalah format berbasis XML dan merupakan salah satu dari beberapa subtipe dalam keluarga Open Document Formats (ODF). Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. Sejumlah aplikasi di Windows serta sistem operasi lain dapat membuka file ODS untuk diedit dan dimanipulasi termasuk Microsoft Excel, NeoOffice dan LibreOffice. File ODS juga dapat diubah menjadi format spreadsheet lain seperti XLS, XLSX dan lainnya dengan aplikasi yang berbeda.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}File ETT adalah template spreadsheet yang dibuat oleh Kingsoft Spreadsheets, program spreadsheet yang termasuk dalam suite WPS Office. Ini menyimpan template yang dapat digunakan sebagai titik awal untuk membuat spreadsheet Kingsoft baru (file .ET). File ETT sering digunakan untuk membuat anggaran keuangan dan mengatur data.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}File dengan ekstensi .ods adalah singkatan dari format Dokumen OpenDocument Spreadsheet yang dapat diedit oleh pengguna. Data disimpan di dalam file ODF ke dalam baris dan kolom. Ini adalah format berbasis XML dan merupakan salah satu dari beberapa subtipe dalam keluarga Open Document Format (ODF). Format ini ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. Sejumlah aplikasi di Windows serta sistem operasi lain dapat membuka file ODS untuk diedit dan dimanipulasi termasuk Microsoft Excel, NeoOffice dan LibreOffice. File ODS juga dapat dikonversi ke format spreadsheet lain seperti XLS, XLSX dan lainnya dengan aplikasi berbeda.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}File ETT adalah templat spreadsheet yang dibuat oleh Kingsoft Spreadsheets, program spreadsheet yang disertakan dalam rangkaian WPS Office. Ini menyimpan templat yang dapat digunakan sebagai titik awal untuk membuat spreadsheet Kingsoft baru (file .ET). File ETT sering digunakan untuk membuat anggaran keuangan dan mengatur data.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi ODS ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi ODS ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-bmp/" name="ODS SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-emf/" name="ODS SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-emf/" name="ODS SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-gif/" name="ODS SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-html/" name="ODS SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-md/" name="ODS KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-md/" name="ODS KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-mhtml/" name="ODS SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-pdf/" name="ODS SAMPAI PDF" description="Format Dokumen Portabel" >}}
@@ -117,13 +117,13 @@ Perlu mengonversi file ODS ke ETT secara terprogram? Pengembang Java dapat denga
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-tiff/" name="ODS SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-tsv/" name="ODS SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-txt/" name="ODS SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xls/" name="ODS SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xls/" name="ODS SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsb/" name="ODS SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsm/" name="ODS SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsx/" name="ODS SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlt/" name="ODS SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltm/" name="ODS SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltx/" name="ODS SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsm/" name="ODS SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsx/" name="ODS SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlt/" name="ODS SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltm/" name="ODS SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltx/" name="ODS SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xml/" name="ODS KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xps/" name="ODS SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-json/" name="ODS SAMPAI JSON" description="Notasi Objek JavaScript" >}}

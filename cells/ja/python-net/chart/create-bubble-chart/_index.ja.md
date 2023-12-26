@@ -1,6 +1,7 @@
 ---
 title: Python 経由でバブル チャートを作成する
 description: Python Python ライブラリを使用して Excel にバブル チャートを作成するためのサンプル コード。 Python ベースのアプリケーション内で MS Excel にバブル チャートを作成するには、このコードを使用します。
+keywords: [Python Aspose.Cells., Python add Bubble Chart., Python insert Bubble Chart., Python create Bubble Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -35,7 +36,7 @@ description: Python Python ライブラリを使用して Excel にバブル チ
 {{% blocks/products/pf/agp/text %}}
  Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
 {{% /blocks/products/pf/agp/text %}}
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="次のソース コードは、Python を使用して MS Excel XLSX ファイルにバブル チャートを作成する方法を示しています。" offSpacer="" %}}

@@ -1,6 +1,7 @@
 ---
-title: Excel ファイルの注釈 NET C#
+title: Excel ファイルの注釈の追加または削除 NET C#
 description: わずか数行の C# コードを使用して、Excel および OpenOffice スプレッドシートのデータ注釈を追加または削除します。
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルの注釈 via .NET を削除します" h2=".NET ベースのアプリケーション内で C# コードを使用して、Excel ファイルの注釈を追加または削除します。" >}}

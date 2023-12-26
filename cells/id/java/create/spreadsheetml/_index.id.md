@@ -1,7 +1,7 @@
 ---
 title: Buat SPREADSHEETML - Buat file SPREADSHEETML di Java
-description: Aspose Unggul. Java Buat File SPREADSHEETML. Buat SPREADSHEETML Java. Java Pembuat SPREADSHEETML. Buat SPREADSHEETML di Java. Hasilkan file SPREADSHEETML menggunakan Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create SPREADSHEETML Java., Java SPREADSHEETML Creater., Create SPREADSHEETML file in Java., Generate SPREADSHEETML file in Java]
+description:  Aspose Unggul. Java Buat File SPREADSHEETML dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file SPREADSHEETML menggunakan Java. Buat SPREADSHEETML di Java. Java SPREADSHEETML Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SPREADSHEETML file., Generate SPREADSHEETML file in Java., Create SPREADSHEETML file using Java., Write data to SPREADSHEETML file via Java., Create a SPREADSHEETML file in Java., Java Generate a SPREADSHEETML file., Java SPREADSHEETML Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File SPREADSHEETML di Java" h2="Pustaka Java berkecepatan tinggi untuk membuat file SPREADSHEETML. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLSX, PDF, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SPREADSHEETML Java., Java S
 
 {{% blocks/products/pf/agp/content h2="Buat File SPREADSHEETML Menggunakan Java" %}}
 
- Bagaimana cara membuat file SPREADSHEETML? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah membuat file SPREADSHEETML secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara membuat file SPREADSHEETML? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah membuat file SPREADSHEETML secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -50,16 +50,16 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SPREADSHEETML Java., Java S
 
 {{% blocks/products/pf/agp/text %}}
 
- Mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file SPREADSHEETML dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+ Mudah bagi pengembang untuk membuat, memuat, memodifikasi dan mengkonversi file SPREADSHEETML dalam menjalankan aplikasi pelaporan yang berbeda untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Buat contoh dari[Kelas buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1.  Buat sebuah contoh dari[Kelas buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Akses lembar kerja yang relevan menggunakan metode getWorksheets.get().
-1.  Pilih sel yang relevan, masukkan nilai ke sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.
+1.  Pilih sel yang relevan, masukkan nilainya ke dalam sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.
 1.  Simpan buku kerja sebagai format SPREADSHEETML menggunakan metode save().
 
-{{% blocks/products/pf/agp/code-block title="Kode contoh menunjukkan cara membuat file SPREADSHEETML di Java." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Contoh kode menunjukkan cara membuat file SPREADSHEETML di Java." offSpacer="" %}}
 
 ```cs
 
@@ -89,7 +89,7 @@ wkb.save("Excel.xml");
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java perpustakaan untuk membuat file SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="Pustaka Java untuk membuat file SPREADSHEETML" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Kami menghosting paket Java kami di[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositori. 'Aspose.Cells for Java' adalah file JAR umum yang berisi kode byte. Silakan ikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/java/installation/) tentang cara menginstalnya ke lingkungan pengembang Java Anda.
@@ -101,7 +101,7 @@ wkb.save("Excel.xml");
 
 {{% blocks/products/pf/agp/text %}}
 
-Sebelum menjalankan kode sumber sampel konversi Java, pastikan Anda memiliki prasyarat berikut.
+ Sebelum menjalankan contoh kode sumber konversi Java, pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,22 +113,22 @@ Sebelum menjalankan kode sumber sampel konversi Java, pastikan Anda memiliki pra
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML adalah singkatan dari Extensible Markup Language yang mirip dengan HTML tetapi berbeda dalam penggunaan tag untuk mendefinisikan objek. Seluruh ide di balik pembuatan format file XML adalah untuk menyimpan dan mengangkut data tanpa bergantung pada perangkat lunak atau perangkat keras. Popularitasnya karena dapat dibaca oleh manusia dan mesin. Ini memungkinkannya untuk membuat protokol data umum dalam bentuk objek untuk disimpan dan dibagikan melalui jaringan seperti World Wide Web (WWW). "X" dalam XML adalah untuk dapat diperluas yang menyiratkan bahwa bahasa dapat diperluas ke sejumlah simbol sesuai kebutuhan pengguna. Untuk fitur-fitur inilah banyak format file standar memanfaatkannya seperti Microsoft Open XML, LibreOffice OpenDocument, XHTML dan SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML adalah singkatan dari Extensible Markup Language yang mirip dengan HTML namun berbeda dalam penggunaan tag untuk mendefinisikan objek. Ide di balik pembuatan format file XML adalah untuk menyimpan dan mengangkut data tanpa bergantung pada perangkat lunak atau perangkat keras. Popularitasnya karena dapat dibaca oleh manusia dan juga mesin. Hal ini memungkinkannya membuat protokol data umum dalam bentuk objek untuk disimpan dan dibagikan melalui jaringan seperti World Wide Web (WWW). Tanda "X" dalam XML adalah untuk dapat diperluas yang menyiratkan bahwa bahasa tersebut dapat diperluas ke sejumlah simbol sesuai kebutuhan pengguna. Untuk fitur inilah banyak format file standar yang menggunakannya seperti Microsoft Open XML, LibreOffice OpenDocument, XHTML dan SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Generasi Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Pembuatan Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Legacy)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Warisan)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsx/" name="XLSX" description="Buka Buku Kerja XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsb/" name="XLSB" description="Buku Kerja Biner Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Spreadsheet yang diaktifkan makro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Excel 97 - Templat 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Spreadsheet berkemampuan makro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Templat Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltx/" name="XLTX" description="Templat Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Template Berkemampuan Makro Excel" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Templat Excel yang Diaktifkan Makro" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="Spreadsheet Dokumen Terbuka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
 

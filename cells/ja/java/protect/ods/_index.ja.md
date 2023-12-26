@@ -2,6 +2,7 @@
 title: 保護とロック ODS ドキュメント via Java
 weight: 6360
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境で、パスワードを使用して ODS ファイルをロックするための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java Lock ODS files., Java How to Protect and lock ODS document., Java Protect ODS files., Encrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="暗号化 ODS ファイル via Java" h2=".NET ライブラリを使用して、ODS 形式を含む Excel スプレッドシートをパスワードで保護します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

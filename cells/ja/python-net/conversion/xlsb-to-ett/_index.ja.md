@@ -1,7 +1,7 @@
 ---
-title: Python XLSB から ETT - オンライン XLSB から ETT コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLSB を ETT 保存形式に変換します。 Python XLSB を ETT 形式に変換します。 XLSB を ETT Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to ETT saveformat., Free Online XLSB to ETT Python., Python Convert XLSB to ETT]
+title: Python XLSB から ETT - XLSB から ETT コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLSBをETTにすばやく簡単に変換します。Python XLSBをETTに変換します。 Python XLSB を ETT に保存します。 Python を使用して XLSB を ETT として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to ETT in Python., Save XLSB to ETT using Python., Python XLSB to ETT saveformat., XLSB to ETT Converter., Python Save XLSB as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB を Python の ETT に変換します" h2="XLSB を ETT に変換するための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="XLSB を Python の ETT に変換します" %}}
 
- XLSB を ETT に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSB を ETT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ XLSB を ETT に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSB を ETT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="XLSBをオンラインで無料でETTに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLSB の ETT に XLSB を保存" %}}
 
 次の例は、XLSB を Python via NET の ETT に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSBをオンラインでETTに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSBをETTに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSBをETTに変換する方法" %}}
 
@@ -52,7 +52,7 @@ XLSB ファイルをプログラムで ETT に変換する必要があります�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

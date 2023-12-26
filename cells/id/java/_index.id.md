@@ -1,7 +1,8 @@
 ---
-title:  Java Excel API - Aspose
+title:  Java Unggul API - Aspose
 weight: 6830
-description: Java Pustaka Excel untuk pemrosesan spreadsheet. Baca tulis render dan konversi XLS XLSX XLSM ODS CSV TSV dan lebih banyak format. Kompatibel dengan Windows Linux & Unix
+description:  Pustaka Aspose.Cells for Java untuk membuat, memperbaiki, menggabungkan, mengurai, dan mengonversi file excel. Ubah excel menjadi PDF, JSON, CSV, HTML dan seterusnya.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Pemrosesan Spreadsheet Excel API" h2="Membuat, memanipulasi, mengonversi, melindungi, atau mencetak spreadsheet tanpa bergantung pada Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -12,11 +13,11 @@ description: Java Pustaka Excel untuk pemrosesan spreadsheet. Baca tulis render 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java adalah Pemrosesan Spreadsheet Excel pemenang penghargaan API yang memungkinkan pengembang menyematkan fungsionalitas untuk membaca, menulis, memanipulasi, mengonversi &amp; mencetak spreadsheet dengan aplikasi sendiri, tanpa perlu aplikasi Excel Microsoft.
+ Aspose.Cells for Java adalah Pemrosesan Spreadsheet Excel pemenang penghargaan API yang memungkinkan pengembang menanamkan fungsionalitas untuk membaca, menulis, memanipulasi, mengonversi &amp; mencetak spreadsheet di aplikasi sendiri, tanpa perlu aplikasi excel Microsoft.
 </p>
 
 <p>
-Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan banyak fungsi yang jauh melampaui kemampuan ekspor data sederhana dari komponen lain yang tersedia di pasar. API menyediakan kemampuan untuk mengekspor data, memformat spreadsheet ke tingkat yang paling terperinci, mengimpor &amp; ekspor gambar, buat bagan &amp; Tabel Pivot, terapkan &amp; hitung rumus kompleks menggunakan mesin kalkulasi rumus, streaming data &amp; simpan hasilnya dalam berbagai format.
+Aspose.Cells for Java adalah perpustakaan yang matang dan kaya fitur, menawarkan banyak fungsi yang jauh melampaui kemampuan ekspor data sederhana dari komponen lain yang tersedia di pasar. API memberikan kemampuan untuk mengekspor data, memformat spreadsheet ke tingkat paling terperinci, mengimpor &amp; ekspor gambar, buat bagan &amp; Tabel Pivot, terapkan &amp; menghitung rumus kompleks menggunakan mesin penghitungan rumus, mengalirkan data Excel &amp; simpan hasilnya dalam berbagai format.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -31,7 +32,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
    <header>
     <i class="fa fa-television">
     </i>
- Merender
+ Render
    </header>
    <ul>
     <li>
@@ -60,7 +61,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
  Buat Bagan
     </li>
     <li>
- Terapkan Formula
+ Terapkan Rumus
     </li>
     <li>
  Meringkaskan
@@ -88,10 +89,10 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
  Simpan Dokumen Excel
     </li>
     <li>
- Menyediakan Kemampuan Mengedit
+ Menyediakan Kemampuan Pengeditan
     </li>
     <li>
- Kompatibel dengan Peramban Modern
+ Kompatibel dengan Browser Modern
     </li>
    </ul>
   </div>
@@ -117,7 +118,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aplikasi berbasis library for Java dikembangkan pada platform Windows Unix/Linux dan Mac." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aplikasi berbasis perpustakaan for Java dikembangkan pada platform Windows Unix/Linux dan Mac." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,7 +128,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
    <header>
     <i class="fa fa-cubes">
     </i>
- Java Lingkungan Runtime
+ Java Lingkungan Waktu Proses
    </header>
    <ul>
     <li>
@@ -160,7 +161,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells for Java mendukung format spreadsheet populer, gambar yang umum digunakan, tata letak tetap dan[lebih banyak format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells for Java mendukung format spreadsheet populer, gambar yang umum digunakan, tata letak tetap, dan[lebih banyak format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -190,7 +191,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
     </li>
     <li>
      <b>
- Web:
+ jaringan:
      </b>
      HTML, MHTML
     </li>
@@ -268,7 +269,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Lanjutan Java Dukungan Perpustakaan Excel
+ Dukungan Perpustakaan Excel Java Tingkat Lanjut
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -284,21 +285,21 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pembuatan &amp; manipulasi melalui API
+ Pembuatan bagan &amp; manipulasi melalui API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Impor formula dari spreadsheet desainer
+ Impor rumus dari spreadsheet desainer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Menghasilkan dan memanipulasi Named Ranges
+ Hasilkan dan manipulasi Rentang Bernama
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,7 +313,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Mengisi lembar kerja melalui Penanda Cerdas
+ Isi lembar kerja melalui Smart Marker
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +348,7 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Membuat, memanipulasi &amp; menyegarkan Tabel Pivot &amp; Diagram Pivot
+ Membuat, memanipulasi &amp; segarkan Tabel Pivot &amp; Bagan Pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -361,29 +362,29 @@ Aspose.Cells for Java adalah pustaka yang matang dan kaya fitur, menawarkan bany
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Baca dan tulis file besar dalam mode ringan
+ Membaca dan menulis file besar dalam mode ringan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sampel ulang gambar di konversi Excel ke PDF
+Sampel ulang gambar di Excel ke konversi PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ubah kode VBA atau Makro dalam dokumen template
+ Ubah kode VBA atau Makro di dokumen templat
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Simpan File Excel ke Berbagai Format
+ Simpan File Excel ke Format Berbeda
     </h2>
     <p>
- Excel API menawarkan konversi spreadsheet ke format PDF, XPS, HTML, dan lebih banyak lagi sambil mempertahankan fidelitas visual tertinggi. Proses konversi yang andal dan fleksibel menjadikan Aspose.Cells pilihan sempurna untuk organisasi yang sebagian besar bertukar file dalam format standar industri.
+ Excel API menawarkan konversi spreadsheet ke PDF, XPS, HTML, dan format lainnya dengan tetap menjaga fidelitas visual tertinggi. Proses konversi yang andal dan fleksibel menjadikan Aspose.Cells pilihan sempurna bagi organisasi yang sebagian besar bertukar file dalam format standar industri.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -407,7 +408,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
  Format Lembar Kerja ke Tingkat Paling Terperinci
     </h2>
     <p>
-Library menyediakan gaya spreadsheet termasuk tetapi tidak terbatas pada pemformatan lembar kerja pada tingkat baris, kolom, dan sel, menambahkan aturan pemformatan bersyarat, menentukan format angka, dan mengatur font dengan atribut. Demikian pula, API mendukung manipulasi dan pembuatan semua jenis bagan kustom dan standar serta berbagai objek gambar seperti objek OLE, gambar, komentar, bentuk, dan kontrol ke sel.
+Perpustakaan menyediakan penataan gaya spreadsheet termasuk namun tidak terbatas pada pemformatan lembar kerja pada tingkat baris, kolom, dan sel, menambahkan aturan pemformatan bersyarat, menentukan format angka, dan mengatur font dengan atribut. Demikian pula, API mendukung manipulasi dan pembuatan semua jenis bagan khusus dan standar serta berbagai objek gambar seperti objek OLE, gambar, komentar, bentuk, dan kontrol pada sel.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,10 +420,10 @@ Library menyediakan gaya spreadsheet termasuk tetapi tidak terbatas pada pemform
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konversi Bagan &amp; Lembar ke Gambar &amp; PDF Format
+ Konversi Grafik &amp; Lembar ke Gambar &amp; PDF Format
     </h2>
     <p>
- Aspose.Cells for Java menawarkan fitur konversi khusus seperti bagan ke gambar dan PDF, lembar kerja ke gambar, mencetak lembar kerja dan mengonversi spreadsheet ke format file PDF. Proses konversi sangat fleksibel dan mudah, memungkinkan untuk memilih sejumlah cara untuk konversi, seperti pengambilan sampel ulang gambar selama spreadsheet ke transformasi PDF atau menyesuaikan dimensi gambar yang dihasilkan saat merender lembar kerja dan bagan ke gambar.
+ Aspose.Cells for Java menawarkan fitur konversi khusus seperti bagan ke gambar dan PDF, lembar kerja ke gambar, pencetakan lembar kerja dan konversi spreadsheet ke format file PDF. Proses konversi sangat fleksibel dan mudah, sehingga memungkinkan untuk memilih sejumlah cara untuk konversi, seperti pengambilan sampel ulang gambar selama transformasi spreadsheet hingga PDF atau menyesuaikan dimensi gambar yang dihasilkan saat merender lembar kerja dan bagan ke gambar.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -450,7 +451,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Memanipulasi Baris &amp; Kolom
     </h2>
     <p>
- Aspose.Cells for Java memungkinkan Anda memodifikasi baris dan kolom dengan berbagai cara. Seseorang dapat dengan mudah menyesuaikan lebar kolom dan tinggi baris, mengatur ukuran lebar/tinggi sel secara otomatis sesuai konten, menyisipkan &amp; hapus, sembunyikan &amp; un-hide serta grup &amp; un-group baris dan kolom.
+ Aspose.Cells for Java memungkinkan Anda mengubah baris dan kolom dengan berbagai cara. Seseorang dapat dengan mudah menyesuaikan lebar kolom dan tinggi baris, secara otomatis mengukur lebar/tinggi sel berdasarkan konten, menyisipkan &amp; hapus, sembunyikan &amp; un-hide serta mengelompokkan &amp; batalkan pengelompokan baris dan kolom.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +459,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Ringkas Data dengan Bagan &amp; Tabel pivot
     </h2>
     <p>
- Mungkin sulit untuk mendapatkan informasi yang diringkas dengan spreadsheet yang sangat besar. Tabel Pivot ada untuk menggambarkan data datar dengan cepat dan untuk mendapatkan informasi yang relevan sesuai kebutuhan. API secara dinamis membuat Tabel Pivot dan Bagan. Mengubah data sumber Tabel Pivot secara dinamis dimungkinkan. Selain itu, Smart Markers, fitur unggulan lainnya dari library ini untuk mengisi lembar kerja melalui sumber data dan menghasilkan laporan yang efektif secara visual.
+ Sulit untuk mendapatkan informasi yang diringkas dengan spreadsheet yang sangat besar. Tabel Pivot tersedia untuk mendeskripsikan data datar dengan cepat dan mendapatkan informasi yang relevan sesuai kebutuhan. API secara dinamis membuat Tabel dan Bagan Pivot. Mengubah data sumber Tabel Pivot secara dinamis dimungkinkan. Selain itu, Smart Markers, fitur unggulan lainnya dari perpustakaan ini untuk mengisi lembar kerja melalui sumber data dan untuk menghasilkan laporan yang efektif secara visual.
     </p>
    </div>
    <!--
@@ -484,10 +485,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Kontrol Visual berbasis Web untuk Spreadsheet
+ Kontrol Visual berbasis web untuk Spreadsheet
     </h2>
     <p>
-Aspose.Cells for Java juga menyediakan kontrol UI yang dapat tertanam dalam aplikasi web JSP dan kompatibel dengan semua web browser modern seperti Chrome, Firefox, Internet Explorer dan Opera. Pengguna akhir dapat menggunakannya untuk memuat, mengedit, dan menyimpan file Excel dari front-end aplikasi web Anda.
+Aspose.Cells for Java juga menyediakan kontrol UI yang dapat ditanamkan pada aplikasi web JSP dan kompatibel dengan semua browser web modern seperti Chrome, Firefox, Internet Explorer dan Opera. Pengguna akhir dapat menggunakannya untuk memuat, mengedit, dan menyimpan file Excel dari front-end aplikasi web Anda.
     </p>
    </div>
   </div>
@@ -497,11 +498,11 @@ Aspose.Cells for Java juga menyediakan kontrol UI yang dapat tertanam dalam apli
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa Kata Orang" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat pendapat pengguna tentang API spreadsheet." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa Kata Orang" subTitle="Jangan hanya percaya kata-kata kami begitu saja. Lihat apa yang dikatakan pengguna tentang API spreadsheet." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Kami akan merekomendasikan penggunaan Aspose.cells for Java karena mudah diterapkan dan API mudah dipahami dan sangat lancar.
+ Kami merekomendasikan penggunaan Aspose.cells for Java karena mudah diterapkan dan API mudah dipahami dan sangat lancar.
  <em>
  Pierre-Eric Oudin | Advizeo oleh Setec, Perancis
  </em>
@@ -510,7 +511,7 @@ Aspose.Cells for Java juga menyediakan kontrol UI yang dapat tertanam dalam apli
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Pengalaman kami secara keseluruhan dengan produk Aspose sangat positif. Komponen ini meningkatkan nilai bisnis produk TI Xpand - Plugin Xporter untuk JIRA, memungkinkan kami mengembangkan solusi referensi untuk ekspor data.
+ Pengalaman kami secara keseluruhan dengan produk Aspose sangat positif. Komponen ini meningkatkan nilai bisnis pada produk TI Xpand - Plugin Xporter untuk JIRA, memungkinkan kami mengembangkan solusi referensi untuk ekspor data.
  <em>
  Paulo Lopes | Xpand IT, Inggris
  </em>
@@ -534,7 +535,7 @@ Aspose.Cells for Java juga menyediakan kontrol UI yang dapat tertanam dalam apli
 {{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -543,7 +544,7 @@ Aspose.Cells for Java juga menyediakan kontrol UI yang dapat tertanam dalam apli
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

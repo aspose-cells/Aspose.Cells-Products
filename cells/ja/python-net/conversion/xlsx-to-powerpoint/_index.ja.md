@@ -1,7 +1,7 @@
 ---
-title: Python XLSX から POWERPOINT - オンライン XLSX から POWERPOINT コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLSX を POWERPOINT 保存形式に変換します。 Python XLSX を POWERPOINT 形式に変換します。 XLSXをパワーポイントPythonに保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to POWERPOINT saveformat., Free Online XLSX to POWERPOINT Python., Python Convert XLSX to POWERPOINT]
+title: Python XLSX から POWERPOINT - XLSX から POWERPOINT コンバーター
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLSXをPOWERPOINTにすばやく簡単に変換します。Python XLSXをPOWERPOINTに変換します。 Python XLSXをパワーポイントに保存します。 Pythonを使用してXLSXをPOWERPOINTとして保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to POWERPOINT in Python., Save XLSX to POWERPOINT using Python., Python XLSX to POWERPOINT saveformat., XLSX to POWERPOINT Converter., Python Save XLSX as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSXをPythonのパワーポイントに変換します" h2="XLSXをPOWERPOINTに変換するための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="XLSXをPythonのパワーポイントに変換します" %}}
 
- XLSX を POWERPOINT に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSX を POWERPOINT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ XLSX を POWERPOINT に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSX を POWERPOINT に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="XLSXをオンラインで無料でパワーポイントに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLSX を Python の POWERPOINT に保存します" %}}
 
 次の例は、XLSX を Python via NET の POWERPOINT に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSXをオンラインでPowerPointに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSXをPOWERPOINTに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSXをパワーポイントに変換する方法" %}}
 
@@ -52,7 +52,7 @@ XLSX ファイルをプログラムで POWERPOINT に変換する必要があり
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

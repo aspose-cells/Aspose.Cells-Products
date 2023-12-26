@@ -1,8 +1,8 @@
 ---
-title: C++ xlsb ファイルを修復する - オンラインで xlsb ファイルを無料で修復する
+title: C++ xlsb の修復 - 破損した xlsb ファイルを回復して修正します
 url: /ja/cpp/recovery/repair-xlsb/ 
-description: Aspose エクセル。 C++ Aspose.Cells。C++ xlsb ファイルを修復します。無料のオンラインxlsb修復ツール。破損したxlsbファイルを修復します。 C++ アプリケーション内の破損した xlsb ファイルを回復します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsb file., Free Online Repair a corrupted xlsb file., C++ Recover xlsb file.]
+description: C++ Aspose.Cells.xlsbを修復します。 xlsbファイルを修正。 xlsbリカバリツール。 xlsb が破損しています。 xlsb データを復元します。 xlsbファイルのリカバリ。破損したxlsbファイルを回復します。
+keywords: [C++ Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ の XLSB ファイルを修復します" h2="C++ を使用して xlsb ファイルを修復する独自の C++ アプリケーションを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsb 
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXLSBファイルを修復する" %}}
 
-xlsb ファイルを修復するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSB ファイルを簡単に修復できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+ xlsb ファイルを修復するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSB ファイルを簡単に修復できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ xlsb ファイルをプログラムで修復する必要がありますか? C++ 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="XLSBファイルをオンラインで修復する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="XLSBファイルを修復するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ ファイルを修復するライブラリ" %}}
 

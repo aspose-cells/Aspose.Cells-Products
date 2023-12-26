@@ -1,6 +1,7 @@
 ---
-title: Perbaiki file excel via Java
-description: Perbaiki file excel yang rusak menggunakan Java. Alat pemulihan untuk memperbaiki file excel yang rusak dalam aplikasi Java.
+title: Java Perbaikan excel - Memulihkan dan Memperbaiki File excel yang Rusak
+description: Java Aspose.Cells. Perbaikan excel. Perbaiki file excelnya. alat pemulihan excel. korupsi unggul. Pulihkan data excel. pemulihan file excel. Pulihkan file excel yang rusak.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pulihkan file excel via Java" h2="Bangun aplikasi Java untuk memperbaiki file excel menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,9 +11,9 @@ description: Perbaiki file excel yang rusak menggunakan Java. Alat pemulihan unt
 
 {{% blocks/products/pf/agp/content h2="Perbaiki File EXCEL Menggunakan Java" %}}
 
- Untuk memperbaiki file EXCEL, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java)API yang merupakan platform manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API for Java.
+ Untuk memperbaiki file EXCEL, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API for Java.
  
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +30,7 @@ description: Perbaiki file excel yang rusak menggunakan Java. Alat pemulihan unt
 
 {{% blocks/products/pf/agp/content h2="Instal Aspose.Cells untuk memperbaiki file excel" %}}
 
-Anda dapat mengunduh versi terbarunya langsung dari
+Anda dapat mendownload versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -81,7 +82,7 @@ Anda dapat mengunduh versi terbarunya langsung dari
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
+XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format baru adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -89,13 +90,13 @@ XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan ole
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lain yang Didukung" subTitle="Menggunakan Java, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lainnya yang Didukung" subTitle="Menggunakan Java, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Perbaikan ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Perbaikan XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Perbaikan ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Perbaikan XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Perbaikan XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Perbaikan XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Perbaikan XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

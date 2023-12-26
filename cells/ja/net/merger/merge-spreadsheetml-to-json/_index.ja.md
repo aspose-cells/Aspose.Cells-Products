@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML を JSON に結合 - SPREADSHEETML を C# に JSON に結合
 url: /ja/net/merger/merge-spreadsheetml-to-json/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン SPREADSHEETML を JSON 保存形式にマージします。 C# SPREADSHEETML を JSON 形式に結合します。 SPREADSHEETML を C# の JSON にマージします。SPREADSHEETML をマージします。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JSON in C#., Free Online C# Merge SPREADSHEETML to json., C# Combine SPREADSHEETML to JSON Online for Free., SPREADSHEETML Merge]
+description: Aspose エクセル。 C# Aspose.Cells。SPREADSHEETML を JSON 保存形式にマージします。 C# SPREADSHEETML を JSON 形式に結合します。 SPREADSHEETML を C# の JSON にマージします。SPREADSHEETML をマージします。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JSON in C#., C# Merge SPREADSHEETML to json., C# Combine SPREADSHEETML to JSON., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# を介して SPREADSHEETML を JSON に結合します" h2="SPREADSHEETML を JSON にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JSON in C#., 
 
 {{% blocks/products/pf/agp/content h2="C# を使用して SPREADSHEETML を JSON にマージ" %}}
 
-SPREADSHEETML を JSON にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に SPREADSHEETML を JSON に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+SPREADSHEETML を JSON にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に SPREADSHEETML を JSON に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="SPREADSHEETML を C# の JSON にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML を C# の JSON にマージします" %}}
 
 次の例は、SPREADSHEETML を Aspose.Cells for .NET の JSON にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="SPREADSHEETML を C# にオンラインで無料でマージ" InputFormat="xml" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# に SPREADSHEETML を JSON にマージするサンプルコード" InputFormat="xml" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# 経由で SPREADSHEETML を JSON にマージする方法" %}}
 

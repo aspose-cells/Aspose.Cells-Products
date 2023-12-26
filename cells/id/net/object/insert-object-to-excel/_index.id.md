@@ -1,7 +1,8 @@
 ---
 title:  Masukkan objek OLE ke Excel via .NET
 weight: 170
-description: Kode sumber C# untuk menyisipkan objek OLE ke dalam Excel pada Kerangka Kerja .NET, Inti .NET, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk memasukkan objek OLE ke Excel pada Kerangka .NET, .NET Core, Mono atau Platform Xamarin.
+keywords: [C# Aspose.Cells., c# add OLE object into Excel., c# insert OLE object into Excel., c# create OLE object in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Masukkan objek OLE ke Excel via .NET" h2="Masukkan objek OLE menggunakan API Aspose.Cells tanpa perangkat lunak apa pun seperti Microsoft atau Open Office, Adobe PDF, dll." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Kode sumber C# untuk menyisipkan objek OLE ke dalam Excel pada Kera
 
 {{% blocks/products/pf/agp/content h2="Cara Memasukkan objek OLE ke File Excel Menggunakan C#" %}}
 
- Untuk menyisipkan objek OLE ke dalam file excel, kita akan menggunakan
+ Untuk memasukkan objek OLE ke dalam file excel, kita akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan splitter API untuk platform C#. Membuka
+ API yang merupakan manipulasi dan pemisah dokumen yang kaya fitur, kuat dan mudah digunakan API untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  Aspose.Cells 
@@ -41,9 +42,9 @@ Anda memerlukan aspose.cells.dll untuk mencoba alur kerja berikut di lingkungan 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
++ Membuat Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 + Pilih Lembar Kerja melalui indeksnya.
- + Gunakan[menambahkan metode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addoleobject) untuk menyisipkan objek OLE di lembar kerja yang dipilih
+ + Gunakan[tambahkan metode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addoleobject) untuk menyisipkan objek OLE di lembar kerja yang dipilih
 + Simpan buku kerja dalam format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -77,7 +78,7 @@ Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

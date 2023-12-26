@@ -154,7 +154,7 @@ WSS3.0
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description=" Aspose.Cells for SharePoint は、多くの一般的なスプレッドシート形式、PDF、HTML などをサポートしています。[ファイル形式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for SharePoint は、多くの一般的なスプレッドシート形式、PDF、HTML などをサポートしています。[ファイル形式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">

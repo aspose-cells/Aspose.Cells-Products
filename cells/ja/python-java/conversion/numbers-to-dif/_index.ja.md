@@ -1,7 +1,7 @@
 ---
-title: Python 番号から DIF - オンライン番号から DIF コンバータ
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python NUMBERS を DIF 保存形式に変換します。 Python 番号を DIF 形式に変換します。番号を DIF Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Python., Python Convert NUMBERS to DIF]
+title: Python 番号から DIF - 番号から DIF へのコンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、NUMBERS を DIF にすばやく簡単に変換します。 Python NUMBERS を DIF に変換します。 Python NUMBERS を DIF に保存します。 Python を使用して、NUMBERS を DIF として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to DIF in Python., Save NUMBERS to DIF using Python., Python NUMBERS to DIF saveformat., NUMBERS to DIF Converter., Python Save NUMBERS as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="数値を Python の DIF に変換します" h2="NUMBERS を DIF に変換するための高速 Python ライブラリ。これは、Python を使用して、NUMBERS、DIF、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Python を使用して NUMBERS を DIF に変換します" %}}
 
-NUMBERS を DIF に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を DIF に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+NUMBERS を DIF に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を DIF に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python の DIF に番号をオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="番号を Python の DIF に保存" %}}
 
 次の例は、NUMBERS を Python の DIF に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ NUMBERS を DIF に変換するにはどうすればよいですか? Aspose.Cell
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインで数字をDIFに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="NUMBERSをDIFに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python経由でNUMBERSをDIFに変換する方法" %}}
 
@@ -63,12 +63,12 @@ NUMBERS ファイルをプログラムで DIF に変換する必要がありま�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLTM から IMAGE - オンライン XLTM から IMAGE コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLTM を IMAGE 保存形式に変換します。 Python XLTM を IMAGE 形式にします。 XLTM を画像 Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to IMAGE saveformat., Free Online XLTM to IMAGE Python., Python Convert XLTM to IMAGE]
+title: Python XLTM から画像 - XLTM から画像コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLTMをIMAGEにすばやく簡単に変換します。Python XLTMをIMAGEに変換します。 Python XLTMを画像に保存してください。 Python を使用して、XLTM を画像として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to IMAGE in Python., Save XLTM to IMAGE using Python., Python XLTM to IMAGE saveformat., XLTM to IMAGE Converter., Python Save XLTM as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM を Python の画像に変換" h2="XLTMをIMAGEに変換するための高速Pythonライブラリ。これは、XLTM、IMAGE、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してXLTMをIMAGEに変換します" %}}
 
-XLTM を IMAGE に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLTM を IMAGE に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+XLTM を IMAGE に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLTM を IMAGE に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTM をオンラインで無料で画像に保存" %}}
+{{% blocks/products/pf/agp/content h2="XLTM の画像に XLTM を保存" %}}
 
 次の例は、XLTM を Python の IMAGE に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ XLTM を IMAGE に変換するにはどうすればよいですか? Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLTMをIMAGEに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTMをIMAGEに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM経由でXLTMをIMAGEに変換する方法" %}}
 
@@ -63,12 +63,12 @@ XLTM ファイルをプログラムで IMAGE に変換する必要がありま�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

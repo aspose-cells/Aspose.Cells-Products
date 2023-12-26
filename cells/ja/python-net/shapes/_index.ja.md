@@ -1,6 +1,7 @@
 ---
 title:  Python via .Net を使用して Excel に図形を挿入する
 description: Python via .Net ライブラリを使用して Microsoft Excel ファイルに図形を挿入する方法を示す .Net ソース コード。
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python via .Net を使用した Excel 図形の挿入" h2="Python via ネットベースのアプリケーションでサーバー側 API を使用して Excel ドキュメントを作成し、図形を挿入します。" >}}

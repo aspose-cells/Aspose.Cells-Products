@@ -1,7 +1,8 @@
 ---
-title:  Lihat Format File XLSB via .NET
+title:  Lihat XLSB Format File via .NET
 weight: 6260
-description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSB pada Framework .NET, .NET Core, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSB pada Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
+keywords: [C# Aspose.Cells., c# view XLSB files., c# how to render XLSB document., c# load and display XLSB files., XLSB File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Penampil File for .NET" h2="Lihat spreadsheet Excel & OpenOffice seperti XLSB tanpa memerlukan Microsoft Excel atau Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,13 +14,13 @@ description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSB
 
  Untuk melihat file XLSB, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang kaya fitur, kuat, dan mudah digunakan API untuk platform C# untuk digunakan dengan Penampil apa pun. Membuka
+ API yang merupakan API yang kaya fitur, kuat, dan mudah digunakan untuk platform C# untuk digunakan dengan Penampil mana pun. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  **Aspose.Cells** 
  dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Perintah Konsol Pengelola Paket" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
 ```cs
 
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Muat file XLSB dalam contoh Workbook
-1.  Buat instance HtmlSaveOptions & setel properti ExportHeadings ke true
-1.  Simpan file XLSB dalam format HTML menggunakan metode Workbook.Save
+1.  Muat file XLSB dalam contoh Buku Kerja
+1.  Buat instance HtmlSaveOptions & setel properti EksporHeadings ke true
+1. Simpan file XLSB dalam format HTML menggunakan metode Workbook.Save
 1.  Muat resultan HTML di browser default dengan Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# contoh kode untuk melihat file XLSB" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Contoh kode C# untuk melihat file XLSB" offSpacer="" %}}
 
 ```cs
 
@@ -92,7 +93,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -100,14 +101,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat XLSB" sectionDescription=" Periksa demo langsung kami untuk[Lihat XLSB](https://products.aspose.app/cells/viewer/xlsb) dengan manfaat sebagai berikut." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat XLSB" sectionDescription=" Periksa demo langsung kami[Lihat XLSB](https://products.aspose.app/cells/viewer/xlsb) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSB dan tekan tombol \"Lihat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file XLSB dari tautan, jika diperlukan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Konten dapat mencakup tabel angka, teks, atau angka dan teks yang tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Tidak seperti XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. XLSB file dapat dibaca dan ditulis lebih cepat yang membuatnya berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Bisa dibuka melalui Microsoft Office 2007 ke atas.
+Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Kontennya dapat mencakup tabel angka, teks, atau angka dan teks tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Berbeda dengan XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. File XLSB dapat dibaca dan ditulis lebih cepat sehingga berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Dapat dibuka dengan Microsoft Office 2007 keatas.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,18 +116,18 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Format Penampil Lain yang Didukung" subTitle="Menggunakan C#, Seseorang juga dapat melihat banyak format file lainnya termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Format Penampil yang Didukung Lainnya" subTitle="Menggunakan C#, Seseorang juga dapat melihat banyak format file lainnya termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Format Biner Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Templat Excel Office OpenXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

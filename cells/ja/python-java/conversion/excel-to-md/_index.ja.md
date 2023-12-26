@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL から MD - オンライン EXCEL から MD コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python EXCEL を MD 保存形式に変換します。 Python EXCEL から MD 形式へ。 EXCEL を MD Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to MD saveformat., Free Online EXCEL to MD Python., Python Convert EXCEL to MD]
+title: Python EXCEL から MD - EXCEL から MD コンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、EXCEL を MD にすばやく簡単に変換します。 Python EXCEL を MD に変換します。 Python EXCELをMDに保存してください。 Pythonを使用してEXCELをMDとして保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to MD in Python., Save EXCEL to MD using Python., Python EXCEL to MD saveformat., EXCEL to MD Converter., Python Save EXCEL as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PythonでEXCELをMDに変換" h2="EXCELをMDに変換する高速ライブラリPython。これは、Python を使用して EXCEL、MD、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してEXCELをMDに変換します" %}}
 
-EXCELをMDに変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に EXCEL を MD に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+EXCELをMDに変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に EXCEL を MD に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でEXCELをPythonのMDに保存します" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL を Python で MD に保存" %}}
 
 次の例は、Python で EXCEL を MD に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ EXCELをMDに変換するにはどうすればよいですか? Aspose.Cells for 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでEXCELをMDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="EXCELをMDに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python経由でEXCELをMDに変換する方法" %}}
 
@@ -63,12 +63,12 @@ EXCELをMDに変換するにはどうすればよいですか? Aspose.Cells for 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

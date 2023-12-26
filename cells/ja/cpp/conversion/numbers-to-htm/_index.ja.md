@@ -1,7 +1,7 @@
 ---
-title: C++ NUMBERS から HTM - オンライン NUMBERS から HTM へのコンバーター
-description: Aspose エクセル。 C++ Aspose.Cells. C++ Aspose Cells. 無料オンライン C++ NUMBERS を HTM 保存形式に変換します。 C++ NUMBERS を HTM 形式に変換します。番号を HTM C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to HTM saveformat., Free Online NUMBERS to HTM C++., C++ Convert NUMBERS to HTM]
+title: C++ NUMBERS から HTM へ - NUMBERS から HTM へのコンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、NUMBERS を HTM にすばやく簡単に変換します。 C++ NUMBERS を HTM に変換します。 C++ 番号を HTM に保存してください。 C++ を使用して、NUMBERS を HTM として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to HTM in C++., Save NUMBERS to HTM using C++., C++ NUMBERS to HTM saveformat., NUMBERS to HTM Converter., C++ Save NUMBERS as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ の NUMBERS を HTM に変換します" h2="C++ Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用した高性能の NUMBERS から HTM への変換。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to H
 
 {{% blocks/products/pf/agp/content h2="C++を使用してNUMBERSをHTMに変換します" %}}
 
-NUMBERS を HTM に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を HTM に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+NUMBERS を HTM に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に NUMBERS を HTM に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料で C++ の HTM に NUMBERS を保存します" %}}
+{{% blocks/products/pf/agp/content h2="番号を C++ の HTM に保存" %}}
 
 次の例は、C++ の NUMBERS を HTM に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="NUMBERS をオンラインで HTM に変換するための無料アプリとサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="NUMBERS を HTM に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ 経由で NUMBERS を HTM に変換する方法" %}}
 
@@ -49,8 +49,8 @@ NUMBERS ファイルをプログラムで HTM に変換する必要がありま�
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して NUMBERS ファイルを読み込みます。
-1.  Save() メソッドを呼び出して、NUMBERS を HTM に変換します。
+1.  Workbookを使用してNUMBERSファイルをロードします。
+1. Save() メソッドを呼び出して、NUMBERS を HTM に変換します。
 1.  NUMBERSからHTMへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="PDFまでの番号" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="PNGまでの番号" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="SVGまでの番号" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="TIFFまでの番号" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="TSVまでの番号" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="TXTまでの番号" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="XLSまでの番号" description="Excel バイナリ形式" >}}

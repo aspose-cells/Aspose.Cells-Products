@@ -1,10 +1,10 @@
 ---
 title: Ekspor Laporan di Excel XLS XLSX PDF ODS di JasperReports dan JasperServer
 weight: 9460
-description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Excel XLS XLSX PDF ODS TXT dan SpreadsheetML. Juga cetak laporan sebagai Excel Spreadsheets
+description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Excel XLS XLSX PDF ODS TXT dan SpreadsheetML. Juga mencetak laporan sebagai Excel Spreadsheets
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Ekstensi JasperReports untuk Mengekspor Laporan sebagai Format Excel" h2="Ekspor laporan ke Microsoft Excel spreadsheet beberapa format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Ekstensi JasperReports untuk Mengekspor Laporan sebagai Format Excel" h2="Ekspor laporan ke Microsoft spreadsheet Excel berbagai format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports adalah ekstensi JasperReports dan JasperServer andal yang menawarkan ekspor laporan di Microsoft Excel XLS, XLSX, PDF, ODS, TXT dan SpreadsheetML format tanpa menggunakan Microsoft Unggul. Ini berfungsi sebagai alternatif untuk pengekspor Excel Microsoft asli JasperReports serta menghilangkan ketergantungan pada pustaka POI.
+ Aspose.Cells for JasperReports adalah ekstensi JasperReports dan JasperServer andal yang menawarkan ekspor laporan dalam format Microsoft Excel XLS, XLSX, PDF, ODS, TXT dan SpreadsheetML tanpa menggunakan format 07 6193481 Unggul. Ia berfungsi sebagai alternatif dari eksportir Excel Microsoft asli JasperReports serta menghilangkan ketergantungan pada perpustakaan POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas" description="Tinjauan fitur Aspose.Cells for JasperReports\'." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar fitur Aspose.Cells for JasperReports\'." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,7 +33,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
    <header>
     <i class="fa fa-table">
     </i>
- Kesetiaan Tinggi untuk Melaporkan Desain
+ Kesetiaan Tinggi pada Desain Laporan
    </header>
   </div>
   <!--/left-->
@@ -63,7 +63,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
     <em>
  untuk
     </em>
- JasperReports
+ Laporan Jasper
    </small>
   </footer>
  </div>
@@ -104,7 +104,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
     <em>
  untuk
     </em>
- JasperReports
+ Laporan Jasper
    </small>
   </footer>
  </div>
@@ -154,7 +154,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
      <b>
  Teks:
      </b>
- CSV, TSV, Tab-Delimited
+ CSV, TSV, Dibatasi Tab
     </li>
    </ul>
   </div>
@@ -171,7 +171,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
     <em>
  untuk
     </em>
- JasperReports
+ Laporan Jasper
    </small>
   </footer>
  </div>
@@ -190,7 +190,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- JasperReport Lanjutan ke Fitur Ekspor Excel
+ Fitur Ekspor JasperReports ke Excel Tingkat Lanjut
    </h2>
    <p>
    </p>
@@ -198,7 +198,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hasilkan laporan sebagai Microsoft File Excel
+ Hasilkan laporan sebagai File Excel Microsoft
     </p>
    </div>
    <div class="col-lg-4">
@@ -220,15 +220,15 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
  Ekspor Laporan ke Format Excel Microsoft
     </h2>
     <p>
- Aspose.Cells for JasperReports menyediakan fungsi mengekspor laporan langsung ke format Excel Microsoft seperti XLS &amp; XLSX. Selain itu, Anda juga dapat mengekspor laporan di SpreadsheetML, ODS, CSV &amp; Format yang dibatasi tab agar sesuai dengan kebutuhan bisnis Anda.
+ Aspose.Cells for JasperReports menyediakan fungsionalitas mengekspor laporan langsung ke Microsoft format Excel seperti XLS &amp; XLSX. Selain itu, Anda juga dapat mengekspor laporan di SpreadsheetML, ODS, CSV &amp; Format dibatasi tab untuk memenuhi kebutuhan bisnis Anda.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Kesetiaan Tinggi untuk Melaporkan Desain
+ Kesetiaan Tinggi pada Desain Laporan
     </h2>
     <p>
-Aspose.Cells for JasperReports mengekspor laporan ke format yang didukung dengan presisi tertinggi, yaitu; tampaknya laporan identik diekspor oleh fungsi pengekspor asli JasperReports.
+Aspose.Cells for JasperReports mengekspor laporan ke format yang didukung dengan presisi tertinggi, yaitu; tampaknya laporan serupa diekspor oleh fungsi ekspor asli JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
@@ -236,15 +236,15 @@ Aspose.Cells for JasperReports mengekspor laporan ke format yang didukung dengan
  Spreadsheet Excel yang dapat diedit
     </h2>
     <p>
- Aspose.Cells for JasperReports mengekspor dokumen Excel sebagai spreadsheet yang dapat diedit sepenuhnya. Ini mendukung Microsoft bagan Excel, dan bagan apa pun yang diekspor melalui mesin rendering Aspose akan tersedia sebagai bagan yang dapat diedit daripada gambar statis sehingga memungkinkan pengguna akhir mengubah bagan secara manual di Microsoft Excel.
+ Aspose.Cells for JasperReports mengekspor dokumen Excel sebagai spreadsheet yang dapat diedit sepenuhnya. Ini mendukung bagan Excel Microsoft, dan bagan apa pun yang diekspor melalui mesin rendering Aspose akan tersedia sebagai bagan yang dapat diedit dan bukan gambar statis sehingga memungkinkan pengguna akhir untuk mengubah bagan secara manual di Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Otomasi Kantor – Tidak Diperlukan
+ Microsoft Otomatisasi Kantor – Tidak Diperlukan
     </h2>
     <p>
- Aspose.Cells for JasperReports eksportir dikembangkan menggunakan kode terkelola yang tidak pernah membutuhkan Microsoft Excel atau Microsoft Office untuk diinstal pada mesin untuk bekerja dengan format dokumen Excel. Ini adalah alternatif otomatisasi Excel Microsoft yang sempurna dalam hal stabilitas, skalabilitas, fitur yang didukung, keamanan, harga, dan kecepatan.
+ Aspose.Cells for JasperReports eksportir dikembangkan menggunakan kode terkelola yang tidak memerlukan Microsoft Excel atau Microsoft Office untuk diinstal pada mesin agar dapat bekerja dengan format dokumen Excel. Ini adalah alternatif otomatisasi Excel yang sempurna dalam hal stabilitas, skalabilitas, fitur yang didukung, keamanan, harga, dan kecepatan.
     </p>
    </div>
   </div>
@@ -269,7 +269,7 @@ Aspose.Cells for JasperReports mengekspor laporan ke format yang didukung dengan
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for JasperReports?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for JasperReports?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -278,7 +278,7 @@ Aspose.Cells for JasperReports mengekspor laporan ke format yang didukung dengan
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

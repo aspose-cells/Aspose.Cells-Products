@@ -2,6 +2,7 @@
 title: XLS ファイル via Java でレポートを生成
 weight: 1090
 description: Java JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境に関する XLS 形式のレポートを作成するためのサンプル コード。
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS 形式の一括レポート生成 via Java" h2="データ ソースとテンプレートを使用して、XLS 形式のレポートを生成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -75,9 +76,9 @@ Aspose.Cells for Java は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XLS 形式の Excel レポートを生成 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLS 形式の Excel レポートを生成 - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

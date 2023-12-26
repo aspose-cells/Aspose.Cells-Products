@@ -2,6 +2,7 @@
 title: 表示または編集 XLSM ファイルのメタデータ via .NET
 weight: 5590
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLSM 形式のメタデータを編集または表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view xlsm metadata., c# add xlsm metadata., c# insert xlsm metadata., c# edit xlsm metadata., c# remove xlsm metadata., c# extract xlsm metadata., c# modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM メタデータ via .NET を抽出" h2="サーバー側 API を使用して、XLSM ファイルからメタデータを追加、編集、削除、抽出する独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -2,6 +2,7 @@
 title:  C++ 経由で開かずに XLS ドキュメントを検索
 weight: 4560
 description: C++ 32 ビット、Windows 64 ビットおよび Linux 64 ビット用の C++ ランタイム環境上の XLS ファイル内のパターンを持つ単語を検索する C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ search words with pattern in xls file., C++ find words with pattern in xls file., C++ search string with pattern in xls file., C++ find words with pattern in xls file., C++ search words in xls file., C++ find words in xls file., C++ search string in xls file., C++ find string in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS で XLS の形式を検索" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for C++ API を使用したネイティブで高性能の XLS ドキュメント検索。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -41,11 +42,11 @@ Aspose.Cells API を使用した基本的なドキュメント検索は、わず
 
 {{% /blocks/products/pf/agp/text %}}
 
-IWorkbook クラスをインスタンス化して XLS ファイルを読み込みます。
-+ IReplaceOptions クラスをインスタンス化します。
++ Workbook クラスをインスタンス化して XLS ファイルをロードします。
++ ReplaceOptions クラスをインスタンス化します。
 + SetCaseSensitive(bool value)、SetMatchEntireCellContents(bool value) などの必要なパターンを設定します。
-+ 関連するオプションを指定して IWorkbook->Replace(..) メソッドを使用します。
-+ IWorkbook->Save(.) メソッドを使用して XLS ファイルを保存します。
+関連するオプションを指定して Workbook::Replace(...) メソッドを使用します。
++ Workbook::Save(...) メソッドを使用して XLS ファイルを保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLS file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xls")));
+Workbook  wkb(srcDir + u"sourceFile.xls");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLS file
-wkb->Save(outDir->StringAppend(new String("outputFile.xls")));  
+wkb.Save(outDir + u"outputFile.xls");
+
+Aspose::Cells::Cleanup();
 
 ```
 

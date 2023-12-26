@@ -2,6 +2,7 @@
 title:  C++ 経由で開かずに XLSX ドキュメントを検索
 weight: 9280
 description: C++ 32 ビット、Windows 64 ビットおよび Linux 64 ビット用の C++ ランタイム環境上の XLSX ファイル内のパターンを持つ単語を検索する C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX で XLSX の形式を検索" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for C++ API を使用したネイティブで高性能の XLSX ドキュメント検索。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,11 +42,11 @@ Aspose.Cells API を使用した基本的なドキュメント検索は、わず
 
 {{% /blocks/products/pf/agp/text %}}
 
-IWorkbook クラスをインスタンス化して XLSX ファイルを読み込みます。
-+ IReplaceOptions クラスをインスタンス化します。
++ Workbook クラスをインスタンス化して XLSX ファイルをロードします。
++ ReplaceOptions クラスをインスタンス化します。
 + SetCaseSensitive(bool value)、SetMatchEntireCellContents(bool value) などの必要なパターンを設定します。
-+ 関連するオプションを指定して IWorkbook->Replace(..) メソッドを使用します。
-+ IWorkbook->Save(.) メソッドを使用して XLSX ファイルを保存します。
+関連するオプションを指定して Workbook::Replace(...) メソッドを使用します。
++ Workbook::Save(...) メソッドを使用して XLSX ファイルを保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -119,7 +124,7 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX は、Microsoft Office 2007 のリリースで Microsoft によって導入された、Microsoft Excel ドキュメントのよく知られた形式です。OOXML 標準 ECMA-376 のパート 2 で概説されている Open Packaging Conventions に従って整理された構造に基づいて、新しい形式は次のようになります。多数の XML ファイルを含む zip パッケージ。 .xlsx ファイルを解凍するだけで、基礎となる構造とファイルを調べることができます。
+ XLSX は、Microsoft Office 2007 のリリースで Microsoft によって導入された、Microsoft Excel ドキュメントのよく知られた形式です。OOXML 標準 ECMA-376 のパート 2 で概説されている Open Packaging Conventions に従って整理された構造に基づいて、新しい形式は次のようになります。多数の XML ファイルを含む zip パッケージ。 .xlsx ファイルを解凍するだけで、基礎となる構造とファイルを調べることができます。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

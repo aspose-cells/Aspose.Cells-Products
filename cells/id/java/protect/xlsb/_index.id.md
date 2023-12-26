@@ -1,7 +1,8 @@
 ---
-title: Lindungi dan kunci dokumen XLSB via Java
+title:  Lindungi dan kunci dokumen XLSB via Java
 weight: 6590
 description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+keywords: [Java Aspose.Cells., Java Lock XLSB files., Java How to Protect and lock XLSB document., Java Protect XLSB files., Encrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Enkripsi XLSB File via Java" h2="Spreadsheet Excel yang dilindungi kata sandi termasuk format XLSB menggunakan Perpustakaan .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pa
 
  Untuk melindungi file XLSB, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform enkripsi kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform enkripsi API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -49,7 +50,7 @@ description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pa
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Proteksi File XLSB via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-Langkah Melindungi File XLSB via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -57,8 +58,8 @@ description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pa
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Muat file XLSB dengan membuat instance kelas Workbook
-1.  Gunakan metode protect(..) dengan ProtectionType dan Password
+1.  Muat file XLSB dengan membuat instance kelas Buku Kerja
+1.  Gunakan metode proteksi(..) dengan ProtectionType dan Kata Sandi
 1.  Simpan file XLSB yang dilindungi dengan metode save()
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,7 +68,7 @@ description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pa
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java mendukung semua platform utama dan Sistem Operasi. Harap pastikan bahwa Anda memiliki prasyarat berikut.
+ Aspose.Cells for Java mendukung semua platform dan Sistem Operasi utama. Harap pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +104,7 @@ wkb.save("lockedFile.xlsb");
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for Java API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -111,7 +112,7 @@ wkb.save("lockedFile.xlsb");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLSB" sectionDescription=" Periksa demo langsung kami untuk[mengenkripsi XLSB file](https://products.aspose.app/cells/protect/xlsb) dengan manfaat sebagai berikut." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLSB" sectionDescription=" Periksa demo langsung kami[mengenkripsi file XLSB](https://products.aspose.app/cells/protect/xlsb) dengan manfaat berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSB dan tekan tombol \"Buka Kunci\"." >}}
@@ -119,7 +120,7 @@ wkb.save("lockedFile.xlsb");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Konten dapat mencakup tabel angka, teks, atau angka dan teks yang tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Tidak seperti XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. XLSB file dapat dibaca dan ditulis lebih cepat yang membuatnya berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Bisa dibuka melalui Microsoft Office 2007 ke atas.
+Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Kontennya dapat mencakup tabel angka, teks, atau angka dan teks tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Berbeda dengan XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. File XLSB dapat dibaca dan ditulis lebih cepat sehingga berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Dapat dibuka dengan Microsoft Office 2007 keatas.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,12 +128,12 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan Lainnya yang Didukung" subTitle="Menggunakan Java, seseorang dapat melindungi file lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan yang Didukung Lainnya" subTitle="Menggunakan Java, seseorang dapat melindungi file lain termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Format Biner Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

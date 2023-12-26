@@ -1,7 +1,8 @@
 ---
 title:  Java エクセル API - Aspose
 weight: 6830
-description: Java 表計算処理用の Excel ライブラリ。読み取り書き込みレンダリングと、XLS XLSX XLSM ODS CSV TSV およびその他の形式の変換。 Windows Linux および Unix と互換性あり
+description:  Aspose.Cells for Java Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、CSV、HTML などに変換します。
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Excel スプレッドシート処理 API" h2="Microsoft Excel に依存せずに、スプレッドシートを作成、操作、変換、保護、印刷します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}

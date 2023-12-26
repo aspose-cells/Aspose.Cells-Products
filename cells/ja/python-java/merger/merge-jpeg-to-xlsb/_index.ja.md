@@ -1,8 +1,8 @@
 ---
 title: JPEG から XLSB を結合 - JPEG から XLSB を Python に結合
 url: /ja/python-java/merger/merge-jpeg-to-xlsb/ 
-description: Aspose エクセル。 Python Aspose.Cells。JPEG を XLSB の保存形式に無料でオンライン結合します。 Python JPEG と XLSB の形式を結合します。 JPEG から XLSB を Python に結合します。JPEG を結合します。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., Free Online Python Merge JPEG to xlsb., Python Combine JPEG to XLSB Online for Free., JPEG Merge]
+description: Aspose エクセル。 Python Aspose.Cells。JPEG を XLSB の保存形式にマージします。 Python JPEG と XLSB の形式を結合します。 JPEG から XLSB を Python に結合します。JPEG を結合します。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., Python Merge JPEG to xlsb., Python Combine JPEG to XLSB., JPEG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEG を Python 経由で XLSB に結合" h2="JPEG を XLSB にマージするための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., F
 
 {{% blocks/products/pf/agp/content h2="Python を使用して JPEG を XLSB に結合" %}}
 
- JPEG を XLSB に結合するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を XLSB に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+JPEG を XLSB に結合するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を XLSB に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEG を Python にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="JPEG を Python に結合" %}}
 
 次の例は、JPEG を Aspose.Cells for Python via Java の XLSB にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLSB in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JPEG を Python にオンラインで無料でマージ" InputFormat="jpg" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="JPEG から XLSB を Python にマージするサンプルコード" InputFormat="jpg" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="JPEG を Python 経由で XLSB に結合する方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで JPEG ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

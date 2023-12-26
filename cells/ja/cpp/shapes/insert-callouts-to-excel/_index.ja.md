@@ -2,6 +2,7 @@
 title:  C++ 経由で Excel に吹き出しを挿入
 weight: 810
 description: C++ 32 ビット、Windows 64 ビット、および Linux 64 ビットの C++ ランタイム環境で Excel ファイルにコールアウトを挿入するための C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ add Callouts shape., C++ insert Callouts shape., C++ create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で Excel に吹き出しを挿入" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側 Aspose.Cells for C++ API のネイティブで高いパフォーマンスを使用してオブジェクトを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 Workbook オブジェクトをインスタンス化します。(または -> XLSX ファイルをフルパスでロードします。)
 + インデックスからワークシートを選択します。
- + を使用してください[メソッドの追加](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d)選択したワークシートに数式図形を挿入するには
+ + を使用してください[メソッドの追加](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/)選択したワークシートに数式図形を挿入するには
 ワークブックを XLSX 形式で保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 {{% blocks/products/pf/agp/code-block title="コールアウトの挿入 - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -182,7 +183,7 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java JSONからPRN - オンラインJSONからPRNコンバータ
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java JSON を PRN 保存形式に変換します。 Java JSON を PRN 形式に変換します。 JSON を PRN Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to PRN saveformat., Free Online JSON to PRN Java., Java Convert JSON to PRN]
+title: Java JSON から PRN - JSON から PRN コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、JSONをPRNにすばやく簡単に変換します。Java JSONをPRNに変換します。 Java JSON を PRN に保存します。 Java を使用して、JSON を PRN として保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to PRN in Java., Save JSON to PRN using Java., Java JSON to PRN saveformat., JSON to PRN Converter., Java Save JSON as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSONをJavaのPRNに変換します" h2="JSON を PRN に変換するための高速 Java ライブラリ。これは、JSON、PRN、および Java を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to P
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してJSONをPRNに変換します" %}}
 
-JSONをPRNに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JSON を PRN に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+JSONをPRNに変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JSON を PRN に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ JSONをPRNに変換するにはどうすればよいですか? Aspose.Cells for 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JSONをオンラインで無料でPRNに保存します" %}}
+{{% blocks/products/pf/agp/content h2="JSON の PRN に JSON を保存" %}}
 
 次の例は、JSON を Java の PRN に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ JSONをPRNに変換するにはどうすればよいですか? Aspose.Cells for 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JSONをオンラインでPRNに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="JSONをPRNに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JSONをPRN via Javaに変換する方法" %}}
 
@@ -77,7 +77,7 @@ JSON ファイルをプログラムで PRN に変換する必要があります�
 {{% blocks/products/pf/agp/content h2="Java を PRN に変換するための Java ライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

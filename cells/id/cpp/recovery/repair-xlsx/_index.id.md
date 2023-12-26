@@ -1,8 +1,8 @@
 ---
-title: C++ Perbaiki File xlsx - Perbaiki File xlsx Online Gratis
+title: C++ Perbaikan xlsx - Pulihkan dan Perbaiki File xlsx yang Rusak
 url: /id/cpp/recovery/repair-xlsx/ 
-description: Aspose Unggul. C++ Aspose.Cells. C++ Perbaiki file xlsx. Alat perbaikan xlsx online gratis. Perbaiki file xlsx yang rusak. Pulihkan file xlsx yang rusak dalam aplikasi C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx file., Free Online Repair a corrupted xlsx file., C++ Recover xlsx file.]
+description: C++ Aspose.Cells. Perbaikan xlsx. Perbaiki file xlsx. alat pemulihan xlsx. xlsx korupsi. Pulihkan data xlsx. pemulihan file xlsx. Pulihkan file xlsx yang rusak.
+keywords: [C++ Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Perbaiki file XLSX di C++" h2="Bangun aplikasi C++ Anda sendiri untuk memperbaiki file xlsx menggunakan C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx 
 
 {{% blocks/products/pf/agp/content h2="Perbaiki File XLSX Menggunakan C++" %}}
 
- Bagaimana cara memperbaiki file xlsx? Dengan perpustakaan Aspose.Cells for C++, Anda dapat dengan mudah memperbaiki file XLSX secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya secara langsung, cukup buka[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Bagaimana cara memperbaiki file xlsx? Dengan pustaka Aspose.Cells for C++, Anda dapat dengan mudah memperbaiki file XLSX secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu memperbaiki file xlsx secara terprogram? C++ pengembang dapat dengan mudah memuat & memperbaiki file xlsx hanya dalam beberapa baris kode.
+Perlu memperbaiki file xlsx secara terprogram? Pengembang C++ dapat dengan mudah memuat & memperbaiki file xlsx hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -41,7 +41,7 @@ Perlu memperbaiki file xlsx secara terprogram? C++ pengembang dapat dengan mudah
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplikasi Gratis dan Kode Contoh untuk memperbaiki file XLSX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Contoh Kode untuk memperbaiki file XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="Perpustakaan C++ untuk memperbaiki file XLSX" %}}
 
@@ -51,8 +51,8 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for C++" ke sistem Anda. Silakan pi
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instal a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instal perpustakaan menggunakan Folder Sertakan dan lib. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Pasang a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instal perpustakaan menggunakan Sertakan dan lib Folder. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instal Aspose.Cells for C++ di Linux. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
@@ -73,7 +73,7 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for C++" ke sistem Anda. Silakan pi
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
+XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format baru adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -81,13 +81,13 @@ XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan ole
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lain yang Didukung" subTitle="Menggunakan C++, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Perbaiki Format Excel Lainnya yang Didukung" subTitle="Menggunakan C++, seseorang dapat dengan mudah memperbaiki file format Excel lainnya." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Perbaikan ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Perbaikan XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Perbaikan ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Perbaikan XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="Perbaikan XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Perbaikan XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Perbaikan XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Perbaikan XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

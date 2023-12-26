@@ -1,6 +1,7 @@
 ---
 title: グラフを SVG 画像に変換 via .NET
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLSX ファイル内のチャートを変換するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Convert chart to svg., c# Save chart to svg., c# chart to svg]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="チャートを C# の SVG 画像に変換" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側 API を使用してネイティブで高性能な XLS ドキュメント チャートを画像に変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ API はわずか数行のコードで実行できます。
 {{% /blocks/products/pf/agp/text %}}
 
 XLSX ファイルを作成します。
-+ チャートを取得します。
+チャートを取得します。
 + チャートを SVG 画像に変換します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

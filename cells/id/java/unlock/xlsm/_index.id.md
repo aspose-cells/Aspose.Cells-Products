@@ -1,7 +1,8 @@
 ---
 title:  Buka kunci dokumen XLSM via Java
 weight: 7700
-description: Kode sampel Java untuk membuka kunci file XLSM yang dilindungi kata sandi di Lingkungan Runtime Java untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+description: Kode contoh Java untuk membuka kunci file XLSM yang dilindungi kata sandi pada Lingkungan Runtime Java untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buka kunci XLSM File via Java" h2="Hapus perlindungan dari spreadsheet Excel termasuk file XLSM menggunakan Perpustakaan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -13,7 +14,7 @@ description: Kode sampel Java untuk membuka kunci file XLSM yang dilindungi kata
 
  Untuk membuka kunci file XLSM, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform perlindungan kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform perlindungan API yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -49,17 +50,17 @@ description: Kode sampel Java untuk membuka kunci file XLSM yang dilindungi kata
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah membuka XLSM via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah untuk membuka XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instansiasi kelas Buku Kerja dengan jalur ke file XLSM yang dilindungi
-1.  Dapatkan default atau Lembar Kerja apa pun untuk menghapus perlindungan
-1.  Hapus proteksi Worksheet dengan metode Worksheet.Unprotect
-1.  Hapus proteksi Workbook dengan metode Workbook.Unprotect
-1.  Simpan hasil dalam format XLSM
+1.  Buat instance kelas Buku Kerja dengan jalur ke file XLSM yang dilindungi
+1.  Dapatkan lembar kerja default atau apa pun untuk menghapus perlindungan
+1.  Hapus proteksi Lembar Kerja dengan metode Lembar Kerja. Buka proteksi
+1.  Hapus proteksi Buku Kerja dengan metode Buku Kerja. Buka proteksi
+1.  Simpan hasilnya dalam format XLSM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,13 +68,13 @@ description: Kode sampel Java untuk membuka kunci file XLSM yang dilindungi kata
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java mendukung semua platform utama dan Sistem Operasi. Harap pastikan bahwa Anda memiliki prasyarat berikut.
+ Aspose.Cells for Java mendukung semua platform dan Sistem Operasi utama. Harap pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Buka File XLSM melalui C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Buka kunci XLSM File via Java" offSpacer="" %}}
 
 ```cs
 
@@ -101,7 +102,7 @@ wkb.save("Worksheet_out.xlsm", FileFormatType.EXCEL_97_TO_2003);
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for Java API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -109,14 +110,14 @@ wkb.save("Worksheet_out.xlsm", FileFormatType.EXCEL_97_TO_2003);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Membuka Kunci XLSM" sectionDescription=" Periksa demo langsung kami untuk[buka kunci XLSM file](https://products.aspose.app/cells/unlock/xlsm) dengan manfaat sebagai berikut." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Membuka Kunci XLSM" sectionDescription=" Periksa demo langsung kami[membuka kunci file XLSM](https://products.aspose.app/cells/unlock/xlsm) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSM dan tekan tombol \"Buka Kunci\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file XLSM yang dihasilkan dari tautan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro. Dari sudut pandang aplikasi, Makro adalah kumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk mencatat langkah-langkah yang dilakukan berulang kali dan memfasilitasi pelaksanaan tindakan dengan menjalankan kembali makro. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -124,12 +125,12 @@ File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Da
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Format Buka Kunci Lainnya yang Didukung" subTitle="Menggunakan Java, seseorang dapat dengan mudah menghapus perlindungan / membuka kunci berbagai format termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Format Membuka Kunci Lainnya yang Didukung" subTitle="Dengan menggunakan Java, seseorang dapat dengan mudah menghapus proteksi/pembukaan berbagai format termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

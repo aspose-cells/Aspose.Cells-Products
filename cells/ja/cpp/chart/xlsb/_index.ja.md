@@ -2,6 +2,7 @@
 title: XLSB 文書チャート (C++ 経由)
 weight: 5200
 description: C++ 32 ビット、Windows 64 ビットおよび Linux 64 ビット用の C++ ランタイム環境上の XLSB ファイルにチャートまたは図を描画および変換するための C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsb., C++ Save chart to image in xlsb., C++ chart to image in xlsb., xlsb convert chart to image in C++., xlsb save chart to imagein C++., xlsb chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB C++ でグラフをフォーマットします" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for C++ API を使用したネイティブで高パフォーマンスの XLSB ドキュメント チャート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -69,7 +70,7 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 {{% blocks/products/pf/agp/code-block title="XLSB ファイル チャートの作成 - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsb-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsb-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

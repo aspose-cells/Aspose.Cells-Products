@@ -1,8 +1,8 @@
 ---
 title: XLSB を SPREADSHEETML に結合 - XLSB を Python の SPREADSHEETML に結合
 url: /ja/python-net/merger/merge-xlsb-to-spreadsheetml/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン XLSB を SPREADSHEETML 保存形式にマージします。 Python XLSB を SPREADSHEETML 形式に結合します。 XLSB を Python の SPREADSHEETML にマージします。 XLSB をマージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in Python., Free Online Python Merge XLSB to spreadsheetml., Python Combine XLSB to SPREADSHEETML Online for Free., XLSB Merge]
+description: Aspose エクセル。 Python Aspose.Cells。XLSB を SPREADSHEETML 保存形式にマージします。 Python XLSB を SPREADSHEETML 形式に結合します。 XLSB を Python の SPREADSHEETML にマージします。 XLSB をマージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in Python., Python Merge XLSB to spreadsheetml., Python Combine XLSB to SPREADSHEETML., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB を Python 経由で SPREADSHEETML にマージします" h2="XLSB を SPREADSHEETML にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in P
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLSB を SPREADSHEETML にマージします" %}}
 
- XLSB を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に XLSB を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ XLSB を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for Python via .NET ライブラリを使用すると、数行のコードでプログラム的に XLSB を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via .NET を次からインストールできます。<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSB をオンラインで無料で Python の SPREADSHEETML にマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLSB を Python の SPREADSHEETML にマージします" %}}
 
 次の例は、XLSB を Aspose.Cells for Python via .NET の SPREADSHEETML にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SPREADSHEETML in P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSB をオンラインで Python の SPREADSHEETML に無料でマージ" InputFormat="xlsb" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="XLSB を Python の SPREADSHEETML にマージするサンプルコード" InputFormat="xlsb" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Python を経由して XLSB を SPREADSHEETML にマージする方法" %}}
 
@@ -52,7 +52,7 @@ Workbook クラスで XLSB ファイルをロードします。
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 {{% /blocks/products/pf/agp/text %}}
 
 - インストール[Python](https://www.python.org/downloads/)3.7以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

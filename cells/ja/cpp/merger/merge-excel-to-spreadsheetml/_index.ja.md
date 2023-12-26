@@ -1,8 +1,8 @@
 ---
 title: EXCEL を SPREADSHEETML に結合 - EXCEL を SPREADSHEETML に結合 (C++)
 url: /ja/cpp/merger/merge-excel-to-spreadsheetml/ 
-description: Aspose エクセル。 C++ Aspose.Cells. 無料オンラインでEXCELをSPREADSHEETML保存形式にマージします。 C++ EXCEL を SPREADSHEETML 形式に結合します。 EXCEL を C++ の SPREADSHEETML にマージします。EXCEL マージ。
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to SPREADSHEETML in C++., Free Online C++ Merge EXCEL to spreadsheetml., C++ Combine EXCEL to SPREADSHEETML Online for Free., EXCEL Merge]
+description: Aspose エクセル。 C++ Aspose.Cells. EXCEL を SPREADSHEETML 保存形式にマージします。 C++ EXCEL を SPREADSHEETML 形式に結合します。 EXCEL を C++ の SPREADSHEETML にマージします。EXCEL マージ。
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to SPREADSHEETML in C++., C++ Merge EXCEL to spreadsheetml., C++ Combine EXCEL to SPREADSHEETML., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で EXCEL を SPREADSHEETML にマージ" h2="EXCEL を SPREADSHEETML にマージするための高速ライブラリ C++。 Excel 変換 API を使用して、C++ でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to SPREADSHEETML in C++
 
 {{% blocks/products/pf/agp/content h2="C++ を使用して EXCEL を SPREADSHEETML にマージする" %}}
 
-EXCEL を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に EXCEL を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+EXCEL を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に EXCEL を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ オンラインで無料で EXCEL を SPREADSHEETML にマージ" %}}
+{{% blocks/products/pf/agp/content h2="C++ で EXCEL を SPREADSHEETML にマージ" %}}
 
 次の例は、EXCEL を Aspose.Cells for C++ の SPREADSHEETML にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="C++ で EXCEL を SPREADSHEETML に無料オンラインでマージできます" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++のEXCELをSPREADSHEETMLにマージするサンプルコード" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ 経由で EXCEL を SPREADSHEETML にマージする方法" %}}
 
@@ -107,7 +107,6 @@ ExcelファイルをWorkbookクラスで読み込みます。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-pdf/" name="EXCEL を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-png/" name="EXCEL を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-svg/" name="EXCEL を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tiff/" name="EXCEL を TIFF に結合" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tsv/" name="EXCEL を TSV に結合" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-txt/" name="EXCEL を TXT に結合" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xls/" name="EXCEL を XLS に結合" description="Excel バイナリ形式" >}}

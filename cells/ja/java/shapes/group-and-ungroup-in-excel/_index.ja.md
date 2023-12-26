@@ -2,6 +2,7 @@
 title: Excel で図形をグループ化およびグループ解除する via Java
 weight: 360
 description: Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells' Java API を使用してオブジェクトをグループ化およびグループ解除します。
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel で図形をグループ化およびグループ解除する via Java" h2="Aspose.Cells\' API を使用して、Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずにさまざまなオブジェクトを操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

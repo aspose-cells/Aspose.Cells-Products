@@ -1,7 +1,7 @@
 ---
-title: Python HTM から SQL - オンライン HTM から SQL コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python HTM を SQL 保存形式に変換します。 Python HTM から SQL 形式。 HTM を SQL Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to SQL saveformat., Free Online HTM to SQL Python., Python Convert HTM to SQL]
+title: Python HTM から SQL - HTM から SQL コンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、HTM を SQL にすばやく簡単に変換します。 Python HTM から SQL。 Python HTM を SQL に保存します。 Python を使用して HTM を SQL として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to SQL in Python., Save HTM to SQL using Python., Python HTM to SQL saveformat., HTM to SQL Converter., Python Save HTM as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python で HTM を SQL に変換" h2="HTM を SQL に変換するための高速 Python ライブラリ。これは、Python を使用して HTM、SQL、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Python を使用して HTM を SQL に変換する" %}}
 
-HTM を SQL に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に HTM を SQL に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+HTM を SQL に変換するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に HTM を SQL に簡単に変換できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="無料でオンラインで Python の HTM を SQL に保存します" %}}
+{{% blocks/products/pf/agp/content h2="Python で HTM を SQL に保存" %}}
 
 次の例は、Python で HTM を SQL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ HTM を SQL に変換するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTM を SQL オンラインに変換するための無料アプリとサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="HTM を SQL に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で HTM を SQL に変換する方法" %}}
 
@@ -41,7 +41,7 @@ HTM ファイルをプログラムで SQL に変換する必要があります�
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
 1.  Workbook のインスタンスを使用して HTM ファイルを読み込みます。
 1. Workbook.save メソッドを呼び出して HTM を SQL に変換します。
-1.  HTMからSQLへの変換結果を取得します。
+1. HTMからSQLへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ HTM ファイルをプログラムで SQL に変換する必要があります�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
+ Aspose.Cells for Python via Java はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/)3.5以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

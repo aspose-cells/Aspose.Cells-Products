@@ -32,11 +32,11 @@ Java Java SE または EE に基づくアプリケーションでワークブッ
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="クラウドSDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
-.NET プログラマが Aspose.Cells RESTFul API を簡単に使用できるように特別に設計されたオープンソース SDK。
+.NET プログラマーが Aspose.Cells RESTFul API を簡単に使用できるように特別に設計されたオープン ソース SDK。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="クラウドSDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}
-Java SDK を使用して Aspose.Cells Excel および Calc ファイルの作成、変換、操作を行うための Aspose.Cells クラウド API と通信します。
+Java SDK を使用して Aspose.Cells と通信し、Microsoft Excel および Calc ファイルの作成、変換、操作を行うためのクラウド API を簡単に使用できます。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/cells/family" innerText="すべてのローコード API を表示" >}}

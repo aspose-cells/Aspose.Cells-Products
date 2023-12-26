@@ -1,6 +1,7 @@
 ---
 title: JAVA経由でExcelに図形を挿入
-description: C# JAVA ライブラリを使用して Microsoft Excel ファイルに図形を挿入する方法を示すソース コード。
+description: Java JAVA ライブラリを使用して Microsoft Excel ファイルに図形を挿入する方法を示すソース コード。
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> JAVA による Excel 図形の挿入" h2="JAVA ベースのアプリケーションのサーバー側 API を使用して Excel ドキュメントを作成し、図形を挿入します。" >}}
@@ -14,7 +15,7 @@ description: C# JAVA ライブラリを使用して Microsoft Excel ファイル
 
 これらの API を使用して図形を挿入するのは簡単です。プロセスは、作成することです[ワークブッククラス](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/)オブジェクトを選択し、インデックスを指定して最初のワークシートまたは関連シートを選択します。次を使用してワークシートに図形を追加します。[シェイプコレクション](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)の Add メソッド。
 
-{{% blocks/products/pf/feature-page-code h3="C# Excel に図形を挿入するコード" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Excel に図形を挿入するコード" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

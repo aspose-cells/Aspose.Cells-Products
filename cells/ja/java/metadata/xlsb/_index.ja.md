@@ -2,6 +2,7 @@
 title: 編集または表示 XLSB ファイルのメタデータ via Java
 weight: 7290
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーションの Java ランタイム環境の XLSB 形式メタデータを編集または表示するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java view xlsb metadata., Java add xlsb metadata., Java insert xlsb metadata., Java edit xlsb metadata., Java remove xlsb metadata., Java extract xlsb metadata., Java modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB メタデータ via Java を抽出" h2="サーバー側 API を使用して、XLSB ファイルからメタデータを追加、編集、削除、抽出する独自の Java アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: JSP/JSF アプリケーションおよびデスクトップ アプ�
 
 XLSB ファイルのメタデータを取得するには、次を使用します。
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API は、機能が豊富で強力で使いやすいメタデータ API for Java プラットフォームです。最新バージョンはから直接ダウンロードできます。
+ API は、機能が豊富で強力で使いやすいメタデータ API for Java プラットフォームです。最新バージョンはから直接ダウンロードできます。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 

@@ -1,7 +1,7 @@
 ---
 title: Buat EMF - Buat file EMF di Java
-description: Aspose Unggul. Java Buat File EMF. Buat EMF Java. Java EMF Buat. Buat EMF di Java. Hasilkan file EMF menggunakan Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create EMF Java., Java EMF Creater., Create EMF file in Java., Generate EMF file in Java]
+description: Aspose Unggul. Java Buat file EMF dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file EMF menggunakan Java. Buat EMF di Java. Java EMF Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create EMF file., Generate EMF file in Java., Create EMF file using Java., Write data to EMF file via Java., Create a EMF file in Java., Java Generate a EMF file., Java EMF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File EMF di Java" h2="Pustaka Java berkecepatan tinggi untuk membuat file EMF. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLSX, PDF, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create EMF Java., Java EMF Creater
 
 {{% blocks/products/pf/agp/content h2="Buat File EMF Menggunakan Java" %}}
 
- Bagaimana cara membuat file EMF? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah membuat file EMF secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara membuat file EMF? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah membuat file EMF secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -50,14 +50,14 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create EMF Java., Java EMF Creater
 
 {{% blocks/products/pf/agp/text %}}
 
- Sangat mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file EMF dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+ Mudah bagi pengembang untuk membuat, memuat, memodifikasi, dan mengonversi file EMF dalam menjalankan aplikasi pelaporan berbeda untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Buat contoh dari[Kelas buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1.  Buat sebuah contoh dari[Kelas buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Akses lembar kerja yang relevan menggunakan metode getWorksheets.get().
-1.  Pilih sel yang relevan, masukkan nilai ke sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.
-1.  Simpan buku kerja sebagai format EMF menggunakan metode save().
+1.  Pilih sel yang relevan, masukkan nilainya ke dalam sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.
+1. Simpan buku kerja sebagai format EMF menggunakan metode save().
 
 {{% blocks/products/pf/agp/code-block title="Kode contoh menunjukkan cara membuat file EMF di Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.emf");
 
 {{% blocks/products/pf/agp/text %}}
 
-Sebelum menjalankan kode sumber sampel konversi Java, pastikan Anda memiliki prasyarat berikut.
+ Sebelum menjalankan contoh kode sumber konversi Java, pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,22 +113,22 @@ Sebelum menjalankan kode sumber sampel konversi Java, pastikan Anda memiliki pra
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Format metafile yang disempurnakan (EMF) menyimpan gambar grafis secara mandiri. Metafiles dari EMF terdiri dari catatan panjang variabel dalam urutan kronologis yang dapat membuat gambar yang disimpan setelah diuraikan pada perangkat keluaran apa pun. Rekaman dengan panjang variabel ini dapat berupa definisi objek terlampir, perintah untuk menggambar, dan properti grafik yang penting untuk merender gambar secara akurat. Saat perangkat membuka metafile EMF menggunakan lingkungan grafisnya sendiri, proporsi, dimensi, warna, dan properti grafis lainnya dari gambar asli tetap sama terlepas dari platform perangkat pembuka.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Format metafile yang ditingkatkan (EMF) menyimpan gambar grafis secara mandiri. Metafile EMF terdiri dari rekaman dengan panjang variabel dalam urutan kronologis yang dapat merender gambar yang disimpan setelah diuraikan pada perangkat keluaran apa pun. Catatan dengan panjang variabel ini dapat berupa definisi objek tertutup, perintah untuk menggambar, dan properti grafik yang penting untuk merender gambar secara akurat. Saat perangkat membuka metafile EMF menggunakan lingkungan grafisnya sendiri, proporsi, dimensi, warna, dan properti grafis lainnya dari gambar asli tetap sama terlepas dari platform perangkat pembukanya.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Generasi Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Pembuatan Spreadsheet yang Didukung Lainnya" subTitle="Anda juga dapat membuat format Excel Microsoft lainnya termasuk beberapa yang tercantum di bawah ini." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Legacy)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Lembar Bentang Excel (Warisan)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsx/" name="XLSX" description="Buka Buku Kerja XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsb/" name="XLSB" description="Buku Kerja Biner Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Spreadsheet yang diaktifkan makro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Excel 97 - Templat 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Spreadsheet berkemampuan makro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Templat Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltx/" name="XLTX" description="Templat Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Template Berkemampuan Makro Excel" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Templat Excel yang Diaktifkan Makro" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="Spreadsheet Dokumen Terbuka" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
 

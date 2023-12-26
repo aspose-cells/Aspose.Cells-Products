@@ -1,6 +1,7 @@
 ---
 title:  Lihat Format File MHT via .NET
-description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen MHT pada .NET Framework, .NET Core, Windows Azure, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen MHT pada Kerangka .NET, .NET Core, Windows Azure, Mono atau Platform Xamarin.
+keywords: [C# Aspose.Cells., c# view MHT files., c# how to render MHT document., c# load and display MHT files., MHT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Penampil File MHT for .NET" h2="Lihat spreadsheet Excel & OpenOffice seperti MHT tanpa memerlukan Microsoft Excel atau Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -10,9 +11,9 @@ description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen MHT 
 
 {{% blocks/products/pf/agp/content h2="Cara Melihat File MHT Menggunakan C#" %}}
 
- Untuk melihat file MHT, kami akan menggunakan<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API yang kaya fitur, kuat, dan mudah digunakan API untuk platform C# untuk digunakan dengan Penampil apa pun. Membuka<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> manajer paket, cari<b>Aspose.Cells</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk melihat file MHT, kami akan menggunakan<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API yang merupakan API yang kaya fitur, kuat, dan mudah digunakan untuk platform C# untuk digunakan dengan Penampil mana pun. Membuka<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> manajer paket, cari<b>Aspose.Cells</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Perintah Konsol Pengelola Paket" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
 ```cs
 
@@ -34,8 +35,8 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file MHT dalam instance Workbook
-1. Buat instance HtmlSaveOptions & setel properti ExportHeadings ke true
+1. Muat file MHT dalam contoh Buku Kerja
+1. Buat instance HtmlSaveOptions & setel properti EksporHeadings ke true
 1. Simpan file MHT dalam format HTML menggunakan metode Workbook.Save
 1. Muat resultan HTML di browser default dengan Process.Start
 
@@ -56,7 +57,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kode contoh untuk melihat file MHT" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# contoh kode untuk melihat file MHT" offSpacer="" %}}
 
 ```cs
 
@@ -87,7 +88,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -95,14 +96,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat MHT" sectionDescription=" Periksa demo langsung kami untuk[Lihat MHT](https://products.aspose.app/cells/viewer/mht) dengan manfaat sebagai berikut." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat MHT" sectionDescription=" Periksa demo langsung kami[Lihat MHT](https://products.aspose.app/cells/viewer/mht) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file MHT dan tekan tombol \"Lihat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file MHT dari tautan, jika diperlukan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-File dengan ekstensi .mht adalah format file pengarsipan berkemampuan MIME yang berisi berbagai jenis data ke dalam satu file. Itu dapat menyimpan data seperti teks, gambar, gaya halaman dalam bentuk file CSS, JavaScript, dan sumber daya lainnya sebagai sumber daya tertanam di dalamnya. File MHT, memiliki pesan tipe MIME/rfc822, merangkum semua konten file HTML sebagai file arsip tunggal untuk disimpan pada pengarsipan di perangkat penyimpanan. Aplikasi perangkat lunak seperti Microsoft Word memungkinkan Anda mengonversi dokumen WORD Anda ke MHT dengan mengekspor sebagai file MHT. File MHT dapat dibuka menggunakan browser populer seperti Microsoft Internet Explore dan Google Chrome.
+File dengan ekstensi .mht adalah format file pengarsipan berkemampuan MIME yang berisi berbagai jenis data ke dalam satu file. Itu dapat menyimpan data seperti teks, gambar, penataan halaman dalam bentuk file CSS, JavaScript, dan sumber daya lainnya sebagai sumber daya yang tertanam di dalamnya. File MHT, yang memiliki pesan tipe MIME/rfc822, merangkum semua konten file HTML sebagai file arsip tunggal untuk disimpan pada pengarsipan di perangkat penyimpanan. Aplikasi perangkat lunak seperti Microsoft Word memungkinkan Anda mengonversi dokumen WORD menjadi MHT dengan mengekspor sebagai file MHT. File MHT dapat dibuka menggunakan browser populer seperti Microsoft Internet Explore dan Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

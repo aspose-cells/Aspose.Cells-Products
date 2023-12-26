@@ -1,8 +1,8 @@
 ---
-title: Gabungkan GAMBAR ke MD - Gabungkan GAMBAR ke MD di Java
+title: Gabungkan IMAGE ke MD - Gabungkan IMAGE ke MD di Java
 url: /id/java/merger/merge-image-to-md/ 
-description: Aspose Unggul. Java Aspose.Cells. Free Online Merge IMAGE to MD saveformat. Java Gabungkan format GAMBAR ke MD. Gabung GAMBAR ke MD di Java. Gabung GAMBAR.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD in Java., Free Online Java Merge IMAGE to md., Java Combine IMAGE to MD Online for Free., IMAGE Merge]
+description: Aspose Unggul. Java Aspose.Cells. Gabungkan GAMBAR ke format simpan MD. Java Gabungkan GAMBAR ke format MD. Gabungkan IMAGE ke MD di Java. Gabungkan IMAGE.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD in Java., Java Merge IMAGE to md., Java Combine IMAGE to MD., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabungkan GAMBAR ke MD via Java" h2="Pustaka Java berkecepatan tinggi untuk menggabungkan IMAGE ke MD. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Java. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Gabungkan GAMBAR ke MD Menggunakan Java" %}}
 
- Bagaimana cara menggabungkan IMAGE ke MD? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan IMAGE ke MD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara menggabungkan IMAGE ke MD? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan IMAGE ke MD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Gabungkan GAMBAR ke MD di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Gabungkan IMAGE ke MD di Java" %}}
 
 Contoh berikut menunjukkan cara menggabungkan IMAGE ke MD di Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,26 +56,26 @@ Ikuti langkah mudah untuk menggabungkan IMAGE ke MD. Unggah file Anda, panggil m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online Gratis untuk Menggabungkan GAMBAR ke MD di Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Contoh Kode untuk Menggabungkan IMAGE ke MD di Java" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan GAMBAR ke MD via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Perlu menggabungkan IMAGE ke MD secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan IMAGE ke MD secara terprogram? Dokumen dasar yang digabungkan dan digabungkan dengan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Instal 'Aspose.Cells for Java'.
 + Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-+ Muat file GAMBAR dengan kelas Workbook.
++ Muat file IMAGE dengan kelas Buku Kerja.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
-+ Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
++ Panggil metode Workbook.Save dan berikan nama file output sebagai parameter.
 + Sekarang Anda dapat membuka dan menggunakan file keluaran di Office Microsoft, Adobe PDF atau program lain yang kompatibel.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk menggabungkan IMAGE ke MD" %}}
+{{% blocks/products/pf/agp/content h2="Pustaka Java untuk menggabungkan IMAGE ke MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -90,7 +90,7 @@ Ikuti langkah mudah untuk menggabungkan IMAGE ke MD. Unggah file Anda, panggil m
 
 {{% blocks/products/pf/agp/text %}}
 
-API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengeksekusi kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,36 +102,36 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}File PNG (Portable Network Graphics) adalah format file gambar raster yang menggunakan kompresi lossless. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar lossless yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang banyak digunakan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}File teks yang dibuat dengan dialek bahasa Markdown disimpan dengan ekstensi file .md atau .MARKDOWN. File MD disimpan dalam format teks biasa yang menggunakan bahasa Markdown yang juga menyertakan simbol teks sebaris, yang menentukan bagaimana teks dapat diformat seperti indentasi, pemformatan tabel, font, dan header. File MD dapat dikonversi ke HTML dengan program yang disebut Markdown. Bahasa penurunan harga dirilis oleh John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}File PNG (Portable Network Graphics) adalah format file gambar raster yang menggunakan kompresi lossless. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar lossless yang membuatnya populer di kalangan penggunanya. Seiring berjalannya waktu, PNG telah berkembang sebagai salah satu format file gambar yang banyak digunakan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}File teks yang dibuat dengan dialek bahasa Markdown disimpan dengan ekstensi file .md atau .MARKDOWN. File MD disimpan dalam format teks biasa yang menggunakan bahasa Markdown yang juga menyertakan simbol teks sebaris, yang menentukan bagaimana teks dapat diformat seperti lekukan, pemformatan tabel, font, dan header. File MD dapat dikonversi ke HTML dengan program bernama Markdown. Bahasa penurunan harga dirilis oleh John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan gambar ke banyak format file lainnya termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan gambar ke banyak format file lain termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-docx/" name="Gabungkan GAMBAR ke DOCX" description="Microsoft dokumen Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-sql/" name="Gabungkan GAMBAR ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-docx/" name="Gabungkan GAMBAR ke DOCX" description="Microsoft Dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-sql/" name="Gabungkan GAMBAR ke SQL" description="Bahasa Kueri Terstruktur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-bmp/" name="Gabungkan GAMBAR ke BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-emf/" name="Gabungkan GAMBAR ke EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-emf/" name="Gabungkan GAMBAR ke EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-gif/" name="Gabungkan GAMBAR ke GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-html/" name="Gabungkan GAMBAR ke HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-md/" name="Gabungkan IMAGE ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-md/" name="Gabungkan GAMBAR ke MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-mhtml/" name="Gabungkan GAMBAR ke MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-ods/" name="Gabungkan GAMBAR ke ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-ods/" name="Gabungkan GAMBAR ke ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-pdf/" name="Gabungkan GAMBAR ke PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-png/" name="Gabungkan GAMBAR ke PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-svg/" name="Gabungkan GAMBAR ke SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-tiff/" name="Gabungkan GAMBAR ke TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-tsv/" name="Gabungkan GAMBAR ke TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-txt/" name="Gabungkan GAMBAR ke TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xls/" name="Gabungkan GAMBAR ke XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xls/" name="Gabungkan GAMBAR ke XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlsb/" name="Gabungkan GAMBAR ke XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlsm/" name="Gabungkan GAMBAR ke XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlsx/" name="Gabungkan GAMBAR ke XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlt/" name="Gabungkan GAMBAR ke XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltm/" name="Gabungkan GAMBAR ke XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltx/" name="Gabungkan GAMBAR ke XLTX" description="Templat Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xml/" name="Gabungkan IMAGE ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlsm/" name="Gabungkan GAMBAR ke XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlsx/" name="Gabungkan GAMBAR ke XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xlt/" name="Gabungkan GAMBAR ke XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltm/" name="Gabungkan GAMBAR ke XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltx/" name="Gabungkan GAMBAR ke XLTX" description="Templat Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xml/" name="Gabungkan GAMBAR ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xps/" name="Gabungkan GAMBAR ke XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-json/" name="Gabungkan GAMBAR ke JSON" description="Notasi Objek JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-jpeg/" name="Gabungkan GAMBAR ke JPEG" description="JPEG Gambar" >}}

@@ -1,7 +1,7 @@
 ---
 title: DIF を作成 - Python に DIF ファイルを作成
-description: Aspose エクセル。 Python DIF ファイルを作成します。 DIF Python を作成します。 Python DIF 作成者。 PythonにDIFを作成します。Pythonを使用してDIFファイルを生成します。
-keywords: [Aspose Excel., Python Aspose.Cells., Create DIF Python., Python DIF Creater., Create DIF file in Python., Generate DIF file in Python]
+description: Aspose エクセル。 Python Aspose.Cells を使用して DIF ファイルをすばやく簡単に作成します。 Python を使用して DIF ファイルを生成します。 Python に DIF を作成します。 Python DIF 作成者。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create DIF file., Generate DIF file in Python., Create DIF file using Python., Write data to DIF file via Python., Create a DIF file in Python., Python Generate a DIF file., Python DIF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PythonにDIFファイルを作成" h2="DIFファイルを作成するための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create DIF Python., Python DIF C
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してDIFファイルを作成" %}}
 
- DIFファイルを作成するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に DIF ファイルを簡単に作成できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ DIFファイルを作成するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に DIF ファイルを簡単に作成できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create DIF Python., Python DIF C
 1.  Workbookクラスのインスタンスを作成します。
 1. ワークブックの最初のワークシートにアクセスします。
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
-1. Save メソッドを使用して、ワークブックを DIF ファイルとして保存します。
+1.  Save メソッドを使用して、ワークブックを DIF ファイルとして保存します。
 
 {{% blocks/products/pf/agp/code-block title="サンプルコードは、PythonにDIFファイルを作成する方法を示しています。" offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.dif")
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

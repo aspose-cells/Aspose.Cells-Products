@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM から SPREADSHEETML - オンライン XLSM から SPREADSHEETML コンバータ
-description: Aspose エクセル。 C++ Aspose.Cells. C++ Aspose Cells. 無料オンライン C++ XLSM を SPREADSHEETML 保存形式に変換します。 C++ XLSM を SPREADSHEETML 形式に変換します。 XLSM を SPREADSHEETML C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to SPREADSHEETML saveformat., Free Online XLSM to SPREADSHEETML C++., C++ Convert XLSM to SPREADSHEETML]
+title: C++ XLSM から SPREADSHEETML - XLSM から SPREADSHEETML コンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、XLSM を SPREADSHEETML にすばやく簡単に変換します。 C++ XLSM を SPREADSHEETML に変換します。 C++ XLSM を SPREADSHEETML に保存します。 C++ を使用して、XLSM を SPREADSHEETML として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSM to SPREADSHEETML in C++., Save XLSM to SPREADSHEETML using C++., C++ XLSM to SPREADSHEETML saveformat., XLSM to SPREADSHEETML Converter., C++ Save XLSM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM を C++ の SPREADSHEETML に変換します" h2="Microsoft Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用して XLSM から SPREADSHEETML への高性能変換。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to SPRE
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXLSMをSPREADSHEETMLに変換します" %}}
 
-XLSM を SPREADSHEETML に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSM を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSM を SPREADSHEETML に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLSM を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSM をオンラインで無料で XLSM の SPREADSHEETML に保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLSM を C++ の SPREADSHEETML に保存" %}}
 
 次の例は、XLSM を C++ の SPREADSHEETML に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLSMをSPREADSHEETMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLSMをSPREADSHEETMLに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSMを経由してXLSMをSPREADSHEETMLに変換する方法" %}}
 
@@ -49,8 +49,8 @@ XLSM ファイルをプログラムで SPREADSHEETML に変換する必要があ
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して XLSM ファイルを読み込みます。
-1. Save() メソッドを呼び出して、XLSM を SPREADSHEETML に変換します。
+1. ワークブックを使用して XLSM ファイルをロードします。
+1.  Save() メソッドを呼び出して、XLSM を SPREADSHEETML に変換します。
 1.  XLSMをSPREADSHEETMLに変換した結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-pdf/" name="XLSM から PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-png/" name="XLSM から PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-svg/" name="XLSM から SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tiff/" name="XLSM から TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tsv/" name="XLSM から TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-txt/" name="XLSM から TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-xls/" name="XLSM から XLS" description="Excel バイナリ形式" >}}

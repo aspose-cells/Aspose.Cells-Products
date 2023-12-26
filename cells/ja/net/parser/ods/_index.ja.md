@@ -2,6 +2,7 @@
 title: ODS ドキュメント via .NET からテキストと画像を抽出します
 weight: 6970
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の ODS ファイルからテキストと画像を抽出するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How to Parse ODS File., c# Extract text from ODS file., Extract images from ODS file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS の ODS 形式を解析する" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for .NET API を使用したネイティブで高性能の ODS ドキュメント解析。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

@@ -1,7 +1,8 @@
 ---
 title:  Excel に吹き出しを挿入 via .NET
 weight: 360
-description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の Excel にコールアウトを挿入するための C# ソース コード。
+description: C# .NET ライブラリを使用して Excel に吹き出しを追加または挿入するサンプル コード。このコードを使用して、VB.NET、Asp.NET、または .NET ベースのアプリケーション内の MS Excel でコールアウトを作成します。
+keywords: [C# Aspose.Cells., c# add Callouts shape., c# insert Callouts shape., c# create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel に吹き出しを挿入 via .NET" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用して吹き出しを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -111,7 +112,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/bent_line.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.LineCalloutWithBorder2
+AutoShapeType.LineCalloutWithBorder2
     </p>
    </div>
    <div class="col-lg-4">
@@ -171,7 +172,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/double_bent_line_with_border_and_accent_bar.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.LineCalloutWithBorderAndAccentBar3
+ AutoShapeType.LineCalloutWithBorderAndAccentBar3
     </p>
    </div>
   </div>
@@ -187,7 +188,7 @@ AutoShapeType.LineCalloutWithBorderAndAccentBar3
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

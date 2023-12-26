@@ -1,7 +1,8 @@
 ---
 title:  .NET エクセル API |プロセス スプレッドシート フォーマット via .NET コア
 weight: 2030
-description: C# ASP.NET VB.NET Microsoft Excel ドキュメントを操作するライブラリ。読み取り書き込み保存および印刷スプレッドシート ファイルを作成します。 PDF 以降の形式に変換
+description: C# ASP.NET VB.NET Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、XML、TSV、HTML などに変換します。
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel ファイルの操作 via .NET API" h2=".NET、.NET Core および Xamarin プラットフォームでのスプレッドシート ファイルの読み取りと書き込み。 Microsoft Excel を使用せずに、スプレッドシートを他の形式にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}

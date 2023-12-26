@@ -1,7 +1,8 @@
 ---
 title:  Lindungi dan kunci dokumen XLSX melalui C++
 weight: 1140
-description: C++ contoh kode untuk mengunci file XLSX menggunakan password pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
+description: Contoh kode C++ untuk mengunci file XLSX menggunakan password pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLSX files., C++ How to Protect and lock XLSX document., C++ Protect XLSX files., Encrypt XLSX Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Enkripsi File XLSX melalui C++" h2="Spreadsheet Excel yang dilindungi kata sandi termasuk format XLSX menggunakan Perpustakaan .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: C++ contoh kode untuk mengunci file XLSX menggunakan password pada 
 
  Untuk melindungi file XLSX, kami akan menggunakan
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API yang merupakan platform enkripsi dokumen yang kaya fitur, kuat dan mudah digunakan API for C++. Anda dapat mengunduh versi terbarunya secara langsung, cukup buka
+ API yang merupakan platform enkripsi dokumen yang kaya fitur, kuat dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  **Aspose.Cells.Cpp** 
@@ -33,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Proteksi File XLSX via C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Melindungi File XLSX melalui C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Muat file XLSX menggunakan kelas IWorkbook
+1.  Muat file XLSX menggunakan kelas Buku Kerja
 1.  Gunakan metode Protect(..) dengan ProtectionType dan Password
 1.  Simpan file XLSX yang dilindungi dengan metode Save()
 
@@ -51,7 +52,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ mendukung semua platform utama dan Sistem Operasi. Harap pastikan bahwa Anda memiliki prasyarat berikut.
+ Aspose.Cells for C++ mendukung semua platform dan Sistem Operasi utama. Harap pastikan Anda memiliki prasyarat berikut.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsx");
 
-// Load XLSX file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSX file
-workbook->Save(outDir->StringAppend(new String("output.xlsx")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -92,7 +97,7 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -100,7 +105,7 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLSX" sectionDescription=" Periksa demo langsung kami untuk[mengenkripsi XLSX file](https://products.aspose.app/cells/protect/xlsx) dengan manfaat sebagai berikut." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melindungi XLSX" sectionDescription=" Periksa demo langsung kami[mengenkripsi file XLSX](https://products.aspose.app/cells/protect/xlsx) dengan manfaat berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSX dan tekan tombol \"Buka Kunci\"." >}}
@@ -108,7 +113,7 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
+XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format baru adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -116,12 +121,12 @@ XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan ole
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan Lainnya yang Didukung" subTitle="Menggunakan C++, seseorang dapat melindungi file lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Perlindungan yang Didukung Lainnya" subTitle="Menggunakan C++, seseorang dapat melindungi file lain termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xls/" name="XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xlsm/" name="XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

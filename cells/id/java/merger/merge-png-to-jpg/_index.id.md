@@ -1,8 +1,8 @@
 ---
-title: Gabung PNG ke JPG - Gabungkan PNG ke JPG di Java
+title: Gabungkan PNG ke JPG - Gabungkan PNG ke JPG di Java
 url: /id/java/merger/merge-png-to-jpg/ 
-description: Aspose Unggul. Java Aspose.Cells. Free Online Merge PNG to JPG saveformat. Java Gabungkan PNG dengan format JPG. Gabung PNG ke JPG di Java. PNG Gabung.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free Online Java Merge PNG to jpg., Java Combine PNG to JPG Online for Free., PNG Merge]
+description: Aspose Unggul. Java Aspose.Cells. Gabungkan PNG ke format simpan JPG. Java Gabungkan PNG ke format JPG. Gabungkan PNG ke JPG di Java. PNG Gabungkan.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Java Merge PNG to jpg., Java Combine PNG to JPG., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabungkan PNG menjadi JPG via Java" h2="Pustaka Java berkecepatan tinggi untuk menggabungkan PNG ke JPG. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Java. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Gabungkan PNG ke JPG Menggunakan Java" %}}
 
- Bagaimana cara menggabungkan PNG ke JPG? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan PNG ke JPG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara menggabungkan PNG ke JPG? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan PNG ke JPG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Gabungkan PNG ke JPG di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Gabungkan PNG ke JPG di Java" %}}
 
 Contoh berikut menunjukkan cara menggabungkan PNG ke JPG di Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk menggabungkan PNG ke JPG. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file JPG. Jika Anda mengembangkan kode di Java, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Java yang menggabungkan PNG ke JPG.
+Ikuti langkah mudah menggabungkan PNG ke JPG. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file JPG. Jika Anda mengembangkan kode di Java, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Java yang menggabungkan PNG ke JPG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online Gratis untuk Menggabungkan PNG ke JPG di Java" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Contoh Kode untuk Menggabungkan PNG ke JPG di Java" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan PNG ke JPG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu menggabungkan PNG ke JPG secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+Perlu menggabungkan PNG ke JPG secara terprogram? Dokumen dasar yang digabungkan dan digabungkan dengan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,12 +70,12 @@ Perlu menggabungkan PNG ke JPG secara terprogram? Penggabungan dan penggabungan 
 + Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
 + Muat file PNG dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
-+ Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
++ Panggil metode Workbook.Save dan berikan nama file output sebagai parameter.
 + Sekarang Anda dapat membuka dan menggunakan file keluaran di Office Microsoft, Adobe PDF atau program lain yang kompatibel.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk menggabungkan PNG ke JPG" %}}
+{{% blocks/products/pf/agp/content h2="Pustaka Java untuk menggabungkan PNG ke JPG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -90,7 +90,7 @@ Perlu menggabungkan PNG ke JPG secara terprogram? Penggabungan dan penggabungan 
 
 {{% blocks/products/pf/agp/text %}}
 
-API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengeksekusi kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,35 +102,35 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}File PNG (Portable Network Graphics) adalah format file gambar raster yang menggunakan kompresi lossless. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar lossless yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang banyak digunakan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar dapat diabaikan jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}File PNG (Portable Network Graphics) adalah format file gambar raster yang menggunakan kompresi lossless. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar lossless yang membuatnya populer di kalangan penggunanya. Seiring berjalannya waktu, PNG telah berkembang sebagai salah satu format file gambar yang banyak digunakan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar akan sedikit terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi pula penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan png ke banyak format file lainnya termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan png ke banyak format file lain termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-docx/" name="Gabungkan PNG menjadi DOCX" description="Microsoft dokumen Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-sql/" name="Gabungkan PNG ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-docx/" name="Gabungkan PNG menjadi DOCX" description="Microsoft Dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-sql/" name="Gabungkan PNG ke SQL" description="Bahasa Kueri Terstruktur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-bmp/" name="Gabungkan PNG menjadi BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-emf/" name="Gabungkan PNG menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-emf/" name="Gabungkan PNG menjadi EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-gif/" name="Gabungkan PNG menjadi GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-html/" name="Gabungkan PNG menjadi HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-md/" name="Gabungkan PNG ke MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-mhtml/" name="Gabungkan PNG menjadi MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-ods/" name="Gabungkan PNG menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-ods/" name="Gabungkan PNG menjadi ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-pdf/" name="Gabungkan PNG menjadi PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-png/" name="Gabungkan PNG menjadi PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-svg/" name="Gabungkan PNG menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-tiff/" name="Gabungkan PNG menjadi TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-tsv/" name="Gabungkan PNG menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-txt/" name="Gabungkan PNG menjadi TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xls/" name="Gabungkan PNG menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xls/" name="Gabungkan PNG menjadi XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlsb/" name="Gabungkan PNG menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlsm/" name="Gabungkan PNG menjadi XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlsx/" name="Gabungkan PNG menjadi XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlt/" name="Gabungkan PNG menjadi XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltm/" name="Gabungkan PNG menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltx/" name="Gabungkan PNG menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlsm/" name="Gabungkan PNG menjadi XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlsx/" name="Gabungkan PNG menjadi XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlt/" name="Gabungkan PNG menjadi XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltm/" name="Gabungkan PNG menjadi XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltx/" name="Gabungkan PNG menjadi XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xml/" name="Gabungkan PNG ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xps/" name="Gabungkan PNG menjadi XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-json/" name="Gabungkan PNG menjadi JSON" description="Notasi Objek JavaScript" >}}

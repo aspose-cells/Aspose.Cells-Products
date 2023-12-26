@@ -1,6 +1,7 @@
 ---
 title: C# 経由でローソク足チャートを作成する
 description: C# .NET ライブラリを使用して Excel にローソク足（始値、高値、安値、終値）チャートを作成するサンプル コードです。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内で MS Excel にローソク足チャートを作成するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

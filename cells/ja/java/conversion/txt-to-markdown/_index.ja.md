@@ -1,7 +1,7 @@
 ---
-title: Java TXT から MARKDOWN - オンライン TXT から MARKDOWN コンバータ
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java TXT を MARKDOWN 保存形式に変換します。 Java TXT ～ MARKDOWN の形式。 TXT から MARKDOWN Java を保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN Java., Java Convert TXT to MARKDOWN]
+title: Java TXT ～ MARKDOWN - TXT ～ MARKDOWN コンバータ
+description: Aspose エクセル。 TXT を Aspose.Cells ですばやく簡単に MARKDOWN に変換します。 Java TXT から MARKDOWN に変換します。 Java TXT を MARKDOWN に保存します。 TXT を 07611134 として保存しますJavaを使用して81。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to MARKDOWN in Java., Save TXT to MARKDOWN using Java., Java TXT to MARKDOWN saveformat., TXT to MARKDOWN Converter., Java Save TXT as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT を Java の MARKDOWN に変換します" h2="TXT を MARKDOWN に変換するための高速 Java ライブラリ。これは、TXT、MARKDOWN、および Java を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to MA
 
 {{% blocks/products/pf/agp/content h2="Java を使用して TXT を MARKDOWN に変換します" %}}
 
-TXT を MARKDOWN に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に TXT を MARKDOWN に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+TXT を MARKDOWN に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に TXT を MARKDOWN に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ TXT を MARKDOWN に変換するにはどうすればよいですか? Aspose.Cel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java に TXT から MARKDOWN をオンラインで無料で保存" %}}
+{{% blocks/products/pf/agp/content h2="TXT を Java に保存" %}}
 
 次の例は、TXT を Java の MARKDOWN に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ TXT を MARKDOWN に変換するにはどうすればよいですか? Aspose.Cel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでTXTをMARKDOWNに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="TXT を MARKDOWN に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="TXT を MARKDOWN via Java に変換する方法" %}}
 
@@ -77,7 +77,7 @@ TXT ファイルをプログラムで MARKDOWN に変換する必要がありま
 {{% blocks/products/pf/agp/content h2="Java を TXT に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

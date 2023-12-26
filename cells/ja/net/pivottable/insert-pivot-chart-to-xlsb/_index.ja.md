@@ -1,7 +1,8 @@
 ---
 title: C# 経由で Micorsoft Excel XLSB ファイルにピボット チャートを挿入
 weight: 7690
-description: C# ピボット チャートを含む XLSB ドキュメントを生成するためのサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内でピボット チャートを含む Micorsoft Excel XLSB ファイルを作成するには、このコードを使用します。
+description: C# .NET ライブラリを使用して XLSB にピボット チャートを追加するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内の XLSB ファイルにピボット チャートを挿入するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSB ドキュメントにピボット チャートを挿入" h2="サーバー側 .NET API を使用してプログラムでピボット チャートを作成できる、ネイティブで高性能な Microsoft Excel XLSB スプレッドシート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# ピボット チャートを含む XLSB ドキュメントを生
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-実行中のアプリケーション内でピボット チャートを含む MS Excel XLSB ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボット チャートを使用して XLSB ドキュメントを最初から作成するには、次を使用します。
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
+実行中のアプリケーション内でピボット チャートを含む MS Excel XLSB ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボット チャートを使用して XLSB ドキュメントを最初から作成するには、次を使用します。[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# ピボット チャートを含む XLSB ドキュメントを生
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
 1. ピボットテーブルを挿入してスタイルを設定する
 1. ピボットテーブルのデータを利用してピボットグラフを挿入する
-1. Save メソッドを使用して、ワークブックを XLSB ファイルとして保存します。
+1.  Save メソッドを使用して、ワークブックを XLSB ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

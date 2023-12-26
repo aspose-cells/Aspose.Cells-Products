@@ -2,6 +2,7 @@
 title: ロックを解除 XLSB ドキュメント via Java
 weight: 5860
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境で、パスワードで保護された XLSB ファイルのロックを解除するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB ファイルのロックを解除 via Java" h2="Java ライブラリを使用して、XLSB ファイルを含む Excel スプレッドシートから保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ Aspose.Cells for Java は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# 経由で XLSB ファイルのロックを解除する" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSB ファイルのロックを解除 via Java" offSpacer="" %}}
 
 ```cs
 
@@ -124,7 +125,7 @@ XLSB ファイル形式は、Excel ワークブックのコンテンツを指定
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Java を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Javaを使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Excel バイナリ形式" >}}

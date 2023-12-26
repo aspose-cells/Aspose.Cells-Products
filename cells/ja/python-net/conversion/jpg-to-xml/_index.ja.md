@@ -1,7 +1,7 @@
 ---
-title: Python JPG から XML - オンライン JPG から XML コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python JPG を XML 保存形式に変換します。 Python JPG から XML 形式。 JPG を XML Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XML saveformat., Free Online JPG to XML Python., Python Convert JPG to XML]
+title: Python JPG から XML - JPG から XML コンバーター
+description: Aspose エクセル。 Python Aspose.Cells。Python で JPG を XML に変換します。Python JPG を XML 保存形式に変換します。 Python JPG から XML 形式。 JPG を XML Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to XML in Python., Python JPG to XML saveformat., JPG to XML Python., Python Convert JPG to XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PythonでJPGをXMLに変換" h2="JPG を XML に変換するための高速 Python ライブラリ。 Excel 変換 API を使用して、プラットフォームに依存しない高レベルのソフトウェアを Python で開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="PythonでJPGをXMLに変換" %}}
 
- JPG を XML に変換するにはどうすればよいですか? NET ライブラリ経由の Aspose.Cells for Python を使用すると、数行のコードでプログラムによって JPG を XML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ JPG を XML に変換するにはどうすればよいですか? NET ライブラリ経由の Aspose.Cells for Python を使用すると、数行のコードでプログラムによって JPG を XML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="オンラインでJPGを無料でPythonにXMLに保存" %}}
+{{% blocks/products/pf/agp/content h2="Python で JPG を XML に保存" %}}
 
 次の例は、JPG を Python via NET の XML に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでJPGをXMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="JPGをXMLに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPGをXMLに変換する方法" %}}
 
@@ -52,7 +52,7 @@ JPG ファイルをプログラムで XML に変換する必要があります�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -12,7 +12,7 @@ description: Jasper Reports および JasperServer からレポートを Excel X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports は、信頼性の高い JasperReports および JasperServer 拡張機能であり、使用せずに Microsoft Excel XLS、XLSX、PDF、ODS、TXT および SpreadsheetML 形式でレポートをエクスポートできます。 Microsoft エクセル。これは、JasperReports のオリジナルの Microsoft Excel エクスポータの代替として機能するだけでなく、POI ライブラリへの依存を排除します。
+ Aspose.Cells for JasperReports は、0 を使用せずに Microsoft Excel XLS、XLSX、PDF、ODS、TXT および SpreadsheetML 形式でレポートをエクスポートできる信頼性の高い JasperReports および JasperServer 拡張機能です。 76193481 エクセル。これは、JasperReports のオリジナルの Microsoft Excel エクスポータの代替として機能するだけでなく、POI ライブラリへの依存を排除します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Jasper Reports および JasperServer からレポートを Excel X
    <header>
     <i class="fa fa-bar-chart">
     </i>
-編集可能なグラフ
+編集可能なチャート
    </header>
    <br/>
    <header>

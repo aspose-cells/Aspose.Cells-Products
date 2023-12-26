@@ -1,8 +1,8 @@
 ---
 title: MHTML を EXCEL に結合 - MHTML を Python の EXCEL に結合
 url: /ja/python-java/merger/merge-mhtml-to-excel/ 
-description: Aspose エクセル。 Python Aspose.Cells。無料オンライン MHTML を EXCEL 保存形式にマージします。 Python MHTMLをEXCEL形式に結合します。 MHTML を Python の EXCEL にマージします。 MHTML マージします。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EXCEL in Python., Free Online Python Merge MHTML to excel., Python Combine MHTML to EXCEL Online for Free., MHTML Merge]
+description: Aspose エクセル。 Python Aspose.Cells。MHTML を EXCEL 保存形式にマージします。 Python MHTMLをEXCEL形式に結合します。 MHTML を Python の EXCEL にマージします。 MHTML マージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EXCEL in Python., Python Merge MHTML to excel., Python Combine MHTML to EXCEL., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を Python 経由で EXCEL にマージ" h2="MHTMLをEXCELにマージするための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EXCEL in Python.,
 
 {{% blocks/products/pf/agp/content h2="Python を使用して MHTML を EXCEL にマージする" %}}
 
- MHTML を EXCEL にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を EXCEL に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+MHTML を EXCEL にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を EXCEL に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHTMLをオンラインで無料でMHTMLのEXCELにマージします" %}}
+{{% blocks/products/pf/agp/content h2="MHTML を Python の EXCEL にマージ" %}}
 
 次の例は、MHTML を Aspose.Cells for Python via Java の EXCEL にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EXCEL in Python.,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML をオンラインで Python の EXCEL に無料でマージ" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="MHTMLをPythonのEXCELにマージするサンプルコード" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTMLを介してMHTMLをEXCELにマージする方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで MHTML ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

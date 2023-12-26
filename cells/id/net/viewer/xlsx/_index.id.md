@@ -1,7 +1,8 @@
 ---
-title:  Lihat Format File XLSX via .NET
+title:  Lihat XLSX Format File via .NET
 weight: 2180
-description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSX pada Framework .NET, .NET Core, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSX pada Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
+keywords: [C# Aspose.Cells., c# view XLSX files., c# how to render XLSX document., c# load and display XLSX files., XLSX File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX Penampil File for .NET" h2="Lihat spreadsheet Excel & OpenOffice seperti XLSX tanpa memerlukan Microsoft Excel atau Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -13,13 +14,13 @@ description: Kode sumber C# untuk memuat, merender, dan menampilkan dokumen XLSX
 
  Untuk melihat file XLSX, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang kaya fitur, kuat, dan mudah digunakan API untuk platform C# untuk digunakan dengan Penampil apa pun. Membuka
+ API yang merupakan API yang kaya fitur, kuat, dan mudah digunakan untuk platform C# untuk digunakan dengan Penampil mana pun. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  **Aspose.Cells** 
  dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Perintah Konsol Pengelola Paket" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
 ```cs
 
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Muat file XLSX dalam contoh Workbook
-1.  Buat instance HtmlSaveOptions & setel properti ExportHeadings ke true
-1.  Simpan file XLSX dalam format HTML menggunakan metode Workbook.Save
+1.  Muat file XLSX dalam contoh Buku Kerja
+1.  Buat instance HtmlSaveOptions & setel properti EksporHeadings ke true
+1. Simpan file XLSX dalam format HTML menggunakan metode Workbook.Save
 1.  Muat resultan HTML di browser default dengan Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# contoh kode untuk melihat file XLSX" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Contoh kode C# untuk melihat file XLSX" offSpacer="" %}}
 
 ```cs
 
@@ -92,7 +93,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+ Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda. Selain itu, ini dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan penghitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 
 
@@ -100,14 +101,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat XLSX" sectionDescription=" Periksa demo langsung kami untuk[Lihat XLSX](https://products.aspose.app/cells/viewer/xlsx) dengan manfaat sebagai berikut." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Melihat XLSX" sectionDescription=" Periksa demo langsung kami[Lihat XLSX](https://products.aspose.app/cells/viewer/xlsx) dengan manfaat berikut." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSX dan tekan tombol \"Lihat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file XLSX dari tautan, jika diperlukan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
+XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format baru adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,18 +116,18 @@ XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan ole
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Format Penampil Lain yang Didukung" subTitle="Menggunakan C#, Seseorang juga dapat melihat banyak format file lainnya termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Format Penampil yang Didukung Lainnya" subTitle="Menggunakan C#, Seseorang juga dapat melihat banyak format file lainnya termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/csv/" name="CSV" description="Nilai yang Dipisahkan Koma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Templat Excel Office OpenXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

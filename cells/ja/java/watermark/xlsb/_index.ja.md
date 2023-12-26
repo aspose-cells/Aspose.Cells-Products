@@ -2,6 +2,7 @@
 title: ウォーターマーク XLSB ドキュメント via Java
 weight: 5900
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境上の XLSB ファイルにウォーターマークを追加または削除する Java サンプル コード。
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="テキスト透かしを XLSB via Java に追加" h2="サーバー側 API を使用して、XLSB ファイルに透かしを入れる独自の Java アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

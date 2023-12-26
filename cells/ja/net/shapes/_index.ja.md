@@ -1,6 +1,7 @@
 ---
 title: Excel に図形を挿入 via .NET
-description:  C# ライブラリを使用して Microsoft Excel ファイルに図形を挿入する方法を示すソース コード。
+description: C# .NET ライブラリを使用して Excel に図形を追加または挿入するサンプル コード。このコードを使用して、VB.NET、Asp.NET、または .NET ベースのアプリケーション内の MS Excel で図形を作成します。
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 図形の挿入 via .NET" h2=".NET ベースのアプリケーションでサーバー側 API を使用して Excel ドキュメントを作成し、図形を挿入します。" >}}

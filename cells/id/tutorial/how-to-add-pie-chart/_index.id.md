@@ -11,11 +11,11 @@ url: /id/tutorial/add-pie-chart-in-excel
 {{< blocks/products/pf/feature-page-section h2="Pelajari cara menambahkan diagram lingkaran dengan Aspose.Cells" >}}
 
 <p>
-Dalam tutorial ini, kami akan menambahkan diagram lingkaran dalam file excel.
+Dalam tutorial ini, kita akan menambahkan diagram lingkaran dalam file excel.
 </p>
 
 <p>
- Kita akan mulai dengan membuat buku kerja baru menggunakan<a href="https://www.nuget.org/packages/Aspose.Cells">Perpustakaan Aspose.Cells</a> dan tambahkan diagram lingkaran.
+ Kita akan mulai dengan membuat buku kerja baru menggunakan<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells perpustakaan</a> dan tambahkan diagram lingkaran.
 </p>
 
 <br />
@@ -28,13 +28,13 @@ Dalam tutorial ini, kami akan menambahkan diagram lingkaran dalam file excel.
 //ExStepSummary:2: Kode berikut menunjukkan cara mengakses label data, mengaktifkan nama kategori, mengaktifkan format persentase, dan mengatur posisi.
 //ExStepImage:2:langkah-3.png
 //ExStart
-//ExStep:0-
+//ExLangkah:0-
 menggunakan Aspose.Cells;
 menggunakan Aspose.Cells.Gambar;
 
 Buku kerja buku kerja = Buku Kerja baru();
 Lembar kerja = buku kerja.Lembar kerja[0];
-lembar.Nama = "LembarBagan";
+sheet.Nama = "Lembar Bagan";
 Cells sel = lembar.Cells;
 sel["A1"].Nilai = "Buah";
 sel["A2"].Nilai = "apel";
@@ -48,29 +48,29 @@ sel["B3"].Nilai = 5;
 sel["B4"].Nilai = 20;
 sel["B5"].Nilai = 8;
 
-sheet.PageSetup.PrintGridlines = true;
+sheet.PageSetup.PrintGridlines = benar;
 sheet.PageSetup.PrintArea = "A1:F20";
 
-Grafik ChartCollection = sheet.Charts;
+Bagan ChartCollection = lembar.Bagan;
 
-//Tambahkan diagram lingkaran, setel rentang data seri, dan setel rentang data kategori
-int index = sheet.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
-Bagan bagan = sheet.Charts[indeks];
-chart.NSeries.Add("B2:B5", true);
-chart.NSeries.CategoryData = "A2:A5";
+//Tambahkan diagram lingkaran, atur rentang data seri, dan atur rentang data kategori
+int indeks = sheet.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
+Bagan bagan = lembar.Bagan[indeks];
+chart.NSeries.Add("B2:B5", benar);
+grafik.NSeries.CategoryData = "A2:A5";
 
-//ExStep:1-
-// Matikan legenda
-chart.ShowLegend = false;
+//Langkah Sebelumnya:1-
+//Matikan legenda
+grafik.ShowLegend = false;
 
-//ExStep:2-
-//Akses label data, aktifkan nama kategori, aktifkan format persentase, dan setel posisi
-DataLabels dataLabels = chart.NSeries[0].DataLabels;
-dataLabels.ShowCategoryName = true;
-dataLabels.ShowPercentage = true;
+//Langkah Sebelumnya:2-
+//Akses label data, aktifkan nama kategori, aktifkan format persentase, dan atur posisi
+DataLabels dataLabels = bagan.NSeries[0].DataLabels;
+dataLabels.ShowCategoryName = benar;
+dataLabels.ShowPercentage = benar;
 dataLabels.Position = LabelPositionType.OutsideEnd;
 
-//ExStep:0-
+//ExLangkah:0-
 
 //ExEnd
 {{< /app/cells/tutorial >}}
@@ -81,7 +81,7 @@ dataLabels.Position = LabelPositionType.OutsideEnd;
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Pemasangan Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Penyunting</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Redaktur</a></li>
     </ul>
 </div>
 

@@ -2,6 +2,7 @@
 title: ウォーターマーク XLSM ドキュメント via .NET
 weight: 8270
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLSM ファイルにウォーターマークを追加または削除するための C# ソース コード。
+keywords: [C# Aspose.Cells., C# add watermark to xlsm file., C# insert watermark to xlsm file., C# create watermark in xlsm file., remove watermark from xlsm file using C#., C# operate watermark in xlsm file., C# access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSM にテキスト透かしを追加" h2="サーバー側 API を使用して、XLSM ファイルに透かしを入れる独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

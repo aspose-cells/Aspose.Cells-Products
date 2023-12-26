@@ -356,7 +356,7 @@ Aspose.Cells' レポート デザイナー ツール
 レポートをスプレッドシート形式にエクスポート
     </h2>
     <p>
-Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel 形式 (XLS、XLSX、XLSM、SpreadsheetML、CSV、タブ区切りおよび HTML。Aspose.Cells for Reporting Services は ODS (OpenDocument スプレッドシート) ファイル形式もサポートします。
+Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel 形式 (XLS、XLSX、XLSM、SpreadsheetML、CSV、タブなど) を含む、すべての一般的な Microsoft Excel (97 ～ 2016) ファイル形式をサポートします。区切り文字と HTML。Aspose.Cells for Reporting Services は、ODS (OpenDocument スプレッドシート) ファイル形式もサポートします。
     </p>
     <p>
 さらに、Aspose.Cells for Reporting Services Excel ドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。エンド ユーザーは、必要に応じて、Microsoft Excel アプリケーションで結果のスプレッドシートを手動で編集できます。
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel �
 高忠実度 - レポートのデザインと同一
     </h2>
     <p>
-Aspose.Cells for Reporting Services 組み込みの Reporting Services レポート デザイナーによって生成された元の結果と同じように表示されるように、レポートを Microsoft Excel スプレッドシートにエクスポートします。すべてのレポート機能は最高の精度で変換され、Microsoft Excel スプレッドシートは元のスプレッドシートとできるだけ似たものになります。
+Aspose.Cells for Reporting Services 結果が組み込みの Reporting Services レポート デザイナーによって生成された元の結果と同じになるように、レポートを Microsoft Excel スプレッドシートにエクスポートします。すべてのレポート機能は最高の精度で変換され、Microsoft Excel スプレッドシートは元のスプレッドシートとできるだけ似たものになります。
     </p>
    </div>
    <!--

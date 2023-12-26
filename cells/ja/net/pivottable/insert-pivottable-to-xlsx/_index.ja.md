@@ -1,7 +1,8 @@
 ---
 title:  C# 経由で Micorsoft Excel XLSX ファイルにピボットテーブルを挿入します
 weight: 7690
-description: C# ピボットテーブルを使用して XLSX ドキュメントを生成するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内でピボットテーブルを使用して Micorsoft Excel XLSX ファイルを作成するには、このコードを使用します。
+description: C# .NET ライブラリを使用してピボットテーブルを XLSX に追加するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内の XLSX ファイルにピボットテーブルを挿入するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in xlsx., c# create PivotTable in xlsx., c# modify PivotTable in xlsx., access PivotTable in xlsx., c# add pivot table in xlsx., c# insert pivot table in xlsx., c# create pivot table in xlsx., c# modify pivot table in xlsx., access pivot table in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSX ドキュメントにピボットテーブルを挿入" h2="サーバー側 .NET API を使用してプログラムでピボットテーブルを作成できる、ネイティブで高パフォーマンスの Microsoft Excel XLSX スプレッドシート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,7 @@ description: C# ピボットテーブルを使用して XLSX ドキュメント�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-実行中のアプリケーション内でピボットテーブルを使用して MS Excel XLSX ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボットテーブルを使用して XLSX ドキュメントを最初から作成するには、次を使用します。
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
+実行中のアプリケーション内でピボットテーブルを使用して MS Excel XLSX ファイルを動的に生成するのは簡単です。 MS Office を必要とせずにピボットテーブルを使用して XLSX ドキュメントを最初から作成するには、次を使用します。[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API プラットフォームを使用してスプレッドシートの作成、操作、変換のためのさまざまな機能を提供します。開発者は、データの書き込み、チャートやグラフの生成、スプレッドシートでの表の作成のためのコードを簡単に拡張できます。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -31,7 +30,7 @@ description: C# ピボットテーブルを使用して XLSX ドキュメント�
 1. ワークブックの最初のワークシートにアクセスします。
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
 1. ピボットテーブルを挿入してスタイルを設定する
-1. Save メソッドを使用して、ワークブックを XLSX ファイルとして保存します。
+1.  Save メソッドを使用して、ワークブックを XLSX ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

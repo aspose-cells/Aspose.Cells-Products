@@ -1,10 +1,10 @@
 ---
-title:  Python Spreadsheet Excel API - Aspose
+title:  Python Lembar Bentang Excel API - Aspose
 weight: 2820
-description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing file Excel.
+description: Python perpustakaan spreadsheet untuk membuat baca tulis dan parsing file Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel Spreadsheet Parsing API" h2="Hasilkan, baca, tulis, atau manipulasi spreadsheet serta ekspor file Excel ke berbagai format dalam aplikasi Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API Parsing Spreadsheet Excel" h2="Hasilkan, baca, tulis atau manipulasi spreadsheet serta ekspor file Excel ke berbagai format dalam aplikasi Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
@@ -12,7 +12,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatiskan laporan excel menggunakan python.
+Aspose.Cells for Python adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja menjadi XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatisasi laporan excel menggunakan python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -34,7 +34,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
  Array
     </li>
     <li>
- Set Hasil
+ Kumpulan Hasil
     </li>
     <li>
 Koleksi
@@ -43,7 +43,7 @@ Koleksi
    <header>
     <i class="fa fa-cog">
     </i>
- Merender
+ Render
    </header>
    <ul>
     <li>
@@ -69,7 +69,7 @@ Koleksi
  Terapkan Pemformatan
     </li>
     <li>
- Terapkan Formula
+ Terapkan Rumus
     </li>
     <li>
  Buat Bagan
@@ -114,7 +114,7 @@ Koleksi
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python Lingkungan Runtime
+ Python Lingkungan Waktu Proses
    </header>
    <!--<ul>
 
@@ -174,7 +174,7 @@ Koleksi
     </li>
     <li>
      <b>
- Web:
+ jaringan:
      </b>
      HTML, MHTML
     </li>
@@ -234,7 +234,7 @@ Koleksi
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Lanjutan Python Fitur Excel API
+ Fitur Lanjutan Python Excel API
    </h2>
    <p>
    </p>
@@ -256,14 +256,14 @@ Lanjutan Python Fitur Excel API
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sesuaikan lembar kerja dalam buku kerja
+ Sesuaikan lembar kerja di dalam buku kerja
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lindungi / buka proteksi lembar kerja
+ Lindungi/buka proteksi lembar kerja
     </p>
    </div>
    <div class="col-lg-4">
@@ -277,7 +277,7 @@ Lanjutan Python Fitur Excel API
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Buat tabel pivot dan bagan pivot
+ Buat tabel pivot dan diagram pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,7 +305,7 @@ Lanjutan Python Fitur Excel API
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tambahkan atau hapus pengelompokan ke baris dan kolom
+Tambahkan atau hapus pengelompokan ke baris dan kolom
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,21 +319,21 @@ Lanjutan Python Fitur Excel API
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Membaca dan mengatur formula
+ Membaca dan menetapkan rumus
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Konfigurasikan penyiapan halaman
+ Konfigurasikan pengaturan halaman
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sesuaikan orientasi halaman, penskalaan, ukuran kertas
+ Sesuaikan orientasi halaman, skala, ukuran kertas
     </p>
    </div>
    <div class="col-lg-4">
@@ -412,14 +412,14 @@ Lanjutan Python Fitur Excel API
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konversi Beberapa Format
+ Konversi Berbagai Format
     </h2>
     <p>
- Python Pustaka Excel menyediakan konversi file Excel ke PDF, XPS &amp; format HTML. Konversi yang andal dari API menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
+ Pustaka Excel Python menyediakan konversi file Excel ke PDF, XPS &amp; HTML format. Konversi API yang andal menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Simpan spreadsheet dalam berbagai format - Java
+Simpan spreadsheet dalam format berbeda - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opsi Tampilan Fleksibel
     </h2>
     <p>
-Aspose.Cells for Python menyediakan kontrol penuh atas pengaturan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, mengatur tingkat zoom, mengatur orientasi halaman, mengontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, tajuk &amp; footer dan area cetak.
+ Aspose.Cells for Python memberikan kontrol penuh atas pengaturan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, mengatur tingkat zoom, mengatur orientasi halaman, mengontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, header &amp; footer dan area cetak.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -484,15 +484,15 @@ Aspose.Cells for Python menyediakan kontrol penuh atas pengaturan halaman yang m
  Manajemen Data Lembar Excel
     </h2>
     <p>
- Aspose.Cells for Python API menyediakan dukungan ekstensif untuk manajemen data lembar kerja. Seseorang dapat dengan mudah memanipulasi sel apa pun di lembar kerja saat runtime atau mengimpor data ke lembar kerja dari berbagai sumber data.
+ Aspose.Cells for Python API memberikan dukungan ekstensif untuk pengelolaan data lembar kerja. Seseorang dapat dengan mudah memanipulasi sel mana pun di lembar kerja saat runtime atau mengimpor data ke lembar kerja dari berbagai sumber data.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Kustomisasi Bagan
+Kustomisasi Grafik
     </h2>
     <p>
- Aspose.Cells for Python memberikan dukungan penuh untuk charting. Seseorang dapat dengan mudah menambahkan bagan standar dan yang disesuaikan atau mengatur data bagan secara dinamis untuk menyegarkan bagan dengan pustaka python ini.
+ Aspose.Cells for Python memberikan dukungan penuh untuk pembuatan grafik. Seseorang dapat dengan mudah menambahkan bagan standar dan khusus atau mengatur data bagan secara dinamis untuk menyegarkan bagan melalui perpustakaan python ini.
     </p>
    </div>
    <!--
@@ -528,7 +528,7 @@ Aspose.Cells for Python menyediakan kontrol penuh atas pengaturan halaman yang m
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for Python?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -537,7 +537,7 @@ Aspose.Cells for Python menyediakan kontrol penuh atas pengaturan halaman yang m
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

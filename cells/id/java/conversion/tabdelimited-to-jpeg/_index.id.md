@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED to JPEG - Online TABDELIMITED to JPEG Konverter
-description: Aspose Unggul. Java Aspose.Cells. Java Aspose Cells. Online Gratis Java Konversi TABDELIMITED menjadi JPEG saveformat. Java TAB DIBATASI ke format JPEG. Simpan TABDELIMITED ke JPEG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to JPEG saveformat., Free Online TABDELIMITED to JPEG Java., Java Convert TABDELIMITED to JPEG]
+title: Konverter Java TABDELIMITED ke JPEG - TABDELIMITED ke JPEG
+description: Aspose Unggul. Ubah TABDELIMITED menjadi JPEG dengan cepat dan mudah menggunakan Aspose.Cells. Java TABDELIMITED menjadi JPEG. Java Simpan TABDELIMITED menjadi JPEG. Simpan TABDELIMITED sebagai JPEG menggunakan Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to JPEG in Java., Save TABDELIMITED to JPEG using Java., Java TABDELIMITED to JPEG saveformat., TABDELIMITED to JPEG Converter., Java Save TABDELIMITED as JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TABDELIMITED menjadi JPEG di Java" h2="Pustaka Java berkecepatan tinggi untuk mengonversi TABDELIMITED menjadi JPEG. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor TABDELIMITED, JPEG, dan banyak format lainnya menggunakan Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="Ubah TABDELIMITED menjadi JPEG Menggunakan Java" %}}
 
- Bagaimana cara mengubah TABDELIMITED menjadi JPEG? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi TABDELIMITED menjadi JPEG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara mengubah TABDELIMITED menjadi JPEG? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi TABDELIMITED menjadi JPEG secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -45,20 +45,20 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Simpan TABDELIMITED ke JPEG di Java Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Simpan TABDELIMITED ke JPEG di Java" %}}
 
 Contoh berikut menunjukkan cara mengonversi TABDELIMITED menjadi JPEG di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah-langkah mudah untuk mengonversi TABDELIMITED menjadi JPEG. Unggah file TABDELIMITED Anda, lalu simpan sebagai file JPEG. Untuk pembacaan TABDELIMITED dan penulisan JPEG Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan output JPEG akan identik dengan dokumen TABDELIMITED asli.
+Ikuti langkah mudah untuk mengonversi TABDELIMITED menjadi JPEG. Unggah file TABDELIMITED Anda, lalu simpan sebagai file JPEG. Untuk pembacaan TABDELIMITED dan penulisan JPEG Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format keluaran JPEG akan sama dengan dokumen TABDELIMITED asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TABDELIMITED ke JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Kode Contoh untuk Mengonversi TABDELIMITED menjadi JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi TABDELIMITED menjadi JPEG via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi TABDELIMITED menjadi JPEG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,9 +68,9 @@ Perlu mengonversi file TABDELIMITED ke JPEG secara terprogram? Pengembang Java d
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file TABDELIMITED dengan instance kelas Workbook.
-1.  Ubah TABDELIMITED menjadi JPEG dengan memanggil metode Workbook.save.
-1.  Dapatkan hasil konversi dari TABDELIMITED menjadi JPEG.
+1.  Muat file TABDELIMITED dengan instance kelas Buku Kerja.
+1. Ubah TABDELIMITED menjadi JPEG dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi TABDELIMITED menjadi JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -97,37 +97,37 @@ Perlu mengonversi file TABDELIMITED ke JPEG secara terprogram? Pengembang Java d
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format file Tab-Separated Values (TSV) mewakili data yang dipisahkan dengan tab dalam format teks biasa. Format file, mirip dengan CSV, digunakan untuk mengatur data secara terstruktur untuk mengimpor dan mengekspor antara aplikasi yang berbeda. Format ini terutama digunakan untuk impor/ekspor data dan pertukaran dalam aplikasi Spreadsheet dan database. Setiap catatan dalam file TSV dimuat dalam satu baris file teks di mana setiap nilai bidang dipisahkan oleh karakter tab. Jenis media untuk format file TSV adalah teks/tab-separated-values.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar dapat diabaikan jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format file Nilai yang Dipisahkan Tab (TSV) mewakili data yang dipisahkan dengan tab dalam format teks biasa. Format file, mirip dengan CSV, digunakan untuk mengatur data secara terstruktur untuk mengimpor dan mengekspor antar aplikasi yang berbeda. Format ini terutama digunakan untuk impor/ekspor dan pertukaran data dalam aplikasi dan database Spreadsheet. Setiap catatan dalam file TSV terkandung dalam satu baris file teks di mana setiap nilai bidang dipisahkan oleh karakter tab. Jenis media untuk format file TSV adalah nilai yang dipisahkan teks/tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar akan sedikit terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi pula penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi TABDELIMITED ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi TABDELIMITED ke banyak format file lainnya termasuk beberapa yang tercantum di bawah." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="TABEL DIBATASI KE BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABEL DIBATASI KE EMF" description="Format File Meta yang Disempurnakan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABEL DIBATASI KE GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABEL DIBATASI KE HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABEL DIBATASI KE MD" description="Bahasa Penurunan Harga" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABEL DIBATASI KE MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABEL DIBATASI KE ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABEL DIBATASI KE PDF" description="Format Dokumen Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="TABEL DIBATASI KE PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABEL DIBATASI KE SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABEL DIBATASI KE TIFF" description="Format Gambar yang Ditandai" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABEL DIBATASI KE TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABEL DIBATASI KE TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABEL DIBATASI KE XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABEL DIBATASI KE XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABEL DIBATASI KE XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="TABEL DIBATASI KE XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="TABEL DIBATASI KE XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABEL DIBATASI KE XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABEL DIBATASI KE XLTX" description="Templat Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="TABEL DIBATASI KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABEL DIBATASI KE XPS" description="Spesifikasi Kertas XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABEL DIBATASI KE JSON" description="Notasi Objek JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABEL DIBATASI KE JPEG" description="JPEG Gambar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED SAMPAI BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABDELIMITED SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABDELIMITED SAMPAI GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABDELIMITED SAMPAI HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABDELIMITED UNTUK MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABDELIMITED SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABDELIMITED SAMPAI PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="TABDELIMITED SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABDELIMITED SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABDELIMITED SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABDELIMITED SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED SAMPAI TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABDELIMITED SAMPAI XLS" description="Format Biner Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="TABDELIMITED SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="TABDELIMITED SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABDELIMITED SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABDELIMITED SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="TABDELIMITED KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABDELIMITED SAMPAI JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED SAMPAI JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

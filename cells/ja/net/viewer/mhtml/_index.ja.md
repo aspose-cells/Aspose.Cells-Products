@@ -1,6 +1,7 @@
 ---
 title: 表示 MHTML ファイル形式 via .NET
 description: C# フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームで MHTML ドキュメントをロード、レンダリング、表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view MHTL files., c# how to render MHTL document., c# load and display MHTL files., MHTL File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML ファイル閲覧者 for .NET" h2="Microsoft Excel や Office Automation を必要とせずに、MHTML などの Excel および OpenOffice スプレッドシートを表示します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -50,7 +51,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します。
 

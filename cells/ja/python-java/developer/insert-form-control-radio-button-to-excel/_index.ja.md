@@ -2,6 +2,7 @@
 title:  Python via Javaを使用してRadioButton(フォームコントロール)をExcelに挿入します
 weight: 60
 description: Python via ExcelにRadioButton(フォームコントロール)を挿入するためのJavaソースコード。
+keywords: [Python via Java Aspose.Cells., Python via Java add RadioButton into Excel., Python via Java insert RadioButton into Excel., Python via Java create RadioButton in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via Javaを使用してRadioButton(フォームコントロール)をExcelに挿入します" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、サーバー側 API を使用してオブジェクトを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -52,7 +53,7 @@ Workbook オブジェクトをインスタンス化します。(または -> XLS
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Python via Java スクリプトを実行できるオペレーティング システム (Windows、Linux、MacOS など)
+-  Python via Java スクリプトを実行できるオペレーティング システム (Windows、Linux、MacOS など)
 - Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Java 経由で Aspose.Cells for Python をインストールします。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 

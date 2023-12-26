@@ -1,7 +1,8 @@
 ---
-title:  ODS 注釈 via Java を削除
+title:  ODS 注釈 via Java を追加または削除します
 weight: 8840
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の ODS 形式のアノテーションを削除するための Java サンプル コード。
+keywords: [Java Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS via Java からの注釈の追加または削除" h2="独自の Java アプリを構築し、サーバー側 API を使用してドキュメント ファイル内のコメントと作成者を操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -55,7 +56,7 @@ API は、機能が豊富で強力で使いやすい注釈 API for Java プラ�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Workbookクラスを使用してODSファイルをロードします
+1.  Workbookクラスを使用してODSファイルをロードします
 1. 該当するシートを選択します
 1. CommentCollection によるすべてのコメントの取得
 1. 削除するには、Cell ID を指定して RemoveAt を呼び出します。

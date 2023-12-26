@@ -1,6 +1,7 @@
 ---
 title:  MHT ファイル形式を表示 via .NET
 description: C# フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームで MHT ドキュメントをロード、レンダリング、表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view MHT files., c# how to render MHT document., c# load and display MHT files., MHT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT ファイル ビューア for .NET" h2="Microsoft Excel や Office Automation を必要とせずに、MHT などの Excel および OpenOffice スプレッドシートを表示します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -50,7 +51,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します。
 
@@ -102,7 +103,7 @@ Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざま
             {{< blocks/products/pf/agp/democard icon="fa-download" text="必要に応じて、リンクから MHT ファイルをダウンロードします。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。
+拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

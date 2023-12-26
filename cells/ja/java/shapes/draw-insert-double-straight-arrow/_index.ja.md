@@ -1,7 +1,8 @@
 ---
-title: Excel via Java に二重直線矢印を描画または挿入するにはどうすればよいですか?
+title:  Excel via Java に二重直線矢印を描画または挿入するにはどうすればよいですか?
 weight: 20
 description: Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells' Java API を使用して二重直線矢印オブジェクトを描画または挿入します。
+keywords: [Java Aspose.Cells., Java add double straight arrow., Java insert double straight arrow., Java create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel に二重直線矢印を挿入 via Java" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用して二重直線矢印を挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

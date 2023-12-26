@@ -1,12 +1,13 @@
 ---
 title: Microsoft Python via Java を使用した Excel ファイル変換
-description: わずか数行の Python コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG、HTML などの一般的な形式に変換します。 。
+description: Aspose.Cells for Python via Java 図書館。わずか数行の Python コードで、EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL などの形式を変換します。
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python 経由の Excel 形式変換" h2="Excel ファイルをスプレッドシート、Web、画像、固定レイアウト形式でインポートおよびエクスポート" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、076193 などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 481. Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
+Python Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07619348 などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 1. Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel を XLSX、ODS、SXC、FODS に変換" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel ワークシートを JPG、BMP、PNG、GIF に変換" %}}
- Excel ファイルの各ワークシートは、さまざまな画像形式に変換できます。[画像または印刷オプション](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) .setImageFormat 画像形式を設定します。
+ Excel ファイルの各ワークシートは、さまざまな画像形式に変換できます。[画像または印刷オプション](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat 画像形式を設定します。
 {{% blocks/products/pf/feature-page-code h3="Python Excel から画像への変換用のコード" %}}
 ```cs
 // load template spreadsheet

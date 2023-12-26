@@ -1,6 +1,7 @@
 ---
 title: Excel にコメントを挿入 via .NET
 description:  C# ライブラリを使用して Microsoft Excel ファイルにコメントを挿入する方法を示すソース コード。
+keywords: [C# Aspose.Cells., add excel comments., insert excel comments., access excel comments., remove excel comments., delete excel comments., add comments in excel., insert comments in excel., access comments in excel., remove comments in excel., delete comments in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel コメントの挿入 via .NET" h2=".NET ベースのアプリケーションでサーバー側 API を使用して Excel ドキュメントを作成し、コメントを挿入します。" >}}

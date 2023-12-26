@@ -1,7 +1,7 @@
 ---
-title: XLAM から HTM - XLAM を HTM ファイル C++ に変換します
-description: Aspose エクセル。無料でオンラインでXLAMをHTM保存形式に変換します。 C++ XLAM を HTM 形式に変換します。 XLAM を HTM として C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to HTM saveformat., Free Online XLAM to HTM Converter]
+title: C++ XLAM から HTM - XLAM から HTM コンバータ
+description: Aspose エクセル。 Aspose.Cellsを使用して、XLAMをHTMにすばやく簡単に変換します。C++ XLAMをHTMに変換します。 C++ XLAM を HTM に保存します。 C++ を使用して XLAM を HTM として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to HTM in C++., Save XLAM to HTM using C++., C++ XLAM to HTM saveformat., XLAM to HTM Converter., C++ Save XLAM as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLAM を C++ の HTM に変換します" h2="Microsoft Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用して XLAM から HTM への高性能変換を行います。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to HTM saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXLAMをHTMに変換します" %}}
 
-XLAM を HTM に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLAM を HTM に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLAM を HTM に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLAM を HTM に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLAMをオンラインで無料でHTMに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLAM の HTM に XLAM を保存" %}}
 
 次の例は、XLAM を C++ の HTM に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLAMをオンラインでHTMに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLAMをHTMに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLAM経由でXLAMをHTMに変換する方法" %}}
 
@@ -49,7 +49,7 @@ XLAM ファイルをプログラムで HTM に変換する必要があります�
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して XLAM ファイルを読み込みます。
+1. ワークブックを使用して XLAM ファイルをロードします。
 1.  Save() メソッドを呼び出して、XLAM を HTM に変換します。
 1.  XLAMをHTMに変換した結果を取得します。
 
@@ -82,6 +82,12 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM は、スプレッドシートに新しい関数を追加するために使用されるマクロ有効アドイン ファイルです。アドインは、追加コードを実行し、スプレッドシートに追加機能を提供する補足プログラムです。 XLAM ファイルは .xlam 拡張子で保存されます。 XLAM ファイルは、XLSM および XLSX ファイル形式に似た XML ベースのファイルで、全体のファイル サイズを削減するために ZIP 圧縮で保存されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 拡張子を持つファイルは、Google Chrome、Internet Explorer、Firefox などの Web ブラウザーで表示する Web ページを作成するためのハイパーテキスト マークアップ言語を表します。これは、他の人がアクセスできるように World Wide Web (WWW) 上に公開される静的ページを作成するためのマークアップを定義します。これらのマークアップは、Web ページのコンテンツを表示する方法をブラウザーに指示します。このようなページには、プレーン テキスト、画像、他のページへのハイパーリンク、ビデオ、その他のメディア情報を含めることができます。 Web ページが公開されると、そのページのソースを表示して、その背後にあるマークアップ コードを確認できます。最新のブラウザでは、HTM ソース内の各サブディビジョンまたはマークアップ要素が詳しく説明されている Web ページの各セクションを検査できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="XLAM を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 
@@ -95,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM から PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM から PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM から SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM から TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM から TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM から TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM から XLS" description="Excel バイナリ形式" >}}

@@ -1,7 +1,8 @@
 ---
 title:  XLSM ドキュメント via Java 内のテキストを検索して置換します
 weight: 1590
-description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の XLSM ファイル内の機密情報を編集するための Java サンプル コード。
+description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境上の XLSM ファイル内の機密情報を編集するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java redact XLSM file., Java edit XLSM file., Java XLSM file redaction., Java Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM のフォーマットを編集" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for Java API を使用して、ネイティブで高性能な XLSM 文書の機密秘匿化情報を作成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -13,7 +14,7 @@ description: JSP/JSF アプリケーションおよびデスクトップ アプ�
 
 XLSM ファイルを編集するには、次を使用します。
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API は、機能が豊富で強力で使いやすい編集プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。
+API は、機能が豊富で強力で使いやすい編集プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 

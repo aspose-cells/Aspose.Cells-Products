@@ -2,6 +2,7 @@
 title: XLSM 経由で XLSM ドキュメントのメタデータを編集または表示する
 weight: 1300
 description: Windows 32 ビット、Windows 64 ビット、および Linux 64 ビットの C++ ランタイム環境で XLSM ファイルのメタデータを編集または表示するための C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ view xlsm metadata., C++ add xlsm metadata., C++ insert xlsm metadata., C++ edit xlsm metadata., C++ remove xlsm metadata., C++ extract xlsm metadata., C++ modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で XLSM メタデータを抽出" h2="サーバー側 API を使用して、XLSM ファイルからメタデータを追加、編集、削除、抽出する独自の C++ アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ XLSM ファイルがいつ受信、処理され、タイムスタンプが付け
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ CreateIWorkbookMetadataを使用してXLSMファイルをロードします
-CreateIMetadataOptions を使用してオプションを作成する
-GetICustomDocumentProperties() および AddIDocumentProperty によって新しいプロパティを追加します
++ MetadataOptions を使用してオプションを作成する
+WorkbookMetadata を使用して XLSM ファイルをロードします
+GetCustomDocumentProperties() と Add によって新しいプロパティを追加します
 XLSM ドキュメントを保存
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xlsm"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xlsm"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xlsm", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xlsm"); 
+
+Aspose::Cells::Cleanup();
 
 ```
 

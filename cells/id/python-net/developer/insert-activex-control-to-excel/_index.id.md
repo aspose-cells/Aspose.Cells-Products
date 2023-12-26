@@ -1,7 +1,8 @@
 ---
 title: Masukkan Kontrol ActiveX ke Excel menggunakan Python via .Net
 weight: 10
-description: Python via .Net source code untuk memasukkan ActiveX Control ke dalam Excel.
+description: Python via .Kode sumber bersih untuk memasukkan Kontrol ActiveX ke Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add ActiveX Control into Excel., Python via .Net insert ActiveX Control into Excel., Python via .Net create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Masukkan Kontrol ActiveX ke Excel menggunakan Python via .Net" h2="Sisipkan objek menggunakan API sisi server tanpa perangkat lunak apa pun seperti Microsoft atau Open Office, Adobe PDF, dll." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via .Net source code untuk memasukkan ActiveX Control ke dal
 
 {{% blocks/products/pf/agp/content h2="Cara Memasukkan Kontrol ActiveX ke File Excel Menggunakan Python via .Net" %}}
 
- Untuk memasukkan ActiveX Control ke dalam file excel, kita akan menggunakan
+ Untuk memasukkan Kontrol ActiveX ke dalam file excel, kami akan menggunakan
  [Aspose.Cells for Python melalui .Net](https://pypi.org/project/aspose-cells-python/) 
-API yang merupakan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan API for Python melalui platform .Net. API menyediakan pembuatan, manipulasi, konversi, dan rendering file Excel. Semua tanpa bergantung pada aplikasi Office atau Excel Microsoft. Anda dapat menginstal dari konsol menggunakan perintah berikut.
+ API yang merupakan manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API for Python melalui platform .Net. API menyediakan pembuatan, manipulasi, konversi, dan rendering file Excel. Semua tanpa bergantung pada aplikasi Office atau Excel Microsoft. Anda dapat menginstal dari konsol menggunakan perintah berikut.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ API yang merupakan manipulasi dokumen yang kaya fitur, kuat, dan mudah digunakan
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah memasukkan ActiveX Control ke file Excel menggunakan Python via .Net" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah memasukkan Kontrol ActiveX ke file Excel menggunakan Python via .Net" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,9 +38,9 @@ Anda memerlukan Aspose.Cells untuk mencoba alur kerja berikut di lingkungan Anda
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
++ Membuat Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 + Pilih Lembar Kerja melalui indeksnya.
- + Gunakan penambahan shapecollection[metode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_active_x_control/#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int) untuk menyisipkan Kontrol ActiveX di lembar kerja yang dipilih.
+ + Gunakan tambahan shapecollection[metode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_active_x_control/#aspose.cells.drawing.activexcontrols.ControlType-int-int-int-int-int-int) untuk menyisipkan Kontrol ActiveX di lembar kerja yang dipilih.
 + Simpan buku kerja dalam format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -48,11 +49,11 @@ Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python via .Net adalah platform-independent API dan bisa digunakan di semua platform (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via .Net tidak bergantung pada platform API dan dapat digunakan pada platform apa pun (Windows, Linux), pastikan saja sistem memiliki[Python](https://www.python.org/downloads/) 3,7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Sistem operasi apa pun yang dapat menjalankan skrip Python via .Net, seperti Windows, Linux
+-  Sistem operasi apa pun yang dapat menjalankan skrip .Net Python via, seperti Windows, Linux
 -  Instal Aspose.Cells for Python melalui .Net dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -72,7 +73,7 @@ Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Cells API" %}}
 
-Aspose.Cells API mampu membangun aplikasi lintas platform, dapat digunakan untuk membuat, mengedit, mengonversi, dan merender Microsoft format Excel ke format yang berbeda (seperti gambar, PDF, HTML, ODS dan lainnya). Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan terukur dan kalkulasi andal dalam aplikasi perangkat lunak. Dengan demikian menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Penting bahwa Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
+Aspose.Cells API mampu membangun aplikasi lintas platform, dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format berbeda (seperti gambar, PDF, HTML, ODS, dan lainnya). Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang terukur dan penghitungan yang andal dalam aplikasi perangkat lunak. Sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Penting agar Aspose.Cells merupakan API yang berdiri sendiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

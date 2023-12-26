@@ -1,5 +1,5 @@
 ---
-title: XLAM ke ETT - Konversikan XLAM ke file ETT Java
+title: XLAM ke ETT - Konversi XLAM ke file ETT Java
 description: Aspose Unggul. Konversi Online Gratis XLAM ke format penyimpanan ETT. Java XLAM ke format ETT. Simpan XLAM sebagai ETT di Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to ETT saveformat., Free Online XLAM to ETT Converter]
 ---
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to ETT saveformat., Free
 
 {{% blocks/products/pf/agp/content h2="Ubah XLAM menjadi ETT Menggunakan Java" %}}
 
- Bagaimana cara mengonversi XLAM ke ETT? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah mengonversi XLAM ke ETT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Bagaimana cara mengubah XLAM ke ETT? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah mengonversi XLAM ke ETT secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to ETT saveformat., Free
 Contoh berikut menunjukkan cara mengonversi XLAM ke ETT di Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah mudah untuk mengonversi XLAM ke ETT. Unggah file XLAM Anda, lalu simpan sebagai file ETT. Untuk pembacaan XLAM dan penulisan ETT, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan ETT keluaran akan identik dengan dokumen XLAM asli.
+Ikuti langkah mudah untuk mengkonversi XLAM ke ETT. Unggah file XLAM Anda, lalu simpan sebagai file ETT. Untuk pembacaan XLAM dan penulisan ETT Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format ETT keluaran akan sama dengan dokumen XLAM asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -58,23 +58,23 @@ Ikuti langkah mudah untuk mengonversi XLAM ke ETT. Unggah file XLAM Anda, lalu s
 
 {{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLAM ke ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="ett" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cara Konversi XLAM menjadi ETT via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cara Mengonversi XLAM ke ETT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Perlu mengonversi file XLAM ke ETT secara terprogram? Pengembang Java dapat dengan mudah mengubah XLAM menjadi ETT hanya dalam beberapa baris kode.
+Perlu mengonversi file XLAM ke ETT secara terprogram? Pengembang Java dapat dengan mudah mengonversi XLAM ke ETT hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Java'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
-1.  Muat file XLAM dengan instance kelas Workbook.
+1. Muat file XLAM dengan instance kelas Buku Kerja.
 1.  Ubah XLAM menjadi ETT dengan memanggil metode Workbook.save.
 1.  Dapatkan hasil konversi XLAM ke ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengonversi XLAM menjadi ETT" %}}
+{{% blocks/products/pf/agp/content h2="Perpustakaan Java untuk mengkonversi XLAM ke ETT" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Kami menghosting paket Java kami di[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositori. 'Aspose.Cells for Java' adalah file JAR umum yang berisi kode byte. Silakan ikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/java/installation/) tentang cara menginstalnya ke lingkungan pengembang Java Anda.
@@ -96,28 +96,28 @@ Perlu mengonversi file XLAM ke ETT secara terprogram? Pengembang Java dapat deng
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XLAM ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Konversi yang Didukung Lainnya" subTitle="Anda juga dapat mengonversi XLAM ke banyak format file lainnya termasuk beberapa format yang tercantum di bawah." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-bmp/" name="XLAM SAMPAI BMP" description="Gambar bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-emf/" name="XLAM SAMPAI EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-emf/" name="XLAM SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-gif/" name="XLAM SAMPAI GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-html/" name="XLAM SAMPAI HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-md/" name="XLAM KEPADA MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-md/" name="XLAM KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-mhtml/" name="XLAM SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-ods/" name="XLAM SAMPAI ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-ods/" name="XLAM SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-pdf/" name="XLAM SAMPAI PDF" description="Format Dokumen Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-png/" name="XLAM SAMPAI PNG" description="Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-svg/" name="XLAM SAMPAI SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-tiff/" name="XLAM SAMPAI TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-tsv/" name="XLAM SAMPAI TSV" description="Nilai yang Dipisahkan Tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-txt/" name="XLAM SAMPAI TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xls/" name="XLAM SAMPAI XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xls/" name="XLAM SAMPAI XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlsb/" name="XLAM SAMPAI XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlsm/" name="XLAM SAMPAI XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlsx/" name="XLAM SAMPAI XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlt/" name="XLAM SAMPAI XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltm/" name="XLAM SAMPAI XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltx/" name="XLAM SAMPAI XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlsm/" name="XLAM SAMPAI XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlsx/" name="XLAM SAMPAI XLSX" description="Berkas OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xlt/" name="XLAM SAMPAI XLT" description="Templat Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltm/" name="XLAM SAMPAI XLTM" description="Templat Excel yang mendukung Makro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltx/" name="XLAM SAMPAI XLTX" description="Templat Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xml/" name="XLAM KE XML" description="Bahasa Markup yang Dapat Diperluas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xps/" name="XLAM SAMPAI XPS" description="Spesifikasi Kertas XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-json/" name="XLAM SAMPAI JSON" description="Notasi Objek JavaScript" >}}

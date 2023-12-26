@@ -1,7 +1,7 @@
 ---
 title: OTS の作成 - C++ に OTS ファイルを作成します。
-description: Aspose エクセル。 C++ OTS ファイルを作成します。 OTS C++ を作成します。C++ OTS 作成者。 C++ に OTS を作成します。C++ を使用して OTS ファイルを生成します。
-keywords: [Aspose Excel., C++ Aspose.Cells., Create OTS C++., C++ OTS Creater., Create OTS file in C++., Generate OTS file in C++]
+description:  Aspose エクセル。 C++ Aspose.Cells を使用して OTS ファイルをすばやく簡単に作成します。 C++ を使用して OTS ファイルを生成します。 C++ で OTS を作成します。 C++ OTS Creator。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create OTS file., Generate OTS file in C++., Create OTS file using C++., Write data to OTS file via C++., Create a OTS file in C++., C++ Generate a OTS file., C++ OTS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++にOTSファイルを作成します" h2="C++ ライブラリを使用して、Micorsoft Office を使用せずにプログラムによるネイティブで高パフォーマンスの OTS ファイルを作成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create OTS C++., C++ OTS Creater., 
 
 {{% blocks/products/pf/agp/content h2="C++を使用してOTSファイルを作成します" %}}
 
-OTSファイルを作成するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に OTS ファイルを簡単に作成できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+OTSファイルを作成するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に OTS ファイルを簡単に作成できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  IWorkbook クラスのオブジェクトを作成します。
-1. 最初のシートを IWorksheet オブジェクトに取得します。
-1.  IWorksheet->GetICells() メソッドを使用して、ワークシートのセルを ICells オブジェクトに取得します。
-1. ICells->GetObjectByIndex() メソッドを使用して、ワークシートの目的のセルにアクセスして ICell オブジェクトに入れます。
-1.  ICell->PutValue() メソッドを使用してセルに値を入力します。
+1.  Workbookクラスのオブジェクトを作成します。
+1. 最初のシートを Worksheet オブジェクトに取得します。
+1.  Worksheet.GetCells() メソッドを使用して、ワークシートのセルを Cells オブジェクトに取得します。
+1. Cells.Get() メソッドを使用して、ワークシートの目的のセルにアクセスして Cell オブジェクトにアクセスします。
+1.  Cell.PutValue() メソッドを使用してセルに値を入力します。
 1.  Save() メソッドを使用して、ワークブックを .ots ファイルとして保存します。
 
 {{% blocks/products/pf/agp/code-block title="サンプルコードでは、C++ に OTS ファイルを作成する方法を示します。" offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.ots"));
+wkb.Save(u"created_one.ots");
+
+Aspose::Cells::Cleanup();
 
 ```
 

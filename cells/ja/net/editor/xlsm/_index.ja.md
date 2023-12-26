@@ -1,6 +1,7 @@
 ---
 title:  XLSM ファイルを編集 via .NET
 description: C# フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームで XLSM ドキュメントを編集するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# edit xlsm document., c# load xlsm file., c# modify xlsm file., c# save file to xlsm format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM のフォーマットを編集" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側 Aspose.Cells for .NET API を使用したネイティブで高性能な XLSM ドキュメント編集。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的なドキュメント編集
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API はわずか数行のコードで実行できます。
+基本的なドキュメント編集[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1. クラスファイルに名前空間を含めます
+1. サンプル ファイルをロードします。
+1. ワークブックの新しいワークシートを追加してアクセスします。
+1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
+1. ピボットテーブルを挿入してスタイルを設定する
+1.  Save メソッドを使用して、ワークブックを XLSM ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +52,7 @@ API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します - 上の [ダウンロード] ボタンを使用して NuGet からインストールします
 
@@ -56,10 +60,7 @@ API はわずか数行のコードで実行できます。
 
 {{% blocks/products/pf/agp/code-block title="XLSM ファイルを編集 - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xlsm.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,12 +1,13 @@
 ---
 title:  Microsoft Excel ファイル変換 via Java
-description: わずか数行の Java コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG、HTML などの一般的な形式に変換します。 。
+description: Aspose.Cells for Java 図書館。わずか数行の Java コードで、EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL、JPG、PNG などの形式を変換します。
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルの変換 via Java" h2="Microsoft Excel ドキュメントをスプレッドシート、Web、画像、固定レイアウト形式で保存" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-どれについても**Excelコンバーター**アプリケーションまたはソリューション、Java Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07 などの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 6193481。*Excel ファイルを PDF** に変換することもできます。 XPS、HTML、MHTML、プレーン テキスト、および TIFF、JPG、PNG、BMP、SVG などの一般的な画像形式。
+どれについても**Excelコンバーター**アプリケーションまたはソリューション、Java Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、0761 などの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 93481. *Excel ファイルを PDF** に変換することもできます。 XPS、HTML、MHTML、プレーン テキスト、および TIFF、JPG、PNG、BMP、SVG などの一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 形式の相互変換" %}}
@@ -28,7 +29,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Excel を PDF、XPS、HTML、MD に変換" %}}
-特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。[PDF保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions)Excel ファイルを PDF として変換するには、[Xps保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions)Excel を XPS としてエクスポートするには、[HTML保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions)Excel を HTML としてレンダリングし、[マークダウン保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions)Excel から Markdown への変換用。
+特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。[PDF保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) Excel ファイルを PDF として変換するには、[Xps保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions)Excel を XPS としてエクスポートするには、[HTML保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions)Excel を HTML としてレンダリングし、[マークダウン保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions)Excel から Markdown への変換用。
 {{% blocks/products/pf/feature-page-code h3="Java Excel から PDF および Web フォーマットのサンプル コード" %}}
 
 ```cs

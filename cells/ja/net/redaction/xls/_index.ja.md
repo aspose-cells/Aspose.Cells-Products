@@ -2,6 +2,7 @@
 title:  XLS ドキュメント via .NET 内のテキストを検索して置換します
 weight: 7280
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLS ファイル内の機密情報を編集するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact XLS file., c# edit XLS file., c# XLS file redaction., c# Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS のフォーマットを編集" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for .NET API を使用して、ネイティブで高性能な XLS 文書の機密秘匿化情報を作成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}

@@ -1,6 +1,7 @@
 ---
-title:  MHT ファイルを編集 via .NET
+title: MHT ファイルを編集 via .NET
 description: C# フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームで MHT ドキュメントを編集するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# edit mht document., c# load mht file., c# modify mht file., c# save file to mht format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# で MHT フォーマットを編集" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for .NET API を使用したネイティブで高性能の MHT ドキュメント編集。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的なドキュメント編集
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API はわずか数行のコードで実行できます。
+基本的なドキュメント編集[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1. クラスファイルに名前空間を含めます
+1. サンプル ファイルをロードします。
+1. ワークブックの新しいワークシートを追加してアクセスします。
+1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
+1. ピボットテーブルを挿入してスタイルを設定する
+1.  Save メソッドを使用して、ワークブックを MHT ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +52,7 @@ API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します - 上の [ダウンロード] ボタンを使用して NuGet からインストールします
 
@@ -56,10 +60,7 @@ API はわずか数行のコードで実行できます。
 
 {{% blocks/products/pf/agp/code-block title="MHT ファイルの編集 - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-mht.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -87,7 +88,7 @@ Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざま
             {{< blocks/products/pf/agp/democard icon="fa-download" text="次に、保存してダウンロードします。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションでは、MHT ファイルとしてエクスポートすることで、WORD 文書を MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。
+拡張子が .mht のファイルは、さまざまな種類のデータを 1 つのファイルに含める MIME 対応のアーカイブ ファイル形式です。 CSS ファイルの形式でテキスト、画像、ページ スタイルなどのデータ、JavaScript、その他のリソースを埋め込みリソースとして保存できます。 MIME タイプ message/rfc822 を持つ MHT ファイルは、HTML ファイルのすべての内容を単一のアーカイブ ファイルとしてカプセル化し、ストレージ デバイスにアーカイブ保存します。 Microsoft Word などのソフトウェア アプリケーションを使用すると、WORD ドキュメントを MHT ファイルとしてエクスポートして MHT に変換できます。 MHT ファイルは、Microsoft Internet Explore や Google Chrome などの一般的なブラウザを使用して開くことができます。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

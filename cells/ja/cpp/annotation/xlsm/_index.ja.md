@@ -1,7 +1,8 @@
 ---
-title:  C++ 経由で XLSM 注釈を追加
+title:  XLSM 経由で XLSM 注釈を追加または削除します
 weight: 2860
 description: C++ 32 ビット、Windows 64 ビット、および Linux 64 ビット用の C++ ランタイム環境の XLSM 形式の注釈を削除するための C++ サンプル コード。
+keywords: [C++ Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ 経由で XLSM ファイルに注釈を追加" h2="独自の C++ アプリを構築し、サーバー側 API を使用してドキュメント ファイル内のコメントと作成者を操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1. 該当するシートを選択します
 1. Add メソッドを使用してコメントを追加します
 1. SetNote メソッドを使用してコメントのメモを設定します。
-1. 次を使用してワークブックを保存します[保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349)方法
+1. 次を使用してワークブックを保存します[保存](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/)方法
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 {{% blocks/products/pf/agp/code-block title="XLSM - C++ にコメントを追加" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsm-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsm-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,7 +1,7 @@
 ---
-title:  Aplikasi Konverter Spreadsheet SharePoint Excel - Aspose
+title:  Aplikasi Konverter Spreadsheet Excel SharePoint - Aspose
 weight: 940
-description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Excel Spreadsheet. Ekspor XLS XLSX XML CSV PDF ODS &amp; HTML format di MOSS WSS
+description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Excel Spreadsheet. Ekspor XLS XLSX XML CSV PDF ODS &amp; HTML format dalam MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Aplikasi SharePoint untuk Mengonversi Spreadsheet Excel" h2="Konversikan spreadsheet Excel ke lebih dari 8 format file langsung dari pustaka dokumen SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -12,7 +12,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePoint adalah aplikasi konverter spreadsheet Excel yang fleksibel. Itu dapat mengonversi dokumen antara banyak format Excel Microsoft populer dari pustaka dokumen SharePoint tanpa ketergantungan Microsoft Excel. Ini mendukung beberapa format dokumen yang tidak termasuk dalam dukungan format file asli SharePoint.
+ Aspose.Cells for SharePoint adalah aplikasi konverter spreadsheet Excel yang fleksibel. Itu bisa mengonversi dokumen antara banyak format Excel Microsoft yang populer dari pustaka dokumen SharePoint tanpa ketergantungan Microsoft Excel. Ini mendukung berbagai format dokumen yang tidak disertakan dalam dukungan format file asli SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas" description="Sekilas tentang Aspose.Cells for SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -31,10 +31,10 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
    </header>
    <ul>
     <li>
- File WSP SharePoint
+ Berkas WSP SharePoint
     </li>
     <li>
- Aktifkan Di Ladang
+ Aktifkan Di Seluruh Peternakan
     </li>
     <li>
  Nonaktifkan Across Farm
@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
    </header>
    <ul>
     <li>
-Simpan di Sub-folder
+ Simpan di Sub-folder
     </li>
     <li>
  Penggabungan File
@@ -73,7 +73,7 @@ Simpan di Sub-folder
     <em>
  untuk
     </em>
- SharePoint
+ Bagikan Poin
    </small>
   </footer>
  </div>
@@ -82,7 +82,7 @@ Simpan di Sub-folder
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Cells for SharePoint mendukung Windows SharePoint Services, SharePoint Foundation dan Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Cells for SharePoint mendukung Windows Layanan SharePoint, SharePoint Foundation, dan Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -145,7 +145,7 @@ Simpan di Sub-folder
     <em>
  untuk
     </em>
- SharePoint
+ Bagikan Poin
    </small>
   </footer>
  </div>
@@ -154,7 +154,7 @@ Simpan di Sub-folder
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description=" Aspose.Cells for SharePoint mendukung banyak format spreadsheet populer, PDF, HTML dan lainnya[format file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells for SharePoint mendukung banyak format spreadsheet populer, PDF, HTML dan lainnya[format file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -190,7 +190,7 @@ Simpan di Sub-folder
     </li>
     <li>
      <b>
- Web:
+ jaringan:
      </b>
      HTML, MHTML
     </li>
@@ -231,7 +231,7 @@ Simpan di Sub-folder
     <em>
  untuk
     </em>
- SharePoint
+ Bagikan Poin
    </small>
   </footer>
  </div>
@@ -252,26 +252,26 @@ Simpan di Sub-folder
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
- Mengonversi Spreadsheet Excel ke Beberapa Format
+ Konversikan Spreadsheet Excel ke Beberapa Format
     </h2>
     <p>
- Aspose.Cells for SharePoint memungkinkan konversi spreadsheet ke banyak format dokumen dan gambar populer dari dalam pustaka dokumen SharePoint. Aspose.Cells for SharePoint saat ini mendukung sebagian besar format spreadsheet bersama dengan CSV &amp; XML sebagai masukan, dan dapat mengekspor ke format spreadsheet serta CSV, HTML, ODS, PDF, XML &amp; format gambar.
+ Aspose.Cells for SharePoint memungkinkan konversi spreadsheet ke banyak format dokumen dan gambar populer dari dalam pustaka dokumen SharePoint. Aspose.Cells for SharePoint saat ini mendukung sebagian besar format spreadsheet bersama dengan CSV &amp; XML sebagai input, dan dapat mengekspor ke format spreadsheet serta CSV, HTML, ODS, PDF, XML &amp; format gambar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Menggabungkan File Selama Konversi
+ Gabungkan File Selama Konversi
     </h2>
     <p>
-Aspose.Cells for SharePoint menyediakan kemampuan untuk menggabungkan file yang memiliki format berbeda menjadi satu dokumen tunggal. Selain itu, Anda juga dapat memindahkan dokumen dalam daftar ke atas atau ke bawah untuk mengatur urutan penggabungan dokumen yang Anda inginkan.
+ Aspose.Cells for SharePoint memberikan kemampuan untuk menggabungkan file dengan format berbeda menjadi satu dokumen tunggal. Selain itu, Anda juga dapat memindahkan dokumen dalam daftar ke atas atau ke bawah untuk mengatur urutan penggabungan dokumen yang Anda inginkan.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Mengkonversi File di Subfolder
+ Konversi File dalam Subfolder
     </h2>
     <p>
- Aspose.Cells for SharePoint membuat proses konversi lebih mudah dengan mengonversi secara rekursif semua dokumen dan sub-folder di bawah folder yang dipilih. Struktur sub-folder yang ada dibuat di folder tujuan.
+Aspose.Cells for SharePoint mempermudah proses konversi dengan mengonversi semua dokumen dan subfolder secara rekursif dalam folder yang dipilih. Struktur subfolder yang ada dibuat di folder tujuan.
     </p>
    </div>
    <div class="col-lg-12">
@@ -279,7 +279,7 @@ Aspose.Cells for SharePoint menyediakan kemampuan untuk menggabungkan file yang 
  Timpa File yang Ada
     </h2>
     <p>
- Jika folder tujuan sudah berisi file dengan nama yang sama dengan yang ingin Anda konversi maka Aspose.Cells for SharePoint memungkinkan Anda untuk menimpa file yang ada atau Anda cukup memilih opsi yang akan menginstruksikan aplikasi untuk melewati pemrosesan file yang sudah ada di folder tujuan .
+ Jika folder tujuan sudah berisi file dengan nama yang sama dengan yang ingin Anda konversi maka Aspose.Cells for SharePoint memungkinkan Anda untuk menimpa file yang sudah ada atau Anda cukup memilih opsi yang akan memerintahkan aplikasi untuk melewati pemrosesan file yang sudah ada di folder tujuan .
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,15 +287,15 @@ Aspose.Cells for SharePoint menyediakan kemampuan untuk menggabungkan file yang 
  Berinteraksi dengan Publik API
     </h2>
     <p>
-Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat menggunakan mesin konversi dokumen Aspose.Cells for SharePoint melalui API publiknya. Ini menyediakan akses terprogram ke semua format yang didukung dan opsi konversi.
+ Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat menggunakan mesin konversi dokumen Aspose.Cells for SharePoint melalui API publiknya. Mesin ini menyediakan akses terprogram ke semua format dan opsi konversi yang didukung.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Otomasi Excel – Tidak Diperlukan
+ Microsoft Otomatisasi Excel – Tidak Diperlukan
     </h2>
     <p>
- Aspose.Cells for SharePoint dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan konversi format Excel. Ini adalah alternatif otomatisasi Excel Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
+Aspose.Cells for SharePoint dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan konversi format Excel. Ini adalah alternatif otomatisasi Excel Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan dan harga.
     </p>
    </div>
   </div>
@@ -319,7 +319,7 @@ Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat mengguna
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -328,7 +328,7 @@ Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat mengguna
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

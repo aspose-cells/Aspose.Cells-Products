@@ -1,7 +1,8 @@
 ---
-title:  via .NET を開かずに XLSB 文書を検索
+title:  via .NET を開かずに XLSB ドキュメントを検索
 weight: 8880
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLSB ファイル内のパターンを持つ単語を検索するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB で XLSB の形式を検索" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for .NET API を使用したネイティブで高性能の XLSB ドキュメント検索。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: C# フレームワーク、.NET コア、Mono または Xamarin プ
 
 XLSB ファイルを検索するには、次を使用します。
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API は、機能が豊富で強力で使いやすい、C# プラットフォーム用のドキュメント検索 API です。開ける
+ API は、機能が豊富で強力で使いやすい、C# プラットフォーム用のドキュメント検索 API です。開ける
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 パッケージマネージャー、検索
  **Aspose.Cells** 

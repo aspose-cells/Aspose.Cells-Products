@@ -1,8 +1,8 @@
 ---
 title: JPEG を EXCEL に結合 - JPEG を C# の EXCEL に結合
 url: /ja/net/merger/merge-jpeg-to-excel/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン JPEG を EXCEL 保存形式にマージします。 C# JPEGをEXCEL形式に結合します。 JPEG を C# の EXCEL にマージします。 JPEG マージします。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to EXCEL in C#., Free Online C# Merge JPEG to excel., C# Combine JPEG to EXCEL Online for Free., JPEG Merge]
+description: Aspose エクセル。 C# Aspose.Cells。JPEG を EXCEL 保存形式にマージします。 C# JPEGをEXCEL形式に結合します。 JPEG を C# の EXCEL にマージします。 JPEG マージします。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to EXCEL in C#., C# Merge JPEG to excel., C# Combine JPEG to EXCEL., JPEG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEG を C# 経由で EXCEL にマージ" h2="JPEGをEXCELにマージするための高速C#ライブラリ。 Excel 変換 API を使用して、C# でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to EXCEL in C#., Free Onl
 
 {{% blocks/products/pf/agp/content h2="C# を使用して JPEG を EXCEL にマージする" %}}
 
-JPEG を EXCEL にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に JPEG を EXCEL に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+JPEG を EXCEL にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に JPEG を EXCEL に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEGをオンラインで無料でJPEGのEXCELにマージします" %}}
+{{% blocks/products/pf/agp/content h2="JPEG を C# の EXCEL にマージ" %}}
 
 次の例は、JPEG を Aspose.Cells for .NET の EXCEL にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JPEG をオンラインで C# の EXCEL に無料でマージ" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="JPEGをC#のEXCELにマージするサンプルコード" InputFormat="jpg" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="JPEGを介してJPEGをEXCELにマージする方法" %}}
 

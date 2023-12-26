@@ -2,6 +2,7 @@
 title: ウォーターマーク XLSX ドキュメント via .NET
 weight: 8270
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLSX ファイルにウォーターマークを追加または削除するための C# ソース コード。
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で XLSX にテキスト透かしを追加" h2="サーバー側 API を使用して、XLSX ファイルに透かしを入れる独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

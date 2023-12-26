@@ -1,6 +1,7 @@
 ---
 title: Excel ファイルのメタデータの管理 via Java
 description: わずか数行の Java コードで Excel ファイルのメタデータを表示、追加、編集、削除、抽出できます。
+keywords: [Java Aspose.Cells., Java view excel metadata., Java add excel metadata., Java insert excel metadata., Java edit excel metadata., Java remove excel metadata., Java extract excel metadata., Java modify excel metadata]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルのメタデータを管理 via Java" h2="サーバー側 Java API を使用して、カスタムおよび組み込み Excel ファイルのプロパティを表示、追加、更新、削除、または抽出します。" >}}

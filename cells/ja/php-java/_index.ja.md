@@ -1,5 +1,5 @@
 ---
-title:  Excel スプレッドシート PHP API - Aspose
+title: Excel スプレッドシート PHP API - Aspose
 weight: 3660
 description: PHP Excel スプレッドシート API の読み取り書き込みと変換 XLS XLSX CSV TSV HTML ODS SpreadsheetML およびすべての Excel 97-2016 形式。スプレッドシートを複数の形式にエクスポート
 ---
@@ -96,7 +96,7 @@ description: PHP Excel スプレッドシート API の読み取り書き込み�
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
  PHP via Java
    </small>
@@ -154,7 +154,7 @@ description: PHP Excel スプレッドシート API の読み取り書き込み�
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
  PHP via Java
    </small>
@@ -234,7 +234,7 @@ Microsoft エクセル:
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
  PHP via Java
    </small>
@@ -370,7 +370,7 @@ CSV、タブ区切りおよび CSV のサポートHTML 形式
 Excel ファイルを XPS、PDF、および XPS に変換します。 HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API は、最高の視覚的忠実度を維持しながら、Excel ファイルを XPS、XPS、および HTML 形式に変換できます。変換プロセスは信頼性が高く、開発者はわずか数行で必要な形式を取得できます。
+Aspose.Cells for PHP via Java API は、最高の視覚的忠実度を維持しながら、Excel ファイルを XPS、XPS、および HTML 形式に変換できます。変換プロセスは信頼性が高く、開発者はわずか数行で必要な形式を取得できます。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -412,7 +412,7 @@ Aspose.Cells for PHP via Java を使用すると、ワークシートのペー�
 効率的、堅牢、そして優れた性能信頼性の高い数式計算エンジン
     </h2>
     <p>
-Aspose.Cells for PHP via Java には、標準および高度な Excel の数式と関数のほぼすべてをサポートする強力な数式計算エンジンが搭載されています。組み込みまたはアドインの型、配列、および R1C1 参照スタイルの式の結果を読み取り、設定し、計算できます。
+ Aspose.Cells for PHP via Java には、標準および高度な Excel の数式と関数のほぼすべてをサポートする強力な数式計算エンジンが搭載されています。組み込みまたはアドインの型、配列、および R1C1 参照スタイルの式の結果を読み取り、設定し、計算できます。
     </p>
    </div>
    <div class="col-lg-12">

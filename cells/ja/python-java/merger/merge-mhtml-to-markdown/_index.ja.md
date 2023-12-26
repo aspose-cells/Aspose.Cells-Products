@@ -1,8 +1,8 @@
 ---
 title: MHTML から MARKDOWN を結合 - MHTML から MARKDOWN を Python に結合
 url: /ja/python-java/merger/merge-mhtml-to-markdown/ 
-description: Aspose エクセル。 Python Aspose.Cells。MHTML を MARKDOWN の保存形式に無料でオンライン結合します。 Python MHTML と MARKDOWN の形式を結合します。 MHTML から MARKDOWN を Python に結合します。MHTML を結合します。
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to MARKDOWN in Python., Free Online Python Merge MHTML to markdown., Python Combine MHTML to MARKDOWN Online for Free., MHTML Merge]
+description: Aspose エクセル。 Python Aspose.Cells。MHTML を MARKDOWN の保存形式にマージします。 Python MHTML と MARKDOWN の形式を結合します。 MHTML から MARKDOWN を Python に結合します。MHTML を結合します。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to MARKDOWN in Python., Python Merge MHTML to markdown., Python Combine MHTML to MARKDOWN., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を Python 経由で MARKDOWN に結合" h2="MHTML を MARKDOWN にマージするための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to MARKDOWN in Pytho
 
 {{% blocks/products/pf/agp/content h2="Python を使用して MHTML を MARKDOWN に結合" %}}
 
- MHTML を MARKDOWN に結合するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を MARKDOWN に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+MHTML を MARKDOWN に結合するにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に MHTML を MARKDOWN に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHTML を Python にオンラインで無料で結合します" %}}
+{{% blocks/products/pf/agp/content h2="MHTML を Python に結合" %}}
 
 次の例は、MHTML を Aspose.Cells for Python via Java の MARKDOWN にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to MARKDOWN in Pytho
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML を Python にオンラインで無料でマージ" InputFormat="mhtml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="MHTML から MARKDOWN を Python にマージするサンプルコード" InputFormat="mhtml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML を Python 経由で MARKDOWN に結合する方法" %}}
 
@@ -73,7 +73,7 @@ Workbook クラスで MHTML ファイルをロードします。
 
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

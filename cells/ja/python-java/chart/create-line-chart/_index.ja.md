@@ -1,6 +1,7 @@
 ---
 title: Python 経由で折れ線グラフを作成
 description: Python Python ライブラリを使用して Excel に折れ線グラフを作成するサンプル コード。 Python ベースのアプリケーション内で MS Excel に折れ線グラフを作成するには、このコードを使用します。
+keywords: [Python Aspose.Cells., Python add Line Chart., Python insert Line Chart., Python create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ description: Python Python ライブラリを使用して Excel に折れ線グ�
  Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux および MacOS) でも使用できます。システムに Java 1.8 以降が搭載されていることを確認してください。[Python](https://www.python.org/downloads/) 3.5以上。
 {{% /blocks/products/pf/agp/text %}}
 -  Java をインストールし、PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="次のソース コードは、Python を使用して MS Excel XLSX ファイルに折れ線グラフを作成する方法を示しています。" offSpacer="" %}}

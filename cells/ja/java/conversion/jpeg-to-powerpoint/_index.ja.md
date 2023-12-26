@@ -1,7 +1,7 @@
 ---
-title: Java JPEG から POWERPOINT - オンライン JPEG から POWERPOINT コンバータ
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java JPEG を POWERPOINT 保存形式に変換します。 Java JPEG を POWERPOINT 形式に変換します。 JPEGをパワーポイントJavaに保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT Java., Java Convert JPEG to POWERPOINT]
+title: Java JPEG から POWERPOINT - JPEG から POWERPOINT コンバーター
+description: Aspose エクセル。 Aspose.Cellsを使用して、JPEGをPOWERPOINTにすばやく簡単に変換します。Java JPEGをPOWERPOINTに変換します。 Java JPEGをパワーポイントに保存します。 Javaを使用してJPEGをPOWERPOINTとして保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to POWERPOINT in Java., Save JPEG to POWERPOINT using Java., Java JPEG to POWERPOINT saveformat., JPEG to POWERPOINT Converter., Java Save JPEG as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEGをJavaのパワーポイントに変換します" h2="JPEGをPOWERPOINTに変換するための高速Javaライブラリ。これは、JPEG、POWERPOINT、および Java を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to P
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してJPEGをパワーポイントに変換します" %}}
 
-JPEG を POWERPOINT に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を POWERPOINT に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+JPEG を POWERPOINT に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に JPEG を POWERPOINT に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ JPEG を POWERPOINT に変換するにはどうすればよいですか? Aspose.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEGをオンラインで無料でパワーポイントに保存します" %}}
+{{% blocks/products/pf/agp/content h2="JPEG を Java の POWERPOINT に保存します" %}}
 
 次の例は、JPEG を Java の POWERPOINT に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ JPEG を POWERPOINT に変換するにはどうすればよいですか? Aspose.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPEGをオンラインでPowerPointに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="JPEGをPOWERPOINTに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JPEGをパワーポイントvia Javaに変換する方法" %}}
 
@@ -77,7 +77,7 @@ JPEG ファイルをプログラムで POWERPOINT に変換する必要があり
 {{% blocks/products/pf/agp/content h2="Java を POWERPOINT に変換するための Java ライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

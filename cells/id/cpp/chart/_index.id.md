@@ -1,36 +1,37 @@
 ---
-title: Buat Bagan Excel dan Konversikan ke Gambar melalui C++
-description: C++ kode sumber untuk menggambar dan mengonversi bagan atau diagram di Microsoft Excel menggunakan Perpustakaan C++
+title: Buat Grafik Excel dan Konversi ke Gambar melalui C++
+description: Kode sumber C++ untuk menggambar dan mengubah bagan atau diagram di Microsoft Excel menggunakan Perpustakaan C++
+keywords: [C++ Aspose.Cells., C++ Convert chart to image., C++ Save chart to image., C++ chart to image., create charts in C++., insert charts in C++., manage charts in C++]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Buat Bagan Excel Microsoft<sup>&reg;</sup> dan Konversikan ke Gambar melalui C++" h2="Ubah bagan dokumen Excel menjadi gambar serta buat bagan termasuk bagan Pai, Piramida, Garis, dan Gelembung dalam aplikasi berbasis C++." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Buat Microsoft<sup>&reg;</sup> Bagan Excel dan Konversi ke Gambar melalui C++" h2="Ubah bagan dokumen Excel menjadi gambar serta buat bagan termasuk bagan Pai, Piramida, Garis, dan Gelembung dalam aplikasi berbasis C++." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
- Menggunakan grafik Excel, seseorang bisa mendapatkan gambaran yang lebih besar dan menganalisis data dengan mudah untuk mengambil keputusan yang tepat.[C++ Perpustakaan Excel](/cells/id/cpp/) mendukung pembuatan bagan berbeda yang dicantumkan oleh[enum Aspose::Cells::Charts::ChartType
-](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) termasuk diagram area, batang, pai, piramida, garis, dan gelembung. Selain itu, Untuk konversi grafik ke gambar, API menyediakan a[Metode ToImage](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) ke dalam format gambar yang diperlukan.
+ Dengan menggunakan grafik Excel, seseorang bisa mendapatkan gambaran yang lebih besar dan menganalisis data dengan mudah untuk mengambil keputusan yang tepat.[C++ Perpustakaan Excel](/cells/id/cpp/) mendukung pembuatan bagan berbeda yang dicantumkan oleh[enum Aspose::Cells::Bagan::Jenis Bagan
+](https://reference.aspose.com/cells/cpp/aspose.cells.charts/charttype/) termasuk diagram area, batang, pai, piramida, garis, dan gelembung. Selain itu, Untuk konversi grafik menjadi gambar, API menyediakan a[Untuk Gambar](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chart/toimage/) mehtod ke dalam format gambar yang diperlukan.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Buat Bagan Excel" %}}
 
- Proses pembuatan grafik Excel adalah, membuat contoh dari[kelas IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) dan pilih yang diinginkan[Lembar kerja](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . Tambahkan bagan menggunakan[Tambahkan metode](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)dengan parameter yang relevan termasuk jenis bagan. Akses grafik melalui indeks dan[Menambahkan](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) sumber data untuk grafik.
+ Proses membuat bagan Excel adalah, membuat instance dari[Kelas buku kerja](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) dan pilih yang diinginkan[Lembar kerja](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/) . Tambahkan grafik menggunakan[Tambahkan metode](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chartcollection/add/)dengan parameter yang relevan termasuk jenis bagan. Akses grafik melalui indeks dan[Menambahkan](https://reference.aspose.com/cells/cpp/aspose.cells.charts/seriescollection/add/) sumber data untuk bagan.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Membuat Grafik Excel" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-chart.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Konversi Bagan ke Gambar" %}}
+{{% blocks/products/pf/feature-page-section h2="Konversi Bagan menjadi Gambar" %}}
 
 
-Untuk proses konversi grafik adalah, pertama buat grafik sesuai jenis yang relevan menggunakan kode di atas atau akses dari lembar yang relevan. Tentukan jalur penyimpanan keluaran untuk gambar dan gunakan metode ToImage untuk konversi.
+Untuk proses konversi bagan, pertama-tama buat bagan dengan tipe yang relevan menggunakan kode di atas atau akses dari lembar yang relevan. Tentukan jalur penyimpanan keluaran untuk gambar dan gunakan metode ToImage untuk konversi.
 
  
-{{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Mengonversi Bagan Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Mengonversi Grafik Excel" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "convert-excel-chart-to-image.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "convert-excel-chart-to-image.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

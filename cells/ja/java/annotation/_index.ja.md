@@ -1,6 +1,7 @@
 ---
-title: Excel ファイルの注釈 via Java
+title: Excel ファイルの注釈の追加または削除 via Java
 description: Java ライブラリを使用して Excel および OpenOffice スプレッドシートのデータ注釈を追加または削除します。
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="管理 Microsoft<sup>&reg;</sup> Excel ファイルの注釈 via Java" h2="注釈用の簡単なメモを挿入したり、Java ベースのアプリケーション内で Excel スプレッドシートのセル レベルのコメントを削除したりできます。" >}}

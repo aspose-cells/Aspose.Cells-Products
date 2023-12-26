@@ -1,8 +1,8 @@
 ---
 title: XLSX を SPREADSHEETML に結合 - XLSX を C# の SPREADSHEETML に結合
 url: /ja/net/merger/merge-xlsx-to-spreadsheetml/ 
-description: Aspose エクセル。 C# Aspose.Cells。無料オンライン XLSX を SPREADSHEETML 保存形式にマージします。 C# XLSX を SPREADSHEETML 形式に結合します。 XLSX を C# の SPREADSHEETML にマージします。 XLSX をマージします。
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., Free Online C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML Online for Free., XLSX Merge]
+description: Aspose エクセル。 C# Aspose.Cells。XLSX を SPREADSHEETML 保存形式にマージします。 C# XLSX を SPREADSHEETML 形式に結合します。 XLSX を C# の SPREADSHEETML にマージします。 XLSX をマージします。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX を C# 経由で SPREADSHEETML にマージします" h2="XLSX を SPREADSHEETML にマージするための高速 C# ライブラリ。 Excel 変換 API を使用して、C# でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., 
 
 {{% blocks/products/pf/agp/content h2="C# を使用して XLSX を SPREADSHEETML にマージします" %}}
 
-XLSX を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSX を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSX を SPREADSHEETML にマージするにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLSX を SPREADSHEETML に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSX をオンラインで無料で C# の SPREADSHEETML にマージします" %}}
+{{% blocks/products/pf/agp/content h2="XLSX を C# の SPREADSHEETML にマージします" %}}
 
 次の例は、XLSX を Aspose.Cells for .NET の SPREADSHEETML にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSX をオンラインで C# の SPREADSHEETML に無料でマージ" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="XLSX を C# の SPREADSHEETML にマージするサンプルコード" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# を経由して XLSX を SPREADSHEETML にマージする方法" %}}
 

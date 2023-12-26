@@ -2,6 +2,7 @@
 title: ロックを解除 ODS ドキュメント via .NET
 weight: 3110
 description: .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上のパスワードで保護された ODS ファイルのロックを解除するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# unlock ODS files., c# how to unlock ODS document., c# unprotect ODS files., remove protection from ODS files., decrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で ODS スプレッドシートのロックを解除します" h2=".NET ライブラリを使用して ODS から保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -120,7 +121,7 @@ workbook.Save("unprotected.ods", Aspose.Cells.SaveFormat.Auto);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C# を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="C#を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Excel バイナリ形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}

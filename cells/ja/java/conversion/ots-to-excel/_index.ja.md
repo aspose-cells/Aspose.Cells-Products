@@ -1,7 +1,7 @@
 ---
-title: Java OTS から EXCEL - オンライン OTS から EXCEL コンバーター
-description: Aspose エクセル。 Java Aspose.Cells. Java Aspose Cells. 無料オンライン Java OTS を EXCEL 保存形式に変換します。 Java OTS から EXCEL 形式。 OTS を EXCEL Java に保存します。
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EXCEL saveformat., Free Online OTS to EXCEL Java., Java Convert OTS to EXCEL]
+title: Java OTS から EXCEL - OTS から EXCEL コンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、OTS を EXCEL にすばやく簡単に変換します。 Java OTS から EXCEL。 Java OTS を EXCEL に保存します。 Java を使用して OTS を EXCEL として保存します。
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EXCEL in Java., Save OTS to EXCEL using Java., Java OTS to EXCEL saveformat., OTS to EXCEL Converter., Java Save OTS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JavaでOTSをEXCELに変換します" h2="OTSをEXCELに変換する高速ライブラリJava。これは、Java を使用して OTS、EXCEL、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EX
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してOTSをEXCELに変換します" %}}
 
-OTS を EXCEL に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に OTS を EXCEL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+OTS を EXCEL に変換するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に OTS を EXCEL に簡単に変換できます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ OTS を EXCEL に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でJavaのOTSをEXCELに保存します" %}}
+{{% blocks/products/pf/agp/content h2="Java で OTS を EXCEL に保存" %}}
 
 次の例は、Java で OTS を EXCEL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ OTS を EXCEL に変換するにはどうすればよいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでOTSをEXCELに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="OTSをEXCELに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="OTSをEXCELに変換する方法via Java" %}}
 
@@ -70,14 +70,14 @@ OTS ファイルをプログラムで EXCEL に変換する必要があります
 1. ライブラリ参照を Java プロジェクトに追加します (ライブラリをインポートします)。
 1. Workbook クラスのインスタンスを使用して OTS ファイルを読み込みます。
 1.  Workbook.save メソッドを呼び出して、OTS を EXCEL に変換します。
-1.  OTSからEXCELへの変換結果を取得します。
+1. OTSからEXCELへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Java OTS を EXCEL に変換するライブラリ" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}

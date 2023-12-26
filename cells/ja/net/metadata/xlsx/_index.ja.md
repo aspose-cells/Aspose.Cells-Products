@@ -2,6 +2,7 @@
 title: 表示または編集 XLSX ファイルのメタデータ via .NET
 weight: 3430
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLSX 形式のメタデータを編集または表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view xlsx metadata., c# add xlsx metadata., c# insert xlsx metadata., c# edit xlsx metadata., c# remove xlsx metadata., c# extract xlsx metadata., c# modify xlsx metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX メタデータ via .NET を抽出" h2="サーバー側 API を使用して、XLSX ファイルからメタデータを追加、編集、削除、抽出する独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

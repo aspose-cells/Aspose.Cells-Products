@@ -1,12 +1,13 @@
 ---
 title: Microsoft C# 経由の Excel ファイル変換
-description: わずか数行の C# コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG、HTML などの一般的な形式に変換します。 。
+description: Aspose.Cells for .NET 図書館。わずか数行の C# コードで、EXCEL、JSON、PDF、XML、HTML、TXT、TSV、CSV、SQL、JPG、PNG などの形式を変換します。
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 形式変換 via .NET" h2="Excel ファイルをスプレッドシート、Web、画像、固定レイアウト形式でインポートおよびエクスポート" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、076193 などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 481. Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
+.NET Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07619348 などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 1. Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel を XLSX、ODS、SXC、FODS に変換" %}}

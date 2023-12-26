@@ -2,6 +2,7 @@
 title: ウォーターマーク ODS ドキュメント via .NET
 weight: 4190
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の ODS ファイルにウォーターマークを追加または削除するための C# ソース コード。
+keywords: [C# Aspose.Cells., C# add watermark to ods file., C# insert watermark to ods file., C# create watermark in ods file., remove watermark from ods file using C#., C# operate watermark in ods file., C# access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# 経由で ODS にテキスト透かしを追加" h2="サーバー側 API を使用して、ODS ファイルに透かしを入れる独自の .NET アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

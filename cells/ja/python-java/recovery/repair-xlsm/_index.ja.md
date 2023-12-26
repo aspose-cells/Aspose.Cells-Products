@@ -1,8 +1,8 @@
 ---
-title: Python xlsm ファイルを修復する - オンラインで xlsm ファイルを無料で修復する
+title: Python xlsm の修復 - 破損した xlsm ファイルの回復と修正
 url: /ja/python-java/recovery/repair-xlsm/ 
-description: Aspose エクセル。 Python Aspose.Cells。Python xlsm ファイルを修復します。無料のオンライン xlsm 修復ツール。破損した xlsm ファイルを修復します。 Python アプリケーション内の破損した xlsm ファイルを回復します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells.xlsm を修復します。 xlsmファイルを修正。 xlsm回復ツール。 xlsm が破損しています。 xlsm データを復元します。 xlsm ファイルの回復。破損したxlsmファイルを回復します。
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python の XLSM ファイルを修復します" h2="Python を使用して xlsm ファイルを修復する独自の Python アプリケーションを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してXLSMファイルを修復する" %}}
 
- xlsm ファイルを修復するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSM ファイルを簡単に修復できます。[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+ xlsm ファイルを修復するにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSM ファイルを簡単に修復できます。[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,7 +32,7 @@ xlsm ファイルをプログラムで修復する必要がありますか? Pyth
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="XLSMファイルをオンラインで修復する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="XLSMファイルを修復するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python ファイルを修復するライブラリ" %}}
 
@@ -55,7 +55,7 @@ Aspose.Cells for Python は、すべての主要なオペレーティング シ�
  
 -  Java 1.8 以降をインストールし、それを PATH 環境変数に追加します。次に例を示します。<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - インストール[Python](https://www.python.org/downloads/)3.5以上。
-- Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

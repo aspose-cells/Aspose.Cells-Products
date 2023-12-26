@@ -61,7 +61,7 @@ Workbook クラスで XLSX ファイルをロードします。
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Excelファイルをオンラインで結合する無料アプリ" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Excelファイルをオンラインで結合する無料アプリ" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
  
 <!-- aboutfile Starts -->
 

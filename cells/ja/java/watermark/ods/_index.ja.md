@@ -2,6 +2,7 @@
 title: ウォーターマーク ODS ドキュメント via Java
 weight: 1040
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境上の ODS ファイルにウォーターマークを追加または削除する Java サンプル コード。
+keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="テキスト透かしを ODS via Java に追加" h2="サーバー側 API を使用して、ODS ファイルに透かしを入れる独自の Java アプリを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

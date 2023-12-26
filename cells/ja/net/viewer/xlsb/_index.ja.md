@@ -2,6 +2,7 @@
 title: 表示 XLSB ファイル形式 via .NET
 weight: 6260
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォームで XLSB ドキュメントをロード、レンダリング、表示するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# view XLSB files., c# how to render XLSB document., c# load and display XLSB files., XLSB File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB ファイル閲覧者 for .NET" h2="Microsoft Excel や Office Automation を必要とせずに、XLSB などの Excel および OpenOffice スプレッドシートを表示します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

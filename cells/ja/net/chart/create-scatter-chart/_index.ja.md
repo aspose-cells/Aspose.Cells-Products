@@ -1,6 +1,7 @@
 ---
 title: C# 経由で散布図を作成する
 description: C# .NET ライブラリを使用して Excel に散布図を作成するためのサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内で MS Excel に散布図を作成するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

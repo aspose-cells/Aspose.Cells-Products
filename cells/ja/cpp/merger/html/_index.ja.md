@@ -10,7 +10,7 @@ description: C++ サンプルコードは、Windows 32 ビット、Windows 64 �
 
 {{% blocks/products/pf/agp/content h2="C++を使用してHTMLファイルをマージする方法" %}}
 
- HTML ファイルをマージするには、次を使用します。<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API は、機能が豊富で強力で使いやすいドキュメント結合プラットフォームです。 API for C++最新バージョンを直接ダウンロードできます。開くだけです。<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>パッケージマネージャー、検索<b>Aspose.Cells.Cpp</b>そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+ HTML ファイルをマージするには、次を使用します。<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API は、機能が豊富で強力で使いやすいドキュメント結合プラットフォームです。 API for C++最新バージョンを直接ダウンロードできます。開くだけです。<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>パッケージマネージャー、検索<b>Aspose.Cells.Cpp</b>そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -56,7 +56,7 @@ Workbook クラスで HTML ファイルをロードします。
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Excelファイルをオンラインで結合する無料アプリ" InputFormat="html" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Excelファイルをオンラインで結合する無料アプリ" InputFormat="html" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 

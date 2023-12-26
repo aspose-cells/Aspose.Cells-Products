@@ -2,6 +2,7 @@
 title: ロックを解除 XLS ドキュメント via Java
 weight: 6390
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境で、パスワードで保護された XLS ファイルのロックを解除するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java unlock XLS files., Java how to unlock XLS document., Java unprotect XLS files., remove protection from XLS files., decrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS ファイルのロックを解除 via Java" h2="Java ライブラリを使用して、XLS ファイルを含む Excel スプレッドシートから保護を削除します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -73,7 +74,7 @@ Aspose.Cells for Java は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# 経由で XLS ファイルのロックを解除する" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLS ファイルのロックを解除 via Java" offSpacer="" %}}
 
 ```cs
 
@@ -124,7 +125,7 @@ wkb.save("Worksheet_out.xls", FileFormatType.EXCEL_97_TO_2003);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Java を使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているロック解除形式" subTitle="Javaを使用すると、さまざまな形式の保護/ロック解除を簡単に解除できます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}

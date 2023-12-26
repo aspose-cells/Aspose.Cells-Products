@@ -1,7 +1,8 @@
 ---
 title: Excel にスター/バナーを挿入 via .NET
 weight: 381
-description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の Excel にスター/バナーを挿入するための C# ソース コード。
+description: C# .NET ライブラリを使用して Excel にスター/バナーを追加または挿入するサンプル コード。このコードを使用して、VB.NET、Asp.NET、または .NET ベースのアプリケーション内の MS Excel でスター/バナーを作成します。
+keywords: [C# Aspose.Cells., c# add Star/Banner., c# insert Star/Banner., c# create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel にスター/バナーを挿入 via .NET" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用してスター/バナーを挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -135,7 +136,7 @@ AutoShapeType.Explosion1
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.Star16
+ AutoShapeType.Star16
     </p>
    </div>
    <div class="col-lg-4">
@@ -211,7 +212,7 @@ AutoShapeType.Star16
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

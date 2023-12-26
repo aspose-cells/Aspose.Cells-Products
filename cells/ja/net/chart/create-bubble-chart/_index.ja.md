@@ -1,6 +1,7 @@
 ---
 title: C# 経由でバブル チャートを作成する
 description: C# .NET ライブラリを使用して Excel にバブル チャートを作成するためのサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内で MS Excel に {chart} グラフを作成するには、このコードを使用します。
+keywords: [C# Aspose.Cells., c# add Bubble Chart., c# insert Bubble Chart., c# create Bubble Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

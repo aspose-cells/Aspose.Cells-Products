@@ -2,6 +2,7 @@
 title:  XLS ドキュメントチャートを画像に変換 via .NET
 weight: 3210
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLS ファイル内のチャートまたは図を描画および変換するための C# ソース コード。
+keywords: [C# Aspose.Cells., c# Convert chart to image in xls., c# Save chart to image in xls., c# chart to image in xls., xls convert chart to image in c#., xls save chart to imagein c#., xls chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS C# のファイル チャートを画像に変換" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側 API を使用してネイティブで高性能な XLS ドキュメント チャートを画像に変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -44,7 +45,7 @@ API はわずか数行のコードで実行できます。
 {{% /blocks/products/pf/agp/text %}}
 
 XLS ファイルをロードします。
-+ チャートを取得します。
+チャートを取得します。
 グラフを画像に変換します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ XLS ファイルをロードします。
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。 Excel グラフを PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS に変換します。
+ Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。 Excel グラフを PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS に変換します。
  
 
 

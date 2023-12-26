@@ -2,6 +2,7 @@
 title: XLSB ファイル via Java でレポートを生成
 weight: 3560
 description: Java JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境に関する XLSB 形式のレポートを作成するためのサンプル コード。
+keywords: [Java Aspose.Cells., Java Create XLSB Reports Based on Predesigned Excel Template., Java Generate XLSB Reports Based on Predesigned Excel Template., Java Create XLSB Reports Based on Excel Template., Java Generate XLSB Reports Based on Excel Template., Java Create XLSB files Based on Excel Template., Java Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB 形式の一括レポート生成 via Java" h2="データ ソースとテンプレートを使用して、XLSB 形式のレポートを生成します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -75,9 +76,9 @@ Aspose.Cells for Java は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XLSB 形式の Excel レポートを生成 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSB 形式の Excel レポートを生成 - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

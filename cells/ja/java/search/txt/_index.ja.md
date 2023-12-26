@@ -1,7 +1,8 @@
 ---
-title:  via Java を開かずに TXT 文書を検索
+title:  via Java を開かずに TXT ドキュメントを検索
 weight: 1200
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の TXT ファイル内のパターンを持つ単語を検索するための Java サンプル コード。
+keywords: [Java Aspose.Cells., Java search words with pattern in txt file., Java find words with pattern in txt file., Java search string with pattern in txt file., Java find words with pattern in txt file., Java search words in txt file., Java find words in txt file., Java search string in txt file., Java find string in txt file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT で TXT の形式を検索" h2="Microsoft や Adobe PDF などのソフトウェアを使用せずに、サーバー側の Aspose.Cells for Java API を使用したネイティブで高性能の TXT ドキュメント検索。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TXT" >}}
@@ -62,7 +63,7 @@ Aspose.Cells API を使用した基本的なドキュメント検索は、わず
 + 指定した数式を含むセルを検索します。
 + FindOptions をインスタンス化します。
 + 文字列値を含むセルを検索します。
-+ 検索結果の後に見つかったセルを印刷します
+検索結果の後に見つかったセルを印刷します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

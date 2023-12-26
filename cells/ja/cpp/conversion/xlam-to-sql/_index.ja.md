@@ -1,7 +1,7 @@
 ---
-title: XLAM から SQL - XLAM を SQL ファイル C++ に変換します
-description: Aspose エクセル。無料でオンラインでXLAMをSQL保存形式に変換します。 C++ XLAM を SQL 形式に変換します。 XLAM を SQL として C++ に保存します。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SQL saveformat., Free Online XLAM to SQL Converter]
+title: C++ XLAM から SQL - XLAM から SQL コンバータ
+description: Aspose エクセル。 Aspose.Cells を使用して、XLAM を SQL にすばやく簡単に変換します。C++ XLAM を SQL に変換します。 C++ XLAM を SQL に保存します。 C++ を使用して XLAM を SQL として保存します。
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to SQL in C++., Save XLAM to SQL using C++., C++ XLAM to SQL saveformat., XLAM to SQL Converter., C++ Save XLAM as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLAM を C++ の SQL に変換します" h2="Microsoft Excel、OpenOffice、または Adobe Acrobat のインストールを必要とせずに、C++ ライブラリを使用した高性能の XLAM から SQL への変換。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SQL saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXLAMをSQLに変換します" %}}
 
-XLAM を SQL に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLAM を SQL に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLAM を SQL に変換するにはどうすればよいですか? Aspose.Cells for C++ ライブラリを使用すると、数行のコードでプログラム的に XLAM を SQL に簡単に変換できます。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 C++ Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)パッケージ マネージャーで、Aspose.Cells.Cpp を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLAMをオンラインで無料でSQLに保存します" %}}
+{{% blocks/products/pf/agp/content h2="XLAM を C++ の SQL に保存" %}}
 
 次の例は、XLAM を C++ の SQL に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLAM を SQL Online に変換する無料アプリとサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLAMをSQLに変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLAM を経由して XLAM を SQL に変換する方法" %}}
 
@@ -49,7 +49,7 @@ XLAM ファイルをプログラムで SQL に変換する必要があります�
 
 1.  「Aspose.Cells for C++」をインストールします。
 1. ライブラリ参照を C++ プロジェクトに追加します (ライブラリをインポートします)。
-1.  Factory::CreateIWorkbook を使用して XLAM ファイルを読み込みます。
+1. ワークブックを使用して XLAM ファイルをロードします。
 1.  Save() メソッドを呼び出して、XLAM を SQL に変換します。
 1.  XLAMをSQLに変換した結果を取得します。
 
@@ -82,6 +82,12 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM は、スプレッドシートに新しい関数を追加するために使用されるマクロ有効アドイン ファイルです。アドインは、追加コードを実行し、スプレッドシートに追加機能を提供する補足プログラムです。 XLAM ファイルは .xlam 拡張子で保存されます。 XLAM ファイルは、XLSM および XLSX ファイル形式に似た XML ベースのファイルで、全体のファイル サイズを削減するために ZIP 圧縮で保存されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}拡張子が .sql のファイルは、リレーショナル データベースを操作するコードが含まれる構造化照会言語 (SQL) ファイルです。これは、データベースに対する CRUD (作成、読み取り、更新、および削除) 操作の SQL ステートメントを作成するために使用されます。 SQL ファイルは、デスクトップおよび Web ベースのデータベースを操作するときによく使用されます。 SQL の代替手段としては、Java Persistence Query Language (JPQL)、LINQ、HTSQL、4D QL などがあります。 SQL ファイルは、Microsoft SQL Server のクエリ エディター、MySQL、および Windows OS 上のメモ帳などの他のプレーン テキスト エディターで開くことができます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="XLAM を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 
@@ -95,7 +101,6 @@ C++ 変換サンプル コードを実行する前に、次の前提条件を満
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM から PDF" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM から PNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM から SVG" description="スケーラブルなベクター グラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM から TIFF" description="タグ付き画像フォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM から TSV" description="タブ区切りの値" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM から TXT" description="テキストドキュメント" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM から XLS" description="Excel バイナリ形式" >}}

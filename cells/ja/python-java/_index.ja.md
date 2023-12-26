@@ -1,7 +1,8 @@
 ---
 title:  Python Excel スプレッドシート API - Aspose
 weight: 2820
-description: Python Excel ファイルを作成し、読み書きし、解析するためのスプレッドシート ライブラリ。
+description: Python Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、HTML、TXT およびその他の一般的な形式に変換します。
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel スプレッドシート解析 API" h2="Python アプリケーション内でスプレッドシートを生成、読み取り、書き込み、操作するだけでなく、Excel ファイルを複数の形式にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

@@ -1,6 +1,7 @@
 ---
-title: Excelファイルvia .NETを修復する
-description: C# を使用して破損した Excel ファイルを修復します。.NET アプリケーション内の破損した Excel ファイルを修復する回復ツール。
+title: C# Excel の修復 - 破損した Excel ファイルを回復して修正
+description: C# Aspose.Cells. Excel を修復します。エクセルファイルを修正。エクセルの回復ツール。エクセルの破損。エクセルデータを復元します。エクセルファイルの復元。破損したExcelファイルを回復します。
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#経由でEXCELファイルを回復します" h2=".NET を使用して Excel ファイルを修復する独自の .NET アプリケーションを構築します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

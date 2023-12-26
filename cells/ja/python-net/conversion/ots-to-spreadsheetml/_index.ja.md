@@ -1,7 +1,7 @@
 ---
-title: Python OTS から SPREADSHEETML - オンライン OTS から SPREADSHEETML コンバーター
-description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python OTS を SPREADSHEETML 保存形式に変換します。 Python OTS から SPREADSHEETML 形式。 OTS を SPREADSHEETML Python に保存します。
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to SPREADSHEETML saveformat., Free Online OTS to SPREADSHEETML Python., Python Convert OTS to SPREADSHEETML]
+title: Python OTSからSPREADSHEETMLへ - OTSからSPREADSHEETMLへのコンバーター
+description: Aspose エクセル。 Aspose.Cells を使用して、OTS を SPREADSHEETML にすばやく簡単に変換します。 Python OTS から SPREADSHEETML へ。 Python OTS を SPREADSHEETML に保存します。 Python を使用して、OTS を SPREADSHEETML として保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to SPREADSHEETML in Python., Save OTS to SPREADSHEETML using Python., Python OTS to SPREADSHEETML saveformat., OTS to SPREADSHEETML Converter., Python Save OTS as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python で OTS を SPREADSHEETML に変換" h2="OTS を SPREADSHEETML に変換するための高速 Python ライブラリ。 Excel 変換 API を使用して、プラットフォームに依存しない高レベルのソフトウェアを Python で開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Python で OTS を SPREADSHEETML に変換" %}}
 
- OTS を SPREADSHEETML に変換するにはどうすればよいですか? NET ライブラリ経由の Aspose.Cells for Python を使用すると、数行のコードでプログラム的に OTS を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
+ OTS を SPREADSHEETML に変換するにはどうすればよいですか? NET ライブラリ経由の Aspose.Cells for Python を使用すると、数行のコードでプログラム的に OTS を SPREADSHEETML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間で変換するだけでなく、Excel ファイルを画像 PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT などとしてレンダリングすることもできるため、業界標準形式でドキュメントを交換するのに最適です。
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="オンラインで無料でOTSをPythonのSPREADSHEETMLに保存します" %}}
+{{% blocks/products/pf/agp/content h2="OTS を Python の SPREADSHEETML に保存" %}}
 
 次の例は、OTS を Python via NET の SPREADSHEETML に変換する方法を示しています。
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでOTSをSPREADSHEETMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="OTS を SPREADSHEETML に変換するサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS を SPREADSHEETML に変換する方法" %}}
 
@@ -52,7 +52,7 @@ OTS ファイルをプログラムで SPREADSHEETML に変換する必要があ�
 Python パッケージは PyPi リポジトリでホストされています。
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python をインストールします<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

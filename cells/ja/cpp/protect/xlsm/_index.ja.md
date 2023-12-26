@@ -2,6 +2,7 @@
 title:  C++ 経由で XLSM ドキュメントを保護およびロックする
 weight: 8770
 description: Windows 32 ビット、Windows 64 ビット、および Linux 64 ビットの C++ ランタイム環境でパスワードを使用して XLSM ファイルをロックする C++ サンプル コード。
+keywords: [C++ Aspose.Cells., C++ Lock XLSM files., C++ How to Protect and lock XLSM document., C++ Protect XLSM files., Encrypt XLSM Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM 経由で XLSM ファイルを暗号化する" h2=".NET ライブラリを使用して、XLSM 形式を含む Excel スプレッドシートをパスワードで保護します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -41,7 +42,7 @@ Aspose.Cells API を使用したドキュメントの保護は、わずか数行
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  IWorkbookクラスを使用してXLSMファイルをロードします
+1.  Workbookクラスを使用してXLSMファイルをロードします
 1. ProtectionType と Password を指定して Protect(..) メソッドを使用する
 1. Save() メソッドで保護された XLSM ファイルを保存します
 
@@ -64,20 +65,24 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsm")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("output.xlsm")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsm");
+
+Aspose::Cells::Cleanup();
 
 ```
 

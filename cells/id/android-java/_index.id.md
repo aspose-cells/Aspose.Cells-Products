@@ -1,5 +1,5 @@
 ---
-title: Spreadsheet Excel Android API - Aspose
+title: Lembar Bentang Android Excel API - Aspose
 weight: 6510
 description: Pustaka spreadsheet Android untuk membuat baca tulis dan parsing file Excel. Spreadsheet API untuk pengembangan Aplikasi seluler
 ---
@@ -12,7 +12,7 @@ description: Pustaka spreadsheet Android untuk membuat baca tulis dan parsing fi
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java adalah API yang dapat diskalakan untuk menghasilkan, menggabungkan, memodifikasi, dan mengurai spreadsheet secara terprogram. API menawarkan banyak fungsi termasuk pemformatan dokumen excel dan tugas penyiapan halaman, kemampuan impor dan ekspor, merender halaman lembar kerja ke gambar raster serta menentukan resolusi gambar, kualitas, kompresi, menambahkan bagan yang berbeda, dan banyak lagi. Spreadsheet Android API mendukung format XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS, dan lainnya.
+ Aspose.Cells for Android via Java adalah API yang dapat diskalakan untuk menghasilkan, menggabungkan, memodifikasi, dan mengurai spreadsheet secara terprogram. API menawarkan banyak fungsi termasuk pemformatan dokumen excel dan tugas pengaturan halaman, kemampuan impor dan ekspor, merender halaman lembar kerja menjadi gambar raster serta menentukan resolusi gambar, kualitas, kompresi, menambahkan bagan berbeda dan banyak lagi. Spreadsheet Android API mendukung XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS, dan format lainnya.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -34,7 +34,7 @@ description: Pustaka spreadsheet Android untuk membuat baca tulis dan parsing fi
  Array
     </li>
     <li>
- Set Hasil
+ Kumpulan Hasil
     </li>
     <li>
 Koleksi
@@ -43,7 +43,7 @@ Koleksi
    <header>
     <i class="fa fa-cog">
     </i>
- Merender
+ Render
    </header>
    <ul>
     <li>
@@ -69,7 +69,7 @@ Koleksi
  Terapkan Pemformatan
     </li>
     <li>
- Terapkan Formula
+ Terapkan Rumus
     </li>
     <li>
  Buat Bagan
@@ -104,7 +104,7 @@ Koleksi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Cells for Android via Java tersedia for Android 2.0 ke atas." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Cells for Android via Java tersedia for Android 2.0 atau lebih tinggi." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -174,7 +174,7 @@ Koleksi
     </li>
     <li>
      <b>
- Web:
+ jaringan:
      </b>
      HTML, MHTML
     </li>
@@ -249,7 +249,7 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ekspor dan impor data dari ArrayList, Array, Recordset &amp; Kumpulan hasil
+ Ekspor dan impor data dari ArrayList, Array, Recordset &amp; Hasil
     </p>
    </div>
    <div class="col-lg-4">
@@ -291,7 +291,7 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Konfigurasikan penyiapan halaman
+ Konfigurasikan pengaturan halaman
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,14 +312,14 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Membuat salinan lembar kerja yang ada
+ Buat salinan lembar kerja yang ada
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tetapkan opsi perlindungan yang diperkenalkan sejak Microsoft Excel XP
+ Atur opsi perlindungan yang diperkenalkan sejak Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Mengonversi lembar kerja &amp; grafik hingga gambar
+ Konversi lembar kerja &amp; grafik ke gambar
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -426,14 +426,14 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Buat &amp; memanipulasi grafik kustom
+ Buat &amp; memanipulasi grafik khusus
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Melacak Preseden dan Tanggungan
+ Telusuri Preseden dan Tanggungan
     </p>
    </div>
    <div class="col-lg-4">
@@ -447,14 +447,14 @@ Terapkan pemformatan ke lembar kerja, baris, kolom, sel, dan rentang
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Mesin perhitungan formula yang kuat
+Mesin perhitungan rumus yang kuat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Baca &amp; tulis TSV, CSV &amp; HTML file
+ Baca &amp; tulis TSV, CSV &amp; HTML berkas
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,7 +462,7 @@ Mesin perhitungan formula yang kuat
  Konversi Format Berbeda
     </h2>
     <p>
- Pustaka Android Excel menawarkan konversi spreadsheet ke XPS, PDF &amp; HTML format menjaga fidelitas visual tertinggi. Proses konversi yang andal menjadikan API pilihan sempurna bagi perusahaan untuk bertukar file dalam format standar industri.
+ Pustaka Android Excel menawarkan konversi spreadsheet ke XPS, PDF &amp; Format HTML menjaga fidelitas visual tertinggi. Proses konversi yang andal menjadikan API pilihan sempurna bagi perusahaan untuk bertukar file dalam format standar industri.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -490,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Mengonversi Objek Spreadsheet ke Format Berbeda
+ Konversikan Objek Spreadsheet ke Format Berbeda
     </h2>
     <p>
- Aspose.Cells for Android via Java menawarkan beberapa fitur khas seperti lembar kerja hingga gambar, bagan hingga gambar &amp; PDF dan konversi format dokumen spreadsheet ke PDF. Proses yang fleksibel memiliki sejumlah pilihan untuk konversi, seperti pengambilan sampel ulang gambar selama spreadsheet ke PDF atau menyetel dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik ke format gambar.
+ Aspose.Cells for Android via Java menawarkan beberapa fitur khas seperti lembar kerja hingga gambar, bagan hingga gambar &amp; PDF dan konversi format dokumen spreadsheet ke PDF. Proses fleksibel memiliki sejumlah pilihan untuk konversi, seperti pengambilan sampel ulang gambar selama spreadsheet ke PDF atau mengatur dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik ke format gambar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Spreadsheet API Mesin Penghitung Formula
+Spreadsheet API Mesin Perhitungan Rumus
     </h2>
     <p>
- Lembaran Android API menyediakan Mesin Perhitungan Rumus yang kuat yang mendukung fungsi dan rumus Excel Microsoft yang canggih dan standar. Mesin kalkulasi formula memudahkan untuk membaca, mengatur, dan menghitung hasil tipe bawaan atau add-in, array, dan formula gaya referensi R1C1.
+ Lembar Android API menyediakan Mesin Penghitungan Rumus yang kuat yang mendukung fungsi dan rumus Excel Microsoft yang canggih dan standar. Mesin penghitungan rumus memudahkan untuk membaca, mengatur, dan menghitung hasil rumus gaya referensi tipe bawaan atau tambahan, larik, dan R1C1.
     </p>
    </div>
    <!--
@@ -582,7 +582,7 @@ Spreadsheet API Mesin Penghitung Formula
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for Android via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -591,7 +591,7 @@ Spreadsheet API Mesin Penghitung Formula
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

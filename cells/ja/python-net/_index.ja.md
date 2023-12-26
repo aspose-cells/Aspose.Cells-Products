@@ -1,7 +1,8 @@
 ---
 title:  Python Excel スプレッドシート API - Aspose
 weight: 2800
-description: Python Excel ファイルを作成し、読み書きし、解析するためのスプレッドシート ライブラリ。
+description: Python Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、HTML、TXT およびその他の一般的な形式に変換します。
+keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel スプレッドシート解析 API" h2="Python アプリケーション内でスプレッドシートを生成、読み取り、書き込み、操作するだけでなく、Excel ファイルを複数の形式にエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
@@ -12,7 +13,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via .Net は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
+Aspose.Cells for Python via .Net は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

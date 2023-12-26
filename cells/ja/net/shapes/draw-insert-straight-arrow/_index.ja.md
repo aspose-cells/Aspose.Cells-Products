@@ -1,7 +1,8 @@
 ---
 title:  Excel に直線矢印を描画または挿入するにはどうすればよいですか via .NET
 weight: 10
-description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の Excel に直線矢印を描画または挿入するための C# ソース コード。
+description: C# .NET ライブラリを使用して Excel に直線矢印を追加または挿入するサンプル コード。このコードを使用して、VB.NET、Asp.NET、または .NET ベースのアプリケーション内の MS Excel で直線矢印を作成します。
+keywords: [C# Aspose.Cells., c# add straight arrow., c# insert straight arrow., c# create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel に直線矢印を挿入 via .NET" h2="Microsoft や Open Office、Adobe PDF などのソフトウェアを使用せずに、Aspose.Cells\' API を使用して直線矢印を挿入します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -77,7 +78,7 @@ Aspose.Cells for .NET は、すべての主要なオペレーティング シス
 
 {{% blocks/products/pf/agp/content h2="約 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
+Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
 {{% /blocks/products/pf/agp/content %}}
 

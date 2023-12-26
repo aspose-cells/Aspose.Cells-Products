@@ -1,7 +1,8 @@
 ---
-title:  C++ Excel スプレッドシート プログラミング API - Aspose
+title: C++ Excel スプレッドシート プログラミング API - Aspose
 weight: 7140
-description: C++ XLS、XLSX、XLSM、および XLSB 形式を含むファイルの読み取り書き込みおよび解析を行うための Excel ライブラリ。スプレッドシートを PDF、CSV などの形式に変換
+description: Aspose.Cells for C++ Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、XML、TSV などに変換します。
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel スプレッドシート API" h2="フル機能の C++ アプリケーション内で、Microsoft Excel の依存関係を持たずにスプレッドシートを作成、読み取り、書き込み、解析できます。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -227,7 +228,7 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
      <b>
 画像:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -415,17 +416,17 @@ Aspose.Cells for C++ は、形式固有の詳細を気にすることなく、Ex
      <h3>
  Excel ファイルを複数の形式に変換 - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ は、Excel アプリケーションでサポートされ�
 ワークシートを画像としてレンダリングする
     </h2>
     <p>
-このライブラリは、独自のレンダリング エンジンを使用して、最高の忠実度で Microsoft Excel にレンダリングします。ワークシートを BMP、TIFF、PNG、JPEG、JPEG、JPEG などの一般的な形式の画像にレンダリングするなど、独特の機能を提供します。 Sheet2Image プロセスは柔軟なので、結果の画像の解像度の制御などのオプションを選択できます。
+このライブラリは、独自のレンダリング エンジンを使用して、最高の忠実度で Microsoft Excel にレンダリングします。ワークシートを BMP、PNG、JPEG、JPEG、JPEG などの一般的な形式の画像にレンダリングするなど、独特の機能を提供します。 Sheet2Image プロセスは柔軟なので、結果の画像の解像度の制御などのオプションを選択できます。
     </p>
    </div>
    <div class="col-lg-12">

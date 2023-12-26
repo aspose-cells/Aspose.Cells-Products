@@ -1,7 +1,7 @@
 ---
-title: Python JSON thành BMP - Bộ chuyển đổi JSON thành BMP trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi JSON thành BMP định dạng lưu. Python JSON đến BMP định dạng. Lưu JSON thành BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to BMP saveformat., Free Online JSON to BMP Python., Python Convert JSON to BMP]
+title: Python JSON sang BMP - JSON sang BMP Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi JSON sang BMP nhanh chóng và dễ dàng với Aspose.Cells. Python JSON sang BMP. Python Lưu JSON thành BMP. Lưu JSON thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to BMP in Python., Save JSON to BMP using Python., Python JSON to BMP saveformat., JSON to BMP Converter., Python Save JSON as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi JSON thành BMP thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi JSON thành BMP. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSO
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi JSON thành BMP thành Python" %}}
 
- Làm cách nào để chuyển đổi JSON thành BMP? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi JSON thành BMP bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi JSON thành BMP? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi JSON thành BMP theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu JSON thành BMP trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu JSON vào BMP trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi JSON thành BMP thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi JSON thành BMP trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi JSON thành BMP. Tải tệp JSON của bạn lên, sau đó chỉ cần lưu tệp thành BMP. Đối với cả JSON đọc và BMP viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng BMP đầu ra sẽ giống với tài liệu gốc JSON.
+Hãy làm theo các bước đơn giản để chuyển đổi JSON thành BMP. Tải lên tệp JSON của bạn, sau đó chỉ cần lưu nó dưới dạng tệp BMP. Đối với cả việc đọc JSON và ghi BMP, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng BMP đầu ra sẽ giống hệt với tài liệu JSON gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi JSON thành BMP trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi JSON thành BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JSON thành BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp JSON thành BMP theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi JSON thành BMP chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin JSON thành BMP theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi JSON thành BMP chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp JSON với phiên bản Sổ làm việc.
+1.  Tải tệp JSON bằng một phiên bản của Workbook.
 1.  Chuyển đổi JSON thành BMP bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ JSON thành BMP.
+1.  Nhận kết quả chuyển đổi từ JSON thành BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi JSON thành BMP" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi JSON thành BMP" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Ký hiệu đối tượng JavaScript) là một định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu sử dụng văn bản mà con người có thể đọc được để lưu trữ và truyền dữ liệu. Các tệp JSON được lưu trữ với phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là một giải pháp thay thế tốt cho XML. JSON có nguồn gốc từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. ứng dụng/json là loại phương tiện được sử dụng cho JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở tệp trên nhiều nền tảng, chẳng hạn như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc cũng như màu với các độ sâu màu khác nhau.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Ký hiệu đối tượng JavaScript) là định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu sử dụng văn bản mà con người có thể đọc được để lưu trữ và truyền dữ liệu. Các tệp JSON được lưu trữ với phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là lựa chọn thay thế tốt cho XML. JSON có nguồn gốc từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. application/json là loại phương tiện được sử dụng cho JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở file trên nhiều nền tảng như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc cũng như màu sắc với nhiều độ sâu màu khác nhau.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,24 +83,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-emf/" name="JSON ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-gif/" name="JSON ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-html/" name="JSON ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-md/" name="JSON ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-md/" name="JSON ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-mhtml/" name="JSON ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-ods/" name="JSON ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-pdf/" name="JSON ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-png/" name="JSON ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-svg/" name="JSON ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tiff/" name="JSON ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tsv/" name="JSON ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tsv/" name="JSON ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-txt/" name="JSON ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xls/" name="JSON ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsb/" name="JSON ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsm/" name="JSON ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsx/" name="JSON ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlt/" name="JSON ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltm/" name="JSON ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltx/" name="JSON ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltm/" name="JSON ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltx/" name="JSON ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xml/" name="JSON ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xps/" name="JSON ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xps/" name="JSON ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

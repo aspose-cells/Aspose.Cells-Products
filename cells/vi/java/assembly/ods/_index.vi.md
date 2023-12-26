@@ -1,7 +1,8 @@
 ---
-title:  Tạo Báo cáo trong Tệp ODS via Java
+title:  Tạo báo cáo trong ODS Tệp via Java
 weight: 2440
-description: Java mã mẫu để tạo các báo cáo định dạng ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
+description: Mã mẫu Java để tạo báo cáo định dạng ODS trên Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+keywords: [Java Aspose.Cells., Java Create ODS Reports Based on Predesigned Excel Template., Java Generate ODS Reports Based on Predesigned Excel Template., Java Create ODS Reports Based on Excel Template., Java Generate ODS Reports Based on Excel Template., Java Create ODS files Based on Excel Template., Java Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tạo báo cáo hàng loạt ở định dạng ODS via Java" h2="Tạo báo cáo ở định dạng ODS bằng cách sử dụng nguồn dữ liệu và mẫu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -15,7 +16,7 @@ description: Java mã mẫu để tạo các báo cáo định dạng ODS trên 
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API là một nền tảng lắp ráp giàu tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
+ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -49,16 +50,16 @@ description: Java mã mẫu để tạo các báo cáo định dạng ODS trên 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Các bước để tạo báo cáo ODS via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các bước tạo báo cáo ODS Báo cáo via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Khởi tạo lớp WorkbookDesigner
-1. Thêm đối tượng Datasouce trong ArrayList
+1. Thêm đối tượng Datasouce vào ArrayList
 1.  Đặt nguồn dữ liệu và Quy trình cho đối tượng WorkbookDesigner
-1.  Lưu kết quả ở định dạng ODS thông qua phương thức Worbook.save
+1.  Lưu kết quả ở định dạng ODS qua phương thức Worbook.save
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,18 +67,18 @@ description: Java mã mẫu để tạo các báo cáo định dạng ODS trên 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for Java hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Hãy đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
-- Nhận phiên bản mới nhất của Aspose.Cells for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+- Nhận phiên bản mới nhất Aspose.Cells for Java trực tiếp từ Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Tạo Báo cáo Excel ở Định dạng ODS - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Tạo Báo Cáo Excel Định Dạng ODS - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
@@ -107,9 +108,9 @@ System.out.println("File saved");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for Java API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -117,14 +118,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ứng dụng miễn phí để lắp ráp ODS" sectionDescription=" Kiểm tra bản trình diễn trực tiếp của chúng tôi để[tạo tập tin ODS](https://products.aspose.app/cells/assembly/ods) với những lợi ích sau." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App lắp ráp miễn phí ODS" sectionDescription=" Kiểm tra các bản demo trực tiếp của chúng tôi để[tạo tập tin ODS](https://products.aspose.app/cells/assembly/ods) với những lợi ích sau." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết hoặc biên dịch mã" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS và nhấn nút \"Tập hợp\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp kết quả ODS từ liên kết" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS và nhấn nút \"Lắp ráp\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp ODS kết quả từ liên kết" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành các hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở các tệp ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi thành các định dạng bảng tính khác như XLS, XLSX và các tệp khác bằng các ứng dụng khác nhau.
+Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

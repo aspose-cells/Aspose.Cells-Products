@@ -1,23 +1,24 @@
 ---
-title: قم بإنشاء مخططات Excel وتحويلها إلى صور عبر C++
-description: C++ كود المصدر لرسم وتحويل الرسم البياني أو الرسم التخطيطي في Microsoft Excel باستخدام C++ Library
+title: إنشاء مخططات Excel وتحويلها إلى صور عبر C++
+description: C++ الكود المصدري لرسم وتحويل المخطط أو الرسم التخطيطي في Microsoft Excel باستخدام مكتبة C++
+keywords: [C++ Aspose.Cells., C++ Convert chart to image., C++ Save chart to image., C++ chart to image., create charts in C++., insert charts in C++., manage charts in C++]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="قم بإنشاء Microsoft <sup> & reg؛ </sup> مخططات Excel وتحويلها إلى صور عبر C++" h2="قم بتحويل مخططات مستندات Excel إلى صور بالإضافة إلى إنشاء مخططات بما في ذلك المخططات الدائرية والهرمية والخطية والفقاعية ضمن تطبيقات تستند إلى C++." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="إنشاء Microsoft<sup>&reg;</sup> مخططات Excel وتحويلها إلى صور عبر C++" h2="قم بتحويل مخططات مستندات Excel إلى صور بالإضافة إلى إنشاء مخططات بما في ذلك المخططات الدائرية والهرمية والخطية والفقاعية ضمن التطبيقات المستندة إلى C++." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
- باستخدام مخططات Excel ، يمكن للمرء الحصول على صورة أكبر وتحليل البيانات بسهولة لاتخاذ القرارات الصحيحة.[C++ مكتبة Excel](/cells/ar/cpp/) يدعم إنشاء مخططات مختلفة مدرجة بواسطة[enum Aspose :: Cells :: الرسوم البيانية :: ChartType
-](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) بما في ذلك المخططات المساحية والشريطية والدائرية والهرمية والخطية والفقاعية. علاوة على ذلك ، لتحويل المخططات إلى صور ، يوفر API أ[ToImage mehtod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) في تنسيق الصورة المطلوب.
+ باستخدام مخططات Excel، يمكن للمرء الحصول على الصورة الأكبر وتحليل البيانات بسهولة لاتخاذ القرارات الصحيحة.[C++ مكتبة اكسيل](/cells/ar/cpp/) يدعم إنشاء مخططات مختلفة مدرجة حسب[التعداد Aspose::Cells::المخططات::ChartType
+](https://reference.aspose.com/cells/cpp/aspose.cells.charts/charttype/) بما في ذلك المخططات المساحية والشريطية والدائرية والهرمية والخطية والفقاعية. علاوة على ذلك، لتحويل المخططات إلى صور، يوفر API أ[ToImage](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chart/toimage/) طريقة إلى تنسيق الصورة المطلوبة.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="إنشاء مخططات Excel" %}}
 
- عملية إنشاء مخطط Excel هي إنشاء مثيل لـ[فئة IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) وحدد الملف المطلوب[ورقة عمل](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . أضف الرسم البياني باستخدام[طريقة الإضافة](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)مع المعلمات ذات الصلة بما في ذلك نوع الرسم البياني. الوصول إلى الرسم البياني عبر الفهرس و[يضيف](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) مصدر البيانات للرسم البياني.
+ عملية إنشاء مخطط Excel هي إنشاء مثيل لـ[فئة المصنف](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) واختر المطلوب[ورقة عمل](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/) . أضف الرسم البياني باستخدام[أضف طريقة](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chartcollection/add/)مع المعلمات ذات الصلة بما في ذلك نوع المخطط. الوصول إلى الرسم البياني عبر الفهرس و[يضيف](https://reference.aspose.com/cells/cpp/aspose.cells.charts/seriescollection/add/) مصدر البيانات للمخطط.
 
-{{% blocks/products/pf/feature-page-code h3="C++ كود لتكوين مخططات Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ كود لإنشاء مخططات Excel" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-chart.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -25,12 +26,12 @@ description: C++ كود المصدر لرسم وتحويل الرسم البيا
 {{% blocks/products/pf/feature-page-section h2="تحويل المخططات إلى صور" %}}
 
 
-لتحويل عملية الرسوم البيانية ، قم أولاً بإنشاء مخطط من النوع ذي الصلة باستخدام الكود أعلاه أو الوصول إليه من الورقة ذات الصلة. حدد مسار حفظ الإخراج للصورة واستخدم طريقة ToImage للتحويل.
+لتحويل الرسوم البيانية، قم أولاً بإنشاء مخطط من النوع ذي الصلة باستخدام الكود أعلاه أو الوصول إليه من الورقة ذات الصلة. حدد مسار حفظ الإخراج للصورة واستخدم طريقة ToImage للتحويل.
 
  
-{{% blocks/products/pf/feature-page-code h3="C++ كود لتحويل مخططات Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ كود لتحويل مخططات الاكسل" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "convert-excel-chart-to-image.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "convert-excel-chart-to-image.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

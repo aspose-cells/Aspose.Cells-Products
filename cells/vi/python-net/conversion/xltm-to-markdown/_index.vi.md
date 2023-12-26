@@ -1,7 +1,7 @@
 ---
-title: Python XLTM thành MARKDOWN - Bộ chuyển đổi XLTM thành MARKDOWN trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi XLTM thành MARKDOWN định dạng lưu. Python XLTM đến MARKDOWN định dạng. Lưu XLTM thành MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to MARKDOWN saveformat., Free Online XLTM to MARKDOWN Python., Python Convert XLTM to MARKDOWN]
+title: Python XLTM sang MARKDOWN - XLTM sang MARKDOWN Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi XLTM sang MARKDOWN nhanh chóng và dễ dàng với Aspose.Cells. Python XLTM sang MARKDOWN. Python Lưu XLTM thành MARKDOWN. Lưu XLTM thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to MARKDOWN in Python., Save XLTM to MARKDOWN using Python., Python XLTM to MARKDOWN saveformat., XLTM to MARKDOWN Converter., Python Save XLTM as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLTM thành MARKDOWN thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi XLTM thành MARKDOWN. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLTM thành MARKDOWN thành Python" %}}
 
- Làm cách nào để chuyển đổi XLTM thành MARKDOWN? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi XLTM thành MARKDOWN bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi XLTM thành MARKDOWN? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi XLTM thành MARKDOWN theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu XLTM thành MARKDOWN trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XLTM vào MARKDOWN trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XLTM thành MARKDOWN thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi XLTM thành MARKDOWN trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XLTM thành MARKDOWN. Tải tệp XLTM của bạn lên, sau đó chỉ cần lưu tệp thành MARKDOWN. Đối với cả XLTM đọc và MARKDOWN viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng MARKDOWN đầu ra sẽ giống với tài liệu gốc XLTM.
+Hãy làm theo các bước đơn giản để chuyển đổi XLTM thành MARKDOWN. Tải lên tệp XLTM của bạn, sau đó chỉ cần lưu nó dưới dạng tệp MARKDOWN. Đối với cả việc đọc XLTM và ghi MARKDOWN, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng MARKDOWN đầu ra sẽ giống hệt với tài liệu XLTM gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLTM thành MARKDOWN trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XLTM thành MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLTM thành MARKDOWN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XLTM thành MARKDOWN theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi XLTM thành MARKDOWN chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin XLTM thành MARKDOWN theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi XLTM thành MARKDOWN chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp XLTM với phiên bản Sổ làm việc.
+1.  Tải tệp XLTM bằng một phiên bản của Workbook.
 1.  Chuyển đổi XLTM thành MARKDOWN bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ XLTM thành MARKDOWN.
+1.  Nhận kết quả chuyển đổi từ XLTM thành MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi XLTM thành MARKDOWN" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi XLTM thành MARKDOWN" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Phần mở rộng tệp XLTM đại diện cho các tệp được tạo bởi Microsoft Excel dưới dạng tệp mẫu hỗ trợ Macro. Các tệp XLTM tương tự như XLTX về cấu trúc chỉ khác là phần sau không hỗ trợ tạo tệp mẫu bằng macro. Các tệp mẫu như vậy được sử dụng để tạo và đặt bố cục, định dạng và các cài đặt khác cùng với macro để tạo điều kiện thuận lợi cho việc tạo các tệp XLSX tương tự sau đó.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Các tệp văn bản được tạo bằng phương ngữ ngôn ngữ Markdown được lưu với phần mở rộng tệp .md hoặc .MARKDOWN. Các tệp MD được lưu ở định dạng văn bản thuần sử dụng ngôn ngữ Markdown cũng bao gồm các ký hiệu văn bản nội tuyến, xác định cách định dạng văn bản, chẳng hạn như thụt lề, định dạng bảng, phông chữ và tiêu đề. Các tệp MD có thể được chuyển đổi thành HTML bằng chương trình có tên Markdown. Ngôn ngữ Markdown được phát hành bởi John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Phần mở rộng tệp XLTM đại diện cho các tệp được tạo bởi Microsoft Excel dưới dạng tệp mẫu hỗ trợ Macro. Các tệp XLTM tương tự như XLTX về cấu trúc, ngoại trừ việc sau này không hỗ trợ tạo tệp mẫu bằng macro. Các tệp mẫu như vậy được sử dụng để tạo và thiết lập bố cục, định dạng và các cài đặt khác cùng với các macro để tạo điều kiện thuận lợi cho việc tạo các tệp XLSX tương tự sau đó.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Các tệp văn bản được tạo bằng phương ngữ ngôn ngữ Markdown được lưu với phần mở rộng tệp .md hoặc .MARKDOWN. Các tệp MD được lưu ở định dạng văn bản thuần túy sử dụng ngôn ngữ Markdown cũng bao gồm các ký hiệu văn bản nội tuyến, xác định cách định dạng văn bản như thụt lề, định dạng bảng, phông chữ và tiêu đề. Các tệp MD có thể được chuyển đổi thành HTML bằng chương trình có tên Markdown. Ngôn ngữ Markdown được phát hành bởi John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,14 +83,14 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-emf/" name="XLTM ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-gif/" name="XLTM ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-html/" name="XLTM ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-md/" name="XLTM ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-md/" name="XLTM ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-mhtml/" name="XLTM ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-ods/" name="XLTM ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-pdf/" name="XLTM ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-png/" name="XLTM ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-svg/" name="XLTM ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tiff/" name="XLTM ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tsv/" name="XLTM ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tsv/" name="XLTM ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-txt/" name="XLTM ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xls/" name="XLTM ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsb/" name="XLTM ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
@@ -98,9 +98,9 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsx/" name="XLTM ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlt/" name="XLTM ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="XLTM ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-json/" name="XLTM ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

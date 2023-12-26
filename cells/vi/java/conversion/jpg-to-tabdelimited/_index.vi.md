@@ -1,7 +1,7 @@
 ---
-title: Java JPG sang TABDELIMITED - Chuyển đổi JPG sang TABDELIMITED trực tuyến
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Trực tuyến miễn phí Java Chuyển đổi JPG sang định dạng lưu TABDELIMITED. Java JPG sang định dạng TABDELIMITED. Lưu JPG vào TABDELIMITED Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TABDELIMITED saveformat., Free Online JPG to TABDELIMITED Java., Java Convert JPG to TABDELIMITED]
+title: Java JPG sang TABDELIMITED - Chuyển đổi JPG sang TABDELIMITED
+description: Aspose Excel. Java Aspose.Cells. JPG sang TABDELIMITED trong Java. Java Chuyển JPG sang định dạng lưu TABDELIMITED. Java JPG sang định dạng TABDELIMITED. Lưu JPG vào TABDELIMITED Java.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to TABDELIMITED in Java., Java JPG to TABDELIMITED saveformat., JPG to TABDELIMITED Java., Java Convert JPG to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi JPG sang TABDELIMITED trong Java" h2="Thư viện Java tốc độ cao để chuyển đổi JPG sang TABDELIMITED. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất JPG, TABDELIMITED và nhiều định dạng khác bằng Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TA
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi JPG sang TABDELIMITED bằng Java" %}}
 
- Làm cách nào để chuyển đổi JPG sang TABDELIMITED? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng chuyển đổi JPG sang TABDELIMITED theo chương trình với một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
+ Làm cách nào để chuyển đổi JPG sang TABDELIMITED? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng chuyển đổi JPG sang TABDELIMITED theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu JPG vào TABDELIMITED trong Java Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu JPG vào TABDELIMITED trong Java" %}}
 
-Ví dụ sau minh họa cách chuyển đổi JPG sang TABDELIMITED trong Java.
+Ví dụ sau đây minh họa cách chuyển đổi JPG sang TABDELIMITED trong Java.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi JPG sang TABDELIMITED. Tải lên tệp JPG của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp TABDELIMITED. Đối với cả đọc JPG và viết TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống với tài liệu JPG gốc.
+Hãy làm theo các bước đơn giản để chuyển đổi JPG sang TABDELIMITED. Tải tệp JPG của bạn lên, sau đó chỉ cần lưu tệp đó dưới dạng tệp TABDELIMITED. Đối với cả việc đọc JPG và ghi TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống hệt với tài liệu JPG gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi JPG sang TABDELIMITED trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi JPG sang TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPG sang TABDELIMITED via Java" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển JPG sang TABDELIMITED via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tệp JPG sang TABDELIMITED theo chương trình? Java nhà phát triển có thể dễ dàng chuyển đổi JPG sang TABDELIMITED chỉ bằng một vài dòng mã.
+Cần chuyển đổi tệp JPG sang TABDELIMITED theo chương trình? Java nhà phát triển có thể dễ dàng chuyển đổi JPG sang TABDELIMITED chỉ bằng vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Java của bạn.
-1.  Tải tệp JPG bằng một thể hiện của lớp Workbook.
+1.  Tải tệp JPG với một phiên bản của lớp Workbook.
 1.  Chuyển đổi JPG sang TABDELIMITED bằng cách gọi phương thức Workbook.save.
-1.  Nhận kết quả chuyển đổi từ JPG sang TABDELIMITED.
+1.  Nhận kết quả chuyển đổi JPG sang TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java thư viện để chuyển JPG sang TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Java chuyển JPG sang TABDELIMITED" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Chúng tôi lưu trữ các gói Java tại[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) kho lưu trữ. 'Aspose.Cells for Java' là một tệp JAR phổ biến có chứa mã byte. Vui lòng theo dõi[hướng dẫn từng bước một](https://docs.aspose.com/cells/java/installation/) về cách cài đặt nó vào môi trường dành cho nhà phát triển Java của bạn.
+ Chúng tôi lưu trữ các gói Java của chúng tôi tại[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) kho lưu trữ. 'Aspose.Cells for Java' là tệp JAR phổ biến chứa mã byte. Hãy làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/java/installation/) về cách cài đặt nó vào môi trường nhà phát triển Java của bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,14 +90,14 @@ Cần chuyển đổi tệp JPG sang TABDELIMITED theo chương trình? Java nh�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
-- Nhận phiên bản mới nhất của Aspose.Cells for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+- Nhận phiên bản mới nhất Aspose.Cells for Java trực tiếp từ Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự đánh đổi giữa kích thước bộ nhớ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm kích thước bộ nhớ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu nén 10:1 được áp dụng cho hình ảnh. Giá trị nén càng cao, chất lượng hình ảnh càng giảm.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng không đáng kể nếu áp dụng nén 10:1 cho hình ảnh. Giá trị nén càng cao thì chất lượng hình ảnh càng giảm.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Định dạng tệp Giá trị được phân tách bằng tab (TSV) biểu thị dữ liệu được phân tách bằng các tab ở định dạng văn bản thuần túy. Định dạng tệp, tương tự như CSV, được sử dụng để tổ chức dữ liệu theo cách có cấu trúc nhằm nhập và xuất giữa các ứng dụng khác nhau. Định dạng này chủ yếu được sử dụng để nhập/xuất và trao đổi dữ liệu trong các ứng dụng và cơ sở dữ liệu Bảng tính. Mỗi bản ghi trong tệp TSV được chứa trong một dòng tệp văn bản trong đó mỗi giá trị trường được phân tách bằng ký tự tab. Loại phương tiện cho định dạng tệp TSV là văn bản/giá trị được phân tách bằng tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -108,24 +108,24 @@ Cần chuyển đổi tệp JPG sang TABDELIMITED theo chương trình? Java nh�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-gif/" name="JPG ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-html/" name="JPG ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG ĐẾN MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG SANG MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-mhtml/" name="JPG ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-ods/" name="JPG ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-pdf/" name="JPG ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-png/" name="JPG ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-svg/" name="JPG ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tiff/" name="JPG ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tsv/" name="JPG ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tsv/" name="JPG ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-txt/" name="JPG ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xls/" name="JPG ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsb/" name="JPG ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsm/" name="JPG ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsx/" name="JPG ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlt/" name="JPG ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xml/" name="JPG SANG XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-json/" name="JPG ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-jpeg/" name="JPG ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

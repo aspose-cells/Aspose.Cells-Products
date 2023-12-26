@@ -1,17 +1,18 @@
 ---
-title:  Microsoft تحويل ملف Excel عبر C#
-description: قم بتحويل Excel XLS و XLSX و ODS و CSV إلى PDF و XPS و HTML و JPEG و HTML والعديد من التنسيقات الشائعة الأخرى مع سطور قليلة فقط من كود C#.
+title:  Microsoft تحويل ملفات Excel عبر C#
+description: Aspose.Cells for .NET مكتبة. تحويل EXCEL، JSON، PDF، XML، HTML، TXT، TSV، CSV، SQL، JPG، PNG والمزيد من التنسيقات مع بضعة أسطر فقط من الكود C#.
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> تحويل تنسيق Excel via .NET" h2="استيراد وتصدير ملفات Excel كجداول بيانات وويب وصورة وتنسيقات ذات تخطيط ثابت" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> تحويل تنسيق Excel via .NET" h2="استيراد وتصدير ملفات Excel بتنسيقات جداول البيانات والويب والصور والتخطيطات الثابتة" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-تعمل مكتبة Excel .NET على تسريع برمجة جداول البيانات وعمليات التحويل مع دعم التنسيقات الشائعة بما في ذلك XLS و XLSX و XLSM و XLSB و XLTX و XLTM و CSV و SpreadsheetML و ODS. عين تنسيقات النصوص والصور الشائعة مثل TIFF و JPG و PNG و BMP و SVG.
+تعمل مكتبة Excel .NET على تسريع عمليات برمجة جداول البيانات والتحويل مع دعم التنسيقات الشائعة بما في ذلك XLS، XLSX، XLSM، XLSB، XLTX، XLTM، CSV، SpreadsheetML، 07619348 1. كما يسمح بتصدير ملفات Excel إلى PDF، XPS، HTML، MHTML، عادي تنسيقات النصوص والصور الشائعة مثل TIFF وJPG وPNG وBMP وSVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى XLSX و ODS و SXC و FODS" %}}
- لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل[دفتر العمل](https://reference.aspose.com/cells/net/aspose.cells/workbook) وإعادة الحفظ بالتنسيق المطلوب مع تحديد القيمة المناسبة من[SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) تعداد.
-{{% blocks/products/pf/feature-page-code h3="C# كود لتحويل تنسيق ملف Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى XLSX وODS وSXC وFODS" %}}
+ يتطلب التحويل البيني لتنسيق جدول البيانات فقط تحميل جدول بيانات بمثيل[دفتر العمل](https://reference.aspose.com/cells/net/aspose.cells/workbook) والحفظ مرة أخرى بالتنسيق المطلوب أثناء تحديد القيمة المناسبة من[حفظ التنسيق](https://reference.aspose.com/cells/net/aspose.cells/saveformat) تعداد.
+{{% blocks/products/pf/feature-page-code h3="C# كود تحويل تنسيق ملف اكسيل" %}}
 
 ```cs
 // load the template file
@@ -27,8 +28,8 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى PDF ، XPS ، HTML & MD" %}}
- تتوفر الفصول المتخصصة للتحكم في عملية التحويل لتنسيقات الإخراج المحددة مثل[خيارات PdfSave](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) لتصدير ملفات Excel كـ PDF ،[XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) لبرنامج Excel لتحويل XPS ،[خيارات HtmlSave](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) لتقديم Excel كـ HTML و[Markdown حفظ الخيارات](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) لتحويل Excel إلى Markdown.
+{{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى PDF و XPS و HTML و MD" %}}
+ تتوفر فئات متخصصة للتحكم في عملية التحويل لتنسيقات إخراج محددة مثل[خيارات حفظ PDF](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) لتصدير ملفات Excel كـ PDF،[خيارات XpsSave](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) لتحويل Excel إلى XPS ،[هتملسافيوبتيونس](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) لتقديم Excel كـ HTML و[خيارات تخفيض السعر](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) لتحويل Excel إلى Markdown.
 {{% blocks/products/pf/feature-page-code h3="C# كود لبرنامج Excel إلى PDF وتنسيقات الويب" %}}
 
 ```cs
@@ -48,9 +49,9 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="قم بتحويل JSON إلى Excel & Excel إلى JSON" %}}
- يمكن استقبال بيانات JSON في نسخة[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) الطبقة بمساعدة[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)لمزيد من المعالجة أو التحويل البسيط إلى أي من التنسيقات المدعومة. بصورة مماثلة،[ورقة عمل](https://reference.aspose.com/cells/net/aspose.cells/worksheet) يمكن تصدير البيانات كـ JSON عن طريق إنشاء ملف[يتراوح](https://reference.aspose.com/cells/net/aspose.cells/range) أو الخلايا واستدعاء[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) طريقة.
-{{% blocks/products/pf/feature-page-code h3="C# كود لتحويل JSON إلى Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="تحويل JSON إلى Excel و Excel إلى JSON" %}}
+ يمكن استيراد بيانات JSON إلى مثيل[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) الطبقة بمساعدة[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) لمزيد من المعالجة أو التحويل البسيط إلى أي من التنسيقات المدعومة. بصورة مماثلة،[ورقة عمل](https://reference.aspose.com/cells/net/aspose.cells/worksheet) يمكن تصدير البيانات كـ JSON عن طريق إنشاء ملف[يتراوح](https://reference.aspose.com/cells/net/aspose.cells/range) أو الخلايا واستدعاء[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) طريقة.
+{{% blocks/products/pf/feature-page-code h3="C# كود تحويل JSON إلى إكسل" %}}
 ```cs
 // create a Workbook object
 var workbook = new Cells.Workbook();
@@ -67,7 +68,7 @@ workbook.Save("output.xlsx", Cells.SaveFormat.Auto);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# كود للتحويل من Excel إلى JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="C# كود التحويل من Excel إلى JSON" %}}
 ```cs
 // load XLSX file with an instance of Workbook
 var workbook = new Workbook("template.xlsx", new LoadOptions(Cells.LoadFormat.Auto));
@@ -87,9 +88,9 @@ System.IO.File.WriteAllText("output.json", jsonData);
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="تحويل أوراق عمل Excel إلى JPG و BMP و PNG و GIF" %}}
- يمكن تحويل كل ورقة عمل من ملف Excel إلى تنسيقات صور مختلفة تم تعيينها بواسطة[ImageOrPrintOptions.MageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) ملكية. القيمة الافتراضية هي `ImageFormat.Bmp`.
-{{% blocks/products/pf/feature-page-code h3="C# كود لتحويل Excel إلى صورة" %}}
+{{% blocks/products/pf/feature-page-section h2="تحويل أوراق عمل Excel إلى JPG، BMP، PNG وGIF" %}}
+ يمكن تحويل كل ورقة عمل من ملف Excel إلى تنسيقات صور مختلفة يحددها ملف Excel[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) ملكية. القيمة الافتراضية هي `ImageFormat.Bmp`.
+{{% blocks/products/pf/feature-page-code h3="C# كود تحويل Excel إلى صورة" %}}
 ```cs
 // load template spreadsheet
 var workbook = new Aspose.Cells.Workbook("template.xlsx");
@@ -109,8 +110,8 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى Word & PowerPoint" %}}
- من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)الفئات كما هو موضح أدناه.
-{{% blocks/products/pf/feature-page-code h3="C# كود لبرنامج Excel إلى Word و PowerPoint للتحويل" %}}
+من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [خيارات PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) الطبقات كما هو موضح أدناه.
+{{% blocks/products/pf/feature-page-code h3="كود C# للتحويل من Excel إلى Word والتحويل PowerPoint" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

@@ -1,7 +1,7 @@
 ---
-title: C++ FODS thành GIF - Bộ chuyển đổi FODS thành GIF trực tuyến
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Trực tuyến miễn phí C++ Chuyển đổi FODS thành GIF định dạng lưu. C++ FODS đến GIF định dạng. Lưu FODS thành GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to GIF saveformat., Free Online FODS to GIF C++., C++ Convert FODS to GIF]
+title: C++ FODS sang GIF - FODS sang GIF Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi FODS sang GIF nhanh chóng và dễ dàng với Aspose.Cells. C++ FODS sang GIF. C++ Lưu FODS thành GIF. Lưu FODS thành 07611134 81 sử dụng C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to GIF in C++., Save FODS to GIF using C++., C++ FODS to GIF saveformat., FODS to GIF Converter., C++ Save FODS as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi FODS thành GIF thành C++" h2="Chuyển đổi FODS sang GIF hiệu suất cao bằng thư viện C++ mà không cần cài đặt Microsoft Excel, OpenOffice hoặc Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to GIF 
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi FODS thành GIF Sử dụng C++" %}}
 
-Làm cách nào để chuyển đổi FODS thành GIF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi FODS thành GIF bằng lập trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) trình quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Làm cách nào để chuyển đổi FODS thành GIF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi FODS thành GIF theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,36 +26,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu FODS thành GIF trong C++ Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu FODS vào GIF trong C++" %}}
 
-Ví dụ sau minh họa cách chuyển đổi FODS thành GIF trong C++.
+Ví dụ sau đây minh họa cách chuyển đổi FODS thành GIF trong C++.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi FODS thành GIF. Tải tệp FODS của bạn lên, sau đó chỉ cần lưu tệp thành GIF. Đối với cả FODS đọc và GIF viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng GIF đầu ra sẽ giống với tài liệu gốc FODS.
+Hãy làm theo các bước đơn giản để chuyển đổi FODS thành GIF. Tải lên tệp FODS của bạn, sau đó chỉ cần lưu nó dưới dạng tệp GIF. Đối với cả việc đọc FODS và ghi GIF, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng GIF đầu ra sẽ giống hệt với tài liệu FODS gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi FODS thành GIF trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi FODS thành GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi FODS thành GIF qua C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp FODS thành GIF theo chương trình? C++ nhà phát triển có thể dễ dàng chuyển đổi FODS thành GIF chỉ bằng một vài dòng mã.
+Cần chuyển đổi tập tin FODS thành GIF theo chương trình? Các nhà phát triển C++ có thể dễ dàng chuyển đổi FODS thành GIF chỉ bằng vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for C++'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án C++ của bạn.
-1.  Tải tệp FODS bằng Factory::CreatIWorkbook.
+1.  Tải tệp FODS bằng Workbook.
 1.  Chuyển đổi FODS thành GIF bằng cách gọi phương thức Save().
-1.  Lấy kết quả chuyển đổi từ FODS thành GIF.
+1.  Nhận kết quả chuyển đổi từ FODS thành GIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ thư viện để chuyển đổi FODS thành GIF" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện C++ chuyển đổi FODS thành GIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Cài đặt một[Gói NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Cài đặt thư viện bằng Thư mục Bao gồm và lib. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Cài đặt Aspose.Cells for C++ trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -77,15 +77,15 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
-- Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+- Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở các tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác bằng Microsoft. Các tệp FODS có thể được lưu dưới dạng ODS bằng LibreOffice và có thể được chuyển đổi sang các định dạng khác, chẳng hạn như XLS và XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh được nén cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh GIF thường cho phép tối đa 8 bit trên mỗi pixel và tối đa 256 màu được phép trên hình ảnh. Trái ngược với hình ảnh JPEG, có thể hiển thị tới 16 triệu màu và khá chạm đến giới hạn của mắt người. Quay lại thời điểm internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa sử dụng các vùng màu đồng nhất. GIF hoạt hình kết hợp nhiều hình ảnh hoặc khung thành một tệp duy nhất và hiển thị chúng theo trình tự để tạo clip hoạt hình hoặc video ngắn. Các giới hạn màu lên tới 256 cho mỗi khung hình và có thể là mức ít phù hợp nhất để tái tạo các hình ảnh và ảnh khác có độ dốc màu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác bằng Microsoft. Tệp FODS có thể được lưu dưới dạng ODS bằng LibreOffice và có thể chuyển đổi sang các định dạng khác như XLS và XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh được nén ở mức độ cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh, GIF thường cho phép tối đa 8 bit trên mỗi pixel và cho phép tối đa 256 màu trên hình ảnh. Ngược lại với hình ảnh JPEG có thể hiển thị tới 16 triệu màu và chạm khá tới giới hạn của mắt người. Quay lại thời điểm Internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa sử dụng các vùng màu đồng nhất. Một ảnh động GIF kết hợp nhiều hình ảnh hoặc khung hình vào một tệp duy nhất và hiển thị chúng theo trình tự để tạo ra một clip hoạt hình hoặc một video ngắn. Giới hạn màu sắc lên tới 256 cho mỗi khung hình và có thể ít phù hợp nhất để tái tạo các hình ảnh và ảnh chụp khác có dải màu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -95,24 +95,23 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-emf/" name="FODS ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-gif/" name="FODS ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-html/" name="FODS ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-md/" name="FODS ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-md/" name="FODS ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-mhtml/" name="FODS ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-ods/" name="FODS ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-pdf/" name="FODS ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-png/" name="FODS ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-svg/" name="FODS ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tiff/" name="FODS ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tsv/" name="FODS ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tsv/" name="FODS ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-txt/" name="FODS ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xls/" name="FODS ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xlsb/" name="FODS ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xlsm/" name="FODS ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xlsx/" name="FODS ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xlt/" name="FODS ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xltm/" name="FODS ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xltx/" name="FODS ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xltm/" name="FODS ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xltx/" name="FODS ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xml/" name="FODS ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xps/" name="FODS ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xps/" name="FODS ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-json/" name="FODS ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-jpeg/" name="FODS ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

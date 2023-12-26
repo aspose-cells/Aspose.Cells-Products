@@ -1,7 +1,7 @@
 ---
-title: Python XLT thành TXT - Bộ chuyển đổi XLT thành TXT trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi XLT thành TXT định dạng lưu. Python XLT đến TXT định dạng. Lưu XLT thành TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to TXT saveformat., Free Online XLT to TXT Python., Python Convert XLT to TXT]
+title: Python XLT sang TXT - XLT sang TXT Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi XLT sang TXT nhanh chóng và dễ dàng với Aspose.Cells. Python XLT sang TXT. Python Lưu XLT thành TXT. Lưu XLT thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to TXT in Python., Save XLT to TXT using Python., Python XLT to TXT saveformat., XLT to TXT Converter., Python Save XLT as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLT thành TXT thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi XLT thành TXT. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLT thành TXT thành Python" %}}
 
- Làm cách nào để chuyển đổi XLT thành TXT? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi XLT thành TXT bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi XLT thành TXT? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi XLT thành TXT theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu XLT thành TXT trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XLT vào TXT trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XLT thành TXT thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi XLT thành TXT trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XLT thành TXT. Tải tệp XLT của bạn lên, sau đó chỉ cần lưu tệp thành TXT. Đối với cả XLT đọc và TXT viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TXT đầu ra sẽ giống với tài liệu gốc XLT.
+Hãy làm theo các bước đơn giản để chuyển đổi XLT thành TXT. Tải lên tệp XLT của bạn, sau đó chỉ cần lưu nó dưới dạng tệp TXT. Đối với cả việc đọc XLT và ghi TXT, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TXT đầu ra sẽ giống hệt với tài liệu XLT gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLT thành TXT trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XLT thành TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLT thành TXT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XLT thành TXT theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi XLT thành TXT chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin XLT thành TXT theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi XLT thành TXT chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp XLT với phiên bản Sổ làm việc.
+1.  Tải tệp XLT bằng một phiên bản của Workbook.
 1.  Chuyển đổi XLT thành TXT bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ XLT thành TXT.
+1.  Nhận kết quả chuyển đổi từ XLT thành TXT.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi XLT thành TXT" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi XLT thành TXT" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Các tệp có phần mở rộng .xlt là các tệp mẫu được tạo bằng Microsoft Excel, một ứng dụng bảng tính đi kèm như một phần của bộ Microsoft Office. Microsoft Office 97-2003 hỗ trợ tạo các tệp XLT mới cũng như mở các tệp này. Phiên bản Excel mới nhất vẫn có khả năng mở các tệp mẫu định dạng cũ này. Tệp mẫu như vậy được sử dụng để tạo nhanh các tệp Excel mới với dữ liệu và cài đặt mặc định như định dạng trang, cỡ chữ, lề, biểu đồ, v.v. Các tệp này có thể được lưu thêm dưới dạng tệp .xls mới.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Một tệp có phần mở rộng .TXT đại diện cho một tài liệu văn bản chứa văn bản thuần túy ở dạng dòng. Các đoạn văn trong tài liệu văn bản được nhận dạng bằng dấu xuống dòng và được sử dụng để sắp xếp nội dung tệp tốt hơn. Một tài liệu văn bản tiêu chuẩn có thể được mở trong bất kỳ trình soạn thảo văn bản hoặc ứng dụng xử lý văn bản nào trên các hệ điều hành khác nhau. Tất cả văn bản chứa trong một tệp như vậy ở định dạng con người có thể đọc được và được biểu thị bằng chuỗi ký tự.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Các tệp có phần mở rộng .xlt là các tệp mẫu được tạo bằng Microsoft Excel, một ứng dụng bảng tính nằm trong bộ Office Microsoft. Microsoft Office 97-2003 hỗ trợ tạo tệp XLT mới cũng như mở các tệp này. Phiên bản Excel mới nhất vẫn có khả năng mở được file mẫu định dạng cũ này. Tệp mẫu như vậy được sử dụng để nhanh chóng tạo các tệp Excel mới với dữ liệu và cài đặt mặc định như định dạng trang, kích thước phông chữ, lề, biểu đồ, v.v., có thể được lưu thêm dưới dạng tệp .xls mới.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Tệp có phần mở rộng .TXT đại diện cho một tài liệu văn bản chứa văn bản thuần túy ở dạng dòng. Các đoạn trong tài liệu văn bản được nhận dạng bằng dấu xuống dòng và được sử dụng để sắp xếp nội dung tệp tốt hơn. Một tài liệu văn bản tiêu chuẩn có thể được mở trong bất kỳ trình soạn thảo văn bản hoặc ứng dụng xử lý văn bản nào trên các hệ điều hành khác nhau. Tất cả văn bản chứa trong tệp như vậy đều ở định dạng mà con người có thể đọc được và được biểu thị bằng chuỗi ký tự.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,24 +83,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-emf/" name="XLT ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-gif/" name="XLT ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-html/" name="XLT ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-md/" name="XLT ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-md/" name="XLT ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-mhtml/" name="XLT ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-ods/" name="XLT ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-pdf/" name="XLT ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-png/" name="XLT ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-svg/" name="XLT ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tiff/" name="XLT ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-txt/" name="XLT ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xls/" name="XLT ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsb/" name="XLT ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="XLT ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

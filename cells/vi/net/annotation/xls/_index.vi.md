@@ -1,7 +1,8 @@
 ---
-title:  Xóa XLS Ghi chú via .NET
+title:  Thêm hoặc xóa XLS Chú thích via .NET
 weight: 9270
-description: C# để thêm và xóa các chú thích định dạng XLS trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+description: Mã nguồn C# để thêm và xóa chú thích định dạng XLS trên .NET Framework, .NET Core, Mono hoặc Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Thêm hoặc xóa chú thích từ XLS qua C#" h2="Xây dựng ứng dụng .NET của riêng bạn để thao tác nhận xét và tác giả trong tệp tài liệu bằng API phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: C# để thêm và xóa các chú thích định dạng XLS trên .
 
  Để chú thích tệp XLS, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở
+ API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  **Aspose.Cells** 
@@ -43,10 +44,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load file XLS bằng cách tạo instance của Workbook
-+ Thêm Comment vào Worksheet trong a Cell
-+ Gọi RemoveAt với Id Cell để gỡ bỏ nó
-+ Lưu workbook trước & sau khi gọi phương thức RemoveAt để so sánh
++ Load file XLS bằng cách tạo một instance của Workbook
++ Thêm Comment vào Worksheet theo số Cell
++ Gọi RemoveAt với Id Cell để xóa
++ Lưu bảng tính trước & sau khi gọi phương thức RemoveAt để so sánh
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,17 +55,17 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần chắc chắn rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+- Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 -  Môi trường phát triển như Microsoft Visual Studio.
--  Thêm tham chiếu đến Aspose.Cells for .NET DLL trong dự án của bạn.
+-  Thêm tham chiếu đến DLL Aspose.Cells for .NET trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Xóa Chú thích từ XLS - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Xóa chú thích từ XLS - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "delete-annotations-from-xls.cs" >}}
 
@@ -77,9 +78,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích khỏi XLS qua Ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu XLS ngay bây giờ bằng cách truy cập[Trang web Demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích từ XLS qua ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu XLS ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLS của bạn và nhấn nút \"Xóa\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay link tải file kết quả" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS đại diện cho Định dạng tệp nhị phân Excel. Các tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang một số định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng mở và có cấu trúc hơn, XLSX, với việc phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ để tạo và đọc các tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

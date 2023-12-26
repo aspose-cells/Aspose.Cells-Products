@@ -1,7 +1,8 @@
 ---
-title:  Mở khóa tài liệu XLS via Java
+title:  Mở khóa XLS tài liệu via Java
 weight: 6390
-description: Java mã mẫu để mở khóa tệp XLS được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
+description: Mã mẫu Java để mở khóa tệp XLS được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+keywords: [Java Aspose.Cells., Java unlock XLS files., Java how to unlock XLS document., Java unprotect XLS files., remove protection from XLS files., decrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mở khóa XLS Tệp via Java" h2="Xóa bảo vệ khỏi bảng tính Excel bao gồm tệp XLS bằng Thư viện Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -13,9 +14,9 @@ description: Java mã mẫu để mở khóa tệp XLS được bảo vệ bằn
 
  Để mở khóa tệp XLS, chúng tôi sẽ sử dụng
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API là một nền tảng bảo vệ API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
+ API là nền tảng bảo vệ giàu tính năng, mạnh mẽ và dễ sử dụng. API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
+ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -49,16 +50,16 @@ description: Java mã mẫu để mở khóa tệp XLS được bảo vệ bằn
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Các bước unlock XLS via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các bước mở khóa XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Khởi tạo lớp Workbook với đường dẫn đến tệp XLS được bảo vệ
-1.  Lấy giá trị mặc định hoặc bất kỳ Bảng tính nào để xóa bảo vệ
-1.  Loại bỏ bảo vệ Worksheet bằng phương thức Worksheet.Unprotect
-1.  Xóa bảo vệ Workbook bằng phương thức Workbook.Unprotect
+1.  Nhận mặc định hoặc bất kỳ Bảng tính nào để loại bỏ bảo vệ
+1.  Loại bỏ bảo vệ bảng tính bằng phương thức Worksheet.Unprotect
+1.  Loại bỏ bảo vệ Workbook bằng phương thức Workbook.Unprotect
 1.  Lưu kết quả ở định dạng XLS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,13 +68,13 @@ description: Java mã mẫu để mở khóa tệp XLS được bảo vệ bằn
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for Java hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Hãy đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Mở khóa các tệp XLS qua C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Mở khóa XLS Tệp via Java" offSpacer="" %}}
 
 ```cs
 
@@ -99,9 +100,9 @@ wkb.save("Worksheet_out.xls", FileFormatType.EXCEL_97_TO_2003);
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for Java API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -109,14 +110,14 @@ wkb.save("Worksheet_out.xls", FileFormatType.EXCEL_97_TO_2003);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ứng dụng miễn phí để mở khóa XLS" sectionDescription=" Kiểm tra bản trình diễn trực tiếp của chúng tôi để[mở khóa các tệp XLS](https://products.aspose.app/cells/unlock/xls) với những lợi ích sau." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App mở khóa miễn phí XLS" sectionDescription=" Kiểm tra các bản demo trực tiếp của chúng tôi để[mở khóa XLS tập tin](https://products.aspose.app/cells/unlock/xls) với những lợi ích sau." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết hoặc biên dịch mã" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLS và nhấn nút \"Mở khóa\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp kết quả XLS từ liên kết" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp XLS kết quả từ liên kết" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS đại diện cho Định dạng tệp nhị phân Excel. Các tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang một số định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng mở và có cấu trúc hơn, XLSX, với việc phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ để tạo và đọc các tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -124,7 +125,7 @@ Các tệp có phần mở rộng XLS đại diện cho Định dạng tệp nh�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Các định dạng mở khóa được hỗ trợ khác" subTitle="Sử dụng Java, người ta có thể dễ dàng loại bỏ bảo vệ / mở khóa các định dạng khác nhau, bao gồm cả." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các định dạng mở khóa được hỗ trợ khác" subTitle="Sử dụng Java, người ta có thể dễ dàng loại bỏ bảo vệ / mở khóa các định dạng khác nhau bao gồm." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}

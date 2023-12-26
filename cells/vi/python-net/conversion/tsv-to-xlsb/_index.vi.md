@@ -1,7 +1,7 @@
 ---
-title: Python TSV thành XLSB - Bộ chuyển đổi TSV thành XLSB trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi TSV thành XLSB định dạng lưu. Python TSV đến XLSB định dạng. Lưu TSV thành XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to XLSB saveformat., Free Online TSV to XLSB Python., Python Convert TSV to XLSB]
+title: Python TSV sang XLSB - TSV sang XLSB Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi TSV sang XLSB nhanh chóng và dễ dàng với Aspose.Cells. Python TSV sang XLSB. Python Lưu TSV thành XLSB. Lưu TSV thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to XLSB in Python., Save TSV to XLSB using Python., Python TSV to XLSB saveformat., TSV to XLSB Converter., Python Save TSV as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi TSV thành XLSB thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi TSV thành XLSB. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi TSV thành XLSB thành Python" %}}
 
- Làm cách nào để chuyển đổi TSV thành XLSB? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi TSV thành XLSB bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi TSV thành XLSB? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi TSV thành XLSB theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu TSV thành XLSB trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu TSV vào XLSB trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi TSV thành XLSB thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi TSV thành XLSB trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi TSV thành XLSB. Tải tệp TSV của bạn lên, sau đó chỉ cần lưu tệp thành XLSB. Đối với cả TSV đọc và XLSB viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLSB đầu ra sẽ giống với tài liệu gốc TSV.
+Hãy làm theo các bước đơn giản để chuyển đổi TSV thành XLSB. Tải lên tệp TSV của bạn, sau đó chỉ cần lưu nó dưới dạng tệp XLSB. Đối với cả việc đọc TSV và ghi XLSB, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLSB đầu ra sẽ giống hệt với tài liệu TSV gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi TSV thành XLSB trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi TSV thành XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi TSV thành XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp TSV thành XLSB theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi TSV thành XLSB chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin TSV thành XLSB theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi TSV thành XLSB chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp TSV với phiên bản Sổ làm việc.
+1.  Tải tệp TSV bằng một phiên bản của Workbook.
 1.  Chuyển đổi TSV thành XLSB bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ TSV thành XLSB.
+1.  Nhận kết quả chuyển đổi từ TSV thành XLSB.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi TSV thành XLSB" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi TSV thành XLSB" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Định dạng tệp Giá trị được phân tách bằng tab (TSV) biểu thị dữ liệu được phân tách bằng các tab ở định dạng văn bản thuần túy. Định dạng tệp, tương tự như CSV, được sử dụng để tổ chức dữ liệu theo cách có cấu trúc nhằm nhập và xuất giữa các ứng dụng khác nhau. Định dạng này chủ yếu được sử dụng để nhập/xuất và trao đổi dữ liệu trong các ứng dụng và cơ sở dữ liệu Bảng tính. Mỗi bản ghi trong tệp TSV được chứa trong một dòng tệp văn bản trong đó mỗi giá trị trường được phân tách bằng ký tự tab. Loại phương tiện cho định dạng tệp TSV là văn bản/giá trị được phân tách bằng tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản hoặc cả số và văn bản, công thức, kết nối dữ liệu bên ngoài, biểu đồ và hình ảnh không có cấu trúc hoặc bán cấu trúc. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là định dạng tệp phổ biến nhất do người dùng chọn để lưu sổ làm việc. Nó có thể được mở bởi Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản không có cấu trúc hoặc bán cấu trúc hoặc cả số và văn bản, công thức, kết nối dữ liệu ngoài, biểu đồ và hình ảnh. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, điều này giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là các định dạng tệp được người dùng phổ biến nhất chọn để lưu sổ làm việc. Có thể mở bằng Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,7 +83,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-emf/" name="TSV ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-gif/" name="TSV ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-html/" name="TSV ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-mhtml/" name="TSV ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-ods/" name="TSV ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV ĐẾN PDF" description="Định dạng tài liệu di động" >}}
@@ -97,10 +97,10 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsx/" name="TSV ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlt/" name="TSV ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltx/" name="TSV ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltx/" name="TSV ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xml/" name="TSV ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-json/" name="TSV ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

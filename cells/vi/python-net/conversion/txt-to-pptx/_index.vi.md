@@ -1,7 +1,7 @@
 ---
-title: Python TXT thành PPTX - Bộ chuyển đổi TXT thành PPTX trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi TXT thành PPTX định dạng lưu. Python TXT đến PPTX định dạng. Lưu TXT thành PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to PPTX saveformat., Free Online TXT to PPTX Python., Python Convert TXT to PPTX]
+title: Python TXT sang PPTX - TXT sang PPTX Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi TXT sang PPTX nhanh chóng và dễ dàng với Aspose.Cells. Python TXT sang PPTX. Python Lưu TXT thành PPTX. Lưu TXT thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to PPTX in Python., Save TXT to PPTX using Python., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi TXT thành PPTX thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi TXT thành PPTX. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi TXT thành PPTX thành Python" %}}
 
- Làm cách nào để chuyển đổi TXT thành PPTX? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi TXT thành PPTX bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi TXT thành PPTX? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi TXT thành PPTX theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu TXT thành PPTX trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu TXT vào PPTX trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi TXT thành PPTX thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi TXT thành PPTX trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi TXT thành PPTX. Tải tệp TXT của bạn lên, sau đó chỉ cần lưu tệp thành PPTX. Đối với cả TXT đọc và PPTX viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng PPTX đầu ra sẽ giống với tài liệu gốc TXT.
+Hãy làm theo các bước đơn giản để chuyển đổi TXT thành PPTX. Tải lên tệp TXT của bạn, sau đó chỉ cần lưu nó dưới dạng tệp PPTX. Đối với cả việc đọc TXT và ghi PPTX, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng PPTX đầu ra sẽ giống hệt với tài liệu TXT gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi TXT thành PPTX trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi TXT thành PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi TXT thành PPTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp TXT thành PPTX theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi TXT thành PPTX chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin TXT thành PPTX theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi TXT thành PPTX chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp TXT với phiên bản Sổ làm việc.
+1.  Tải tệp TXT bằng một phiên bản của Workbook.
 1.  Chuyển đổi TXT thành PPTX bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ TXT thành PPTX.
+1.  Nhận kết quả chuyển đổi từ TXT thành PPTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi TXT thành PPTX" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi TXT thành PPTX" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Một tệp có phần mở rộng .TXT đại diện cho một tài liệu văn bản chứa văn bản thuần túy ở dạng dòng. Các đoạn văn trong tài liệu văn bản được nhận dạng bằng dấu xuống dòng và được sử dụng để sắp xếp nội dung tệp tốt hơn. Một tài liệu văn bản tiêu chuẩn có thể được mở trong bất kỳ trình soạn thảo văn bản hoặc ứng dụng xử lý văn bản nào trên các hệ điều hành khác nhau. Tất cả văn bản chứa trong một tệp như vậy ở định dạng con người có thể đọc được và được biểu thị bằng chuỗi ký tự.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Các tệp có phần mở rộng PPTX là các tệp trình bày được tạo bằng ứng dụng Microsoft PowerPoint phổ biến. Không giống như phiên bản trước của định dạng tệp trình bày PPT là nhị phân, định dạng PPTX dựa trên định dạng tệp trình bày XML mở Microsoft PowerPoint. Tệp bản trình bày là một tập hợp các trang chiếu trong đó mỗi trang chiếu có thể bao gồm văn bản, hình ảnh, định dạng, hoạt ảnh và phương tiện khác. Các trang trình bày này được trình bày cho khán giả dưới dạng trình chiếu với cài đặt bản trình bày tùy chỉnh.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Tệp có phần mở rộng .TXT đại diện cho một tài liệu văn bản chứa văn bản thuần túy ở dạng dòng. Các đoạn trong tài liệu văn bản được nhận dạng bằng dấu xuống dòng và được sử dụng để sắp xếp nội dung tệp tốt hơn. Một tài liệu văn bản tiêu chuẩn có thể được mở trong bất kỳ trình soạn thảo văn bản hoặc ứng dụng xử lý văn bản nào trên các hệ điều hành khác nhau. Tất cả văn bản chứa trong tệp như vậy đều ở định dạng mà con người có thể đọc được và được biểu thị bằng chuỗi ký tự.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Các tệp có phần mở rộng PPTX là các tệp trình bày được tạo bằng ứng dụng Microsoft PowerPoint phổ biến. Không giống như phiên bản trước của định dạng tệp bản trình bày PPT là nhị phân, định dạng PPTX dựa trên định dạng tệp bản trình bày XML mở Microsoft PowerPoint. Tệp bản trình bày là một tập hợp các trang trình bày trong đó mỗi trang trình bày có thể bao gồm văn bản, hình ảnh, định dạng, hình động và các phương tiện khác. Các slide này được trình chiếu tới khán giả dưới dạng trình chiếu với cài đặt trình bày tùy chỉnh.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,24 +83,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-emf/" name="TXT ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-gif/" name="TXT ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-html/" name="TXT ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-md/" name="TXT ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-md/" name="TXT ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-mhtml/" name="TXT ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-ods/" name="TXT ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-pdf/" name="TXT ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-png/" name="TXT ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-svg/" name="TXT ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-tiff/" name="TXT ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-tsv/" name="TXT ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-tsv/" name="TXT ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xls/" name="TXT ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xlsb/" name="TXT ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xlsm/" name="TXT ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xlsx/" name="TXT ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xlt/" name="TXT ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltm/" name="TXT ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltx/" name="TXT ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltm/" name="TXT ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltx/" name="TXT ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xml/" name="TXT ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xps/" name="TXT ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xps/" name="TXT ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-json/" name="TXT ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

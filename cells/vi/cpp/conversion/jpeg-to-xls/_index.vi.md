@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG thành XLS - Bộ chuyển đổi JPEG thành XLS trực tuyến
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Trực tuyến miễn phí C++ Chuyển đổi JPEG thành XLS định dạng lưu. C++ JPEG đến XLS định dạng. Lưu JPEG thành XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to XLS saveformat., Free Online JPEG to XLS C++., C++ Convert JPEG to XLS]
+title: C++ JPEG sang XLS - JPEG sang XLS Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi JPEG sang XLS nhanh chóng và dễ dàng với Aspose.Cells. C++ JPEG sang XLS. C++ Lưu JPEG thành XLS. Lưu JPEG thành 07611134 81 sử dụng C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to XLS in C++., Save JPEG to XLS using C++., C++ JPEG to XLS saveformat., JPEG to XLS Converter., C++ Save JPEG as XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi JPEG thành XLS thành C++" h2="Chuyển đổi JPEG sang XLS hiệu suất cao bằng thư viện C++ mà không cần cài đặt Microsoft Excel, OpenOffice hoặc Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to XLS 
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi JPEG thành XLS Sử dụng C++" %}}
 
-Làm cách nào để chuyển đổi JPEG thành XLS? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi JPEG thành XLS bằng lập trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) trình quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Làm cách nào để chuyển đổi JPEG thành XLS? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi JPEG thành XLS theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,36 +26,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu JPEG thành XLS trong C++ Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu JPEG vào XLS trong C++" %}}
 
-Ví dụ sau minh họa cách chuyển đổi JPEG thành XLS trong C++.
+Ví dụ sau đây minh họa cách chuyển đổi JPEG thành XLS trong C++.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi JPEG thành XLS. Tải tệp JPEG của bạn lên, sau đó chỉ cần lưu tệp thành XLS. Đối với cả JPEG đọc và XLS viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLS đầu ra sẽ giống với tài liệu gốc JPEG.
+Hãy làm theo các bước đơn giản để chuyển đổi JPEG thành XLS. Tải lên tệp JPEG của bạn, sau đó chỉ cần lưu nó dưới dạng tệp XLS. Đối với cả việc đọc JPEG và ghi XLS, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLS đầu ra sẽ giống hệt với tài liệu JPEG gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi JPEG thành XLS trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi JPEG thành XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG thành XLS qua C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp JPEG thành XLS theo chương trình? C++ nhà phát triển có thể dễ dàng chuyển đổi JPEG thành XLS chỉ bằng một vài dòng mã.
+Cần chuyển đổi tập tin JPEG thành XLS theo chương trình? Các nhà phát triển C++ có thể dễ dàng chuyển đổi JPEG thành XLS chỉ bằng vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for C++'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án C++ của bạn.
-1.  Tải tệp JPEG bằng Factory::CreatIWorkbook.
+1.  Tải tệp JPEG bằng Workbook.
 1.  Chuyển đổi JPEG thành XLS bằng cách gọi phương thức Save().
-1.  Lấy kết quả chuyển đổi từ JPEG thành XLS.
+1.  Nhận kết quả chuyển đổi từ JPEG thành XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ thư viện để chuyển đổi JPEG thành XLS" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện C++ chuyển đổi JPEG thành XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Cài đặt một[Gói NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Cài đặt thư viện bằng Thư mục Bao gồm và lib. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Cài đặt Aspose.Cells for C++ trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -77,15 +77,15 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
-- Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+- Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự đánh đổi giữa kích thước bộ nhớ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm kích thước bộ nhớ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu nén 10:1 được áp dụng cho hình ảnh. Giá trị nén càng cao, chất lượng hình ảnh càng giảm.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Các tệp có phần mở rộng XLS đại diện cho Định dạng tệp nhị phân Excel. Các tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang một số định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng mở và có cấu trúc hơn, XLSX, với việc phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ để tạo và đọc các tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng không đáng kể nếu áp dụng nén 10:1 cho hình ảnh. Giá trị nén càng cao thì chất lượng hình ảnh càng giảm.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -95,24 +95,23 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-emf/" name="JPEG ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-gif/" name="JPEG ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-html/" name="JPEG ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-md/" name="JPEG ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-md/" name="JPEG ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-mhtml/" name="JPEG ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-ods/" name="JPEG ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-pdf/" name="JPEG ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-png/" name="JPEG ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-svg/" name="JPEG ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tiff/" name="JPEG ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tsv/" name="JPEG ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tsv/" name="JPEG ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-txt/" name="JPEG ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xls/" name="JPEG ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xlsb/" name="JPEG ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xlsm/" name="JPEG ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xlsx/" name="JPEG ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xlt/" name="JPEG ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltm/" name="JPEG ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltx/" name="JPEG ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltm/" name="JPEG ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltx/" name="JPEG ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xml/" name="JPEG ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-json/" name="JPEG ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 

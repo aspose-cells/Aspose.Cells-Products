@@ -1,7 +1,7 @@
 ---
-title: C++ MHT إلى DIF - محول MHT عبر الإنترنت إلى DIF
-description: Aspose إكسل. C++ Aspose.Cells. C++ Aspose Cells. مجاني على الإنترنت C++ تحويل MHT إلى DIF saveformat. C++ MHT إلى تنسيق DIF. احفظ MHT في DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to DIF saveformat., Free Online MHT to DIF C++., C++ Convert MHT to DIF]
+title: تحويل C++ MHT إلى DIF - تحويل MHT إلى DIF
+description: Aspose اكسل. قم بتحويل MHT إلى DIF بسرعة وسهولة باستخدام Aspose.Cells. C++ MHT إلى DIF. C++ احفظ MHT إلى DIF. احفظ MHT كـ DIF باستخدام C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to DIF in C++., Save MHT to DIF using C++., C++ MHT to DIF saveformat., MHT to DIF Converter., C++ Save MHT as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل MHT إلى DIF في C++" h2="تحويل MHT عالي الأداء إلى DIF باستخدام مكتبة C++ دون الحاجة إلى تثبيت Microsoft Excel أو OpenOffice أو Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to DIF s
 
 {{% blocks/products/pf/agp/content h2="تحويل MHT إلى DIF باستخدام C++" %}}
 
- كيف أقوم بتحويل MHT إلى DIF؟ مع مكتبة Aspose.Cells for C++ ، يمكنك بسهولة تحويل MHT إلى DIF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة ، فقط افتح[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم ، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بتحويل MHT إلى DIF؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة تحويل MHT إلى DIF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -26,31 +26,31 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ MHT في DIF في C++ عبر الإنترنت مجانًا" %}}
+{{% blocks/products/pf/agp/content h2="احفظ MHT على DIF في C++" %}}
 
 يوضح المثال التالي كيفية تحويل MHT إلى DIF في C++.
 {{% blocks/products/pf/agp/text %}}
 
-اتبع الخطوات السهلة لتحويل MHT إلى DIF. قم بتحميل ملف MHT الخاص بك ، ثم احفظه كملف DIF. لكل من قراءة MHT والكتابة DIF ، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق DIF الناتج مطابقًا لمستند MHT الأصلي.
+اتبع الخطوات السهلة لتحويل MHT إلى DIF. قم بتحميل ملف MHT الخاص بك، ثم احفظه ببساطة كملف DIF. لكل من قراءة MHT وكتابة DIF، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق الإخراج DIF مطابقًا لمستند MHT الأصلي.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني وعينة من التعليمات البرمجية لتحويل MHT إلى DIF عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="dif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="dif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل MHT إلى DIF عبر C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات MHT إلى DIF برمجيًا؟ يمكن للمطورين C++ بسهولة تحويل MHT إلى DIF في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات MHT إلى DIF برمجياً؟ يمكن لمطوري C++ تحويل MHT بسهولة إلى DIF في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for C++".
-1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع C++ الخاص بك.
-1.  قم بتحميل ملف MHT باستخدام Factory :: CreateIWorkbook.
-1.  قم بتحويل MHT إلى DIF باستدعاء طريقة Save ().
+1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك C++.
+1. قم بتحميل ملف MHT باستخدام Workbook.
+1.  قم بتحويل MHT إلى DIF عن طريق استدعاء طريقة Save ().
 1.  احصل على نتيجة تحويل MHT إلى DIF.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -59,11 +59,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-هناك ثلاثة خيارات لتثبيت "Aspose.Cells for C++" على نظامك. يرجى اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:
+هناك ثلاثة خيارات لتثبيت "Aspose.Cells for C++" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  تثبيت أ[NuGet باقة](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  قم بتثبيت المكتبة باستخدام مجلدات Include و lib. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  قم بتثبيت Aspose.Cells for C++ في Linux. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -73,45 +73,44 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- قبل تشغيل رمز نموذج التحويل C++ ، تأكد من توفر المتطلبات الأساسية التالية لديك.
+ قبل تشغيل نموذج التعليمات البرمجية للتحويل C++، تأكد من أن لديك المتطلبات الأساسية التالية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع C++ Runtime Environment لـ Windows 32 بت و Windows 64 بت و Linux 64 بت.
-- أضف مرجعًا إلى DLL Aspose.Cells for C++ في مشروعك.
+- Microsoft Windows أو نظام تشغيل متوافق مع C++ Runtime Environment لـ Windows 32 بت وWindows 64 بت وLinux 64 بت.
+- أضف مرجعًا إلى Aspose.Cells for C++ DLL في مشروعك.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}الملف ذو الامتداد .mht هو تنسيق ملف أرشفة ممكّن بواسطة MIME يحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحة في شكل ملفات CSS وجافا سكريبت وموارد أخرى كموارد مضمنة فيها. تقوم ملفات MHT ، التي تحتوي على رسالة من نوع MIME / rfc822 ، بتغليف جميع محتويات ملف HTML كملف أرشيف واحد للتخزين على الأرشفة على أجهزة التخزين. تتيح لك التطبيقات البرمجية مثل Microsoft Word تحويل مستندات WORD الخاصة بك إلى MHT عن طريق التصدير كملف MHT. يمكن فتح ملفات MHT باستخدام المتصفحات الشائعة مثل Microsoft Internet Explore و Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}يرمز DIF إلى تنسيق تبادل البيانات المستخدم لاستيراد / تصدير بيانات جداول البيانات بين التطبيقات المختلفة. وتشمل هذه Microsoft Excel و OpenOffice Calc و StarCalc وغيرها الكثير. يقوم بتخزين البيانات الموجودة في جدول بيانات واحد وهو القيد الوحيد لتنسيق الملف هذا.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}الملف ذو الامتداد .mht هو تنسيق ملف أرشفة مزود بتقنية MIME ويحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحات في شكل ملفات CSS وجافا سكريبت والموارد الأخرى كموارد مضمنة فيها. تقوم ملفات MHT، التي تحتوي على رسالة من نوع MIME/rfc822، بتغليف كافة محتويات ملف HTML كملف أرشيف واحد للتخزين عند الأرشفة على أجهزة التخزين. تتيح لك التطبيقات البرمجية مثل Microsoft Word تحويل مستنداتك WORD إلى MHT عن طريق التصدير كملف MHT. يمكن فتح ملفات MHT باستخدام المتصفحات الشائعة مثل Microsoft Internet Explore و Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF يرمز إلى تنسيق تبادل البيانات المستخدم لاستيراد/تصدير بيانات جداول البيانات بين التطبيقات المختلفة. وتشمل هذه Microsoft Excel وOpenOffice Calc وStarCalc وغيرها الكثير. يقوم بتخزين البيانات الموجودة في جدول بيانات واحد وهو القيد الوحيد لتنسيق الملف هذا.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل MHT إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل MHT إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها المدرج أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-bmp/" name="MHT إلى BMP" description="سيب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-emf/" name="MHT إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-gif/" name="MHT إلى GIF" description="تنسيق التبادل الرسومي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-html/" name="MHT إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-md/" name="MHT إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-md/" name="MHT إلى دكتوراه في الطب" description="لغة تخفيض السعر" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-mhtml/" name="MHT إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-ods/" name="MHT إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-pdf/" name="MHT إلى PDF" description="نموذج المستندات المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-png/" name="MHT إلى PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-svg/" name="MHT إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tiff/" name="MHT إلى TIFF" description="تنسيق الصورة الموسومة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tsv/" name="MHT إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-txt/" name="MHT إلى TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT إلى XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsb/" name="MHT إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-txt/" name="MHT إلى TXT" description="وثيقة نصية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT إلى XLS" description="تنسيق ثنائي إكسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsb/" name="MHT إلى XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsm/" name="MHT إلى XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsx/" name="MHT إلى XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlt/" name="MHT إلى XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltm/" name="MHT إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltx/" name="MHT إلى XLTX" description="قالب Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xml/" name="MHT إلى XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsx/" name="MHT إلى XLSX" description="ملف اكسيل OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlt/" name="MHT إلى XLT" description="Microsoft قالب إكسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltm/" name="MHT إلى XLTM" description="قالب Excel مزود بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltx/" name="MHT إلى XLTX" description="قالب Excel لمكتب OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xml/" name="من MHT إلى XML" description="لغة التوصيف الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xps/" name="MHT إلى XPS" description="مواصفات ورق XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-json/" name="MHT إلى JSON" description="جافا سكريبت تدوين كائن" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-jpeg/" name="MHT إلى JPEG" description="JPEG صورة" >}}

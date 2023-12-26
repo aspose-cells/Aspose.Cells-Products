@@ -1,7 +1,8 @@
 ---
-title:  Mở khóa tài liệu XLSX via .NET
+title:  Mở khóa XLSX tài liệu via .NET
 weight: 2040
-description: C# để mở khóa tệp XLSX được bảo vệ bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+description: Mã nguồn C# để mở khóa tệp XLSX được bảo vệ bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mở khóa XLSX Bảng tính qua C#" h2="Xóa bảo vệ khỏi XLSX bằng thư viện .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: C# để mở khóa tệp XLSX được bảo vệ bằng mật kh�
 
 {{% blocks/products/pf/agp/content h2="Cách mở khóa tệp XLSX bằng C#" %}}
 
- Để xóa tệp XLSX bảo vệ, chúng tôi sẽ sử dụng
+ Để xóa tệp bảo vệ XLSX, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một tính năng bảo vệ tài liệu phong phú, mạnh mẽ và dễ sử dụng API cho nền tảng C#. Mở
+ API là phần mềm bảo vệ tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API dành cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  **Aspose.Cells** 
@@ -44,9 +45,9 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Khởi tạo lớp Workbook với đường dẫn đến tệp XLSX được bảo vệ
-1.  Lấy giá trị mặc định hoặc bất kỳ Bảng tính nào để xóa bảo vệ
-1.  Loại bỏ bảo vệ Worksheet bằng phương thức Worksheet.Unprotect
-1.  Xóa bảo vệ Workbook bằng phương thức Workbook.Unprotect
+1.  Nhận mặc định hoặc bất kỳ Bảng tính nào để loại bỏ bảo vệ
+1.  Loại bỏ bảo vệ bảng tính bằng phương thức Worksheet.Unprotect
+1.  Loại bỏ bảo vệ Workbook bằng phương thức Workbook.Unprotect
 1.  Lưu kết quả ở định dạng XLSX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,13 +56,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần chắc chắn rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows hoặc HĐH tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin
+-  Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin
 -  Môi trường phát triển như Microsoft Visual Studio
--  Thêm tham chiếu đến Aspose.Cells for .NET DLL trong dự án của bạn
+-  Thêm tham chiếu đến DLL Aspose.Cells for .NET trong dự án của bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -95,9 +96,9 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -105,14 +106,14 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ứng dụng miễn phí để mở khóa XLSX" sectionDescription=" Kiểm tra bản trình diễn trực tiếp của chúng tôi để[mở khóa các tệp XLSX](https://products.aspose.app/cells/unlock/xlsx) với những lợi ích sau." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App mở khóa miễn phí XLSX" sectionDescription=" Kiểm tra các bản demo trực tiếp của chúng tôi để[mở khóa XLSX tập tin](https://products.aspose.app/cells/unlock/xlsx) với những lợi ích sau." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết hoặc biên dịch mã" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLSX và nhấn nút \"Mở khóa\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp kết quả XLSX từ liên kết" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tải xuống tệp XLSX kết quả từ liên kết" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX là định dạng nổi tiếng cho các tài liệu Excel Microsoft được giới thiệu bởi Microsoft cùng với việc phát hành Microsoft Office 2007. Dựa trên cấu trúc được tổ chức theo Quy ước đóng gói mở như được nêu trong Phần 2 của tiêu chuẩn OOXML ECMA-376, định dạng mới là một gói zip chứa một số tệp XML. Cấu trúc cơ bản và các tệp có thể được kiểm tra bằng cách giải nén tệp .xlsx.
+XLSX là định dạng phổ biến cho Microsoft tài liệu Excel được giới thiệu bởi Microsoft cùng với việc phát hành Microsoft Office 2007. Dựa trên cấu trúc được tổ chức theo Quy ước Đóng gói Mở như được nêu trong Phần 2 của tiêu chuẩn OOXML ECMA-376, định dạng mới là một gói zip chứa một số tệp XML. Cấu trúc và tệp cơ bản có thể được kiểm tra bằng cách giải nén tệp .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,7 +121,7 @@ XLSX là định dạng nổi tiếng cho các tài liệu Excel Microsoft đư�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Các định dạng mở khóa được hỗ trợ khác" subTitle="Sử dụng C#, người ta có thể dễ dàng loại bỏ bảo vệ / mở khóa các định dạng khác nhau, bao gồm cả." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các định dạng mở khóa được hỗ trợ khác" subTitle="Sử dụng C#, người ta có thể dễ dàng loại bỏ bảo vệ / mở khóa các định dạng khác nhau bao gồm." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}

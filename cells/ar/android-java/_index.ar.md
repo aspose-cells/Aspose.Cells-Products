@@ -1,10 +1,10 @@
 ---
-title: جدول بيانات Android Excel API-Aspose
+title: جدول بيانات أندرويد إكسل API - Aspose
 weight: 6510
-description: مكتبة جداول بيانات Android لإنشاء قراءة وكتابة وتحليل ملفات Excel. جدول بيانات API لتطوير تطبيقات الأجهزة المحمولة
+description: مكتبة جداول بيانات Android لإنشاء ملفات Excel للقراءة والكتابة والتحليل. جدول بيانات API لتطوير تطبيقات الجوال
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات Android لمعالجة جداول بيانات Excel" h2="قم بإنشاء ملفات Excel أو قراءتها أو كتابتها أو معالجتها داخل تطبيقات Android دون أي تبعيات." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات Android للتعامل مع جداول بيانات Excel" h2="يمكنك إنشاء ملفات Excel أو قراءتها أو كتابتها أو معالجتها داخل تطبيقات Android دون أي تبعيات." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java هو API قابل للتحجيم لإنشاء جداول البيانات ودمجها وتعديلها وتحليلها برمجيًا. يوفر API العديد من الوظائف بما في ذلك تنسيق مستندات Excel ومهام إعداد الصفحة وإمكانيات الاستيراد والتصدير وتقديم صفحات ورقة العمل إلى الصور النقطية بالإضافة إلى تحديد دقة الصورة والجودة والضغط وإضافة مخططات مختلفة وغير ذلك الكثير. يدعم جدول بيانات Android API XLS و XLSX و CSV و SpreadsheetML و ODS و Tab Delimited و HTML و PDF و XPS والمزيد من التنسيقات.
+ Aspose.Cells for Android via Java هو API قابل للتطوير لإنشاء جداول البيانات ودمجها وتعديلها وتحليلها برمجيًا. يوفر API العديد من الوظائف بما في ذلك تنسيق مستند Excel ومهام إعداد الصفحة وإمكانيات الاستيراد والتصدير وتقديم صفحات أوراق العمل إلى صور نقطية بالإضافة إلى تحديد دقة الصورة والجودة والضغط وإضافة مخططات مختلفة وغير ذلك الكثير. يدعم جدول بيانات Android API XLS، XLSX، CSV، SpreadsheetML، ODS، جدول محدد، HTML، PDF، XPS، والمزيد من التنسيقات.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +20,14 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات API." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="نظرة عامة على قدرات API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- استيراد & أمبير ؛ يصدّر
+ استيراد &amp; يصدّر
    </header>
    <ul>
     <li>
@@ -50,10 +50,10 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
  الرسم البياني للصورة
     </li>
     <li>
- ورقة العمل على الصورة
+ ورقة عمل للصورة
     </li>
     <li>
- جدول بيانات إلى PDF
+ جدول البيانات إلى PDF
     </li>
    </ul>
   </div>
@@ -78,7 +78,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
  لخص
     </li>
     <li>
- علامات ذكية
+ العلامات الذكية
     </li>
    </ul>
   </div>
@@ -104,7 +104,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for Android via Java متاح for Android 2.0 أو أعلى." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells for Android via Java متوفر for Android 2.0 فما فوق." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +114,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- بيئة وقت تشغيل Android
+ بيئة تشغيل أندرويد
    </header>
    <ul>
     <li>
@@ -144,21 +144,21 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم جدول بيانات Android API تنسيقات Microsoft Excel والصور وتنسيقات التخطيط الثابت." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم جدول بيانات Android API تنسيقات Excel والصور وتنسيقات التخطيط الثابت الشائعة Microsoft." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
- الإدخال / الإخراج
+ الإدخال/الإخراج
    </header>
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
- XLS ، XLSX ، XLSB ، XLTX ، XLTM ، XLSM ، XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
@@ -190,9 +190,9 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
    <ul>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
- PDF، PDF / A، XPS
+ PDF, PDF/أ, XPS
     </li>
     <li>
      <b>
@@ -249,14 +249,14 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تصدير واستيراد البيانات من ArrayList و Array و Recordset & amp؛ مجموعة النتائج
+ تصدير واستيراد البيانات من ArrayList وArray وRecordset &amp; مجموعة النتائج
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تشفير & أمبير ؛ فك تشفير ملفات Excel
+ تشفير &amp; فك تشفير ملفات اكسل
     </p>
    </div>
    <div class="col-lg-4">
@@ -270,21 +270,21 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ التلاعب بالمخططات
+ إنشاء &amp; التلاعب بالرسوم البيانية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ التلاعب في التعليقات
+ إنشاء &amp; التلاعب بالتعليقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة وتعيين & أمبير ؛ حساب الصيغ
+ قراءة وضبط &amp; حساب الصيغ
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,21 +298,21 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعيين & أمبير ؛ التلاعب بالفلاتر التلقائية & أمبير ؛ فواصل الصفحة
+ تعيين & أمبير؛ التعامل مع المرشحات التلقائية &amp; فواصل الصفحة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة & amp؛ كتابة تنسيق شرطي
+ اقرأ &amp; كتابة التنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بإنشاء نسخ من أوراق العمل الموجودة
+ إنشاء نسخ من أوراق العمل الموجودة
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +326,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- التلاعب بالخلايا & أمبير ؛ النطاقات المسماة
+ التعامل مع الخلايا &amp; النطاقات المسماة
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تحويل أوراق العمل & أمبير ؛ الرسوم البيانية للصور
+ تحويل أوراق العمل &amp; الرسوم البيانية للصور
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,14 +419,14 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة الجداول المحورية
+ إنشاء &amp; التعامل مع الجداول المحورية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة المخططات المخصصة
+ إنشاء &amp; التعامل مع المخططات المخصصة
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,21 +440,21 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ التلاعب بالسيناريوهات
+ إنشاء &amp; التلاعب بالسيناريوهات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-محرك قوي لحساب الصيغة
+محرك حساب صيغة قوية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة & amp؛ اكتب TSV ، CSV وأمبير. HTML ملفات
+ اقرأ &amp; اكتب TSV و CSV &amp; HTML ملفات
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,7 +462,7 @@ description: مكتبة جداول بيانات Android لإنشاء قراءة 
  تحويل صيغ مختلفة
     </h2>
     <p>
- تقدم مكتبة Android Excel تحويل جداول البيانات إلى XPS ، PDF & amp؛ HTML بأعلى دقة بصرية. تجعل عملية التحويل الموثوقة API اختيارًا مثاليًا للشركات لتبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
+ توفر مكتبة Android Excel إمكانية تحويل جداول البيانات إلى XPS وPDF &amp; تنسيقات HTML تحافظ على أعلى دقة بصرية. تجعل عملية التحويل الموثوقة API خيارًا مثاليًا للشركات لتبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,15 +493,15 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
  تحويل كائنات جدول البيانات إلى تنسيقات مختلفة
     </h2>
     <p>
- Aspose.Cells for Android via Java تقدم بعض الميزات المميزة مثل أوراق العمل للصور والرسوم البيانية للصور & amp؛ PDF وجداول البيانات إلى PDF تحويل تنسيق الوثيقة. تحتوي العملية المرنة على عدد من الخيارات للتحويل ، مثل إعادة أخذ عينات الصور أثناء جداول البيانات إلى PDF أو تعيين أبعاد الصورة الناتجة عند عرض أوراق العمل & amp؛ الرسوم البيانية لتنسيقات الصور.
+ Aspose.Cells for Android via Java تقدم بعض الميزات المميزة مثل أوراق العمل للصور، والمخططات للصور &amp; PDF وجداول البيانات إلى PDF تحويل تنسيق المستندات. تحتوي العملية المرنة على عدد من الخيارات للتحويل، مثل إعادة أخذ عينات من الصور أثناء جداول البيانات إلى PDF أو تعيين أبعاد الصورة الناتجة عند عرض أوراق العمل &amp; الرسوم البيانية لتنسيقات الصور.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-جدول بيانات API محرك حساب الصيغة
+جدول البيانات API محرك حساب الصيغة
     </h2>
     <p>
- توفر Android Sheets API محركًا قويًا لحساب الصيغة يدعم وظائف وصيغ Excel المتقدمة والمعيارية Microsoft. يجعل محرك حساب الصيغة من السهل قراءة وتعيين وحساب نتائج الصيغ المضمنة أو النوع الإضافي والصفيف ونمط المرجع R1C1.
+ توفر أوراق Android API محركًا قويًا لحساب الصيغة يدعم وظائف وصيغ Excel المتقدمة والمعيارية Microsoft. يسهّل محرك حساب الصيغة قراءة وتعيين وحساب نتائج صيغ النمط المرجعي من النوع المضمن أو الإضافي والمصفوفة وR1C1.
     </p>
    </div>
    <!--
@@ -573,25 +573,25 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for Android via Java؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

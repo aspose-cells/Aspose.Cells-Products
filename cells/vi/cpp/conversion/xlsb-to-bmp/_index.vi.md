@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB thành BMP - Bộ chuyển đổi XLSB thành BMP trực tuyến
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Trực tuyến miễn phí C++ Chuyển đổi XLSB thành BMP định dạng lưu. C++ XLSB đến BMP định dạng. Lưu XLSB thành BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to BMP saveformat., Free Online XLSB to BMP C++., C++ Convert XLSB to BMP]
+title: C++ XLSB sang BMP - XLSB sang BMP Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi XLSB sang BMP nhanh chóng và dễ dàng với Aspose.Cells. C++ XLSB sang BMP. C++ Lưu XLSB thành BMP. Lưu XLSB thành 07611134 81 sử dụng C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to BMP in C++., Save XLSB to BMP using C++., C++ XLSB to BMP saveformat., XLSB to BMP Converter., C++ Save XLSB as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLSB thành BMP thành C++" h2="Chuyển đổi XLSB sang BMP hiệu suất cao bằng thư viện C++ mà không cần cài đặt Microsoft Excel, OpenOffice hoặc Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to BMP 
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLSB thành BMP Sử dụng C++" %}}
 
-Làm cách nào để chuyển đổi XLSB thành BMP? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi XLSB thành BMP bằng lập trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) trình quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Làm cách nào để chuyển đổi XLSB thành BMP? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi XLSB thành BMP theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,36 +26,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu XLSB thành BMP trong C++ Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XLSB vào BMP trong C++" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XLSB thành BMP trong C++.
+Ví dụ sau đây minh họa cách chuyển đổi XLSB thành BMP trong C++.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XLSB thành BMP. Tải tệp XLSB của bạn lên, sau đó chỉ cần lưu tệp thành BMP. Đối với cả XLSB đọc và BMP viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng BMP đầu ra sẽ giống với tài liệu gốc XLSB.
+Hãy làm theo các bước đơn giản để chuyển đổi XLSB thành BMP. Tải lên tệp XLSB của bạn, sau đó chỉ cần lưu nó dưới dạng tệp BMP. Đối với cả việc đọc XLSB và ghi BMP, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng BMP đầu ra sẽ giống hệt với tài liệu XLSB gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLSB thành BMP trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XLSB thành BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLSB thành BMP qua C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XLSB thành BMP theo chương trình? C++ nhà phát triển có thể dễ dàng chuyển đổi XLSB thành BMP chỉ bằng một vài dòng mã.
+Cần chuyển đổi tập tin XLSB thành BMP theo chương trình? Các nhà phát triển C++ có thể dễ dàng chuyển đổi XLSB thành BMP chỉ bằng vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for C++'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án C++ của bạn.
-1.  Tải tệp XLSB bằng Factory::CreatIWorkbook.
+1.  Tải tệp XLSB bằng Workbook.
 1.  Chuyển đổi XLSB thành BMP bằng cách gọi phương thức Save().
-1.  Lấy kết quả chuyển đổi từ XLSB thành BMP.
+1.  Nhận kết quả chuyển đổi từ XLSB thành BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ thư viện để chuyển đổi XLSB thành BMP" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện C++ chuyển đổi XLSB thành BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Cài đặt một[Gói NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Cài đặt thư viện bằng Thư mục Bao gồm và lib. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Cài đặt Aspose.Cells for C++ trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -77,15 +77,15 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
-- Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+- Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản hoặc cả số và văn bản, công thức, kết nối dữ liệu bên ngoài, biểu đồ và hình ảnh không có cấu trúc hoặc bán cấu trúc. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là định dạng tệp phổ biến nhất do người dùng chọn để lưu sổ làm việc. Nó có thể được mở bởi Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở tệp trên nhiều nền tảng, chẳng hạn như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc cũng như màu với các độ sâu màu khác nhau.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản không có cấu trúc hoặc bán cấu trúc hoặc cả số và văn bản, công thức, kết nối dữ liệu ngoài, biểu đồ và hình ảnh. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, điều này giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là các định dạng tệp được người dùng phổ biến nhất chọn để lưu sổ làm việc. Có thể mở bằng Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở file trên nhiều nền tảng như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc cũng như màu sắc với nhiều độ sâu màu khác nhau.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -95,24 +95,23 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-emf/" name="XLSB ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-gif/" name="XLSB ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-html/" name="XLSB ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-md/" name="XLSB ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-md/" name="XLSB ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-mhtml/" name="XLSB ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-ods/" name="XLSB ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlsm/" name="XLSB ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlsx/" name="XLSB ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlt/" name="XLSB ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltm/" name="XLSB ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltx/" name="XLSB ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltm/" name="XLSB ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltx/" name="XLSB ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xml/" name="XLSB ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-json/" name="XLSB ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-jpeg/" name="XLSB ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

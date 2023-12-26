@@ -1,6 +1,6 @@
 ---
-title: XLAM thành XLAM - Chuyển đổi file XLAM thành XLAM Python via Python
-description: Aspose Excel. Chuyển đổi trực tuyến miễn phí XLAM thành XLAM định dạng lưu. Python XLAM đến XLAM định dạng. Lưu XLAM thành XLAM trong Python.
+title: XLAM sang XLAM - Chuyển đổi file XLAM thành XLAM file Python via Python
+description: Aspose Excel. Trực tuyến miễn phí Chuyển đổi định dạng lưu XLAM sang XLAM. Định dạng Python XLAM đến XLAM. Lưu XLAM thành XLAM trong Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to XLAM saveformat., Free Online XLAM to XLAM Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to XLAM saveformat.,
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLAM thành XLAM thành Python" %}}
 
- Làm cách nào để chuyển đổi XLAM thành XLAM? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi XLAM thành XLAM bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi XLAM thành XLAM? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi XLAM thành XLAM theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu XLAM thành XLAM trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XLAM đến XLAM trong Python Trực tuyến miễn phí" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XLAM thành XLAM thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi XLAM thành XLAM trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XLAM thành XLAM. Tải tệp XLAM của bạn lên, sau đó chỉ cần lưu tệp thành XLAM. Đối với cả XLAM đọc và XLAM viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLAM đầu ra sẽ giống với tài liệu gốc XLAM.
+Hãy làm theo các bước đơn giản để chuyển đổi XLAM thành XLAM. Tải lên tệp XLAM của bạn, sau đó chỉ cần lưu nó dưới dạng tệp XLAM. Đối với cả việc đọc XLAM và ghi XLAM, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLAM đầu ra sẽ giống hệt với tài liệu XLAM gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLAM thành XLAM trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi trực tuyến XLAM thành XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLAM thành XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XLAM thành XLAM theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi XLAM thành XLAM chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin XLAM thành XLAM theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi XLAM thành XLAM chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp XLAM với phiên bản Sổ làm việc.
+1.  Tải tệp XLAM bằng một phiên bản của Workbook.
 1.  Chuyển đổi XLAM thành XLAM bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ XLAM thành XLAM.
+1.  Nhận kết quả chuyển đổi từ XLAM thành XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi XLAM thành XLAM" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi XLAM thành XLAM" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,24 +78,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-emf/" name="XLAM ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-gif/" name="XLAM ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-html/" name="XLAM ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-mhtml/" name="XLAM ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-ods/" name="XLAM ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-pdf/" name="XLAM ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-png/" name="XLAM ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-svg/" name="XLAM ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tiff/" name="XLAM ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-txt/" name="XLAM ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xls/" name="XLAM ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsb/" name="XLAM ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsm/" name="XLAM ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsx/" name="XLAM ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlt/" name="XLAM ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xml/" name="XLAM ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-json/" name="XLAM ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

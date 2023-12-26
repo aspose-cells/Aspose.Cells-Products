@@ -1,7 +1,7 @@
 ---
-title: C++ PNG đến TABDELIMITED - Bộ chuyển đổi trực tuyến PNG sang TABDELIMITED
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Trực tuyến miễn phí C++ Chuyển đổi PNG sang định dạng lưu TABDELIMITED. C++ PNG sang định dạng TABDELIMITED. Lưu PNG vào TABDELIMITED C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to TABDELIMITED saveformat., Free Online PNG to TABDELIMITED C++., C++ Convert PNG to TABDELIMITED]
+title: C++ PNG sang TABDELIMITED - PNG sang TABDELIMITED Chuyển đổi
+description: Aspose Excel. Chuyển đổi PNG sang TABDELIMITED nhanh chóng và dễ dàng với Aspose.Cells. C++ PNG sang TABDELIMITED. C++ Lưu PNG vào TABDELIMITED. Lưu PNG dưới dạng TABDELIMITED bằng cách sử dụng C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to TABDELIMITED in C++., Save PNG to TABDELIMITED using C++., C++ PNG to TABDELIMITED saveformat., PNG to TABDELIMITED Converter., C++ Save PNG as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi PNG thành TABDELIMITED trong C++" h2="Chuyển đổi PNG sang TABDELIMITED hiệu suất cao bằng thư viện C++ mà không cần cài đặt Microsoft Excel, OpenOffice hoặc Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to TABDE
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi PNG thành TABDELIMITED bằng C++" %}}
 
- Làm cách nào để chuyển đổi PNG thành TABDELIMITED? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi PNG thành TABDELIMITED theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) trình quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Làm cách nào để chuyển đổi PNG thành TABDELIMITED? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi PNG sang TABDELIMITED theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,36 +26,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu PNG vào TABDELIMITED trong C++ Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu PNG vào TABDELIMITED trong C++" %}}
 
-Ví dụ sau minh họa cách chuyển đổi PNG thành TABDELIMITED trong C++.
+Ví dụ sau đây minh họa cách chuyển đổi PNG thành TABDELIMITED trong C++.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi PNG sang TABDELIMITED. Tải lên tệp PNG của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp TABDELIMITED. Đối với cả cách đọc PNG và cách viết TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống với tài liệu gốc PNG.
+Thực hiện theo các bước đơn giản để chuyển đổi PNG thành TABDELIMITED. Tải lên tệp PNG của bạn, sau đó chỉ cần lưu nó dưới dạng tệp TABDELIMITED. Đối với cả việc đọc PNG và ghi TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống hệt với tài liệu PNG gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi PNG sang TABDELIMITED trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi PNG sang TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi PNG thành TABDELIMITED qua C++" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi PNG sang TABDELIMITED qua C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp PNG thành TABDELIMITED theo chương trình? C++ nhà phát triển có thể dễ dàng chuyển đổi PNG thành TABDELIMITED chỉ bằng một vài dòng mã.
+Cần chuyển đổi tệp PNG thành TABDELIMITED theo chương trình? Các nhà phát triển C++ có thể dễ dàng chuyển đổi PNG thành TABDELIMITED chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for C++'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án C++ của bạn.
-1.  Tải tệp PNG bằng Factory::CreatIWorkbook.
+1.  Tải tệp PNG bằng Workbook.
 1. Chuyển đổi PNG thành TABDELIMITED bằng cách gọi phương thức Save().
-1.  Lấy kết quả chuyển đổi từ PNG sang TABDELIMITED.
+1.  Nhận kết quả chuyển đổi PNG sang TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Thư viện C++ để chuyển đổi PNG thành TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện C++ để chuyển đổi PNG sang TABDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Cài đặt một[Gói NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Cài đặt thư viện bằng Thư mục Bao gồm và lib. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Cài đặt Aspose.Cells for C++ trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -77,14 +77,14 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
-- Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+- Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Tệp PNG (Đồ họa mạng di động) là định dạng tệp hình ảnh raster sử dụng nén không mất dữ liệu. Định dạng tệp này được tạo để thay thế Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. PNG hỗ trợ nén hình ảnh không mất dữ liệu khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển thành một trong những định dạng tệp hình ảnh được sử dụng rộng rãi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Tệp PNG (Đồ họa mạng di động) là định dạng tệp hình ảnh raster sử dụng tính năng nén không mất dữ liệu. Định dạng tệp này được tạo để thay thế Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng file PNG không hỗ trợ ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh không mất dữ liệu khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển thành một trong những định dạng tệp hình ảnh được sử dụng rộng rãi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Định dạng tệp Giá trị được phân tách bằng tab (TSV) biểu thị dữ liệu được phân tách bằng các tab ở định dạng văn bản thuần túy. Định dạng tệp, tương tự như CSV, được sử dụng để tổ chức dữ liệu theo cách có cấu trúc nhằm nhập và xuất giữa các ứng dụng khác nhau. Định dạng này chủ yếu được sử dụng để nhập/xuất và trao đổi dữ liệu trong các ứng dụng và cơ sở dữ liệu Bảng tính. Mỗi bản ghi trong tệp TSV được chứa trong một dòng tệp văn bản trong đó mỗi giá trị trường được phân tách bằng ký tự tab. Loại phương tiện cho định dạng tệp TSV là văn bản/giá trị được phân tách bằng tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -95,24 +95,23 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-emf/" name="PNG ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-gif/" name="PNG ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-html/" name="PNG ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-md/" name="PNG ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-md/" name="PNG ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-mhtml/" name="PNG ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-ods/" name="PNG ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-pdf/" name="PNG ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-svg/" name="PNG ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tiff/" name="PNG ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-txt/" name="PNG ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xls/" name="PNG ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xlsb/" name="PNG ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xlsm/" name="PNG ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xlsx/" name="PNG ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xlt/" name="PNG ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xltm/" name="PNG ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xltx/" name="PNG ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xltm/" name="PNG ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xltx/" name="PNG ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xml/" name="PNG ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xps/" name="PNG ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xps/" name="PNG ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-json/" name="PNG ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-jpeg/" name="PNG ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

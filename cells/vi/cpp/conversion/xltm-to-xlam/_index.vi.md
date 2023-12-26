@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM thành XLAM - Bộ chuyển đổi XLTM thành XLAM trực tuyến
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Trực tuyến miễn phí C++ Chuyển đổi XLTM thành XLAM định dạng lưu. C++ XLTM đến XLAM định dạng. Lưu XLTM thành XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to XLAM saveformat., Free Online XLTM to XLAM C++., C++ Convert XLTM to XLAM]
+title: C++ XLTM sang XLAM - XLTM sang XLAM Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi XLTM sang XLAM nhanh chóng và dễ dàng với Aspose.Cells. C++ XLTM sang XLAM. C++ Lưu XLTM thành XLAM. Lưu XLTM thành 07611134 81 sử dụng C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to XLAM in C++., Save XLTM to XLAM using C++., C++ XLTM to XLAM saveformat., XLTM to XLAM Converter., C++ Save XLTM as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLTM thành XLAM thành C++" h2="Chuyển đổi XLTM sang XLAM hiệu suất cao bằng thư viện C++ mà không cần cài đặt Microsoft Excel, OpenOffice hoặc Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to XLAM
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLTM thành XLAM Sử dụng C++" %}}
 
-Làm cách nào để chuyển đổi XLTM thành XLAM? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi XLTM thành XLAM bằng lập trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) trình quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Làm cách nào để chuyển đổi XLTM thành XLAM? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng chuyển đổi XLTM thành XLAM theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,36 +26,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu XLTM thành XLAM trong C++ Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XLTM vào XLAM trong C++" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XLTM thành XLAM trong C++.
+Ví dụ sau đây minh họa cách chuyển đổi XLTM thành XLAM trong C++.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XLTM thành XLAM. Tải tệp XLTM của bạn lên, sau đó chỉ cần lưu tệp thành XLAM. Đối với cả XLTM đọc và XLAM viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLAM đầu ra sẽ giống với tài liệu gốc XLTM.
+Hãy làm theo các bước đơn giản để chuyển đổi XLTM thành XLAM. Tải lên tệp XLTM của bạn, sau đó chỉ cần lưu nó dưới dạng tệp XLAM. Đối với cả việc đọc XLTM và ghi XLAM, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng XLAM đầu ra sẽ giống hệt với tài liệu XLTM gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLTM thành XLAM trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlam" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XLTM thành XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlam" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLTM thành XLAM qua C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XLTM thành XLAM theo chương trình? C++ nhà phát triển có thể dễ dàng chuyển đổi XLTM thành XLAM chỉ bằng một vài dòng mã.
+Cần chuyển đổi tập tin XLTM thành XLAM theo chương trình? Các nhà phát triển C++ có thể dễ dàng chuyển đổi XLTM thành XLAM chỉ bằng vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for C++'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án C++ của bạn.
-1.  Tải tệp XLTM bằng Factory::CreatIWorkbook.
+1.  Tải tệp XLTM bằng Workbook.
 1.  Chuyển đổi XLTM thành XLAM bằng cách gọi phương thức Save().
-1.  Lấy kết quả chuyển đổi từ XLTM thành XLAM.
+1.  Nhận kết quả chuyển đổi từ XLTM thành XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ thư viện để chuyển đổi XLTM thành XLAM" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện C++ chuyển đổi XLTM thành XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Cài đặt một[Gói NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Cài đặt thư viện bằng Thư mục Bao gồm và lib. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Cài đặt Aspose.Cells for C++ trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -77,15 +77,15 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
-- Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+- Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+- Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Phần mở rộng tệp XLTM đại diện cho các tệp được tạo bởi Microsoft Excel dưới dạng tệp mẫu hỗ trợ Macro. Các tệp XLTM tương tự như XLTX về cấu trúc chỉ khác là phần sau không hỗ trợ tạo tệp mẫu bằng macro. Các tệp mẫu như vậy được sử dụng để tạo và đặt bố cục, định dạng và các cài đặt khác cùng với macro để tạo điều kiện thuận lợi cho việc tạo các tệp XLSX tương tự sau đó.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM là tệp Bổ trợ đã bật Macro được sử dụng để thêm các chức năng mới vào bảng tính. Phần bổ trợ là một chương trình bổ sung chạy mã bổ sung và cung cấp chức năng bổ sung cho bảng tính. Các tệp XLAM được lưu trữ với phần mở rộng .xlam. Các tệp XLAM là các tệp dựa trên XML tương tự như các định dạng tệp XLSM và XLSX và được lưu dưới dạng nén ZIP để giảm kích thước tệp tổng thể.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Phần mở rộng tệp XLTM đại diện cho các tệp được tạo bởi Microsoft Excel dưới dạng tệp mẫu hỗ trợ Macro. Các tệp XLTM tương tự như XLTX về cấu trúc, ngoại trừ việc sau này không hỗ trợ tạo tệp mẫu bằng macro. Các tệp mẫu như vậy được sử dụng để tạo và thiết lập bố cục, định dạng và các cài đặt khác cùng với các macro để tạo điều kiện thuận lợi cho việc tạo các tệp XLSX tương tự sau đó.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM là tệp Bổ trợ Kích hoạt Macro được sử dụng để thêm các chức năng mới vào bảng tính. Phần bổ trợ là một chương trình bổ sung chạy mã bổ sung và cung cấp chức năng bổ sung cho bảng tính. Các tệp XLAM được lưu trữ với phần mở rộng .xlam. Tệp XLAM là các tệp dựa trên XML tương tự như định dạng tệp XLSM và XLSX và được lưu bằng nén ZIP để giảm kích thước tệp tổng thể.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -95,14 +95,13 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-emf/" name="XLTM ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-gif/" name="XLTM ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-html/" name="XLTM ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-md/" name="XLTM ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-md/" name="XLTM ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-mhtml/" name="XLTM ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-ods/" name="XLTM ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-pdf/" name="XLTM ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-png/" name="XLTM ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-svg/" name="XLTM ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tiff/" name="XLTM ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-txt/" name="XLTM ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xls/" name="XLTM ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlsb/" name="XLTM ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
@@ -110,9 +109,9 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlsx/" name="XLTM ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlt/" name="XLTM ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xltx/" name="XLTM ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xltx/" name="XLTM ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xml/" name="XLTM ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xps/" name="XLTM ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xps/" name="XLTM ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-json/" name="XLTM ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-jpeg/" name="XLTM ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

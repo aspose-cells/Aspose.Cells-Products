@@ -1,7 +1,7 @@
 ---
-title: Python MHT sang TABDELIMITED - Bộ chuyển đổi MHT sang TABDELIMITED trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi MHT sang định dạng lưu TABDELIMITED. Python MHT sang định dạng TABDELIMITED. Lưu MHT vào TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to TABDELIMITED saveformat., Free Online MHT to TABDELIMITED Python., Python Convert MHT to TABDELIMITED]
+title: Python MHT sang TABDELIMITED - Công cụ chuyển đổi MHT sang TABDELIMITED
+description: Aspose Excel. Chuyển đổi MHT sang TABDELIMITED nhanh chóng và dễ dàng với Aspose.Cells. Python MHT sang TABDELIMITED. Python Lưu MHT vào TABDELIMITED. Lưu MHT dưới dạng TABDELIMITED bằng cách sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to TABDELIMITED in Python., Save MHT to TABDELIMITED using Python., Python MHT to TABDELIMITED saveformat., MHT to TABDELIMITED Converter., Python Save MHT as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi MHT sang TABDELIMITED trong Python" h2="Thư viện Python tốc độ cao để chuyển đổi MHT sang TABDELIMITED. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất MHT, TABDELIMITED và nhiều định dạng khác bằng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,40 +12,40 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi MHT sang TABDELIMITED bằng Python" %}}
 
- Làm cách nào để chuyển đổi MHT sang TABDELIMITED? Với thư viện Aspose.Cells for Python, bạn có thể dễ dàng chuyển đổi MHT sang TABDELIMITED theo chương trình với một vài dòng mã.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi MHT sang TABDELIMITED? Với thư viện Aspose.Cells for Python, bạn có thể dễ dàng chuyển đổi MHT sang TABDELIMITED theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu MHT vào TABDELIMITED bằng Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu MHT vào TABDELIMITED trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi MHT thành TABDELIMITED trong Python.
+Ví dụ sau đây minh họa cách chuyển đổi MHT thành TABDELIMITED trong Python.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi MHT sang TABDELIMITED. Tải lên tệp MHT của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp TABDELIMITED. Đối với cả đọc MHT và viết TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống với tài liệu MHT gốc.
+Hãy làm theo các bước đơn giản để chuyển đổi MHT sang TABDELIMITED. Tải lên tệp MHT của bạn, sau đó chỉ cần lưu nó dưới dạng tệp TABDELIMITED. Đối với cả việc đọc MHT và ghi TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống hệt với tài liệu MHT gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi MHT sang TABDELIMITED trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi MHT sang TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi MHT sang TABDELIMITED qua Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tệp MHT sang TABDELIMITED theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi MHT sang TABDELIMITED chỉ bằng một vài dòng mã.
+Cần chuyển đổi tệp MHT thành TABDELIMITED theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi MHT sang TABDELIMITED chỉ trong vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp MHT với phiên bản Sổ làm việc.
-1.  Chuyển MHT sang TABDELIMITED bằng cách gọi phương thức Workbook.save.
+1.  Tải tệp MHT với một phiên bản của Workbook.
+1.  Chuyển đổi MHT thành TABDELIMITED bằng cách gọi phương thức Workbook.save.
 1.  Nhận kết quả chuyển đổi từ MHT sang TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển MHT sang TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển MHT sang TABDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -53,7 +53,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for Python via Java" vào h�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Lh Aspose.Cells for Python via Java trong Windows. Xem[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Cài đặt Aspose.Cells for Python via Java vào Windows. Xem[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#windows)
 1.  Cài đặt Aspose.Cells for Python via Java trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#linux)
 1.  Cài đặt Aspose.Cells for Python via Java trong macOS. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
@@ -63,47 +63,47 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for Python via Java" vào h�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux và MacOS), chỉ cần đảm bảo hệ thống đó có Java 1.8 trở lên,[Python](https://www.python.org/downloads/) 3.5 trở lên.
+ Aspose.Cells for Python via Java độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux và MacOS), chỉ cần đảm bảo rằng hệ thống có Java 1.8 trở lên,[Python](https://www.python.org/downloads/) 3,5 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Cài đặt Java và thêm nó vào biến môi trường PATH, ví dụ:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells</code>.
+-  Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Tệp có phần mở rộng .mht là định dạng tệp lưu trữ hỗ trợ MIME chứa các loại dữ liệu khác nhau trong một tệp. Nó có thể lưu trữ dữ liệu như văn bản, hình ảnh, kiểu trang dưới dạng tệp CSS, JavaScript và các tài nguyên khác dưới dạng tài nguyên được nhúng trong đó. Các tệp MHT, có loại tin nhắn MIME/rfc822, gói gọn tất cả nội dung của tệp HTML dưới dạng một tệp lưu trữ duy nhất để lưu trữ khi lưu trữ trên thiết bị lưu trữ. Các ứng dụng phần mềm chẳng hạn như Microsoft Word cho phép bạn chuyển đổi tài liệu WORD sang MHT bằng cách xuất dưới dạng tệp MHT. Các tệp MHT có thể được mở bằng các trình duyệt phổ biến như Microsoft Internet Explore và Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Tệp có phần mở rộng .mht là định dạng tệp lưu trữ hỗ trợ MIME chứa các loại dữ liệu khác nhau vào một tệp duy nhất. Nó có thể lưu trữ dữ liệu như văn bản, hình ảnh, kiểu dáng trang dưới dạng tệp CSS, JavaScript và các tài nguyên khác dưới dạng tài nguyên được nhúng trong đó. Các tệp MHT, có thông báo loại MIME/rfc822, đóng gói tất cả nội dung của tệp HTML dưới dạng một tệp lưu trữ duy nhất để lưu trữ trên thiết bị lưu trữ. Các ứng dụng phần mềm như Microsoft Word cho phép bạn chuyển đổi tài liệu WORD của mình sang MHT bằng cách xuất dưới dạng tệp MHT. Tệp MHT có thể được mở bằng các trình duyệt phổ biến như Microsoft Internet Explore và Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Định dạng tệp Giá trị được phân tách bằng tab (TSV) biểu thị dữ liệu được phân tách bằng các tab ở định dạng văn bản thuần túy. Định dạng tệp, tương tự như CSV, được sử dụng để tổ chức dữ liệu theo cách có cấu trúc nhằm nhập và xuất giữa các ứng dụng khác nhau. Định dạng này chủ yếu được sử dụng để nhập/xuất và trao đổi dữ liệu trong các ứng dụng và cơ sở dữ liệu Bảng tính. Mỗi bản ghi trong tệp TSV được chứa trong một dòng tệp văn bản trong đó mỗi giá trị trường được phân tách bằng ký tự tab. Loại phương tiện cho định dạng tệp TSV là văn bản/giá trị được phân tách bằng tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi MHT sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-bmp/" name="MHT ĐẾN BMP" description="Hình ảnh bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-gif/" name="MHT ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT ĐẾN MD" description="ngôn ngữ đánh dấu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-pdf/" name="MHT ĐẾN PDF" description="Định dạng tài liệu di động" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-png/" name="MHT ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-svg/" name="MHT ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tsv/" name="MHT ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-txt/" name="MHT ĐẾN TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xls/" name="MHT ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsb/" name="MHT ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsm/" name="MHT ĐẾN XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsx/" name="MHT ĐẾN XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlt/" name="MHT ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-bmp/" name="MHT GỬI BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT GỬI EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-gif/" name="MHT GỬI GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT GỬI HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT GỬI MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT GỬI ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-pdf/" name="MHT GỬI PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-png/" name="MHT GỬI PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-svg/" name="MHT GỬI SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT GỬI TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tsv/" name="MHT GỬI TSV" description="Giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-txt/" name="MHT GỬI TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xls/" name="MHT GỬI XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsb/" name="MHT GỬI XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsm/" name="MHT GỬI XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsx/" name="MHT GỬI XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlt/" name="MHT GỬI XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT GỬI XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT GỬI XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT SANG XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xps/" name="MHT ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-json/" name="MHT ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xps/" name="MHT GỬI XPS" description="Thông số kỹ thuật của giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-json/" name="MHT GỬI JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

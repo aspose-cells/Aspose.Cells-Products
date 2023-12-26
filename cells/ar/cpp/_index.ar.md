@@ -1,10 +1,11 @@
 ---
-title:  C++ برمجة جداول بيانات Excel API-Aspose
+title: C++ برمجة جداول البيانات إكسل API - Aspose
 weight: 7140
-description: مكتبة Excel C++ لقراءة ملفات الكتابة والتحليل بما في ذلك تنسيقات XLS و XLSX و XLSM و XLSB. قم بتحويل جداول البيانات إلى تنسيقات PDF و CSV والمزيد
+description: Aspose.Cells for C++ مكتبة لإنشاء وإصلاح ودمج وتحليل وتحويل ملفات الاكسل. تحويل Excel إلى PDF، JSON، XML، TSV وهكذا.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ جداول بيانات Excel APIs" h2="إنشاء جداول البيانات وقراءتها وكتابتها وتحليلها بدون أي تبعيات Microsoft Excel ضمن تطبيقات C++ كاملة الوظائف." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ واجهات برمجة تطبيقات جداول بيانات Excel" h2="قم بإنشاء جداول البيانات وقراءتها وكتابتها وتحليلها دون أي تبعيات Microsoft Excel ضمن تطبيقات C++ كاملة الوظائف." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +13,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ هو تطبيق أصلي C++ API لمعالجة جداول البيانات. يمكن للتطبيقات أداء وظائف مثل إنشاء وتحويل وتحرير الخصائص المضمنة والمخصصة لجداول البيانات والسمات والأنماط والتنسيق والتحقق من صحة البيانات والتنسيق الشرطي والقراءة والكتابة وحساب الصيغ وتجميع الصفوف والأعمدة وغير ذلك الكثير دون الاعتماد على أتمتة المكاتب أو Microsoft إكسل. يدعم API تنسيقات جداول البيانات الأكثر استخدامًا مثل XLS و XLSX و XLSM و XLSB.
+ Aspose.Cells for C++ أصلي C++ API لمعالجة جداول البيانات. يمكن للتطبيقات تنفيذ وظائف مثل إنشاء وتحويل وتحرير الخصائص المضمنة والمخصصة لجداول البيانات، والسمات، والأنماط والتنسيق، والتحقق من صحة البيانات، والتنسيق الشرطي، وقراءة الصيغ وكتابتها وحسابها، وتجميع الصفوف والأعمدة وغير ذلك الكثير دون الاعتماد على أتمتة Office أو Microsoft اكسل. يدعم API تنسيقات جداول البيانات الأكثر استخدامًا مثل XLS وXLSX وXLSM وXLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +21,14 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على API." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="لمحة عامة عن API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-retweet">
     </i>
- تنسيق التحويل
+ تحويل التنسيق
    </header>
    <br/>
    <header>
@@ -40,13 +41,13 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
  جدول محوري
     </li>
     <li>
- الجداول
+الجداول
     </li>
     <li>
  الرسوم البيانية
     </li>
     <li>
-حساب الصيغ
+ حساب الصيغ
     </li>
     <li>
  تأكيد صحة البيانات
@@ -65,7 +66,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
    </header>
    <ul>
     <li>
- تحميل / حفظ جداول البيانات
+ تحميل/حفظ جداول البيانات
     </li>
     <li>
  معالجة البيانات
@@ -77,10 +78,10 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
  خصائص مخصصة
     </li>
     <li>
- ثيمات
+ المواضيع
     </li>
     <li>
- الأنماط وأمبير. تنسيق
+ الأنماط &amp; التنسيق
     </li>
     <li>
  الارتباطات التشعبية
@@ -95,7 +96,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
  القراءة والكتابة الصيغ
     </li>
     <li>
- تجميع الصفوف وأمبير. الأعمدة
+ تجميع الصفوف &amp; أعمدة
     </li>
    </ul>
   </div>
@@ -121,7 +122,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description=" API يدعم بشكل كامل تطبيقات C++ على الأنظمة الأساسية التالية مع[متطلبات النظام](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description=" API يدعم بشكل كامل تطبيقات C++ على المنصات التالية مع[متطلبات النظام](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -167,21 +168,21 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for C++ يدعم جدول البيانات الأكثر استخدامًا[تنسيقات الملفات](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for C++ يدعم جداول البيانات الأكثر استخدامًا[تنسيقات الملفات](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
- الإدخال / الإخراج
+ الإدخال/الإخراج
    </header>
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
- XLS ، XLSX ، XLSB ، XLT ، XLTX ، XLTM ، XLSM ، XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
@@ -213,13 +214,13 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
    <ul>
     <li>
      <b>
- إكسل:
+ اكسل:
      </b>
      XLSM, XLTX, XLTM, XLAM
     </li>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
      PDF, XPS
     </li>
@@ -227,7 +228,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
      <b>
  الصور:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -263,7 +264,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- المتقدم C++ جدول بيانات API الميزات
+ مميزات جدول البيانات المتقدم C++ API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -274,49 +275,49 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تحميل وأمبير. حفظ ملفات Excel باستخدام التدفقات
+تحميل وأمبير. حفظ ملفات Excel باستخدام التدفقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ التلاعب بالمخططات
+ إنشاء &amp; التلاعب بالرسوم البيانية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تعيين التحقق من صحة البيانات لتقييد الإدخال
+ قم بتعيين التحقق من صحة البيانات لتقييد الإدخال
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تنظيم البيانات عن طريق تجميع الصفوف & أمبير ؛ الأعمدة
+ تنظيم البيانات عن طريق تجميع الصفوف &amp; أعمدة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- التلاعب المدمج في & أمبير ؛ خصائص مخصصة
+ التعامل مع المدمج في &amp; خصائص مخصصة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة & amp؛ التلاعب بالارتباطات التشعبية
+ إضافة &amp; التعامل مع الارتباطات التشعبية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة الجداول المحورية
+ إنشاء &amp; التعامل مع الجداول المحورية
     </p>
    </div>
    <div class="col-lg-4">
@@ -330,35 +331,35 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء الجداول وأمبير. قائمة الكائنات
+ إنشاء الجداول & amp؛ كائنات القائمة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- معالجة الكائنات الرسومية
+ التعامل مع الكائنات الرسومية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تطبيق الأنماط والتنسيق على الخلايا أو الصفوف أو الأعمدة أو النطاقات
+ تطبيق الأنماط والتنسيقات على الخلايا أو الصفوف أو الأعمدة أو النطاقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تتبع السوابق وأمبير. المعالون
+ تتبع السوابق &amp; المعالين
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- اقرأ واكتب وأمبير. حساب الصيغ المعقدة
+ القراءة والكتابة &amp; حساب الصيغ المعقدة
     </p>
    </div>
    <div class="col-lg-4">
@@ -379,7 +380,7 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء وتنفيذ وظائف محددة من قبل المستخدم
+ إنشاء وتنفيذ الوظائف المحددة من قبل المستخدم
     </p>
    </div>
    <div class="col-lg-4">
@@ -393,47 +394,47 @@ description: مكتبة Excel C++ لقراءة ملفات الكتابة وال�
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تحويل المخطط إلى تنسيق صورة
+ تحويل الرسم البياني إلى تنسيق الصورة
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- التبعية الصفرية على Microsoft Excel
+ اعتماد صفر على Microsoft إكسل
     </h2>
     <p>
-تعتبر واجهات برمجة التطبيقات Aspose مستقلة تمامًا وليست تابعة لشركة Microsoft Corporation أو غير مصرح بها أو مدعومة أو معتمدة بأي شكل آخر. Aspose.Cells for C++ لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel.
+تعتبر واجهات برمجة التطبيقات Aspose مستقلة تمامًا وليست تابعة لشركة Microsoft أو غير مصرح بها أو ترعاها أو معتمدة بأي شكل آخر. Aspose.Cells for C++ لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- بسيط وأمبير. تحويل موثوق لتنسيقات Excel
+ بسيطة وأمبير. تحويل موثوق لتنسيقات Excel
     </h2>
     <p>
- Aspose.Cells for C++ هي مجموعة قوية من واجهات برمجة التطبيقات التي توفر القدرة على تحميل وتحرير وكتابة وتحويل تنسيقات ملفات Excel دون القلق بشأن التفاصيل الخاصة بالتنسيق. يسمح لك API بتحويل جداول البيانات من أي تنسيق مدعوم إلى أي تنسيق مدعوم آخر بسطرين فقط من التعليمات البرمجية. الأمر بهذه البساطة!
+ Aspose.Cells for C++ عبارة عن مجموعة قوية من واجهات برمجة التطبيقات التي توفر القدرة على تحميل تنسيقات ملفات Excel وتحريرها وكتابتها وتحويلها دون القلق بشأن التفاصيل الخاصة بالتنسيق. يتيح لك API تحويل جداول البيانات من أي تنسيق مدعوم إلى أي تنسيق آخر مدعوم باستخدام سطرين فقط من التعليمات البرمجية. الأمر بهذه البساطة!
     </p>
     <div class="codeblock" id="code">
      <h3>
- تحويل ملفات Excel بصيغ متعددة - C++
+ تحويل ملفات Excel بتنسيقات متعددة - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تنسيق جدول البيانات الشامل
+ التنسيق الشامل لجداول البيانات
     </h2>
     <p>
-يمنحك Aspose.Cells for C++ تحكمًا كاملاً في كيفية عرض البيانات الخاصة بك في ورقة العمل ، من خلال تقديم ميزات تنسيق متقدمة. يمكنك تطبيق التنسيق على صف أو عمود أو خلية فردية أو يمكنك إنشاء نطاق من الخلايا وتطبيق التنسيق عليها. يمكنك أيضًا إضافة نص منسق إلى خلية أو تطبيق حدود أو تعيين أنماط الخلفية أو تعديل جوانب التصميم المتعلقة بالخط.
+Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة التي تريد بها عرض بياناتك في ورقة العمل، من خلال تقديم ميزات التنسيق المتقدمة. يمكنك تطبيق التنسيق على صف أو عمود أو خلية فردية، أو يمكنك إنشاء نطاق من الخلايا وتطبيق التنسيق عليها. يمكنك أيضًا إضافة نص منسق إلى خلية، أو تطبيق الحدود، أو تعيين أنماط الخلفية، أو تعديل جوانب التصميم المتعلقة بالخط.
     </p>
    </div>
    <div class="col-lg-12">
@@ -441,7 +442,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  تصور البيانات مع الرسوم البيانية
     </h2>
     <p>
- يقدم Aspose.Cells for C++ مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء جميع أنواع المخططات القياسية والمخصصة التي يدعمها تطبيق Excel بشكل ديناميكي. يوفر API أيضًا القدرة على تحديث مصدر البيانات لمخطط موجود وتحديثه.
+ Aspose.Cells for C++ يقدم مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء كافة أنواع المخططات القياسية والمخصصة التي يدعمها تطبيق Excel بشكل ديناميكي. يوفر API أيضًا القدرة على تحديث مصدر البيانات لمخطط موجود وتحديثه.
     </p>
    </div>
    <div class="col-lg-12">
@@ -449,23 +450,23 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  تقديم أوراق العمل كصور
     </h2>
     <p>
-تقدم المكتبة بأعلى دقة إلى Microsoft Excel باستخدام محرك التقديم الخاص بها. يوفر ميزات مميزة مثل تقديم أوراق العمل إلى الصور بتنسيقات شائعة بما في ذلك BMP و TIFF و PNG و JPEG & amp؛ EMF. عملية Sheet2Image مرنة مما يسمح بتحديد خيارات مثل التحكم في دقة وضوح الصورة الناتجة.
+تعرض المكتبة بأعلى دقة إلى Microsoft Excel باستخدام محرك العرض الخاص بها. يوفر ميزات مميزة مثل عرض أوراق العمل على الصور بالتنسيقات الشائعة بما في ذلك BMP وPNG وJPEG &amp; EMF. تتميز عملية Sheet2Image بالمرونة مما يسمح بتحديد خيارات مثل التحكم في دقة الصورة الناتجة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- معالجة الأعمدة والصفوف
+ التعامل مع الأعمدة والصفوف
     </h2>
     <p>
- يقدم Aspose.Cells for C++ معالجة للصفوف والأعمدة بطرق متعددة. يعد ضبط ارتفاع الصف وعرض العمود أو تغيير حجم الخلية تلقائيًا وفقًا للمحتويات الموجودة فيه أمرًا سهلاً للغاية. يوفر API أيضًا وسائل للحذف والإدراج أو الإخفاء أو العرض بالإضافة إلى تجميع الصفوف والأعمدة أو إلغاء تجميعها.
+ Aspose.Cells for C++ يقدم معالجة الصفوف والأعمدة بطرق متعددة. يعد ضبط ارتفاع الصف وعرض العمود أو تغيير حجم أبعاد الخلية تلقائيًا وفقًا للمحتويات الموجودة فيها أمرًا سهلاً للغاية. يوفر API أيضًا وسيلة للحذف والإدراج والإخفاء والإظهار بالإضافة إلى تجميع الصفوف والأعمدة أو إلغاء التجميع.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- قم بتحويل جداول البيانات بدقة إلى PDF
+ تحويل جداول البيانات بدقة إلى PDF
     </h2>
     <p>
-توفر مكتبة Excel C++ القدرة على تحويل جداول البيانات إلى تنسيق PDF مع الاحتفاظ بنفس جودة المستند الأصلي. هذه الحقيقة تجعل Aspose.Cells for C++ اختيارًا مثاليًا للمؤسسات التي تتطلب تبادل المستندات بتنسيقات قياسية صناعية مثل PDF.
+توفر مكتبة Excel C++ القدرة على تحويل جداول البيانات إلى تنسيق PDF مع الاحتفاظ بنفس جودة المستند الأصلي. هذه الحقيقة تجعل Aspose.Cells for C++ خيارًا مثاليًا للمؤسسات التي تحتاج إلى تبادل المستندات بتنسيقات متوافقة مع معايير الصناعة مثل PDF.
     </p>
    </div>
    <!-- 
@@ -502,26 +503,26 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/cpp/cells" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for C++؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

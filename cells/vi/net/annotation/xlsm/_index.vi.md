@@ -1,7 +1,8 @@
 ---
-title:  Xóa XLSM Ghi chú via .NET
+title:  Thêm hoặc xóa XLSM Chú thích via .NET
 weight: 9890
-description: C# để thêm và xóa các chú thích định dạng XLSM trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+description: Mã nguồn C# để thêm và xóa chú thích định dạng XLSM trên .NET Framework, .NET Core, Mono hoặc Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Thêm hoặc xóa chú thích từ XLSM qua C#" h2="Xây dựng ứng dụng .NET của riêng bạn để thao tác nhận xét và tác giả trong tệp tài liệu bằng API phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: C# để thêm và xóa các chú thích định dạng XLSM trên 
 
  Để chú thích tệp XLSM, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở
+ API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  **Aspose.Cells** 
@@ -43,10 +44,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load file XLSM bằng cách tạo instance của Workbook
-+ Thêm Comment vào Worksheet trong a Cell
-+ Gọi RemoveAt với Id Cell để gỡ bỏ nó
-+ Lưu workbook trước & sau khi gọi phương thức RemoveAt để so sánh
++ Load file XLSM bằng cách tạo một instance của Workbook
++ Thêm Comment vào Worksheet theo số Cell
++ Gọi RemoveAt với Id Cell để xóa
++ Lưu bảng tính trước & sau khi gọi phương thức RemoveAt để so sánh
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,17 +55,17 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần chắc chắn rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+- Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 -  Môi trường phát triển như Microsoft Visual Studio.
--  Thêm tham chiếu đến Aspose.Cells for .NET DLL trong dự án của bạn.
+-  Thêm tham chiếu đến DLL Aspose.Cells for .NET trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Xóa Chú thích từ XLSM - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Xóa chú thích từ XLSM - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "delete-annotations-from-xlsm.cs" >}}
 
@@ -77,9 +78,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích khỏi XLSM qua Ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu XLSM ngay bây giờ bằng cách truy cập[Trang web Demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích từ XLSM qua ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu XLSM ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLSM của bạn và nhấn nút \"Xóa\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay link tải file kết quả" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Các tệp có phần mở rộng XLSM là một loại tệp Bảng tính có hỗ trợ Macro. Từ quan điểm ứng dụng, Macro là tập hợp các hướng dẫn được sử dụng để tự động hóa các quy trình. Macro được sử dụng để ghi lại các bước được thực hiện lặp lại và tạo điều kiện thực hiện các hành động bằng cách chạy lại macro. Macro được lập trình với Visual Basic for Applications (VBA) của Microsoft từ trong Sổ làm việc Excel bằng Trình chỉnh sửa Visual Basic và có thể chạy/gỡ lỗi trực tiếp từ đó.
+Các tệp có phần mở rộng XLSM là một loại tệp Bảng tính hỗ trợ Macro. Từ quan điểm ứng dụng, Macro là tập hợp các hướng dẫn được sử dụng để tự động hóa các quy trình. Macro được sử dụng để ghi lại các bước được thực hiện lặp đi lặp lại và tạo điều kiện thuận lợi cho việc thực hiện các hành động bằng cách chạy lại macro. Macro được lập trình với Visual Basic for Application (VBA) của Microsoft từ trong Sổ làm việc Excel bằng Trình soạn thảo Visual Basic và có thể chạy/gỡ lỗi trực tiếp từ đó.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

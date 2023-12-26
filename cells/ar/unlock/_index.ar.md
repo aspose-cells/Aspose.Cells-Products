@@ -1,6 +1,7 @@
 ---
-title:  افتح ملفات Excel على Windows و Linux و macOS
-description: تطبيق مجاني وواجهات برمجة تطبيقات لإزالة الحماية من ملفات XLS و XLSX و ODS
+title:  إفتح ملفات Excel على Windows، Linux و macOS
+description: تطبيق مجاني وواجهات برمجة التطبيقات لإزالة الحماية من ملفات XLS وXLSX وODS
+keywords: [Aspose.Cells., unlock Excel files., how to unlock Excel document., unprotect Excel files., remove protection from Excel files., decrypt Excel Files]
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

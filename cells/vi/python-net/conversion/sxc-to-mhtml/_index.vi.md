@@ -1,7 +1,7 @@
 ---
-title: Python SXC thành MHTML - Bộ chuyển đổi SXC thành MHTML trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi SXC thành MHTML định dạng lưu. Python SXC đến MHTML định dạng. Lưu SXC thành MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MHTML saveformat., Free Online SXC to MHTML Python., Python Convert SXC to MHTML]
+title: Python SXC sang MHTML - SXC sang MHTML Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi SXC sang MHTML nhanh chóng và dễ dàng với Aspose.Cells. Python SXC sang MHTML. Python Lưu SXC thành MHTML. Lưu SXC thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to MHTML in Python., Save SXC to MHTML using Python., Python SXC to MHTML saveformat., SXC to MHTML Converter., Python Save SXC as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi SXC thành MHTML thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi SXC thành MHTML. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi SXC thành MHTML thành Python" %}}
 
- Làm cách nào để chuyển đổi SXC thành MHTML? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi SXC thành MHTML bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi SXC thành MHTML? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi SXC thành MHTML theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu SXC thành MHTML trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu SXC vào MHTML trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi SXC thành MHTML thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi SXC thành MHTML trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi SXC thành MHTML. Tải tệp SXC của bạn lên, sau đó chỉ cần lưu tệp thành MHTML. Đối với cả SXC đọc và MHTML viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng MHTML đầu ra sẽ giống với tài liệu gốc SXC.
+Hãy làm theo các bước đơn giản để chuyển đổi SXC thành MHTML. Tải lên tệp SXC của bạn, sau đó chỉ cần lưu nó dưới dạng tệp MHTML. Đối với cả việc đọc SXC và ghi MHTML, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng MHTML đầu ra sẽ giống hệt với tài liệu SXC gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi SXC thành MHTML trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi SXC thành MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi SXC thành MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp SXC thành MHTML theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi SXC thành MHTML chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin SXC thành MHTML theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi SXC thành MHTML chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp SXC với phiên bản Sổ làm việc.
+1.  Tải tệp SXC bằng một phiên bản của Workbook.
 1.  Chuyển đổi SXC thành MHTML bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ SXC thành MHTML.
+1.  Nhận kết quả chuyển đổi từ SXC thành MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi SXC thành MHTML" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi SXC thành MHTML" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Định dạng tệp SXC(Sun XML Calc) thuộc về bộ ứng dụng văn phòng có tên OpenOffice.org. Định dạng này thường giải quyết các nhu cầu về bảng tính của người dùng vì đây là định dạng tệp bảng tính dựa trên XML. SXC hỗ trợ các công thức, hàm, macro và biểu đồ cùng với DataPilot, đây là một tính năng đáng kinh ngạc vì nó tự động cá nhân hóa và cung cấp tóm tắt dữ liệu thô đã nhập. Các tệp được tạo bằng phần mềm này được lưu với phần mở rộng .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Các tệp có phần mở rộng MHTML đại diện cho định dạng lưu trữ trang web có thể được tạo bởi một số ứng dụng khác nhau. Định dạng này được gọi là định dạng lưu trữ vì nó lưu mã web HTML và các tài nguyên liên quan trong một tệp duy nhất. Những tài nguyên này bao gồm mọi thứ được liên kết với trang web, chẳng hạn như hình ảnh, applet, hoạt ảnh, tệp âm thanh, v.v. Các tệp MHTML có thể được mở trong nhiều ứng dụng như Internet Explorer và Microsoft Word. Microsoft Windows sử dụng định dạng tệp MHTML để ghi lại các tình huống phát sinh sự cố quan sát được trong quá trình sử dụng bất kỳ ứng dụng nào trên Windows. Định dạng tệp MHTML mã hóa nội dung trang tương tự như thông số kỹ thuật được xác định trong message/rfc822 là thông số kỹ thuật liên quan đến email văn bản thuần túy.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Định dạng tệp SXC(Sun XML Calc) thuộc về bộ ứng dụng văn phòng có tên OpenOffice.org. Định dạng này thường đáp ứng nhu cầu bảng tính của người dùng vì đây là định dạng tệp bảng tính dựa trên XML. Định dạng SXC hỗ trợ các công thức, hàm, macro và biểu đồ cùng với DataPilot, đây là một tính năng đáng kinh ngạc vì nó tự động cá nhân hóa và cung cấp bản tóm tắt dữ liệu thô được nhập. Các tệp được tạo bằng phần mềm này được lưu với phần mở rộng .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Các tệp có phần mở rộng MHTML đại diện cho định dạng lưu trữ trang web có thể được tạo bởi một số ứng dụng khác nhau. Định dạng này được gọi là định dạng lưu trữ vì nó lưu mã web HTML và các tài nguyên liên quan vào một tệp duy nhất. Những tài nguyên này bao gồm mọi thứ được liên kết đến trang web như hình ảnh, applet, hình động, tệp âm thanh, v.v. Tệp MHTML có thể được mở trong nhiều ứng dụng khác nhau như Internet Explorer và Microsoft Word. Microsoft Windows sử dụng định dạng tệp MHTML để ghi lại các tình huống xảy ra sự cố xảy ra trong quá trình sử dụng bất kỳ ứng dụng nào trên Windows phát sinh sự cố. Định dạng tệp MHTML mã hóa nội dung trang tương tự như thông số kỹ thuật được xác định trong tin nhắn/rfc822 là thông số kỹ thuật liên quan đến email văn bản thuần túy.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,24 +83,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-emf/" name="SXC ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-gif/" name="SXC ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-html/" name="SXC ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-mhtml/" name="SXC ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-ods/" name="SXC ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-pdf/" name="SXC ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-png/" name="SXC ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-svg/" name="SXC ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tiff/" name="SXC ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-txt/" name="SXC ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xls/" name="SXC ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsb/" name="SXC ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsm/" name="SXC ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsx/" name="SXC ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlt/" name="SXC ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltx/" name="SXC ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltx/" name="SXC ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xml/" name="SXC ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

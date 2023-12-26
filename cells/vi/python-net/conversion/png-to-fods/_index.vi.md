@@ -1,7 +1,7 @@
 ---
-title: Python PNG thành FODS - Bộ chuyển đổi PNG thành FODS trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi PNG thành FODS định dạng lưu. Python PNG đến FODS định dạng. Lưu PNG thành FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to FODS saveformat., Free Online PNG to FODS Python., Python Convert PNG to FODS]
+title: Python PNG sang FODS - PNG sang FODS Bộ chuyển đổi
+description: Aspose Excel. Chuyển đổi PNG sang FODS nhanh chóng và dễ dàng với Aspose.Cells. Python PNG sang FODS. Python Lưu PNG thành FODS. Lưu PNG thành 07611134 81 sử dụng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PNG to FODS in Python., Save PNG to FODS using Python., Python PNG to FODS saveformat., PNG to FODS Converter., Python Save PNG as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi PNG thành FODS thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi PNG thành FODS. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi PNG thành FODS thành Python" %}}
 
- Làm cách nào để chuyển đổi PNG thành FODS? Với thư viện Aspose.Cells for Python qua NET, bạn có thể dễ dàng chuyển đổi PNG thành FODS bằng lập trình với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi PNG thành FODS? Với Aspose.Cells for Python qua thư viện NET, bạn có thể dễ dàng chuyển đổi PNG thành FODS theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python qua NET](https://pypi.org/project/aspose-cells-python/)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Lưu PNG thành FODS trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu PNG vào FODS trong Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi PNG thành FODS thành Python via NET.
+Ví dụ sau đây minh họa cách chuyển đổi PNG thành FODS trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi PNG thành FODS. Tải tệp PNG của bạn lên, sau đó chỉ cần lưu tệp thành FODS. Đối với cả PNG đọc và FODS viết, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng FODS đầu ra sẽ giống với tài liệu gốc PNG.
+Hãy làm theo các bước đơn giản để chuyển đổi PNG thành FODS. Tải lên tệp PNG của bạn, sau đó chỉ cần lưu nó dưới dạng tệp FODS. Đối với cả việc đọc PNG và ghi FODS, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng FODS đầu ra sẽ giống hệt với tài liệu PNG gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi PNG thành FODS trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi PNG thành FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi PNG thành FODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp PNG thành FODS theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi PNG thành FODS chỉ trong một vài dòng mã.
+Cần chuyển đổi tập tin PNG thành FODS theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi PNG thành FODS chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp PNG với phiên bản Sổ làm việc.
+1.  Tải tệp PNG bằng một phiên bản của Workbook.
 1.  Chuyển đổi PNG thành FODS bằng cách gọi phương thức Workbook.save.
-1.  Lấy kết quả chuyển đổi từ PNG thành FODS.
+1.  Nhận kết quả chuyển đổi từ PNG thành FODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển đổi PNG thành FODS" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python chuyển đổi PNG thành FODS" %}}
 
-Chúng tôi lưu trữ các gói Python trong kho lưu trữ PyPi.
+Chúng tôi lưu trữ các gói Python của mình trong kho PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -64,7 +64,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là số API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống đó có[Python](https://www.python.org/downloads/) 3,7 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,8 +72,8 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Tệp PNG (Đồ họa mạng di động) là định dạng tệp hình ảnh raster sử dụng nén không mất dữ liệu. Định dạng tệp này được tạo để thay thế Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. PNG hỗ trợ nén hình ảnh không mất dữ liệu khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển thành một trong những định dạng tệp hình ảnh được sử dụng rộng rãi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở các tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác bằng Microsoft. Các tệp FODS có thể được lưu dưới dạng ODS bằng LibreOffice và có thể được chuyển đổi sang các định dạng khác, chẳng hạn như XLS và XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Tệp PNG (Đồ họa mạng di động) là định dạng tệp hình ảnh raster sử dụng tính năng nén không mất dữ liệu. Định dạng tệp này được tạo để thay thế Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng file PNG không hỗ trợ ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh không mất dữ liệu khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển thành một trong những định dạng tệp hình ảnh được sử dụng rộng rãi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Tệp có phần mở rộng .fods là một loại định dạng tài liệu Bảng tính OpenDocument lưu trữ dữ liệu theo hàng và cột. Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Không thể mở tệp FODS bằng Excel, một ứng dụng phần mềm Bảng tính khác bằng Microsoft. Tệp FODS có thể được lưu dưới dạng ODS bằng LibreOffice và có thể chuyển đổi sang các định dạng khác như XLS và XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,24 +83,24 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-emf/" name="PNG ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-gif/" name="PNG ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-html/" name="PNG ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-md/" name="PNG ĐẾN MĐ" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-md/" name="PNG ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-mhtml/" name="PNG ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-ods/" name="PNG ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-pdf/" name="PNG ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-svg/" name="PNG ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-tiff/" name="PNG ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-tsv/" name="PNG ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-tsv/" name="PNG ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-txt/" name="PNG ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xls/" name="PNG ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xlsb/" name="PNG ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xlsm/" name="PNG ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xlsx/" name="PNG ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xlt/" name="PNG ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltm/" name="PNG ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltx/" name="PNG ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltm/" name="PNG ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltx/" name="PNG ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xml/" name="PNG ĐẾN XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xps/" name="PNG ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xps/" name="PNG ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-json/" name="PNG ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

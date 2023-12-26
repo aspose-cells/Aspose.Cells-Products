@@ -1,7 +1,8 @@
 ---
-title:  Xóa ODS Ghi chú via .NET
+title:  Thêm hoặc xóa ODS Chú thích via .NET
 weight: 7990
-description: C# để thêm và xóa các chú thích định dạng ODS trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+description: Mã nguồn C# để thêm và xóa chú thích định dạng ODS trên .NET Framework, .NET Core, Mono hoặc Xamarin Platforms.
+keywords: [C# Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Thêm hoặc xóa chú thích từ ODS qua C#" h2="Xây dựng ứng dụng .NET của riêng bạn để thao tác nhận xét và tác giả trong tệp tài liệu bằng API phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: C# để thêm và xóa các chú thích định dạng ODS trên .
 
  Để chú thích tệp ODS, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở
+ API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  **Aspose.Cells** 
@@ -43,10 +44,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load file ODS bằng cách tạo instance của Workbook
-+ Thêm Comment vào Worksheet trong a Cell
-+ Gọi RemoveAt với Id Cell để gỡ bỏ nó
-+ Lưu workbook trước & sau khi gọi phương thức RemoveAt để so sánh
++ Load file ODS bằng cách tạo một instance của Workbook
++ Thêm Comment vào Worksheet theo số Cell
++ Gọi RemoveAt với Id Cell để xóa
++ Lưu bảng tính trước & sau khi gọi phương thức RemoveAt để so sánh
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,17 +55,17 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần chắc chắn rằng bạn có các điều kiện tiên quyết sau đây.
+ Aspose.Cells for .NET được hỗ trợ trên tất cả các hệ điều hành chính. Chỉ cần đảm bảo rằng bạn có các điều kiện tiên quyết sau đây.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+- Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 -  Môi trường phát triển như Microsoft Visual Studio.
--  Thêm tham chiếu đến Aspose.Cells for .NET DLL trong dự án của bạn.
+-  Thêm tham chiếu đến DLL Aspose.Cells for .NET trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Xóa Chú thích từ ODS - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Xóa chú thích từ ODS - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "delete-annotations-from-ods.cs" >}}
 
@@ -77,9 +78,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Về Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Giới thiệu Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+ Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích khỏi ODS qua Ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu ODS ngay bây giờ bằng cách truy cập[Trang web Demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hoặc thiết lập bất cứ điều gì" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Xóa chú thích từ ODS qua ứng dụng trực tuyến" sectionDescription=" Xóa chú thích tài liệu ODS ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/annotation). Bản demo trực tiếp có những lợi ích sau" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS của bạn và nhấn nút \"Xóa\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay link tải file kết quả" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành các hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở các tệp ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi thành các định dạng bảng tính khác như XLS, XLSX và các tệp khác bằng các ứng dụng khác nhau.
+Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

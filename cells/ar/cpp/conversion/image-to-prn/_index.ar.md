@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE to PRN - محول IMAGE إلى PRN عبر الإنترنت
-description: Aspose إكسل. C++ Aspose.Cells. C++ Aspose Cells. مجاني على الإنترنت C++ تحويل IMAGE إلى PRN saveformat. C++ IMAGE إلى تنسيق PRN. احفظ الصورة في PRN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to PRN saveformat., Free Online IMAGE to PRN C++., C++ Convert IMAGE to PRN]
+title: C++ IMAGE إلى PRN - تحويل IMAGE إلى PRN
+description: Aspose اكسل. قم بتحويل IMAGE إلى PRN بسرعة وسهولة باستخدام Aspose.Cells. C++ IMAGE إلى PRN. C++ حفظ الصورة في PRN. احفظ الصورة كـ PRN باستخدام C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to PRN in C++., Save IMAGE to PRN using C++., C++ IMAGE to PRN saveformat., IMAGE to PRN Converter., C++ Save IMAGE as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل IMAGE إلى PRN في C++" h2="تحويل IMAGE إلى PRN عالي الأداء باستخدام مكتبة C++ دون الحاجة إلى تثبيت Microsoft Excel أو OpenOffice أو Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to PRN
 
 {{% blocks/products/pf/agp/content h2="تحويل IMAGE إلى PRN باستخدام C++" %}}
 
- كيف يمكنني تحويل IMAGE إلى PRN؟ باستخدام مكتبة Aspose.Cells for C++ ، يمكنك بسهولة تحويل IMAGE إلى PRN برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة ، فقط افتح[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم ، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بتحويل IMAGE إلى PRN؟ مع مكتبة Aspose.Cells for C++، يمكنك بسهولة تحويل IMAGE إلى PRN برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -26,44 +26,44 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ IMAGE في PRN في C++ عبر الإنترنت مجانًا" %}}
+{{% blocks/products/pf/agp/content h2="احفظ الصورة في PRN على الرقم C++" %}}
 
 يوضح المثال التالي كيفية تحويل IMAGE إلى PRN في C++.
 {{% blocks/products/pf/agp/text %}}
 
-اتبع الخطوات السهلة لتحويل IMAGE إلى PRN. قم بتحميل ملف IMAGE الخاص بك ، ثم احفظه ببساطة كملف PRN. لكل من قراءة IMAGE وكتابة PRN ، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق PRN الناتج متطابقًا مع مستند IMAGE الأصلي.
+اتبع الخطوات السهلة لتحويل IMAGE إلى PRN. قم بتحميل ملف IMAGE الخاص بك، ثم احفظه كملف PRN. بالنسبة لكل من قراءة IMAGE وكتابة PRN، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق PRN الناتج مطابقًا لمستند IMAGE الأصلي.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ونموذج رمز لتحويل IMAGE إلى PRN عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل IMAGE إلى PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل IMAGE إلى PRN عبر C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات IMAGE إلى PRN برمجيًا؟ يمكن للمطورين C++ بسهولة تحويل IMAGE إلى PRN في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات IMAGE إلى PRN برمجياً؟ يمكن للمطورين C++ تحويل IMAGE إلى PRN بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for C++".
-1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع C++ الخاص بك.
-1.  قم بتحميل ملف IMAGE باستخدام Factory :: CreateIWorkbook.
-1.  تحويل IMAGE إلى PRN باستدعاء طريقة Save ().
-1.  احصل على نتيجة تحويل IMAGE إلى PRN.
+1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك C++.
+1.  قم بتحميل ملف IMAGE باستخدام Workbook.
+1.  تحويل IMAGE إلى PRN عن طريق استدعاء أسلوب Save().
+1. احصل على نتيجة تحويل IMAGE إلى PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ مكتبة لتحويل IMAGE إلى PRN" %}}
+{{% blocks/products/pf/agp/content h2="مكتبة C++ لتحويل IMAGE إلى PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هناك ثلاثة خيارات لتثبيت "Aspose.Cells for C++" على نظامك. يرجى اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:
+هناك ثلاثة خيارات لتثبيت "Aspose.Cells for C++" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  تثبيت أ[NuGet باقة](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  قم بتثبيت المكتبة باستخدام مجلدات Include و lib. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  قم بتثبيت Aspose.Cells for C++ في Linux. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -73,44 +73,43 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- قبل تشغيل رمز نموذج التحويل C++ ، تأكد من توفر المتطلبات الأساسية التالية لديك.
+ قبل تشغيل نموذج التعليمات البرمجية للتحويل C++، تأكد من أن لديك المتطلبات الأساسية التالية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع C++ Runtime Environment لـ Windows 32 بت و Windows 64 بت و Linux 64 بت.
-- أضف مرجعًا إلى DLL Aspose.Cells for C++ في مشروعك.
+- Microsoft Windows أو نظام تشغيل متوافق مع C++ Runtime Environment لـ Windows 32 بت وWindows 64 بت وLinux 64 بت.
+- أضف مرجعًا إلى Aspose.Cells for C++ DLL في مشروعك.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}ملف PNG (Portable Network Graphics) هو تنسيق ملف صورة نقطية يستخدم ضغطًا بدون فقدان البيانات. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق الملف PNG الرسوم المتحركة. يدعم تنسيق الملف PNG ضغط الصور بدون فقدان البيانات مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطور PNG كأحد تنسيقات ملفات الصور المستخدمة على نطاق واسع.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ملف PRN هو ملف تم إنشاؤه باستخدام مربع الاختيار Print to File الذي يظهر في بعض مربعات حوار Print على Windows. وهو يحتوي على مجموعة من الإرشادات الخاصة بالجهاز والتي تستخدمها الطابعة أو جهاز الفاكس أو أي جهاز آخر لطباعة مستند. قد تحتوي ملفات PRN على نص أو محتوى ثنائي ، اعتمادًا على الجهاز الذي تم إنشاء الملف من أجله.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}الملف PNG (رسومات الشبكة المحمولة) هو تنسيق ملف صورة نقطية يستخدم الضغط بدون فقدان البيانات. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له أي قيود على حقوق الطبع والنشر. ومع ذلك، تنسيق الملف PNG لا يدعم الرسوم المتحركة. يدعم تنسيق الملف PNG ضغط الصور بدون فقدان البيانات مما يجعله شائعًا بين مستخدميه. مع مرور الوقت، تطور PNG ليصبح أحد تنسيقات ملفات الصور المستخدمة على نطاق واسع.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ملف PRN هو ملف تم إنشاؤه باستخدام مربع الاختيار "طباعة إلى ملف" الذي يظهر ضمن بعض مربعات حوار الطباعة على Windows. ويحتوي على مجموعة من الإرشادات الخاصة بالجهاز التي تستخدمها الطابعة أو جهاز الفاكس أو أي جهاز آخر لطباعة مستند. قد تحتوي ملفات PRN على نص أو محتوى ثنائي، اعتمادًا على الجهاز الذي تم إنشاء الملف من أجله.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل IMAGE إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل IMAGE إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها المدرج أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-bmp/" name="الصورة إلى BMP" description="سيب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-emf/" name="الصورة إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-gif/" name="الصورة إلى GIF" description="تنسيق التبادل الرسومي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-html/" name="الصورة إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-md/" name="صورة لمد" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-md/" name="صورة للدكتوراه في الطب" description="لغة تخفيض السعر" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-mhtml/" name="الصورة إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-ods/" name="الصورة إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="الصورة إلى PDF" description="نموذج المستندات المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="الصورة إلى PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="الصورة إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tiff/" name="الصورة إلى TIFF" description="تنسيق الصورة الموسومة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="الصورة إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="الصورة إلى TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="الصورة إلى XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsb/" name="الصورة إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="الصورة إلى TXT" description="وثيقة نصية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="الصورة إلى XLS" description="تنسيق ثنائي إكسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsb/" name="الصورة إلى XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsm/" name="الصورة إلى XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsx/" name="الصورة إلى XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlt/" name="الصورة إلى XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltm/" name="الصورة إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltx/" name="الصورة إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsx/" name="الصورة إلى XLSX" description="ملف اكسيل OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlt/" name="الصورة إلى XLT" description="Microsoft قالب إكسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltm/" name="الصورة إلى XLTM" description="قالب Excel مزود بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltx/" name="الصورة إلى XLTX" description="قالب Excel لمكتب OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xml/" name="الصورة إلى XML" description="لغة التوصيف الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xps/" name="الصورة إلى XPS" description="مواصفات ورق XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-json/" name="الصورة إلى JSON" description="جافا سكريبت تدوين كائن" >}}

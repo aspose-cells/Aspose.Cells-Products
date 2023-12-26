@@ -1,16 +1,17 @@
 ---
 title: Microsoft Chuyển đổi tệp Excel bằng Python via NET
-description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG
+description: Aspose.Cells for Python qua thư viện NET. Chuyển đổi EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL và nhiều định dạng khác chỉ với vài dòng mã Python.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Chuyển đổi định dạng Excel qua Python" h2="Nhập và xuất các tệp Excel dưới dạng bảng tính, web, hình ảnh và định dạng bố cục cố định" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Chuyển đổi định dạng Excel qua Python" h2="Nhập và xuất các tệp Excel dưới dạng bảng tính, web, hình ảnh và bố cục cố định" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Thư viện Excel tăng tốc quá trình lập trình và chuyển đổi bảng tính đồng thời hỗ trợ các định dạng phổ biến bao gồm XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS .Còn cho phép xuất file excel sang PDF, XPS, HTML, MHTML, Plain Các định dạng văn bản và hình ảnh phổ biến như TIFF, JPG, PNG, BMP và SVG.
+Python Thư viện Excel tăng tốc quá trình lập trình và chuyển đổi bảng tính đồng thời hỗ trợ các định dạng phổ biến bao gồm XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. còn cho phép xuất file Excel sang PDF, XPS, HTML, MHTML, Plain Các định dạng văn bản và hình ảnh phổ biến như TIFF, JPG, PNG, BMP và SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Chuyển Excel sang XLSX, ODS, SXC & FODS" %}}
- Chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính với phiên bản[Sách bài tập](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ[LưuĐịnh dạng](https://reference.aspose.com/cells/python-net/aspose.cells/saveformat/) liệt kê.
+{{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel thành XLSX, ODS, SXC & FODS" %}}
+ Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của[Sách bài tập](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ[Lưu định dạng](https://reference.aspose.com/cells/python-net/aspose.cells/saveformat/) sự liệt kê.
 {{% blocks/products/pf/feature-page-code h3="Python Mã để chuyển đổi định dạng tệp Excel" %}}
 
 ```cs
@@ -28,9 +29,9 @@ workbook.save("output.fods", SaveFormat.FODS);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Chuyển Excel sang PDF, XPS, HTML & MD" %}}
- Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể, chẳng hạn như[PdfSaveTùy chọn](https://reference.aspose.com/cells/python-net/aspose.cells/pdfsaveoptions/) để xuất tệp Excel dưới dạng PDF,[XpsSaveTùy chọn](https://reference.aspose.com/cells/python-net/aspose.cells/xpssaveoptions/) để chuyển đổi Excel thành XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/htmlsaveoptions/) để hiển thị Excel dưới dạng HTML và[MarkdownSaveTùy chọn](https://reference.aspose.com/cells/python-net/aspose.cells/markdownsaveoptions/) để chuyển đổi Excel sang Markdown.
-{{% blocks/products/pf/feature-page-code h3="Python Mã cho Excel thành PDF và Định dạng Web" %}}
+{{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel thành PDF, XPS, HTML & MD" %}}
+ Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể như[Tùy chọn lưu Pdf](https://reference.aspose.com/cells/python-net/aspose.cells/pdfsaveoptions/) để xuất tệp Excel dưới dạng PDF,[Tùy chọn XpsSave](https://reference.aspose.com/cells/python-net/aspose.cells/xpssaveoptions/) để chuyển đổi Excel sang XPS,[Tùy chọn lưu Html](https://reference.aspose.com/cells/python-net/aspose.cells/htmlsaveoptions/) để hiển thị Excel dưới dạng HTML và[MarkdownSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/markdownsaveoptions/) để chuyển đổi Excel sang Markdown.
+{{% blocks/products/pf/feature-page-code h3="Python Mã Excel tới PDF và Định dạng Web" %}}
 
 ```cs
 // load template Excel file from disc
@@ -61,9 +62,9 @@ book.save("output.md", mdOptions);
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Chuyển JSON sang Excel & Excel sang JSON" %}}
-Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi các tệp JSON sang Excel chỉ bằng một vài dòng mã. Tương tự, dữ liệu Excel có thể được xuất thành dữ liệu JSON.
-{{% blocks/products/pf/feature-page-code h3="Python Mã cho JSON để chuyển đổi Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="Đổi JSON sang Excel & Excel thành JSON" %}}
+Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi tệp JSON sang Excel chỉ bằng vài dòng mã. Tương tự, dữ liệu Excel có thể xuất sang dữ liệu JSON.
+{{% blocks/products/pf/feature-page-code h3="Python Mã chuyển đổi JSON sang Excel" %}}
 ```cs
 //Load your source json file
 workbook = Workbook("Data.json")
@@ -72,7 +73,7 @@ workbook.save("output.xlsx")
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Python Mã cho Excel để chuyển đổi JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="Chuyển đổi mã Python Excel sang JSON" %}}
 ```cs
 //Load your source xlsx file
 workbook = Workbook("input.xlsx")
@@ -85,8 +86,8 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi bảng tính Excel sang JPG, BMP, PNG & GIF" %}}
- Mỗi trang tính của tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau, hãy gọi[Hình ảnhHoặcInTùy chọn](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/) .setImageFormat để đặt định dạng hình ảnh.
-{{% blocks/products/pf/feature-page-code h3="Python Mã để chuyển đổi Excel sang hình ảnh" %}}
+ Mỗi bảng tính của một tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau, hãy gọi[Tùy chọn Hình ảnh Hoặc In](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/).setImageFormat để đặt định dạng hình ảnh.
+{{% blocks/products/pf/feature-page-code h3="Python Mã chuyển đổi Excel sang hình ảnh" %}}
 ```cs
 // load template spreadsheet
 workbook = Workbook("template.xlsx")
@@ -106,8 +107,8 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển Excel sang Word & PowerPoint" %}}
- Có thể tải bất kỳ bảng tính nào và chuyển đổi nó thành tệp Word DOCX & PowerPoint PPTX trong khi sử dụng[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [Tùy chọn PptxSave](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)các lớp như minh họa dưới đây.
-{{% blocks/products/pf/feature-page-code h3="Mã Python cho Excel sang Word & PowerPoint Chuyển đổi" %}}
+Có thể tải bất kỳ bảng tính nào và chuyển đổi nó thành tệp Word DOCX & PowerPoint PPTX trong khi sử dụng[Tùy chọn lưu Docx](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [Tùy chọn lưu Pptx](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) các lớp như được minh họa dưới đây.
+{{% blocks/products/pf/feature-page-code h3="Mã Python chuyển Excel sang Word & chuyển đổi PowerPoint" %}}
 ```cs
 // load the template file
 workbook = Workbook("template.xlsx")

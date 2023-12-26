@@ -1,6 +1,6 @@
 ---
-title:  Hợp nhất các tệp CSV qua C++
-description: C++ mã ví dụ để kết hợp các tài liệu CSV trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+title:  Hợp nhất CSV Tệp qua C++
+description: Mã ví dụ C++ để kết hợp CSV tài liệu trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hợp nhất các định dạng CSV trong C++" h2="Hợp nhất tài liệu CSV bằng API C++ phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
@@ -10,7 +10,7 @@ description: C++ mã ví dụ để kết hợp các tài liệu CSV trên C++ M
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất tệp CSV bằng C++" %}}
 
- Để hợp nhất tệp CSV, chúng tôi sẽ sử dụng<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API là nền tảng hợp nhất tài liệu API for C++ giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> quản lý gói, tìm kiếm<b>Aspose.Cells.Cpp</b> và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để hợp nhất tệp CSV, chúng tôi sẽ sử dụng<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API là nền tảng sáp nhập tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng. API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> quản lý gói, tìm kiếm<b>Aspose.Cells.Cpp</b> và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Các bước để hợp nhất các tệp CSV trong C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các bước gộp file CSV vào C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API có thể được thực hiện chỉ với vài dòng mã.
+ Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Nạp tệp CSV với lớp Workbook.
++ Load file CSV với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
-+ Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
-+ Bây giờ bạn có thể mở và sử dụng tệp đầu ra trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Gọi phương thức Workbook.Save và truyền tên file đầu ra làm tham số.
++ Bây giờ bạn có thể mở và sử dụng file đầu ra trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -49,27 +49,27 @@ Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](h
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
--  Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+-  Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+-  Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất các tệp Excel trực tuyến" InputFormat="csv" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ứng dụng miễn phí để hợp nhất các tệp Excel trực tuyến" InputFormat="csv" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Các tệp có phần mở rộng CSV (Các giá trị được phân tách bằng dấu phẩy) đại diện cho các tệp văn bản thuần túy chứa các bản ghi dữ liệu với các giá trị được phân tách bằng dấu phẩy. Mỗi dòng trong tệp CSV là một bản ghi mới từ tập hợp các bản ghi có trong tệp. Các tệp như vậy được tạo khi dự định truyền dữ liệu từ hệ thống lưu trữ này sang hệ thống lưu trữ khác. Vì tất cả các ứng dụng có thể nhận dạng các bản ghi được phân tách bằng dấu phẩy nên việc nhập các tệp dữ liệu đó vào cơ sở dữ liệu được thực hiện rất thuận tiện. Hầu như tất cả các ứng dụng bảng tính như Microsoft Excel hoặc OpenOffice Calc đều có thể nhập CSV mà không cần nỗ lực nhiều. Dữ liệu được nhập từ các tệp đó được sắp xếp trong các ô của bảng tính để trình bày cho người dùng.
+Các tệp có phần mở rộng CSV (Giá trị được phân tách bằng dấu phẩy) biểu thị các tệp văn bản thuần túy chứa các bản ghi dữ liệu có các giá trị được phân tách bằng dấu phẩy. Mỗi dòng trong tệp CSV là một bản ghi mới từ tập hợp các bản ghi có trong tệp. Các tệp như vậy được tạo khi truyền dữ liệu từ hệ thống lưu trữ này sang hệ thống lưu trữ khác. Vì tất cả các ứng dụng đều có thể nhận dạng các bản ghi được phân tách bằng dấu phẩy nên việc nhập các tệp dữ liệu đó vào cơ sở dữ liệu được thực hiện rất thuận tiện. Hầu như tất cả các ứng dụng bảng tính như Microsoft Excel hay OpenOffice Calc đều có thể nhập CSV mà không cần tốn nhiều công sức. Dữ liệu được nhập từ các tệp đó được sắp xếp thành các ô của bảng tính để trình bày cho người dùng.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

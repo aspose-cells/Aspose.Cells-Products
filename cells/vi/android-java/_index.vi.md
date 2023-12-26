@@ -1,10 +1,10 @@
 ---
 title: Bảng tính Android Excel API - Aspose
 weight: 6510
-description: Thư viện bảng tính Android để tạo các tệp Excel đọc ghi và phân tích cú pháp. Bảng tính API để phát triển Ứng dụng di động
+description: Thư viện bảng tính Android để tạo các tệp Excel đọc và phân tích cú pháp. Bảng tính API dành cho phát triển Ứng dụng di động
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác bảng tính Excel" h2="Tạo, đọc, viết hoặc thao tác với các tệp Excel trong ứng dụng Android mà không có bất kỳ phụ thuộc nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác bảng tính Excel" h2="Tạo, đọc, ghi hoặc thao tác với tệp Excel trong ứng dụng Android mà không cần bất kỳ sự phụ thuộc nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Thư viện bảng tính Android để tạo các tệp Excel đọ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java là một API có thể mở rộng để tạo, kết hợp, sửa đổi và phân tích bảng tính theo chương trình. API cung cấp nhiều chức năng bao gồm định dạng tài liệu excel và các tác vụ thiết lập trang, khả năng nhập và xuất, hiển thị các trang bảng tính thành hình ảnh raster cũng như chỉ định độ phân giải, chất lượng, nén, thêm các biểu đồ khác nhau, v.v. Bảng tính Android API hỗ trợ XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS và nhiều định dạng khác.
+ Aspose.Cells for Android via Java là số API có thể mở rộng để tạo, kết hợp, sửa đổi và phân tích bảng tính theo chương trình. API cung cấp nhiều chức năng bao gồm các tác vụ thiết lập trang và định dạng tài liệu excel, khả năng nhập và xuất, hiển thị các trang bảng tính thành hình ảnh raster cũng như chỉ định độ phân giải, chất lượng, độ nén của hình ảnh, thêm các biểu đồ khác nhau và hơn thế nữa. Bảng tính Android API hỗ trợ XLS, XLSX, CSV, SpreadsheetML, ODS, Phân cách bằng tab, HTML, PDF, XPS và nhiều định dạng khác.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +20,14 @@ description: Thư viện bảng tính Android để tạo các tệp Excel đọ
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Tổng quan về khả năng API." >}}
+{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về khả năng của API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- Nhập &amp; Xuất khẩu
+ Nhập khẩu &amp; Xuất khẩu
    </header>
    <ul>
     <li>
@@ -37,23 +37,23 @@ description: Thư viện bảng tính Android để tạo các tệp Excel đọ
  Bộ kết quả
     </li>
     <li>
-bộ sưu tập
+Bộ sưu tập
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
- kết xuất
+ Kết xuất
    </header>
    <ul>
     <li>
  Biểu đồ thành hình ảnh
     </li>
     <li>
- Trang tính thành hình ảnh
+ Bảng tính thành hình ảnh
     </li>
     <li>
- Bảng kê tới PDF
+ Bảng tính gửi tới PDF
     </li>
    </ul>
   </div>
@@ -75,7 +75,7 @@ bộ sưu tập
  Tạo biểu đồ
     </li>
     <li>
- tóm tắt
+ Tóm tắt
     </li>
     <li>
  Điểm đánh dấu thông minh
@@ -104,7 +104,7 @@ bộ sưu tập
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for Android via Java có sẵn for Android 2.0 trở lên." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells for Android via Java có sẵn for Android 2.0 trở lên." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +144,7 @@ bộ sưu tập
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Bảng tính Android API hỗ trợ các định dạng Microsoft Excel phổ biến, hình ảnh và định dạng bố cục cố định." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Bảng tính Android API hỗ trợ các định dạng Excel, hình ảnh và định dạng bố cục cố định phổ biến Microsoft." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +156,7 @@ bộ sưu tập
    <ul>
     <li>
      <b>
- MicrosoftExcel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -174,7 +174,7 @@ bộ sưu tập
     </li>
     <li>
      <b>
- mạng:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -234,7 +234,7 @@ bộ sưu tập
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Các tính năng nâng cao của Android Excel API
+ Tính năng Android Excel API nâng cao
    </h2>
    <p>
    </p>
@@ -249,14 +249,14 @@ bộ sưu tập
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Xuất và nhập dữ liệu từ ArrayList, Array, Recordset &amp; tập kết quả
+ Xuất và nhập dữ liệu từ ArrayList, Array, Recordset &amp; Tập kết quả
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Mã hóa &amp; giải mã file excel
+ Mã hóa &amp; giải mã file Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,7 +284,7 @@ bộ sưu tập
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Đọc, đặt &amp; tính công thức
+ Đọc, đặt &amp; tính toán công thức
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,7 +312,7 @@ bộ sưu tập
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo bản sao của các trang tính hiện có
+ Tạo bản sao của các bảng tính hiện có
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +326,7 @@ bộ sưu tập
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Thao tác với các ô &amp; phạm vi được đặt tên
+ Thao tác với tế bào &amp; phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ bộ sưu tập
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Chuyển đổi trang tính &amp; biểu đồ thành hình ảnh
+ Chuyển đổi bảng tính &amp; biểu đồ thành hình ảnh
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -433,14 +433,14 @@ bộ sưu tập
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Trace tiền lệ và phụ thuộc
+ Theo dõi tiền lệ và người phụ thuộc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo &amp; thao túng kịch bản
+ Tạo &amp; thao tác kịch bản
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,7 +454,7 @@ Công cụ tính toán công thức mạnh mẽ
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Đọc &amp; lh TSV, CSV &amp; HTML tập tin
+ Đọc &amp; viết TSV, CSV & amp; HTML tập tin
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,11 +462,11 @@ Công cụ tính toán công thức mạnh mẽ
  Chuyển đổi định dạng khác nhau
     </h2>
     <p>
- Thư viện Android Excel cung cấp chuyển đổi bảng tính thành XPS, PDF &amp; HTML giữ độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy làm cho API trở thành lựa chọn hoàn hảo cho các công ty để trao đổi tệp ở định dạng tiêu chuẩn công nghiệp.
+ Thư viện Android Excel cung cấp tính năng chuyển đổi bảng tính thành XPS, PDF &amp; HTML giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy khiến API trở thành sự lựa chọn hoàn hảo cho các công ty trao đổi tệp ở định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Lưu Workbook dưới nhiều định dạng - Java
+ Lưu Workbook dưới nhiều định dạng khác nhau - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,10 +490,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Chuyển đổi các đối tượng bảng tính sang các định dạng khác nhau
+ Chuyển đổi đối tượng bảng tính sang các định dạng khác nhau
     </h2>
     <p>
- Aspose.Cells for Android via Java cung cấp một số tính năng đặc biệt như trang tính thành hình ảnh, biểu đồ thành hình ảnh &amp; PDF và bảng tính sang PDF chuyển đổi định dạng tài liệu. Quy trình linh hoạt có một số lựa chọn cho việc chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong bảng tính thành PDF hoặc đặt kích thước hình ảnh kết quả khi hiển thị trang tính &amp; biểu đồ sang định dạng hình ảnh.
+ Aspose.Cells for Android via Java cung cấp một số tính năng đặc biệt như bảng tính cho đến hình ảnh, biểu đồ cho đến hình ảnh &amp; PDF và bảng tính sang PDF chuyển đổi định dạng tài liệu. Quy trình linh hoạt có một số lựa chọn để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong bảng tính thành PDF hoặc đặt kích thước hình ảnh tổng hợp khi hiển thị trang tính &amp; biểu đồ sang các định dạng hình ảnh.
     </p>
    </div>
    <div class="col-lg-12">
@@ -501,7 +501,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 Bảng tính API Công cụ tính toán công thức
     </h2>
     <p>
- Trang tính Android API cung cấp Công cụ tính toán công thức mạnh mẽ hỗ trợ các hàm và công thức Excel Microsoft tiêu chuẩn và nâng cao. Công cụ tính toán công thức giúp bạn dễ dàng đọc, thiết lập và tính toán kết quả của các công thức kiểu tham chiếu kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ trợ.
+ Trang tính Android API cung cấp Công cụ tính toán công thức mạnh mẽ hỗ trợ các hàm và công thức Excel Microsoft nâng cao và tiêu chuẩn. Công cụ tính toán công thức giúp bạn dễ dàng đọc, thiết lập và tính toán kết quả của các công thức kiểu tham chiếu, mảng và kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ sung.
     </p>
    </div>
    <!--
@@ -572,7 +572,7 @@ Bảng tính API Công cụ tính toán công thức
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -583,7 +583,7 @@ Bảng tính API Công cụ tính toán công thức
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Android via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

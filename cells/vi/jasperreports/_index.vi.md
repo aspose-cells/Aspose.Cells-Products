@@ -1,5 +1,5 @@
 ---
-title: Xuất báo cáo trong Excel XLS XLSX PDF ODS trong JasperReports và JasperServer
+title: Xuất Báo cáo trong Excel XLS XLSX PDF ODS trong JasperReports và JasperServer
 weight: 9460
 description: Xuất báo cáo từ Jasper Reports và JasperServer ở định dạng Excel XLS XLSX PDF ODS TXT và SpreadsheetML. Đồng thời in báo cáo dưới dạng Bảng tính Excel
 ---
@@ -12,7 +12,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports là tiện ích mở rộng JasperReports và JasperServer đáng tin cậy cung cấp các báo cáo xuất ở định dạng Microsoft Excel XLS, XLSX, PDF, ODS, TXT và SpreadsheetML mà không cần sử dụng 07 6193481 Excel. Nó hoạt động như một giải pháp thay thế cho trình xuất Excel gốc Microsoft của JasperReports cũng như loại bỏ sự phụ thuộc vào thư viện POI.
+ Aspose.Cells for JasperReports là tiện ích mở rộng JasperReports và JasperServer đáng tin cậy cung cấp xuất báo cáo ở các định dạng Microsoft Excel XLS, XLSX, PDF, ODS, TXT và SpreadsheetML mà không cần sử dụng 0761 93481Excel. Nó hoạt động như một giải pháp thay thế cho trình xuất Excel Microsoft ban đầu của JasperReports cũng như loại bỏ sự phụ thuộc vào thư viện POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Tổng quan về các tính năng của Aspose.Cells for JasperReports\'." >}}
+{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về các tính năng của Aspose.Cells for JasperReports\'." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,7 +33,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
    <header>
     <i class="fa fa-table">
     </i>
- Thiết kế báo cáo có độ trung thực cao
+ Độ trung thực cao cho thiết kế báo cáo
    </header>
   </div>
   <!--/left-->
@@ -63,7 +63,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
     <em>
  vì
     </em>
- JasperBáo cáo
+ Báo cáo của Jasper
    </small>
   </footer>
  </div>
@@ -72,7 +72,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for JasperReports hỗ trợ J2SE, JasperReports và JasperServer." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells for JasperReports hỗ trợ J2SE, JasperReports và JasperServer." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -88,7 +88,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- JasperReports 6.3.0 trở lên
+ JasperReport 6.3.0 trở lên
    </header>
   </div>
   <!--/right-->
@@ -104,7 +104,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
     <em>
  vì
     </em>
- JasperBáo cáo
+ Báo cáo của Jasper
    </small>
   </footer>
  </div>
@@ -113,7 +113,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for JasperReports cho phép bạn xuất báo cáo trực tiếp sang[các định dạng sau](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for JasperReports cho phép bạn xuất báo cáo trực tiếp sang[định dạng sau](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
    <ul>
     <li>
      <b>
- MicrosoftExcel:
+ Microsoft Excel:
      </b>
      XLS, XLSX
     </li>
@@ -154,7 +154,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
      <b>
  Chữ:
      </b>
- CSV, TSV, Phân định bằng tab
+ CSV, TSV, được phân cách bằng tab
     </li>
    </ul>
   </div>
@@ -171,7 +171,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
     <em>
  vì
     </em>
- JasperBáo cáo
+ Báo cáo của Jasper
    </small>
   </footer>
  </div>
@@ -190,7 +190,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Tính năng báo cáo Jasper nâng cao sang Excel
+ Tính năng xuất JasperReports sang Excel nâng cao
    </h2>
    <p>
    </p>
@@ -198,7 +198,7 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo báo cáo dưới dạng Microsoft Tệp Excel
+ Tạo báo cáo dưới dạng tệp Excel Microsoft
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,18 +217,18 @@ description: Xuất báo cáo từ Jasper Reports và JasperServer ở định d
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Xuất Báo cáo sang Microsoft Định dạng Excel
+ Xuất báo cáo sang định dạng Excel Microsoft
     </h2>
     <p>
- Aspose.Cells for JasperReports cung cấp chức năng xuất báo cáo trực tiếp sang Microsoft định dạng Excel như XLS &amp; XLSX. Ngoài ra, bạn cũng có thể xuất các báo cáo trong SpreadsheetML, ODS, CSV &amp; Các định dạng được phân định bằng tab để phù hợp với yêu cầu kinh doanh của bạn.
+ Aspose.Cells for JasperReports cung cấp chức năng xuất báo cáo trực tiếp sang Microsoft các định dạng Excel như XLS &amp; XLSX. Ngoài ra, bạn cũng có thể xuất báo cáo theo SpreadsheetML, ODS, CSV &amp; Các định dạng được phân cách bằng tab để phù hợp với yêu cầu kinh doanh của bạn.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Thiết kế báo cáo có độ trung thực cao
+ Độ trung thực cao cho thiết kế báo cáo
     </h2>
     <p>
-Aspose.Cells for JasperReports xuất báo cáo sang các định dạng được hỗ trợ với độ chính xác cao nhất, tức là; dường như các báo cáo giống hệt nhau được xuất bởi các chức năng xuất gốc của JasperReports.
+Aspose.Cells for JasperReports xuất báo cáo sang các định dạng được hỗ trợ với độ chính xác cao nhất, tức là; có vẻ như các báo cáo giống hệt nhau được xuất bởi các chức năng xuất gốc của JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
@@ -236,7 +236,7 @@ Aspose.Cells for JasperReports xuất báo cáo sang các định dạng đượ
  Bảng tính Excel có thể chỉnh sửa
     </h2>
     <p>
- Aspose.Cells for JasperReports xuất tài liệu Excel dưới dạng bảng tính hoàn toàn có thể chỉnh sửa. Nó hỗ trợ các biểu đồ Excel Microsoft và mọi biểu đồ được xuất qua công cụ kết xuất Aspose sẽ có sẵn dưới dạng biểu đồ có thể chỉnh sửa thay vì ảnh tĩnh, do đó cho phép người dùng cuối thay đổi biểu đồ theo cách thủ công trong Microsoft Excel.
+ Aspose.Cells for JasperReports xuất tài liệu Excel dưới dạng bảng tính có thể chỉnh sửa hoàn toàn. Nó hỗ trợ các biểu đồ Microsoft Excel và bất kỳ biểu đồ nào được xuất qua công cụ kết xuất Aspose sẽ có sẵn dưới dạng biểu đồ có thể chỉnh sửa thay vì ảnh tĩnh, do đó cho phép người dùng cuối thay đổi biểu đồ theo cách thủ công trong Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -244,7 +244,7 @@ Aspose.Cells for JasperReports xuất báo cáo sang các định dạng đượ
  Microsoft Tự động hóa văn phòng – Không cần thiết
     </h2>
     <p>
- Aspose.Cells for JasperReports nhà xuất khẩu được phát triển bằng mã được quản lý không bao giờ cần cài đặt Microsoft Excel hoặc Microsoft Office trên máy để hoạt động với các định dạng tài liệu Excel. Đây là giải pháp thay thế tự động hóa Excel Microsoft hoàn hảo về tính ổn định, khả năng mở rộng, các tính năng được hỗ trợ, bảo mật, giá cả và tốc độ.
+ Aspose.Cells for JasperReports nhà xuất khẩu được phát triển bằng mã được quản lý không bao giờ cần cài đặt Microsoft Excel hoặc Microsoft Office trên máy để hoạt động với các định dạng tài liệu Excel. Nó là một giải pháp thay thế tự động hóa Excel Microsoft hoàn hảo về tính ổn định, khả năng mở rộng, các tính năng được hỗ trợ, bảo mật, giá cả và tốc độ.
     </p>
    </div>
   </div>
@@ -259,7 +259,7 @@ Aspose.Cells for JasperReports xuất báo cáo sang các định dạng đượ
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -270,7 +270,7 @@ Aspose.Cells for JasperReports xuất báo cáo sang các định dạng đượ
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for JasperReports?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

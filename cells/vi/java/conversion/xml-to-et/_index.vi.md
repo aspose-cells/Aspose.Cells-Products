@@ -1,7 +1,7 @@
 ---
-title: Java XML sang ET - Trình chuyển đổi XML sang ET trực tuyến
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Trực tuyến miễn phí Java Chuyển đổi XML sang định dạng lưu ET. Java XML sang định dạng ET. Lưu XML vào ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to ET saveformat., Free Online XML to ET Java., Java Convert XML to ET]
+title: Java XML sang ET - Chuyển đổi XML sang ET
+description: Aspose Excel. Chuyển đổi XML sang ET nhanh chóng và dễ dàng với Aspose.Cells. Java XML sang ET. Java Lưu XML vào ET. Lưu XML dưới dạng ET bằng Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to ET in Java., Save XML to ET using Java., Java XML to ET saveformat., XML to ET Converter., Java Save XML as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XML sang ET trong Java" h2="Thư viện Java tốc độ cao để chuyển đổi XML sang ET. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất XML, ET và nhiều định dạng khác bằng Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to ET
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XML sang ET bằng Java" %}}
 
-Làm cách nào để chuyển đổi XML sang ET? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng chuyển đổi XML sang ET theo chương trình với một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
+ Làm cách nào để chuyển đổi XML sang ET? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng chuyển đổi XML sang ET theo chương trình chỉ bằng một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ Làm cách nào để chuyển đổi XML sang ET? Với thư viện Aspose.Cell
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu XML vào ET trong Java Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu XML vào ET vào Java" %}}
 
-Ví dụ sau minh họa cách chuyển đổi XML sang ET trong Java.
+Ví dụ sau đây minh họa cách chuyển đổi XML sang ET trong Java.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XML sang ET. Tải lên tệp XML của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp ET. Đối với cả đọc XML và viết ET, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng ET đầu ra sẽ giống với tài liệu XML gốc.
+Hãy làm theo các bước đơn giản để chuyển đổi XML sang ET. Tải tệp XML của bạn lên, sau đó chỉ cần lưu tệp đó dưới dạng tệp ET. Đối với cả việc đọc XML và ghi ET, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng ET đầu ra sẽ giống hệt với tài liệu XML gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XML sang ET trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi XML sang ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML sang ET via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp XML sang ET theo chương trình? Java các nhà phát triển có thể dễ dàng chuyển đổi XML sang ET chỉ bằng một vài dòng mã.
+Cần chuyển đổi các tệp XML sang ET theo chương trình? Các nhà phát triển Java có thể dễ dàng chuyển đổi XML sang ET chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Java của bạn.
-1.  Tải tệp XML bằng một thể hiện của lớp Workbook.
+1.  Tải tệp XML với một phiên bản của lớp Workbook.
 1.  Chuyển đổi XML sang ET bằng cách gọi phương thức Workbook.save.
-1.  Nhận kết quả chuyển đổi từ XML sang ET.
+1.  Nhận kết quả chuyển đổi XML sang ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java thư viện để chuyển XML sang ET" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Java để chuyển đổi XML sang ET" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Chúng tôi lưu trữ các gói Java tại[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) kho lưu trữ. 'Aspose.Cells for Java' là một tệp JAR phổ biến có chứa mã byte. Vui lòng theo dõi[hướng dẫn từng bước một](https://docs.aspose.com/cells/java/installation/) về cách cài đặt nó vào môi trường dành cho nhà phát triển Java của bạn.
+ Chúng tôi lưu trữ các gói Java của chúng tôi tại[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) kho lưu trữ. 'Aspose.Cells for Java' là tệp JAR phổ biến chứa mã byte. Hãy làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/java/installation/) về cách cài đặt nó vào môi trường nhà phát triển Java của bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,42 +90,42 @@ Cần chuyển đổi các tệp XML sang ET theo chương trình? Java các nh�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc HĐH tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
-- Nhận phiên bản mới nhất của Aspose.Cells for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+- Nhận phiên bản mới nhất Aspose.Cells for Java trực tiếp từ Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML là viết tắt của Extensible Markup Language tương tự như HTML nhưng khác ở chỗ sử dụng các thẻ để định nghĩa các đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là để lưu trữ và vận chuyển dữ liệu mà không phụ thuộc vào phần mềm hoặc công cụ phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả ở người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng, chẳng hạn như World Wide Web (WWW). Chữ "X" trong XML có nghĩa là có thể mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, XHTML và SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Tệp ET là một bài học giảng dạy được tạo bởi Easiteach, một chương trình cho phép giáo viên phát triển các bài học trên lớp và phân phối chúng thông qua giao diện tương tác. Nó chứa dữ liệu bài học như bố cục, điều hướng, hình ảnh, văn bản, chủ đề và hoạt ảnh.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML là viết tắt của Ngôn ngữ đánh dấu mở rộng, tương tự như HTML nhưng khác ở cách sử dụng thẻ để xác định đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là lưu trữ và truyền dữ liệu mà không phụ thuộc vào các công cụ phần mềm hoặc phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả con người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng như World Wide Web (WWW). Chữ "X" trong XML có tính mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, XHTML và SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Tệp ET là một bài giảng được tạo bởi Easiteach, một chương trình cho phép giáo viên phát triển các bài học trên lớp và phân phối chúng thông qua giao diện tương tác. Nó chứa dữ liệu bài học như bố cục, điều hướng, hình ảnh, văn bản, chủ đề và hình ảnh động.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi XML sang nhiều định dạng tệp khác bao gồm một số định dạng được liệt kê bên dưới." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi XML sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-bmp/" name="XML ĐẾN BMP" description="Hình ảnh bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-gif/" name="XML ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML ĐẾN MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-ods/" name="XML ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-pdf/" name="XML ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-png/" name="XML ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-svg/" name="XML ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML ĐẾN TSV" description="Giá trị được phân tách bằng tab" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-txt/" name="XML ĐẾN TXT" description="Dữ liệu văn bản" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsm/" name="XML ĐẾN XLSM" description="Tệp bảng tính" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsx/" name="XML ĐẾN XLSX" description="Tệp Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML ĐẾN XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML ĐẾN XLTX" description="Mẫu Excel OpenXML của Office" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML ĐẾN XPS" description="Thông số kỹ thuật của giấy XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML ĐẾN JPEG" description="JPEG Hình ảnh" >}}
 

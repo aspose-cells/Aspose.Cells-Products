@@ -1,6 +1,6 @@
 ---
-title:  Hợp nhất các tệp XLS qua C++
-description: C++ mã ví dụ để kết hợp các tài liệu XLS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+title:  Hợp nhất XLS Tệp qua C++
+description: Mã ví dụ C++ để kết hợp XLS tài liệu trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hợp nhất các định dạng XLS trong C++" h2="Hợp nhất tài liệu XLS bằng API C++ phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -10,7 +10,7 @@ description: C++ mã ví dụ để kết hợp các tài liệu XLS trên C++ M
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất tệp XLS bằng C++" %}}
 
- Để hợp nhất tệp XLS, chúng tôi sẽ sử dụng<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API là nền tảng hợp nhất tài liệu API for C++ giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> quản lý gói, tìm kiếm<b>Aspose.Cells.Cpp</b> và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để hợp nhất tệp XLS, chúng tôi sẽ sử dụng<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API là nền tảng sáp nhập tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng. API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> quản lý gói, tìm kiếm<b>Aspose.Cells.Cpp</b> và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Các bước để hợp nhất các tệp XLS trong C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Các bước gộp file XLS vào C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API có thể được thực hiện chỉ với vài dòng mã.
+ Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Nạp tệp XLS với lớp Workbook.
++ Load file XLS với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
-+ Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
-+ Bây giờ bạn có thể mở và sử dụng tệp đầu ra trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Gọi phương thức Workbook.Save và truyền tên file đầu ra làm tham số.
++ Bây giờ bạn có thể mở và sử dụng file đầu ra trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -49,20 +49,20 @@ Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](h
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows hoặc HĐH tương thích với C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
--  Thêm tham chiếu đến Aspose.Cells for C++ DLL trong dự án của bạn.
+-  Microsoft Windows hoặc HĐH tương thích với C++ Môi trường chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+-  Thêm tham chiếu đến DLL Aspose.Cells for C++ trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất các tệp Excel trực tuyến" InputFormat="xls" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ứng dụng miễn phí để hợp nhất các tệp Excel trực tuyến" InputFormat="xls" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
+Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị định dạng Microsoft Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là API độc lập và không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -70,7 +70,7 @@ Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for C++](h
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS đại diện cho Định dạng tệp nhị phân Excel. Các tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang một số định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng mở và có cấu trúc hơn, XLSX, với việc phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ để tạo và đọc các tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,8 +1,8 @@
 ---
-title: C# إصلاح ملف Excel - إصلاح ملف Excel عبر الإنترنت مجانًا
+title: C# إصلاح التفوق - استعادة وإصلاح ملف التفوق التالف
 url: /ar/net/recovery/repair-excel/ 
-description: Aspose إكسل. C# Aspose.Cells. C# إصلاح ملف Excel. أداة مجانية لإصلاح ملفات Excel عبر الإنترنت. إصلاح ملف Excel تالف. استرجاع ملف اكسل تالف داخل تطبيق .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel file., Free Online Repair a corrupted excel file., C# Recover excel file.]
+description: C# Aspose.Cells. تصليح اكسل. اصلاح ملف اكسل. أداة استرداد التفوق. تفوق الفساد. استعادة بيانات الاكسل. استرداد ملف التفوق. استعادة ملف اكسيل التالف.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إصلاح ملف EXCEL في C#" h2="قم ببناء تطبيق .NET الخاص بك لإصلاح ملفات Excel باستخدام .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,9 +12,9 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel fi
 
 {{% blocks/products/pf/agp/content h2="إصلاح ملف EXCEL باستخدام C#" %}}
 
- كيف يمكنني اصلاح ملف اكسل؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة إصلاح ملف EXCEL برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بإصلاح ملف إكسل؟ مع مكتبة Aspose.Cells for .NET، يمكنك بسهولة إصلاح ملف EXCEL برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
-{{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم مدير الحزم" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 
 ```cs
 
@@ -27,43 +27,43 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="كيفية إصلاح ملف Excel في C#" %}}
+{{% blocks/products/pf/agp/content h2="كيفية إصلاح ملف إكسل في C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-بحاجة الى اصلاح ملف اكسل برمجيا؟ يمكن للمطورين .NET تحميل وإصلاح ملف Excel بسهولة في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى إصلاح ملف Excel برمجياً؟ يمكن للمطورين .NET تحميل وإصلاح ملف Excel بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ تحديد فئة ترث Aspose.Cells.
-+ قم بتحميل ملف EXCEL عن طريق إنشاء مثيل من المصنف ، باستخدام فئة الوراثة أعلاه ، ارجع إلى الكود أعلاه.
-+ احفظ المصنف ، سيتم إصلاح ملف Excel التالف.
++ تحديد فئة ترث Aspose.Cells.IWarningCallback.
++ قم بتحميل ملف EXCEL عن طريق إنشاء مثيل للمصنف، باستخدام فئة الميراث أعلاه، راجع الكود أعلاه.
++ احفظ المصنف، وسيتم إصلاح ملف Excel التالف.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="تطبيق مجاني ونموذج التعليمات البرمجية لإصلاح ملف EXCEL عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="نموذج التعليمات البرمجية لإصلاح ملف EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2="مكتبة .NET لإصلاح ملف EXCEL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هناك خياران بديلين لتثبيت "Aspose.Cells for .NET" على نظامك. يرجى اختيار واحد يناسب احتياجاتك واتبع التعليمات خطوة بخطوة:
+هناك خياران بديلان لتثبيت "Aspose.Cells for .NET" على نظامك. يرجى اختيار ما يناسب احتياجاتك واتباع التعليمات خطوة بخطوة:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells/) . يرى[توثيق](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) داخل Visual Studio IDE
+1.  تثبيت أ[NuGet باقة](https://www.nuget.org/packages/Aspose.Cells/) . يرى[توثيق](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
+1.  تثبيت المكتبة باستخدام[وحدة تحكم إدارة الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) داخل Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="متطلبات النظام" %}}
 
- Aspose.Cells for .NET مدعوم على كافة أنظمة التشغيل الرئيسية. فقط تأكد من أن لديك المتطلبات الأساسية التالية.
+ Aspose.Cells for .NET مدعوم على جميع أنظمة التشغيل الرئيسية. فقط تأكد من أن لديك المتطلبات الأساسية التالية.
  
--  Microsoft Windows أو نظام تشغيل متوافق مع أنظمة أساسية .NET أو .NET Core أو Mono.
+-  Microsoft Windows أو نظام تشغيل متوافق مع الأنظمة الأساسية .NET أو .NET أو Mono.
 -  بيئة التطوير مثل Microsoft Visual Studio.
--  منتجنا متعدد المنصات بالكامل ويدعم Windows و Linux و MacOS و Azure و AWS Lambda.
+-  منتجنا متعدد المنصات بالكامل ويدعم Windows وLinux وMacOS وAzure وAWS Lambda.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Cells
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم تقديمها بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في الجزء 2 من معيار OOXML ECMA-376 ، يكون التنسيق الجديد هو حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.
+XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم تقديمها بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى البنية المنظمة وفقًا لاتفاقيات التغليف المفتوحة كما هو موضح في الجزء 2 من معيار OOXML ECMA-376، فإن التنسيق الجديد هو حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية الأساسية والملفات ببساطة عن طريق فك ضغط ملف .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -80,13 +80,13 @@ XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم �
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="إصلاح تنسيقات Excel الأخرى المدعومة" subTitle="باستخدام C# ، يمكن للمرء بسهولة إصلاح ملفات تنسيق Excel الأخرى." >}}
+{{< blocks/products/pf/agp/other-supported-section title="إصلاح تنسيقات Excel المدعومة الأخرى" subTitle="باستخدام C#، يمكن للمرء بسهولة إصلاح ملفات تنسيق Excel الأخرى." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="إصلاح ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="إصلاح XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="إصلاح XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="إصلاح XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="إصلاح XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="اصلاح ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="اصلاح XLS" description="تنسيق ثنائي إكسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="اصلاح XLSB" description="ملف مصنف Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="اصلاح XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="اصلاح XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

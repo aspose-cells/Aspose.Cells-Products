@@ -1,7 +1,7 @@
 ---
-title:  قم بالتوقيع رقميًا على جداول بيانات Excel على Windows و Linux و macOS
+title:  قم بالتوقيع رقميًا على جداول بيانات Excel على Windows وLinux وmacOS
 weight: 7730
-description: تطبيق مجاني وواجهات برمجة تطبيقات لإدارة توقيعات الصور والنصوص على ملفات XLS و XLSX و ODS
+description: تطبيق مجاني وواجهات برمجة التطبيقات لإدارة توقيعات الصور والنصوص على ملفات XLS وXLSX وODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

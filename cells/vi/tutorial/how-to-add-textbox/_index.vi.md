@@ -8,10 +8,10 @@ url: /vi/tutorial/add-textbox-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Tìm hiểu cách thêm TextBox với Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Tìm hiểu cách thêm TextBox bằng Aspose.Cells" >}}
 
 <p>
-Trong hướng dẫn này, chúng ta sẽ thêm TextBox vào tệp excel.
+Trong hướng dẫn này, chúng ta sẽ thêm TextBox vào một tệp excel.
 </p>
 
 <p>
@@ -25,30 +25,30 @@ Trong hướng dẫn này, chúng ta sẽ thêm TextBox vào tệp excel.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: Đoạn mã sau cho biết cách thay đổi màu của văn bản.
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: Đoạn mã sau trình bày cách thay đổi góc xoay của TextBox.
+//ExStepSummary:2: Đoạn mã sau cho biết cách thay đổi góc xoay của TextBox.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExStep:0-
 sử dụng Aspose.Cells;
-sử dụng Aspose.Cells.Drawing;
+sử dụng Aspose.Cells.Bản vẽ;
 
-Sổ làm việc sổ làm việc = Sổ làm việc mới();
-Bảng tính = workbook.Worksheets[0];
+Sổ làm việc của sổ làm việc = Sổ làm việc mới();
+Trang tính = bảng tính.Worksheets[0];
 sheet.PageSetup.PrintGridlines = true;
 sheet.PageSetup.PrintArea = "A1:F20";
 
 Hình dạng ShapeCollection = sheet.Shapes;
 
 //Thêm TextBox và đặt văn bản
-TextBox textBox = shape.AddTextBox(1, 0, 1, 0, 200, 200);
-textBox.Text = "Aspose.Cells for .NET là một thư viện lớp lập trình cho phép các nhà phát triển phần mềm thao tác và xử lý các tệp bảng tính trong các ứng dụng của riêng họ.";
+TextBox textBox = hình dạng.AddTextBox(1, 0, 1, 0, 200, 200);
+textBox.Text = "Aspose.Cells for .NET là thư viện lớp lập trình cho phép các nhà phát triển phần mềm thao tác và xử lý các tệp bảng tính trong ứng dụng của riêng họ.";
 
 //ExStep:1-
-//Thay đổi màu chữ
+//Thay đổi màu của văn bản
 textBox.Font.Color = Color.Blue;
 
 //ExStep:2-
-//Thay đổi góc quay của TextBox
+//Thay đổi góc xoay của TextBox
 textBox.RotationAngle = 90;
 
 //ExStep:0-
@@ -61,8 +61,8 @@ textBox.RotationAngle = 90;
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Lh cài đặt Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells BTV</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Lắp đặt Aspose.Cells</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Biên tập viên</a></li>
     </ul>
 </div>
 

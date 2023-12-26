@@ -1,10 +1,11 @@
 ---
-title:  .NET إكسل API | تنسيقات جداول البيانات العملية via .NET Core
+title:  .NET اكسل API | تنسيقات جداول البيانات العملية via .NET الأساسية
 weight: 2030
-description: C# ASP.NET VB.NET مكتبة للعمل مع وثائق Excel Microsoft. إنشاء قراءة وكتابة وحفظ وطباعة ملفات جداول البيانات. قم بالتحويل إلى تنسيق PDF أو أكثر
+description: C# ASP.NET مكتبة VB.NET لإنشاء وإصلاح ودمج وتحليل وتحويل ملفات Excel. تحويل Excel إلى PDF، JSON، XML، TSV، HTML وهكذا.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="معالجة ملفات Excel via .NET APIs" h2="قراءة ملفات جداول البيانات وكتابتها على الأنظمة الأساسية .NET و .NET Core & Xamarin. تصدير جداول البيانات إلى تنسيقات أخرى بدون Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="التعامل مع ملفات Excel via .NET APIs" h2="قراءة وكتابة ملفات جداول البيانات على منصات Core وXamarin .NET و.NET. تصدير جداول البيانات إلى تنسيقات أخرى دون Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -12,11 +13,11 @@ description: C# ASP.NET VB.NET مكتبة للعمل مع وثائق Excel Micro
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتسريع إدارة جداول البيانات ومهام المعالجة. يدعم API بناء تطبيقات عبر الأنظمة الأساسية التي لها القدرة على إنشاء جداول البيانات وتعديلها وتحويلها وتقديمها وطباعتها. علاوة على ذلك ، فإنه لا يعتمد على Microsoft Excel أو أي من مكونات Microsoft Office Interop المراد تثبيتها ولكن مجموعة قوية من واجهات برمجة التطبيقات التي تتعامل مع جميع تنسيقات Excel بالإضافة إلى تنسيقات CSV و SpreadsheetML.
+Aspose.Cells for .NET هي برمجة جداول بيانات إكسل API لتسريع إدارة جداول البيانات ومهام المعالجة. يدعم API إنشاء تطبيقات عبر الأنظمة الأساسية تتمتع بالقدرة على إنشاء جداول البيانات وتعديلها وتحويلها وعرضها وطباعتها. علاوة على ذلك، فهو لا يعتمد على Microsoft Excel أو أي مكونات Microsoft Office Interop المراد تثبيتها، بل يعتمد على مجموعة قوية من واجهات برمجة التطبيقات التي تتعامل مع جميع تنسيقات Excel بالإضافة إلى تنسيقات CSV وSpreadsheetML.
 </p>
 
 <p>
- من خلال دمج API ، يمكن للمطورين أداء بعض المهام الأساسية مثل إدارة أوراق عمل متعددة ، وإنشاء محتويات وأنماط جداول بيانات من البداية ، واستيراد البيانات إلى أوراق العمل من مصادر بيانات مختلفة ، وإضافة صيغ رياضية ومالية ونصية شائعة ومعقدة ، ومعالجة المخططات ، الصور والتعليقات وكائنات الرسم وأكثر من ذلك بكثير.
+ من خلال دمج API، يمكن للمطورين تنفيذ بعض المهام الأساسية مثل إدارة أوراق عمل متعددة، وإنشاء محتويات وأنماط جدول البيانات من الصفر، واستيراد البيانات إلى أوراق العمل من مصادر بيانات مختلفة، وإضافة صيغ رياضية ومالية ونصية مشتركة ومعقدة، ومعالجة الرسوم البيانية، الصور والتعليقات والأشياء الرسومية وأكثر من ذلك بكثير.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -24,7 +25,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات API." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="نظرة عامة على قدرات API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -38,13 +39,13 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
  الرسم البياني للصورة
     </li>
     <li>
- ورقة العمل على الصورة
+ ورقة عمل للصورة
     </li>
     <li>
- جدول بيانات إلى PDF
+ جدول البيانات إلى PDF
     </li>
     <li>
- طباعة
+ الطباعة
     </li>
    </ul>
    <header>
@@ -66,7 +67,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
  لخص
     </li>
     <li>
- علامات ذكية
+ العلامات الذكية
     </li>
    </ul>
   </div>
@@ -91,7 +92,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
  تطبيق الصيغ
     </li>
     <li>
- استيراد / تصدير البيانات
+ استيراد/تصدير البيانات
     </li>
    </ul>
   </div>
@@ -117,7 +118,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="API يدعم إطار عمل .NET ، .NET Core & Xamarin platform. علاوة على ذلك ، يمكن استخدامه مع Mono والعديد من المنصات الأخرى عبر COM Interop." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="API يدعم إطار عمل .NET ومنصة Core وXamarin .NET. علاوة على ذلك، يمكن استخدامه مع Mono والعديد من المنصات الأخرى عبر COM Interop." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -139,11 +140,11 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
    <header>
     <i class="fa fa-cubes">
     </i>
- COM Interop
+ التشغيل المتداخل لـ COM
    </header>
    <ul>
     <li>
- PHP ، VBScript ، دلفي ، C++
+ PHP، VBScript، دلفي، C++
     </li>
    </ul>
   </div>
@@ -158,17 +159,17 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
    <header>
     <i class="fa fa-cubes">
     </i>
- .NET كور
+ .NET الأساسية
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
- منصة Xamarin
+ منصة زامارين
    </header>
    <ul>
     <li>
- زامارين
+ Xamarin.Android
     </li>
     <li>
  Xamarin.iOS
@@ -212,21 +213,21 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for .NET يدعم جدول البيانات الشائع[تنسيقات الملفات](https://docs.aspose.com/cells/net/supported-file-formats/) بالإضافة إلى أكثر تنسيقات الصور والتخطيط الثابت استخدامًا." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for .NET يدعم جدول البيانات الشهير[تنسيقات الملفات](https://docs.aspose.com/cells/net/supported-file-formats/) بالإضافة إلى تنسيقات الصور والتخطيطات الثابتة الأكثر استخدامًا." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
- الإدخال / الإخراج
+ الإدخال/الإخراج
    </header>
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
- XLS ، XLSX ، XLSB ، XLT ، XLTX ، XLTM ، XLSM ، XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
@@ -250,7 +251,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
      <b>
       Numbers:
      </b>
- مستندات تطبيق Apple's iWork office Suite Numbers
+ وثائق تطبيق مجموعة مكتب iWork من Apple Numbers
     </li>
    </ul>
   </div>
@@ -264,9 +265,9 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
    <ul>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
- PDF، PDF / A، XPS
+ PDF, PDF/أ, XPS
     </li>
     <li>
      <b>
@@ -314,7 +315,7 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- ميزات جدول بيانات Excel المتقدمة API
+ ميزات جدول بيانات Excel المتقدم API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -332,127 +333,127 @@ Aspose.Cells for .NET هو برنامج جداول بيانات Excel API لتس
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- استيراد / تصدير البيانات إلى & amp؛ من DataTable أو DataView أو Array
+ استيراد/تصدير البيانات إلى &amp; من DataTable أو DataView أو Array
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة & amp؛ التلاعب بالمخططات & أمبير ؛ PivotTable من خلال المنتج API
+ إضافة &amp; التعامل مع الرسوم البيانية &amp; PivotTable من خلال المنتج API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- استيراد الصيغ من جدول بيانات مصمم
+ استيراد الصيغ من جدول بيانات المصمم
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- اقتطاع اسم الورقة الطويلة & أمبير ؛ استبدال الأحرف غير الصالحة في وقت التشغيل
+ اقتطاع اسم الورقة الطويلة &amp; استبدال الأحرف غير الصالحة في وقت التشغيل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بتطبيق محاذاة النص على نص جزئي داخل مربع النص
+ تطبيق محاذاة النص على النص الجزئي داخل TextBox
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- لصق الصفوف & أمبير ؛ أعمدة مع خيارات لصق متقدمة
+ لصق الصفوف &amp; أعمدة مع خيارات لصق متقدمة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-دعم CSV (قيم مفصولة بفواصل) & أمبير ؛ TSV (قيم مفصولة بعلامات جدولة)
+دعم CSV (قيم مفصولة بفواصل) &amp; TSV (قيم مفصولة بعلامات جدولة)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ التلاعب في التعليقات
+ إنشاء &amp; التلاعب بالتعليقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعيين الفلاتر التلقائية وأمبير. فواصل الصفحة
+ ضبط المرشحات التلقائية &amp; فواصل الصفحة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حدد قواعد التنسيق الشرطي
+ تحديد قواعد التنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة النطاقات المسماة
+ إنشاء &amp; التعامل مع النطاقات المسماة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ تقديم خطوط المؤشرات
+ إنشاء &amp; تقديم خطوط لامعة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تصدير أوراق العمل بتنسيق SVG
+ تصدير أوراق العمل إلى تنسيق SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة & amp؛ اكتب جداول بيانات كبيرة في وضع الوزن الخفيف
+ اقرأ &amp; كتابة جداول بيانات كبيرة في وضع خفيف الوزن
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إعادة عينة الصور في تحويل Excel-to-PDF
+ إعادة أخذ عينات من الصور في تحويل Excel إلى PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعديل التعليمات البرمجية لـ VBA أو وحدات الماكرو في ملف القالب
+ تعديل كود VBA أو وحدات الماكرو في ملف القالب
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعبئة جداول البيانات عبر Smart Markers
+ تعبئة جداول البيانات عبر العلامات الذكية
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تحويل جداول البيانات إلى PDF ، XPS & amp؛ HTML تنسيقات
+ تحويل جداول البيانات إلى PDF، XPS &amp; HTML التنسيقات
     </h2>
     <p>
- Aspose.Cells for .NET قادر على تحويل جداول البيانات إلى PDF ، XPS & amp؛ HTML مع الحفاظ على أعلى دقة بصرية. عملية التحويل بسيطة ولكنها موثوقة ، مما يجعل API خيارًا مثاليًا للمنظمات التي تتطلب تبادل المستندات في أي من التنسيقات المتوافقة مع معايير الصناعة.
+ Aspose.Cells for .NET قادر على تحويل جداول البيانات إلى PDF و XPS &amp; تنسيقات HTML مع الحفاظ على أعلى دقة بصرية. عملية التحويل بسيطة ولكنها موثوقة، مما يجعل API خيارًا مثاليًا للمؤسسات التي تحتاج إلى تبادل المستندات بأي من التنسيقات القياسية الصناعية.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -475,37 +476,37 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تصور البيانات بالتنسيق والرسوم البيانية وأمبير. الرسومات
+ تصور البيانات بالتنسيق والمخططات والبيانات الرسومات
     </h2>
     <p>
- يمنحك Aspose.Cells for .NET الحرية الكاملة والمرونة لتزويد جداول البيانات الخاصة بك بجميع أنواع التأثيرات المرئية. يسمح لك API بتطبيق خطوط مختلفة مع السمات وأنماط الخلية (المحاذاة والمسافة البادئة والدوران والحدود والتظليل والتلوين والحماية وتغليف النص وتقليصه) وجميع أنواع تنسيقات الأرقام.
+ Aspose.Cells for .NET يمنحك الحرية الكاملة والمرونة لتزويد جداول البيانات الخاصة بك بجميع أنواع المؤثرات البصرية. يتيح لك API تطبيق خطوط مختلفة مع السمات وأنماط الخلايا (المحاذاة، المسافة البادئة، التدوير، الحدود، التظليل والتلوين، الحماية، التفاف النص وتقليصه) وجميع أنواع تنسيقات الأرقام.
     </p>
     <p>
- وبالمثل ، فإن المخططات والرسومات جذابة بصريًا ويمكن أن تضفي على جدول البيانات مظهرًا احترافيًا. Aspose.Cells for .NET يوفر مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء ومعالجة كافة أنواع المخططات القياسية والمخصصة. علاوة على ذلك ، يمكنك إضافة أنواع مختلفة من الكائنات الرسومية ، مثل التعليقات والصور وكائنات OLE والأشكال وعناصر التحكم إلى الخلايا
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
- فعالة وقوية وأمبير. محرك حساب صيغة موثوق
-    </h2>
-    <p>
-يحتوي Aspose.Cells for .NET على محرك حساب صيغة قوي يدعم تقريبًا جميع صيغ ووظائف Excel القياسية والمتقدمة Microsoft. يمكنك قراءة وتعيين وحساب نتائج المضمن والوظيفة الإضافية والمصفوفة & أمبير ؛ صيغ النمط المرجعي R1C1.
+ وبالمثل، تعد المخططات والرسومات جذابة بصريًا ويمكن أن تضفي على جدول البيانات الخاص بك مظهرًا احترافيًا. Aspose.Cells for .NET يوفر مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء ومعالجة جميع أنواع المخططات القياسية والمخصصة. علاوة على ذلك، يمكنك إضافة أنواع مختلفة من الكائنات الرسومية، مثل التعليقات والصور وكائنات OLE والأشكال وعناصر التحكم إلى الخلايا
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تلخيص البيانات باستخدام الجداول المحورية والمخططات & amp؛ علامات ذكية
+ فعالة وقوية&amp; محرك حساب الصيغة الموثوق به
     </h2>
     <p>
- يمكن أن يساعدك Pivot Table في تلخيص البيانات المسطحة بسرعة والحصول على المعلومات المطلوبة وفقًا لاحتياجاتك. تتيح لك مكتبة Excel .NET إنشاء جداول Pivot و Pivot Charts ديناميكيًا. يمكنك تغيير البيانات المصدر للجدول المحوري ديناميكيًا وتحديثها. علاوة على ذلك ، تقدم المكتبة علامات ذكية وهي ميزة رائعة لتعبئة أوراق العمل بناءً على بعض مصادر البيانات وإنشاء تقارير فعالة بصريًا.
+يحتوي Aspose.Cells for .NET على محرك حساب صيغ قوي يدعم تقريبًا جميع صيغ ووظائف Microsoft Excel القياسية والمتقدمة. يمكنك قراءة وتعيين وحساب نتائج العناصر المضمنة والوظيفة الإضافية والمصفوفة &amp; صيغ النمط المرجعي R1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تقديم أوراق عمل Excel وأمبير. الرسوم البيانية كصور
+ تلخيص البيانات باستخدام الجداول المحورية والرسوم البيانية والبيانات العلامات الذكية
     </h2>
     <p>
-Aspose.Cells for .NET لديه محرك تقديم خاص به مصمم خصيصًا للتصيير & amp؛ الطباعة بأعلى دقة إلى Microsoft Excel. يقدم ميزات مميزة مثل تقديم أوراق عمل Excel & amp؛ الرسوم البيانية للصور وأمبير. طباعة أوراق العمل على أي طابعة مادية متصلة. تتسم العملية بالمرونة مما يسمح لك باختيار عدد من الخيارات ، مثل التحكم في أبعاد الصورة الناتجة عند عرض أوراق العمل & amp؛ الرسوم البيانية للصور.
+ يمكن أن يساعدك الجدول المحوري في تلخيص البيانات الثابتة بسرعة والحصول على المعلومات المطلوبة وفقًا لاحتياجاتك. .NET تتيح لك مكتبة Excel إمكانية إنشاء الجداول المحورية والمخططات المحورية بشكل ديناميكي. يمكنك تغيير البيانات المصدر للجدول المحوري وتحديثها ديناميكيًا. علاوة على ذلك، توفر المكتبة علامات ذكية وهي ميزة رائعة لملء أوراق العمل بناءً على بعض مصادر البيانات وإنشاء تقارير فعالة بصريًا.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ تقديم أوراق عمل Excel & amp؛ الرسوم البيانية كصور
+    </h2>
+    <p>
+Aspose.Cells for .NET لديه محرك عرض خاص به مصمم خصيصًا للعرض والعرض. الطباعة بأعلى دقة لـ Microsoft Excel. وهو يقدم ميزات مميزة مثل عرض أوراق عمل Excel و&amp; الرسوم البيانية للصور &amp; طباعة أوراق العمل على أي طابعة فعلية متصلة. تتميز العملية بالمرونة مما يسمح لك باختيار عدد من الخيارات، مثل التحكم في أبعاد الصورة الناتجة عند عرض أوراق العمل &amp; الرسوم البيانية للصور.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -540,26 +541,26 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- إنشاء الرسم البياني & أمبير ؛ تلاعب
+ إنشاء المخططات &amp; تلاعب
     </h2>
     <p>
- Aspose.Cells for .NET يأتي مع دعم كامل للمخططات. يمكنك بسهولة إضافة مخططات قياسية أو مخصصة باستخدام المنتج API وتعيين البيانات ديناميكيًا لتحديث الرسوم البيانية. يسمح لك API أيضًا بتحويل المخططات إلى عدد من تنسيقات الصور.
+ Aspose.Cells for .NET يأتي مع دعم كامل للرسوم البيانية. يمكنك بسهولة إضافة مخططات قياسية أو مخصصة باستخدام المنتج API وتعيين البيانات ديناميكيًا لتحديث المخططات. API يسمح لك أيضًا بتحويل المخططات إلى عدد من تنسيقات الصور.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- واجهات رسومية للويب وأمبير. تطبيقات سطح المكتب
+ واجهات رسومية للويب & amp؛ تطبيقات سطح المكتب
     </h2>
     <p>
-يوفر Aspose.Cells for .NET عناصر تحكم واجهة المستخدم الرسومية للويب & amp؛ تطبيقات سطح المكتب. يمكن للمستخدم النهائي استخدام عناصر التحكم هذه لفتح وحفظ & amp؛ تحرير ملفات Excel والاستيراد & أمبير ؛ تصدير البيانات وإدارة التنسيق & أمبير ؛ الصيغ والتحويل بين العديد من تنسيقات جداول البيانات المدعومة ، مباشرة من الواجهة الأمامية لتطبيقك.
+Aspose.Cells for .NET يوفر عناصر تحكم واجهة المستخدم الرسومية للويب &amp; تطبيقات سطح المكتب. يمكن للمستخدم النهائي استخدام عناصر التحكم هذه لفتح وحفظ &amp; تحرير ملفات Excel واستيرادها &amp; تصدير البيانات وإدارة التنسيق والتنسيق الصيغ والتحويل بين العديد من تنسيقات جداول البيانات المدعومة، مباشرة من الواجهة الأمامية لتطبيقك.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft أتمتة المكاتب - غير مطلوب
+ Microsoft أتمتة المكاتب – غير مطلوب
     </h2>
     <p>
- تم إنشاء Aspose.Cells for .NET باستخدام رمز مُدار لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel. إنه بديل مثالي لأتمتة المكاتب Microsoft من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
+ تم إنشاء Aspose.Cells for .NET باستخدام تعليمات برمجية مُدارة لا تحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel. إنه بديل مثالي لأتمتة المكاتب Microsoft من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
     </p>
    </div>
   </div>
@@ -569,22 +570,22 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. انظر ماذا يقول المستخدمون عن ذلك." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون حول هذا الموضوع." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- بصفتنا شركة خدمات برمجية ، فإننا نتفهم مدى أهمية خدمة العملاء عند العمل مع العملاء. يسعدني أن أرى Aspose يشاركنا هذه القيمة. Aspose.Cells أداة ممتازة ، لها ميزة سرعة كبيرة على VBA.
+ باعتبارنا شركة خدمات برمجيات، فإننا ندرك مدى أهمية خدمة العملاء عند العمل مع العملاء. يسعدني أن أرى Aspose يشاركنا هذه القيمة. Aspose.Cells هي أداة ممتازة، وتتمتع بميزة سرعة كبيرة مقارنة بـ VBA.
  <em>
- بول كاتز | Intersoft ، الولايات المتحدة الأمريكية
+ بول كاتز | إنترسوفت، الولايات المتحدة الأمريكية
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-مجموعة المنتجات Aspose والدعم لا يعلى عليه. لم نكن لنفعل ما فعلناه بدون هذا الحل.
+مجموعة المنتجات والدعم Aspose لا مثيل لها. لم يكن بإمكاننا أن نفعل ما فعلناه بدون هذا الحل.
  <em>
- دكتور دان باترسون | أكيومن ، المملكة المتحدة
+ د. دان باترسون | الفطنة، المملكة المتحدة
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -596,26 +597,26 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/net/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/cells/net" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/cells/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for .NET؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

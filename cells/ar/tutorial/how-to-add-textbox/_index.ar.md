@@ -11,49 +11,49 @@ url: /ar/tutorial/add-textbox-in-excel
 {{< blocks/products/pf/feature-page-section h2="تعرف على كيفية إضافة TextBox مع Aspose.Cells" >}}
 
 <p>
-في هذا البرنامج التعليمي ، سنضيف TextBox في ملف Excel.
+في هذا البرنامج التعليمي، سنقوم بإضافة TextBox في ملف Excel.
 </p>
 
 <p>
- سنبدأ بإنشاء مصنف جديد باستخدام ملف<a href="https://www.nuget.org/packages/Aspose.Cells">مكتبة Aspose.Cells</a> وإضافة TextBox.
+ سنبدأ بإنشاء مصنف جديد باستخدام<a href="https://www.nuget.org/packages/Aspose.Cells">مكتبة Aspose.Cells</a> وأضف TextBox.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
 // ExSummary: يرجى التحقق من الكود التالي لمعرفة كيفية إضافة TextBox.
-// ExStepSummary: 0: يوضح الكود التالي كيفية إضافة TextBox وتعيين النص.
+//ExStepSummary:0: يوضح الكود التالي كيفية إضافة TextBox وتعيين النص.
 //ExStepImage:0:step-1.png
-// ExStepSummary: 1: يوضح الكود التالي كيفية تغيير لون النص.
+//ExStepSummary:1: يوضح الكود التالي كيفية تغيير لون النص.
 //ExStepImage:1:step-2.png
-// ExStepSummary: 2: يوضح الكود التالي كيفية تغيير زاوية الدوران لمربع النص.
+//ExStepSummary:2: يوضح الكود التالي كيفية تغيير زاوية دوران TextBox.
 //ExStepImage:2:step-3.png
-// ExStart
-// ExStep: 0-
-باستخدام Aspose.Cells ؛
-باستخدام Aspose.Cells. الرسم ؛
+//ExStart
+// اكسستيب:0-
+باستخدام Aspose.Cells؛
+باستخدام Aspose.Cells.الرسم؛
 
-مصنف المصنف = مصنف جديد () ؛
-ورقة العمل = workbook.Worksheets [0] ؛
-sheet.PageSetup.PrintGridlines = صحيح ،
-sheet.PageSetup.PrintArea = "A1: F20" ؛
+مصنف المصنف = مصنف جديد ()؛
+ورقة عمل = Workbook.Worksheets[0];
+Sheet.PageSetup.PrintGridlines = true;
+Sheet.PageSetup.PrintArea = "A1:F20";
 
-أشكال ShapeCollection = sheet.Shapes ؛
+ShapeCollection Shapes = Sheet.Shapes;
 
-// إضافة TextBox وضبط النص
-TextBox textBox = الأشكال .AddTextBox (1 ، 0 ، 1 ، 0 ، 200 ، 200) ؛
-textBox.Text = "Aspose.Cells for .NET هي مكتبة فئة برمجة تسمح لمطوري البرامج بمعالجة ملفات جداول البيانات ومعالجتها داخل تطبيقاتهم الخاصة."؛
+// أضف TextBox وقم بتعيين النص
+TextBox textBox = Shapes.AddTextBox(1, 0, 1, 0, 200, 200);
+textBox.Text = "Aspose.Cells for .NET هي مكتبة فئة برمجة تسمح لمطوري البرامج بمعالجة ملفات جداول البيانات ومعالجتها داخل تطبيقاتهم الخاصة.";
 
-// ExStep: 1-
+//الخطوة السابقة:1-
 // تغيير لون النص
-textBox.Font.Color = Color.Blue ،
+textBox.Font.Color = Color.Blue;
 
-// ExStep: 2-
-// تغيير زاوية دوران مربع النص
-textBox.RotationAngle = 90 ،
+// اكسستيب:2-
+// تغيير زاوية دوران TextBox
+textBox.RotationAngle = 90;
 
-// ExStep: 0-
+// اكسستيب:0-
 
-// ExEnd
+//انتهى
 {{< /app/cells/tutorial >}}
 <br />
 
@@ -62,7 +62,7 @@ textBox.RotationAngle = 90 ،
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">تركيب Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells المحرر</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells محرر</a></li>
     </ul>
 </div>
 

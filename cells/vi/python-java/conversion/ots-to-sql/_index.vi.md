@@ -1,7 +1,7 @@
 ---
-title: Python OTS sang SQL - Trình chuyển đổi OTS sang SQL trực tuyến
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi OTS sang định dạng lưu SQL. Python OTS sang định dạng SQL. Lưu OTS vào SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to SQL saveformat., Free Online OTS to SQL Python., Python Convert OTS to SQL]
+title: Python OTS sang SQL - Công cụ chuyển đổi OTS sang SQL
+description: Aspose Excel. Chuyển đổi OTS sang SQL nhanh chóng và dễ dàng với Aspose.Cells. Python OTS sang SQL. Python Lưu OTS vào SQL. Lưu OTS dưới dạng SQL bằng Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to SQL in Python., Save OTS to SQL using Python., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi OTS sang SQL trong Python" h2="Thư viện Python tốc độ cao để chuyển đổi OTS sang SQL. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất OTS, SQL và nhiều định dạng khác bằng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,40 +12,40 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi OTS sang SQL bằng Python" %}}
 
- Làm cách nào để chuyển đổi OTS sang SQL? Với thư viện Aspose.Cells for Python, bạn có thể dễ dàng chuyển đổi OTS sang SQL theo chương trình với một vài dòng mã.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng.
+ Làm cách nào để chuyển đổi OTS sang SQL? Với thư viện Aspose.Cells for Python, bạn có thể dễ dàng chuyển đổi OTS sang SQL theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu OTS vào SQL trong Python Trực tuyến Miễn phí" %}}
+{{% blocks/products/pf/agp/content h2="Lưu OTS sang SQL vào Python" %}}
 
-Ví dụ sau minh họa cách chuyển đổi OTS sang SQL trong Python.
+Ví dụ sau đây minh họa cách chuyển đổi OTS sang SQL trong Python.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi OTS sang SQL. Tải lên tệp OTS của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp SQL. Đối với cả đọc OTS và viết SQL, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng SQL đầu ra sẽ giống với tài liệu OTS gốc.
+Thực hiện theo các bước đơn giản để chuyển đổi OTS sang SQL. Tải lên tệp OTS của bạn, sau đó chỉ cần lưu nó dưới dạng tệp SQL. Đối với cả đọc OTS và ghi SQL, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng SQL đầu ra sẽ giống hệt với tài liệu OTS gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi OTS sang SQL trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi OTS sang SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi OTS sang SQL qua Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi các tệp OTS sang SQL theo chương trình? Python các nhà phát triển có thể dễ dàng tải và chuyển đổi OTS sang SQL chỉ bằng một vài dòng mã.
+Cần chuyển đổi tệp OTS sang SQL theo chương trình? Các nhà phát triển Python có thể dễ dàng tải và chuyển đổi OTS sang SQL chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp OTS với phiên bản Sổ làm việc.
+1.  Tải tệp OTS với một phiên bản của Workbook.
 1.  Chuyển đổi OTS sang SQL bằng cách gọi phương thức Workbook.save.
-1.  Nhận kết quả chuyển đổi từ OTS sang SQL.
+1.  Nhận kết quả chuyển đổi OTS sang SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python thư viện để chuyển OTS sang SQL" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện Python để chuyển đổi OTS sang SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -53,7 +53,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for Python via Java" vào h�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Lh Aspose.Cells for Python via Java trong Windows. Xem[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Cài đặt Aspose.Cells for Python via Java vào Windows. Xem[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#windows)
 1.  Cài đặt Aspose.Cells for Python via Java trong Linux. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#linux)
 1.  Cài đặt Aspose.Cells for Python via Java trong macOS. Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
@@ -63,47 +63,47 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for Python via Java" vào h�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux và MacOS), chỉ cần đảm bảo hệ thống đó có Java 1.8 trở lên,[Python](https://www.python.org/downloads/) 3.5 trở lên.
+ Aspose.Cells for Python via Java độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux và MacOS), chỉ cần đảm bảo rằng hệ thống có Java 1.8 trở lên,[Python](https://www.python.org/downloads/) 3,5 hoặc cao hơn.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Cài đặt Java và thêm nó vào biến môi trường PATH, ví dụ:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells</code>.
+-  Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Tệp có phần mở rộng .ots là tệp Mẫu Bảng tính Tài liệu Mở được tạo bằng phần mềm ứng dụng Calc có trong Apache OpenOffice. Phần mềm ứng dụng Calc tương tự như Excel có sẵn trong Microsoft Office. Định dạng tệp OTS được sử dụng để tạo các mẫu có chứa các cài đặt xác định trước liên quan đến kiểu, phông chữ, dữ liệu, bố cục bảng tính và định dạng. Các tệp OTF có ứng dụng kiểu mime/vnd.oasis.opendocument.spreadsheet-template. Các tệp mẫu này có thể được sử dụng làm điểm bắt đầu để tạo và lưu các tệp dữ liệu thực được lưu ở định dạng tệp ODS. Các tệp OTS có thể được sử dụng với các ứng dụng như OpenOffice và LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Tệp có phần mở rộng .sql là tệp Ngôn ngữ truy vấn có cấu trúc (SQL) chứa mã để hoạt động với cơ sở dữ liệu quan hệ. Nó được sử dụng để viết các câu lệnh SQL cho các hoạt động CRUD (Tạo, Đọc, Cập nhật và Xóa) trên cơ sở dữ liệu. Các tệp SQL phổ biến khi làm việc với máy tính để bàn cũng như cơ sở dữ liệu dựa trên web. Có một số lựa chọn thay thế cho SQL, chẳng hạn như Java Ngôn ngữ truy vấn liên tục (JPQL), LINQ, HTSQL, 4D QL và một số ngôn ngữ khác. Các tệp SQL có thể được mở bằng trình chỉnh sửa truy vấn của Microsoft SQL Server, MySQL và các trình soạn thảo văn bản thuần túy khác như Notepad trên HĐH Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Tệp có phần mở rộng .ots là tệp Mẫu bảng tính OpenDocument được tạo bằng phần mềm ứng dụng Calc có trong Apache OpenOffice. Phần mềm ứng dụng Calc tương tự như Excel có sẵn tại Office Microsoft. Định dạng tệp OTS được sử dụng để tạo các mẫu chứa các cài đặt xác định trước liên quan đến kiểu, phông chữ, dữ liệu, bố cục bảng tính và định dạng. Các tệp OTF có ứng dụng kiểu mime/vnd.oasis.opendocument.s Spreadsheet-template. Các tệp mẫu này có thể được sử dụng làm điểm bắt đầu để tạo và lưu các tệp dữ liệu thực tế được lưu ở định dạng tệp ODS. Các tệp OTS có thể được sử dụng với các ứng dụng như OpenOffice và LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Tệp có phần mở rộng .sql là tệp Ngôn ngữ truy vấn có cấu trúc (SQL) chứa mã để làm việc với cơ sở dữ liệu quan hệ. Nó được sử dụng để viết các câu lệnh SQL cho các hoạt động CRUD (Tạo, Đọc, Cập nhật và Xóa) trên cơ sở dữ liệu. Các tệp SQL phổ biến khi làm việc với máy tính để bàn cũng như cơ sở dữ liệu dựa trên web. Có một số lựa chọn thay thế cho SQL như Java Ngôn ngữ truy vấn liên tục (JPQL), LINQ, HTSQL, 4D QL và một số ngôn ngữ khác. Các tệp SQL có thể được mở bằng trình soạn thảo truy vấn của Microsoft SQL Server, MySQL và các trình soạn thảo văn bản đơn giản khác như Notepad trên HĐH Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi OTS sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS ĐẾN BMP" description="Hình ảnh bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS ĐẾN GIF" description="Định dạng trao đổi đồ họa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS ĐẾN MD" description="ngôn ngữ đánh dấu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS ĐẾN MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS ĐẾN ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS ĐẾN PDF" description="Định dạng tài liệu di động" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS ĐẾN SVG" description="Đồ họa Vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS ĐẾN TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS ĐẾN TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS ĐẾN XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsb/" name="OTS ĐẾN XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS ĐẾN XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS ĐẾN XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS ĐẾN XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS ĐẾN XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS ĐẾN XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS GỬI BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS GỬI EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS GỬI GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS GỬI HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS ĐẾN MD" description="Ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS GỬI MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS GỬI ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS GỬI PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS GỬI PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS GỬI SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS GỬI TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS GỬI TSV" description="Giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS GỬI TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS GỬI XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsb/" name="OTS GỬI XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS GỬI XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS GỬI XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS GỬI XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS GỬI XLTM" description="Mẫu hỗ trợ macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS GỬI XLTX" description="Mẫu Excel OpenXML của Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xml/" name="OTS SANG XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-json/" name="OTS ĐẾN JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS GỬI XPS" description="Thông số kỹ thuật của giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-json/" name="OTS GỬI JSON" description="Ký hiệu đối tượng JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

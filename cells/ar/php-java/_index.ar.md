@@ -1,10 +1,10 @@
 ---
-title:  جدول بيانات Excel PHP API-Aspose
+title:  جدول بيانات إكسل PHP API - Aspose
 weight: 3660
-description: جدول بيانات PHP Excel API لقراءة الكتابة والتحويل XLS XLSX CSV TSV HTML ODS SpreadsheetML وجميع تنسيقات Excel 97-2016. تصدير جداول البيانات إلى تنسيقات متعددة
+description: جدول بيانات PHP Excel API للقراءة والكتابة والتحويل XLS XLSX CSV TSV HTML ODS SpreadsheetML وجميع صيغ Excel 97-2016. تصدير جداول البيانات إلى صيغ متعددة
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="جدول بيانات PHP Excel API" h2="قم بتنفيذ مهام معالجة جداول البيانات بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة بدون أي تبعيات Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP جدول بيانات إكسل API" h2="قم بتنفيذ مهام معالجة جداول البيانات بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة دون أي تبعيات Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -12,7 +12,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java هو إدارة جداول بيانات Excel قابلة للتطوير وغنية بالميزات ومعالجة API. يمكن للتطبيقات إجراء تحويل تنسيق جدول البيانات وإدارة الرسوم البيانية وعرضها وتنفيذ الصيغ وتصميم أوراق العمل إلى المستوى الأكثر دقة وأكثر من ذلك بكثير. API يدعم XLS ، XLSX ، ODS ، SpreadsheetML ، CSV ، Tab Delimited ، HTML/MHTML ، PDF ، XPS والتنسيقات الأخرى. يمكن للمطورين بسهولة إضافة القدرة على إنشاء ملفات Excel وتحريرها وتحويلها وعرضها في تطبيقات PHP الخاصة بهم أثناء استخدام JavaBridge.
+ Aspose.Cells for PHP via Java عبارة عن إدارة ومعالجة جداول بيانات Excel قابلة للتطوير وغنية بالميزات API. يمكن للتطبيقات إجراء تحويل تنسيق جداول البيانات وإدارة المخططات وعرضها وتنفيذ الصيغ وتصميم أوراق العمل على المستوى الأكثر تفصيلاً وغير ذلك الكثير. API يدعم XLS، XLSX، ODS، SpreadsheetML، CSV، جدول محدد، HTML/MHTML، PDF، XPS وغيرها من الصيغ. يمكن للمطورين بسهولة إضافة القدرة على إنشاء ملفات Excel وتحريرها وتحويلها وعرضها في تطبيقات PHP الخاصة بهم أثناء استخدام JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات Aspose.Cells for PHP via Java." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="لمحة عامة عن إمكانيات Aspose.Cells for PHP via Java." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -56,7 +56,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
  حساب الصيغة
     </li>
     <li>
- علامات ذكية
+ العلامات الذكية
     </li>
     <li>
  الجداول المحورية
@@ -98,7 +98,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em>
  ل
     </em>
- PHP via Java
+ بي إتش بي via Java
    </small>
   </footer>
  </div>
@@ -107,7 +107,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for PHP via Java يتطلب PHP 7.1 (أو أعلى) و JavaBridge. يمكن أن تعمل على أي منصة حيث يمكن تلبية هذه المتطلبات." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells for PHP via Java يتطلب PHP 7.1 (أو أعلى) وJavaBridge. يمكن تشغيله على أي منصة حيث يمكن تلبية هذه المتطلبات." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -129,7 +129,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
    <header>
     <i class="fa fa-cubes">
     </i>
- macOS
+ ماك
    </header>
    <!--
 
@@ -156,7 +156,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em>
  ل
     </em>
- PHP via Java
+ بي إتش بي via Java
    </small>
   </footer>
  </div>
@@ -165,21 +165,21 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells for PHP via Java يدعم تنسيقات جداول البيانات الشائعة جنبًا إلى جنب مع تنسيقات الصور والتخطيط الثابت الأكثر استخدامًا." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells for PHP via Java يدعم تنسيقات جداول البيانات الشائعة إلى جانب تنسيقات الصور والتخطيطات الثابتة الأكثر استخدامًا." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
- الإدخال / الإخراج
+ الإدخال/الإخراج
    </header>
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
- XLS ، XLSX ، XLSB ، XLTX ، XLTM ، XLSM ، XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
@@ -191,7 +191,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
      <b>
  نص:
      </b>
- CSV، محدد بعلامات جدولة، TXT
+ CSV, محدد بعلامات جدولة, TXT
     </li>
     <li>
      <b>
@@ -211,7 +211,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
    <ul>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
      PDF, XPS
     </li>
@@ -236,7 +236,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em>
  ل
     </em>
- PHP via Java
+ بي إتش بي via Java
    </small>
   </footer>
  </div>
@@ -255,7 +255,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- ميزات جدول PHP المتقدم API
+ ميزات جدول بيانات PHP المتقدم API
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -264,28 +264,28 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- دعم CSV ، محدد بعلامات جدولة وأمبير. HTML تنسيقات
+ دعم CSV، محدد بعلامات جدولة &amp; HTML تنسيقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تحميل وأمبير. حفظ تنسيق OpenDocument Spreadsheet (ODS)
+ تحميل وأمبير. حفظ تنسيق جدول بيانات OpenDocument (ODS).
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء ومعالجة & أمبير ؛ تقديم المخططات
+ إنشاء ومعالجة &amp; تقديم المخططات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- استيراد الصيغ من جدول بيانات مصمم
+ استيراد الصيغ من جدول بيانات المصمم
     </p>
    </div>
    <div class="col-lg-4">
@@ -299,42 +299,42 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء التعليقات والتعامل معها
+ إنشاء التعليقات ومعالجتها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعيين الفلاتر التلقائية وأمبير. فواصل الصفحة
+ ضبط المرشحات التلقائية &amp; فواصل الصفحة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تعيين & أمبير ؛ حساب الصيغ المعقدة
+ تعيين & أمبير؛ حساب الصيغ المعقدة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة قواعد التنسيق الشرطي
+ إنشاء &amp; التعامل مع قواعد التنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قم بتعيين خيارات الأمان / الحماية
+ ضبط خيارات الأمان/الحماية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ معالجة النطاقات المسماة
+ إنشاء &amp; التعامل مع النطاقات المسماة
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء ومعالجة & أمبير ؛ تحديث الجداول المحورية
+ إنشاء ومعالجة &amp; تحديث الجداول المحورية
     </p>
    </div>
    <div class="col-lg-4">
@@ -362,19 +362,19 @@ description: جدول بيانات PHP Excel API لقراءة الكتابة و�
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء & أمبير ؛ تقديم خطوط المؤشرات
+ إنشاء &amp; تقديم خطوط لامعة
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تحويل ملفات Excel إلى XPS ، PDF & amp؛ HTML
+ تحويل ملفات Excel إلى XPS وPDF&amp; HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API قادر على تحويل ملفات Excel إلى تنسيقات XPS و XPS و HTML بالإضافة إلى الحفاظ على أعلى دقة بصرية. عملية التحويل موثوقة ويمكن للمطورين الحصول على التنسيق المطلوب ببضعة أسطر فقط.
+Aspose.Cells for PHP via Java API قادر على تحويل ملفات Excel إلى الصيغ XPS وXPS وHTML بالإضافة إلى الحفاظ على أعلى دقة بصرية. عملية التحويل موثوقة ويمكن للمطورين الحصول على التنسيق المطلوب ببضعة أسطر فقط.
     </p>
     <div class="codeblock" id="code">
      <h3>
-حفظ جدول البيانات بتنسيقات متعددة - PHP
+ حفظ جدول البيانات بتنسيقات متعددة - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -393,10 +393,10 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تقديم جداول بيانات Excel وأمبير. كائنات لـ PDF & amp؛ الصور
+ تقديم جداول بيانات Excel &amp; الكائنات إلى PDF &amp; الصور
     </h2>
     <p>
- Aspose.Cells for PHP via Java لديه محرك تقديم خاص به مصمم خصيصًا لتقديم أعلى دقة إلى Microsoft Excel. أثناء استخدام Aspose.Cells for PHP via Java ، يمكنك تحويل جداول بيانات كاملة وأوراق عمل فردية & amp؛ الرسوم البيانية لعدد من الصور & أمبير ؛ تنسيقات التخطيط الثابت.
+ Aspose.Cells for PHP via Java لديه محرك عرض خاص به مصمم خصيصًا للعرض بأعلى دقة لبرنامج Excel Microsoft. أثناء استخدام Aspose.Cells for PHP via Java، يمكنك تحويل جداول البيانات بأكملها وأوراق العمل الفردية &amp; الرسوم البيانية لعدد من الصور &amp; تنسيقات التخطيط الثابتة.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,26 +404,26 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  خيارات عرض ورقة العمل المرنة
     </h2>
     <p>
- يمنحك Aspose.Cells for PHP via Java تحكمًا كاملاً في إعداد صفحة ورقة العمل مما يسمح لك بمعالجة خيارات عرض ورقة عمل Excel مثل فواصل الصفحات واتجاه الصفحة والقياس وحجم الورق والرؤوس / التذييلات & amp؛ مستوى التكبير. يمكنك أيضًا التحكم في رؤية البيانات باستخدام ألواح التجميد & amp؛ منطقة الطباعة لتناسب متطلبات التطبيق الخاص بك.
+Aspose.Cells for PHP via Java يمنحك التحكم الكامل في إعداد صفحة ورقة العمل مما يسمح لك بالتعامل مع خيارات عرض ورقة عمل Excel مثل فواصل الصفحات، واتجاه الصفحة، والقياس، وحجم الورق، والرؤوس/التذييلات &amp; مستوى التكبير. يمكنك أيضًا التحكم في رؤية البيانات باستخدام أجزاء التجميد &amp; منطقة الطباعة لتناسب متطلبات التطبيق الخاص بك.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- فعالة وقوية وأمبير. محرك حساب صيغة موثوق
+ فعالة وقوية&amp; محرك حساب الصيغة الموثوق به
     </h2>
     <p>
-Aspose.Cells for PHP via Java مجهز بمحرك حساب الصيغة القوي الذي يدعم تقريبًا جميع صيغ ووظائف Excel القياسية والمتقدمة Microsoft. يمكنك قراءة وتعيين وحساب نتائج صيغ نمط المرجع المضمنة أو الإضافية والصفيف و R1C1.
+ Aspose.Cells for PHP via Java مجهز بمحرك حساب صيغ قوي يدعم تقريبًا جميع صيغ ووظائف Microsoft Excel القياسية والمتقدمة. يمكنك قراءة وتعيين وحساب نتائج صيغ النمط المرجعي للنوع المضمن أو للوظيفة الإضافية والمصفوفة وR1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تصور البيانات بالتنسيق والرسوم البيانية وأمبير. الرسومات
+ تصور البيانات بالتنسيق والمخططات والبيانات الرسومات
     </h2>
     <p>
- تتميز المكتبة بالمرونة بحيث يمكن للمرء تزويد جداول البيانات بجميع أنواع التأثيرات المرئية بالإضافة إلى إمكانية تطبيق التنسيق على ورقة عمل أو صف أو عمود أو خلية ، وتعيين الخطوط بالسمات ، وتحديد نمط الخلية & amp؛ تنسيقات الأرقام وإضافة نص منسق وتحديد قواعد التنسيق الشرطي.
+ تتميز المكتبة بالمرونة الشديدة بحيث يمكن للمرء تزويد جداول البيانات بجميع أنواع التأثيرات المرئية بالإضافة إلى إمكانية تطبيق التنسيق على ورقة عمل أو صف أو عمود أو خلية، وتعيين الخطوط بالسمات، وتحديد نمط الخلية وتنسيقها. تنسيقات الأرقام وإضافة نص منسق وتحديد قواعد التنسيق الشرطي.
     </p>
     <p>
- وبالمثل ، للحصول على مظهر احترافي وسهل الفهم ، تعد المخططات والرسومات جزءًا لا يتجزأ. Aspose.Cells for PHP via Java يمكن لواجهات برمجة التطبيقات إنشاء ومعالجة جميع أنواع المخططات القياسية والمخصصة. علاوة على ذلك ، يمكن بسهولة إضافة أنواع مختلفة من الكائنات الرسومية إلى الخلايا.
+وبالمثل، للحصول على مظهر احترافي وسهولة الفهم، تعد الرسوم البيانية والرسومات جزءًا لا يتجزأ من ذلك. Aspose.Cells for PHP via Java يمكن لواجهات برمجة التطبيقات إنشاء ومعالجة جميع أنواع المخططات القياسية والمخصصة. علاوة على ذلك، يمكن بسهولة إضافة أنواع مختلفة من الكائنات الرسومية إلى الخلايا.
     </p>
    </div>
   </div>
@@ -439,25 +439,25 @@ Aspose.Cells for PHP via Java مجهز بمحرك حساب الصيغة القو
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/php/cells" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for PHP via Java؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/php" pricingInformationLink="https://purchase.aspose.com/pricing/cells/php-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

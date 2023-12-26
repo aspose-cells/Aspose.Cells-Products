@@ -11,7 +11,7 @@ url: /vi/tutorial/add-shapes-in-excel
 {{< blocks/products/pf/feature-page-section h2="Học cách thêm hình với Aspose.Cells" >}}
 
 <p>
-Trong hướng dẫn này, chúng ta sẽ thêm các hình dạng trong tệp excel.
+Trong hướng dẫn này, chúng ta sẽ thêm các hình dạng vào một tệp excel.
 </p>
 
 <p>
@@ -23,21 +23,21 @@ Trong hướng dẫn này, chúng ta sẽ thêm các hình dạng trong tệp ex
 //ExSummary: Vui lòng kiểm tra đoạn mã sau để tìm hiểu cách thêm hình dạng.
 //ExStepSummary:0: Đoạn mã sau cho biết cách thêm hình chữ nhật.
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: Đoạn mã sau cho biết cách thêm hình dạng đường.
+//ExStepSummary:1: Đoạn mã sau cho biết cách thêm hình dạng đường thẳng.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: Đoạn mã sau cho biết cách thêm hình bầu dục.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExStep:0-
 sử dụng Aspose.Cells;
-sử dụng Aspose.Cells.Drawing;
+sử dụng Aspose.Cells.Bản vẽ;
 
 
 
 
 
-Sổ làm việc sổ làm việc = Sổ làm việc mới();
-Bảng tính = workbook.Worksheets[0];
+Sổ làm việc của sổ làm việc = Sổ làm việc mới();
+Trang tính = bảng tính.Worksheets[0];
 sheet.PageSetup.PrintGridlines = true;
 sheet.PageSetup.PrintArea = "A1:F20";
 
@@ -51,7 +51,7 @@ hình dạng.AddRectangle(1, 0, 1, 0, 100, 150);
 hình dạng.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
-//Thêm hình bầu dục
+// Thêm hình bầu dục
 hình dạng.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-
@@ -64,8 +64,8 @@ sách bài tập
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Lh cài đặt Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells BTV</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Lắp đặt Aspose.Cells</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Biên tập viên</a></li>
     </ul>
 </div>
 

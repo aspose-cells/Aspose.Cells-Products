@@ -1,10 +1,10 @@
 ---
 title: تصدير التقارير في Excel XLS XLSX PDF ODS في JasperReports و JasperServer
 weight: 9460
-description: تصدير التقارير من Jasper Reports و JasperServer بتنسيق Excel XLS XLSX PDF ODS TXT و SpreadsheetML. قم أيضًا بطباعة التقارير في صورة جداول بيانات Excel
+description: تصدير التقارير من Jasper Reports و JasperServer بتنسيق Excel XLS XLSX PDF ODS TXT و SpreadsheetML. قم أيضًا بطباعة التقارير كجداول بيانات Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="يمتد JasperReports لتصدير التقارير على هيئة تنسيقات Excel" h2="تصدير التقارير إلى Microsoft جداول بيانات Excel بتنسيقات متعددة." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ملحق JasperReports لتصدير التقارير بتنسيقات Excel" h2="تصدير التقارير إلى Microsoft جدول بيانات Excel بتنسيقات متعددة." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports هو امتداد موثوق لـ JasperReports و JasperServer يقدم تقارير تصدير بتنسيق Microsoft Excel XLS و XLSX و PDF و ODS و TXT و SpreadsheetML بدون استخدام تنسيق Microsoft Excel. إنه يعمل كبديل لمصدر Excel Microsoft الأصلي لـ JasperReports بالإضافة إلى أنه يلغي الاعتماد على مكتبة POI.
+ Aspose.Cells for JasperReports هو امتداد موثوق لـ JasperReports وJasperServer يوفر تصدير التقارير بتنسيقات Microsoft Excel XLS وXLSX وPDF وODS وTXT وSpreadsheetML دون استخدام 0 76193481 اكسل. وهو يعمل كبديل لمصدر Excel الأصلي Microsoft الخاص بـ JasperReports، كما يلغي الاعتماد على مكتبة POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +20,14 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على ميزات Aspose.Cells for JasperReports \'." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="نظرة عامة على ميزات Aspose.Cells for JasperReports\'." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cog">
     </i>
- انتشار خفيف الوزن
+ نشر خفيف الوزن
    </header>
    <br/>
    <header>
@@ -41,7 +41,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
    <header>
     <i class="fa fa-bar-chart">
     </i>
- مخططات قابلة للتحرير
+ الرسوم البيانية القابلة للتحرير
    </header>
    <br/>
    <header>
@@ -63,7 +63,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
     <em>
  ل
     </em>
- جاسبر ريبورتس
+ تقارير جاسبر
    </small>
   </footer>
  </div>
@@ -72,7 +72,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for JasperReports يدعم J2SE و JasperReports و JasperServer." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells for JasperReports يدعم J2SE، JasperReports وJasperServer." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -104,7 +104,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
     <em>
  ل
     </em>
- جاسبر ريبورتس
+ تقارير جاسبر
    </small>
   </footer>
  </div>
@@ -113,7 +113,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for JasperReports يسمح لك بتصدير التقارير مباشرة إلى[التنسيقات التالية](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for JasperReports يتيح لك تصدير التقارير مباشرة إلى[التنسيقات التالية](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
      XLS, XLSX
     </li>
@@ -146,7 +146,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
     </li>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
      PDF
     </li>
@@ -154,7 +154,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
      <b>
  نص:
      </b>
- CSV، TSV، مفصول بعلامات جدولة
+ CSV، TSV، محدد بعلامات جدولة
     </li>
    </ul>
   </div>
@@ -171,7 +171,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
     <em>
  ل
     </em>
- جاسبر ريبورتس
+ تقارير جاسبر
    </small>
   </footer>
  </div>
@@ -190,7 +190,7 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- تقدم JasperReports إلى ميزات تصدير Excel
+ تقارير JasperReports المتقدمة لميزات تصدير Excel
    </h2>
    <p>
    </p>
@@ -198,14 +198,14 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء التقارير على هيئة ملفات Microsoft Excel
+ إنشاء التقارير كملفات Excel Microsoft
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- طباعة التقارير في شكل جداول بيانات
+ طباعة التقارير كجداول بيانات
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,10 +217,10 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تصدير التقارير إلى Microsoft تنسيقات Excel
+ تصدير التقارير إلى تنسيقات Excel Microsoft
     </h2>
     <p>
- يوفر Aspose.Cells for JasperReports وظيفة تصدير التقارير مباشرة إلى تنسيقات Excel Microsoft مثل XLS & amp؛ XLSX. بالإضافة إلى ذلك ، يمكنك أيضًا تصدير التقارير في SpreadsheetML ، ODS ، CSV & amp؛ تنسيقات محددة بعلامات جدولة لتناسب متطلبات عملك.
+ Aspose.Cells for JasperReports يوفر وظيفة تصدير التقارير مباشرة إلى Microsoft تنسيقات Excel مثل XLS &amp; XLSX. بالإضافة إلى ذلك، يمكنك أيضًا تصدير التقارير في SpreadsheetML، ODS، CSV &amp; تنسيقات محددة بعلامات جدولة لتناسب متطلبات عملك.
     </p>
    </div>
    <div class="col-lg-12">
@@ -228,23 +228,23 @@ description: تصدير التقارير من Jasper Reports و JasperServer ب�
  دقة عالية في تصميم التقرير
     </h2>
     <p>
-Aspose.Cells for JasperReports تصدير التقارير إلى التنسيقات المدعومة بأعلى دقة ، أي ؛ تبدو تقارير متطابقة تم تصديرها بواسطة وظائف التصدير المحلية لـ JasperReports.
+Aspose.Cells for JasperReports تصدير التقارير إلى التنسيقات المدعومة بأعلى دقة، أي؛ تبدو التقارير متطابقة تم تصديرها بواسطة وظائف التصدير الأصلية لـ JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- جداول بيانات Excel قابلة للتحرير
+ جداول بيانات إكسل قابلة للتحرير
     </h2>
     <p>
- Aspose.Cells for JasperReports تصدير مستندات Excel كجداول بيانات قابلة للتحرير بالكامل. وهو يدعم مخططات Excel Microsoft ، وأي مخطط يتم تصديره عبر محرك التقديم Aspose سيكون متاحًا كمخطط قابل للتحرير بدلاً من صورة ثابتة مما يسمح للمستخدمين النهائيين بتغيير المخططات يدويًا في Microsoft Excel.
+ Aspose.Cells for JasperReports تصدير مستندات Excel كجداول بيانات قابلة للتحرير بالكامل. وهو يدعم مخططات Excel Microsoft، وأي مخطط يتم تصديره عبر محرك العرض Aspose سيكون متاحًا كمخطط قابل للتحرير بدلاً من صورة ثابتة مما يسمح للمستخدمين النهائيين بتغيير المخططات يدويًا في Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft أتمتة المكاتب - غير مطلوب
+ Microsoft أتمتة المكاتب – غير مطلوب
     </h2>
     <p>
- تم تطوير المُصدِّر Aspose.Cells for JasperReports باستخدام رمز مُدار لا يحتاج أبدًا إلى تثبيت Microsoft Excel أو Microsoft Office على الجهاز للعمل مع تنسيقات مستندات Excel. إنه بديل مثالي لأتمتة Excel Microsoft من حيث الاستقرار وقابلية التوسع والميزات المدعومة والأمان والسعر والسرعة.
+ Aspose.Cells for JasperReports تم تطوير المصدر باستخدام تعليمات برمجية مُدارة لا تحتاج أبدًا إلى تثبيت Microsoft Excel أو Microsoft Office على الجهاز للعمل مع تنسيقات مستندات Excel. إنه بديل مثالي لأتمتة Excel Microsoft من حيث الاستقرار وقابلية التوسع والميزات المدعومة والأمان والسعر والسرعة.
     </p>
    </div>
   </div>
@@ -260,25 +260,25 @@ Aspose.Cells for JasperReports تصدير التقارير إلى التنسيق
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for JasperReports؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

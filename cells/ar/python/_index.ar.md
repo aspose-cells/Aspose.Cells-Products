@@ -1,10 +1,10 @@
 ---
-title:  جدول بيانات إكسل Python API-Aspose
+title:  Python جدول بيانات إكسل API - Aspose
 weight: 2820
-description: Python مكتبة جداول البيانات لتكوين قراءة وكتابة وتحليل ملفات Excel.
+description: Python مكتبة جداول البيانات لإنشاء ملفات Excel قراءة وكتابة وتحليل.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python جداول بيانات Excel تحليل واجهات برمجة التطبيقات" h2="قم بإنشاء جداول البيانات أو قراءتها أو كتابتها أو معالجتها بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة داخل تطبيقات Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python تحليل جداول بيانات Excel لواجهات برمجة التطبيقات" h2="إنشاء جداول البيانات أو قراءتها أو كتابتها أو معالجتها بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة ضمن تطبيقات Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
@@ -12,7 +12,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python هو API سريع وموثوق به لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة ، ومعالجة واستخراج المعلومات من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS و PDF و MHTML و HTML والنص العادي والصور والمزيد. إنه أفضل حل لأتمتة تقارير Excel باستخدام Python.
+Aspose.Cells for Python هو API سريع وموثوق به لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة، ومعالجة المعلومات واستخراجها من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS وPDF وMHTML وHTML ونص عادي وصور والمزيد. هذا هو الحل الأفضل لأتمتة تقارير Excel باستخدام بايثون.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +20,14 @@ description: Python مكتبة جداول البيانات لتكوين قراء
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات API." >}}
+{{< blocks/products/pf/carousel-item h3="في لمحة" description="نظرة عامة على قدرات API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- استيراد & أمبير ؛ يصدّر
+ استيراد &amp; يصدّر
    </header>
    <ul>
     <li>
@@ -50,10 +50,10 @@ description: Python مكتبة جداول البيانات لتكوين قراء
  الرسم البياني للصورة
     </li>
     <li>
- ورقة العمل على الصورة
+ ورقة عمل للصورة
     </li>
     <li>
- جدول بيانات إلى PDF
+ جدول البيانات إلى PDF
     </li>
    </ul>
   </div>
@@ -78,7 +78,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
  لخص
     </li>
     <li>
- علامات ذكية
+ العلامات الذكية
     </li>
    </ul>
   </div>
@@ -104,7 +104,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for Python متاح ل." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="Aspose.Cells for Python متاح ل." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +114,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python بيئة وقت التشغيل
+ Python بيئة التشغيل
    </header>
    <!--<ul>
 
@@ -144,21 +144,21 @@ description: Python مكتبة جداول البيانات لتكوين قراء
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="تدعم مكتبة إكسل Python تنسيقات إكسل Microsoft الشائعة وتنسيقات التخطيط الثابت والصور." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="تدعم مكتبة Excel Python تنسيقات Excel Microsoft الشائعة وتنسيقات التخطيط الثابت والصور." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
- الإدخال / الإخراج
+ الإدخال/الإخراج
    </header>
    <ul>
     <li>
      <b>
- Microsoft إكسل:
+ Microsoft اكسل:
      </b>
- XLS ، XLSX ، XLSB ، XLTX ، XLTM ، XLSM ، XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
@@ -190,9 +190,9 @@ description: Python مكتبة جداول البيانات لتكوين قراء
    <ul>
     <li>
      <b>
- التخطيط الثابت:
+ تخطيط ثابت:
      </b>
- PDF، PDF / A، XPS
+ PDF, PDF/أ, XPS
     </li>
     <li>
      <b>
@@ -234,7 +234,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-الميزات المتقدمة Python Excel API
+ مميزات متقدمة Python اكسل API
    </h2>
    <p>
    </p>
@@ -242,28 +242,28 @@ description: Python مكتبة جداول البيانات لتكوين قراء
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة جداول بيانات Excel
+ قراءة جداول بيانات إكسل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تقديم جداول البيانات إلى PDF و EMF والصور
+ تقديم جداول البيانات إلى PDF وEMF والصور
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- اضبط أوراق العمل داخل المصنفات
+ ضبط أوراق العمل داخل المصنفات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- حماية / عدم حماية أوراق العمل
+ حماية/إلغاء حماية أوراق العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -277,7 +277,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء جداول محورية ومخططات محورية
+ إنشاء الجداول المحورية والرسوم البيانية المحورية
     </p>
    </div>
    <div class="col-lg-4">
@@ -291,21 +291,21 @@ description: Python مكتبة جداول البيانات لتكوين قراء
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- البحث عن البيانات واستبدالها
+ بحث واستبدال البيانات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تقسيم الخلايا ودمجها
+ تقسيم ودمج الخلايا
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة أو إزالة التجميع إلى الصفوف والأعمدة
+إضافة أو إزالة التجميع إلى الصفوف والأعمدة
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +319,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- اقرأ الصيغ وعيّنها
+ قراءة وتعيين الصيغ
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +333,14 @@ description: Python مكتبة جداول البيانات لتكوين قراء
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- ضبط اتجاه الصفحة ، والقياس ، وحجم الورق
+ ضبط اتجاه الصفحة، والقياس، وحجم الورق
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- قراءة & amp؛ كتابة تنسيق شرطي
+ اقرأ &amp; كتابة التنسيق الشرطي
     </p>
    </div>
    <!--
@@ -415,7 +415,7 @@ description: Python مكتبة جداول البيانات لتكوين قراء
  تحويل صيغ متعددة
     </h2>
     <p>
- توفر مكتبة Excel Python تحويل ملفات Excel إلى PDF و XPS & amp؛ HTML تنسيقات. التحويل الموثوق به لـ API يجعله حلاً مثاليًا للشركات التي تتطلب تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
+ Python توفر مكتبة Excel إمكانية تحويل ملفات Excel إلى PDF وXPS &amp; HTML تنسيقات. التحويل الموثوق لـ API يجعله حلاً مثاليًا للشركات التي تحتاج إلى تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -458,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- خيارات عرض مرنة
+ خيارات العرض المرنة
     </h2>
     <p>
-يوفر Aspose.Cells for Python تحكمًا كاملاً في إعداد الصفحة مما يسمح بمعالجة خيارات العرض المتعددة مثل معاينة فواصل الصفحات ، وضبط مستوى التكبير ، وتعيين اتجاه الصفحة ، والتحكم في رؤية البيانات بأجزاء التجميد ، وحجم الورق ، والقياس ، والرؤوس ، وأمبير ؛ التذييلات ومنطقة الطباعة.
+ Aspose.Cells for Python يوفر تحكمًا كاملاً في إعداد الصفحة مما يسمح بمعالجة خيارات العرض المتعددة مثل معاينة فواصل الصفحات، وتعيين مستوى التكبير/التصغير، وتعيين اتجاه الصفحة، والتحكم في رؤية البيانات من خلال أجزاء التجميد، وحجم الورق، والقياس، والرؤوس&amp; التذييلات ومنطقة الطباعة.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -481,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- إدارة بيانات أوراق Excel
+ إدارة بيانات جداول Excel
     </h2>
     <p>
- Aspose.Cells for Python API يوفر دعمًا شاملاً لإدارة بيانات ورقة العمل. يمكن للمرء بسهولة معالجة أي خلية في ورقة العمل في وقت التشغيل أو استيراد البيانات إلى أوراق العمل من مصادر البيانات المختلفة.
+ Aspose.Cells for Python API يوفر دعمًا مكثفًا لإدارة بيانات ورقة العمل. يمكن للمرء بسهولة التعامل مع أي خلية في ورقة العمل في وقت التشغيل أو استيراد البيانات إلى أوراق العمل من مصادر البيانات المختلفة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- تخصيص الرسوم البيانية
+تخصيص الرسوم البيانية
     </h2>
     <p>
- Aspose.Cells for Python يوفر الدعم الكامل للمخططات. يمكن للمرء بسهولة إضافة مخططات قياسية ومخصصة أو تعيين بيانات المخطط ديناميكيًا لتحديث المخطط vai مكتبة python.
+ Aspose.Cells for Python يوفر الدعم الكامل للرسوم البيانية. يمكن للمرء بسهولة إضافة مخططات قياسية ومخصصة أو تعيين بيانات المخطط ديناميكيًا من أجل تحديث المخطط في مكتبة python هذه.
     </p>
    </div>
    <!--
@@ -519,25 +519,25 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API المراجع" href="https://reference.aspose.com/cells/python-java" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="فيديوهات تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="الدعم المدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for Python؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="قصص النجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

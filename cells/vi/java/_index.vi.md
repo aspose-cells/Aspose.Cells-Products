@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Thư viện excel xử lý bảng tính. Đọc viết kết xuất và chuyển đổi XLS XLSX XLSM ODS CSV TSV và nhiều định dạng khác. Tương thích với Windows Linux & Unix
+description:  Aspose.Cells for Java thư viện tạo, sửa chữa, gộp, phân tích và chuyển đổi file excel. Chuyển đổi excel thành PDF, JSON, CSV, HTML, v.v.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Xử lý bảng tính Excel API" h2="Tạo, thao tác, chuyển đổi, bảo vệ hoặc in bảng tính mà không cần dựa vào Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -12,11 +13,11 @@ description: Java Thư viện excel xử lý bảng tính. Đọc viết kết x
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java là một Xử lý bảng tính Excel đã giành giải thưởng API cho phép các nhà phát triển nhúng chức năng đọc, viết, thao tác, chuyển đổi &amp; in bảng tính trong các ứng dụng của riêng họ mà không cần Microsoft ứng dụng Excel.
+ Aspose.Cells for Java là Công cụ xử lý bảng tính Excel API từng đoạt giải thưởng, cho phép các nhà phát triển nhúng chức năng đọc, viết, thao tác, chuyển đổi &amp; in bảng tính trong ứng dụng của riêng mình mà không cần tới ứng dụng Excel Microsoft.
 </p>
 
 <p>
-Aspose.Cells for Java là một thư viện trưởng thành và giàu tính năng, cung cấp nhiều chức năng vượt xa khả năng xuất dữ liệu đơn giản của các thành phần khác hiện có trên thị trường. API cung cấp khả năng xuất dữ liệu, định dạng bảng tính ở mức chi tiết nhất, nhập &amp; xuất hình ảnh, tạo biểu đồ &amp; Bảng Pivot, áp dụng &amp; tính toán các công thức phức tạp bằng cách sử dụng công cụ tính toán công thức, truyền dữ liệu Excel &amp; lưu kết quả ở các định dạng khác nhau.
+Aspose.Cells for Java là một thư viện hoàn thiện và giàu tính năng, cung cấp nhiều chức năng vượt xa khả năng xuất dữ liệu đơn giản của các thành phần khác hiện có trên thị trường. API cung cấp khả năng xuất dữ liệu, định dạng bảng tính ở mức chi tiết nhất, nhập &amp; xuất hình ảnh, tạo biểu đồ &amp; Bảng tổng hợp, áp dụng &amp; tính toán các công thức phức tạp bằng công cụ tính toán công thức, truyền dữ liệu Excel &amp; lưu kết quả ở các định dạng khác nhau.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -24,27 +25,27 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Một tổng quan chung." >}}
+{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan chung." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
- kết xuất
+ Kết xuất
    </header>
    <ul>
     <li>
  Biểu đồ thành hình ảnh
     </li>
     <li>
- Trang tính thành hình ảnh
+ Bảng tính thành hình ảnh
     </li>
     <li>
- Bảng kê tới PDF
+ Bảng tính gửi tới PDF
     </li>
     <li>
- in ấn
+ In ấn
     </li>
    </ul>
    <header>
@@ -63,7 +64,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
  Áp dụng công thức
     </li>
     <li>
- tóm tắt
+ Tóm tắt
     </li>
     <li>
  Điểm đánh dấu thông minh
@@ -75,7 +76,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
    <header>
     <i class="fa fa-table">
     </i>
- Lưới Kiểm SoátWeb
+ Kiểm soát GridWeb
    </header>
    <ul>
     <li>
@@ -117,7 +118,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Các ứng dụng dựa trên thư viện for Java được phát triển trên nền tảng Unix/Linux và Mac Windows." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Các ứng dụng dựa trên thư viện for Java được phát triển trên nền tảng Unix/Linux và Mac Windows." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -160,7 +161,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for Java hỗ trợ các định dạng bảng tính phổ biến, hình ảnh thường dùng, bố cục cố định và[nhiều định dạng hơn](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for Java hỗ trợ các định dạng bảng tính thông dụng, hình ảnh thông dụng, bố cục cố định và[nhiều định dạng hơn](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -172,7 +173,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
    <ul>
     <li>
      <b>
- MicrosoftExcel:
+ Microsoft Excel:
      </b>
  XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -190,7 +191,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     </li>
     <li>
      <b>
- mạng:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -198,7 +199,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
      <b>
       Numbers:
      </b>
- Tài liệu ứng dụng bộ ứng dụng văn phòng iWork của Apple Numbers
+ Tài liệu ứng dụng iWork office suite Numbers của Apple
     </li>
     <li>
      SXC, FODS
@@ -268,7 +269,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Nâng cao Java Hỗ trợ Thư viện Excel
+ Hỗ trợ thư viện Excel Java nâng cao
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -277,7 +278,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Nhập và xuất dữ liệu từ ArrayList, Array &amp; Bộ ghi
+ Nhập và xuất dữ liệu từ ArrayList, Array &amp; Tập bản ghi
     </p>
    </div>
    <div class="col-lg-4">
@@ -291,28 +292,28 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Nhập công thức từ bảng tính thiết kế
+ Nhập công thức từ bảng tính của nhà thiết kế
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo và thao tác Phạm vi được đặt tên
+ Tạo và thao tác các Phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- In bảng tính ra máy in vật lý
+ In bảng tính sang máy in vật lý
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Điền vào bảng tính thông qua Smart Markers
+ Điền bảng tính thông qua Điểm đánh dấu thông minh
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,7 +334,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo &amp; thao tác quy tắc định dạng có điều kiện
+ Tạo &amp; thao tác các quy tắc định dạng có điều kiện
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,14 +348,14 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo, thao tác &amp; làm mới Bảng tổng hợp &amp; Biểu đồ xoay
+ Tạo, thao tác &amp; làm mới Bảng tổng hợp &amp; Biểu đồ Pivot
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Kết xuất biểu đồ &amp; bảng tính
+ Hiển thị biểu đồ &amp; bài tập
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +369,7 @@ Aspose.Cells for Java là một thư viện trưởng thành và giàu tính nă
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Lấy mẫu lại hình ảnh trong Excel thành chuyển đổi PDF
+Lấy mẫu lại ảnh trong Excel sang chuyển đổi PDF
     </p>
    </div>
    <div class="col-lg-4">
@@ -383,7 +384,7 @@ Lấy mẫu lại hình ảnh trong Excel thành chuyển đổi PDF
  Lưu tệp Excel sang các định dạng khác nhau
     </h2>
     <p>
- Excel API cung cấp khả năng chuyển đổi bảng tính thành PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ được độ trung thực hình ảnh cao nhất. Quy trình chuyển đổi linh hoạt và đáng tin cậy làm cho Aspose.Cells trở thành lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp ở các định dạng tiêu chuẩn ngành.
+ Excel API cung cấp tính năng chuyển đổi bảng tính sang PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi linh hoạt và đáng tin cậy khiến Aspose.Cells trở thành sự lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp ở định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -404,10 +405,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Định dạng trang tính ở mức chi tiết nhất
+ Định dạng bảng tính ở cấp độ chi tiết nhất
     </h2>
     <p>
-Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới hạn ở định dạng trang tính ở cấp hàng, cột và ô, thêm quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ có thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh cũng như các đối tượng vẽ khác nhau như đối tượng OLE, ảnh, nhận xét, hình dạng và điều khiển cho các ô.
+Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới hạn ở định dạng trang tính ở cấp hàng, cột và ô, thêm quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ bằng các thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tùy chỉnh và tiêu chuẩn cũng như các đối tượng vẽ khác nhau như đối tượng OLE, hình ảnh, nhận xét, hình dạng và điều khiển cho các ô.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -422,7 +423,7 @@ Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới 
  Chuyển đổi Biểu đồ &amp; Trang tính thành Hình ảnh &amp; PDF Định dạng
     </h2>
     <p>
- Aspose.Cells for Java cung cấp các tính năng chuyển đổi đặc biệt như biểu đồ thành hình ảnh và PDF, trang tính thành hình ảnh, in trang tính và chuyển đổi bảng tính sang định dạng tệp PDF. Quá trình chuyển đổi rất linh hoạt và dễ dàng, cho phép chọn một số cách để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong quá trình chuyển đổi bảng tính sang PDF hoặc điều chỉnh kích thước hình ảnh kết quả trong khi hiển thị trang tính và biểu đồ thành hình ảnh.
+ Aspose.Cells for Java cung cấp các tính năng chuyển đổi đặc biệt như biểu đồ sang hình ảnh và PDF, bảng tính sang hình ảnh, in bảng tính và chuyển đổi bảng tính sang định dạng tệp PDF. Quá trình chuyển đổi rất linh hoạt và dễ dàng, cho phép chọn một số cách để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong bảng tính thành chuyển đổi PDF hoặc điều chỉnh kích thước hình ảnh kết quả trong khi hiển thị bảng tính và biểu đồ thành hình ảnh.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -447,10 +448,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Thao tác với Hàng &amp; Cột
+ Thao tác với các hàng &amp; Cột
     </h2>
     <p>
- Aspose.Cells for Java cho phép bạn sửa đổi các hàng và cột theo nhiều cách khác nhau. Người ta có thể dễ dàng điều chỉnh chiều rộng cột và chiều cao hàng, tự động định cỡ chiều rộng/chiều cao của ô theo nội dung, chèn &amp; xóa, ẩn &amp; bỏ ẩn cũng như nhóm &amp; bỏ nhóm hàng và cột.
+ Aspose.Cells for Java cho phép bạn sửa đổi hàng và cột theo nhiều cách khác nhau. Người ta có thể dễ dàng điều chỉnh chiều rộng cột và chiều cao hàng, tự động điều chỉnh kích thước chiều rộng/chiều cao của ô theo nội dung, chèn &amp; xóa, ẩn &amp; bỏ ẩn cũng như nhóm &amp; bỏ nhóm các hàng và cột.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +459,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Tóm tắt dữ liệu bằng Biểu đồ &amp; Bảng tổng hợp
     </h2>
     <p>
- Có thể khó có được thông tin tóm tắt với các bảng tính rất lớn. Bảng Pivot có sẵn để nhanh chóng mô tả dữ liệu phẳng và để có được thông tin liên quan theo nhu cầu. API tự động tạo Bảng tổng hợp và Biểu đồ. Có thể tự động thay đổi dữ liệu nguồn Pivot Table. Ngoài ra, Smart Markers, một tính năng hàng đầu khác của thư viện này để điền vào các trang tính thông qua các nguồn dữ liệu và để tạo các báo cáo trực quan hiệu quả.
+ Có thể khó lấy được thông tin tóm tắt với các bảng tính rất lớn. Bảng Pivot có sẵn để mô tả nhanh chóng dữ liệu phẳng và thu thập thông tin liên quan theo nhu cầu. API tự động tạo Bảng tổng hợp và Biểu đồ. Có thể tự động thay đổi dữ liệu nguồn của Bảng tổng hợp. Hơn nữa, Smart Markers, một tính năng hàng đầu khác của thư viện này để điền vào bảng tính thông qua các nguồn dữ liệu và tạo báo cáo hiệu quả trực quan.
     </p>
    </div>
    <!--
@@ -487,7 +488,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Kiểm soát trực quan dựa trên web cho bảng tính
     </h2>
     <p>
-Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùng có thể được nhúng trong các ứng dụng web JSP và tương thích với tất cả các trình duyệt web hiện đại như Chrome, Firefox, Internet Explorer và Opera. Người dùng cuối có thể sử dụng nó để tải, chỉnh sửa và lưu các tệp Excel từ giao diện người dùng của ứng dụng web của bạn.
+Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùng có thể được nhúng trong các ứng dụng web JSP và tương thích với tất cả các trình duyệt web hiện đại như Chrome, Firefox, Internet Explorer và Opera. Người dùng cuối có thể sử dụng nó để tải, chỉnh sửa và lưu các tệp Excel từ giao diện người dùng ứng dụng web của bạn.
     </p>
    </div>
   </div>
@@ -497,7 +498,7 @@ Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùn
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ nhận lời của chúng tôi cho nó. Xem người dùng nói gì về API bảng tính." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ tin lời chúng tôi. Xem người dùng nói gì về API bảng tính." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -510,7 +511,7 @@ Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùn
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Trải nghiệm tổng thể của chúng tôi với các sản phẩm Aspose là rất tích cực. Thành phần này đã tăng giá trị kinh doanh cho sản phẩm Xpand IT - Xporter Plugin cho JIRA, cho phép chúng tôi phát triển một giải pháp tham khảo để xuất dữ liệu.
+ Trải nghiệm chung của chúng tôi với sản phẩm Aspose là rất tích cực. Thành phần này đã tăng giá trị kinh doanh cho sản phẩm Xpand IT - Xporter Plugin for JIRA, cho phép chúng tôi phát triển giải pháp tham chiếu để xuất dữ liệu.
  <em>
  Paulo Lopes | Xpand IT, Vương quốc Anh
  </em>
@@ -523,7 +524,7 @@ Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùn
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -535,7 +536,7 @@ Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùn
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

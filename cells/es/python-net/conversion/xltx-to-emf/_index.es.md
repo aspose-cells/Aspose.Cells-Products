@@ -1,7 +1,7 @@
 ---
-title: Python XLTX a EMF - En línea XLTX a EMF Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XLTX a EMF guardar formato. Formato Python XLTX al EMF. Aparta del XLTX al EMF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to EMF saveformat., Free Online XLTX to EMF Python., Python Convert XLTX to EMF]
+title: Python XLTX a EMF - XLTX a EMF Convertidor
+description: Aspose Excel. Convierta XLTX a EMF rápida y fácilmente con Aspose.Cells. Python XLTX a EMF. Python Guarde XLTX en EMF. Guarde XLTX como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to EMF in Python., Save XLTX to EMF using Python., Python XLTX to EMF saveformat., XLTX to EMF Converter., Python Save XLTX as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLTX a EMF en Python" h2="Biblioteca Python de alta velocidad para convertir XLTX a EMF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Convertir XLTX a EMF en Python" %}}
 
- ¿Cómo convierto XLTX a EMF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a EMF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLTX a EMF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a EMF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XLTX a EMF en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLTX al EMF en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir XLTX a EMF en Python via NET.
+El siguiente ejemplo demuestra cómo convertir XLTX a EMF en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLTX a EMF. Cargue su archivo XLTX, luego simplemente guárdelo como archivo EMF. Tanto para la lectura XLTX como para la escritura EMF, puede utilizar nombres de archivo completos. El contenido y el formato de la salida EMF serán idénticos al documento original XLTX.
+Siga los sencillos pasos para convertir XLTX a EMF. Cargue su archivo XLTX y luego simplemente guárdelo como archivo EMF. Tanto para lectura XLTX como para escritura EMF puede utilizar nombres de archivo completos. El contenido y el formato de salida EMF serán idénticos al documento XLTX original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLTX a EMF en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLTX a EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLTX a EMF" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLTX a EMF. Cargue su archivo XLTX, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLTX a EMF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLTX en EMF" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo OpenXML de Office. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que muestran la misma configuración que se especifica en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}El formato de metarchivo mejorado (EMF) almacena imágenes gráficas independientemente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno de gráficos, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo Office OpenXML. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que exhiben la misma configuración especificada en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}El formato de metarchivo mejorado (EMF) almacena imágenes gráficas independientemente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno gráfico, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-gif/" name="XLTX AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-html/" name="XLTX AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-mhtml/" name="XLTX AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-ods/" name="XLTX AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-pdf/" name="XLTX AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-png/" name="XLTX AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-svg/" name="XLTX AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tiff/" name="XLTX AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-txt/" name="XLTX AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xls/" name="XLTX AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsb/" name="XLTX AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsm/" name="XLTX AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlt/" name="XLTX AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xml/" name="XLTX A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xps/" name="XLTX AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

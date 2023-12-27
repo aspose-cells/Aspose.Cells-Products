@@ -1,7 +1,7 @@
 ---
-title: Python MHTML a PNG - En línea MHTML a PNG Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir MHTML a PNG guardar formato. Formato Python MHTML al PNG. Aparta del MHTML al PNG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to PNG saveformat., Free Online MHTML to PNG Python., Python Convert MHTML to PNG]
+title: Python MHTML a PNG - MHTML a PNG Convertidor
+description: Aspose Excel. Convierta MHTML a PNG rápida y fácilmente con Aspose.Cells. Python MHTML a PNG. Python Guarde MHTML en PNG. Guarde MHTML como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to PNG in Python., Save MHTML to PNG using Python., Python MHTML to PNG saveformat., MHTML to PNG Converter., Python Save MHTML as PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHTML a PNG en Python" h2="Biblioteca Python de alta velocidad para convertir MHTML a PNG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Convertir MHTML a PNG en Python" %}}
 
- ¿Cómo convierto MHTML a PNG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHTML a PNG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto MHTML a PNG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHTML a PNG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde MHTML a PNG en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar MHTML al PNG en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir MHTML a PNG en Python via NET.
+El siguiente ejemplo demuestra cómo convertir MHTML a PNG en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir MHTML a PNG. Cargue su archivo MHTML, luego simplemente guárdelo como archivo PNG. Tanto para la lectura MHTML como para la escritura PNG, puede utilizar nombres de archivo completos. El contenido y el formato de la salida PNG serán idénticos al documento original MHTML.
+Siga los sencillos pasos para convertir MHTML a PNG. Cargue su archivo MHTML y luego simplemente guárdelo como archivo PNG. Tanto para lectura MHTML como para escritura PNG puede utilizar nombres de archivo completos. El contenido y el formato de salida PNG serán idénticos al documento MHTML original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir MHTML a PNG en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHTML a PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHTML a PNG" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir MHTML a PNG. Cargue su archivo MHTML, lu
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir MHTML a PNG" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir MHTML en PNG" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Los archivos con la extensión MHTML representan un formato de archivo de página web que pueden crear varias aplicaciones diferentes. El formato se conoce como formato de archivo porque guarda el código web HTML y los recursos asociados en un solo archivo. Estos recursos incluyen todo lo relacionado con la página web, como imágenes, applets, animaciones, archivos de audio, etc. Los archivos MHTML se pueden abrir en una variedad de aplicaciones como Internet Explorer y Microsoft Word. Microsoft Windows utiliza el formato de archivo MHTML para registrar escenarios de problemas observados durante el uso de cualquier aplicación en Windows que plantea problemas. El formato de archivo MHTML codifica el contenido de la página de forma similar a las especificaciones definidas en message/rfc822, que son especificaciones relacionadas con el correo electrónico de texto sin formato.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen de trama que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdida que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG se ha convertido en uno de los formatos de archivo de imagen más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Los archivos con extensión MHTML representan un formato de archivo de página web que puede ser creado por varias aplicaciones diferentes. El formato se conoce como formato de archivo porque guarda el código web HTML y los recursos asociados en un solo archivo. Estos recursos incluyen cualquier cosa vinculada a la página web, como imágenes, subprogramas, animaciones, archivos de audio, etc. Los archivos MHTML se pueden abrir en una variedad de aplicaciones como Internet Explorer y Microsoft Word. Microsoft Windows utiliza el formato de archivo MHTML para registrar escenarios de problemas observados durante el uso de cualquier aplicación en Windows que genere problemas. El formato de archivo MHTML codifica el contenido de la página de manera similar a las especificaciones definidas en message/rfc822, que son especificaciones relacionadas con el correo electrónico en texto sin formato.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen rasterizada que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdidas, lo que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG ha evolucionado como uno de los formatos de archivos de imágenes más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir MHTML a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir MHTML a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-bmp/" name="MHTML AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-emf/" name="MHTML AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-gif/" name="MHTML AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-html/" name="MHTML AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-md/" name="MHTML A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-md/" name="MHTML AL MD" description="Lenguaje de rebajas" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-ods/" name="MHTML AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-pdf/" name="MHTML AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-png/" name="MHTML AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-svg/" name="MHTML AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-tiff/" name="MHTML AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-tsv/" name="MHTML AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-tsv/" name="MHTML AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-txt/" name="MHTML AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xls/" name="MHTML AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsb/" name="MHTML AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsm/" name="MHTML AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsx/" name="MHTML AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsx/" name="MHTML AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlt/" name="MHTML AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xltm/" name="MHTML AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xltm/" name="MHTML AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xltx/" name="MHTML AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xml/" name="MHTML A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xps/" name="MHTML AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-json/" name="MHTML AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-json/" name="MHTML AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

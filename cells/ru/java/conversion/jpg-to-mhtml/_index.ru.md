@@ -1,7 +1,7 @@
 ---
-title: Java JPG в MHTML - Онлайн конвертер JPG в MHTML
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Бесплатно онлайн Java Конвертировать JPG в формат сохранения MHTML. Java JPG в формате MHTML. Сохраните JPG в MHTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MHTML saveformat., Free Online JPG to MHTML Java., Java Convert JPG to MHTML]
+title: Java JPG в MHTML - Конвертер JPG в MHTML
+description: Aspose Эксель. Быстро и легко конвертируйте JPG в MHTML с помощью Aspose.Cells. Java JPG в MHTML. Java Сохраните JPG в MHTML. Сохраните JPG как MHTML, используя Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to MHTML in Java., Save JPG to MHTML using Java., Java JPG to MHTML saveformat., JPG to MHTML Converter., Java Save JPG as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертировать JPG в MHTML в Java" h2="Высокоскоростная библиотека Java для преобразования JPG в MHTML. Это профессиональное программное решение для импорта и экспорта JPG, MHTML и многих других форматов с использованием Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MH
 
 {{% blocks/products/pf/agp/content h2="Конвертируйте JPG в MHTML, используя Java" %}}
 
- Как преобразовать JPG в MHTML? С библиотекой Aspose.Cells for Java вы можете легко преобразовать JPG в MHTML программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как мне конвертировать JPG в MHTML? С помощью библиотеки Aspose.Cells for Java вы можете легко конвертировать JPG в MHTML программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохранить JPG в MHTML в Java онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните JPG в MHTML в Java." %}}
 
 В следующем примере показано, как преобразовать JPG в MHTML в Java.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы преобразовать JPG в MHTML. Загрузите файл JPG, а затем просто сохраните его как файл MHTML. Как для чтения JPG, так и для записи MHTML вы можете использовать полные имена файлов. Контент и форматирование вывода MHTML будут идентичны исходному документу JPG.
+Следуйте простым шагам, чтобы преобразовать JPG в MHTML. Загрузите файл JPG, а затем просто сохраните его как файл MHTML. Как для чтения JPG, так и для записи MHTML вы можете использовать полные имена файлов. Выходное содержимое и форматирование MHTML будут идентичны исходному документу JPG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JPG в MHTML онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Пример кода для преобразования JPG в MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать JPG в MHTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы JPG в MHTML? Разработчики Java могут легко преобразовать JPG в MHTML всего за несколько строк кода.
+Нужно программно конвертировать файлы JPG в MHTML? Разработчики Java могут легко преобразовать JPG в MHTML всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,11 +70,11 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MH
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 1.  Загрузите файл JPG с экземпляром класса Workbook.
 1.  Преобразуйте JPG в MHTML, вызвав метод Workbook.save.
-1.  Получите результат преобразования JPG в MHTML.
+1.  Получите результат конвертации JPG в MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="библиотека Java для преобразования JPG в MHTML" %}}
+{{% blocks/products/pf/agp/content h2="Библиотека Java для преобразования JPG в MHTML" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Мы размещаем наши пакеты Java в[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) репозитории. «Aspose.Cells for Java» — это обычный файл JAR, содержащий байт-код. Пожалуйста, следуйте[пошаговые инструкции](https://docs.aspose.com/cells/java/installation/) о том, как установить его в среду разработки Java.
@@ -86,48 +86,48 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MH
 
 {{% blocks/products/pf/agp/text %}}
 
- Перед запуском исходного кода преобразования Java убедитесь, что выполнены следующие предварительные условия.
+ Прежде чем запускать исходный код преобразования Java, убедитесь, что у вас есть следующие предварительные условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Файлы с расширением MHTML представляют собой формат архива веб-страницы, который может быть создан рядом различных приложений. Этот формат известен как формат архива, поскольку он сохраняет веб-код HTML и связанные с ним ресурсы в одном файле. Эти ресурсы включают все, что связано с веб-страницей, например изображения, апплеты, анимацию, аудиофайлы и так далее. MHTML файлы можно открывать в различных приложениях, таких как Internet Explorer и Microsoft Word. Microsoft Windows использует формат файла MHTML для записи сценариев проблем, наблюдаемых при использовании любого приложения на Windows, которое вызывает проблемы. Формат файла MHTML кодирует содержимое страницы аналогично спецификациям, определенным в message/rfc822, который представляет собой спецификации, связанные с электронной почтой в виде обычного текста.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения пострадает незначительно, если к изображению будет применено сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Файлы с расширением MHTML представляют собой формат архива веб-страниц, который может быть создан различными приложениями. Этот формат известен как архивный, поскольку он сохраняет веб-код HTML и связанные ресурсы в одном файле. Эти ресурсы включают в себя все, что связано с веб-страницей, например изображения, апплеты, анимацию, аудиофайлы и т. д. Файлы MHTML можно открывать в различных приложениях, таких как Internet Explorer и Microsoft Word. Microsoft Windows использует формат файла MHTML для записи сценариев проблем, наблюдаемых во время использования любого приложения на Windows, которое вызывает проблемы. Формат файла MHTML кодирует содержимое страницы аналогично спецификациям, определенным в message/rfc822, который представляет собой обычные текстовые спецификации, связанные с электронной почтой.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать JPG во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-bmp/" name="JPG ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-gif/" name="JPG ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-html/" name="JPG ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG В МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-mhtml/" name="JPG ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-ods/" name="JPG ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-pdf/" name="JPG ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-png/" name="JPG ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-svg/" name="JPG ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tiff/" name="JPG ТО TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tsv/" name="JPG ТО TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-txt/" name="JPG ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xls/" name="JPG ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsb/" name="JPG ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsm/" name="JPG ТО XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsx/" name="JPG ТО XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlt/" name="JPG ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG ТО XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-bmp/" name="JPG К BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG К EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-gif/" name="JPG К GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-html/" name="JPG К HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG В МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-mhtml/" name="JPG К MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-ods/" name="JPG К ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-pdf/" name="JPG К PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-png/" name="JPG К PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-svg/" name="JPG К SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tiff/" name="JPG К TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tsv/" name="JPG К TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-txt/" name="JPG К TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xls/" name="JPG К XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsb/" name="JPG К XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsm/" name="JPG К XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsx/" name="JPG К XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlt/" name="JPG К XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG К XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG К XLTX" description="Шаблон Excel для Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xml/" name="JPG В XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-json/" name="JPG ТО JSON" description="Обозначение объектов JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-jpeg/" name="JPG ТО JPEG" description="JPEG Изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG К XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-json/" name="JPG К JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-jpeg/" name="JPG К JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

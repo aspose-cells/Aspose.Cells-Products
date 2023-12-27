@@ -1,7 +1,7 @@
 ---
-title: Python XLSX a PRN - Convertidor XLSX a PRN en línea
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convierta XLSX a PRN saveformat. Python XLSX en formato PRN. Guardar XLSX a PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to PRN saveformat., Free Online XLSX to PRN Python., Python Convert XLSX to PRN]
+title: Python XLSX a PRN - Convertidor de XLSX a PRN
+description: Aspose Excel. Convierta XLSX a PRN rápida y fácilmente con Aspose.Cells. Python XLSX a PRN. Python Guardar XLSX en PRN. Guarde XLSX como PRN usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to PRN in Python., Save XLSX to PRN using Python., Python XLSX to PRN saveformat., XLSX to PRN Converter., Python Save XLSX as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLSX a PRN en Python" h2="Biblioteca Python de alta velocidad para convertir XLSX a PRN. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Convertir XLSX a PRN en Python" %}}
 
- ¿Cómo convierto XLSX a PRN? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLSX a PRN mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLSX a PRN? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLSX a PRN mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Ahorre XLSX a PRN en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLSX en PRN en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir XLSX a PRN en Python via NET.
+El siguiente ejemplo demuestra cómo convertir XLSX a PRN en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLSX a PRN. Cargue su archivo XLSX, luego simplemente guárdelo como archivo PRN. Tanto para la lectura XLSX como para la escritura PRN, puede usar nombres de archivo completos. El contenido y el formato del PRN de salida serán idénticos al documento original XLSX.
+Siga los sencillos pasos para convertir XLSX a PRN. Cargue su archivo XLSX y luego simplemente guárdelo como archivo PRN. Tanto para la lectura de XLSX como para la escritura de PRN, puede utilizar nombres de archivo completos. El contenido y el formato del PRN de salida serán idénticos al documento XLSX original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLSX a PRN en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLSX a PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLSX a PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XLSX a PRN mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLSX a PRN con solo unas pocas líneas de código.
+¿Necesita convertir archivos XLSX a PRN mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLSX a PRN en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLSX a PRN. Cargue su archivo XLSX, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLSX a PRN" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLSX a PRN" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado con la casilla de verificación Imprimir en archivo que aparece en algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que utiliza una impresora, una máquina de fax u otro dispositivo para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado usando la casilla de verificación Imprimir en archivo que aparece dentro de algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que una impresora, máquina de fax u otro dispositivo utiliza para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLSX a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLSX a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-bmp/" name="XLSX AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-gif/" name="XLSX AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-mhtml/" name="XLSX AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-ods/" name="XLSX AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-pdf/" name="XLSX AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-png/" name="XLSX AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-svg/" name="XLSX AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tiff/" name="XLSX AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tsv/" name="XLSX AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tsv/" name="XLSX AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-txt/" name="XLSX AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX AL XLSM" description="Archivo de hoja de cálculo" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

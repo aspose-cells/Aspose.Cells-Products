@@ -1,7 +1,7 @@
 ---
-title: Python ODS a HTM - Convertidor en línea ODS a HTM
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convierta ODS a formato guardado HTM. Python ODS a formato HTM. Aparta ODS al HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to HTM saveformat., Free Online ODS to HTM Python., Python Convert ODS to HTM]
+title: Python ODS a HTM - Convertidor de ODS a HTM
+description: Aspose Excel. Convierta ODS a HTM rápida y fácilmente con Aspose.Cells. Python ODS a HTM. Python Guarde ODS en HTM. Guarde ODS como HTM usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to HTM in Python., Save ODS to HTM using Python., Python ODS to HTM saveformat., ODS to HTM Converter., Python Save ODS as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir ODS a HTM en Python" h2="Biblioteca Python de alta velocidad para convertir ODS a HTM. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="Convertir ODS a HTM en Python" %}}
 
- ¿Cómo convierto ODS a HTM? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a HTM mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto ODS a HTM? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a HTM mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde ODS en HTM en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde ODS en HTM en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir ODS a HTM en Python via NET.
+El siguiente ejemplo demuestra cómo convertir ODS a HTM en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir ODS a HTM. Cargue su archivo ODS, luego simplemente guárdelo como archivo HTM. Tanto para la lectura ODS como para la escritura HTM, puede usar nombres de archivo completos. El contenido y el formato de HTM de salida serán idénticos al documento original ODS.
+Siga los sencillos pasos para convertir ODS a HTM. Cargue su archivo ODS y luego simplemente guárdelo como archivo HTM. Tanto para la lectura de ODS como para la escritura HTM, puede utilizar nombres de archivo completos. El contenido y el formato HTM de salida serán idénticos al documento ODS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir ODS a HTM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="htm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir ODS a HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="htm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir ODS a HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos ODS a HTM mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente ODS a HTM con solo unas pocas líneas de código.
+¿Necesita convertir archivos ODS a HTM mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente ODS a HTM en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir ODS a HTM. Cargue su archivo ODS, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir ODS a HTM" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir ODS a HTM" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con la extensión .htm representan el lenguaje de marcado de hipertexto para crear páginas web para mostrar en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otras personas accedan a ellas. Estas marcas le dicen a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, videos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella al ver la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con extensión .htm representan un lenguaje de marcado de hipertexto para crear páginas web que se mostrarán en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otros puedan acceder a ellas. Estas marcas indican a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, vídeos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella viendo la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir ODS a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir ODS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-bmp/" name="ODS AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-emf/" name="ODS AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-gif/" name="ODS AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-html/" name="ODS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-md/" name="ODS A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-md/" name="ODS AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-mhtml/" name="ODS AL MHTML" description="Formato de archivo de página web" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-pdf/" name="ODS AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-png/" name="ODS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-svg/" name="ODS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tiff/" name="ODS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tsv/" name="ODS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tsv/" name="ODS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-txt/" name="ODS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xls/" name="ODS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsb/" name="ODS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsm/" name="ODS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsx/" name="ODS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsx/" name="ODS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlt/" name="ODS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltm/" name="ODS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltm/" name="ODS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltx/" name="ODS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xml/" name="ODS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xps/" name="ODS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-json/" name="ODS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-json/" name="ODS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

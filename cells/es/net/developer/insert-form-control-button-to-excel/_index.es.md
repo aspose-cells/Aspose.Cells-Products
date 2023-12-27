@@ -1,7 +1,8 @@
 ---
 title:  Insertar botón en Excel via .NET
 weight: 10
-description: C# código fuente para insertar el botón en Excel en .NET Framework, .NET Core, Mono o Xamarin Platforms.
+description: Código fuente C# para insertar un botón en Excel en .NET Framework, .NET Core, Mono o plataformas Xamarin.
+keywords: [C# Aspose.Cells., c# add button into Excel., c# insert button into Excel., c# create button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insertar botón en Excel via .NET" h2="Inserte botones usando Aspose.Cells\' API sin ningún software como Microsoft u Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,11 +14,11 @@ description: C# código fuente para insertar el botón en Excel en .NET Framewor
 
  Para insertar un botón en un archivo de Excel, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una manipulación y división de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
+ API, que es un divisor y manipulación de documentos API rico en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, busque
+ administrador de paquetes, buscar
  Aspose.Cells 
- e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -33,7 +34,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar un botón en un archivo de Excel a través del C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar botón en archivo Excel vía C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -41,9 +42,9 @@ Necesita aspose.cells.dll para probar el siguiente flujo de trabajo en su propio
 
 {{% /blocks/products/pf/agp/text %}}
 
-Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX con la ruta completa).
++ Creación de instancias de un objeto Libro de trabajo. (o->Cargue el archivo XLSX con la ruta completa).
 + Seleccione Hoja de trabajo a través de su índice.
- + Usa el[añadir método](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addbutton) para insertar un botón en la hoja de cálculo seleccionada
+ + Usa el[agregar método](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addbutton) para insertar un botón en la hoja de trabajo seleccionada
 + Guardar libro de trabajo en formato XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -56,9 +57,9 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un SO compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o plataformas Xamarin
 -  Entorno de desarrollo como Microsoft Visual Studio
--  Agregue una referencia a la DLL Aspose.Cells for .NET en su proyecto - Instale desde NuGet usando el botón Descargar arriba
+-  Agregue una referencia a la DLL Aspose.Cells for .NET en su proyecto: instálela desde NuGet usando el botón Descargar de arriba
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -75,9 +76,9 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
+{{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
+Aspose.Cells API se puede utilizar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos. Además, se puede utilizar para gráficos completos, informes escalables y cálculos confiables dentro de aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

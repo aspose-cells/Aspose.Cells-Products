@@ -1,7 +1,7 @@
 ---
 title: Crear JPG - Crear archivo JPG en Python
-description: AsposeExcel. Python Crear archivo JPG. Crear JPG Python. Python Creador de JPG. Cree JPG en Python. Genere un archivo JPG usando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG Creater., Create JPG file in Python., Generate JPG file in Python]
+description: Aspose Excel. Python Cree archivos JPG rápida y fácilmente con Aspose.Cells. Genere archivos JPG usando Python. Cree JPG en Python. Python Creador de JPG.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JPG file., Generate JPG file in Python., Create JPG file using Python., Write data to JPG file via Python., Create a JPG file in Python., Python Generate a JPG file., Python JPG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo JPG en Python" h2="Biblioteca Python de alta velocidad para crear archivos JPG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG C
 
 {{% blocks/products/pf/agp/content h2="Crear archivo JPG usando Python" %}}
 
- ¿Cómo crear un archivo JPG? Con Aspose.Cells for Python a través de la biblioteca NET, puede crear fácilmente un archivo JPG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo crear un archivo JPG? Con la biblioteca Aspose.Cells for Python a través de NET, puede crear fácilmente un archivo JPG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,14 +21,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG C
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos JPG al ejecutar diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+ Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos JPG ejecutando diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crear instancia de clase de libro de trabajo.
-1.  Acceda a la primera hoja de trabajo del libro.
-1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo e ingrese el valor en la(s) celda(s).
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo JPG.
+1.  Crear una instancia de clase de libro de trabajo.
+1.  Acceda a la primera hoja de trabajo del libro de trabajo.
+1.  Obtenga las celdas deseadas de la hoja de trabajo e ingrese el valor en las celdas.
+1.  Utilice el método Guardar para guardar el libro como archivo JPG.
 
 {{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear un archivo JPG en Python." offSpacer="" %}}
 
@@ -57,12 +57,12 @@ workbook.save("output.jpg")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivo JPG" %}}
+{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivos JPG" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,19 +82,19 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada insignificantemente si se aplica una compresión 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Hoja de cálculo de Excel (heredada)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Libro de trabajo XML abierto" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Abrir libro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Libro binario de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Hoja de cálculo habilitada para macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Plantilla 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Plantilla Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Plantilla de Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla de Excel habilitada para macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla habilitada para macros de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valores Separados por Comas" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valores separados por tabulaciones" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Hoja de cálculo de OpenDocument" >}}

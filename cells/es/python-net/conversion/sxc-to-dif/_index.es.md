@@ -1,7 +1,7 @@
 ---
-title: Python SXC a DIF - En línea SXC a DIF Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir SXC a DIF guardar formato. Formato Python SXC al DIF. Aparta del SXC al DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to DIF saveformat., Free Online SXC to DIF Python., Python Convert SXC to DIF]
+title: Python SXC a DIF - SXC a DIF Convertidor
+description: Aspose Excel. Convierta SXC a DIF rápida y fácilmente con Aspose.Cells. Python SXC a DIF. Python Guarde SXC en DIF. Guarde SXC como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to DIF in Python., Save SXC to DIF using Python., Python SXC to DIF saveformat., SXC to DIF Converter., Python Save SXC as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir SXC a DIF en Python" h2="Biblioteca Python de alta velocidad para convertir SXC a DIF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC
 
 {{% blocks/products/pf/agp/content h2="Convertir SXC a DIF en Python" %}}
 
- ¿Cómo convierto SXC a DIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente SXC a DIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto SXC a DIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente SXC a DIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde SXC a DIF en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar SXC al DIF en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir SXC a DIF en Python via NET.
+El siguiente ejemplo demuestra cómo convertir SXC a DIF en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir SXC a DIF. Cargue su archivo SXC, luego simplemente guárdelo como archivo DIF. Tanto para la lectura SXC como para la escritura DIF, puede utilizar nombres de archivo completos. El contenido y el formato de la salida DIF serán idénticos al documento original SXC.
+Siga los sencillos pasos para convertir SXC a DIF. Cargue su archivo SXC y luego simplemente guárdelo como archivo DIF. Tanto para lectura SXC como para escritura DIF puede utilizar nombres de archivo completos. El contenido y el formato de salida DIF serán idénticos al documento SXC original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir SXC a DIF en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir SXC a DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir SXC a DIF" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir SXC a DIF. Cargue su archivo SXC, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir SXC a DIF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir SXC en DIF" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. El formato SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF significa Formato de intercambio de datos que se utiliza para importar/exportar datos de hojas de cálculo entre diferentes aplicaciones. Estos incluyen Microsoft Excel, OpenOffice Calc, StarCalc y muchos otros. Almacena los datos contenidos en una sola hoja de cálculo, que es la única limitación de este formato de archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de los datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF significa formato de intercambio de datos que se utiliza para importar/exportar datos de hojas de cálculo entre diferentes aplicaciones. Estos incluyen Microsoft Excel, OpenOffice Calc, StarCalc y muchos otros. Almacena datos contenidos en una única hoja de cálculo, que es la única limitación de este formato de archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir SXC a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir SXC a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-bmp/" name="SXC AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-emf/" name="SXC AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-gif/" name="SXC AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-html/" name="SXC AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-mhtml/" name="SXC AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-ods/" name="SXC AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-pdf/" name="SXC AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-png/" name="SXC AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-svg/" name="SXC AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tiff/" name="SXC AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-txt/" name="SXC AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xls/" name="SXC AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsb/" name="SXC AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsm/" name="SXC AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsx/" name="SXC AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsx/" name="SXC AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlt/" name="SXC AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltx/" name="SXC AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xml/" name="SXC A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python XLS a TXT - En línea XLS a TXT Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XLS a TXT guardar formato. Formato Python XLS al TXT. Aparta del XLS al TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to TXT saveformat., Free Online XLS to TXT Python., Python Convert XLS to TXT]
+title: Python XLS a TXT - XLS a TXT Convertidor
+description: Aspose Excel. Convierta XLS a TXT rápida y fácilmente con Aspose.Cells. Python XLS a TXT. Python Guarde XLS en TXT. Guarde XLS como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to TXT in Python., Save XLS to TXT using Python., Python XLS to TXT saveformat., XLS to TXT Converter., Python Save XLS as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLS a TXT en Python" h2="Biblioteca Python de alta velocidad para convertir XLS a TXT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Convertir XLS a TXT en Python" %}}
 
- ¿Cómo convierto XLS a TXT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLS a TXT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLS a TXT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLS a TXT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XLS a TXT en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLS al TXT en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir XLS a TXT en Python via NET.
+El siguiente ejemplo demuestra cómo convertir XLS a TXT en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLS a TXT. Cargue su archivo XLS, luego simplemente guárdelo como archivo TXT. Tanto para la lectura XLS como para la escritura TXT, puede utilizar nombres de archivo completos. El contenido y el formato de la salida TXT serán idénticos al documento original XLS.
+Siga los sencillos pasos para convertir XLS a TXT. Cargue su archivo XLS y luego simplemente guárdelo como archivo TXT. Tanto para lectura XLS como para escritura TXT puede utilizar nombres de archivo completos. El contenido y el formato de salida TXT serán idénticos al documento XLS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLS a TXT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLS a TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLS a TXT" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLS a TXT. Cargue su archivo XLS, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLS a TXT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLS en TXT" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con la extensión XLS representan el formato de archivo binario de Excel. Dichos archivos pueden ser creados por Microsoft Excel, así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un archivo con extensión .TXT representa un documento de texto que contiene texto sin formato en forma de líneas. Los párrafos de un documento de texto se reconocen mediante retornos de carro y se utilizan para organizar mejor el contenido del archivo. Un documento de texto estándar se puede abrir en cualquier editor de texto o aplicación de procesamiento de texto en diferentes sistemas operativos. Todo el texto contenido en dicho archivo está en formato legible por humanos y representado por una secuencia de caracteres.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos se pueden crear con Microsoft Excel y con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado con Excel se conoce como Libro de trabajo, donde cada libro puede tener una o más hojas de trabajo. Los datos se almacenan y se muestran a los usuarios en formato de tabla en una hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Aplicaciones como Microsoft Excel le permiten exportar datos del libro a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y varios otros. El formato de archivo XLS fue reemplazado por un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un archivo con extensión .TXT representa un documento de texto que contiene texto sin formato en forma de líneas. Los párrafos de un documento de texto se reconocen mediante retornos de carro y se utilizan para organizar mejor el contenido del archivo. Un documento de texto estándar se puede abrir en cualquier editor de texto o aplicación de procesamiento de textos en diferentes sistemas operativos. Todo el texto contenido en dicho archivo está en formato legible por humanos y representado por una secuencia de caracteres.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLS a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-bmp/" name="XLS AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-emf/" name="XLS AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-gif/" name="XLS AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-html/" name="XLS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-md/" name="XLS A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-md/" name="XLS AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-mhtml/" name="XLS AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-ods/" name="XLS AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-pdf/" name="XLS AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-png/" name="XLS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-svg/" name="XLS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-tiff/" name="XLS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-tsv/" name="XLS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-tsv/" name="XLS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-txt/" name="XLS AL TXT" description="Documento de texto" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xlsb/" name="XLS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xlsm/" name="XLS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xlsx/" name="XLS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xlsx/" name="XLS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xlt/" name="XLS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xltm/" name="XLS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xltm/" name="XLS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xltx/" name="XLS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xml/" name="XLS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-xps/" name="XLS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-json/" name="XLS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xls-to-json/" name="XLS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

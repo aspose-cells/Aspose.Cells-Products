@@ -1,7 +1,7 @@
 ---
-title: Python HTM a MHTML - Convertidor en línea HTM a MHTML
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir HTM a MHTML guardar formato. Formato Python HTM al MHTML. Aparta HTM al MHTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MHTML saveformat., Free Online HTM to MHTML Python., Python Convert HTM to MHTML]
+title: Python HTM a MHTML - Convertidor HTM a MHTML
+description: Aspose Excel. Convierta HTM a MHTML rápida y fácilmente con Aspose.Cells. Python HTM a MHTML. Python Guarde HTM en MHTML. Guarde HTM como MHTML usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to MHTML in Python., Save HTM to MHTML using Python., Python HTM to MHTML saveformat., HTM to MHTML Converter., Python Save HTM as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir HTM a MHTML en Python" h2="Biblioteca Python de alta velocidad para convertir HTM a MHTML. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Convertir HTM a MHTML en Python" %}}
 
- ¿Cómo convierto HTM a MHTML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente HTM a MHTML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto HTM a MHTML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente HTM a MHTML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde HTM al MHTML en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde HTM en MHTML en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir HTM a MHTML en Python via NET.
+El siguiente ejemplo demuestra cómo convertir HTM a MHTML en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir HTM a MHTML. Cargue su archivo HTM, luego simplemente guárdelo como archivo MHTML. Tanto para la lectura HTM como para la escritura MHTML, puede usar nombres de archivo completos. El contenido y el formato de la salida MHTML serán idénticos al documento HTM original.
+Siga los sencillos pasos para convertir HTM a MHTML. Cargue su archivo HTM y luego simplemente guárdelo como archivo MHTML. Tanto para la lectura HTM como para la escritura MHTML, puede utilizar nombres de archivo completos. El contenido y el formato de salida MHTML serán idénticos al documento HTM original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir HTM a MHTML en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir HTM a MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir HTM a MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos HTM a MHTML mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente HTM a MHTML con solo unas pocas líneas de código.
+¿Necesita convertir archivos HTM a MHTML mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente HTM a MHTML en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir HTM a MHTML. Cargue su archivo HTM, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir HTM a MHTML" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir HTM a MHTML" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con la extensión .htm representan el lenguaje de marcado de hipertexto para crear páginas web para mostrar en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otras personas accedan a ellas. Estas marcas le dicen a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, videos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella al ver la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Los archivos con la extensión MHTML representan un formato de archivo de página web que pueden crear varias aplicaciones diferentes. El formato se conoce como formato de archivo porque guarda el código web HTML y los recursos asociados en un solo archivo. Estos recursos incluyen todo lo relacionado con la página web, como imágenes, applets, animaciones, archivos de audio, etc. Los archivos MHTML se pueden abrir en una variedad de aplicaciones como Internet Explorer y Microsoft Word. Microsoft Windows utiliza el formato de archivo MHTML para registrar escenarios de problemas observados durante el uso de cualquier aplicación en Windows que plantea problemas. El formato de archivo MHTML codifica el contenido de la página de forma similar a las especificaciones definidas en message/rfc822, que son especificaciones relacionadas con el correo electrónico de texto sin formato.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con extensión .htm representan un lenguaje de marcado de hipertexto para crear páginas web que se mostrarán en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otros puedan acceder a ellas. Estas marcas indican a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, vídeos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella viendo la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Los archivos con extensión MHTML representan un formato de archivo de página web que puede ser creado por varias aplicaciones diferentes. El formato se conoce como formato de archivo porque guarda el código web HTML y los recursos asociados en un solo archivo. Estos recursos incluyen cualquier cosa vinculada a la página web, como imágenes, subprogramas, animaciones, archivos de audio, etc. Los archivos MHTML se pueden abrir en una variedad de aplicaciones como Internet Explorer y Microsoft Word. Microsoft Windows utiliza el formato de archivo MHTML para registrar escenarios de problemas observados durante el uso de cualquier aplicación en Windows que genere problemas. El formato de archivo MHTML codifica el contenido de la página de manera similar a las especificaciones definidas en message/rfc822, que son especificaciones relacionadas con el correo electrónico en texto sin formato.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-png/" name="HTM AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-svg/" name="HTM AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tiff/" name="HTM AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tsv/" name="HTM AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tsv/" name="HTM AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-txt/" name="HTM AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xls/" name="HTM AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsb/" name="HTM AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsm/" name="HTM AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsx/" name="HTM AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsx/" name="HTM AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlt/" name="HTM AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltm/" name="HTM AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltm/" name="HTM AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltx/" name="HTM AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xml/" name="HTM A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xps/" name="HTM AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-json/" name="HTM AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-json/" name="HTM AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

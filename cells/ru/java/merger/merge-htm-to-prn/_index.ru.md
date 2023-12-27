@@ -1,8 +1,8 @@
 ---
 title: Объединить HTM с PRN — Объединить HTM с PRN в Java
 url: /ru/java/merger/merge-htm-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Бесплатное онлайн-слияние HTM в формат сохранения PRN. Java Объединение HTM в формат PRN. Слияние HTM с PRN по номеру Java. Слияние HTM.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free Online Java Merge HTM to prn., Java Combine HTM to PRN Online for Free., HTM Merge]
+description: Aspose Эксель. Java Aspose.Cells. Объедините формат сохранения HTM и PRN. Java Объедините формат HTM в PRN. Объедините HTM и PRN по номеру Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Java Merge HTM to prn., Java Combine HTM to PRN., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить HTM с PRN via Java" h2="Высокоскоростная библиотека Java для слияния HTM с PRN. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Объедините HTM с PRN, используя Java" %}}
 
- Как объединить HTM с PRN? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить HTM и PRN с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как мне объединить HTM с PRN? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить HTM с PRN с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -45,37 +45,37 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Слияние HTM с PRN в Java онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Объединить HTM и PRN в Java" %}}
 
 В следующем примере показано, как объединить HTM с PRN в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы объединить HTM с PRN. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл PRN. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, объединяющий HTM и PRN.
+Следуйте простым шагам, чтобы объединить HTM с PRN. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл PRN. Если вы разработаете код Java, это будет проще, чем кажется. См. пример Java, в котором HTM объединяется с PRN.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатно онлайн объединить HTM в PRN в Java" InputFormat="htm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Пример кода для объединения HTM с PRN в Java" InputFormat="htm" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить HTM с PRN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно объединить HTM с PRN? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить HTM и PRN? Базовый документ, объединяющийся и конкатенированный с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно создать с помощью всего нескольких строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Установить «Aspose.Cells for Java».
++ Установите «Aspose.Cells for Java».
 + Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл HTM с классом Workbook.
-+ Вызвать метод Workbook.Combine для объединения файлов.
++ Вызов метода Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
-+ Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
++ Теперь вы можете открыть и использовать выходной файл в Office Microsoft, Adobe PDF или любой другой совместимой программе.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java библиотека для слияния HTM с PRN" %}}
+{{% blocks/products/pf/agp/content h2="Java библиотека для объединения HTM и PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -90,35 +90,35 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free On
 
 {{% blocks/products/pf/agp/text %}}
 
-Наши API поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе выполнены следующие предварительные условия.
+Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Файл PRN — это файл, созданный с помощью флажка «Печать в файл», который появляется в некоторых диалоговых окнах «Печать» по номеру Windows. Он содержит набор инструкций для конкретного устройства, которые принтер, факсимильный аппарат или другое устройство использует для печати документа. Файлы PRN могут содержать текстовое или двоичное содержимое, в зависимости от устройства, для которого файл был создан.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во Всемирной паутине (WWW) для доступа других. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать простой текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете просмотреть код разметки, стоящий за ней, просмотрев исходный код ее страницы. Современные браузеры позволяют проверять каждый раздел веб-страницы, где детально разработано каждое подразделение или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Файл PRN — это файл, созданный с помощью флажка «Печать в файл», который появляется в некоторых диалоговых окнах «Печать» по номеру Windows. Он содержит набор инструкций для конкретного устройства, которые принтер, факс или другое устройство использует для печати документа. Файлы PRN могут содержать текстовое или двоичное содержимое, в зависимости от устройства, для которого файл был создан.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить htm со многими другими форматами файлов, включая ." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить htm со многими другими форматами файлов, включая." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-docx/" name="Объединить HTM с DOCX" description="Microsoft Документ Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-sql/" name="Слияние HTM с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-sql/" name="Объединить HTM с SQL" description="Язык структурированных запросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-bmp/" name="Объединить HTM с BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-emf/" name="Объединить HTM с EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-gif/" name="Объединить HTM с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-gif/" name="Объединить HTM с GIF" description="Формат графического обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-html/" name="Объединить HTM с HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-md/" name="Слияние HTM с MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-mhtml/" name="Объединить HTM с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-md/" name="Объединить HTM с MD" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-mhtml/" name="Объединить HTM с MHTML" description="Формат архива веб-страниц" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-ods/" name="Объединить HTM с ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-pdf/" name="Объединить HTM с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-pdf/" name="Объединить HTM с PDF" description="Портативный формат документов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-png/" name="Объединить HTM с PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-svg/" name="Объединить HTM с SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-tiff/" name="Объединить HTM с TIFF" description="Формат изображения с тегами" >}}
@@ -127,11 +127,11 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free On
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xls/" name="Объединить HTM с XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsb/" name="Объединить HTM с XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsm/" name="Объединить HTM с XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsx/" name="Объединить HTM с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsx/" name="Объединить HTM с XLSX" description="OOXML-файл Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlt/" name="Объединить HTM с XLT" description="Microsoft Шаблон Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltm/" name="Объединить HTM с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltx/" name="Объединить HTM с XLTX" description="Шаблон Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xml/" name="Объединить HTM в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltx/" name="Объединить HTM с XLTX" description="Шаблон Excel для Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xml/" name="Объединить HTM с XML" description="расширяемый язык разметки" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xps/" name="Объединить HTM с XPS" description="Спецификации XML-бумаги" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-json/" name="Объединить HTM с JSON" description="Обозначение объектов JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-jpeg/" name="Объединить HTM с JPEG" description="JPEG Изображение" >}}

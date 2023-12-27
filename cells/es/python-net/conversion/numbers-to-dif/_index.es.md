@@ -1,7 +1,7 @@
 ---
-title: Python NÚMEROS a DIF - Números en línea a DIF Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir NÚMEROS a DIF guardar formato. Python NÚMEROS al formato DIF. Guardar NÚMEROS al DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Python., Python Convert NUMBERS to DIF]
+title: Python NÚMEROS a DIF - Convertidor NÚMEROS a DIF
+description: Aspose Excel. Convierta NÚMEROS a DIF rápida y fácilmente con Aspose.Cells. Python NÚMEROS a DIF. Python Guarde NÚMEROS en DIF. Guarde NÚMEROS como DIF usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to DIF in Python., Save NUMBERS to DIF using Python., Python NUMBERS to DIF saveformat., NUMBERS to DIF Converter., Python Save NUMBERS as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir NÚMEROS a DIF en Python" h2="Biblioteca Python de alta velocidad para convertir NÚMEROS a DIF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Convertir NÚMEROS a DIF en Python" %}}
 
- ¿Cómo convierto NÚMEROS a DIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente NÚMEROS a DIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto NÚMEROS a DIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente NÚMEROS a DIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde NÚMEROS al DIF en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarda NÚMEROS al DIF en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir NÚMEROS a DIF en Python via NET.
+El siguiente ejemplo demuestra cómo convertir NÚMEROS a DIF en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir NUMBERS a DIF. Cargue su archivo NUMBERS, luego simplemente guárdelo como archivo DIF. Tanto para la lectura de NÚMEROS como para la escritura de DIF, puede utilizar nombres de archivo completos. El contenido y el formato de la salida DIF serán idénticos al documento NUMBERS original.
+Siga los sencillos pasos para convertir NUMBERS a DIF. Cargue su archivo NUMBERS y luego simplemente guárdelo como archivo DIF. Tanto para la lectura de NÚMEROS como para la escritura de DIF, puede utilizar nombres de archivos completos. El contenido y el formato de salida DIF serán idénticos al documento original de NUMBERS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir NÚMEROS a DIF en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir NÚMEROS a DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir NÚMEROS a DIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos NUMBERS a DIF mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente NÚMEROS a DIF con solo unas pocas líneas de código.
+¿Necesita convertir archivos NUMBERS a DIF mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente NÚMEROS a DIF en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir NUMBERS a DIF. Cargue su archivo NUMBERS
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir NÚMEROS a DIF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir NÚMEROS a DIF" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Los archivos con extensión .numbers se clasifican como archivos de tipo hoja de cálculo, por eso son similares a los archivos .xlsx; pero los archivos Numbers se crean utilizando el software de hoja de cálculo Apple iWork Numbers. Apple iWork Numbers es una unidad de software de iWork Productivity Suite. iWork Productivity Suite es equivalente a Microsoft Office Suite que se usa en Windows PC. Por lo tanto, podemos decir que el Numbers que está disponible para MacOS también es un competidor de Microsoft Excel. Asimismo, Microsoft Excel, el archivo NUMBERS también puede contener tablas, gráficos y fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF significa Formato de intercambio de datos que se utiliza para importar/exportar datos de hojas de cálculo entre diferentes aplicaciones. Estos incluyen Microsoft Excel, OpenOffice Calc, StarCalc y muchos otros. Almacena los datos contenidos en una sola hoja de cálculo, que es la única limitación de este formato de archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Los archivos con extensión .numbers se clasifican como archivos de hoja de cálculo, por eso son similares a los archivos .xlsx; pero los archivos Numbers se crean utilizando el software de hoja de cálculo Apple iWork Numbers. Apple iWork Numbers es una unidad de software de iWork Productivity Suite. iWork Productivity Suite es equivalente a Microsoft Office Suite que se utiliza en las PC Windows. Por lo tanto, podemos decir que el Numbers que está disponible para MacOS también es un competidor del Microsoft Excel. Asimismo, Microsoft Excel, el archivo NUMBERS también puede contener tablas, gráficos y fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF significa formato de intercambio de datos que se utiliza para importar/exportar datos de hojas de cálculo entre diferentes aplicaciones. Estos incluyen Microsoft Excel, OpenOffice Calc, StarCalc y muchos otros. Almacena datos contenidos en una única hoja de cálculo, que es la única limitación de este formato de archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir NÚMEROS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-bmp/" name="NUMEROS AL BMP" description="Imagen de mapa de bits" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-emf/" name="NUMEROS AL EMF" description="Formato de metarchivo mejorado" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-gif/" name="NUMEROS AL GIF" description="Formato de intercambio gráfico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-html/" name="NUMEROS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-bmp/" name="NÚMEROS AL BMP" description="Imagen de mapa de bits" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-emf/" name="NÚMEROS AL EMF" description="Formato de metarchivo mejorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-gif/" name="NÚMEROS AL GIF" description="Formato de intercambio gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-html/" name="NÚMEROS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-md/" name="NÚMEROS A MD" description="Lenguaje de rebajas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-mhtml/" name="NUMEROS AL MHTML" description="Formato de archivo de página web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-ods/" name="NUMEROS AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-pdf/" name="NUMEROS AL PDF" description="Formato de Documento Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-png/" name="NUMEROS AL PNG" description="Gráficos de red portátiles" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-svg/" name="NUMEROS AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-tiff/" name="NUMEROS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-tsv/" name="NUMEROS AL TSV" description="Valores separados por tabuladores" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-txt/" name="NUMEROS AL TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xls/" name="NUMEROS AL XLS" description="Formato binario de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsb/" name="NUMEROS AL XLSB" description="Archivo de libro de Excel binario" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsm/" name="NUMEROS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsx/" name="NUMEROS AL XLSX" description="Archivo de Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlt/" name="NUMEROS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xltm/" name="NUMEROS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xltx/" name="NUMEROS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-mhtml/" name="NÚMEROS AL MHTML" description="Formato de archivo de página web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-ods/" name="NÚMEROS AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-pdf/" name="NÚMEROS AL PDF" description="Formato de Documento Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-png/" name="NÚMEROS AL PNG" description="Gráficos de red portátiles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-svg/" name="NÚMEROS AL SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-tiff/" name="NÚMEROS AL TIFF" description="Formato de imagen etiquetada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-tsv/" name="NÚMEROS AL TSV" description="Valores separados por tabulaciones" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-txt/" name="NÚMEROS AL TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xls/" name="NÚMEROS AL XLS" description="Formato binario de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsb/" name="NÚMEROS AL XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsm/" name="NÚMEROS AL XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsx/" name="NÚMEROS AL XLSX" description="Archivo Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlt/" name="NÚMEROS AL XLT" description="Microsoft Plantilla de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xltm/" name="NÚMEROS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xltx/" name="NÚMEROS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xml/" name="NÚMEROS A XML" description="Lenguaje de marcado extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xps/" name="NUMEROS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-json/" name="NUMEROS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xps/" name="NÚMEROS AL XPS" description="Especificaciones de papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-json/" name="NÚMEROS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

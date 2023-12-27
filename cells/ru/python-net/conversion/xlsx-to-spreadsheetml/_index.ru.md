@@ -1,7 +1,7 @@
 ---
-title: Python XLSX в SPREADSHEETML - Online XLSX в SPREADSHEETML Конвертер
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать XLSX в формат сохранения SPREADSHEETML. Python XLSX в формат SPREADSHEETML. Сохраните XLSX в SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to SPREADSHEETML saveformat., Free Online XLSX to SPREADSHEETML Python., Python Convert XLSX to SPREADSHEETML]
+title: Python XLSX в SPREADSHEETML - Конвертер XLSX в SPREADSHEETML
+description: Aspose Эксель. Преобразуйте XLSX в SPREADSHEETML быстро и легко с помощью Aspose.Cells. Python XLSX в SPREADSHEETML. Python Сохранить XLSX в SPREADSHEETML. Сохраните XLSX как SPREADSHEETML, используя Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to SPREADSHEETML in Python., Save XLSX to SPREADSHEETML using Python., Python XLSX to SPREADSHEETML saveformat., XLSX to SPREADSHEETML Converter., Python Save XLSX as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразовать XLSX в SPREADSHEETML в Python" h2="Высокоскоростная библиотека Python для преобразования XLSX в SPREADSHEETML. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Преобразовать XLSX в SPREADSHEETML в Python" %}}
 
- Как преобразовать XLSX в SPREADSHEETML? С помощью библиотеки Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLSX в SPREADSHEETML программным путем с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне преобразовать XLSX в SPREADSHEETML? С помощью Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLSX в SPREADSHEETML программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Сохраните XLSX в SPREADSHEETML в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните XLSX в SPREADSHEETML в Python." %}}
 
 В следующем примере показано, как преобразовать XLSX в SPREADSHEETML в Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,19 +28,19 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLSX в SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования XLSX в SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLSX в SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы XLSX в SPREADSHEETML? Разработчики Python могут легко загрузить и преобразовать XLSX в SPREADSHEETML всего за несколько строк кода.
+Вам нужно программно преобразовать файлы XLSX в SPREADSHEETML? Разработчики Python могут легко загрузить и преобразовать XLSX в SPREADSHEETML всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл XLSX с экземпляром Workbook.
+1.  Загрузите файл XLSX с экземпляром книги.
 1.  Преобразуйте XLSX в SPREADSHEETML, вызвав метод Workbook.save.
 1.  Получите результат преобразования XLSX в SPREADSHEETML.
 
@@ -52,11 +52,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+ Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить «Aspose.Cells for Python via .NET» в вашу среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +64,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе есть[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,36 +72,36 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX — общеизвестный формат для документов Excel Microsoft, представленный Microsoft в выпуске Microsoft Office 2007. Основанный на структуре, организованной в соответствии с соглашениями об открытой упаковке, как указано в части 2 стандарта OOXML ECMA-376, новый формат ZIP-пакет, содержащий несколько XML-файлов. Базовую структуру и файлы можно изучить, просто разархивировав файл .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает Extensible Markup Language, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файла XML заключалась в том, чтобы хранить и передавать данные, не завися от программных или аппаратных инструментов. Его популярность связана с тем, что он читается как человеком, так и машиной. Это позволяет ему создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться по сети, такой как World Wide Web (WWW). «X» в XML означает расширяемость, что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX — это хорошо известный формат для документов Excel Microsoft, который был представлен Microsoft с выпуском Microsoft Office 2007. Новый формат основан на структуре, организованной в соответствии с соглашениями об открытой упаковке, как указано в части 2 стандарта OOXML ECMA-376. zip-пакет, содержащий несколько файлов XML. Базовую структуру и файлы можно изучить, просто разархивировав файл .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает расширяемый язык разметки, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файлов XML заключалась в хранении и транспортировке данных без зависимости от программного или аппаратного обеспечения. Его популярность обусловлена тем, что он может читаться как человеком, так и машиной. Это позволяет создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться в сети, например во Всемирной паутине (WWW). «X» в XML означает «расширяемый», что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать XLSX во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-bmp/" name="XLSX ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-gif/" name="XLSX ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX ТО МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-mhtml/" name="XLSX ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-ods/" name="XLSX ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-pdf/" name="XLSX ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-png/" name="XLSX ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-svg/" name="XLSX ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tiff/" name="XLSX ТО TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tsv/" name="XLSX ТО TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-txt/" name="XLSX ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX ТО XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-bmp/" name="XLSX ДО BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX ДО EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-gif/" name="XLSX ДО GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX ДО HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX ДО МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-mhtml/" name="XLSX ДО MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-ods/" name="XLSX ДО ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-pdf/" name="XLSX ДО PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-png/" name="XLSX ДО PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-svg/" name="XLSX ДО SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tiff/" name="XLSX ДО TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tsv/" name="XLSX ДО TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-txt/" name="XLSX ДО TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX ДО XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX ДО XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX ДО XLSM" description="Файл электронной таблицы" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX ТО XLTX" description="Шаблон Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX в XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX ТО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX ДО XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX ДО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX ДО XLTX" description="Шаблон Excel для Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX В XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX ДО XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX ДО JSON" description="Обозначение объектов JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

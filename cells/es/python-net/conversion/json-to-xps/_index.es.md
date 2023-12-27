@@ -1,7 +1,7 @@
 ---
-title: Python JSON a XPS - En línea JSON a XPS Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir JSON a XPS guardar formato. Formato Python JSON al XPS. Aparta del JSON al XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to XPS saveformat., Free Online JSON to XPS Python., Python Convert JSON to XPS]
+title: Python JSON a XPS - JSON a XPS Convertidor
+description: Aspose Excel. Convierta JSON a XPS rápida y fácilmente con Aspose.Cells. Python JSON a XPS. Python Guarde JSON en XPS. Guarde JSON como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to XPS in Python., Save JSON to XPS using Python., Python JSON to XPS saveformat., JSON to XPS Converter., Python Save JSON as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir JSON a XPS en Python" h2="Biblioteca Python de alta velocidad para convertir JSON a XPS. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSO
 
 {{% blocks/products/pf/agp/content h2="Convertir JSON a XPS en Python" %}}
 
- ¿Cómo convierto JSON a XPS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JSON a XPS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto JSON a XPS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JSON a XPS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde JSON a XPS en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar JSON al XPS en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir JSON a XPS en Python via NET.
+El siguiente ejemplo demuestra cómo convertir JSON a XPS en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir JSON a XPS. Cargue su archivo JSON, luego simplemente guárdelo como archivo XPS. Tanto para la lectura JSON como para la escritura XPS, puede utilizar nombres de archivo completos. El contenido y el formato de la salida XPS serán idénticos al documento original JSON.
+Siga los sencillos pasos para convertir JSON a XPS. Cargue su archivo JSON y luego simplemente guárdelo como archivo XPS. Tanto para lectura JSON como para escritura XPS puede utilizar nombres de archivo completos. El contenido y el formato de salida XPS serán idénticos al documento JSON original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir JSON a XPS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir JSON a XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir JSON a XPS" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir JSON a XPS. Cargue su archivo JSON, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir JSON a XPS" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir JSON en XPS" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,32 +72,32 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Notación de objetos de JavaScript) es un formato de archivo estándar abierto para compartir datos que utiliza texto legible por humanos para almacenar y transmitir datos. Los archivos JSON se almacenan con la extensión .json. JSON requiere menos formato y es una buena alternativa para XML. JSON se deriva de JavaScript pero es un formato de datos independiente del idioma. Muchos lenguajes de programación modernos admiten la generación y el análisis de JSON. application/json es el tipo de medio utilizado para JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Un archivo XPS representa archivos de diseño de página que se basan en las especificaciones de papel XML creadas por Microsoft. Se desarrolló como reemplazo del formato de archivo EMF y es similar al formato de archivo PDF, pero usa XML en el diseño, la apariencia y la información de impresión de un documento. . De hecho, está más justificado decir que XPS es un intento de PDF, pero no pudo obtener suficiente popularidad como propiedad de PDF por muchas razones. Microsoft proporciona XPS Document Writer de forma predeterminada desde Windows 7 en adelante para la creación de archivos XPS. Los archivos XPS se pueden generar seleccionando "Microsoft XPS Document Writer" como impresora mientras se imprime el documento.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Notación de objetos JavaScript) es un formato de archivo estándar abierto para compartir datos que utiliza texto legible por humanos para almacenar y transmitir datos. Los archivos JSON se almacenan con la extensión .json. JSON requiere menos formato y es una buena alternativa para XML. JSON se deriva de JavaScript pero es un formato de datos independiente del idioma. La generación y el análisis de JSON son compatibles con muchos lenguajes de programación modernos. application/json es el tipo de medio utilizado para JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Un archivo XPS representa archivos de diseño de página que se basan en las especificaciones de papel XML creadas por Microsoft. Fue desarrollado como reemplazo del formato de archivo EMF y es similar al formato de archivo PDF, pero utiliza XML en el diseño, la apariencia y la información de impresión de un documento. . De hecho, está más justificado decir que XPS es un intento de PDF, pero no pudo obtener suficiente popularidad como propiedad de PDF por muchas razones. Microsoft proporciona XPS Document Writer de forma predeterminada desde Windows 7 en adelante para la creación de archivos XPS. Los archivos XPS se pueden generar seleccionando "Microsoft XPS Document Writer" como impresora mientras se imprime el documento.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JSON a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JSON a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-bmp/" name="JSON AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-emf/" name="JSON AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-gif/" name="JSON AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-html/" name="JSON AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-md/" name="JSON A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-md/" name="JSON AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-mhtml/" name="JSON AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-ods/" name="JSON AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-pdf/" name="JSON AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-png/" name="JSON AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-svg/" name="JSON AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tiff/" name="JSON AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tsv/" name="JSON AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-tsv/" name="JSON AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-txt/" name="JSON AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xls/" name="JSON AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsb/" name="JSON AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsm/" name="JSON AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsx/" name="JSON AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsx/" name="JSON AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlt/" name="JSON AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltm/" name="JSON AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltm/" name="JSON AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltx/" name="JSON AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xml/" name="JSON A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xps/" name="JSON AL XPS" description="Especificaciones de papel XML" >}}

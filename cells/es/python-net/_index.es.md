@@ -1,7 +1,8 @@
 ---
 title:  Python Hoja de cálculo Excel API - Aspose
 weight: 2800
-description: Python biblioteca de hojas de cálculo para crear archivos de Excel de lectura, escritura y análisis.
+description: Biblioteca Python para crear, reparar, fusionar, analizar y convertir archivos de Excel. Convierta Excel a PDF, JSON, HTML, TXT y otros formatos populares.
+keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API de análisis de hojas de cálculo de Excel" h2="Genere, lea, escriba o manipule hojas de cálculo, así como exporte archivos de Excel a múltiples formatos dentro de las aplicaciones Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
@@ -12,7 +13,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python a través de .Net es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando python.
+Aspose.Cells for Python vía .Net es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,18 +21,18 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="de un vistazo" description="Una descripción general de las capacidades de API." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Una descripción general de las capacidades de API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- Importar y Exportar
+ Importar y actualizar Exportar
    </header>
    <ul>
     <li>
- arreglos
+ matrices
     </li>
     <li>
  Conjunto resultante
@@ -104,7 +105,7 @@ Colecciones
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells for Python via .NET está disponible para." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Cells for Python via .NET está disponible para." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +115,7 @@ Colecciones
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python Entorno de tiempo de ejecución
+ Python Entorno de ejecución
    </header>
    <!--<ul>
 
@@ -144,7 +145,7 @@ Colecciones
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La biblioteca de Excel Python es compatible con los populares formatos de Excel Microsoft, formatos de diseño fijo e imágenes." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La biblioteca de Excel Python admite los populares formatos de Excel Microsoft, formatos de diseño fijo e imágenes." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +157,7 @@ Colecciones
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -185,7 +186,7 @@ Colecciones
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Solo salida
+ Sólo salida
    </header>
    <ul>
     <li>
@@ -234,7 +235,7 @@ Colecciones
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Funciones avanzadas Python Excel API
+ Funciones avanzadas Python Excel API
    </h2>
    <p>
    </p>
@@ -249,7 +250,7 @@ Funciones avanzadas Python Excel API
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Renderizar hojas de cálculo al PDF, EMF e imágenes
+ Renderizar hojas de cálculo a PDF, EMF e imágenes
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +299,14 @@ Funciones avanzadas Python Excel API
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dividir y combinar celdas
+ Dividir y fusionar celdas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar o quitar agrupación a filas y columnas
+Agregar o eliminar agrupaciones en filas y columnas
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +320,7 @@ Funciones avanzadas Python Excel API
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leer y establecer fórmulas
+ Leer y configurar fórmulas
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +334,14 @@ Funciones avanzadas Python Excel API
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajustar la orientación de la página, la escala, el tamaño del papel
+ Ajustar la orientación de la página, la escala y el tamaño del papel.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leer &amperio; escribir formato condicional
+ Leer y leer escribir formato condicional
     </p>
    </div>
    <!--
@@ -415,11 +416,11 @@ Funciones avanzadas Python Excel API
  Conversión de múltiples formatos
     </h2>
     <p>
- Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS &amp; HTML formatos. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
+ Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS y XPS. HTML formatos. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Guardar hoja de cálculo en diferentes formatos
+ Guardar hoja de cálculo en diferentes formatos.
      </h3>
      <pre><code class="net">
 
@@ -464,7 +465,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Opciones de visualización flexibles
     </h2>
     <p>
- Aspose.Cells for Python for Python via .NET brinda control total sobre la configuración de la página, lo que permite manipular múltiples opciones de visualización, como previsualizar saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, tamaño del papel, escala, encabezados y amp; pies de página y área de impresión.
+ Aspose.Cells for Python via .NET proporciona control total sobre la configuración de la página, lo que permite manipular múltiples opciones de visualización, como vista previa de saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, el tamaño del papel, la escala, los encabezados y las funciones. pies de página y área de impresión.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -484,18 +485,18 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Gestión de datos de hojas de Excel
+ Gestión de datos en hojas de Excel
     </h2>
     <p>
- Aspose.Cells for Python via .NET API proporciona un amplio soporte para la gestión de datos de hojas de trabajo. Uno puede manipular fácilmente cualquier celda en la hoja de trabajo en tiempo de ejecución o importar datos a las hojas de trabajo desde varias fuentes de datos.
+ Aspose.Cells for Python via .NET API proporciona un amplio soporte para la gestión de datos de hojas de cálculo. Se puede manipular fácilmente cualquier celda de la hoja de trabajo en tiempo de ejecución o importar datos a las hojas de trabajo desde varias fuentes de datos.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Personalización de gráficos
+Personalización de gráficos
     </h2>
     <p>
-Aspose.Cells for Python via .NET proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o establecer dinámicamente datos de gráficos para actualizar el gráfico en esta biblioteca de Python.
+Aspose.Cells for Python via .NET proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o configurar datos de gráficos dinámicamente para actualizar el gráfico en esta biblioteca de Python.
     </p>
    </div>
    <!--
@@ -538,7 +539,7 @@ Aspose.Cells for Python via .NET proporciona soporte completo para gráficos. Se
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se indica a continuación:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se enumeran a continuación:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

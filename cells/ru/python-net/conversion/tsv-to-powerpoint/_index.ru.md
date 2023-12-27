@@ -1,7 +1,7 @@
 ---
-title: Python TSV в POWERPOINT - Online TSV в POWERPOINT Конвертер
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Преобразование TSV в формат сохранения POWERPOINT. Python TSV в формат POWERPOINT. Сохраните номер TSV в POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to POWERPOINT saveformat., Free Online TSV to POWERPOINT Python., Python Convert TSV to POWERPOINT]
+title: Python TSV в POWERPOINT - TSV в POWERPOINT Конвертер
+description: Aspose Эксель. Преобразуйте TSV в POWERPOINT быстро и легко с помощью Aspose.Cells. Python TSV в POWERPOINT. Python Сохраните TSV в POWERPOINT. Сохраните TSV как POWERPOINT, используя Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to POWERPOINT in Python., Save TSV to POWERPOINT using Python., Python TSV to POWERPOINT saveformat., TSV to POWERPOINT Converter., Python Save TSV as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразовать TSV в POWERPOINT в Python" h2="Высокоскоростная библиотека Python для преобразования TSV в POWERPOINT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,35 +12,35 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 {{% blocks/products/pf/agp/content h2="Преобразовать TSV в POWERPOINT в Python" %}}
 
- Как преобразовать TSV в POWERPOINT? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать TSV в POWERPOINT программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне преобразовать TSV в POWERPOINT? С помощью Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать TSV в POWERPOINT программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Сохраните TSV в POWERPOINT в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните TSV в POWERPOINT в Python." %}}
 
 В следующем примере показано, как преобразовать TSV в POWERPOINT в Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы преобразовать TSV в POWERPOINT. Загрузите файл TSV, а затем просто сохраните его как файл POWERPOINT. Как для чтения TSV, так и для записи в POWERPOINT вы можете использовать полные имена файлов. Выходное содержимое и форматирование POWERPOINT будут идентичны исходному документу TSV.
+Следуйте простым шагам, чтобы преобразовать TSV в POWERPOINT. Загрузите файл TSV, а затем просто сохраните его как файл POWERPOINT. Как для чтения TSV, так и для записи POWERPOINT вы можете использовать полные имена файлов. Выходное содержимое и форматирование POWERPOINT будут идентичны исходному документу TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TSV в POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования TSV в POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
-{{% blocks/products/pf/agp/content h2="Как преобразовать TSV в POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Как конвертировать TSV в POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы TSV в POWERPOINT? Разработчики Python могут легко загрузить и преобразовать TSV в POWERPOINT всего за несколько строк кода.
+Вам нужно программно преобразовать файлы TSV в POWERPOINT? Разработчики Python могут легко загрузить и преобразовать TSV в POWERPOINT всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл TSV с экземпляром Workbook.
+1.  Загрузите файл TSV с экземпляром книги.
 1.  Преобразуйте TSV в POWERPOINT, вызвав метод Workbook.save.
 1.  Получите результат преобразования TSV в POWERPOINT.
 
@@ -52,11 +52,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+ Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить «Aspose.Cells for Python via .NET» в вашу среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +64,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе есть[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,36 +72,36 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с пользовательскими настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате открытого XML-файла презентации Microsoft PowerPoint. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с настраиваемыми настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать TSV во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-bmp/" name="TSV ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-emf/" name="TSV ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-gif/" name="TSV ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-html/" name="TSV ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV ТО МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-mhtml/" name="TSV ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-ods/" name="TSV ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-png/" name="TSV ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-svg/" name="TSV ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-tiff/" name="TSV ТО TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-bmp/" name="TSV ДО BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-emf/" name="TSV ДО EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-gif/" name="TSV ДО GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-html/" name="TSV ДО HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV ДО МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-mhtml/" name="TSV ДО MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-ods/" name="TSV ДО ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV ДО PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-png/" name="TSV ДО PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-svg/" name="TSV ДО SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-tiff/" name="TSV ДО TIFF" description="Формат изображения с тегами" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-txt/" name="TSV ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xls/" name="TSV ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsb/" name="TSV ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV ТО XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsx/" name="TSV ТО XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlt/" name="TSV ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltx/" name="TSV ТО XLTX" description="Шаблон Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xml/" name="TSV в XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-json/" name="TSV ТО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-txt/" name="TSV ДО TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xls/" name="TSV ДО XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsb/" name="TSV ДО XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV ДО XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsx/" name="TSV ДО XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlt/" name="TSV ДО XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV ДО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltx/" name="TSV ДО XLTX" description="Шаблон Excel для Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xml/" name="TSV В XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV ДО XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-json/" name="TSV ДО JSON" description="Обозначение объектов JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

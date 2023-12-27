@@ -1,7 +1,7 @@
 ---
-title: C++ JPG a HTM - Conversor de JPG a HTM en línea
-description: AsposeExcel. C++ Aspose.Cells. C++ Aspose Cells. Gratis en línea C++ Convertir JPG a formato guardado HTM. C++ Formato JPG a HTM. Guardar JPG al HTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to HTM saveformat., Free Online JPG to HTM C++., C++ Convert JPG to HTM]
+title: C++ JPG a HTM - Convertidor de JPG a HTM
+description: Aspose Excel. Convierta JPG a HTM rápida y fácilmente con Aspose.Cells. C++ JPG a HTM. C++ Guardar JPG en HTM. Guarde JPG como HTM usando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to HTM in C++., Save JPG to HTM using C++., C++ JPG to HTM saveformat., JPG to HTM Converter., C++ Save JPG as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir JPG a HTM en C++" h2="Conversión de JPG a HTM de alto rendimiento utilizando la biblioteca C++ sin necesidad de instalar Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to HTM s
 
 {{% blocks/products/pf/agp/content h2="Convierta JPG a HTM usando C++" %}}
 
- ¿Cómo convierto JPG a HTM? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente JPG a HTM mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo convierto JPG a HTM? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente JPG a HTM mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar JPG a HTM en C++ en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde JPG en HTM en C++" %}}
 
-El siguiente ejemplo muestra cómo convertir JPG a HTM en C++.
+El siguiente ejemplo demuestra cómo convertir JPG a HTM en C++.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir JPG a HTM. Cargue su archivo JPG, luego simplemente guárdelo como archivo HTM. Tanto para la lectura de JPG como para la escritura de HTM, puede utilizar nombres de archivo completos. El contenido y el formato HTM de salida serán idénticos al documento JPG original.
+Siga los sencillos pasos para convertir JPG a HTM. Cargue su archivo JPG y luego simplemente guárdelo como archivo HTM. Tanto para lectura JPG como para escritura HTM, puede utilizar nombres de archivos completos. El contenido y el formato HTM de salida serán idénticos al documento JPG original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir JPG a HTM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Código de muestra para convertir JPG a HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir JPG a HTM a través de C++" %}}
 
@@ -49,22 +49,22 @@ Siga los sencillos pasos para convertir JPG a HTM. Cargue su archivo JPG, luego 
 
 1.  Instale 'Aspose.Cells for C++'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto C++.
-1.  Cargue el archivo JPG usando Factory::CreateIWorkbook.
+1.  Cargue el archivo JPG usando el libro de trabajo.
 1.  Convierta JPG a HTM llamando al método Save().
-1.  Obtén el resultado de la conversión de JPG a HTM.
+1.  Obtenga el resultado de la conversión de JPG a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para convertir JPG a HTM" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para convertir JPG a HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,48 +73,47 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con la extensión .htm representan el lenguaje de marcado de hipertexto para crear páginas web para mostrar en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otras personas accedan a ellas. Estas marcas le dicen a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, videos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella al ver la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada insignificantemente si se aplica una compresión 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Los archivos con extensión .htm representan un lenguaje de marcado de hipertexto para crear páginas web que se mostrarán en navegadores web como Google Chrome, Internet Explorer, Firefox y muchos otros. Define las marcas para crear páginas estáticas que se publicarán en la World Wide Web (WWW) para que otros puedan acceder a ellas. Estas marcas indican a los navegadores cómo mostrar el contenido de una página web. Dichas páginas pueden contener texto sin formato, imágenes, hipervínculos a otras páginas, vídeos y otra información multimedia. Cuando se publica una página web, puede echar un vistazo al código de marcado detrás de ella viendo la fuente de la página. Los navegadores modernos permiten inspeccionar cada sección de una página web donde se elabora cada subdivisión o elemento de marcado en la fuente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JPG a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-bmp/" name="JPG AL BMP" description="Imagen de mapa de bits" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-emf/" name="JPG AL EMF" description="Formato de metarchivo mejorado" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-gif/" name="JPG AL GIF" description="Formato de intercambio gráfico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-html/" name="JPG AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-md/" name="JPG a MD" description="Lenguaje de rebajas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-mhtml/" name="JPG AL MHTML" description="Formato de archivo de página web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-ods/" name="JPG AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-pdf/" name="JPG AL PDF" description="Formato de Documento Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-png/" name="JPG AL PNG" description="Gráficos de red portátiles" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-svg/" name="JPG AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tiff/" name="JPG AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPG AL TSV" description="Valores separados por tabuladores" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-txt/" name="JPG AL TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xls/" name="JPG AL XLS" description="Formato binario de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsb/" name="JPG AL XLSB" description="Archivo de libro de Excel binario" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsm/" name="JPG AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsx/" name="JPG AL XLSX" description="Archivo de Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlt/" name="JPG AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltm/" name="JPG AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltx/" name="JPG AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-bmp/" name="JPEG AL BMP" description="Imagen de mapa de bits" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-emf/" name="JPEG AL EMF" description="Formato de metarchivo mejorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-gif/" name="JPEG AL GIF" description="Formato de intercambio gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-html/" name="JPEG AL HTML" description="Lenguaje de marcado de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-md/" name="JPG A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-mhtml/" name="JPEG AL MHTML" description="Formato de archivo de página web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-ods/" name="JPEG AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-pdf/" name="JPEG AL PDF" description="Formato de Documento Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-png/" name="JPEG AL PNG" description="Gráficos de red portátiles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-svg/" name="JPEG AL SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPEG AL TSV" description="Valores separados por tabulaciones" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-txt/" name="JPEG AL TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xls/" name="JPEG AL XLS" description="Formato binario de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsb/" name="JPEG AL XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsm/" name="JPEG AL XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsx/" name="JPEG AL XLSX" description="Archivo Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlt/" name="JPEG AL XLT" description="Microsoft Plantilla de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltm/" name="JPEG AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltx/" name="JPEG AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xml/" name="JPG A XML" description="Lenguaje de marcado extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xps/" name="JPG AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-json/" name="JPG AL JSON" description="Notación de objetos de JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-jpeg/" name="JPG AL JPEG" description="JPEG Imagen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xps/" name="JPEG AL XPS" description="Especificaciones de papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-json/" name="JPEG AL JSON" description="Notación de objetos JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-jpeg/" name="JPEG AL JPEG" description="JPEG Imagen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

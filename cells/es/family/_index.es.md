@@ -1,10 +1,10 @@
 ---
-title:  .NET Java Python C++ API de análisis de hojas de cálculo de PHP y Android Excel
+title:  .NET Java Python C++ API de análisis de hojas de cálculo de Excel para PHP y Android
 weight: 10
 description: Bibliotecas para leer, escribir y manipular Microsoft archivos de Excel en .NET Java C++ aplicaciones de Android y SharePoint. Exportar hojas de trabajo en SSRS y JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Procesar hojas de cálculo de Excel en múltiples plataformas" h2="API nativas para crear, editar, convertir y renderizar archivos de Excel. Exporte hojas de cálculo a múltiples formatos en cualquier plataforma." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Procese hojas de cálculo de Excel en múltiples plataformas" h2="API nativas para crear, editar, convertir y renderizar archivos de Excel. Exporte hojas de cálculo a múltiples formatos en cualquier plataforma." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Las API de código alto incluyen" >}}
@@ -14,7 +14,7 @@ Target .NET Framework, .NET Core y plataforma Xamarin para desarrollar aplicacio
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-APIs nativas Java para escritorio, web o cualquier tipo de aplicación basadas en Java SE o EE.
+API Java nativas para escritorio, web o cualquier tipo de aplicación basada en Java SE o EE.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
@@ -22,22 +22,22 @@ Cree, lea, edite, convierta o represente formatos de hojas de cálculo de Excel 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="androide via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
-Agregue capacidades de manipulación de hojas de cálculo de Excel en sus aplicaciones móviles Android.
+Agregue capacidades de manipulación de hojas de cálculo de Excel en sus aplicaciones móviles de Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="compartirpunto" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
 Convierta y combine hojas de cálculo de Excel en SharePoint Services o SharePoint Server.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Servicios de informes" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
-Exporte informes RDL y RDLC a formatos de archivo de Excel desde SQL Server Reporting Services.
+Exporte informes RDL y RDLC a formatos de archivo Excel desde SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperInformes" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
-Exporte informes a formatos de archivo de Excel y PDF desde JasperReports o JasperServer.
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReportes" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
+Exporte informes a formatos de archivo Excel y PDF desde JasperReports o JasperServer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Nodo.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
 Cree, manipule, convierta y renderice hojas de cálculo de Excel a través de Node.js.
 {{< /blocks/products/pf/product >}}
 

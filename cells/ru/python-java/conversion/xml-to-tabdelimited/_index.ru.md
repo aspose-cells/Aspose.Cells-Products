@@ -1,7 +1,7 @@
 ---
-title: Python XML в TABDELIMITED - онлайн-конвертер XML в TABDELIMITED
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать XML в TABDELIMITED saveformat. Python XML в формате TABDELIMITED. Сохраните XML в TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to TABDELIMITED saveformat., Free Online XML to TABDELIMITED Python., Python Convert XML to TABDELIMITED]
+title: Python XML в TABDELIMITED - Конвертер XML в TABDELIMITED
+description: Aspose Эксель. Преобразуйте XML в TABDELIMITED быстро и легко с помощью Aspose.Cells. Python XML в TABDELIMITED. Python Сохранить XML в TABDELIMITED. Сохраните XML как TABDELIMITED, используя Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to TABDELIMITED in Python., Save XML to TABDELIMITED using Python., Python XML to TABDELIMITED saveformat., XML to TABDELIMITED Converter., Python Save XML as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XML в TABDELIMITED в Python" h2="Высокоскоростная библиотека Python для преобразования XML в TABDELIMITED. Это профессиональное программное решение для импорта и экспорта XML, TABDELIMITED и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,34 +12,34 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/content h2="Преобразование XML в TABDELIMITED с помощью Python" %}}
 
- Как преобразовать XML в TABDELIMITED? С библиотекой Aspose.Cells for Python вы можете легко программно преобразовать XML в TABDELIMITED с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне преобразовать XML в TABDELIMITED? С помощью библиотеки Aspose.Cells for Python вы можете легко конвертировать XML в TABDELIMITED программно с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохранить XML в TABDELIMITED в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните XML в TABDELIMITED в Python." %}}
 
 В следующем примере показано, как преобразовать XML в TABDELIMITED в Python.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы преобразовать XML в TABDELIMITED. Загрузите файл XML, а затем просто сохраните его как файл TABDELIMITED. Как для чтения XML, так и для записи с помощью TABDELIMITED вы можете использовать полные имена файлов. Выходное содержимое и форматирование TABDELIMITED будут идентичны исходному XML-документу.
+Следуйте простым шагам, чтобы преобразовать XML в TABDELIMITED. Загрузите свой XML-файл, а затем просто сохраните его как файл TABDELIMITED. Как для чтения XML, так и для записи TABDELIMITED вы можете использовать полные имена файлов. Выходное содержимое и форматирование TABDELIMITED будут идентичны исходному XML-документу.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XML в TABDELIMITED онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования XML в TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как преобразовать XML в TABDELIMITED через Python" %}}
+{{% blocks/products/pf/agp/content h2="Как конвертировать XML в TABDELIMITED по номеру Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать XML-файлы в TABDELIMITED? Python разработчики могут легко загружать и преобразовывать XML в TABDELIMITED, написав всего несколько строк кода.
+Вам нужно программно преобразовать XML-файлы в TABDELIMITED? Разработчики Python могут легко загружать и конвертировать XML в TABDELIMITED всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите XML-файл с экземпляром Workbook.
+1.  Загрузите XML-файл с экземпляром книги.
 1.  Преобразуйте XML в TABDELIMITED, вызвав метод Workbook.save.
 1.  Получите результат преобразования XML в TABDELIMITED.
 
@@ -63,19 +63,19 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux и MacOS), просто убедитесь, что в системе установлена Java 1.8 или выше,[Python](https://www.python.org/downloads/) 3,5 или выше.
+ Aspose.Cells for Python via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux и MacOS), просто убедитесь, что в системе установлен Java 1.8 или выше,[Python](https://www.python.org/downloads/) 3,5 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Установите Java и добавьте его в переменную окружения PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
+-  Установите Java и добавьте его в переменную среды PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает Extensible Markup Language, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файла XML заключалась в том, чтобы хранить и передавать данные, не завися от программных или аппаратных инструментов. Его популярность связана с тем, что он читается как человеком, так и машиной. Это позволяет ему создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться по сети, такой как World Wide Web (WWW). «X» в XML означает расширяемость, что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает расширяемый язык разметки, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файлов XML заключалась в хранении и транспортировке данных без зависимости от программного или аппаратного обеспечения. Его популярность обусловлена тем, что он может читаться как человеком, так и машиной. Это позволяет создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться в сети, например во Всемирной паутине (WWW). «X» в XML означает «расширяемый», что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -83,12 +83,12 @@ Aspose.Cells for Python via Java не зависит от платформы API
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-bmp/" name="XML TO BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-emf/" name="XML TO EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-gif/" name="XML TO GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-gif/" name="XML TO GIF" description="Формат графического обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-html/" name="XML TO HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML в MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML В МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="Формат архива веб-страниц" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-ods/" name="XML TO ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML TO PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML TO PDF" description="Портативный формат документов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-png/" name="XML TO PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-svg/" name="XML TO SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tiff/" name="XML TO TIFF" description="Формат изображения с тегами" >}}
@@ -97,10 +97,10 @@ Aspose.Cells for Python via Java не зависит от платформы API
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xls/" name="XML TO XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsm/" name="XML TO XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsx/" name="XML TO XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsx/" name="XML TO XLSX" description="OOXML-файл Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft Шаблон Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltx/" name="XML TO XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltx/" name="XML TO XLTX" description="Шаблон Excel для Office OpenXML" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xps/" name="XML TO XPS" description="Спецификации XML-бумаги" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-json/" name="XML TO JSON" description="Обозначение объектов JavaScript" >}}

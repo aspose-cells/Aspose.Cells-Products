@@ -1,7 +1,7 @@
 ---
-title: Python PRN a HOJA DE CALCULO - Conversor de PRN a HOJA DE CALCULO en línea
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir PRN a formato de guardado SPREADSHEETML. Python PRN a formato SPREADSHEETML. Guarde PRN en SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to SPREADSHEETML saveformat., Free Online PRN to SPREADSHEETML Python., Python Convert PRN to SPREADSHEETML]
+title: Python PRN a HOJA DE CALCULOML - Convertidor PRN a HOJA DE CALCULOML
+description: Aspose Excel. Convierta PRN a SPREADSHEETML rápida y fácilmente con Aspose.Cells. Python PRN a SPREADSHEETML. Python Guardar PRN en SPREADSHEETML. Guarde PRN como SPREADSHEETML usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to SPREADSHEETML in Python., Save PRN to SPREADSHEETML using Python., Python PRN to SPREADSHEETML saveformat., PRN to SPREADSHEETML Converter., Python Save PRN as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PRN a SPREADSHEETML en Python" h2="Biblioteca Python de alta velocidad para convertir PRN a SPREADSHEETML. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% blocks/products/pf/agp/content h2="Convertir PRN a SPREADSHEETML en Python" %}}
 
- ¿Cómo convierto PRN a SPREADSHEETML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a SPREADSHEETML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto PRN a SPREADSHEETML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a SPREADSHEETML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde PRN en SPREADSHEETML en Python en línea de forma gratuita" %}}
+{{% blocks/products/pf/agp/content h2="Guarde PRN en SPREADSHEETML en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir PRN a SPREADSHEETML en Python via NET.
+El siguiente ejemplo demuestra cómo convertir PRN a SPREADSHEETML en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir PRN a SPREADSHEETML. Cargue su archivo PRN, luego simplemente guárdelo como archivo SPREADSHEETML. Tanto para la lectura de PRN como para la escritura de SPREADSHEETML, puede usar nombres de archivo completos. El contenido y el formato de la hoja de cálculo de salida serán idénticos al documento PRN original.
+Siga los sencillos pasos para convertir PRN a SPREADSHEETML. Cargue su archivo PRN y luego simplemente guárdelo como archivo SPREADSHEETML. Tanto para la lectura de PRN como para la escritura de SPREADSHEETML, puede utilizar nombres de archivos completos. El contenido y el formato de SPREADSHEETML de salida serán idénticos al documento PRN original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir PRN a SPREADSHEETML en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
-{{% blocks/products/pf/agp/content h2="Cómo convertir PRN a HOJA DE CALCULO" %}}
+{{% blocks/products/pf/agp/content h2="Cómo convertir PRN a HOJA DE CALCULOML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos PRN a SPREADSHEETML mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a SPREADSHEETML con solo unas pocas líneas de código.
+¿Necesita convertir archivos PRN a SPREADSHEETML mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a SPREADSHEETML en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,17 +42,17 @@ Siga los sencillos pasos para convertir PRN a SPREADSHEETML. Cargue su archivo P
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
 1.  Cargue el archivo PRN con una instancia de Workbook.
 1.  Convierta PRN a SPREADSHEETML llamando al método Workbook.save.
-1.  Obtenga el resultado de la conversión de PRN a HOJA DE CALCULO.
+1.  Obtenga el resultado de la conversión de PRN a SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir PRN a SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir PRN a SPREADSHEETML" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado con la casilla de verificación Imprimir en archivo que aparece en algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que utiliza una impresora, una máquina de fax u otro dispositivo para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa Lenguaje de marcado extensible que es similar a HTML pero diferente en el uso de etiquetas para definir objetos. La idea detrás de la creación del formato de archivo XML era almacenar y transportar datos sin depender de herramientas de software o hardware. Su popularidad se debe a que es legible tanto por humanos como por máquinas. Esto le permite crear protocolos de datos comunes en forma de objetos para ser almacenados y compartidos a través de una red como la World Wide Web (WWW). La "X" en XML es extensible, lo que implica que el lenguaje se puede extender a cualquier número de símbolos según los requisitos del usuario. Es por estas características que muchos formatos de archivo estándar lo utilizan, como Microsoft Open XML, LibreOffice OpenDocument, XHTML y SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado usando la casilla de verificación Imprimir en archivo que aparece dentro de algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que una impresora, máquina de fax u otro dispositivo utiliza para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa lenguaje de marcado extensible que es similar a HTML pero diferente en el uso de etiquetas para definir objetos. La idea detrás de la creación del formato de archivo XML era almacenar y transportar datos sin depender de herramientas de software o hardware. Su popularidad se debe a que es legible tanto por humanos como por máquinas. Esto le permite crear protocolos de datos comunes en forma de objetos que se almacenarán y compartirán a través de redes como la World Wide Web (WWW). La "X" en XML es extensible, lo que implica que el lenguaje se puede extender a cualquier número de símbolos según los requisitos del usuario. Es por estas características que muchos formatos de archivo estándar lo utilizan, como Microsoft Open XML, LibreOffice OpenDocument, XHTML y SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-png/" name="PRN AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-svg/" name="PRN AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tiff/" name="PRN AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-txt/" name="PRN AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xls/" name="PRN AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsb/" name="PRN AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsm/" name="PRN AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlt/" name="PRN AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltx/" name="PRN AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xml/" name="PRN A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xps/" name="PRN AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

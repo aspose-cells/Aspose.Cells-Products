@@ -1,7 +1,7 @@
 ---
-title: Python XLTX a ET - Convertidor en línea XLTX a ET
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convierta XLTX a ET saveformat. Python XLTX al formato ET. Guardar XLTX a ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to ET saveformat., Free Online XLTX to ET Python., Python Convert XLTX to ET]
+title: Python XLTX a ET - Convertidor de XLTX a ET
+description: Aspose Excel. Convierta XLTX a ET rápida y fácilmente con Aspose.Cells. Python XLTX a ET. Python Guardar XLTX en ET. Guarde XLTX como ET usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to ET in Python., Save XLTX to ET using Python., Python XLTX to ET saveformat., XLTX to ET Converter., Python Save XLTX as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLTX a ET en Python" h2="Biblioteca Python de alta velocidad para convertir XLTX a ET. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Convertir XLTX a ET en Python" %}}
 
- ¿Cómo convierto XLTX a ET? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a ET mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLTX a ET? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a ET mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XLTX a ET en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde XLTX en ET en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir XLTX a ET en Python via NET.
+El siguiente ejemplo demuestra cómo convertir XLTX a ET en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLTX a ET. Cargue su archivo XLTX, luego simplemente guárdelo como archivo ET. Tanto para la lectura de XLTX como para la escritura de ET, puede usar nombres de archivo completos. El contenido y el formato de ET de salida serán idénticos al documento original XLTX.
+Siga los sencillos pasos para convertir XLTX a ET. Cargue su archivo XLTX y luego simplemente guárdelo como archivo ET. Tanto para la lectura de XLTX como para la escritura ET, puede utilizar nombres de archivo completos. El contenido y el formato del ET de salida serán idénticos al documento XLTX original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLTX a ET en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLTX a ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLTX a ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XLTX a ET mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLTX a ET con solo unas pocas líneas de código.
+¿Necesita convertir archivos XLTX a ET mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLTX a ET en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLTX a ET. Cargue su archivo XLTX, luego
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLTX a ET" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLTX a ET" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo OpenXML de Office. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que muestran la misma configuración que se especifica en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Un archivo ET es una lección de enseñanza creada por Easiteach, un programa que permite a los profesores desarrollar lecciones en el aula y entregarlas a través de una interfaz interactiva. Contiene datos de lecciones como diseños, navegación, imágenes, texto, temas y animaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo Office OpenXML. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que exhiben la misma configuración especificada en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Un archivo ET es una lección de enseñanza creada por Easiteach, un programa que permite a los profesores desarrollar lecciones en el aula e impartirlas a través de una interfaz interactiva. Contiene datos de lecciones, como diseños, navegación, imágenes, texto, temas y animaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-gif/" name="XLTX AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-html/" name="XLTX AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-mhtml/" name="XLTX AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-ods/" name="XLTX AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-pdf/" name="XLTX AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-png/" name="XLTX AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-svg/" name="XLTX AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tiff/" name="XLTX AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-txt/" name="XLTX AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xls/" name="XLTX AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsb/" name="XLTX AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsm/" name="XLTX AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlt/" name="XLTX AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xml/" name="XLTX A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xps/" name="XLTX AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

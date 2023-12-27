@@ -1,8 +1,8 @@
 ---
-title: Объединить MHT с MD — Объединить MHT с MD в Java
+title: Объединить MHT с MD — Объединить MHT с MD в Java.
 url: /ru/java/merger/merge-mht-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Бесплатное онлайн-слияние MHT в формат сохранения MD. Java Объединение формата MHT в формат MD. Слияние MHT с MD в Java. Слияние MHT.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Free Online Java Merge MHT to md., Java Combine MHT to MD Online for Free., MHT Merge]
+description: Aspose Эксель. Java Aspose.Cells. Объедините MHT с форматом сохранения MD. Java Объедините формат MHT в формат MD. Объедините MHT с MD в Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Java Merge MHT to md., Java Combine MHT to MD., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить MHT с MD via Java" h2="Высокоскоростная библиотека Java для слияния MHT с MD. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Free Onl
 
 {{% blocks/products/pf/agp/content h2="Объедините MHT с MD, используя Java" %}}
 
- Как объединить MHT с MD? С библиотекой Aspose.Cells for Java вы можете легко программно объединить MHT с MD с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как мне объединить MHT с MD? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить MHT с MD с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -45,37 +45,37 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Free Onl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Объедините MHT в MD в Java онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Объединить MHT с MD в Java" %}}
 
 В следующем примере показано, как объединить MHT с MD в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы объединить MHT с MD. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле MD. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, в котором MHT объединяется с MD.
+Следуйте простым шагам, чтобы объединить MHT с MD. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл MD. Если вы разработаете код Java, это будет проще, чем кажется. См. пример Java, в котором MHT объединяется с MD.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатно онлайн объединить MHT в MD в Java" InputFormat="mht" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Пример кода для объединения MHT с MD в Java" InputFormat="mht" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить MHT с MD via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Нужно программно объединить MHT в MD? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить MHT с MD? Базовый документ, объединяющийся и конкатенированный с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно создать с помощью всего нескольких строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Установить «Aspose.Cells for Java».
++ Установите «Aspose.Cells for Java».
 + Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл MHT с классом Workbook.
-+ Вызвать метод Workbook.Combine для объединения файлов.
++ Вызов метода Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
-+ Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
++ Теперь вы можете открыть и использовать выходной файл в Office Microsoft, Adobe PDF или любой другой совместимой программе.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java библиотека для слияния MHT с MD" %}}
+{{% blocks/products/pf/agp/content h2="Java библиотека для объединения MHT с MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -90,51 +90,51 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Free Onl
 
 {{% blocks/products/pf/agp/text %}}
 
-Наши API поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе выполнены следующие предварительные условия.
+Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht представляет собой формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы в виде встроенных в него ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в виде одного архивного файла для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют преобразовывать ваши документы WORD в MHT путем экспорта в виде файла MHT. Файлы MHT можно открывать с помощью популярных браузеров, таких как Microsoft Internet Explorer и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Текстовые файлы, созданные с использованием диалектов языка Markdown, сохраняются с расширением .md или .MARKDOWN. Файлы MD сохраняются в текстовом формате с использованием языка Markdown, который также включает встроенные текстовые символы, определяющие способ форматирования текста, например отступы, форматирование таблиц, шрифты и заголовки. Файлы MD можно преобразовать в HTML с помощью программы Markdown. Язык Markdown выпущен Джоном Грубером.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht — это формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы, в качестве встроенных ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в один архивный файл для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют конвертировать документы WORD в MHT путем экспорта в файл MHT. Файлы MHT можно открыть с помощью популярных браузеров, таких как Microsoft Internet Explore и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Текстовые файлы, созданные с использованием диалектов языка Markdown, сохраняются с расширением .md или .MARKDOWN. Файлы MD сохраняются в обычном текстовом формате, использующем язык Markdown, который также включает встроенные текстовые символы, определяющие способ форматирования текста, например отступы, форматирование таблиц, шрифты и заголовки. Файлы MD можно преобразовать в HTML с помощью программы Markdown. Язык Markdown выпущен Джоном Грубером.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить mht со многими другими форматами файлов, включая ." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить mht со многими другими форматами файлов, включая." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-docx/" name="Объединить MHT с DOCX" description="Microsoft Документ Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-sql/" name="Слияние MHT с SQL" description="Язык структурированных запросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-bmp/" name="Объединить MHT с BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-emf/" name="Объединить MHT с EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-gif/" name="Объединить MHT с GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="Объединить MHT с HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-md/" name="Объединить MHT в MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="Объединить MHT с MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="Объединить MHT с ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-pdf/" name="Объединить MHT с PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-png/" name="Объединить MHT с PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-svg/" name="Объединить MHT с SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tiff/" name="Объединить MHT с TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="Объединить MHT с TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="Объединить MHT с TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="Объединить MHT с XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="Объединить MHT с XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="Объединить MHT с XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="Объединить MHT с XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="Объединить MHT с XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="Объединить MHT с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="Объединить MHT с XLTX" description="Шаблон Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xml/" name="Объединить MHT в XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xps/" name="Объединить MHT с XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-json/" name="Объединить MHT с JSON" description="Обозначение объектов JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-jpeg/" name="Объединить MHT с JPEG" description="JPEG Изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-docx/" name="Объединить MHT с номером DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-sql/" name="Объединить MHT с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-bmp/" name="Объединить MHT с номером BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-emf/" name="Объединить MHT с номером EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-gif/" name="Объединить MHT с номером GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="Объединить MHT с номером HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-md/" name="Объединить MHT с MD" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="Объединить MHT с номером MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="Объединить MHT с номером ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-pdf/" name="Объединить MHT с номером PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-png/" name="Объединить MHT с номером PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-svg/" name="Объединить MHT с номером SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tiff/" name="Объединить MHT с номером TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="Объединить MHT с номером TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="Объединить MHT с номером TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="Объединить MHT с номером XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="Объединить MHT с номером XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="Объединить MHT с номером XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="Объединить MHT с номером XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="Объединить MHT с номером XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="Объединить MHT с номером XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="Объединить MHT с номером XLTX" description="Шаблон Excel для Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xml/" name="Объединить MHT с XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xps/" name="Объединить MHT с номером XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-json/" name="Объединить MHT с номером JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-jpeg/" name="Объединить MHT с номером JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

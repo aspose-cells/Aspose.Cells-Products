@@ -4,7 +4,7 @@ weight: 940
 description: Aspose.Cells for SharePoint La aplicación es un convertidor de hojas de cálculo de SharePoint Excel. Exportar XLS XLSX XML CSV PDF ODS &amp; HTML formatos en MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aplicación de SharePoint para convertir hojas de cálculo de Excel" h2="Convierta hojas de cálculo de Excel a más de 8 formatos de archivo directamente desde la biblioteca de documentos de SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aplicación SharePoint para convertir hojas de cálculo de Excel" h2="Convierta hojas de cálculo de Excel a más de 8 formatos de archivo directamente desde la biblioteca de documentos de SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -12,7 +12,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePoint es una aplicación flexible de conversión de hojas de cálculo de Excel. Puede convertir documentos entre muchos formatos populares de Microsoft Excel desde una biblioteca de documentos de SharePoint sin dependencias de Microsoft Excel. Admite varios formatos de documentos que no están incluidos en la compatibilidad con formatos de archivo nativos de SharePoint.
+ Aspose.Cells for SharePoint es una aplicación flexible de conversión de hojas de cálculo de Excel. Puede convertir documentos entre muchos Microsoft formatos populares de Excel desde una biblioteca de documentos de SharePoint sin Microsoft dependencias de Excel. Admite múltiples formatos de documentos que no están incluidos en la compatibilidad con formatos de archivos nativos de SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="de un vistazo" description="Una descripción general de Aspose.Cells for SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Una descripción general de Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
    </header>
    <ul>
     <li>
-Guardar en subcarpetas
+ Guardar en subcarpetas
     </li>
     <li>
  Concatenación de archivos
@@ -73,7 +73,7 @@ Guardar en subcarpetas
     <em>
  para
     </em>
- SharePoint
+ compartirpunto
    </small>
   </footer>
  </div>
@@ -82,14 +82,14 @@ Guardar en subcarpetas
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells for SharePoint admite Windows SharePoint Services, SharePoint Foundation y Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Cells for SharePoint admite Windows SharePoint Services, SharePoint Foundation y Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- servidor de SharePoint
+ Servidor SharePoint
    </header>
    <ul>
     <li>
@@ -111,7 +111,7 @@ Guardar en subcarpetas
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- Windows Servicios de SharePoint
+ Windows Servicios SharePoint
    </header>
    <ul>
     <li>
@@ -145,7 +145,7 @@ Guardar en subcarpetas
     <em>
  para
     </em>
- SharePoint
+ compartirpunto
    </small>
   </footer>
  </div>
@@ -154,7 +154,7 @@ Guardar en subcarpetas
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description=" Aspose.Cells for SharePoint admite muchos formatos populares de hojas de cálculo, PDF, HTML y otros[formatos de archivo](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="Aspose.Cells for SharePoint admite muchos formatos de hojas de cálculo populares, PDF, HTML y otros[formatos de archivo](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -166,7 +166,7 @@ Guardar en subcarpetas
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
@@ -186,7 +186,7 @@ Guardar en subcarpetas
      <b>
  Texto:
      </b>
- CSV, TSV, delimitado por tabuladores, TXT
+ CSV, TSV, delimitado por tabulaciones, TXT
     </li>
     <li>
      <b>
@@ -201,7 +201,7 @@ Guardar en subcarpetas
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Solo salida
+ Sólo salida
    </header>
    <ul>
     <li>
@@ -231,7 +231,7 @@ Guardar en subcarpetas
     <em>
  para
     </em>
- SharePoint
+ compartirpunto
    </small>
   </footer>
  </div>
@@ -255,7 +255,7 @@ Guardar en subcarpetas
  Convierta hojas de cálculo de Excel a varios formatos
     </h2>
     <p>
- Aspose.Cells for SharePoint permite convertir hojas de cálculo a muchos formatos populares de documentos e imágenes desde la biblioteca de documentos de SharePoint. Aspose.Cells for SharePoint actualmente admite la mayoría de los formatos de hoja de cálculo junto con CSV &amp; XML como entrada y puede exportar a formatos de hoja de cálculo, así como CSV, HTML, ODS, PDF, XML &amp; formatos de imagen
+ Aspose.Cells for SharePoint permite convertir hojas de cálculo a muchos formatos populares de documentos e imágenes desde la biblioteca de documentos de SharePoint. Aspose.Cells for SharePoint actualmente admite la mayoría de los formatos de hojas de cálculo junto con CSV y CSV. XML como entrada y se puede exportar a formatos de hoja de cálculo, así como a CSV, HTML, ODS, PDF, XML y otros formatos. formatos de imagen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -263,7 +263,7 @@ Guardar en subcarpetas
  Concatenar archivos durante la conversión
     </h2>
     <p>
-Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen diferentes formatos en un solo documento. Además, también puede mover documentos en la lista hacia arriba o hacia abajo para establecer el orden en el que desea que se combinen los documentos.
+ Aspose.Cells for SharePoint proporciona la capacidad de combinar archivos que tienen diferentes formatos en un solo documento. Además, también puede mover documentos en la lista hacia arriba o hacia abajo para establecer el orden en el que desea que se combinen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen 
  Convertir archivos en subcarpetas
     </h2>
     <p>
- Aspose.Cells for SharePoint facilita el proceso de conversión al convertir recursivamente todos los documentos y subcarpetas en una carpeta seleccionada. La estructura de subcarpetas existente se crea en la carpeta de destino.
+Aspose.Cells for SharePoint facilita el proceso de conversión al convertir de forma recursiva todos los documentos y subcarpetas de una carpeta seleccionada. La estructura de subcarpetas existente se crea en la carpeta de destino.
     </p>
    </div>
    <div class="col-lg-12">
@@ -279,7 +279,7 @@ Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen 
  Sobrescribir archivos existentes
     </h2>
     <p>
- Si la carpeta de destino ya contiene archivos con los mismos nombres que los que desea convertir, entonces Aspose.Cells for SharePoint le permite sobrescribir los archivos existentes o simplemente puede seleccionar una opción que indicará a la aplicación que omita el procesamiento de archivos que ya existen en la carpeta de destino. .
+ Si la carpeta de destino ya contiene archivos con los mismos nombres que los que desea convertir, entonces Aspose.Cells for SharePoint le permite sobrescribir archivos existentes o simplemente puede seleccionar una opción que le indicará a la aplicación que omita el procesamiento de archivos que ya existen en la carpeta de destino. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen 
  Interactuar con el público API
     </h2>
     <p>
-Para los desarrolladores que tienen soluciones internas de SharePoint, pueden usar el motor de conversión de documentos de Aspose.Cells for SharePoint a través de su API público. Brinda acceso programático a todos los formatos admitidos y opciones de conversión.
+ Para los desarrolladores que tienen soluciones internas de SharePoint, pueden usar el motor de conversión de documentos de Aspose.Cells for SharePoint a través de su API público. Proporciona acceso programático a todos los formatos admitidos y opciones de conversión.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Para los desarrolladores que tienen soluciones internas de SharePoint, pueden us
  Microsoft Automatización de Excel: no necesaria
     </h2>
     <p>
- Aspose.Cells for SharePoint se crea utilizando código administrado que nunca necesita Microsoft Excel para instalarse en la máquina para trabajar con la conversión de formato de Excel. Es una alternativa perfecta de automatización de Microsoft Excel en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
+Aspose.Cells for SharePoint se crea utilizando código administrado que nunca necesita que Microsoft Excel esté instalado en la máquina para trabajar con la conversión de formato Excel. Es una alternativa de automatización de Excel Microsoft perfecta en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
     </p>
    </div>
   </div>
@@ -328,7 +328,7 @@ Para los desarrolladores que tienen soluciones internas de SharePoint, pueden us
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se indica a continuación:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se enumeran a continuación:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

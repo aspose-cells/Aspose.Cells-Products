@@ -1,7 +1,8 @@
 ---
 title:  Insertar óvalo en Excel via Java
 weight: 40
-description: Inserte objetos usando Aspose.Cells' Java API sin ningún software como Microsoft u Open Office, Adobe PDF, etc.
+description: Inserte objetos usando Aspose.Cells' Java API sin ningún software como Microsoft o Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Oval shape., Java insert Oval shape., Java create Oval shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insertar óvalo en Excel via Java" h2="Inserte el óvalo usando Aspose.Cells\' API sin ningún software como Microsoft u Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,9 +14,9 @@ description: Inserte objetos usando Aspose.Cells' Java API sin ningún software 
 
  Para insertar Oval en un archivo de Excel, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que es una plataforma rica en funciones, potente y fácil de usar API for Java. Puedes descargar su última versión directamente desde
+ API, que es una plataforma API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -50,15 +51,15 @@ description: Inserte objetos usando Aspose.Cells' Java API sin ningún software 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar Oval a archivo Excel via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar un archivo Oval a Excel via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX con la ruta completa).
++ Creación de instancias de un objeto Libro de trabajo. (o->Cargue el archivo XLSX con la ruta completa).
 + Seleccione Hoja de trabajo a través de su índice.
- + Usa el[añadir método](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addOval-int-int-int-int-int-int-) para insertar Oval en la hoja de trabajo seleccionada
+ + Usa el[agregar método](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addOval-int-int-int-int-int-int-) para insertar Oval en la hoja de trabajo seleccionada
 + Guardar libro de trabajo en formato XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,11 +68,11 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Por favor, asegúrese de que tiene los siguientes requisitos previos.
+ Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Asegúrese de tener los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 - Obtenga la última versión de Aspose.Cells for Java directamente desde Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -89,9 +90,9 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for Java API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
+ Aspose.Cells API se puede utilizar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos. Además, se puede utilizar para gráficos completos, informes escalables y cálculos confiables dentro de aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

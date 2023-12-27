@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL a POWERPOINT - Conversor de EXCEL a POWERPOINT en línea
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir EXCEL a formato de guardado de POWERPOINT. Python formato EXCEL a POWERPOINT. Guarde EXCEL en POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Python., Python Convert EXCEL to POWERPOINT]
+title: Python EXCEL a POWERPOINT - Convertidor de EXCEL a POWERPOINT
+description: Aspose Excel. Convierte EXCEL a POWERPOINT rápida y fácilmente con Aspose.Cells. Python EXCEL a POWERPOINT. Python Guardar EXCEL en POWERPOINT. Guarde EXCEL como POWERPOINT usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to POWERPOINT in Python., Save EXCEL to POWERPOINT using Python., Python EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Converter., Python Save EXCEL as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir EXCEL a POWERPOINT en Python" h2="Biblioteca Python de alta velocidad para convertir EXCEL a POWERPOINT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Convertir EXCEL a POWERPOINT en Python" %}}
 
- ¿Cómo convierto EXCEL a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente EXCEL a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto EXCEL a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente EXCEL a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guardar EXCEL to POWERPOINT en Python Online Gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar EXCEL en POWERPOINT en Python" %}}
 
 El siguiente ejemplo demuestra cómo convertir EXCEL a POWERPOINT en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir EXCEL a POWERPOINT. Cargue su archivo EXCEL, luego simplemente guárdelo como archivo POWERPOINT. Tanto para la lectura en EXCEL como para la escritura en POWERPOINT, puede utilizar nombres de archivo completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento EXCEL original.
+Siga los sencillos pasos para convertir EXCEL a POWERPOINT. Cargue su archivo EXCEL y luego simplemente guárdelo como archivo POWERPOINT. Tanto para lectura EXCEL como para escritura en POWERPOINT, puede utilizar nombres de archivos completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento EXCEL original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir EXCEL a POWERPOINT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir EXCEL a POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos EXCEL a POWERPOINT mediante programación? Python Los desarrolladores pueden cargar y convertir fácilmente EXCEL a POWERPOINT con solo unas pocas líneas de código.
+¿Necesita convertir archivos EXCEL a POWERPOINT mediante programación? Python los desarrolladores pueden cargar y convertir fácilmente EXCEL a POWERPOINT en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir EXCEL a POWERPOINT. Cargue su archivo EX
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir EXCEL a POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir EXCEL a POWERPOINT" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con la extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede incluir texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT, que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede contener texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-png/" name="EXCEL AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-svg/" name="EXCEL AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-tiff/" name="EXCEL AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-txt/" name="EXCEL AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xls/" name="EXCEL AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xlsb/" name="EXCEL AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xlsm/" name="EXCEL AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xlt/" name="EXCEL AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xltx/" name="EXCEL AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xml/" name="EXCEL A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-xps/" name="EXCEL AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

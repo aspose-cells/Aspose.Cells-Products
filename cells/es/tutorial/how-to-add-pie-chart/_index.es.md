@@ -20,20 +20,20 @@ En este tutorial, agregaremos un gráfico circular en un archivo de Excel.
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: consulte el siguiente código para averiguar cómo agregar un gráfico circular.
-//ExStepSummary:0: el siguiente código muestra cómo agregar un gráfico circular, establecer un rango de datos de serie y establecer un rango de datos de categoría.
+//ExSummary: verifique el siguiente código para descubrir cómo agregar un gráfico circular.
+//ExStepSummary:0: el siguiente código muestra cómo agregar un gráfico circular, establecer el rango de datos de la serie y establecer el rango de datos de la categoría.
 //ExStepImage:0:paso-1.png
-//ExStepSummary:1: El siguiente código muestra cómo desactivar la leyenda.
+//ExStepSummary:1: el siguiente código muestra cómo desactivar la leyenda.
 //ExStepImage:1:paso-2.png
-//ExStepSummary:2: el siguiente código muestra cómo acceder a las etiquetas de datos, activar los nombres de categoría, activar el formato de porcentaje y establecer la posición.
+//ExStepSummary:2: el siguiente código muestra cómo acceder a las etiquetas de datos, activar los nombres de categorías, activar el formato de porcentaje y establecer la posición.
 //ExStepImage:2:paso-3.png
-//ExStart
-//ExStep:0-
+//ExInicio
+//ExPaso:0-
 usando Aspose.Cells;
 usando Aspose.Cells.Dibujo;
 
-Libro de trabajo libro de trabajo = nuevo libro de trabajo ();
-Hoja de trabajo hoja = libro de trabajo.Hojas de trabajo[0];
+Libro de trabajo libro = nuevo libro de trabajo();
+Hoja de trabajo = libro de trabajo.Hojas de trabajo[0];
 hoja.Nombre = "Hoja de gráfico";
 Cells celdas = hoja.Cells;
 celdas["A1"].Valor = "Fruta";
@@ -51,26 +51,26 @@ celdas["B5"].Valor = 8;
 hoja.PageSetup.PrintGridlines = verdadero;
 hoja.PageSetup.PrintArea = "A1:F20";
 
-ChartCollection gráficos = hoja.Gráficos;
+Gráficos de ChartCollection = hoja.Gráficos;
 
-// Agregar gráfico circular, establecer rango de datos de serie y establecer rango de datos de categoría
-índice int = hoja.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
-Gráfico gráfico = hoja.Gráficos[índice];
-gráfico.NSeries.Add("B2:B5", verdadero);
-gráfico.NSeries.CategoryData = "A2:A5";
+//Agregar gráfico circular, establecer rango de datos de series y establecer rango de datos de categorías
+int index = hoja.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
+Gráfico gráfico = hoja.Charts[index];
+chart.NSeries.Add("B2:B5", verdadero);
+chart.NSeries.CategoryData = "A2:A5";
 
-//ExStep:1-
+//ExPaso:1-
 //Desactivar leyenda
-gráfico.ShowLegend = falso;
+chart.ShowLegend = falso;
 
-//ExStep:2-
-//Acceda a las etiquetas de datos, active los nombres de categoría, active el formato de porcentaje y establezca la posición
-DataLabels dataLabels = chart.NSeries[0].DataLabels;
+//ExPaso:2-
+//Accede a las etiquetas de datos, activa los nombres de las categorías, activa el formato de porcentaje y establece la posición
+Etiquetas de datos etiquetas de datos = chart.NSeries[0].DataLabels;
 dataLabels.ShowCategoryName = verdadero;
 dataLabels.ShowPercentage = verdadero;
 dataLabels.Position = LabelPositionType.OutsideEnd;
 
-//ExStep:0-
+//ExPaso:0-
 
 //ExFin
 {{< /app/cells/tutorial >}}
@@ -81,7 +81,7 @@ dataLabels.Position = LabelPositionType.OutsideEnd;
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Instalación de Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editor</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Redactor</a></li>
     </ul>
 </div>
 

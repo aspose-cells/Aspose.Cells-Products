@@ -1,6 +1,7 @@
 ---
-title: Редактировать электронные таблицы Excel на Windows, Linux и macOS
-description: Бесплатное приложение и API для редактирования конфиденциальной информации из электронных таблиц XLS, XLSX и ODS
+title:  Редактировать таблицы Excel по телефону Windows, Linux и macOS
+description: Бесплатное приложение и API для удаления конфиденциальной информации из таблиц XLS, XLSX и ODS.
+keywords: [Aspose.Cells., Search and replace text in Excel file., redact Excel file., edit Excel file., Excel file redaction., Search and replace string in Excel file]
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

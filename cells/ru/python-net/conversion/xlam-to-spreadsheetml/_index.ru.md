@@ -1,6 +1,6 @@
 ---
 title: XLAM в SPREADSHEETML - конвертировать XLAM в файлы SPREADSHEETML Python via Python
-description: Aspose Excel. Бесплатно онлайн конвертировать XLAM в формат сохранения SPREADSHEETML. Python XLAM в формат SPREADSHEETML. Сохраните XLAM как SPREADSHEETML в Python.
+description: Aspose Эксель. Бесплатное онлайн-конвертирование XLAM в формат сохранения SPREADSHEETML. Python XLAM в формат SPREADSHEETML. Сохраните XLAM как SPREADSHEETML в Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML saveformat., Free Online XLAM to SPREADSHEETML Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 
 {{% blocks/products/pf/agp/content h2="Преобразовать XLAM в SPREADSHEETML в Python" %}}
 
- Как преобразовать XLAM в SPREADSHEETML? С помощью библиотеки Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLAM в SPREADSHEETML программным путем с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне преобразовать XLAM в SPREADSHEETML? С помощью Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLAM в SPREADSHEETML программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,19 +28,19 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLAM в SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLAM в SPREADSHEETML онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLAM в SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы XLAM в SPREADSHEETML? Разработчики Python могут легко загрузить и преобразовать XLAM в SPREADSHEETML всего за несколько строк кода.
+Вам нужно программно преобразовать файлы XLAM в SPREADSHEETML? Разработчики Python могут легко загрузить и преобразовать XLAM в SPREADSHEETML всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл XLAM с экземпляром Workbook.
+1.  Загрузите файл XLAM с экземпляром книги.
 1.  Преобразуйте XLAM в SPREADSHEETML, вызвав метод Workbook.save.
 1.  Получите результат преобразования XLAM в SPREADSHEETML.
 
@@ -52,11 +52,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+ Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить «Aspose.Cells for Python via .NET» в вашу среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +64,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе есть[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,29 +74,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать XLAM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-bmp/" name="XLAM ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-emf/" name="XLAM ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-gif/" name="XLAM ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-html/" name="XLAM ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM ТО МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-mhtml/" name="XLAM ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-ods/" name="XLAM ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-pdf/" name="XLAM ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-png/" name="XLAM ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-svg/" name="XLAM ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tiff/" name="XLAM ТО TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM ТО TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-txt/" name="XLAM ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xls/" name="XLAM ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsb/" name="XLAM ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsm/" name="XLAM ТО XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsx/" name="XLAM ТО XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlt/" name="XLAM ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM ТО XLTX" description="Шаблон Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xml/" name="XLAM в XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-json/" name="XLAM ТО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-bmp/" name="XLAM ДО BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-emf/" name="XLAM ДО EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-gif/" name="XLAM ДО GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-html/" name="XLAM ДО HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM ДО МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-mhtml/" name="XLAM ДО MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-ods/" name="XLAM ДО ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-pdf/" name="XLAM ДО PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-png/" name="XLAM ДО PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-svg/" name="XLAM ДО SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tiff/" name="XLAM ДО TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM ДО TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-txt/" name="XLAM ДО TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xls/" name="XLAM ДО XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsb/" name="XLAM ДО XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsm/" name="XLAM ДО XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsx/" name="XLAM ДО XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlt/" name="XLAM ДО XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM ДО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM ДО XLTX" description="Шаблон Excel для Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xml/" name="XLAM В XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM ДО XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-json/" name="XLAM ДО JSON" description="Обозначение объектов JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

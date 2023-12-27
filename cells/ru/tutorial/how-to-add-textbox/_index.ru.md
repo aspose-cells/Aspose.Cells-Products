@@ -2,13 +2,13 @@
 title: Как добавить TextBox через Aspose.Cells
 weight: 7700
 limit:
-description: Узнайте, как добавить текстовое поле.
+description: Узнайте, как добавить TextBox.
 keywords: [Add TextBox., how to add TextBox in Aspose.Cells., how to add TextBox using Aspose.Cells]
 url: /ru/tutorial/add-textbox-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Узнайте, как добавить TextBox с помощью Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Узнайте, как добавить TextBox с помощью Aspose.Cells." >}}
 
 <p>
 В этом уроке мы добавим TextBox в файл Excel.
@@ -20,31 +20,31 @@ url: /ru/tutorial/add-textbox-in-excel
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: Пожалуйста, проверьте следующий код, чтобы узнать, как добавить TextBox.
-//ExStepSummary:0: Следующий код показывает, как добавить TextBox и установить текст.
+//ExSummary: проверьте следующий код, чтобы узнать, как добавить TextBox.
+//ExStepSummary:0: следующий код показывает, как добавить TextBox и задать текст.
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: Следующий код показывает, как изменить цвет текста.
+//ExStepSummary:1: следующий код показывает, как изменить цвет текста.
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: Следующий код показывает, как изменить угол поворота TextBox.
+//ExStepSummary:2: следующий код показывает, как изменить угол поворота TextBox.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExStep:0-
 используя Aspose.Cells;
-с использованием Aspose.Cells.Чертеж;
+используя Aspose.Cells.Рисование;
 
 Рабочая книга рабочая книга = новая рабочая книга();
-Рабочий лист = рабочая книга. Рабочие листы [0];
+Лист листа = workbook.Worksheets[0];
 лист.PageSetup.PrintGridlines = true;
 лист.PageSetup.PrintArea = "A1:F20";
 
-Формы ShapeCollection = sheet.Shapes;
+ShapeCollection shape = лист.Shapes;
 
-// Добавляем TextBox и устанавливаем текст
+//Добавляем TextBox и устанавливаем текст
 TextBox textBox = shape.AddTextBox(1, 0, 1, 0, 200, 200);
 textBox.Text = "Aspose.Cells for .NET — это библиотека классов программирования, которая позволяет разработчикам программного обеспечения манипулировать и обрабатывать файлы электронных таблиц в своих собственных приложениях.";
 
 //ExStep:1-
-//Изменить цвет текста
+//Изменяем цвет текста
 textBox.Font.Color = Цвет.Синий;
 
 //ExStep:2-

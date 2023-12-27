@@ -1,7 +1,7 @@
 ---
-title: Python XML a POWERPOINT - Conversor de XML a POWERPOINT en línea
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XML a formato de guardado de POWERPOINT. Python XML a formato POWERPOINT. Guarde XML en POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to POWERPOINT saveformat., Free Online XML to POWERPOINT Python., Python Convert XML to POWERPOINT]
+title: Python XML a POWERPOINT - Convertidor de XML a POWERPOINT
+description: Aspose Excel. Convierta XML a POWERPOINT de forma rápida y sencilla con Aspose.Cells. Python XML a POWERPOINT. Python Guardar XML en POWERPOINT. Guarde XML como POWERPOINT usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to POWERPOINT in Python., Save XML to POWERPOINT using Python., Python XML to POWERPOINT saveformat., XML to POWERPOINT Converter., Python Save XML as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML a POWERPOINT en Python" h2="Biblioteca Python de alta velocidad para convertir XML a POWERPOINT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,35 +12,35 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/content h2="Convertir XML a POWERPOINT en Python" %}}
 
- ¿Cómo convierto XML a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XML a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+¿Cómo convierto XML a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XML a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XML en POWERPOINT en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde XML en POWERPOINT en Python" %}}
 
 El siguiente ejemplo demuestra cómo convertir XML a POWERPOINT en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XML a POWERPOINT. Cargue su archivo XML, luego simplemente guárdelo como archivo POWERPOINT. Tanto para la lectura de XML como para la escritura en POWERPOINT, puede utilizar nombres de archivo completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento XML original.
+Siga los sencillos pasos para convertir XML a POWERPOINT. Cargue su archivo XML y luego simplemente guárdelo como archivo POWERPOINT. Tanto para la lectura XML como para la escritura en POWERPOINT, puede utilizar nombres de archivos completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento XML original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XML a POWERPOINT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XML a POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XML a POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XML a POWERPOINT mediante programación? Python Los desarrolladores pueden cargar y convertir fácilmente XML a POWERPOINT con solo unas pocas líneas de código.
+¿Necesita convertir archivos XML a POWERPOINT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XML a POWERPOINT en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue el archivo XML con una instancia de Workbook.
+1.  Cargue un archivo XML con una instancia de Workbook.
 1.  Convierta XML a POWERPOINT llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de XML a POWERPOINT.
 
@@ -52,7 +52,7 @@ Siga los sencillos pasos para convertir XML a POWERPOINT. Cargue su archivo XML,
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa Lenguaje de marcado extensible que es similar a HTML pero diferente en el uso de etiquetas para definir objetos. La idea detrás de la creación del formato de archivo XML era almacenar y transportar datos sin depender de herramientas de software o hardware. Su popularidad se debe a que es legible tanto por humanos como por máquinas. Esto le permite crear protocolos de datos comunes en forma de objetos para ser almacenados y compartidos a través de una red como la World Wide Web (WWW). La "X" en XML es extensible, lo que implica que el lenguaje se puede extender a cualquier número de símbolos según los requisitos del usuario. Es por estas características que muchos formatos de archivo estándar lo utilizan, como Microsoft Open XML, LibreOffice OpenDocument, XHTML y SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con la extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede incluir texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa lenguaje de marcado extensible que es similar a HTML pero diferente en el uso de etiquetas para definir objetos. La idea detrás de la creación del formato de archivo XML era almacenar y transportar datos sin depender de herramientas de software o hardware. Su popularidad se debe a que es legible tanto por humanos como por máquinas. Esto le permite crear protocolos de datos comunes en forma de objetos que se almacenarán y compartirán a través de redes como la World Wide Web (WWW). La "X" en XML es extensible, lo que implica que el lenguaje se puede extender a cualquier número de símbolos según los requisitos del usuario. Es por estas características que muchos formatos de archivo estándar lo utilizan, como Microsoft Open XML, LibreOffice OpenDocument, XHTML y SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT, que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede contener texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-png/" name="XML AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-svg/" name="XML AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tiff/" name="XML AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-txt/" name="XML AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xls/" name="XML AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsb/" name="XML AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsm/" name="XML AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlt/" name="XML AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

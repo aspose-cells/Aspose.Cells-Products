@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL a TSV - Convertidor en línea EXCEL a TSV
-description: AsposeExcel. C++ Aspose.Cells. C++ Aspose Cells. Gratis en línea C++ Convertir EXCEL a TSV guardar formato. C++ formato EXCEL a TSV. Guarda EXCEL al TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV saveformat., Free Online EXCEL to TSV C++., C++ Convert EXCEL to TSV]
+title: C++ EXCEL a TSV - Convertidor EXCEL a TSV
+description: Aspose Excel. Convierta EXCEL a TSV rápida y fácilmente con Aspose.Cells. C++ EXCEL a TSV. C++ Guarde EXCEL en TSV. Guarde EXCEL como TSV usando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to TSV in C++., Save EXCEL to TSV using C++., C++ EXCEL to TSV saveformat., EXCEL to TSV Converter., C++ Save EXCEL as TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir EXCEL a TSV en C++" h2="Conversión de EXCEL a TSV de alto rendimiento utilizando la biblioteca C++ sin necesidad de instalar Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV
 
 {{% blocks/products/pf/agp/content h2="Convierta EXCEL a TSV usando C++" %}}
 
- ¿Cómo convierto EXCEL a TSV? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a TSV mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo convierto EXCEL a TSV? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a TSV mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde EXCEL al TSV en C++ en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar EXCEL al TSV en C++" %}}
 
-El siguiente ejemplo muestra cómo convertir EXCEL a TSV en C++.
+El siguiente ejemplo demuestra cómo convertir EXCEL a TSV en C++.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir EXCEL a TSV. Cargue su archivo EXCEL, luego simplemente guárdelo como archivo TSV. Tanto para la lectura EXCEL como para la escritura TSV, puede usar nombres de archivo completos. El contenido y el formato de la salida TSV serán idénticos al documento EXCEL original.
+Siga los sencillos pasos para convertir EXCEL a TSV. Cargue su archivo EXCEL y luego simplemente guárdelo como archivo TSV. Tanto para lectura EXCEL como para escritura TSV, puede utilizar nombres de archivo completos. El contenido y el formato de salida TSV serán idénticos al documento EXCEL original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir EXCEL a TSV en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Código de muestra para convertir EXCEL a TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a TSV a través de C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos EXCEL a TSV mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a TSV con solo unas pocas líneas de código.
+¿Necesita convertir archivos EXCEL a TSV mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a TSV en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for C++'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto C++.
-1.  Cargue el archivo EXCEL usando Factory::CreateIWorkbook.
+1.  Cargue el archivo EXCEL usando el libro de trabajo.
 1.  Convierta EXCEL a TSV llamando al método Save().
 1.  Obtenga el resultado de la conversión de EXCEL a TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para convertir EXCEL a TSV" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para convertir EXCEL a TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,19 +73,19 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato de archivo de valores separados por tabulaciones (TSV) representa datos separados con tabulaciones en formato de texto sin formato. El formato de archivo, similar a CSV, se utiliza para la organización de datos de forma estructurada con el fin de importar y exportar entre diferentes aplicaciones. El formato se utiliza principalmente para importar/exportar e intercambiar datos en aplicaciones y bases de datos de hojas de cálculo. Cada registro en un archivo TSV está contenido en una sola línea de archivo de texto donde cada valor de campo está separado por un carácter de tabulación. El tipo de medio para el formato de archivo TSV es texto/valores separados por tabuladores.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato de archivo de valores separados por tabulaciones (TSV) representa datos separados por tabulaciones en formato de texto sin formato. El formato de archivo, similar a CSV, se utiliza para organizar datos de forma estructurada para importar y exportar entre diferentes aplicaciones. El formato se utiliza principalmente para la importación/exportación e intercambio de datos en aplicaciones de hojas de cálculo y bases de datos. Cada registro en un archivo TSV está contenido en una sola línea de archivo de texto donde cada valor de campo está separado por un carácter de tabulación. El tipo de medio para el formato de archivo TSV es texto/valores separados por tabulaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,19 +101,18 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsb/" name="EXCEL AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsm/" name="EXCEL AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlt/" name="EXCEL AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltx/" name="EXCEL AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xml/" name="EXCEL A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xps/" name="EXCEL AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-jpeg/" name="EXCEL AL JPEG" description="JPEG Imagen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

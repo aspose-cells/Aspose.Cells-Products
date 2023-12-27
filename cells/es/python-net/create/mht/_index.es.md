@@ -1,7 +1,7 @@
 ---
 title: Crear MHT - Crear archivo MHT en Python
-description: AsposeExcel. Python Crear archivo MHT. Crear MHT Python. Python MHT Creador. Crear MHT en Python. Generar archivo MHT usando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
+description:  Aspose Excel. Python Cree un archivo MHT rápida y fácilmente con Aspose.Cells. Genere un archivo MHT usando Python. Cree MHT en Python. Python MHT Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Create MHT file using Python., Write data to MHT file via Python., Create a MHT file in Python., Python Generate a MHT file., Python MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo MHT en Python" h2="Biblioteca Python de alta velocidad para crear archivos MHT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/content h2="Crear archivo MHT usando Python" %}}
 
- ¿Cómo crear un archivo MHT? Con Aspose.Cells for Python a través de la biblioteca NET, puede crear fácilmente un archivo MHT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo crear un archivo MHT? Con la biblioteca Aspose.Cells for Python a través de NET, puede crear fácilmente un archivo MHT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,14 +21,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/text %}}
 
-Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos MHT al ejecutar diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+ Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos MHT ejecutando diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crear instancia de clase de libro de trabajo.
-1.  Acceda a la primera hoja de trabajo del libro.
-1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo e ingrese el valor en la(s) celda(s).
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo MHT.
+1.  Crear una instancia de clase de libro de trabajo.
+1.  Acceda a la primera hoja de trabajo del libro de trabajo.
+1.  Obtenga las celdas deseadas de la hoja de trabajo e ingrese el valor en las celdas.
+1.  Utilice el método Guardar para guardar el libro como archivo MHT.
 
 {{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear un archivo MHT en Python." offSpacer="" %}}
 
@@ -57,12 +57,12 @@ workbook.save("output.mht")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivo MHT" %}}
+{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivos MHT" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,19 +82,19 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con la extensión .mht es un formato de archivo de archivo habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilo de página en forma de archivos CSS, JavaScript y otros recursos como recursos incrustados en él. Los archivos MHT, que tienen un mensaje de tipo MIME/rfc822, encapsulan todo el contenido de un archivo HTML como un archivo único para almacenar en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT mediante la exportación como archivo MHT. Los archivos MHT se pueden abrir con navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con extensión .mht es un formato de archivo de almacenamiento habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilos de página en forma de archivos CSS, JavaScript y otros recursos como recursos integrados. Los archivos MHT, que tienen tipo MIME message/rfc822, encapsulan todo el contenido de un archivo HTML como un único archivo para almacenarlo en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT exportándolos como archivos MHT. Los archivos MHT se pueden abrir utilizando navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Hoja de cálculo de Excel (heredada)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Libro de trabajo XML abierto" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Abrir libro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Libro binario de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Hoja de cálculo habilitada para macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Plantilla 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Plantilla Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Plantilla de Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla de Excel habilitada para macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla habilitada para macros de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valores Separados por Comas" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valores separados por tabulaciones" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Hoja de cálculo de OpenDocument" >}}

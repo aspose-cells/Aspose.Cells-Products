@@ -1,7 +1,8 @@
 ---
 title:  Inserte Oval en Excel usando Python via .Net
 weight: 10
-description: Python via .Net código fuente para insertar Oval en Excel.
+description: Python via Código fuente .Net para insertar Oval en Excel.
+keywords: [Python Aspose.Cells., Python add Oval shape., Python insert Oval shape., Python create Oval shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Inserte Oval en Excel usando Python via .Net" h2="Inserte el óvalo usando Aspose.Cells\' API sin ningún software como Microsoft u Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net código fuente para insertar Oval en Excel.
 
  Para insertar Oval en un archivo de Excel, usaremos
  [Aspose.Cells for Python vía .Net](https://pypi.org/project/aspose-cells-python/) 
-API que es una manipulación de documentos rica en funciones, potente y fácil de usar API for Python a través de la plataforma .Net. El API proporciona creación, manipulación, conversión y representación de archivos de Excel. Todo sin depender de las aplicaciones Microsoft Office o Excel. Puede instalar desde la consola usando el siguiente comando.
+ API, que es una manipulación de documentos API for Python rica en funciones, potente y fácil de usar a través de la plataforma .Net. El API proporciona creación, manipulación, conversión y renderizado de archivos Excel. Todo sin depender de aplicaciones Microsoft Office o Excel. Puede instalar desde la consola usando el siguiente comando.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ API que es una manipulación de documentos rica en funciones, potente y fácil d
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar un archivo Oval a Excel usando Python via .Net" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar un archivo Oval en Excel usando Python via .Net" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,9 +38,9 @@ Necesita el Aspose.Cells para probar el siguiente flujo de trabajo en su propio 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX con la ruta completa).
++ Creación de instancias de un objeto Libro de trabajo. (o->Cargue el archivo XLSX con la ruta completa).
 + Seleccione Hoja de trabajo a través de su índice.
- + Usa el complemento de la colección de formas[método](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int) para insertar un óvalo en la hoja de trabajo seleccionada.
+ + Usa el complemento de la colección de formas.[método](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int)para insertar un óvalo en la hoja de trabajo seleccionada.
 + Guardar libro de trabajo en formato XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,12 +53,12 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Cualquier sistema operativo que pueda ejecutar scripts Python via .Net, como Windows, Linux
+-  Cualquier sistema operativo que pueda ejecutar scripts .Net Python via, como Windows, Linux
 -  Instale Aspose.Cells for Python a través de .Net desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Inserto ovalado - Python via .Net" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Insertar Ovalado - Python via .Net" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "InsertOvalIntoWorksheet.py" >}}
 
@@ -70,9 +71,9 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells API" %}}
+{{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells API" %}}
 
-Aspose.Cells API capaz de crear aplicaciones multiplataforma, se puede usar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos (como imágenes, PDF, HTML, ODS y más). Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Por lo tanto, es una opción perfecta para intercambiar documentos en formatos estándar de la industria. Es importante que Aspose.Cells sea un API independiente y no requiera ningún software como Microsoft u OpenOffice.
+Aspose.Cells API capaz de crear aplicaciones multiplataforma, se puede utilizar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos (como imágenes, PDF, HTML, ODS y más). Además, se puede utilizar para gráficos completos. informes escalables y cálculos confiables dentro de aplicaciones de software, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Es importante que Aspose.Cells sea un API independiente y no requiera ningún software como Microsoft u OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +81,7 @@ Aspose.Cells API capaz de crear aplicaciones multiplataforma, se puede usar para
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python JPG a XLS - Convertidor en línea de JPG a XLS
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir JPG a XLS guardar formato. Python formato JPG a XLS. Guardar JPG al XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XLS saveformat., Free Online JPG to XLS Python., Python Convert JPG to XLS]
+title: Python JPG a XLS - Convertidor JPG a XLS
+description: Aspose Excel. Convierta JPG a XLS rápida y fácilmente con Aspose.Cells. Python JPG a XLS. Python Guarde JPG en XLS. Guarde JPG como XLS usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to XLS in Python., Save JPG to XLS using Python., Python JPG to XLS saveformat., JPG to XLS Converter., Python Save JPG as XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir JPG a XLS en Python" h2="Biblioteca Python de alta velocidad para convertir JPG a XLS. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="Convertir JPG a XLS en Python" %}}
 
- ¿Cómo convierto JPG a XLS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JPG a XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto JPG a XLS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JPG a XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde JPG a XLS en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde JPG en XLS en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir JPG a XLS en Python via NET.
+El siguiente ejemplo demuestra cómo convertir JPG a XLS en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir JPG a XLS. Cargue su archivo JPG, luego simplemente guárdelo como archivo XLS. Tanto para la lectura de JPG como para la escritura de XLS, puede usar nombres de archivo completos. El contenido y el formato de la salida XLS serán idénticos al documento JPG original.
+Siga los sencillos pasos para convertir JPG a XLS. Cargue su archivo JPG y luego simplemente guárdelo como archivo XLS. Tanto para la lectura de JPG como para la escritura XLS, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLS serán idénticos al documento JPG original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir JPG a XLS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir JPG a XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir JPG a XLS" %}}
 
@@ -40,19 +40,19 @@ Siga los sencillos pasos para convertir JPG a XLS. Cargue su archivo JPG, luego 
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue el archivo JPG con una instancia de Workbook.
+1.  Cargue un archivo JPG con una instancia de Workbook.
 1.  Convierta JPG a XLS llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de JPG a XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir JPG a XLS" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir JPG a XLS" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con la extensión XLS representan el formato de archivo binario de Excel. Dichos archivos pueden ser creados por Microsoft Excel, así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada insignificantemente si se aplica una compresión 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos se pueden crear con Microsoft Excel y con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado con Excel se conoce como Libro de trabajo, donde cada libro puede tener una o más hojas de trabajo. Los datos se almacenan y se muestran a los usuarios en formato de tabla en una hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Aplicaciones como Microsoft Excel le permiten exportar datos del libro a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y varios otros. El formato de archivo XLS fue reemplazado por un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JPG a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPG AL BMP" description="Imagen de mapa de bits" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG AL EMF" description="Formato de metarchivo mejorado" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-gif/" name="JPG AL GIF" description="Formato de intercambio gráfico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-html/" name="JPG AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-md/" name="JPG a MD" description="Lenguaje de rebajas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-mhtml/" name="JPG AL MHTML" description="Formato de archivo de página web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-ods/" name="JPG AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-pdf/" name="JPG AL PDF" description="Formato de Documento Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-png/" name="JPG AL PNG" description="Gráficos de red portátiles" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-svg/" name="JPG AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-tiff/" name="JPG AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-tsv/" name="JPG AL TSV" description="Valores separados por tabuladores" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-txt/" name="JPG AL TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xls/" name="JPG AL XLS" description="Formato binario de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsb/" name="JPG AL XLSB" description="Archivo de libro de Excel binario" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsm/" name="JPG AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsx/" name="JPG AL XLSX" description="Archivo de Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlt/" name="JPG AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltm/" name="JPG AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltx/" name="JPG AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPEG AL BMP" description="Imagen de mapa de bits" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPEG AL EMF" description="Formato de metarchivo mejorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-gif/" name="JPEG AL GIF" description="Formato de intercambio gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-html/" name="JPEG AL HTML" description="Lenguaje de marcado de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-md/" name="JPG A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-mhtml/" name="JPEG AL MHTML" description="Formato de archivo de página web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-ods/" name="JPEG AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-pdf/" name="JPEG AL PDF" description="Formato de Documento Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-png/" name="JPEG AL PNG" description="Gráficos de red portátiles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-svg/" name="JPEG AL SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-tiff/" name="JPEG AL TIFF" description="Formato de imagen etiquetada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-tsv/" name="JPEG AL TSV" description="Valores separados por tabulaciones" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-txt/" name="JPEG AL TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xls/" name="JPEG AL XLS" description="Formato binario de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsb/" name="JPEG AL XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsm/" name="JPEG AL XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlsx/" name="JPEG AL XLSX" description="Archivo Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlt/" name="JPEG AL XLT" description="Microsoft Plantilla de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltm/" name="JPEG AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltx/" name="JPEG AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xml/" name="JPG A XML" description="Lenguaje de marcado extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-json/" name="JPG AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPEG AL XPS" description="Especificaciones de papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-json/" name="JPEG AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

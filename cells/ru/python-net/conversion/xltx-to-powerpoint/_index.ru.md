@@ -1,7 +1,7 @@
 ---
-title: Python XLTX в POWERPOINT - Online XLTX в POWERPOINT Конвертер
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Преобразование XLTX в формат сохранения POWERPOINT. Python XLTX в формат POWERPOINT. Сохраните номер XLTX в POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to POWERPOINT saveformat., Free Online XLTX to POWERPOINT Python., Python Convert XLTX to POWERPOINT]
+title: Python XLTX в POWERPOINT - XLTX в POWERPOINT Конвертер
+description: Aspose Эксель. Преобразуйте XLTX в POWERPOINT быстро и легко с помощью Aspose.Cells. Python XLTX в POWERPOINT. Python Сохраните XLTX в POWERPOINT. Сохраните XLTX как POWERPOINT, используя Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to POWERPOINT in Python., Save XLTX to POWERPOINT using Python., Python XLTX to POWERPOINT saveformat., XLTX to POWERPOINT Converter., Python Save XLTX as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразовать XLTX в POWERPOINT в Python" h2="Высокоскоростная библиотека Python для преобразования XLTX в POWERPOINT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,35 +12,35 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Преобразовать XLTX в POWERPOINT в Python" %}}
 
- Как преобразовать XLTX в POWERPOINT? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLTX в POWERPOINT программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне преобразовать XLTX в POWERPOINT? С помощью Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XLTX в POWERPOINT программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Сохраните XLTX в POWERPOINT в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните XLTX в POWERPOINT в Python." %}}
 
 В следующем примере показано, как преобразовать XLTX в POWERPOINT в Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы преобразовать XLTX в POWERPOINT. Загрузите файл XLTX, а затем просто сохраните его как файл POWERPOINT. Как для чтения XLTX, так и для записи в POWERPOINT вы можете использовать полные имена файлов. Выходное содержимое и форматирование POWERPOINT будут идентичны исходному документу XLTX.
+Следуйте простым шагам, чтобы преобразовать XLTX в POWERPOINT. Загрузите файл XLTX, а затем просто сохраните его как файл POWERPOINT. Как для чтения XLTX, так и для записи POWERPOINT вы можете использовать полные имена файлов. Выходное содержимое и форматирование POWERPOINT будут идентичны исходному документу XLTX.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLTX в POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования XLTX в POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
-{{% blocks/products/pf/agp/content h2="Как преобразовать XLTX в POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Как конвертировать XLTX в POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы XLTX в POWERPOINT? Разработчики Python могут легко загрузить и преобразовать XLTX в POWERPOINT всего за несколько строк кода.
+Вам нужно программно преобразовать файлы XLTX в POWERPOINT? Разработчики Python могут легко загрузить и преобразовать XLTX в POWERPOINT всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл XLTX с экземпляром Workbook.
+1.  Загрузите файл XLTX с экземпляром книги.
 1.  Преобразуйте XLTX в POWERPOINT, вызвав метод Workbook.save.
 1.  Получите результат преобразования XLTX в POWERPOINT.
 
@@ -52,11 +52,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+ Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить «Aspose.Cells for Python via .NET» в вашу среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +64,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе есть[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,36 +72,36 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Файлы с расширением .xltx представляют собой файлы шаблонов Excel Microsoft, основанные на спецификациях формата файлов Office OpenXML. Он используется для создания стандартного файла шаблона, который можно использовать для создания файлов XLSX с теми же настройками, что и в файле XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с пользовательскими настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Файлы с расширением .xltx представляют собой файлы шаблонов Excel Microsoft, основанные на спецификациях формата файлов Office OpenXML. Он используется для создания стандартного файла шаблона, который можно использовать для создания файлов XLSX с теми же настройками, которые указаны в файле XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате открытого XML-файла презентации Microsoft PowerPoint. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с настраиваемыми настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать XLTX во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-gif/" name="XLTX ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-html/" name="XLTX ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX ТО МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-mhtml/" name="XLTX ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-ods/" name="XLTX ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-pdf/" name="XLTX ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-png/" name="XLTX ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-svg/" name="XLTX ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tiff/" name="XLTX ТО TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX ТО TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-txt/" name="XLTX ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xls/" name="XLTX ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsb/" name="XLTX ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsm/" name="XLTX ТО XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX ТО XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlt/" name="XLTX ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX ДО BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX ДО EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-gif/" name="XLTX ДО GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-html/" name="XLTX ДО HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX ДО МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-mhtml/" name="XLTX ДО MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-ods/" name="XLTX ДО ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-pdf/" name="XLTX ДО PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-png/" name="XLTX ДО PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-svg/" name="XLTX ДО SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tiff/" name="XLTX ДО TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX ДО TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-txt/" name="XLTX ДО TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xls/" name="XLTX ДО XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsb/" name="XLTX ДО XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsm/" name="XLTX ДО XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX ДО XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlt/" name="XLTX ДО XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX ДО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xml/" name="XLTX в XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xps/" name="XLTX ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX ТО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xml/" name="XLTX В XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xps/" name="XLTX ДО XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX ДО JSON" description="Обозначение объектов JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

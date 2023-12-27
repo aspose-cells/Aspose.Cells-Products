@@ -1,7 +1,7 @@
 ---
 title: Crear ETT - Crear archivo ETT en C++
-description: AsposeExcel. C++ Crear archivo ETT. Crear ETT C++. C++ Creador ETT. Crear ETT en C++. Generar archivo ETT usando C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create ETT C++., C++ ETT Creater., Create ETT file in C++., Generate ETT file in C++]
+description: Aspose Excel. C++ Cree un archivo ETT rápida y fácilmente con Aspose.Cells. Genere un archivo ETT usando C++. Cree ETT en C++. C++ ETT Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ETT file., Generate ETT file in C++., Create ETT file using C++., Write data to ETT file via C++., Create a ETT file in C++., C++ Generate a ETT file., C++ ETT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo ETT en C++" h2="Creación de archivos ETT nativos y de alto rendimiento mediante programación sin Micorsoft Office utilizando la biblioteca C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create ETT C++., C++ ETT Creater., 
 
 {{% blocks/products/pf/agp/content h2="Crear archivo ETT usando C++" %}}
 
- ¿Cómo crear un archivo ETT? Con la biblioteca Aspose.Cells for C++, puede crear fácilmente un archivo ETT mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo crear un archivo ETT? Con la biblioteca Aspose.Cells for C++, puede crear fácilmente un archivo ETT mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,65 +26,71 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/content %}}                                                                             
 
 
-{{% blocks/products/pf/agp/content h2="Como Crear ETT en C++" %}}
+{{% blocks/products/pf/agp/content h2="Cómo crear ETT en C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos ETT dentro de las aplicaciones de informes en ejecución para el procesamiento de datos en solo unas pocas líneas de código.
+ Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos ETT dentro de aplicaciones de informes en ejecución para el procesamiento de datos en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Cree un objeto de la clase IWorkbook.
-1.  Obtenga la primera hoja en un objeto IWorksheet.
-1.  Use el método IWorksheet->GetICells() para obtener las celdas de la hoja de trabajo en un objeto ICells.
-1. Use el método ICells->GetObjectByIndex() para acceder a la celda deseada de la hoja de trabajo en un objeto ICell.
-1.  Use el método ICell->PutValue() para ingresar el valor en la celda.
-1.  Guarde el libro de trabajo como archivo .ett usando el método Save().
+1.  Crea un objeto de la clase Workbook.
+1.  Obtenga la primera hoja en un objeto Hoja de trabajo.
+1.  Utilice el método Worksheet.GetCells() para colocar las celdas de la hoja de trabajo en un objeto Cells.
+1. Utilice el método Cells.Get() para acceder a la celda deseada de la hoja de trabajo en un objeto Cell.
+1.  Utilice el método Cell.PutValue() para ingresar el valor en la celda.
+1.  Guarde el libro como archivo .ett utilizando el método Save().
 
 {{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear un archivo ETT en C++." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.ett"));
+wkb.Save(u"created_one.ett");
+
+Aspose::Cells::Cleanup();
 
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para crear archivo ETT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para crear archivos ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -93,11 +99,11 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código fuente de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código fuente de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -108,15 +114,15 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas admitidas" subTitle="También puede crear otros archivos de Excel Microsoft, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas admitidas" subTitle="También puede crear otros archivos de Excel Microsoft, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft Hoja de cálculo de Excel (heredada)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="Libro de trabajo XML abierto" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="Abrir libro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsb/" name="XLSB" description="Libro binario de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="Hoja de cálculo habilitada para macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="Excel 97 - Plantilla 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="Plantilla Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltx/" name="XLTX" description="Plantilla de Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltm/" name="XLTM" description="Plantilla de Excel habilitada para macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltm/" name="XLTM" description="Plantilla habilitada para macros de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/csv/" name="CSV" description="Valores Separados por Comas" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valores separados por tabulaciones" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Hoja de cálculo de OpenDocument" >}}

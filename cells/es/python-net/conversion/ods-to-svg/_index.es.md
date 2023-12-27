@@ -1,7 +1,7 @@
 ---
-title: Python ODS a SVG - En línea ODS a SVG Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir ODS a SVG guardar formato. Formato Python ODS al SVG. Aparta del ODS al SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to SVG saveformat., Free Online ODS to SVG Python., Python Convert ODS to SVG]
+title: Python ODS a SVG - ODS a SVG Convertidor
+description: Aspose Excel. Convierta ODS a SVG rápida y fácilmente con Aspose.Cells. Python ODS a SVG. Python Guarde ODS en SVG. Guarde ODS como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to SVG in Python., Save ODS to SVG using Python., Python ODS to SVG saveformat., ODS to SVG Converter., Python Save ODS as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir ODS a SVG en Python" h2="Biblioteca Python de alta velocidad para convertir ODS a SVG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="Convertir ODS a SVG en Python" %}}
 
- ¿Cómo convierto ODS a SVG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a SVG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto ODS a SVG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a SVG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde ODS a SVG en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar ODS al SVG en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir ODS a SVG en Python via NET.
+El siguiente ejemplo demuestra cómo convertir ODS a SVG en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir ODS a SVG. Cargue su archivo ODS, luego simplemente guárdelo como archivo SVG. Tanto para la lectura ODS como para la escritura SVG, puede utilizar nombres de archivo completos. El contenido y el formato de la salida SVG serán idénticos al documento original ODS.
+Siga los sencillos pasos para convertir ODS a SVG. Cargue su archivo ODS y luego simplemente guárdelo como archivo SVG. Tanto para lectura ODS como para escritura SVG puede utilizar nombres de archivo completos. El contenido y el formato de salida SVG serán idénticos al documento ODS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir ODS a SVG en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir ODS a SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir ODS a SVG" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir ODS a SVG. Cargue su archivo ODS, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir ODS a SVG" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir ODS en SVG" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Un archivo SVG es un archivo de gráficos vectoriales escalares que utiliza un formato de texto basado en XML para describir la apariencia de una imagen. La palabra Escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de tales archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para construir un sitio web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Un archivo SVG es un archivo de gráficos vectoriales escalares que utiliza un formato de texto basado en XML para describir la apariencia de una imagen. La palabra Escalable se refiere a que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear un sitio web e imprimir gráficos con el fin de lograr escalabilidad. Sin embargo, el formato sólo se puede utilizar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir ODS a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir ODS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-bmp/" name="ODS AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-emf/" name="ODS AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-gif/" name="ODS AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-html/" name="ODS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-md/" name="ODS A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-md/" name="ODS AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-mhtml/" name="ODS AL MHTML" description="Formato de archivo de página web" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-pdf/" name="ODS AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-png/" name="ODS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-svg/" name="ODS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tiff/" name="ODS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tsv/" name="ODS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-tsv/" name="ODS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-txt/" name="ODS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xls/" name="ODS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsb/" name="ODS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsm/" name="ODS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsx/" name="ODS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlsx/" name="ODS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xlt/" name="ODS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltm/" name="ODS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltm/" name="ODS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xltx/" name="ODS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xml/" name="ODS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-xps/" name="ODS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-json/" name="ODS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-json/" name="ODS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

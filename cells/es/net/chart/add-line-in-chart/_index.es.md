@@ -1,6 +1,7 @@
 ---
 title:  Agregue una línea en el gráfico a través de C#
-description: C# Código de muestra para agregar una línea en el gráfico a Excel usando la biblioteca .NET. Use este código para agregar una línea en el gráfico a MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
+description: C# Código de muestra para agregar una línea en un gráfico a Excel usando la biblioteca .NET. Utilice este código para agregar una línea en un gráfico a MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Agregue una línea en el gráfico a través de C#" h2="Creación nativa y de alto rendimiento de MS Excel mediante programación utilizando las API .NET del lado del servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Código de muestra para agregar una línea en el gráfico a Exce
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Agregar una línea en el gráfico de forma dinámica dentro de la aplicación en ejecución es fácil. Para crear una variedad de gráficos en hojas de cálculo desde cero sin necesidad de MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que ofrece diferentes funciones para la creación, manipulación y conversión de hojas de cálculo utilizando la plataforma .NET. Aspose.Cells proporciona muchos objetos gráficos flexibles.
+Agregar una línea en el gráfico dinámicamente dentro de la aplicación en ejecución es fácil. Para crear una variedad de gráficos y hojas de cálculo desde cero sin necesidad de MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que ofrece diferentes funciones para la creación, manipulación y conversión de hojas de cálculo utilizando la plataforma .NET. Aspose.Cells proporciona muchos objetos de gráficos flexibles.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -19,15 +20,15 @@ Agregar una línea en el gráfico de forma dinámica dentro de la aplicación en
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores agregar una línea en el gráfico dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+ Es fácil para los desarrolladores agregar una línea en el gráfico al ejecutar diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Crear[**Libro de trabajo**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instancia de clase.
-1.  Agregue algunos datos a las celdas de la hoja de trabajo con el[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) objetos[**poner valor**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)método.
+1.  Agregue algunos datos a las celdas de la hoja de trabajo con el[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) objetos[**Poner valor**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)método.
  Esto se utilizará como fuente de datos para el gráfico.
 1.  Agregue un gráfico a la hoja de trabajo llamando al[**Gráficos**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) colección[**Agregar**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) método, encapsulado en el[**Hoja de cálculo**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)objeto.
-1.  Accede al nuevo[**Cuadro**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objeto de la colección Charts pasando su índice, especifique la fuente de datos del gráfico llamando[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Accede a lo nuevo[**Cuadro**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objeto de la colección de gráficos pasando su índice, especifique la fuente de datos del gráfico llamando[**Gráfico.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Calcule la posición del gráfico llamando[**Calcular**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) método.
 1.  Agrega un[**Línea**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Forma llamando al método Chart.Shapes.AddShapeInChartByScale.
 1. Establecer el formato de línea
@@ -38,12 +39,12 @@ Agregar una línea en el gráfico de forma dinámica dentro de la aplicación en
 
 {{% blocks/products/pf/agp/text %}}
 
- Solo asegúrese de que el sistema tenga Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms, así como un entorno de desarrollo como Microsoft Visual Studio.
+Solo asegúrese de que el sistema tenga Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms, así como un entorno de desarrollo como Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Instalar desde la línea de comandos como<code>nuget install Aspose.Cells</code> o a través de Package Manager Console de Visual Studio con<code>Install-Package Aspose.Cells</code>.
--  Alternativamente, obtenga el instalador MSI fuera de línea o todas las DLL en un archivo ZIP de<a href="https://downloads.aspose.com/cells/net">descargas</a>
+-  Instalar desde la línea de comando como<code>nuget install Aspose.Cells</code> o a través de la Consola del Administrador de paquetes de Visual Studio con<code>Install-Package Aspose.Cells</code>.
+-  Alternativamente, obtenga el instalador MSI sin conexión o todos los archivos DLL en un archivo ZIP desde<a href="https://downloads.aspose.com/cells/net">descargas</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

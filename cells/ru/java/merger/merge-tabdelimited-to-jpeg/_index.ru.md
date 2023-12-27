@@ -1,8 +1,8 @@
 ---
-title: Объединить TABDELIMITED с JPEG - Объединить TABDELIMITED с JPEG в Java
+title: Объединить TABDELIMITED с JPEG — Объединить TABDELIMITED с JPEG в Java.
 url: /ru/java/merger/merge-tabdelimited-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Бесплатное слияние онлайн TABDELIMITED в JPEG в сохраненном формате. Java Объединить TABDELIMITED в формат JPEG. Объединить TABDELIMITED с JPEG в Java. TABDELIMITED Объединить.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java., Free Online Java Merge TABDELIMITED to jpeg., Java Combine TABDELIMITED to JPEG Online for Free., TABDELIMITED Merge]
+description: Aspose Эксель. Java Aspose.Cells. Объединить TABDELIMITED с форматом сохранения JPEG. Java Объедините TABDELIMITED в формат JPEG. Объединить TABDELIMITED с JPEG в Java. TABDELIMITED Объединить.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java., Java Merge TABDELIMITED to jpeg., Java Combine TABDELIMITED to JPEG., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить TABDELIMITED с JPEG via Java" h2="Высокоскоростная библиотека Java для слияния TABDELIMITED с JPEG. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="JPEG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java
 
 {{% blocks/products/pf/agp/content h2="Объединить TABDELIMITED с JPEG, используя Java" %}}
 
-Как объединить TABDELIMITED с JPEG? С библиотекой Aspose.Cells for Java вы можете легко объединить TABDELIMITED в JPEG программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как объединить TABDELIMITED с JPEG? С помощью библиотеки Aspose.Cells for Java вы можете легко объединить TABDELIMITED с JPEG программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -45,33 +45,33 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Объедините TABDELIMITED с JPEG в Java онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Объединить TABDELIMITED с JPEG в Java" %}}
 
 В следующем примере показано, как объединить TABDELIMITED с JPEG в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
-Выполните простые шаги, чтобы объединить TABDELIMITED с JPEG. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл JPEG. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, в котором TABDELIMITED объединяется с JPEG.
+Выполните простые шаги, чтобы объединить TABDELIMITED с номером JPEG. Загрузите файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле JPEG. Если вы разработаете код Java, это будет проще, чем кажется. См. пример Java, в котором TABDELIMITED объединяется с JPEG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатный онлайн для объединения TABDELIMITED с JPEG в Java" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Пример кода для объединения TABDELIMITED с JPEG в Java" InputFormat="tsv" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить TABDELIMITED с JPEG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Нужно программно объединить TABDELIMITED с JPEG? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить TABDELIMITED с JPEG? Базовый документ, объединяющийся и конкатенированный с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно создать с помощью всего нескольких строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Установить «Aspose.Cells for Java».
++ Установите «Aspose.Cells for Java».
 + Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл TABDELIMITED с классом Workbook.
-+ Вызвать метод Workbook.Combine для объединения файлов.
++ Вызов метода Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
-+ Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
++ Теперь вы можете открыть и использовать выходной файл в Office Microsoft, Adobe PDF или любой другой совместимой программе.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -90,35 +90,35 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java
 
 {{% blocks/products/pf/agp/text %}}
 
-Наши API поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе выполнены следующие предварительные условия.
+Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения пострадает незначительно, если к изображению будет применено сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить разделители табуляции со многими другими форматами файлов, включая." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить файлы с разделителями табуляции во многие другие форматы файлов, включая." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-docx/" name="Объединить TABDELIMITED с DOCX" description="Microsoft Документ Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-sql/" name="Объединить TABDELIMITED в SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-sql/" name="Объединить TABDELIMITED с SQL" description="Язык структурированных запросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-bmp/" name="Объединить TABDELIMITED с BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-emf/" name="Объединить TABDELIMITED с EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-gif/" name="Объединить TABDELIMITED с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-gif/" name="Объединить TABDELIMITED с GIF" description="Формат графического обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-html/" name="Объединить TABDELIMITED с HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-md/" name="Объединить TABDELIMITED с MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-mhtml/" name="Объединить TABDELIMITED с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-md/" name="Объединить TABDELIMITED с MD" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-mhtml/" name="Объединить TABDELIMITED с MHTML" description="Формат архива веб-страниц" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-ods/" name="Объединить TABDELIMITED с ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-pdf/" name="Объединить TABDELIMITED с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-pdf/" name="Объединить TABDELIMITED с PDF" description="Портативный формат документов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-png/" name="Объединить TABDELIMITED с PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-svg/" name="Объединить TABDELIMITED с SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-tiff/" name="Объединить TABDELIMITED с TIFF" description="Формат изображения с тегами" >}}
@@ -127,10 +127,10 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to JPEG in Java
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xls/" name="Объединить TABDELIMITED с XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsb/" name="Объединить TABDELIMITED с XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsm/" name="Объединить TABDELIMITED с XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsx/" name="Объединить TABDELIMITED с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsx/" name="Объединить TABDELIMITED с XLSX" description="OOXML-файл Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlt/" name="Объединить TABDELIMITED с XLT" description="Microsoft Шаблон Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltm/" name="Объединить TABDELIMITED с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="Объединить TABDELIMITED с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="Объединить TABDELIMITED с XLTX" description="Шаблон Excel для Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xml/" name="Объединить TABDELIMITED в XML" description="расширяемый язык разметки" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="Объединить TABDELIMITED с XPS" description="Спецификации XML-бумаги" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-json/" name="Объединить TABDELIMITED с JSON" description="Обозначение объектов JavaScript" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python OTS a XLTX - Convertidor en línea OTS a XLTX
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir OTS a XLTX guardar formato. Formato OTS Python al XLTX. Aparta OTS al XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to XLTX saveformat., Free Online OTS to XLTX Python., Python Convert OTS to XLTX]
+title: Python OTS a XLTX - Convertidor OTS a XLTX
+description: Aspose Excel. Convierta OTS a XLTX rápida y fácilmente con Aspose.Cells. Python OTS a XLTX. Python Guarde OTS en XLTX. Guarde OTS como XLTX usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to XLTX in Python., Save OTS to XLTX using Python., Python OTS to XLTX saveformat., OTS to XLTX Converter., Python Save OTS as XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir OTS a XLTX en Python" h2="Biblioteca Python de alta velocidad para convertir OTS a XLTX. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Convertir OTS a XLTX en Python" %}}
 
- ¿Cómo convierto OTS a XLTX? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente OTS a XLTX mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto OTS a XLTX? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente OTS a XLTX mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde OTS a XLTX en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar OTS al XLTX en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir OTS a XLTX en Python via NET.
+El siguiente ejemplo demuestra cómo convertir OTS a XLTX en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir OTS a XLTX. Cargue su archivo OTS, luego simplemente guárdelo como archivo XLTX. Tanto para la lectura OTS como para la escritura XLTX, puede usar nombres de archivo completos. El contenido y el formato de la salida XLTX serán idénticos al documento OTS original.
+Siga los sencillos pasos para convertir OTS a XLTX. Cargue su archivo OTS y luego simplemente guárdelo como archivo XLTX. Tanto para la lectura OTS como para la escritura XLTX, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLTX serán idénticos al documento OTS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir OTS a XLTX en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos OTS a XLTX mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a XLTX con solo unas pocas líneas de código.
+¿Necesita convertir archivos OTS a XLTX mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a XLTX en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir OTS a XLTX. Cargue su archivo OTS, luego
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir OTS a XLTX" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir OTS a XLTX" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo de OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen application/vnd.oasis.opendocument.spreadsheet-template de tipo mime. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en formato de archivo ODS. Los archivos OTS se pueden usar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo OpenXML de Office. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que muestran la misma configuración que se especifica en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen aplicación de tipo mime/vnd.oasis.opendocument.spreadsheet-template. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en el formato de archivo ODS. Los archivos OTS se pueden utilizar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo Office OpenXML. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que exhiben la misma configuración especificada en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-png/" name="OTS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-svg/" name="OTS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tiff/" name="OTS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-txt/" name="OTS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xls/" name="OTS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsb/" name="OTS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsm/" name="OTS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlt/" name="OTS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

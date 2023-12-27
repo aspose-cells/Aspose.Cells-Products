@@ -1,7 +1,7 @@
 ---
-title: Python XLT a POWERPOINT - Convertidor en línea XLT a POWERPOINT
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XLT a formato de guardado de POWERPOINT. Python XLT a formato POWERPOINT. Guarde XLT en POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to POWERPOINT saveformat., Free Online XLT to POWERPOINT Python., Python Convert XLT to POWERPOINT]
+title: Python XLT a POWERPOINT - Convertidor XLT a POWERPOINT
+description: Aspose Excel. Convierta XLT a POWERPOINT rápida y fácilmente con Aspose.Cells. Python XLT a POWERPOINT. Python Guardar XLT en POWERPOINT. Guarde XLT como POWERPOINT usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to POWERPOINT in Python., Save XLT to POWERPOINT using Python., Python XLT to POWERPOINT saveformat., XLT to POWERPOINT Converter., Python Save XLT as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLT a POWERPOINT en Python" h2="Biblioteca Python de alta velocidad para convertir XLT a POWERPOINT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Convertir XLT a POWERPOINT en Python" %}}
 
- ¿Cómo convierto XLT a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLT a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLT a POWERPOINT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLT a POWERPOINT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XLT en POWERPOINT en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLT en POWERPOINT en Python" %}}
 
 El siguiente ejemplo demuestra cómo convertir XLT a POWERPOINT en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLT a POWERPOINT. Cargue su archivo XLT, luego simplemente guárdelo como archivo POWERPOINT. Tanto para la lectura XLT como para la escritura en POWERPOINT, puede utilizar nombres de archivo completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento original XLT.
+Siga los sencillos pasos para convertir XLT a POWERPOINT. Cargue su archivo XLT y luego simplemente guárdelo como archivo POWERPOINT. Tanto para la lectura de XLT como para la escritura en POWERPOINT, puede utilizar nombres de archivo completos. El contenido y el formato de salida de POWERPOINT serán idénticos al documento original XLT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLT a POWERPOINT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLT a POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLT a POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XLT a POWERPOINT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLT a POWERPOINT con solo unas pocas líneas de código.
+¿Necesita convertir archivos XLT a POWERPOINT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XLT a POWERPOINT en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLT a POWERPOINT. Cargue su archivo XLT,
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLT a POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLT a POWERPOINT" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Los archivos con la extensión .xlt son archivos de plantilla creados con Microsoft Excel, que es una aplicación de hoja de cálculo que forma parte del paquete de Office Microsoft. Microsoft Office 97-2003 admitía la creación de nuevos archivos XLT y su apertura. La última versión de Excel todavía es capaz de abrir estos archivos de plantilla de formato antiguo. Dicho archivo de plantilla se usa para crear rápidamente nuevos archivos de Excel con datos y configuraciones predeterminados, como formato de página, tamaño de fuente, márgenes, gráficos, etc., que se pueden guardar como nuevos archivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con la extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede incluir texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Los archivos con extensión .xlt son archivos de plantilla creados con Microsoft Excel, que es una aplicación de hoja de cálculo que forma parte de la suite Microsoft Office. Microsoft Office 97-2003 admitía la creación de nuevos archivos XLT y su apertura. La última versión de Excel todavía es capaz de abrir archivos de plantilla de este formato antiguo. Un archivo de plantilla de este tipo se utiliza para crear rápidamente nuevos archivos de Excel con datos y configuraciones predeterminados, como formato de página, tamaño de fuente, márgenes, gráficos, etc., que se pueden guardar como nuevos archivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT, que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede contener texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLT a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLT a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-bmp/" name="XLT AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-emf/" name="XLT AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-gif/" name="XLT AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-html/" name="XLT AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-md/" name="XLT A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-md/" name="XLT AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-mhtml/" name="XLT AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-ods/" name="XLT AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-pdf/" name="XLT AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-png/" name="XLT AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-svg/" name="XLT AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tiff/" name="XLT AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-txt/" name="XLT AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xls/" name="XLT AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsb/" name="XLT AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT AL XLSX" description="Archivo Excel OOXML" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="XLT A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

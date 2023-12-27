@@ -1,8 +1,8 @@
 ---
-title: C# Reparar archivo xls - Reparar archivo xls en línea gratis
+title: "C# Reparar xls: recuperar y reparar archivos xls dañados"
 url: /es/net/recovery/repair-xls/ 
-description: AsposeExcel. C# Aspose.Cells. C# Reparar archivo xls. Herramienta gratuita de reparación de xls en línea. Reparar un archivo xls dañado. Recupere un archivo xls dañado dentro de la aplicación .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file., Free Online Repair a corrupted xls file., C# Recover xls file.]
+description: C# Aspose.Cells. Reparación xls. Reparar archivo xls. herramienta de recuperación xls. corrupción xls. Restaurar datos xls. recuperación de archivos xls. Recuperar archivo xls dañado.
+keywords: [C# Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar archivo XLS en C#" h2="Cree su propia aplicación .NET para reparar archivos xls usando .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,9 +12,9 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file
 
 {{% blocks/products/pf/agp/content h2="Reparar el archivo XLS usando C#" %}}
 
- ¿Cómo reparo el archivo xls? Con la biblioteca Aspose.Cells for .NET, puede reparar fácilmente el archivo XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. .NET Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Abierto[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, busque Aspose.Cells e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo reparo el archivo xls? Con la biblioteca Aspose.Cells for .NET, puede reparar fácilmente el archivo XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. .NET Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Abierto[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, busque Aspose.Cells e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
-{{% blocks/products/pf/agp/code-block title="Comando de la consola del Administrador de paquetes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 
 ```cs
 
@@ -27,31 +27,31 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo reparar archivo xls en C#" %}}
+{{% blocks/products/pf/agp/content h2="Cómo reparar un archivo xls en C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita reparar el archivo xls mediante programación? Los desarrolladores de .NET pueden cargar y reparar fácilmente el archivo xls en solo unas pocas líneas de código.
+¿Necesita reparar el archivo xls mediante programación? Los desarrolladores de .NET pueden cargar y reparar fácilmente archivos xls con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Definir una clase que herede Aspose.Cells.IWarningCallback.
-+ Cargue el archivo XLS creando una instancia de Workbook, utilizando la clase de herencia anterior, consulte el código anterior.
-+ Guarde el libro de trabajo, el archivo xls dañado será reparado.
++ Cargue el archivo XLS creando una instancia de Workbook, usando la clase de herencia anterior, consulte el código anterior.
++ Guarde el libro de trabajo, se reparará el archivo xls dañado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicación gratuita y código de muestra para reparar el archivo XLS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Código de muestra para reparar el archivo XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
     
-{{% blocks/products/pf/agp/content h2=".NET biblioteca para reparar XLS archivo" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca .NET para reparar el archivo XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay dos opciones alternativas para instalar "Aspose.Cells for .NET" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay dos opciones alternativas para instalar "Aspose.Cells for .NET" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells/) . Ver[Documentación](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells/) . Ver[Documentación](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
 1.  Instale la biblioteca usando[Consola del administrador de paquetes](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dentro del IDE de Visual Studio
 
 
@@ -72,7 +72,7 @@ Hay dos opciones alternativas para instalar "Aspose.Cells for .NET" en su sistem
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Los archivos con la extensión XLS representan el formato de archivo binario de Excel. Dichos archivos pueden ser creados por Microsoft Excel, así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
+Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos se pueden crear con Microsoft Excel y con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado con Excel se conoce como Libro de trabajo, donde cada libro puede tener una o más hojas de trabajo. Los datos se almacenan y se muestran a los usuarios en formato de tabla en una hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Aplicaciones como Microsoft Excel le permiten exportar datos del libro a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y varios otros. El formato de archivo XLS fue reemplazado por un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -80,13 +80,13 @@ Los archivos con la extensión XLS representan el formato de archivo binario de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Usando C#, uno puede reparar fácilmente otros archivos de formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Con C#, se pueden reparar fácilmente otros archivos en formato Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Reparación ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Reparación XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Reparación XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Reparación XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

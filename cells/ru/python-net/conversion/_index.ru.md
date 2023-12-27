@@ -1,16 +1,17 @@
 ---
-title: Microsoft Преобразование файлов Excel с использованием Python via NET
-description: Преобразование Excel XLS, XLSX, ODS, CSV в PDF, XPS, HTML, JPEG, HTML и многие другие популярные форматы с помощью всего нескольких строк кода Python .
+title: Microsoft Преобразование файлов Excel с помощью Python via NET
+description: Aspose.Cells for Python через библиотеку NET. Конвертируйте форматы EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL и другие с помощью всего нескольких строк кода Python.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Преобразование формата Excel через Python" h2="Импорт и экспорт файлов Excel в виде электронных таблиц, веб-сайтов, изображений и форматов с фиксированным макетом" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Преобразование формата Excel через Python" h2="Импортируйте и экспортируйте файлы Excel в форматах электронных таблиц, веб-страниц, изображений и с фиксированным макетом." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Библиотека Excel ускоряет программирование электронных таблиц и процессы преобразования, поддерживая популярные форматы, включая XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 481. Также позволяет экспортировать файлы Excel в PDF, XPS, HTML, MHTML, Plain Текстовые и популярные форматы изображений, такие как TIFF, JPG, PNG, BMP и SVG.
+Python Библиотека Excel ускоряет процессы программирования и преобразования электронных таблиц, поддерживая популярные форматы, включая XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619348 1. Он также позволяет экспортировать файлы Excel в PDF, XPS, HTML, MHTML, Plain. Текстовые и популярные форматы изображений, такие как TIFF, JPG, PNG, BMP и SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Преобразование Excel в XLSX, ODS, SXC и FODS" %}}
- Взаимное преобразование формата электронной таблицы требует только загрузки электронной таблицы с экземпляром[Рабочая тетрадь](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) и сохранить обратно в желаемом формате, выбрав соответствующее значение из[СохранитьФормат](https://reference.aspose.com/cells/python-net/aspose.cells/saveformat/) перечисление.
+{{% blocks/products/pf/feature-page-section h2="Преобразуйте Excel в XLSX, ODS, SXC и FODS." %}}
+ Для взаимного преобразования формата электронной таблицы требуется только загрузка электронной таблицы с экземпляром[Рабочая тетрадь](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) и сохранить обратно в желаемом формате, выбрав подходящее значение из[СохранитьФормат](https://reference.aspose.com/cells/python-net/aspose.cells/saveformat/) перечисление.
 {{% blocks/products/pf/feature-page-code h3="Python Код для преобразования формата файла Excel" %}}
 
 ```cs
@@ -29,8 +30,8 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Excel в PDF, XPS, HTML и MD" %}}
- Доступны специализированные классы для управления процессом преобразования для определенных выходных форматов, таких как[PdfSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pdfsaveoptions/) экспортировать файлы Excel как PDF,[XPsSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/xpssaveoptions/) для преобразования Excel в XPS,[Хтмлсавеоптионс](https://reference.aspose.com/cells/python-net/aspose.cells/htmlsaveoptions/) для отображения Excel как HTML и[MarkdownSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/markdownsaveoptions/) для преобразования Excel в Markdown.
-{{% blocks/products/pf/feature-page-code h3="Python Код для Excel до PDF и веб-форматы" %}}
+ Доступны специализированные классы для управления процессом преобразования для определенных выходных форматов, таких как[PDFSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pdfsaveoptions/) для экспорта файлов Excel как PDF,[XpsSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/xpssaveoptions/) для преобразования Excel в XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/htmlsaveoptions/) для отображения Excel как HTML и[МаркдаунСохранитьПараметры](https://reference.aspose.com/cells/python-net/aspose.cells/markdownsaveoptions/) для преобразования Excel в Markdown.
+{{% blocks/products/pf/feature-page-code h3="Python Код для Excel для PDF и веб-форматов" %}}
 
 ```cs
 // load template Excel file from disc
@@ -61,8 +62,8 @@ book.save("output.md", mdOptions);
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Преобразование JSON в Excel и Excel в JSON" %}}
-Разработчики Python могут легко загружать и преобразовывать файлы JSON в Excel, написав всего несколько строк кода. Точно так же данные Excel можно экспортировать в данные JSON.
+{{% blocks/products/pf/feature-page-section h2="Преобразовать JSON в Excel и Excel в JSON" %}}
+Разработчики Python могут легко загружать и конвертировать файлы JSON в Excel всего за несколько строк кода. Аналогичным образом данные Excel можно экспортировать в данные JSON.
 {{% blocks/products/pf/feature-page-code h3="Python Код для преобразования JSON в Excel" %}}
 ```cs
 //Load your source json file
@@ -72,7 +73,7 @@ workbook.save("output.xlsx")
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Python Код для преобразования Excel в JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="Код Python для преобразования Excel в JSON" %}}
 ```cs
 //Load your source xlsx file
 workbook = Workbook("input.xlsx")
@@ -84,9 +85,9 @@ workbook.save("Data.json")
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Преобразование рабочих листов Excel в JPG, BMP, PNG и GIF" %}}
- Каждый рабочий лист файла Excel можно преобразовать в различные форматы изображений, вызовите[Имажеорпринтоптионс](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/) .setImageFormat для установки формата изображения.
-{{% blocks/products/pf/feature-page-code h3="Python Код для преобразования Excel в изображение" %}}
+{{% blocks/products/pf/feature-page-section h2="Преобразование листов Excel в JPG, BMP, PNG и GIF" %}}
+ Каждый лист файла Excel можно преобразовать в разные форматы изображений, позвоните[Параметры изображения или печати](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/).setImageFormat для установки формата изображения.
+{{% blocks/products/pf/feature-page-code h3="Python Код для преобразования Excel в изображения" %}}
 ```cs
 // load template spreadsheet
 workbook = Workbook("template.xlsx")
@@ -106,8 +107,8 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Конвертировать Excel в Word и PowerPoint" %}}
- Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)классы, как показано ниже.
-{{% blocks/products/pf/feature-page-code h3="Python код для преобразования Excel в Word и PowerPoint преобразования" %}}
+Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[Параметры сохранения документа](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) классы, как показано ниже.
+{{% blocks/products/pf/feature-page-code h3="Код Python для преобразования Excel в Word и PowerPoint" %}}
 ```cs
 // load the template file
 workbook = Workbook("template.xlsx")

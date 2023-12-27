@@ -1,7 +1,8 @@
 ---
-title:  Generar Reportes en XLSX Archivos via Java
+title:  Generar Informes en Archivos XLSX via Java
 weight: 7710
-description: Código de muestra Java para crear informes con formato XLSX en el entorno de tiempo de ejecución Java para aplicaciones de escritorio y aplicaciones JSP/JSF.
+description: Código de muestra Java para crear informes en formato XLSX en el entorno de ejecución Java para aplicaciones JSP/JSF y aplicaciones de escritorio.
+keywords: [Java Aspose.Cells., Java Create XLSX Reports Based on Predesigned Excel Template., Java Generate XLSX Reports Based on Predesigned Excel Template., Java Create XLSX Reports Based on Excel Template., Java Generate XLSX Reports Based on Excel Template., Java Create xlsx files Based on Excel Template., Java Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generación de informes masivos en formato XLSX via Java" h2="Genere informes en formato XLSX utilizando una fuente de datos y una plantilla." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,11 +12,11 @@ description: Código de muestra Java para crear informes con formato XLSX en el 
 
 {{% blocks/products/pf/agp/content h2="Cómo generar informes XLSX utilizando Java" %}}
 
- Para crear informes de archivo XLSX, usaremos
+ Para crear informes de archivos XLSX, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que es una plataforma de montaje API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
+ API, que es una plataforma de ensamblaje API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -49,16 +50,16 @@ description: Código de muestra Java para crear informes con formato XLSX en el 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para Generar XLSX Reportes via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para Generar Informes XLSX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instanciar la clase WorkbookDesigner
-1. Agregar objetos Datasouce en un ArrayList
-1.  Establezca la fuente de datos y el proceso para el objeto WorkbookDesigner
-1.  Guarde el resultado en formato XLSX a través del método Worbook.save
+1.  Crear una instancia de la clase WorkbookDesigner
+1. Agregar objetos Datasource en un ArrayList
+1.  Establecer fuente de datos y proceso para el objeto WorkbookDesigner
+1.  Guarde el resultado en formato XLSX mediante el método Worbook.save
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,18 +67,18 @@ description: Código de muestra Java para crear informes con formato XLSX en el 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Por favor, asegúrese de que tiene los siguientes requisitos previos.
+ Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Asegúrese de tener los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 - Obtenga la última versión de Aspose.Cells for Java directamente desde Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generar informes de Excel en formato XLSX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generar Informes Excel en Formato XLSX - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
@@ -107,9 +108,9 @@ System.out.println("File saved");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for Java API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
+ Aspose.Cells API se puede utilizar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos. Además, se puede utilizar para gráficos completos, informes escalables y cálculos confiables dentro de aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
 
@@ -117,14 +118,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="App Gratis para Armar XLSX" sectionDescription=" Consulte nuestras demostraciones en vivo para[crear XLSX archivos](https://products.aspose.app/cells/assembly/xlsx) con los siguientes beneficios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App Gratuita para Montar XLSX" sectionDescription=" Consulte nuestras demostraciones en vivo para[crear archivos XLSX](https://products.aspose.app/cells/assembly/xlsx) con los siguientes beneficios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir o compilar código" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ni compilar código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue el archivo XLSX y presione el botón \"Ensamblar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Descargue el archivo XLSX resultante desde el enlace" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
+XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,7 +133,7 @@ XLSX es un formato conocido para documentos de Excel Microsoft que fue introduci
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otros formatos de generación de informes admitidos" subTitle="Usando Java, uno puede generar fácilmente informes de múltiples formatos, incluidos." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otros formatos de generación de informes admitidos" subTitle="Con Java, se pueden generar fácilmente informes de múltiples formatos, incluido." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="Formato binario de Excel" >}}

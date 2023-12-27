@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL a PPTX - Convertidor en línea EXCEL a PPTX
-description: AsposeExcel. C++ Aspose.Cells. C++ Aspose Cells. Gratis en línea C++ Convertir EXCEL a PPTX guardar formato. C++ formato EXCEL a PPTX. Guarda EXCEL al PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to PPTX saveformat., Free Online EXCEL to PPTX C++., C++ Convert EXCEL to PPTX]
+title: C++ EXCEL a PPTX - Convertidor EXCEL a PPTX
+description: Aspose Excel. Convierta EXCEL a PPTX rápida y fácilmente con Aspose.Cells. C++ EXCEL a PPTX. C++ Guarde EXCEL en PPTX. Guarde EXCEL como PPTX usando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to PPTX in C++., Save EXCEL to PPTX using C++., C++ EXCEL to PPTX saveformat., EXCEL to PPTX Converter., C++ Save EXCEL as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir EXCEL a PPTX en C++" h2="Conversión de EXCEL a PPTX de alto rendimiento utilizando la biblioteca C++ sin necesidad de instalar Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to PPT
 
 {{% blocks/products/pf/agp/content h2="Convierta EXCEL a PPTX usando C++" %}}
 
- ¿Cómo convierto EXCEL a PPTX? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a PPTX mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo convierto EXCEL a PPTX? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a PPTX mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde EXCEL al PPTX en C++ en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar EXCEL al PPTX en C++" %}}
 
-El siguiente ejemplo muestra cómo convertir EXCEL a PPTX en C++.
+El siguiente ejemplo demuestra cómo convertir EXCEL a PPTX en C++.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir EXCEL a PPTX. Cargue su archivo EXCEL, luego simplemente guárdelo como archivo PPTX. Tanto para la lectura EXCEL como para la escritura PPTX, puede usar nombres de archivo completos. El contenido y el formato de la salida PPTX serán idénticos al documento EXCEL original.
+Siga los sencillos pasos para convertir EXCEL a PPTX. Cargue su archivo EXCEL y luego simplemente guárdelo como archivo PPTX. Tanto para lectura EXCEL como para escritura PPTX, puede utilizar nombres de archivo completos. El contenido y el formato de salida PPTX serán idénticos al documento EXCEL original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir EXCEL a PPTX en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Código de muestra para convertir EXCEL a PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a PPTX a través de C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos EXCEL a PPTX mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a PPTX con solo unas pocas líneas de código.
+¿Necesita convertir archivos EXCEL a PPTX mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a PPTX en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for C++'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto C++.
-1.  Cargue el archivo EXCEL usando Factory::CreateIWorkbook.
+1.  Cargue el archivo EXCEL usando el libro de trabajo.
 1.  Convierta EXCEL a PPTX llamando al método Save().
 1.  Obtenga el resultado de la conversión de EXCEL a PPTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para convertir EXCEL a PPTX" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para convertir EXCEL a PPTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,19 +73,19 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con la extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede incluir texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Los archivos con extensión PPTX son archivos de presentación creados con la popular aplicación Microsoft PowerPoint. A diferencia de la versión anterior del formato de archivo de presentación PPT, que era binario, el formato PPTX se basa en el formato de archivo de presentación XML abierto Microsoft PowerPoint. Un archivo de presentación es una colección de diapositivas donde cada diapositiva puede contener texto, imágenes, formato, animaciones y otros medios. Estas diapositivas se presentan a la audiencia en forma de presentaciones de diapositivas con configuraciones de presentación personalizadas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,19 +101,18 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsb/" name="EXCEL AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsm/" name="EXCEL AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlt/" name="EXCEL AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltx/" name="EXCEL AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xml/" name="EXCEL A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xps/" name="EXCEL AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-jpeg/" name="EXCEL AL JPEG" description="JPEG Imagen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

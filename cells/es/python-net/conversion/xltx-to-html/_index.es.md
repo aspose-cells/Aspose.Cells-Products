@@ -1,7 +1,7 @@
 ---
-title: Python XLTX a HTML - En línea XLTX a HTML Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XLTX a HTML guardar formato. Formato Python XLTX al HTML. Aparta del XLTX al HTML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to HTML saveformat., Free Online XLTX to HTML Python., Python Convert XLTX to HTML]
+title: Python XLTX a HTML - XLTX a HTML Convertidor
+description: Aspose Excel. Convierta XLTX a HTML rápida y fácilmente con Aspose.Cells. Python XLTX a HTML. Python Guarde XLTX en HTML. Guarde XLTX como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to HTML in Python., Save XLTX to HTML using Python., Python XLTX to HTML saveformat., XLTX to HTML Converter., Python Save XLTX as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLTX a HTML en Python" h2="Biblioteca Python de alta velocidad para convertir XLTX a HTML. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Convertir XLTX a HTML en Python" %}}
 
- ¿Cómo convierto XLTX a HTML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a HTML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XLTX a HTML? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XLTX a HTML mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde XLTX a HTML en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLTX al HTML en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir XLTX a HTML en Python via NET.
+El siguiente ejemplo demuestra cómo convertir XLTX a HTML en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir XLTX a HTML. Cargue su archivo XLTX, luego simplemente guárdelo como archivo HTML. Tanto para la lectura XLTX como para la escritura HTML, puede utilizar nombres de archivo completos. El contenido y el formato de la salida HTML serán idénticos al documento original XLTX.
+Siga los sencillos pasos para convertir XLTX a HTML. Cargue su archivo XLTX y luego simplemente guárdelo como archivo HTML. Tanto para lectura XLTX como para escritura HTML puede utilizar nombres de archivo completos. El contenido y el formato de salida HTML serán idénticos al documento XLTX original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XLTX a HTML en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLTX a HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLTX a HTML" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir XLTX a HTML. Cargue su archivo XLTX, lue
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir XLTX a HTML" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir XLTX en HTML" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo OpenXML de Office. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que muestran la misma configuración que se especifica en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con requisitos de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 que brinda mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML está compuesta por HTML elementos tales como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas y varios otros donde cada etiqueta tiene inicio y final. También puede incrustar aplicaciones escritas en lenguajes de secuencias de comandos como JavaScript y hojas de estilo (CSS) para la representación general del diseño.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Los archivos con extensión .xltx representan archivos de plantilla de Excel Microsoft que se basan en las especificaciones de formato de archivo Office OpenXML. Se utiliza para crear un archivo de plantilla estándar que se puede utilizar para generar archivos XLSX que exhiben la misma configuración especificada en el archivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Lenguaje de marcado de hipertexto) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con la exigencia de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 y ofrece mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML está compuesta por HTML elementos como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas y varios otros donde cada etiqueta tiene inicio y fin. También puede incorporar aplicaciones escritas en lenguajes de programación como JavaScript y hojas de estilo (CSS) para una representación general del diseño.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLTX a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-gif/" name="XLTX AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-html/" name="XLTX AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-md/" name="XLTX AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-mhtml/" name="XLTX AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-ods/" name="XLTX AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-pdf/" name="XLTX AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-png/" name="XLTX AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-svg/" name="XLTX AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tiff/" name="XLTX AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-tsv/" name="XLTX AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-txt/" name="XLTX AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xls/" name="XLTX AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsb/" name="XLTX AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsm/" name="XLTX AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlsx/" name="XLTX AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xlt/" name="XLTX AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xltm/" name="XLTX AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xml/" name="XLTX A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-xps/" name="XLTX AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-json/" name="XLTX AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

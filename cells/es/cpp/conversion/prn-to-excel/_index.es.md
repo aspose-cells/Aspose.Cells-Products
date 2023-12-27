@@ -1,7 +1,7 @@
 ---
-title: C++ PRN a EXCEL - Conversor PRN a EXCEL en línea
-description: AsposeExcel. C++ Aspose.Cells. C++ Aspose Cells. Gratis en línea C++ Convertir PRN a formato de guardado EXCEL. C++ PRN a formato EXCEL. Guarde PRN en EXCEL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to EXCEL saveformat., Free Online PRN to EXCEL C++., C++ Convert PRN to EXCEL]
+title: C++ PRN a EXCEL - Convertidor PRN a EXCEL
+description: Aspose Excel. Convierta PRN a EXCEL rápida y fácilmente con Aspose.Cells. C++ PRN a EXCEL. C++ Guardar PRN en EXCEL. Guarde PRN como EXCEL usando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to EXCEL in C++., Save PRN to EXCEL using C++., C++ PRN to EXCEL saveformat., PRN to EXCEL Converter., C++ Save PRN as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PRN a EXCEL en C++" h2="Conversión de PRN a EXCEL de alto rendimiento utilizando la biblioteca C++ sin necesidad de instalar Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to EXCEL
 
 {{% blocks/products/pf/agp/content h2="Convierta PRN a EXCEL usando C++" %}}
 
- ¿Cómo convierto PRN a EXCEL? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente PRN a EXCEL mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo convierto PRN a EXCEL? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente PRN a EXCEL mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde PRN to EXCEL en C++ en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar PRN en EXCEL en C++" %}}
 
-El siguiente ejemplo muestra cómo convertir PRN a EXCEL en C++.
+El siguiente ejemplo demuestra cómo convertir PRN a EXCEL en C++.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir PRN a EXCEL. Cargue su archivo PRN, luego simplemente guárdelo como archivo EXCEL. Tanto para la lectura de PRN como para la escritura en EXCEL, puede utilizar nombres de archivo completos. El contenido y el formato EXCEL de salida serán idénticos al documento PRN original.
+Siga los sencillos pasos para convertir PRN a EXCEL. Cargue su archivo PRN y luego simplemente guárdelo como archivo EXCEL. Tanto para la lectura PRN como para la escritura EXCEL, puede utilizar nombres de archivos completos. El contenido y el formato EXCEL de salida serán idénticos al documento PRN original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir PRN a EXCEL en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PRN a EXCEL a través de C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos PRN a EXCEL mediante programación? Los desarrolladores de C++ pueden convertir fácilmente PRN a EXCEL con solo unas pocas líneas de código.
+¿Necesita convertir archivos PRN a EXCEL mediante programación? C++ los desarrolladores pueden convertir fácilmente PRN a EXCEL en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for C++'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto C++.
-1.  Cargue el archivo PRN usando Factory::CreateIWorkbook.
+1. Cargue el archivo PRN usando el libro de trabajo.
 1.  Convierta PRN a EXCEL llamando al método Save().
 1.  Obtenga el resultado de la conversión de PRN a EXCEL.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para convertir PRN a EXCEL" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para convertir PRN a EXCEL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,19 +73,19 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado con la casilla de verificación Imprimir en archivo que aparece en algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que utiliza una impresora, una máquina de fax u otro dispositivo para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado usando la casilla de verificación Imprimir en archivo que aparece dentro de algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que una impresora, máquina de fax u otro dispositivo utiliza para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,19 +101,18 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PRN AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PRN AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="PRN AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="PRN AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="PRN AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="PRN AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsb/" name="PRN AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsm/" name="PRN AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlt/" name="PRN AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltx/" name="PRN AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xml/" name="PRN A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xps/" name="PRN AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-jpeg/" name="PRN AL JPEG" description="JPEG Imagen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

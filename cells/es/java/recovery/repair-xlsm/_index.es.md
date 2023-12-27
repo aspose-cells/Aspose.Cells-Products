@@ -1,8 +1,8 @@
 ---
-title: Java Reparar archivo xlsm - Reparar archivo xlsm en línea gratis
+title: "Java Reparar xlsm: recuperar y reparar archivos xlsm dañados"
 url: /es/java/recovery/repair-xlsm/ 
-description: AsposeExcel. Java Aspose.Cells. Java Reparar archivo xlsm. Herramienta gratuita de reparación de xlsm en línea. Repara un archivo xlsm dañado. Recupere un archivo xlsm dañado dentro de la aplicación Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsm file., Free Online Repair a corrupted xlsm file., Java Recover xlsm file.]
+description: Java Aspose.Cells. Reparación xlsm. Reparar el archivo xlsm. herramienta de recuperación xlsm. corrupción xlsm. Restaurar datos xlsm. recuperación de archivos xlsm. Recuperar archivo xlsm dañado.
+keywords: [Java Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar archivo XLSM en Java" h2="Cree su propia aplicación Java para reparar archivos xlsm usando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Reparar el archivo XLSM usando Java" %}}
 
- ¿Cómo reparo el archivo xlsm? Con la biblioteca Aspose.Cells for Java, puede reparar fácilmente el archivo XLSM mediante programación con unas pocas líneas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Java Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puedes descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ ¿Cómo reparo el archivo xlsm? Con la biblioteca Aspose.Cells for Java, puede reparar fácilmente el archivo XLSM mediante programación con unas pocas líneas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Java Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -46,27 +46,27 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo reparar el archivo xlsm en Java" %}}
+{{% blocks/products/pf/agp/content h2="Cómo reparar un archivo xlsm en Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita reparar el archivo xlsm mediante programación? Los desarrolladores de Java pueden cargar y reparar fácilmente el archivo xlsm en solo unas pocas líneas de código.
+¿Necesita reparar el archivo xlsm mediante programación? Los desarrolladores de Java pueden cargar y reparar fácilmente archivos xlsm con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Definir una clase que herede Aspose.Cells.IWarningCallback.
-+ Cargue el archivo XLSM creando una instancia de Workbook, utilizando la clase de herencia anterior, consulte el código anterior.
++ Cargue el archivo XLSM creando una instancia de Workbook, usando la clase de herencia anterior, consulte el código anterior.
 + Guarde el libro de trabajo, se reparará el archivo xlsm dañado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicación gratuita y código de muestra para reparar el archivo XLSM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Código de muestra para reparar el archivo XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
     
-{{% blocks/products/pf/agp/content h2="Java biblioteca para reparar XLSM archivo" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Java para reparar el archivo XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios 'Aspose.Cells for Java' es un archivo JAR común que contiene un código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.
+ Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +76,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
  Aspose.Cells for Java es compatible con todos los principales sistemas operativos. Solo asegúrese de tener los siguientes requisitos previos.
  
-- Microsoft Windows o un SO compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 - Obtenga la última versión de Aspose.Cells for Java directamente desde Maven.
 
 
@@ -87,7 +87,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Los archivos con la extensión XLSM son un tipo de archivo de hoja de cálculo que admite macros. Desde el punto de vista de la aplicación, una macro es un conjunto de instrucciones que se utilizan para automatizar procesos. Una macro se usa para registrar los pasos que se realizan repetidamente y facilita la realización de las acciones ejecutando la macro nuevamente. Las macros se programan con Visual Basic para Aplicaciones (VBA) de Microsoft desde el Libro de trabajo de Excel usando el Editor de Visual Basic y se pueden ejecutar/depurar directamente desde allí.
+Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que admiten macros. Desde el punto de vista de la aplicación, una macro es un conjunto de instrucciones que se utilizan para automatizar procesos. Una macro se utiliza para registrar los pasos que se realizan repetidamente y facilita la realización de las acciones ejecutando la macro nuevamente. Las macros se programan con Visual Basic para Aplicaciones (VBA) de Microsoft desde el libro de Excel utilizando el Editor de Visual Basic y se pueden ejecutar/depurar directamente desde allí.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,13 +95,13 @@ Los archivos con la extensión XLSM son un tipo de archivo de hoja de cálculo q
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Usando Java, uno puede reparar fácilmente otros archivos de formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Con Java, se pueden reparar fácilmente otros archivos en formato Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Reparación ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Reparación XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Reparación XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Reparación XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

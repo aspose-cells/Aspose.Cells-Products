@@ -1,8 +1,8 @@
 ---
-title: Python Reparar archivo ods - Reparar archivo ods en línea gratis
+title: "Python Reparar ods: recuperar y reparar archivos ods dañados"
 url: /es/python-net/recovery/repair-ods/ 
-description: AsposeExcel. Python Aspose.Cells. Python Reparación archivo ods. Herramienta gratuita de reparación de ods en línea. Reparar un archivo ods corrupto. Recupere un archivo ods dañado dentro de la aplicación Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Free Online Repair a corrupted ods file., Python Recover ods file.]
+description: Python Aspose.Cells. Reparación de ods. Arreglar el archivo ods. herramienta de recuperación de ods. Odds corrupción. Restaurar datos de Ods. recuperación de archivos ods. Recuperar archivos ods corruptos.
+keywords: [Python Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar archivo ODS en Python" h2="Cree su propia aplicación Python para reparar archivos ods usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparar el archivo ODS usando Python" %}}
 
- ¿Cómo reparo el archivo ods? Con la biblioteca Aspose.Cells for Python, puede reparar fácilmente el archivo ODS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede instalar Aspose.Cells for Python via .NET desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ ¿Cómo reparo el archivo ods? Con la biblioteca Aspose.Cells for Python, puede reparar fácilmente el archivo ODS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede instalar Aspose.Cells for Python via .NET desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,24 +22,24 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita reparar el archivo ods mediante programación? Los desarrolladores de Python pueden cargar y reparar fácilmente el archivo ods con solo unas pocas líneas de código.
+¿Necesita reparar el archivo ods mediante programación? Los desarrolladores de Python pueden cargar y reparar fácilmente archivos ods con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Definir una clase que herede Aspose.Cells.IWarningCallback.
-+ Cargue el archivo ODS creando una instancia de Workbook, utilizando la clase de herencia anterior, consulte el código anterior.
++ Cargue el archivo ODS creando una instancia de Workbook, usando la clase de herencia anterior, consulte el código anterior.
 + Guarde el libro de trabajo, el archivo ods dañado será reparado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicación gratuita y código de muestra para reparar el archivo ODS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Código de muestra para reparar el archivo ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
     
-{{% blocks/products/pf/agp/content h2="Python biblioteca para reparar ODS archivo" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para reparar el archivo ODS" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
  Aspose.Cells for Python es compatible con todos los principales sistemas operativos. Solo asegúrese de tener los siguientes requisitos previos.
  
 -  Instalar[Python](https://www.python.org/downloads/) 3.7 o superior.
-- Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+-  Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.
+Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,13 +72,13 @@ Los archivos con extensión .ods representan el formato de documento de hoja de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Usando Python, uno puede reparar fácilmente otros archivos de formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Con Python, se pueden reparar fácilmente otros archivos en formato Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Reparación ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Reparación XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Reparación XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Reparación XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

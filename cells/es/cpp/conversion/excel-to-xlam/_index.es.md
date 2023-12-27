@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL a XLAM - Convertidor en línea EXCEL a XLAM
-description: AsposeExcel. C++ Aspose.Cells. C++ Aspose Cells. Gratis en línea C++ Convertir EXCEL a XLAM guardar formato. C++ formato EXCEL a XLAM. Guarda EXCEL al XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XLAM saveformat., Free Online EXCEL to XLAM C++., C++ Convert EXCEL to XLAM]
+title: C++ EXCEL a XLAM - Convertidor EXCEL a XLAM
+description: Aspose Excel. Convierta EXCEL a XLAM rápida y fácilmente con Aspose.Cells. C++ EXCEL a XLAM. C++ Guarde EXCEL en XLAM. Guarde EXCEL como XLAM usando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XLAM in C++., Save EXCEL to XLAM using C++., C++ EXCEL to XLAM saveformat., EXCEL to XLAM Converter., C++ Save EXCEL as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir EXCEL a XLAM en C++" h2="Conversión de EXCEL a XLAM de alto rendimiento utilizando la biblioteca C++ sin necesidad de instalar Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XLA
 
 {{% blocks/products/pf/agp/content h2="Convierta EXCEL a XLAM usando C++" %}}
 
- ¿Cómo convierto EXCEL a XLAM? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a XLAM mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo convierto EXCEL a XLAM? Con la biblioteca Aspose.Cells for C++, puede convertir fácilmente EXCEL a XLAM mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde EXCEL al XLAM en C++ en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar EXCEL al XLAM en C++" %}}
 
-El siguiente ejemplo muestra cómo convertir EXCEL a XLAM en C++.
+El siguiente ejemplo demuestra cómo convertir EXCEL a XLAM en C++.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir EXCEL a XLAM. Cargue su archivo EXCEL, luego simplemente guárdelo como archivo XLAM. Tanto para la lectura EXCEL como para la escritura XLAM, puede usar nombres de archivo completos. El contenido y el formato de la salida XLAM serán idénticos al documento EXCEL original.
+Siga los sencillos pasos para convertir EXCEL a XLAM. Cargue su archivo EXCEL y luego simplemente guárdelo como archivo XLAM. Tanto para lectura EXCEL como para escritura XLAM, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLAM serán idénticos al documento EXCEL original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir EXCEL a XLAM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlam" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Código de muestra para convertir EXCEL a XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlam" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a XLAM a través de C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos EXCEL a XLAM mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a XLAM con solo unas pocas líneas de código.
+¿Necesita convertir archivos EXCEL a XLAM mediante programación? Los desarrolladores de C++ pueden convertir fácilmente EXCEL a XLAM en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for C++'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto C++.
-1.  Cargue el archivo EXCEL usando Factory::CreateIWorkbook.
+1.  Cargue el archivo EXCEL usando el libro de trabajo.
 1.  Convierta EXCEL a XLAM llamando al método Save().
 1.  Obtenga el resultado de la conversión de EXCEL a XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para convertir EXCEL a XLAM" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para convertir EXCEL a XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,18 +73,18 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
 {{% blocks/products/pf/agp/text %}}
 
- Antes de ejecutar el código de ejemplo de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
+ Antes de ejecutar el código de muestra de conversión C++, asegúrese de cumplir los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM es un archivo de complemento habilitado para macros que se utiliza para agregar nuevas funciones a las hojas de cálculo. Un complemento es un programa complementario que ejecuta código adicional y proporciona funcionalidad adicional para hojas de cálculo. Los archivos XLAM se almacenan con la extensión .xlam. Los archivos XLAM son archivos basados en XML similares a los formatos de archivo XLSM y XLSX y se guardan con compresión ZIP para reducir el tamaño total del archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,19 +101,18 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsb/" name="EXCEL AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsm/" name="EXCEL AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlsx/" name="EXCEL AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xlt/" name="EXCEL AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltx/" name="EXCEL AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xml/" name="EXCEL A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xps/" name="EXCEL AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL AL JSON" description="Notación de objetos JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-jpeg/" name="EXCEL AL JPEG" description="JPEG Imagen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

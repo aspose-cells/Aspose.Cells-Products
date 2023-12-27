@@ -1,7 +1,7 @@
 ---
-title: Python OTS a SQL - Conversor en línea de OTS a SQL
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir OTS a formato de guardado SQL. Python OTS a formato SQL. Guarde OTS en SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to SQL saveformat., Free Online OTS to SQL Python., Python Convert OTS to SQL]
+title: Python OTS a SQL - Convertidor de OTS a SQL
+description: Aspose Excel. Convierta OTS a SQL rápida y fácilmente con Aspose.Cells. Python OTS a SQL. Python Guardar OTS en SQL. Guarde OTS como SQL usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to SQL in Python., Save OTS to SQL using Python., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir OTS a SQL en Python" h2="Biblioteca Python de alta velocidad para convertir OTS a SQL. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Convertir OTS a SQL en Python" %}}
 
- ¿Cómo convierto OTS a SQL? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente OTS a SQL mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto OTS a SQL? Con la biblioteca Aspose.Cells for Python a través de NET, puede convertir fácilmente OTS a SQL mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde OTS a SQL en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde OTS en SQL en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir OTS a SQL en Python via NET.
+El siguiente ejemplo demuestra cómo convertir OTS a SQL en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir OTS a SQL. Cargue su archivo OTS, luego simplemente guárdelo como archivo SQL. Tanto para la lectura de OTS como para la escritura de SQL, puede usar nombres de archivo completos. El contenido y el formato SQL de salida serán idénticos al documento OTS original.
+Siga los sencillos pasos para convertir OTS a SQL. Cargue su archivo OTS y luego simplemente guárdelo como archivo SQL. Tanto para la lectura OTS como para la escritura SQL, puede utilizar nombres de archivo completos. El contenido y el formato del SQL de salida serán idénticos al documento OTS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir OTS a SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos OTS a SQL mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a SQL con solo unas pocas líneas de código.
+¿Necesita convertir archivos OTS a SQL mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a SQL en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir OTS a SQL. Cargue su archivo OTS, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir OTS a SQL" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir OTS a SQL" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo de OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen application/vnd.oasis.opendocument.spreadsheet-template de tipo mime. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en formato de archivo ODS. Los archivos OTS se pueden usar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un archivo con extensión .sql es un archivo de lenguaje de consulta estructurado (SQL) que contiene código para trabajar con bases de datos relacionales. Se utiliza para escribir sentencias SQL para operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en bases de datos. Los archivos SQL son comunes cuando se trabaja con bases de datos de escritorio y basadas en la web. Existen varias alternativas a SQL, como Java Lenguaje de consulta persistente (JPQL), LINQ, HTSQL, 4D QL y varias otras. Los editores de consultas de Microsoft SQL Server, MySQL y otros editores de texto sin formato, como el Bloc de notas en el sistema operativo Windows, pueden abrir archivos SQL.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen aplicación de tipo mime/vnd.oasis.opendocument.spreadsheet-template. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en el formato de archivo ODS. Los archivos OTS se pueden utilizar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un archivo con extensión .sql es un archivo de lenguaje de consulta estructurado (SQL) que contiene código para trabajar con bases de datos relacionales. Se utiliza para escribir declaraciones SQL para operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en bases de datos. Los archivos SQL son comunes cuando se trabaja con bases de datos de escritorio y basadas en web. Existen varias alternativas a SQL, como Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL y varias otras. Los archivos SQL se pueden abrir mediante editores de consultas de Microsoft SQL Server, MySQL y otros editores de texto sin formato, como el Bloc de notas en el sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-png/" name="OTS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-svg/" name="OTS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tiff/" name="OTS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-txt/" name="OTS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xls/" name="OTS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsb/" name="OTS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsm/" name="OTS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlt/" name="OTS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

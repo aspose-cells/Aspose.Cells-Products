@@ -1,8 +1,8 @@
 ---
-title: C++ Reparar archivo ods - Reparar archivo ods en línea gratis
+title: "C++ Reparar ods: recuperar y reparar archivos ods dañados"
 url: /es/cpp/recovery/repair-ods/ 
-description: AsposeExcel. C++ Aspose.Cells. C++ Reparación archivo ods. Herramienta gratuita de reparación de ods en línea. Reparar un archivo ods corrupto. Recupere un archivo ods dañado dentro de la aplicación C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: C++ Aspose.Cells. Reparación de ods. Arreglar el archivo ods. herramienta de recuperación de ods. Odds corrupción. Restaurar datos de Ods. recuperación de archivos ods. Recuperar archivos ods corruptos.
+keywords: [C++ Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar archivo ODS en C++" h2="Cree su propia aplicación C++ para reparar archivos ods usando C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods f
 
 {{% blocks/products/pf/agp/content h2="Reparar el archivo ODS usando C++" %}}
 
- ¿Cómo reparo el archivo ods? Con la biblioteca Aspose.Cells for C++, puede reparar fácilmente el archivo ODS mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede usar el siguiente comando desde la Consola del administrador de paquetes.
+ ¿Cómo reparo el archivo ods? Con la biblioteca Aspose.Cells for C++, puede reparar fácilmente el archivo ODS mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -31,28 +31,28 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita reparar el archivo ods mediante programación? Los desarrolladores de C++ pueden cargar y reparar fácilmente el archivo ods con solo unas pocas líneas de código.
+¿Necesita reparar el archivo ods mediante programación? Los desarrolladores de C++ pueden cargar y reparar fácilmente archivos ods con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Definir una clase que herede Aspose.Cells.IWarningCallback.
-+ Cargue el archivo ODS creando una instancia de Workbook, utilizando la clase de herencia anterior, consulte el código anterior.
++ Cargue el archivo ODS creando una instancia de Workbook, usando la clase de herencia anterior, consulte el código anterior.
 + Guarde el libro de trabajo, el archivo ods dañado será reparado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicación gratuita y código de muestra para reparar el archivo ODS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Código de muestra para reparar el archivo ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
-{{% blocks/products/pf/agp/content h2="C++ biblioteca para reparar ODS archivo" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca C++ para reparar el archivo ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se asemeje a sus necesidades y siga las instrucciones paso a paso:
+Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno que se adapte a sus necesidades y siga las instrucciones paso a paso:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  instalar un[NuGet paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Instale la biblioteca usando las carpetas include y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Instalar un[NuGet Paquete](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Instale la biblioteca usando las carpetas Incluir y lib. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Instale Aspose.Cells for C++ en Linux. Ver[Documentación](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
@@ -62,7 +62,7 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
 
  Aspose.Cells for C++ es compatible con todos los principales sistemas operativos. Solo asegúrese de tener los siguientes requisitos previos.
  
-- Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 - Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
 
 
@@ -73,7 +73,7 @@ Hay tres opciones para instalar "Aspose.Cells for C++" en su sistema. Elija uno 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.
+Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -81,13 +81,13 @@ Los archivos con extensión .ods representan el formato de documento de hoja de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Usando C++, uno puede reparar fácilmente otros archivos de formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar otros formatos de Excel compatibles" subTitle="Con C++, se pueden reparar fácilmente otros archivos en formato Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Reparación ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Reparación XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="Reparación XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Reparación XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Reparación XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

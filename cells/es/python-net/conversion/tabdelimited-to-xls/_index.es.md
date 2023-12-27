@@ -1,7 +1,7 @@
 ---
-title: Python TABDELIMITED a XLS - Convertidor en línea TABDELIMITED a XLS
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir TABDELIMITED a XLS guardar formato. Python TABDELIMITED al formato XLS. Guardar TABDELIMITED al XLS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to XLS saveformat., Free Online TABDELIMITED to XLS Python., Python Convert TABDELIMITED to XLS]
+title: Convertidor Python TABDELIMITED a XLS - TABDELIMITED a XLS
+description: Aspose Excel. Convierta TABDELIMITED a XLS rápida y fácilmente con Aspose.Cells. Python TABDELIMITED a XLS. Python Guarde TABDELIMITED a XLS. Guarde TABDELIMITED como XLS usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to XLS in Python., Save TABDELIMITED to XLS using Python., Python TABDELIMITED to XLS saveformat., TABDELIMITED to XLS Converter., Python Save TABDELIMITED as XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir TABDELIMITED a XLS en Python" h2="Biblioteca Python de alta velocidad para convertir TABDELIMITED a XLS. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,47 +12,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/content h2="Convertir TABDELIMITED a XLS en Python" %}}
 
- ¿Cómo convierto TABDELIMITED en XLS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente TABDELIMITED a XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto TABDELIMITED a XLS? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente TABDELIMITED a XLS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde TABDELIMITED a XLS en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde TABDELIMITED en XLS en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir TABDELIMITED a XLS en Python via NET.
+El siguiente ejemplo demuestra cómo convertir TABDELIMITED a XLS en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir TABDELIMITED a XLS. Cargue su archivo TABDELIMITED, luego simplemente guárdelo como archivo XLS. Tanto para la lectura TABDELIMITED como para la escritura XLS, puede usar nombres de archivo completos. El contenido y el formato de la salida XLS serán idénticos al documento TABDELIMITED original.
+Siga los sencillos pasos para convertir TABDELIMITED a XLS. Cargue su archivo TABDELIMITED y luego simplemente guárdelo como archivo XLS. Tanto para la lectura TABDELIMITED como para la escritura XLS, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLS serán idénticos al documento TABDELIMITED original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir TABDELIMITED a XLS en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir TABDELIMITED a XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir TABDELIMITED a XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos TABDELIMITED a XLS mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente TABDELIMITED a XLS con solo unas pocas líneas de código.
+¿Necesita convertir archivos TABDELIMITED a XLS mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente TABDELIMITED a XLS en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
 1.  Cargue el archivo TABDELIMITED con una instancia de Workbook.
-1.  Convierta TABDELIMITED en XLS llamando al método Workbook.save.
+1. Convierta TABDELIMITED a XLS llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de TABDELIMITED a XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir TABDELIMITED a XLS" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir TABDELIMITED a XLS" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato de archivo de valores separados por tabulaciones (TSV) representa datos separados con tabulaciones en formato de texto sin formato. El formato de archivo, similar a CSV, se utiliza para la organización de datos de forma estructurada con el fin de importar y exportar entre diferentes aplicaciones. El formato se utiliza principalmente para importar/exportar e intercambiar datos en aplicaciones y bases de datos de hojas de cálculo. Cada registro en un archivo TSV está contenido en una sola línea de archivo de texto donde cada valor de campo está separado por un carácter de tabulación. El tipo de medio para el formato de archivo TSV es texto/valores separados por tabuladores.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con la extensión XLS representan el formato de archivo binario de Excel. Dichos archivos pueden ser creados por Microsoft Excel, así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato de archivo de valores separados por tabulaciones (TSV) representa datos separados por tabulaciones en formato de texto sin formato. El formato de archivo, similar a CSV, se utiliza para organizar datos de forma estructurada para importar y exportar entre diferentes aplicaciones. El formato se utiliza principalmente para la importación/exportación e intercambio de datos en aplicaciones de hojas de cálculo y bases de datos. Cada registro en un archivo TSV está contenido en una sola línea de archivo de texto donde cada valor de campo está separado por un carácter de tabulación. El tipo de medio para el formato de archivo TSV es texto/valores separados por tabulaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos se pueden crear con Microsoft Excel y con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado con Excel se conoce como Libro de trabajo, donde cada libro puede tener una o más hojas de trabajo. Los datos se almacenan y se muestran a los usuarios en formato de tabla en una hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Aplicaciones como Microsoft Excel le permiten exportar datos del libro a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y varios otros. El formato de archivo XLS fue reemplazado por un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir TABDELIMITED a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-bmp/" name="TABDELIMITADO AL BMP" description="Imagen de mapa de bits" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-emf/" name="TABDELIMITADO AL EMF" description="Formato de metarchivo mejorado" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-gif/" name="TABDELIMITADO AL GIF" description="Formato de intercambio gráfico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="TABDELIMITADO AL HTML" description="Lenguaje de marcado de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-bmp/" name="TABDELIMITADO A BMP" description="Imagen de mapa de bits" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-emf/" name="TABDELIMITADO A EMF" description="Formato de metarchivo mejorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-gif/" name="TABDELIMITADO A GIF" description="Formato de intercambio gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="TABDELIMITADO A HTML" description="Lenguaje de marcado de hipertexto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="TABDELIMITADO A MD" description="Lenguaje de rebajas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-mhtml/" name="TABDELIMITADO AL MHTML" description="Formato de archivo de página web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-ods/" name="TABDELIMITADO AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-pdf/" name="TABDELIMITADO AL PDF" description="Formato de Documento Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-png/" name="TABDELIMITADO AL PNG" description="Gráficos de red portátiles" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-svg/" name="TABDELIMITADO AL SVG" description="gráficas vectoriales escalables" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-tiff/" name="TABDELIMITADO AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-tsv/" name="TABDELIMITADO AL TSV" description="Valores separados por tabuladores" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-txt/" name="TABDELIMITADO AL TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xls/" name="TABDELIMITADO AL XLS" description="Formato binario de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsb/" name="TABDELIMITADO AL XLSB" description="Archivo de libro de Excel binario" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsm/" name="TABDELIMITADO AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsx/" name="TABDELIMITADO AL XLSX" description="Archivo de Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlt/" name="TABDELIMITADO AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xltm/" name="TABDELIMITADO AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xltx/" name="TABDELIMITADO AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-mhtml/" name="TABDELIMITADO A MHTML" description="Formato de archivo de página web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-ods/" name="TABDELIMITADO A ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-pdf/" name="TABDELIMITADO A PDF" description="Formato de Documento Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-png/" name="TABDELIMITADO A PNG" description="Gráficos de red portátiles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-svg/" name="TABDELIMITADO A SVG" description="gráficas vectoriales escalables" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-tiff/" name="TABDELIMITADO A TIFF" description="Formato de imagen etiquetada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-tsv/" name="TABDELIMITADO A TSV" description="Valores separados por tabulaciones" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-txt/" name="TABDELIMITADO A TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xls/" name="TABDELIMITADO A XLS" description="Formato binario de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsb/" name="TABDELIMITADO A XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsm/" name="TABDELIMITADO A XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlsx/" name="TABDELIMITADO A XLSX" description="Archivo Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xlt/" name="TABDELIMITADO A XLT" description="Microsoft Plantilla de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xltm/" name="TABDELIMITADO A XLTM" description="Plantilla habilitada para macros de Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xltx/" name="TABDELIMITADO A XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xml/" name="TABDELIMITADO A XML" description="Lenguaje de marcado extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xps/" name="TABDELIMITADO AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-json/" name="TABDELIMITADO AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-xps/" name="TABDELIMITADO A XPS" description="Especificaciones de papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-json/" name="TABDELIMITADO A JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

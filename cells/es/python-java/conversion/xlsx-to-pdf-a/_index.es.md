@@ -1,6 +1,6 @@
 ---
 title: Convierta XLSX a PDF a través de Python
-description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el código de ejemplo API para la conversión de archivos xlsx por lotes a pdf dentro de la aplicación Python.
+description: Código de muestra para conversión de xlsx a pdf Python. Utilice el código de ejemplo API para convertir archivos xlsx a pdf por lotes dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLSX a PDF a través de Python" h2="Exporte hojas de cálculo de Excel al formato PDF utilizando las API Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,9 +10,9 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLSX a PDF usando Python" %}}
 
- Para convertir XLSX a PDF, usaremos
+Para convertir XLSX a PDF, usaremos
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API que es una plataforma de conversión y manipulación de documentos API for Python rica en funciones, potente y fácil de usar.
+ API, que es una plataforma de manipulación y conversión de documentos API for Python rica en funciones, potente y fácil de usar.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -21,14 +21,14 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
 {{% blocks/products/pf/agp/text %}}
 
- Los desarrolladores de Python pueden cargar y convertir fácilmente archivos XLSX a PDF con solo unas pocas líneas de código.
+ Los desarrolladores de Python pueden cargar y convertir fácilmente archivos XLSX a PDF en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cargue el archivo XLSX con una instancia de Workbook
 1.  Llame al método Workbook.Save
 1.  Pase la ruta de salida con la extensión PDF como parámetro
-1.  Compruebe la ruta especificada para el archivo PDF resultante
+1.  Verifique la ruta especificada para el archivo PDF resultante
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -36,16 +36,16 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux y MacOS), solo asegúrese de que el sistema tenga Java 1.8 o superior,[Python](https://www.python.org/downloads/) 3.5 o superior.
+ Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux y MacOS), solo asegúrese de que el sistema tenga Java 1.8 o superior.[Python](https://www.python.org/downloads/) 3,5 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Instale Java y agréguelo a la variable de entorno PATH, por ejemplo:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use el comando como:<code>$ pip install aspose-cells</code>.
+-  Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use el comando como:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convertir XLSX a PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,49 +57,49 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una biblioteca de programación de hojas de cálculo de Excel capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, representar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+Una biblioteca de programación de hojas de cálculo de Excel capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
+XLSX es un formato bien conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las convenciones de empaquetado abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura y los archivos subyacentes se pueden examinar simplemente descomprimiendo el archivo .xlsx.
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}
-El formato de documento portátil (PDF) es un tipo de documento creado por Adobe en la década de 1990. El propósito de este formato de archivo era introducir un estándar para la representación de documentos y otro material de referencia en un formato que es independiente del software de la aplicación, el hardware y el sistema operativo. El formato de archivo PDF tiene capacidad total para contener información como texto, imágenes, hipervínculos, campos de formulario, medios enriquecidos, firmas digitales, archivos adjuntos, metadatos, características geoespaciales y objetos 3D que pueden convertirse en parte del documento de origen.
+El formato de documento portátil (PDF) es un tipo de documento creado por Adobe en la década de 1990. El propósito de este formato de archivo era introducir un estándar para la representación de documentos y otro material de referencia en un formato que sea independiente del software, hardware y sistema operativo de la aplicación. El formato de archivo PDF tiene capacidad total para contener información como texto, imágenes, hipervínculos, campos de formulario, medios enriquecidos, firmas digitales, archivos adjuntos, metadatos, características geoespaciales y objetos 3D que pueden convertirse en parte del documento fuente.
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLSX en muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XLSX a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-bmp/" name="XLSX AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-emf/" name="XLSX AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-gif/" name="XLSX AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-html/" name="XLSX AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-md/" name="XLSX A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-md/" name="XLSX AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-mhtml/" name="XLSX AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-ods/" name="XLSX AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-pdf/" name="XLSX AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-png/" name="XLSX AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-svg/" name="XLSX AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-tiff/" name="XLSX AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-tsv/" name="XLSX AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-tsv/" name="XLSX AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-txt/" name="XLSX AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xls/" name="XLSX AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsb/" name="XLSX AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsm/" name="XLSX AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsx/" name="XLSX AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsx/" name="XLSX AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlt/" name="XLSX AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltm/" name="XLSX AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltm/" name="XLSX AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltx/" name="XLSX AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xml/" name="XLSX A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xps/" name="XLSX AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-json/" name="XLSX AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-json/" name="XLSX AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

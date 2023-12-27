@@ -1,7 +1,7 @@
 ---
-title: Python PRN a PNG - Convertidor en línea PRN a PNG
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir PRN a PNG guardar formato. Formato Python PRN al PNG. Guardar PRN al PNG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to PNG saveformat., Free Online PRN to PNG Python., Python Convert PRN to PNG]
+title: Python PRN a PNG - Convertidor PRN a PNG
+description: Aspose Excel. Convierta PRN a PNG rápida y fácilmente con Aspose.Cells. Python PRN a PNG. Python Guarde PRN en PNG. Guarde PRN como PNG usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to PNG in Python., Save PRN to PNG using Python., Python PRN to PNG saveformat., PRN to PNG Converter., Python Save PRN as PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PRN a PNG en Python" h2="Biblioteca Python de alta velocidad para convertir PRN a PNG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% blocks/products/pf/agp/content h2="Convertir PRN a PNG en Python" %}}
 
- ¿Cómo convierto PRN a PNG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a PNG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto PRN a PNG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a PNG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde PRN a PNG en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar PRN al PNG en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir PRN a PNG en Python via NET.
+El siguiente ejemplo demuestra cómo convertir PRN a PNG en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir PRN a PNG. Cargue su archivo PRN, luego simplemente guárdelo como archivo PNG. Tanto para la lectura de PRN como para la escritura de PNG, puede utilizar nombres de archivo completos. El contenido y el formato de la salida PNG serán idénticos al documento PRN original.
+Siga los sencillos pasos para convertir PRN a PNG. Cargue su archivo PRN y luego simplemente guárdelo como archivo PNG. Tanto para la lectura de PRN como para la escritura de PNG, puede utilizar nombres de archivo completos. El contenido y el formato de salida PNG serán idénticos al documento PRN original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir PRN a PNG en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PRN a PNG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos PRN a PNG mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a PNG con solo unas pocas líneas de código.
+¿Necesita convertir archivos PRN a PNG mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a PNG en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir PRN a PNG. Cargue su archivo PRN, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir PRN a PNG" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir PRN a PNG" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado con la casilla de verificación Imprimir en archivo que aparece en algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que utiliza una impresora, una máquina de fax u otro dispositivo para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen de trama que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdida que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG se ha convertido en uno de los formatos de archivo de imagen más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado usando la casilla de verificación Imprimir en archivo que aparece dentro de algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que una impresora, máquina de fax u otro dispositivo utiliza para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen rasterizada que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdidas, lo que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG ha evolucionado como uno de los formatos de archivos de imágenes más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-png/" name="PRN AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-svg/" name="PRN AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tiff/" name="PRN AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-txt/" name="PRN AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xls/" name="PRN AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsb/" name="PRN AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsm/" name="PRN AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlt/" name="PRN AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltx/" name="PRN AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xml/" name="PRN A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xps/" name="PRN AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

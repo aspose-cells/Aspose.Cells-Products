@@ -1,19 +1,20 @@
 ---
-title: Аннотации файлов Excel через C++
-description: Добавляйте или удаляйте комментарии к данным электронных таблиц Excel и OpenOffice с библиотекой C++.
+title: Добавьте или удалите аннотации к файлу Excel по номеру C++.
+description: Добавляйте или удаляйте комментарии к данным в таблицах Excel и OpenOffice с помощью библиотеки C++.
+keywords: [C++ Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Управление аннотациями файлов Excel Microsoft<sup>&reg;</sup> по телефону C++" h2="Добавляйте или удаляйте простые примечания для аннотаций или комментариев в приложениях на основе C++." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Управляйте Microsoft<sup>&reg;</sup> аннотациями файлов Excel с помощью C++" h2="Добавляйте или удаляйте простые заметки для аннотаций или комментариев в приложениях на основе C++." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[C++ Excel API](/cells/ru/cpp/) обеспечивает поддержку управления аннотациями на уровне ячеек путем добавления, доступа и удаления комментариев. API предоставляет[IКомментарий](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment) и[ICommentCollection](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection) а также[GetIComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ae7cce5f85b7b25a1e5c58df1b613ca5a)для обработки комментариев во всех аспектах. Поддерживаемые форматы Excel включают ODS, XLS, XLSX, XLSB и XLSM.
+[C++ Эксель API](/cells/ru/cpp/) обеспечивает поддержку управления аннотациями на уровне ячеек путем добавления, доступа и удаления комментариев. API обеспечивает[Комментарий](https://reference.aspose.com/cells/cpp/aspose.cells/comment/) и[КомментарийКоллекция](https://reference.aspose.com/cells/cpp/aspose.cells/commentcollection/) а также[GetComments()](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/getcomments/)для обработки комментариев во всех аспектах. Поддерживаемые форматы Excel: ODS, XLS, XLSX, XLSB и XLSM.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Аннотации к данным в файлах Excel" %}}
- Манипулирование комментариями в рабочих листах. Количество комментариев на листе в MS Excel не ограничено. Можно вставить столько, сколько нужно для приложения. Процесс вставки комментариев, создать[IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) объект класса, чтобы загрузить существующий файл и выбрать рабочий лист, на который вы хотите добавить комментарий. Получите все его комментарии с помощью getComments(). Добавьте комментарий, используя[Добавлять](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection#a3f014415e292fa15c6220e9727dad384) (intrusive_ptr< Aspose::Cells::Systems::String > имя_ячейки). Получите индекс ячейки и используйте[setNote](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment#a791b9d4e9bf3975709a7f93b5db09580) для вставки комментариев. Более того, API способен удалить все комментарии. Немногие из методов[ClearComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ad4e0ea291ae60fc1b5d815e520edc6c3) to Удаляет все комментарии в электронной таблице дизайнера. Более того,[RemoveAt](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#addabcc7d7d76874694018fb3ba37b72c)(intrusive_ptr< Aspose::Cells::Systems::String > name) для удаления элемента по указанному индексу или с указанным именем.
+{{% blocks/products/pf/feature-page-section h2="Аннотации к данным файлов Excel" %}}
+ Манипулирование комментариями в таблицах. Количество комментариев на листе в MS Excel не ограничено. Можно вставить столько, сколько необходимо приложению. Процесс вставки комментариев, создайте[Рабочая тетрадь](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) объект класса, чтобы загрузить существующий файл и выбрать лист, на который вы хотите добавить комментарий. Получите все его комментарии, используя getComments(). Добавьте комментарий, используя[Добавить (const char16_t* имя_ячейки)](https://reference.aspose.com/cells/cpp/aspose.cells/commentcollection/add/) метод. Получите индекс ячейки и используйте[SetNote](https://reference.aspose.com/cells/cpp/aspose.cells/comment/setnote/) для вставки комментариев. Более того, API способен удалять все комментарии. Лишь немногие из методов[ClearComments()](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/clearcomments/) to Очистить все комментарии в таблице дизайнера. Более того,***Удалитьат*** метод для удаления элемента по указанному индексу или с указанным именем.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Код для добавления комментариев в файл Excel" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-excel.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-excel.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 

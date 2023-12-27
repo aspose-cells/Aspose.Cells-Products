@@ -1,7 +1,7 @@
 ---
-title: Python SXC a GIF - En línea SXC a GIF Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir SXC a GIF guardar formato. Formato Python SXC al GIF. Aparta del SXC al GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to GIF saveformat., Free Online SXC to GIF Python., Python Convert SXC to GIF]
+title: Python SXC a GIF - SXC a GIF Convertidor
+description: Aspose Excel. Convierta SXC a GIF rápida y fácilmente con Aspose.Cells. Python SXC a GIF. Python Guarde SXC en GIF. Guarde SXC como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to GIF in Python., Save SXC to GIF using Python., Python SXC to GIF saveformat., SXC to GIF Converter., Python Save SXC as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir SXC a GIF en Python" h2="Biblioteca Python de alta velocidad para convertir SXC a GIF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC
 
 {{% blocks/products/pf/agp/content h2="Convertir SXC a GIF en Python" %}}
 
- ¿Cómo convierto SXC a GIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente SXC a GIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto SXC a GIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente SXC a GIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde SXC a GIF en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar SXC al GIF en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir SXC a GIF en Python via NET.
+El siguiente ejemplo demuestra cómo convertir SXC a GIF en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir SXC a GIF. Cargue su archivo SXC, luego simplemente guárdelo como archivo GIF. Tanto para la lectura SXC como para la escritura GIF, puede utilizar nombres de archivo completos. El contenido y el formato de la salida GIF serán idénticos al documento original SXC.
+Siga los sencillos pasos para convertir SXC a GIF. Cargue su archivo SXC y luego simplemente guárdelo como archivo GIF. Tanto para lectura SXC como para escritura GIF puede utilizar nombres de archivo completos. El contenido y el formato de salida GIF serán idénticos al documento SXC original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir SXC a GIF en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir SXC a GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir SXC a GIF" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir SXC a GIF. Cargue su archivo SXC, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir SXC a GIF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir SXC en GIF" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. El formato SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimida. Propiedad de Unisys, GIF utiliza el algoritmo de compresión LZW que no degrada la calidad de la imagen. Para cada imagen, GIF normalmente permite hasta 8 bits por píxel y hasta 256 colores en la imagen. A diferencia de una imagen JPEG, que puede mostrar hasta 16 millones de colores y toca bastante los límites del ojo humano. Cuando surgió Internet, los GIF seguían siendo la mejor opción porque requerían un ancho de banda bajo y eran compatibles con los gráficos que consumen áreas sólidas de color. Un GIF animado combina numerosas imágenes o marcos en un solo archivo y los muestra en una secuencia para generar un clip animado o un video corto. Las limitaciones de color son de hasta 256 para cada cuadro y es probable que sean las menos adecuadas para reproducir otras imágenes y fotografías con degradado de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de los datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimida. Propiedad de Unisys, GIF utiliza el algoritmo de compresión LZW que no degrada la calidad de la imagen. Para cada imagen, GIF normalmente permite hasta 8 bits por píxel y se permiten hasta 256 colores en la imagen. A diferencia de una imagen JPEG, que puede mostrar hasta 16 millones de colores y roza bastante los límites del ojo humano. Cuando surgió Internet, los GIF seguían siendo la mejor opción porque requerían poco ancho de banda y eran compatibles con los gráficos que consumen áreas sólidas de color. Un GIF animado combina numerosas imágenes o fotogramas en un solo archivo y los muestra en una secuencia para generar un clip animado o un vídeo corto. Las limitaciones de color son de hasta 256 para cada cuadro y probablemente sean las menos adecuadas para reproducir otras imágenes y fotografías con degradado de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir SXC a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir SXC a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-bmp/" name="SXC AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-emf/" name="SXC AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-gif/" name="SXC AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-html/" name="SXC AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-mhtml/" name="SXC AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-ods/" name="SXC AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-pdf/" name="SXC AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-png/" name="SXC AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-svg/" name="SXC AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tiff/" name="SXC AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-txt/" name="SXC AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xls/" name="SXC AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsb/" name="SXC AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsm/" name="SXC AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsx/" name="SXC AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlsx/" name="SXC AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xlt/" name="SXC AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltx/" name="SXC AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xml/" name="SXC A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

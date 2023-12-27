@@ -1,7 +1,7 @@
 ---
-title: Python OTS a XLSB - Convertidor en línea OTS a XLSB
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir OTS a XLSB guardar formato. Formato OTS Python al XLSB. Aparta OTS al XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to XLSB saveformat., Free Online OTS to XLSB Python., Python Convert OTS to XLSB]
+title: Python OTS a XLSB - Convertidor OTS a XLSB
+description: Aspose Excel. Convierta OTS a XLSB rápida y fácilmente con Aspose.Cells. Python OTS a XLSB. Python Guarde OTS en XLSB. Guarde OTS como XLSB usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to XLSB in Python., Save OTS to XLSB using Python., Python OTS to XLSB saveformat., OTS to XLSB Converter., Python Save OTS as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir OTS a XLSB en Python" h2="Biblioteca Python de alta velocidad para convertir OTS a XLSB. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Convertir OTS a XLSB en Python" %}}
 
- ¿Cómo convierto OTS a XLSB? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente OTS a XLSB mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto OTS a XLSB? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente OTS a XLSB mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde OTS a XLSB en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar OTS al XLSB en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir OTS a XLSB en Python via NET.
+El siguiente ejemplo demuestra cómo convertir OTS a XLSB en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir OTS a XLSB. Cargue su archivo OTS, luego simplemente guárdelo como archivo XLSB. Tanto para la lectura OTS como para la escritura XLSB, puede usar nombres de archivo completos. El contenido y el formato de la salida XLSB serán idénticos al documento OTS original.
+Siga los sencillos pasos para convertir OTS a XLSB. Cargue su archivo OTS y luego simplemente guárdelo como archivo XLSB. Tanto para la lectura OTS como para la escritura XLSB, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLSB serán idénticos al documento OTS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir OTS a XLSB en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos OTS a XLSB mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a XLSB con solo unas pocas líneas de código.
+¿Necesita convertir archivos OTS a XLSB mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente OTS a XLSB en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir OTS a XLSB. Cargue su archivo OTS, luego
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir OTS a XLSB" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir OTS a XLSB" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo de OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen application/vnd.oasis.opendocument.spreadsheet-template de tipo mime. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en formato de archivo ODS. Los archivos OTS se pueden usar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}El formato de archivo XLSB especifica el formato de archivo binario de Excel, que es una colección de registros y estructuras que especifican el contenido del libro de Excel. El contenido puede incluir tablas no estructuradas o semiestructuradas de números, texto o números y texto, fórmulas, conexiones de datos externos, gráficos e imágenes. A diferencia de XLSX (que se basa en el formato de archivo Open XML), XLSB representa un archivo de libro de Excel binario. Los archivos XLSB se pueden leer y escribir más rápido, lo que los hace útiles para trabajar con archivos grandes. XLSB rara vez se usa para almacenar libros de trabajo, ya que XLSX (y anteriormente XLS) son los formatos de archivo más comunes seleccionados por el usuario para guardar libros de trabajo. Puede ser abierto por Microsoft Office 2007 y superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen aplicación de tipo mime/vnd.oasis.opendocument.spreadsheet-template. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en el formato de archivo ODS. Los archivos OTS se pueden utilizar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}El formato de archivo XLSB especifica el formato de archivo binario de Excel, que es una colección de registros y estructuras que especifican el contenido del libro de Excel. El contenido puede incluir tablas de números no estructuradas o semiestructuradas, texto o números y texto, fórmulas, conexiones de datos externos, gráficos e imágenes. A diferencia de XLSX (que se basa en el formato de archivo Open XML), XLSB representa un archivo binario de libro de Excel. Los archivos XLSB se pueden leer y escribir más rápido, lo que los hace útiles para trabajar con archivos grandes. XLSB rara vez se usa para almacenar libros de trabajo, ya que XLSX (y anteriormente XLS) son los formatos de archivo seleccionados por el usuario más comunes para guardar libros de trabajo. Se puede abrir mediante Microsoft Office 2007 y superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-png/" name="OTS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-svg/" name="OTS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tiff/" name="OTS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-tsv/" name="OTS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-txt/" name="OTS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xls/" name="OTS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsb/" name="OTS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsm/" name="OTS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlsx/" name="OTS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlt/" name="OTS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

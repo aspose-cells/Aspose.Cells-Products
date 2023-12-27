@@ -1,10 +1,11 @@
 ---
-title:  C++ Программирование электронных таблиц Excel API - Aspose
+title: C++ Программирование электронных таблиц Excel API - Aspose
 weight: 7140
-description: C++ Библиотека Excel для чтения, записи и анализа файлов, включая форматы XLS, XLSX, XLSM и XLSB. Преобразование электронных таблиц в форматы PDF, CSV и другие
+description: Aspose.Cells for C++ библиотека для создания, восстановления, объединения, анализа и преобразования файлов Excel. Конвертируйте Excel в PDF, JSON, XML, TSV и так далее.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API электронных таблиц Excel" h2="Создавайте, читайте, записывайте и анализируйте электронные таблицы без каких-либо Microsoft зависимостей Excel в полнофункциональных C++ приложениях." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API-интерфейсы таблиц Excel" h2="Создавайте, читайте, записывайте и анализируйте электронные таблицы без каких-либо зависимостей Microsoft Excel в полнофункциональных приложениях C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +13,7 @@ description: C++ Библиотека Excel для чтения, записи и
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ является родным C++ API для работы с электронными таблицами. Приложения могут выполнять такие функции, как создание, преобразование и редактирование встроенных и настраиваемых свойств электронных таблиц, тем, стилей и форматирования, проверки данных, условного форматирования, чтения, записи и вычисления формул, группировки строк и столбцов и многое другое, не полагаясь на Office Automation. или Microsoft Excel. API поддерживает наиболее часто используемые форматы электронных таблиц, такие как XLS, XLSX, XLSM и XLSB.
+ Aspose.Cells for C++ — это собственный номер C++ API для манипуляций с электронными таблицами. Приложения могут выполнять такие функции, как создание, преобразование и редактирование встроенных и настраиваемых свойств электронных таблиц, тем, стилей и форматирования, проверки данных, условного форматирования, чтения, написания и расчета формул, группировки строк и столбцов и многое другое, не полагаясь на автоматизацию офиса. или Microsoft Excel. API поддерживает наиболее часто используемые форматы электронных таблиц, такие как XLS, XLSX, XLSM и XLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,16 +38,16 @@ description: C++ Библиотека Excel для чтения, записи и
    </header>
    <ul>
     <li>
- сводная таблица
+ Сводная таблица
     </li>
     <li>
- Столы
+Таблицы
     </li>
     <li>
  Графики
     </li>
     <li>
-Расчет формул
+ Формулы расчета
     </li>
     <li>
  Валидация данных
@@ -61,11 +62,11 @@ description: C++ Библиотека Excel для чтения, записи и
    <header>
     <i class="fa fa-cogs">
     </i>
- Манипуляции
+ Манипуляция
    </header>
    <ul>
     <li>
- Загрузить/сохранить электронные таблицы
+ Загрузить/сохранить таблицы
     </li>
     <li>
  Манипуляция данными
@@ -80,7 +81,7 @@ description: C++ Библиотека Excel для чтения, записи и
  Темы
     </li>
     <li>
- Стили и усилители Форматирование
+ Стили и усилители; Форматирование
     </li>
     <li>
  Гиперссылки
@@ -92,7 +93,7 @@ description: C++ Библиотека Excel для чтения, записи и
  Настройка страницы
     </li>
     <li>
- Чтение, написание формул
+ Чтение, написание формул.
     </li>
     <li>
  Группировка строк &amp; Столбцы
@@ -121,14 +122,14 @@ description: C++ Библиотека Excel для чтения, записи и
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description=" API полностью поддерживает приложения C++ на следующих платформах с[Системные Требования](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость платформы" description=" API полностью поддерживает приложения C++ на следующих платформах с[Системные Требования](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 32 бита
+ Windows 32 бит
    </header>
    <br/>
    <header>
@@ -142,7 +143,7 @@ description: C++ Библиотека Excel для чтения, записи и
    <header>
     <i class="fa fa-cubes">
     </i>
- линукс 64 бит
+ Линукс 64 бит
    </header>
   </div>
   <!--/right-->
@@ -167,7 +168,7 @@ description: C++ Библиотека Excel для чтения, записи и
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description=" Aspose.Cells for C++ поддерживает наиболее часто используемые электронные таблицы[форматы файлов](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description=" Aspose.Cells for C++ поддерживает наиболее часто используемые электронные таблицы.[форматы файлов](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -179,7 +180,7 @@ description: C++ Библиотека Excel для чтения, записи и
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft Эксель:
      </b>
  XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
@@ -219,7 +220,7 @@ description: C++ Библиотека Excel для чтения, записи и
     </li>
     <li>
      <b>
- Фиксированный макет:
+ Фиксированная планировка:
      </b>
      PDF, XPS
     </li>
@@ -227,7 +228,7 @@ description: C++ Библиотека Excel для чтения, записи и
      <b>
  Изображений:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -263,7 +264,7 @@ description: C++ Библиотека Excel для чтения, записи и
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Дополнительные возможности C++ Электронная таблица API
+ Расширенные возможности C++ Электронная таблица API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -274,7 +275,7 @@ description: C++ Библиотека Excel для чтения, записи и
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Нагрузить и усилить сохранять файлы Excel с помощью потоков
+Загрузить и усилить; сохранять файлы Excel с помощью потоков
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,21 +289,21 @@ description: C++ Библиотека Excel для чтения, записи и
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Установите проверку данных, чтобы ограничить ввод
+ Установите проверку данных, чтобы ограничить ввод
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Организуйте данные, группируя строки &amp; столбцы
+ Упорядочивайте данные, группируя строки &amp; столбцы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Управление встроенным &amp; пользовательские свойства
+ Управляйте встроенным &amp; пользовательские свойства
     </p>
    </div>
    <div class="col-lg-4">
@@ -316,49 +317,49 @@ description: C++ Библиотека Excel для чтения, записи и
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать &amp; управлять сводными таблицами
+ Создать &amp; манипулировать сводными таблицами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Изменение внешнего вида книги с помощью тем
+ Измените внешний вид книги с помощью тем
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создание таблиц &amp;amp;amp;amp;amp;amp;amp; список объектов
+ Создание таблиц &amp; список объектов
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Управление объектами рисования
+ Манипулировать объектами рисования
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Применение стилей и форматирования к ячейкам, строкам, столбцам или диапазонам
+ Применяйте стили и форматирование к ячейкам, строкам, столбцам или диапазонам.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Отследить прецеденты &amp; иждивенцы
+ Отследить прецеденты и усилить; Иждивенцы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Читайте, пишите и делайте вычислять сложные формулы
+ Читайте, пишите и amp; вычислять сложные формулы
     </p>
    </div>
    <div class="col-lg-4">
@@ -386,7 +387,7 @@ description: C++ Библиотека Excel для чтения, записи и
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Преобразование диаграммы в формат PDF
+ Преобразовать диаграмму в формат PDF
     </p>
    </div>
    <div class="col-lg-4">
@@ -401,31 +402,31 @@ description: C++ Библиотека Excel для чтения, записи и
  Нулевая зависимость от Microsoft Excel
     </h2>
     <p>
-API Aspose полностью независимы и не связаны, не уполномочены, не спонсируются и не утверждаются Microsoft Corporation. Aspose.Cells for C++ никогда не требует установки Microsoft Office или Microsoft Excel для работы с форматами документов Excel.
+Aspose API полностью независимы и не связаны, не авторизованы, не спонсируются и не одобрены иным образом Microsoft Corporation. Aspose.Cells for C++ никогда не требует установки Microsoft Office или Microsoft Excel на компьютере для работы с форматами документов Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Простой & Надежное преобразование форматов Excel
+ Простой и усилитель; Надежное преобразование форматов Excel
     </h2>
     <p>
- Aspose.Cells for C++ — это мощный набор API-интерфейсов, которые обеспечивают возможность загрузки, редактирования, записи и взаимного преобразования форматов файлов Excel, не беспокоясь о деталях, специфичных для формата. API позволяет конвертировать электронные таблицы из любого поддерживаемого формата в любой другой поддерживаемый формат всего двумя строками кода. Это так просто!
+ Aspose.Cells for C++ — это мощный набор API-интерфейсов, которые обеспечивают возможность загрузки, редактирования, записи и взаимного преобразования форматов файлов Excel, не беспокоясь о деталях формата. API позволяет конвертировать электронные таблицы из любого поддерживаемого формата в любой другой поддерживаемый формат с помощью всего двух строк кода. Это так просто!
     </p>
     <div class="codeblock" id="code">
      <h3>
- Преобразование файлов Excel в различные форматы — C++
+ Конвертируйте файлы Excel в несколько форматов — C++.
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -433,39 +434,39 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  Комплексное форматирование электронных таблиц
     </h2>
     <p>
-Aspose.Cells for C++ дает вам полный контроль над тем, как вы хотите представить свои данные на листе, предлагая расширенные функции форматирования. Вы можете применить форматирование к отдельной строке, столбцу, ячейке или создать диапазон ячеек и применить к нему форматирование. Вы также можете добавить форматированный текст в ячейку, применить границы, установить шаблоны фона или настроить аспекты стиля, связанные со шрифтом.
+Aspose.Cells for C++ дает вам полный контроль над тем, как вы хотите представить свои данные на листе, предлагая расширенные функции форматирования. Вы можете применить форматирование к отдельной строке, столбцу, ячейке или создать диапазон ячеек и применить к нему форматирование. Вы также можете добавить в ячейку форматированный текст, применить границы, установить фоновые узоры или настроить аспекты стиля, связанные со шрифтом.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Визуализируйте данные с помощью диаграмм
+ Визуализация данных с помощью диаграмм
     </h2>
     <p>
- Aspose.Cells for C++ предлагает полный набор API для динамического создания всех стандартных и пользовательских типов диаграмм, поддерживаемых приложением Excel. API также предоставляет возможность обновить источник данных для существующей диаграммы и обновить ее.
+ Aspose.Cells for C++ предлагает полный набор API для динамического создания всех стандартных и пользовательских типов диаграмм, поддерживаемых приложением Excel. API также предоставляет возможность обновить источник данных для существующей диаграммы и обновить его.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Рендеринг рабочих листов как изображений
+ Рендеринг рабочих листов в виде изображений
     </h2>
     <p>
-Библиотека выполняет рендеринг с высочайшей точностью в формате Microsoft Excel, используя собственный механизм рендеринга. Он предлагает отличительные функции, такие как преобразование рабочих листов в изображения в популярных форматах, включая BMP, TIFF, PNG, JPEG &amp; EMF. Гибкий процесс Sheet2Image позволяет выбирать такие параметры, как управление результирующим разрешением изображения.
+Библиотека выполняет рендеринг с высочайшей точностью в формате Microsoft Excel, используя собственный механизм рендеринга. Он предлагает такие отличительные функции, как преобразование рабочих листов в изображения в популярных форматах, включая BMP, PNG, JPEG и amp; EMF. Процесс Sheet2Image является гибким, что позволяет выбирать такие параметры, как управление разрешением результирующего изображения.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Управление столбцами и строками
+ Манипулирование столбцами и строками
     </h2>
     <p>
- Aspose.Cells for C++ предлагает несколько способов управления строками и столбцами. Отрегулировать высоту строки и ширину столбца или автоматически изменить размер ячейки в соответствии с ее содержимым — слишком просто. API также предлагает средства для удаления и вставки, скрытия или отображения, а также группировки или разгруппировки строк и столбцов.
+ Aspose.Cells for C++ предлагает манипулирование строками и столбцами несколькими способами. Отрегулировать высоту строки и ширину столбца или автоматически изменить размеры ячейки в соответствии с ее содержимым — слишком просто. API также предлагает средства для удаления и вставки, скрытия или отображения, а также группировки или разгруппировки строк и столбцов.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Точное преобразование электронных таблиц в PDF
+ Точно конвертируйте электронные таблицы в PDF
     </h2>
     <p>
-Библиотека Excel C++ предоставляет возможность конвертировать электронные таблицы в формат PDF, сохраняя при этом то же качество, что и исходный документ. Этот факт делает Aspose.Cells for C++ идеальным выбором для организаций, которым требуется обмениваться документами в стандартных отраслевых форматах, таких как PDF.
+Библиотека Excel C++ предоставляет возможность конвертировать электронные таблицы в формат PDF, сохраняя при этом то же качество, что и исходный документ. Этот факт делает номер Aspose.Cells for C++ идеальным выбором для организаций, которым требуется обмен документами в стандартных отраслевых форматах, таких как PDF.
     </p>
    </div>
    <!-- 
@@ -501,8 +502,8 @@ Aspose.Cells for C++ дает вам полный контроль над тем
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API Ссылки" href="https://reference.aspose.com/cpp/cells" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Рекомендации" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="Обучающие видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
@@ -521,7 +522,7 @@ Aspose.Cells for C++ дает вам полный контроль над тем
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells предлагает отдельные API-интерфейсы Excel для других популярных сред разработки, перечисленных ниже:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells предлагает отдельные API Excel для других популярных сред разработки, перечисленных ниже:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

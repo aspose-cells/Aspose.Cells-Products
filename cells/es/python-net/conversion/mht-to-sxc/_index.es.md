@@ -1,7 +1,7 @@
 ---
-title: Python MHT a SXC - Convertidor en línea MHT a SXC
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir MHT a SXC guardar formato. Python MHT a SXC formato. Guardar MHT al SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to SXC saveformat., Free Online MHT to SXC Python., Python Convert MHT to SXC]
+title: Python MHT a SXC - Convertidor de MHT a SXC
+description: Aspose Excel. Convierta MHT a SXC rápida y fácilmente con Aspose.Cells. Python MHT a SXC. Python Guarde MHT en SXC. Guarde MHT como SXC usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to SXC in Python., Save MHT to SXC using Python., Python MHT to SXC saveformat., MHT to SXC Converter., Python Save MHT as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHT a SXC en Python" h2="Biblioteca Python de alta velocidad para convertir MHT a SXC. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Convertir MHT a SXC en Python" %}}
 
- ¿Cómo convierto MHT a SXC? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a SXC mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto MHT a SXC? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a SXC mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde MHT al SXC en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde MHT en SXC en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir MHT a SXC en Python via NET.
+El siguiente ejemplo demuestra cómo convertir MHT a SXC en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir MHT a SXC. Cargue su archivo MHT, luego simplemente guárdelo como archivo SXC. Tanto para la lectura MHT como para la escritura SXC, puede usar nombres de archivo completos. El contenido y el formato de la salida SXC serán idénticos al documento MHT original.
+Siga los sencillos pasos para convertir MHT a SXC. Cargue su archivo MHT y luego simplemente guárdelo como archivo SXC. Tanto para la lectura MHT como para la escritura SXC, puede utilizar nombres de archivo completos. El contenido y el formato de salida SXC serán idénticos al documento MHT original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir MHT a SXC en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a SXC" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos MHT a SXC mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a SXC con solo unas pocas líneas de código.
+¿Necesita convertir archivos MHT a SXC mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a SXC en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir MHT a SXC. Cargue su archivo MHT, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir MHT a SXC" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir MHT a SXC" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con la extensión .mht es un formato de archivo de archivo habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilo de página en forma de archivos CSS, JavaScript y otros recursos como recursos incrustados en él. Los archivos MHT, que tienen un mensaje de tipo MIME/rfc822, encapsulan todo el contenido de un archivo HTML como un archivo único para almacenar en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT mediante la exportación como archivo MHT. Los archivos MHT se pueden abrir con navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. El formato SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con extensión .mht es un formato de archivo de almacenamiento habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilos de página en forma de archivos CSS, JavaScript y otros recursos como recursos integrados. Los archivos MHT, que tienen tipo MIME message/rfc822, encapsulan todo el contenido de un archivo HTML como un único archivo para almacenarlo en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT exportándolos como archivos MHT. Los archivos MHT se pueden abrir utilizando navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de los datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-png/" name="MHT AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-svg/" name="MHT AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xml/" name="MHT A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xps/" name="MHT AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

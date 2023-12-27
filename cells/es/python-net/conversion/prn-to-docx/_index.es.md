@@ -1,7 +1,7 @@
 ---
-title: Python PRN a DOCX - Convertidor en línea PRN a DOCX
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir PRN a DOCX guardar formato. Formato Python PRN al DOCX. Guardar PRN al DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to DOCX saveformat., Free Online PRN to DOCX Python., Python Convert PRN to DOCX]
+title: Python PRN a DOCX - Convertidor PRN a DOCX
+description: Aspose Excel. Convierta PRN a DOCX rápida y fácilmente con Aspose.Cells. Python PRN a DOCX. Python Guarde PRN en DOCX. Guarde PRN como DOCX usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to DOCX in Python., Save PRN to DOCX using Python., Python PRN to DOCX saveformat., PRN to DOCX Converter., Python Save PRN as DOCX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PRN a DOCX en Python" h2="Biblioteca Python de alta velocidad para convertir PRN a DOCX. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% blocks/products/pf/agp/content h2="Convertir PRN a DOCX en Python" %}}
 
- ¿Cómo convierto PRN a DOCX? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a DOCX mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto PRN a DOCX? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente PRN a DOCX mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde PRN a DOCX en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar PRN al DOCX en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir PRN a DOCX en Python via NET.
+El siguiente ejemplo demuestra cómo convertir PRN a DOCX en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir PRN a DOCX. Cargue su archivo PRN, luego simplemente guárdelo como archivo DOCX. Tanto para la lectura de PRN como para la escritura de DOCX, puede utilizar nombres de archivo completos. El contenido y el formato de la salida DOCX serán idénticos al documento PRN original.
+Siga los sencillos pasos para convertir PRN a DOCX. Cargue su archivo PRN y luego simplemente guárdelo como archivo DOCX. Tanto para la lectura de PRN como para la escritura de DOCX, puede utilizar nombres de archivo completos. El contenido y el formato de salida DOCX serán idénticos al documento PRN original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir PRN a DOCX en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PRN a DOCX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos PRN a DOCX mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a DOCX con solo unas pocas líneas de código.
+¿Necesita convertir archivos PRN a DOCX mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente PRN a DOCX en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir PRN a DOCX. Cargue su archivo PRN, luego
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir PRN a DOCX" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir PRN a DOCX" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado con la casilla de verificación Imprimir en archivo que aparece en algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que utiliza una impresora, una máquina de fax u otro dispositivo para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX es un formato conocido para Microsoft documentos de Word. Introducido a partir de 2007 con el lanzamiento de Microsoft Office 2007, la estructura de este nuevo formato de documento se cambió de binario simple a una combinación de XML y archivos binarios. Los archivos Docx se pueden abrir con Word 2007 y versiones laterales, pero no con las versiones anteriores de MS Word que admiten extensiones de archivo DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un archivo PRN es un archivo creado usando la casilla de verificación Imprimir en archivo que aparece dentro de algunos cuadros de diálogo Imprimir en Windows. Contiene un conjunto de instrucciones específicas del dispositivo que una impresora, máquina de fax u otro dispositivo utiliza para imprimir un documento. Los archivos PRN pueden contener texto o contenido binario, según el dispositivo para el que se creó el archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX es un formato conocido para Microsoft documentos de Word. Introducido en 2007 con el lanzamiento de Microsoft Office 2007, la estructura de este nuevo formato de documento se cambió de binario simple a una combinación de archivos XML y binarios. Los archivos Docx se pueden abrir con Word 2007 y versiones laterales, pero no con las versiones anteriores de MS Word que admiten extensiones de archivo DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-png/" name="PRN AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-svg/" name="PRN AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tiff/" name="PRN AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-txt/" name="PRN AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xls/" name="PRN AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsb/" name="PRN AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsm/" name="PRN AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xlt/" name="PRN AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xltx/" name="PRN AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xml/" name="PRN A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-xps/" name="PRN AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-json/" name="PRN AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

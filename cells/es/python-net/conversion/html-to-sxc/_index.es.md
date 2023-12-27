@@ -1,7 +1,7 @@
 ---
-title: Python HTML a SXC - En línea HTML a SXC Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir HTML a SXC guardar formato. Formato Python HTML al SXC. Aparta del HTML al SXC Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SXC saveformat., Free Online HTML to SXC Python., Python Convert HTML to SXC]
+title: Python HTML a SXC - HTML a SXC Convertidor
+description: Aspose Excel. Convierta HTML a SXC rápida y fácilmente con Aspose.Cells. Python HTML a SXC. Python Guarde HTML en SXC. Guarde HTML como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to SXC in Python., Save HTML to SXC using Python., Python HTML to SXC saveformat., HTML to SXC Converter., Python Save HTML as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir HTML a SXC en Python" h2="Biblioteca Python de alta velocidad para convertir HTML a SXC. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Convertir HTML a SXC en Python" %}}
 
- ¿Cómo convierto HTML a SXC? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente HTML a SXC mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto HTML a SXC? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente HTML a SXC mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde HTML a SXC en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar HTML al SXC en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir HTML a SXC en Python via NET.
+El siguiente ejemplo demuestra cómo convertir HTML a SXC en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir HTML a SXC. Cargue su archivo HTML, luego simplemente guárdelo como archivo SXC. Tanto para la lectura HTML como para la escritura SXC, puede utilizar nombres de archivo completos. El contenido y el formato de la salida SXC serán idénticos al documento original HTML.
+Siga los sencillos pasos para convertir HTML a SXC. Cargue su archivo HTML y luego simplemente guárdelo como archivo SXC. Tanto para lectura HTML como para escritura SXC puede utilizar nombres de archivo completos. El contenido y el formato de salida SXC serán idénticos al documento HTML original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir HTML a SXC en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir HTML a SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir HTML a SXC" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir HTML a SXC. Cargue su archivo HTML, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir HTML a SXC" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir HTML en SXC" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con requisitos de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 que brinda mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML está compuesta por HTML elementos tales como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas y varios otros donde cada etiqueta tiene inicio y final. También puede incrustar aplicaciones escritas en lenguajes de secuencias de comandos como JavaScript y hojas de estilo (CSS) para la representación general del diseño.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. El formato SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Lenguaje de marcado de hipertexto) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con la exigencia de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 y ofrece mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML está compuesta por HTML elementos como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas y varios otros donde cada etiqueta tiene inicio y fin. También puede incorporar aplicaciones escritas en lenguajes de programación como JavaScript y hojas de estilo (CSS) para una representación general del diseño.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}El formato de archivo SXC (Sun XML Calc) pertenece a una suite ofimática llamada OpenOffice.org. Este formato generalmente se ocupa de las necesidades de hojas de cálculo de los usuarios, ya que es un formato de archivo de hoja de cálculo basado en XML. SXC admite fórmulas, funciones, macros y gráficos junto con DataPilot, que es una característica increíble porque individualiza automáticamente y proporciona resúmenes de los datos importados sin procesar. Los archivos creados con este software se guardan con la extensión .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir HTML a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir HTML a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-bmp/" name="HTML AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-emf/" name="HTML AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-gif/" name="HTML AL GIF" description="Formato de intercambio gráfico" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-md/" name="HTML A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-md/" name="HTML AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-mhtml/" name="HTML AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-ods/" name="HTML AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-pdf/" name="HTML AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-png/" name="HTML AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-svg/" name="HTML AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tiff/" name="HTML AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tsv/" name="HTML AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tsv/" name="HTML AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-txt/" name="HTML AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xls/" name="HTML AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsb/" name="HTML AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsm/" name="HTML AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsx/" name="HTML AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsx/" name="HTML AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlt/" name="HTML AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltm/" name="HTML AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltm/" name="HTML AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltx/" name="HTML AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xml/" name="HTML A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xps/" name="HTML AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-json/" name="HTML AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-json/" name="HTML AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

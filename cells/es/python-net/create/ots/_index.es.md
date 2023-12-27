@@ -1,7 +1,7 @@
 ---
 title: Crear OTS - Crear archivo OTS en Python
-description: AsposeExcel. Python Crear archivo OTS. Crear OTS Python. Python Creador OTS. Crear OTS en Python. Generar archivo OTS usando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS Creater., Create OTS file in Python., Generate OTS file in Python]
+description:  Aspose Excel. Python Cree un archivo OTS rápida y fácilmente con Aspose.Cells. Genere un archivo OTS usando Python. Cree OTS en Python. Python OTS Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Create OTS file using Python., Write data to OTS file via Python., Create a OTS file in Python., Python Generate a OTS file., Python OTS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo OTS en Python" h2="Biblioteca Python de alta velocidad para crear archivos OTS. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/content h2="Crear archivo OTS usando Python" %}}
 
- ¿Cómo crear un archivo OTS? Con Aspose.Cells for Python a través de la biblioteca NET, puede crear fácilmente un archivo OTS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo crear un archivo OTS? Con la biblioteca Aspose.Cells for Python a través de NET, puede crear fácilmente un archivo OTS mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,14 +21,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos OTS al ejecutar diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos OTS ejecutando diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crear instancia de clase de libro de trabajo.
-1.  Acceda a la primera hoja de trabajo del libro.
-1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo e ingrese el valor en la(s) celda(s).
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo OTS.
+1.  Crear una instancia de clase de libro de trabajo.
+1.  Acceda a la primera hoja de trabajo del libro de trabajo.
+1.  Obtenga las celdas deseadas de la hoja de trabajo e ingrese el valor en las celdas.
+1.  Utilice el método Guardar para guardar el libro como archivo OTS.
 
 {{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear un archivo OTS en Python." offSpacer="" %}}
 
@@ -57,12 +57,12 @@ workbook.save("output.ots")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivo OTS" %}}
+{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivos OTS" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,19 +82,19 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo de OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen application/vnd.oasis.opendocument.spreadsheet-template de tipo mime. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en formato de archivo ODS. Los archivos OTS se pueden usar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un archivo con extensión .ots es un archivo de plantilla de hoja de cálculo OpenDocument que se crea con el software de aplicación Calc incluido en Apache OpenOffice. El software de aplicación Calc es similar a Excel disponible en Microsoft Office. El formato de archivo OTS se utiliza para crear plantillas que contienen configuraciones predefinidas relacionadas con estilos, fuentes, datos, diseño de hojas de cálculo y formato. Los archivos OTF tienen aplicación de tipo mime/vnd.oasis.opendocument.spreadsheet-template. Estos archivos de plantilla se pueden utilizar como punto de partida para generar y guardar archivos de datos reales que se guardan en el formato de archivo ODS. Los archivos OTS se pueden utilizar con aplicaciones como OpenOffice y LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Hoja de cálculo de Excel (heredada)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Libro de trabajo XML abierto" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Abrir libro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Libro binario de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Hoja de cálculo habilitada para macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Plantilla 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Plantilla Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Plantilla de Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla de Excel habilitada para macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla habilitada para macros de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valores Separados por Comas" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valores separados por tabulaciones" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Hoja de cálculo de OpenDocument" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python CSV a WORD - Convertidor en línea CSV a WORD
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convierta CSV a WORD saveformat. Python CSV en formato WORD. Guardar CSV a WORD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to WORD saveformat., Free Online CSV to WORD Python., Python Convert CSV to WORD]
+title: Python CSV a WORD - CSV a WORD Convertidor
+description: Aspose Excel. Convierta CSV a WORD rápida y fácilmente con Aspose.Cells. Python CSV a WORD. Python Guarde CSV en WORD. Guarde CSV como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to WORD in Python., Save CSV to WORD using Python., Python CSV to WORD saveformat., CSV to WORD Converter., Python Save CSV as WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir CSV a WORD en Python" h2="Biblioteca Python de alta velocidad para convertir CSV a WORD. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% blocks/products/pf/agp/content h2="Convertir CSV a WORD en Python" %}}
 
- ¿Cómo convierto CSV a WORD? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente CSV a WORD mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto CSV a WORD? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente CSV a WORD mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde CSV en WORD en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar CSV al WORD en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir CSV a WORD en Python via NET.
+El siguiente ejemplo demuestra cómo convertir CSV a WORD en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir CSV a WORD. Cargue su archivo CSV, luego simplemente guárdelo como archivo WORD. Tanto para la lectura de CSV como para la escritura de WORD, puede usar nombres de archivo completos. El contenido y el formato de WORD de salida serán idénticos al documento original CSV.
+Siga los sencillos pasos para convertir CSV a WORD. Cargue su archivo CSV y luego simplemente guárdelo como archivo WORD. Tanto para lectura CSV como para escritura WORD puede utilizar nombres de archivo completos. El contenido y el formato de salida WORD serán idénticos al documento CSV original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir CSV a WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir CSV a WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir CSV a WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos CSV a WORD mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente CSV a WORD con solo unas pocas líneas de código.
+¿Necesita convertir archivos CSV a WORD mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente CSV a WORD en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir CSV a WORD. Cargue su archivo CSV, luego
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir CSV a WORD" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir CSV en WORD" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Los archivos con la extensión .csv (valores separados por comas) representan archivos de texto sin formato que contienen registros de datos con valores separados por comas. Cada línea en un archivo CSV es un nuevo registro del conjunto de registros contenidos en el archivo. Dichos archivos se generan cuando se pretende transferir datos de un sistema de almacenamiento a otro. Dado que todas las aplicaciones pueden reconocer registros separados por comas, la importación de dichos archivos de datos a la base de datos se realiza de manera muy conveniente. Casi todas las aplicaciones de hojas de cálculo como Microsoft Excel u OpenOffice Calc pueden importar CSV sin mucho esfuerzo. Los datos importados de dichos archivos se organizan en celdas de una hoja de cálculo para su representación al usuario.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX es un formato conocido para Microsoft documentos de Word. Introducido a partir de 2007 con el lanzamiento de Microsoft Office 2007, la estructura de este nuevo formato de documento se cambió de binario simple a una combinación de XML y archivos binarios. Los archivos Docx se pueden abrir con Word 2007 y versiones laterales, pero no con las versiones anteriores de MS Word que admiten extensiones de archivo DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Los archivos con extensión .csv (valores separados por comas) representan archivos de texto sin formato que contienen registros de datos con valores separados por comas. Cada línea de un archivo CSV es un registro nuevo del conjunto de registros contenidos en el archivo. Estos archivos se generan cuando se pretende transferir datos de un sistema de almacenamiento a otro. Dado que todas las aplicaciones pueden reconocer registros separados por comas, la importación de dichos archivos de datos a la base de datos se realiza de manera muy conveniente. Casi todas las aplicaciones de hojas de cálculo, como Microsoft Excel u OpenOffice Calc, pueden importar CSV sin mucho esfuerzo. Los datos importados de dichos archivos se organizan en celdas de una hoja de cálculo para representarlos al usuario.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX es un formato conocido para Microsoft documentos de Word. Introducido en 2007 con el lanzamiento de Microsoft Office 2007, la estructura de este nuevo formato de documento se cambió de binario simple a una combinación de archivos XML y binarios. Los archivos Docx se pueden abrir con Word 2007 y versiones laterales, pero no con las versiones anteriores de MS Word que admiten extensiones de archivo DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir CSV a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir CSV a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-bmp/" name="CSV AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-emf/" name="CSV AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-gif/" name="CSV AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-html/" name="CSV AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-md/" name="CSV A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-md/" name="CSV AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-mhtml/" name="CSV AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-ods/" name="CSV AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-pdf/" name="CSV AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-png/" name="CSV AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-svg/" name="CSV AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-tiff/" name="CSV AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-tsv/" name="CSV AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-tsv/" name="CSV AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-txt/" name="CSV AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xls/" name="CSV AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlsb/" name="CSV AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlsm/" name="CSV AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlsx/" name="CSV AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlsx/" name="CSV AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlt/" name="CSV AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltm/" name="CSV AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltm/" name="CSV AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltx/" name="CSV AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xml/" name="CSV A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xps/" name="CSV AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-json/" name="CSV AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-json/" name="CSV AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

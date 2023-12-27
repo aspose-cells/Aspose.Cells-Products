@@ -15,35 +15,35 @@ url: /ru/tutorial/add-shapes-in-excel
 </p>
 
 <p>
- Начнем с создания новой книги с помощью<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells библиотека</a> и добавить формы.
+ Начнем с создания новой книги с помощью<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells библиотека</a> и добавьте фигуры.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
 //ExSummary: проверьте следующий код, чтобы узнать, как добавлять фигуры.
-//ExStepSummary:0: Следующий код показывает, как добавить форму прямоугольника.
+//ExStepSummary:0: следующий код показывает, как добавить прямоугольную форму.
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: Следующий код показывает, как добавить форму линии.
+//ExStepSummary:1: следующий код показывает, как добавить форму линии.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: Следующий код показывает, как добавить овальную форму.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExStep:0-
 используя Aspose.Cells;
-с использованием Aspose.Cells.Чертеж;
+используя Aspose.Cells.Рисование;
 
 
 
 
 
 Рабочая книга рабочая книга = новая рабочая книга();
-Рабочий лист = рабочая книга. Рабочие листы [0];
+Лист листа = workbook.Worksheets[0];
 лист.PageSetup.PrintGridlines = true;
 лист.PageSetup.PrintArea = "A1:F20";
 
-Формы ShapeCollection = sheet.Shapes;
+ShapeCollection shape = лист.Shapes;
 
-//Добавляем прямоугольную форму
+//Добавляем прямоугольник
 shape.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStep:1-
@@ -51,7 +51,7 @@ shape.AddRectangle(1, 0, 1, 0, 100, 150);
 shape.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
-//Добавляем овал
+//Добавляем овальную форму
 shape.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-

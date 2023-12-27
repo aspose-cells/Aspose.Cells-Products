@@ -1,10 +1,10 @@
 ---
-title: Hoja de cálculo de Android Excel API - Aspose
+title: Hoja de cálculo de Excel de Android API - Aspose
 weight: 6510
-description: Biblioteca de hojas de cálculo de Android para crear archivos de Excel de lectura, escritura y análisis. Una hoja de cálculo API para el desarrollo de aplicaciones móviles
+description: Biblioteca de hojas de cálculo de Android para crear archivos de Excel de lectura, escritura y análisis. Una hoja de cálculo API para el desarrollo de aplicaciones móviles.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de Android para manipular hojas de cálculo de Excel" h2="Cree, lea, escriba o manipule archivos de Excel dentro de las aplicaciones de Android sin dependencias." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de Android para manipular hojas de cálculo de Excel" h2="Cree, lea, escriba o manipule archivos de Excel dentro de aplicaciones de Android sin dependencias." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java es un API escalable para generar, combinar, modificar y analizar hojas de cálculo mediante programación. API ofrece muchas funciones, incluido el formateo de documentos de Excel y tareas de configuración de página, capacidades de importación y exportación, renderización de páginas de hojas de trabajo en imágenes rasterizadas, así como la especificación de la resolución, la calidad, la compresión de la imagen, la adición de diferentes gráficos y mucho más. La hoja de cálculo de Android API admite XLS, XLSX, CSV, SpreadsheetML, ODS, delimitado por tabulaciones, HTML, PDF, XPS y más formatos.
+ Aspose.Cells for Android via Java es un API escalable para generar, combinar, modificar y analizar hojas de cálculo mediante programación. API ofrece muchas funciones que incluyen formato de documentos de Excel y tareas de configuración de páginas, capacidades de importación y exportación, renderización de páginas de hojas de trabajo en imágenes rasterizadas, así como especificación de resolución, calidad, compresión de imágenes, adición de diferentes gráficos y mucho más. La hoja de cálculo de Android API admite XLS, XLSX, CSV, SpreadsheetML, ODS, delimitado por tabulaciones, HTML, PDF, XPS y más formatos.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,18 +20,18 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="de un vistazo" description="Una descripción general de las capacidades de API." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Una descripción general de las capacidades de API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- Importar y Exportar
+ Importar y actualizar Exportar
    </header>
    <ul>
     <li>
- arreglos
+ matrices
     </li>
     <li>
  Conjunto resultante
@@ -104,7 +104,7 @@ Colecciones
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells for Android via Java está disponible for Android 2.0 o superior." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Cells for Android via Java está disponible for Android 2.0 o superior." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +114,7 @@ Colecciones
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Entorno de tiempo de ejecución de Android
+ Entorno de ejecución de Android
    </header>
    <ul>
     <li>
@@ -144,7 +144,7 @@ Colecciones
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La hoja de cálculo de Android API es compatible con los populares formatos de Excel Microsoft, imágenes y formatos de diseño fijo." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La hoja de cálculo de Android API admite los populares formatos de Excel Microsoft, imágenes y formatos de diseño fijo." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +156,7 @@ Colecciones
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -185,7 +185,7 @@ Colecciones
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Solo salida
+ Sólo salida
    </header>
    <ul>
     <li>
@@ -242,14 +242,14 @@ Colecciones
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
+Aplicar formato a hoja de trabajo, fila, columna, celda y rango
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Exporte e importe datos de ArrayList, Array, Recordset &amp; Conjunto resultante
+ Exporte e importe datos desde ArrayList, Array, Recordset &amp; Conjunto resultante
     </p>
    </div>
    <div class="col-lg-4">
@@ -270,21 +270,21 @@ Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear &amperio; manipular gráficos
+ Crear &amp; manipular gráficos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear &amperio; manipular comentarios
+ Crear &amp; manipular comentarios
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leer, configurar y amp; calcular fórmulas
+ Leer, configurar y actualizar. calcular fórmulas
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +298,14 @@ Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Establecer &amperio; manipular filtros automáticos &amp; saltos de página
+ Establecer y ampliar manipular filtros automáticos y saltos de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leer &amperio; escribir formato condicional
+ Leer y leer escribir formato condicional
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +326,7 @@ Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipular celdas &amp; rangos con nombre
+ Manipular células y rangos nombrados
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Convertir hojas de trabajo &amp; gráficos a imágenes
+ Convierta hojas de trabajo y amp; gráficos a imágenes
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,28 +419,28 @@ Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear &amperio; manipular tablas dinámicas
+ Crear &amp; manipular tablas dinámicas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear &amperio; manipular gráficos personalizados
+ Crear &amp; manipular gráficos personalizados
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rastrear precedentes y dependientes
+ Seguimiento de precedentes y dependientes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crear &amperio; manipular escenarios
+ Crear &amp; manipular escenarios
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,7 +454,7 @@ Potente motor de cálculo de fórmulas
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leer &amperio; escribir TSV, CSV &amp; HTML archivos
+ Leer y leer escriba TSV, CSV &amp; HTML archivos
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,7 +462,7 @@ Potente motor de cálculo de fórmulas
  Conversión de diferentes formatos
     </h2>
     <p>
- La biblioteca Android Excel ofrece conversión de hojas de cálculo a XPS, PDF &amp; HTML formatos manteniendo la máxima fidelidad visual. El proceso de conversión confiable hace que API sea una opción perfecta para las empresas para intercambiar archivos en formatos estándar de la industria.
+ La biblioteca de Excel de Android ofrece conversión de hojas de cálculo a XPS, PDF y PDF. HTML formatos manteniendo la máxima fidelidad visual. El proceso de conversión confiable hace que API sea la opción perfecta para que las empresas intercambien archivos en formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -490,10 +490,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Convierta objetos de hoja de cálculo a diferentes formatos
+ Convertir objetos de hoja de cálculo a diferentes formatos
     </h2>
     <p>
- Aspose.Cells for Android via Java ofrecen algunas características distintivas, como hojas de trabajo para imágenes, gráficos para imágenes &amp; PDF y hojas de cálculo a PDF conversión de formato de documento. El proceso flexible tiene una serie de opciones para la conversión, como volver a muestrear imágenes durante hojas de cálculo a PDF o establecer las dimensiones de la imagen resultante al renderizar hojas de trabajo &amp; gráficos a formatos de imagen.
+ Aspose.Cells for Android via Java ofrecen algunas características distintivas, como hojas de trabajo para imágenes, gráficos para imágenes y gráficos. PDF y hojas de cálculo a conversión de formato de documento PDF. El proceso flexible tiene varias opciones para la conversión, como volver a muestrear imágenes durante las hojas de cálculo a PDF o configurar las dimensiones de la imagen resultante al renderizar hojas de cálculo y editarlas. gráficos a formatos de imagen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -501,7 +501,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 Hoja de cálculo API Motor de cálculo de fórmulas
     </h2>
     <p>
- Las hojas de Android API proporcionan un potente motor de cálculo de fórmulas compatible con las funciones y fórmulas avanzadas y estándar de Microsoft Excel. El motor de cálculo de fórmulas facilita la lectura, la configuración y el cálculo de los resultados de las fórmulas integradas o complementarias de tipo, matriz y estilo de referencia R1C1.
+ Android Sheets API proporciona un potente motor de cálculo de fórmulas que admite las funciones y fórmulas avanzadas y estándar de Excel Microsoft. El motor de cálculo de fórmulas facilita la lectura, configuración y cálculo de los resultados de las fórmulas integradas o complementarias, de matriz y de estilo de referencia R1C1.
     </p>
    </div>
    <!--
@@ -591,7 +591,7 @@ Hoja de cálculo API Motor de cálculo de fórmulas
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se indica a continuación:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se enumeran a continuación:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,7 +1,8 @@
 ---
-title:  Вставить строку в Excel via Java
+title: Вставить строку в Excel via Java
 weight: 30
-description: Вставка объектов с помощью Aspose.Cells' Java API без какого-либо программного обеспечения, такого как Microsoft или Open Office, Adobe PDF и т. д.
+description: Вставляйте объекты с помощью Aspose.Cells' Java API без какого-либо программного обеспечения, такого как Microsoft или Open Office, Adobe PDF и т. д.
+keywords: [Java Aspose.Cells., Java add a Line., Java insert a Line., Java create a Line]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Вставить строку в Excel via Java" h2="Вставьте строку, используя Aspose.Cells\' API без какого-либо программного обеспечения, такого как Microsoft или Open Office, Adobe PDF и т. д." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Вставка объектов с помощью Aspose.Cells' Jav
 
 {{% blocks/products/pf/agp/content h2="Как вставить строку в файл Excel с помощью Java" %}}
 
- Чтобы вставить строку в файл excel, мы будем использовать
+ Чтобы вставить строку в файл Excel, мы будем использовать
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API многофункциональная, мощная и простая в использовании платформа. Вы можете скачать его последнюю версию прямо с
+ API — это многофункциональная, мощная и простая в использовании платформа. API for Java. Вы можете скачать его последнюю версию прямо с
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -56,9 +57,9 @@ description: Вставка объектов с помощью Aspose.Cells' Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-Создание экземпляра объекта Workbook (или-> Загрузить файл XLSX с полным путем.)
-+ Выберите Рабочий лист по его индексу.
- + Используйте[добавить метод](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) чтобы вставить строку в выбранный рабочий лист
++ Создание экземпляра объекта Workbook. (или-> Загрузите файл XLSX с полным путем.)
++ Выберите рабочий лист по его индексу.
+ + Используйте[добавить метод](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) вставить строку в выбранный лист
 + Сохранить книгу в формате XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,16 +68,16 @@ description: Вставка объектов с помощью Aspose.Cells' Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java поддерживает все основные платформы и операционные системы. Пожалуйста, убедитесь, что у вас есть следующие предпосылки.
+ Aspose.Cells for Java поддерживает все основные платформы и операционные системы. Пожалуйста, убедитесь, что у вас есть следующие предварительные условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Вставить линию - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Вставить строку — Java" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertLineIntoWorksheet.java" >}}
 
@@ -89,9 +90,9 @@ description: Вставка объектов с помощью Aspose.Cells' Jav
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="О Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Около Aspose.Cells for Java API" %}}
 
- Aspose.Cells API можно использовать для создания, редактирования, преобразования и рендеринга Microsoft форматов Excel в различные форматы. Кроме того, его можно использовать для комплексных графиков, масштабируемых отчетов и надежных расчетов в программных приложениях. Aspose.Cells является автономным API и не требует никакого программного обеспечения, такого как Microsoft или OpenOffice.
+ Aspose.Cells API можно использовать для создания, редактирования, преобразования и преобразования Microsoft форматов Excel в различные форматы. Более того, его можно использовать для составления комплексных диаграмм, масштабируемых отчетов и надежных расчетов в программных приложениях. Aspose.Cells — это автономный номер API, который не требует какого-либо программного обеспечения, такого как Microsoft или OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

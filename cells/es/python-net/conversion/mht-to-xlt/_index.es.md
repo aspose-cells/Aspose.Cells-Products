@@ -1,7 +1,7 @@
 ---
-title: Python MHT a XLT - Convertidor en línea MHT a XLT
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir MHT a XLT guardar formato. Python MHT a XLT formato. Guardar MHT al XLT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to XLT saveformat., Free Online MHT to XLT Python., Python Convert MHT to XLT]
+title: Python MHT a XLT - Convertidor de MHT a XLT
+description: Aspose Excel. Convierta MHT a XLT rápida y fácilmente con Aspose.Cells. Python MHT a XLT. Python Guarde MHT en XLT. Guarde MHT como XLT usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to XLT in Python., Save MHT to XLT using Python., Python MHT to XLT saveformat., MHT to XLT Converter., Python Save MHT as XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHT a XLT en Python" h2="Biblioteca Python de alta velocidad para convertir MHT a XLT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Convertir MHT a XLT en Python" %}}
 
- ¿Cómo convierto MHT a XLT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a XLT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto MHT a XLT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a XLT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde MHT al XLT en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde MHT en XLT en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir MHT a XLT en Python via NET.
+El siguiente ejemplo demuestra cómo convertir MHT a XLT en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir MHT a XLT. Cargue su archivo MHT, luego simplemente guárdelo como archivo XLT. Tanto para la lectura MHT como para la escritura XLT, puede usar nombres de archivo completos. El contenido y el formato de la salida XLT serán idénticos al documento MHT original.
+Siga los sencillos pasos para convertir MHT a XLT. Cargue su archivo MHT y luego simplemente guárdelo como archivo XLT. Tanto para la lectura MHT como para la escritura XLT, puede utilizar nombres de archivo completos. El contenido y el formato de salida XLT serán idénticos al documento MHT original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir MHT a XLT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a XLT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos MHT a XLT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a XLT con solo unas pocas líneas de código.
+¿Necesita convertir archivos MHT a XLT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a XLT en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir MHT a XLT. Cargue su archivo MHT, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir MHT a XLT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir MHT a XLT" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con la extensión .mht es un formato de archivo de archivo habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilo de página en forma de archivos CSS, JavaScript y otros recursos como recursos incrustados en él. Los archivos MHT, que tienen un mensaje de tipo MIME/rfc822, encapsulan todo el contenido de un archivo HTML como un archivo único para almacenar en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT mediante la exportación como archivo MHT. Los archivos MHT se pueden abrir con navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Los archivos con la extensión .xlt son archivos de plantilla creados con Microsoft Excel, que es una aplicación de hoja de cálculo que forma parte del paquete de Office Microsoft. Microsoft Office 97-2003 admitía la creación de nuevos archivos XLT y su apertura. La última versión de Excel todavía es capaz de abrir estos archivos de plantilla de formato antiguo. Dicho archivo de plantilla se usa para crear rápidamente nuevos archivos de Excel con datos y configuraciones predeterminados, como formato de página, tamaño de fuente, márgenes, gráficos, etc., que se pueden guardar como nuevos archivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con extensión .mht es un formato de archivo de almacenamiento habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilos de página en forma de archivos CSS, JavaScript y otros recursos como recursos integrados. Los archivos MHT, que tienen tipo MIME message/rfc822, encapsulan todo el contenido de un archivo HTML como un único archivo para almacenarlo en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT exportándolos como archivos MHT. Los archivos MHT se pueden abrir utilizando navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Los archivos con extensión .xlt son archivos de plantilla creados con Microsoft Excel, que es una aplicación de hoja de cálculo que forma parte de la suite Microsoft Office. Microsoft Office 97-2003 admitía la creación de nuevos archivos XLT y su apertura. La última versión de Excel todavía es capaz de abrir archivos de plantilla de este formato antiguo. Un archivo de plantilla de este tipo se utiliza para crear rápidamente nuevos archivos de Excel con datos y configuraciones predeterminados, como formato de página, tamaño de fuente, márgenes, gráficos, etc., que se pueden guardar como nuevos archivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-png/" name="MHT AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-svg/" name="MHT AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xml/" name="MHT A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xps/" name="MHT AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python JPG в TSV - Онлайн конвертер JPG в TSV
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать JPG в формат сохранения TSV. Python JPG в формате TSV. Сохраните JPG в TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to TSV saveformat., Free Online JPG to TSV Python., Python Convert JPG to TSV]
+title: Python JPG в TSV - Конвертер JPG в TSV
+description: Aspose Эксель. Python Aspose.Cells. JPG в TSV в Python. Python Конвертируйте JPG в TSV, сохраните формат. Формат Python JPG в TSV. Сохраните JPG по номеру TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to TSV in Python., Python JPG to TSV saveformat., JPG to TSV Python., Python Convert JPG to TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертировать JPG в TSV в Python" h2="Высокоскоростная библиотека Python для преобразования JPG в TSV. Это профессиональное программное решение для импорта и экспорта JPG, TSV и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,40 +12,40 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="Конвертируйте JPG в TSV, используя Python" %}}
 
- Как преобразовать JPG в TSV? С библиотекой Aspose.Cells for Python вы можете легко преобразовать JPG в TSV программно с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как мне конвертировать JPG в TSV? С помощью библиотеки Aspose.Cells for Python вы можете легко конвертировать JPG в TSV программно с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохранить JPG в TSV в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните JPG в TSV в Python." %}}
 
 В следующем примере показано, как преобразовать JPG в TSV в Python.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы преобразовать JPG в TSV. Загрузите файл JPG, а затем просто сохраните его как файл TSV. Как для чтения JPG, так и для записи TSV вы можете использовать полные имена файлов. Контент и форматирование вывода TSV будут идентичны исходному документу JPG.
+Следуйте простым шагам, чтобы преобразовать JPG в TSV. Загрузите файл JPG, а затем просто сохраните его как файл TSV. Как для чтения JPG, так и для записи TSV вы можете использовать полные имена файлов. Выходное содержимое и форматирование TSV будут идентичны исходному документу JPG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JPG в TSV онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования JPG в TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как конвертировать JPG в TSV через Python" %}}
+{{% blocks/products/pf/agp/content h2="Как конвертировать JPG в TSV с помощью Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы JPG в TSV? Разработчики Python могут легко загружать и конвертировать JPG в TSV всего за несколько строк кода.
+Нужно программно конвертировать файлы JPG в TSV? Разработчики Python могут легко загружать и конвертировать JPG в TSV всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл JPG с экземпляром Workbook.
+1.  Загрузите файл JPG с экземпляром книги.
 1.  Преобразуйте JPG в TSV, вызвав метод Workbook.save.
-1.  Получите результат преобразования JPG в TSV.
+1.  Получите результат конвертации JPG в TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования JPG в TSV" %}}
+{{% blocks/products/pf/agp/content h2="Библиотека Python для преобразования JPG в TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,47 +63,47 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux и MacOS), просто убедитесь, что в системе установлена Java 1.8 или выше,[Python](https://www.python.org/downloads/) 3,5 или выше.
+ Aspose.Cells for Python via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux и MacOS), просто убедитесь, что в системе установлен Java 1.8 или выше,[Python](https://www.python.org/downloads/) 3,5 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Установите Java и добавьте его в переменную окружения PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
+-  Установите Java и добавьте его в переменную среды PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения пострадает незначительно, если к изображению будет применено сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать JPG во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG ТО BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG ТО EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG ТО GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG ТО HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG В МД" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG ТО MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG ТО ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG ТО PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-png/" name="JPG ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-svg/" name="JPG ТО SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tiff/" name="JPG ТО TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tsv/" name="JPG ТО TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-txt/" name="JPG ТО TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xls/" name="JPG ТО XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsb/" name="JPG ТО XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsm/" name="JPG ТО XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsx/" name="JPG ТО XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlt/" name="JPG ТО XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltm/" name="JPG ТО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltx/" name="JPG ТО XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG К BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG К EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG К GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG К HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG В МД" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG К MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG К ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG К PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-png/" name="JPG К PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-svg/" name="JPG К SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tiff/" name="JPG К TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tsv/" name="JPG К TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-txt/" name="JPG К TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xls/" name="JPG К XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsb/" name="JPG К XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsm/" name="JPG К XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsx/" name="JPG К XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlt/" name="JPG К XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltm/" name="JPG К XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltx/" name="JPG К XLTX" description="Шаблон Excel для Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xml/" name="JPG В XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xps/" name="JPG ТО XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-json/" name="JPG ТО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xps/" name="JPG К XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-json/" name="JPG К JSON" description="Обозначение объектов JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

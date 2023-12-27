@@ -1,7 +1,7 @@
 ---
-title: Python MHT a GIF - Convertidor en línea MHT a GIF
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir MHT a GIF guardar formato. Python MHT a GIF formato. Guardar MHT al GIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to GIF saveformat., Free Online MHT to GIF Python., Python Convert MHT to GIF]
+title: Python MHT a GIF - Convertidor de MHT a GIF
+description: Aspose Excel. Convierta MHT a GIF rápida y fácilmente con Aspose.Cells. Python MHT a GIF. Python Guarde MHT en GIF. Guarde MHT como GIF usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to GIF in Python., Save MHT to GIF using Python., Python MHT to GIF saveformat., MHT to GIF Converter., Python Save MHT as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHT a GIF en Python" h2="Biblioteca Python de alta velocidad para convertir MHT a GIF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,29 +12,29 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Convertir MHT a GIF en Python" %}}
 
- ¿Cómo convierto MHT a GIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a GIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto MHT a GIF? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente MHT a GIF mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde MHT al GIF en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guarde MHT en GIF en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir MHT a GIF en Python via NET.
+El siguiente ejemplo demuestra cómo convertir MHT a GIF en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir MHT a GIF. Cargue su archivo MHT, luego simplemente guárdelo como archivo GIF. Tanto para la lectura MHT como para la escritura GIF, puede usar nombres de archivo completos. El contenido y el formato de la salida GIF serán idénticos al documento MHT original.
+Siga los sencillos pasos para convertir MHT a GIF. Cargue su archivo MHT y luego simplemente guárdelo como archivo GIF. Tanto para la lectura MHT como para la escritura GIF, puede utilizar nombres de archivo completos. El contenido y el formato de salida GIF serán idénticos al documento MHT original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir MHT a GIF en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a GIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos MHT a GIF mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a GIF con solo unas pocas líneas de código.
+¿Necesita convertir archivos MHT a GIF mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente MHT a GIF en tan solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir MHT a GIF. Cargue su archivo MHT, luego 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir MHT a GIF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir MHT a GIF" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,8 +72,8 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con la extensión .mht es un formato de archivo de archivo habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilo de página en forma de archivos CSS, JavaScript y otros recursos como recursos incrustados en él. Los archivos MHT, que tienen un mensaje de tipo MIME/rfc822, encapsulan todo el contenido de un archivo HTML como un archivo único para almacenar en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT mediante la exportación como archivo MHT. Los archivos MHT se pueden abrir con navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimida. Propiedad de Unisys, GIF utiliza el algoritmo de compresión LZW que no degrada la calidad de la imagen. Para cada imagen, GIF normalmente permite hasta 8 bits por píxel y hasta 256 colores en la imagen. A diferencia de una imagen JPEG, que puede mostrar hasta 16 millones de colores y toca bastante los límites del ojo humano. Cuando surgió Internet, los GIF seguían siendo la mejor opción porque requerían un ancho de banda bajo y eran compatibles con los gráficos que consumen áreas sólidas de color. Un GIF animado combina numerosas imágenes o marcos en un solo archivo y los muestra en una secuencia para generar un clip animado o un video corto. Las limitaciones de color son de hasta 256 para cada cuadro y es probable que sean las menos adecuadas para reproducir otras imágenes y fotografías con degradado de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un archivo con extensión .mht es un formato de archivo de almacenamiento habilitado para MIME que contiene diferentes tipos de datos en un solo archivo. Puede almacenar datos como texto, imágenes, estilos de página en forma de archivos CSS, JavaScript y otros recursos como recursos integrados. Los archivos MHT, que tienen tipo MIME message/rfc822, encapsulan todo el contenido de un archivo HTML como un único archivo para almacenarlo en dispositivos de almacenamiento. Las aplicaciones de software como Microsoft Word le permiten convertir sus documentos WORD a MHT exportándolos como archivos MHT. Los archivos MHT se pueden abrir utilizando navegadores populares como Microsoft Internet Explore y Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimida. Propiedad de Unisys, GIF utiliza el algoritmo de compresión LZW que no degrada la calidad de la imagen. Para cada imagen, GIF normalmente permite hasta 8 bits por píxel y se permiten hasta 256 colores en la imagen. A diferencia de una imagen JPEG, que puede mostrar hasta 16 millones de colores y roza bastante los límites del ojo humano. Cuando surgió Internet, los GIF seguían siendo la mejor opción porque requerían poco ancho de banda y eran compatibles con los gráficos que consumen áreas sólidas de color. Un GIF animado combina numerosas imágenes o fotogramas en un solo archivo y los muestra en una secuencia para generar un clip animado o un vídeo corto. Las limitaciones de color son de hasta 256 para cada cuadro y probablemente sean las menos adecuadas para reproducir otras imágenes y fotografías con degradado de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -90,18 +90,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-png/" name="MHT AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-svg/" name="MHT AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xml/" name="MHT A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xps/" name="MHT AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

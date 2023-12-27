@@ -1,8 +1,8 @@
 ---
-title: Объединить TABDELIMITED с XLAM - Объединить TABDELIMITED с XLAM в Python
+title: Объединить TABDELIMITED с XLAM — Объединить TABDELIMITED с XLAM в Python.
 url: /ru/python-java/merger/merge-tabdelimited-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Бесплатное слияние онлайн TABDELIMITED в XLAM в сохраненном формате. Python Объединить TABDELIMITED в формат XLAM. Объединить TABDELIMITED с XLAM в Python. TABDELIMITED Объединить.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Python., Free Online Python Merge TABDELIMITED to xlam., Python Combine TABDELIMITED to XLAM Online for Free., TABDELIMITED Merge]
+description: Aspose Эксель. Python Aspose.Cells. Объединить TABDELIMITED с форматом сохранения XLAM. Python Объедините TABDELIMITED в формат XLAM. Объединить TABDELIMITED с XLAM в Python. TABDELIMITED Объединить.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Python., Python Merge TABDELIMITED to xlam., Python Combine TABDELIMITED to XLAM., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить TABDELIMITED с XLAM через Python" h2="Высокоскоростная библиотека Python для слияния TABDELIMITED с XLAM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,38 +12,38 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Py
 
 {{% blocks/products/pf/agp/content h2="Объединить TABDELIMITED с XLAM, используя Python" %}}
 
- Как объединить TABDELIMITED с XLAM? С помощью библиотеки Aspose.Cells for Python via Java вы можете легко программно объединить TABDELIMITED с XLAM с помощью нескольких строк кода.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете установить Aspose.Cells for Python via Java из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
+ Как объединить TABDELIMITED с XLAM? С помощью библиотеки Aspose.Cells for Python via Java вы можете легко объединить TABDELIMITED с XLAM программно с помощью нескольких строк кода.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете установить Aspose.Cells for Python via Java с<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Объедините TABDELIMITED с XLAM в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Объединить TABDELIMITED с XLAM в Python" %}}
 
 В следующем примере показано, как объединить TABDELIMITED с XLAM в Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
-Выполните простые шаги, чтобы объединить TABDELIMITED с XLAM. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл XLAM. Если вы разрабатываете код в Python, это будет проще, чем кажется. См. пример Python, в котором TABDELIMITED объединяется с XLAM.
+Выполните простые шаги, чтобы объединить TABDELIMITED с номером XLAM. Загрузите файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле XLAM. Если вы разработаете код Python, это будет проще, чем кажется. См. пример Python, в котором TABDELIMITED объединяется с XLAM.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатный онлайн для объединения TABDELIMITED с XLAM в Python" InputFormat="tsv" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Пример кода для объединения TABDELIMITED с XLAM в Python" InputFormat="tsv" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить TABDELIMITED с XLAM через Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Нужно программно объединить TABDELIMITED с XLAM? Базовый документ сливается и объединяется с[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить TABDELIMITED с XLAM? Базовый документ, объединяющийся и конкатенированный с[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API можно создать с помощью всего нескольких строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Установить «Aspose.Cells for Python via Java».
++ Установите «Aspose.Cells for Python via Java».
 + Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
 + Загрузите файл TABDELIMITED с классом Workbook.
-+ Вызвать метод Workbook.Combine для объединения файлов.
++ Вызов метода Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
-+ Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
++ Теперь вы можете открыть и использовать выходной файл в Office Microsoft, Adobe PDF или любой другой совместимой программе.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -67,36 +67,36 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Py
 
 {{% blocks/products/pf/agp/text %}}
 
-Наши API поддерживаются на всех основных платформах и операционных системах. Перед выполнением приведенного ниже кода убедитесь, что в вашей системе выполнены следующие предварительные условия.
+Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Установите Java 1.8 или выше и добавьте его в переменную окружения PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Установите Java 1.8 или выше и добавьте его в переменную среды PATH, например:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Установить[Python](https://www.python.org/downloads/) 3,5 или выше.
-- Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
+-  Установить Aspose.Cells for Python с<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM — это файл надстройки с поддержкой макросов, который используется для добавления новых функций в электронные таблицы. Надстройка — это дополнительная программа, которая запускает дополнительный код и предоставляет дополнительные функции для электронных таблиц. XLAM файлов хранятся с расширением .xlam. Файлы XLAM представляют собой файлы на основе XML, аналогичные форматам файлов XLSM и XLSX, и сохраняются со сжатием ZIP для уменьшения общего размера файла.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM — это файл надстройки с поддержкой макросов, который используется для добавления новых функций в электронные таблицы. Надстройка — это дополнительная программа, которая запускает дополнительный код и предоставляет дополнительные функции для электронных таблиц. Файлы XLAM хранятся с расширением .xlam. Файлы XLAM представляют собой файлы на основе XML, аналогичные форматам файлов XLSM и XLSX, и сохраняются с сжатием ZIP для уменьшения общего размера файла.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Python, можно также объединить разделители табуляции со многими другими форматами файлов, включая." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Python, можно также объединить файлы с разделителями табуляции во многие другие форматы файлов, включая." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-docx/" name="Объединить TABDELIMITED с DOCX" description="Microsoft Документ Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-sql/" name="Объединить TABDELIMITED в SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-sql/" name="Объединить TABDELIMITED с SQL" description="Язык структурированных запросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-bmp/" name="Объединить TABDELIMITED с BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-emf/" name="Объединить TABDELIMITED с EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-gif/" name="Объединить TABDELIMITED с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-gif/" name="Объединить TABDELIMITED с GIF" description="Формат графического обмена" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-html/" name="Объединить TABDELIMITED с HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-md/" name="Объединить TABDELIMITED с MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-mhtml/" name="Объединить TABDELIMITED с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-md/" name="Объединить TABDELIMITED с MD" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-mhtml/" name="Объединить TABDELIMITED с MHTML" description="Формат архива веб-страниц" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-ods/" name="Объединить TABDELIMITED с ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-pdf/" name="Объединить TABDELIMITED с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-pdf/" name="Объединить TABDELIMITED с PDF" description="Портативный формат документов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-png/" name="Объединить TABDELIMITED с PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-svg/" name="Объединить TABDELIMITED с SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-tiff/" name="Объединить TABDELIMITED с TIFF" description="Формат изображения с тегами" >}}
@@ -105,10 +105,10 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Py
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xls/" name="Объединить TABDELIMITED с XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsb/" name="Объединить TABDELIMITED с XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsm/" name="Объединить TABDELIMITED с XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsx/" name="Объединить TABDELIMITED с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsx/" name="Объединить TABDELIMITED с XLSX" description="OOXML-файл Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlt/" name="Объединить TABDELIMITED с XLT" description="Microsoft Шаблон Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltm/" name="Объединить TABDELIMITED с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltx/" name="Объединить TABDELIMITED с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltx/" name="Объединить TABDELIMITED с XLTX" description="Шаблон Excel для Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xml/" name="Объединить TABDELIMITED в XML" description="расширяемый язык разметки" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xps/" name="Объединить TABDELIMITED с XPS" description="Спецификации XML-бумаги" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-json/" name="Объединить TABDELIMITED с JSON" description="Обозначение объектов JavaScript" >}}

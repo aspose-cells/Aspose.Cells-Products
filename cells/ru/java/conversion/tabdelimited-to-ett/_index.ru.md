@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED в ETT - Онлайн-конвертер TABDELIMITED в ETT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Бесплатно онлайн Java Конвертировать TABDELIMITED в формат сохранения ETT. Java TABDELIMITED в формате ETT. Сохраните TABDELIMITED в ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to ETT saveformat., Free Online TABDELIMITED to ETT Java., Java Convert TABDELIMITED to ETT]
+title: Java TABDELIMITED в ETT - Конвертер TABDELIMITED в ETT
+description: Aspose Эксель. Преобразуйте TABDELIMITED в ETT быстро и легко с помощью Aspose.Cells. Java TABDELIMITED в ETT. Java Сохранить TABDELIMITED в ETT. Сохраните TABDELIMITED как ETT, используя Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to ETT in Java., Save TABDELIMITED to ETT using Java., Java TABDELIMITED to ETT saveformat., TABDELIMITED to ETT Converter., Java Save TABDELIMITED as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертировать TABDELIMITED в ETT в Java" h2="Высокоскоростная библиотека Java для преобразования TABDELIMITED в ETT. Это профессиональное программное решение для импорта и экспорта TABDELIMITED, ETT и многих других форматов с использованием Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="Преобразование TABDELIMITED в ETT с помощью Java" %}}
 
- Как конвертировать TABDELIMITED в ETT? С библиотекой Aspose.Cells for Java вы можете легко программно преобразовать TABDELIMITED в ETT с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как мне преобразовать TABDELIMITED в ETT? С помощью библиотеки Aspose.Cells for Java вы можете легко преобразовать TABDELIMITED в ETT программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохраните TABDELIMITED в ETT в Java онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните TABDELIMITED в ETT в Java." %}}
 
 В следующем примере показано, как преобразовать TABDELIMITED в ETT в Java.
 {{% blocks/products/pf/agp/text %}}
 
-Следуйте простым шагам, чтобы конвертировать TABDELIMITED в ETT. Загрузите файл TABDELIMITED, а затем просто сохраните его как файл ETT. Как для чтения с помощью TABDELIMITED, так и для записи ETT вы можете использовать полные имена файлов. Содержимое и форматирование выходного ETT будут идентичны исходному документу TABDELIMITED.
+Следуйте простым шагам, чтобы преобразовать TABDELIMITED в ETT. Загрузите файл TABDELIMITED, а затем просто сохраните его как файл ETT. Как для чтения TABDELIMITED, так и для записи ETT вы можете использовать полные имена файлов. Выходное содержимое и форматирование ETT будут идентичны исходному документу TABDELIMITED.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для конвертации TABDELIMITED в ETT онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Пример кода для преобразования TABDELIMITED в ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать TABDELIMITED в ETT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Нужно программно преобразовать файлы TABDELIMITED в ETT? Java разработчики могут легко преобразовать TABDELIMITED в ETT, написав всего несколько строк кода.
+Вам нужно программно преобразовать файлы TABDELIMITED в ETT? Разработчики Java могут легко преобразовать TABDELIMITED в ETT всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -86,48 +86,48 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/text %}}
 
- Перед запуском исходного кода преобразования Java убедитесь, что выполнены следующие предварительные условия.
+ Прежде чем запускать исходный код преобразования Java, убедитесь, что у вас есть следующие предварительные условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
-- Получите последнюю версию Aspose.Cells for Java непосредственно от Maven.
+- Получите последнюю версию Aspose.Cells for Java непосредственно с телефона Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Файл ETT представляет собой шаблон электронной таблицы, созданный Kingsoft Spreadsheets, программой для работы с электронными таблицами, включенной в пакет WPS Office. В нем хранится шаблон, который можно использовать в качестве отправной точки для создания новых электронных таблиц Kingsoft (файлы .ET). Файлы ETT часто используются для создания финансовых бюджетов и организации данных.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла «Значения, разделенные табуляцией» (TSV) представляет данные, разделенные табуляцией, в обычном текстовом формате. Формат файла, аналогичный CSV, используется для структурированной организации данных для импорта и экспорта между различными приложениями. Этот формат в основном используется для импорта/экспорта данных и обмена ими в приложениях и базах данных электронных таблиц. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля разделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Файл ETT представляет собой шаблон электронной таблицы, созданный Kingsoft Spreadsheets, программой для работы с электронными таблицами, включенной в пакет WPS Office. В нем хранится шаблон, который можно использовать в качестве отправной точки для создания новых электронных таблиц Kingsoft (файлов .ET). Файлы ETT часто используются для создания финансовых бюджетов и организации данных.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать TABDELIMITED во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABDELIMITED TO GIF" description="Графический формат обмена" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABDELIMITED TO HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABDELIMITED TO MD" description="Язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED TO MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABDELIMITED TO ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABDELIMITED TO PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="TABDELIMITED TO PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="Масштабируемая векторная графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED TO XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED TO XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="TABDELIMITED TO XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="TABDELIMITED TO XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABDELIMITED TO XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABDELIMITED TO XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED ДО BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABDELIMITED ДО EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABDELIMITED ДО GIF" description="Формат графического обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABDELIMITED ДО HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABDELIMITED ДО MD" description="Язык уценки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED ДО MHTML" description="Формат архива веб-страниц" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABDELIMITED ДО ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABDELIMITED ДО PDF" description="Портативный формат документов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="TABDELIMITED ДО PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABDELIMITED ДО SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABDELIMITED ДО TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABDELIMITED ДО TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED ДО TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABDELIMITED ДО XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED ДО XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED ДО XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="TABDELIMITED ДО XLSX" description="OOXML-файл Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="TABDELIMITED ДО XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABDELIMITED ДО XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABDELIMITED ДО XLTX" description="Шаблон Excel для Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="TABDELIMITED TO XML" description="расширяемый язык разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED TO XPS" description="Спецификации XML-бумаги" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABDELIMITED TO JSON" description="Обозначение объектов JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED TO JPEG" description="JPEG Изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED ДО XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABDELIMITED ДО JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED ДО JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

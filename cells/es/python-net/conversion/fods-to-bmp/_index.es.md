@@ -1,7 +1,7 @@
 ---
-title: Python FODS a BMP - En línea FODS a BMP Convertidor
-description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir FODS a BMP guardar formato. Formato Python FODS al BMP. Aparta del FODS al BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to BMP saveformat., Free Online FODS to BMP Python., Python Convert FODS to BMP]
+title: Python FODS a BMP - FODS a BMP Convertidor
+description: Aspose Excel. Convierta FODS a BMP rápida y fácilmente con Aspose.Cells. Python FODS a BMP. Python Guarde FODS en BMP. Guarde FODS como 07611134 81 usando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to BMP in Python., Save FODS to BMP using Python., Python FODS to BMP saveformat., FODS to BMP Converter., Python Save FODS as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir FODS a BMP en Python" h2="Biblioteca Python de alta velocidad para convertir FODS a BMP. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,23 +12,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FOD
 
 {{% blocks/products/pf/agp/content h2="Convertir FODS a BMP en Python" %}}
 
- ¿Cómo convierto FODS a BMP? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente FODS a BMP mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto FODS a BMP? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente FODS a BMP mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Guarde FODS a BMP en Python en línea gratis" %}}
+{{% blocks/products/pf/agp/content h2="Guardar FODS al BMP en Python" %}}
 
-El siguiente ejemplo muestra cómo convertir FODS a BMP en Python via NET.
+El siguiente ejemplo demuestra cómo convertir FODS a BMP en Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Siga los sencillos pasos para convertir FODS a BMP. Cargue su archivo FODS, luego simplemente guárdelo como archivo BMP. Tanto para la lectura FODS como para la escritura BMP, puede utilizar nombres de archivo completos. El contenido y el formato de la salida BMP serán idénticos al documento original FODS.
+Siga los sencillos pasos para convertir FODS a BMP. Cargue su archivo FODS y luego simplemente guárdelo como archivo BMP. Tanto para lectura FODS como para escritura BMP puede utilizar nombres de archivo completos. El contenido y el formato de salida BMP serán idénticos al documento FODS original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir FODS a BMP en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir FODS a BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir FODS a BMP" %}}
 
@@ -47,12 +47,12 @@ Siga los sencillos pasos para convertir FODS a BMP. Cargue su archivo FODS, lueg
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para convertir FODS a BMP" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para convertir FODS en BMP" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,36 +72,36 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Un archivo con extensión .fods es un tipo de formato de documento de hoja de cálculo OpenDocument que almacena datos en filas y columnas. El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Los archivos FODS no se pueden abrir con Excel, otra aplicación de software de hoja de cálculo por Microsoft. Los archivos FODS se pueden guardar como ODS usando LibreOffice y se pueden convertir a otros formatos como XLS y XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Un archivo con extensión .fods es un tipo de formato de documento de hoja de cálculo OpenDocument que almacena datos en filas y columnas. El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Los archivos FODS no se pueden abrir con Excel, otra aplicación de software de hoja de cálculo de Microsoft. Los archivos FODS se pueden guardar como ODS usando LibreOffice y se pueden convertir a otros formatos como XLS y XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Los archivos con extensión .BMP representan archivos de imágenes de mapa de bits que se utilizan para almacenar imágenes digitales de mapas de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir FODS a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir FODS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-bmp/" name="FODS AL BMP" description="Imagen de mapa de bits" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-emf/" name="FODS AL EMF" description="Formato de metarchivo mejorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-gif/" name="FODS AL GIF" description="Formato de intercambio gráfico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-html/" name="FODS AL HTML" description="Lenguaje de marcado de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-md/" name="FODS A MD" description="Lenguaje de rebajas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-md/" name="FODS AL MD" description="Lenguaje de rebajas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-mhtml/" name="FODS AL MHTML" description="Formato de archivo de página web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-ods/" name="FODS AL ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-pdf/" name="FODS AL PDF" description="Formato de Documento Portable" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-png/" name="FODS AL PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-svg/" name="FODS AL SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-tiff/" name="FODS AL TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-tsv/" name="FODS AL TSV" description="Valores separados por tabuladores" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-tsv/" name="FODS AL TSV" description="Valores separados por tabulaciones" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-txt/" name="FODS AL TXT" description="Documento de texto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xls/" name="FODS AL XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xlsb/" name="FODS AL XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xlsm/" name="FODS AL XLSM" description="Archivo de hoja de cálculo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xlsx/" name="FODS AL XLSX" description="Archivo de Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xlsx/" name="FODS AL XLSX" description="Archivo Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xlt/" name="FODS AL XLT" description="Microsoft Plantilla de Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xltm/" name="FODS AL XLTM" description="Plantilla de Excel habilitada para macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xltm/" name="FODS AL XLTM" description="Plantilla habilitada para macros de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xltx/" name="FODS AL XLTX" description="Plantilla de Excel OpenXML de Office" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xml/" name="FODS A XML" description="Lenguaje de marcado extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xps/" name="FODS AL XPS" description="Especificaciones de papel XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-json/" name="FODS AL JSON" description="Notación de objetos de JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-json/" name="FODS AL JSON" description="Notación de objetos JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Crear IMAGEN - Crear archivo de IMAGEN en Python
-description: AsposeExcel. Python Crear archivo de IMAGEN. Crear IMAGEN Python. Python Creador de IMAGEN. Crear IMAGEN en Python. Generar archivo de IMAGEN usando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create IMAGE Python., Python IMAGE Creater., Create IMAGE file in Python., Generate IMAGE file in Python]
+title: Crear IMAGEN - Crear archivo IMAGEN en Python
+description: Aspose Excel. Python Cree un archivo de IMAGEN rápida y fácilmente con Aspose.Cells. Genere un archivo de IMAGEN usando Python. Cree una IMAGEN en Python. Python Creador de IMAGEN.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create IMAGE file., Generate IMAGE file in Python., Create IMAGE file using Python., Write data to IMAGE file via Python., Create a IMAGE file in Python., Python Generate a IMAGE file., Python IMAGE Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo de IMAGEN en Python" h2="Biblioteca Python de alta velocidad para crear archivos de IMAGEN. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,26 +11,26 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create IMAGE Python., Python IMA
 
 {{% blocks/products/pf/agp/content h2="Crear archivo de IMAGEN usando Python" %}}
 
- ¿Cómo crear un archivo de IMAGEN? Con Aspose.Cells for Python a través de la biblioteca NET, puede crear fácilmente un archivo IMAGE mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo crear un archivo de IMAGEN? Con Aspose.Cells for Python a través de la biblioteca NET, puede crear fácilmente un archivo IMAGEN mediante programación con unas pocas líneas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 
-{{% blocks/products/pf/agp/content h2="Cómo crear IMAGEN en Python" %}}
+{{% blocks/products/pf/agp/content h2="Cómo crear una IMAGEN en Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos de IMÁGENES al ejecutar diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+Es fácil para los desarrolladores crear, cargar, modificar y convertir archivos de IMAGEN ejecutando diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crear instancia de clase de libro de trabajo.
-1.  Acceda a la primera hoja de trabajo del libro.
-1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo e ingrese el valor en la(s) celda(s).
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo de IMAGEN.
+1.  Crear una instancia de clase de libro de trabajo.
+1.  Acceda a la primera hoja de trabajo del libro de trabajo.
+1.  Obtenga las celdas deseadas de la hoja de trabajo e ingrese el valor en las celdas.
+1.  Utilice el método Guardar para guardar el libro como archivo de IMAGEN.
 
-{{% blocks/products/pf/agp/code-block title="El código de ejemplo muestra cómo crear un archivo de IMAGEN en Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear un archivo IMAGEN en Python." offSpacer="" %}}
 
 ```cs
 
@@ -57,12 +57,12 @@ workbook.save("output.png")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python biblioteca para crear archivo de IMAGEN" %}}
+{{% blocks/products/pf/agp/content h2="Python biblioteca para crear un archivo IMAGEN" %}}
 
 Alojamos nuestros paquetes Python en repositorios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
+ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,19 +82,19 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen de trama que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdida que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG se ha convertido en uno de los formatos de archivo de imagen más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un archivo PNG (Portable Network Graphics) es un formato de archivo de imagen rasterizada que utiliza compresión sin pérdidas. Este formato de archivo se creó como reemplazo del formato de intercambio de gráficos (GIF) y no tiene limitaciones de derechos de autor. Sin embargo, el formato de archivo PNG no admite animaciones. El formato de archivo PNG admite la compresión de imágenes sin pérdidas, lo que lo hace popular entre sus usuarios. Con el paso del tiempo, PNG ha evolucionado como uno de los formatos de archivos de imágenes más utilizados.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos de los que se enumeran a continuación." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Otra generación de hojas de cálculo admitida" subTitle="También puede crear otros formatos de Excel Microsoft, incluidos algunos que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Hoja de cálculo de Excel (heredada)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Libro de trabajo XML abierto" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Abrir libro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Libro binario de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Hoja de cálculo habilitada para macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Plantilla 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Plantilla Excel 97 - 2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Plantilla de Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla de Excel habilitada para macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Plantilla habilitada para macros de Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valores Separados por Comas" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valores separados por tabulaciones" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Hoja de cálculo de OpenDocument" >}}

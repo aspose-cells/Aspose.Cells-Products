@@ -2,6 +2,7 @@
 title:  Insertar Insertar estrella/banner en Excel via Java
 weight: 381
 description: Inserte Star/Banner usando Aspose.Cells' Java API sin ningún software como Microsoft u Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Star/Banner., Java insert Star/Banner., Java create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insertar Insertar estrella/banner en Excel via Java" h2="Inserte Star/Banner usando Aspose.Cells\' API sin ningún software como Microsoft u Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Inserte Star/Banner usando Aspose.Cells' Java API sin ningún softw
 
 {{% blocks/products/pf/agp/content h2="Cómo insertar Insertar estrella/banner en un archivo de Excel usando Java" %}}
 
- Para insertar Insert Star/Banner en un archivo de Excel, usaremos
+ Para insertar Insertar estrella/banner en un archivo de Excel, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que es una plataforma rica en funciones, potente y fácil de usar API for Java. Puedes descargar su última versión directamente desde
+ API, que es una plataforma API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -50,15 +51,15 @@ description: Inserte Star/Banner usando Aspose.Cells' Java API sin ningún softw
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar Insertar estrella/banner en el archivo de Excel via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para insertar Insertar estrella/banner en un archivo de Excel via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX con la ruta completa).
++ Creación de instancias de un objeto Libro de trabajo. (o->Cargue el archivo XLSX con la ruta completa).
 + Seleccione Hoja de trabajo a través de su índice.
- + Usa el[añadir método](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) para insertar Insertar estrella/banner en la hoja de cálculo seleccionada
+ + Usa el[agregar método](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) para insertar Insertar estrella/banner en la hoja de trabajo seleccionada
 + Guardar libro de trabajo en formato XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,18 +68,18 @@ Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX co
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Por favor, asegúrese de que tiene los siguientes requisitos previos.
+ Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Asegúrese de tener los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un SO compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 - Obtenga la última versión de Aspose.Cells for Java directamente desde Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-El siguiente código de ejemplo muestra cómo insertar "Cinta: curvada e inclinada hacia arriba" y "Explosión: 8 puntos". Para obtener más tipos, consulte "Descripción general de los tipos de inserción de estrellas y pancartas" a continuación.
+El siguiente código de muestra demuestra cómo insertar "Cinta: curvada e inclinada hacia arriba" y "Explosión: 8 puntos". Para conocer más tipos, consulte "Descripción general de los tipos de inserción de estrellas y banners" a continuación.
 
-{{% blocks/products/pf/agp/code-block title="Insertar Insertar estrella/pancarta - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Insertar Insertar estrella/banner - Java" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertStarsAndBannersIntoWorksheet.java" >}}
 
@@ -90,102 +91,102 @@ El siguiente código de ejemplo muestra cómo insertar "Cinta: curvada e inclina
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Descripción general de los tipos Insertar estrella y banner
+Descripción general de los tipos de inserción de estrellas y banners
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/explosion_8_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.EXPLOSION_1
+ Tipo de autoforma.EXPLOSION_1
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/explosion_14_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.EXPLOSION_2
+ Tipo de autoforma.EXPLOSION_2
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_4_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_4
+ Tipo de autoforma.STAR_4
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_5_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_5
+ Tipo de autoforma.STAR_5
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_6_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoFormaTipo.STAR_6
+ Tipo de autoforma.STAR_6
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_7_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_7
+ Tipo de autoforma.STAR_7
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_8_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_8
+ Tipo de autoforma.STAR_8
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_10_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_10
+ Tipo de autoforma.STAR_10
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_12_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Tipo de forma automática.STAR_12
+ Tipo de autoforma.STAR_12
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-Tipo de forma automática.STAR_16
+ Tipo de autoforma.STAR_16
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_24_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoFormaTipo.STAR_24
+ Tipo de autoforma.STAR_24
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_32_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoFormaTipo.STAR_32
+ Tipo de autoforma.STAR_32
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/ribbon_tilted_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.UP_RIBBON
+ Tipo de autoforma.UP_RIBBON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/ribbon_tilted_down.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.DOWN_RIBBON
+ Tipo de autoforma.DOWN_RIBBON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/ribbon_curved_and_tilted_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CURVED_UP_RIBBON
+ Tipo de autoforma.CURVED_UP_RIBBON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/ribbon_curved_and_tilted_down.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CURVED_DOWN_RIBBON
+ Tipo de autoforma.CURVED_DOWN_RIBBON
     </p>
    </div>
    <div class="col-lg-4">
@@ -197,7 +198,7 @@ Tipo de forma automática.STAR_16
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/scroll_horizontal.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.HORIZONTAL_SCROLL
+ Tipo de autoforma.HORIZONTAL_SCROLL
     </p>
    </div>
    <div class="col-lg-4">
@@ -209,7 +210,7 @@ Tipo de forma automática.STAR_16
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/double_wave.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.DOUBLE_WAVE
+ Tipo de autoforma.DOUBLE_WAVE
     </p>
    </div>
   </div>
@@ -223,9 +224,9 @@ Tipo de forma automática.STAR_16
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for Java API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
+ Aspose.Cells API se puede utilizar para crear, editar, convertir y renderizar Microsoft formatos de Excel a diferentes formatos. Además, se puede utilizar para gráficos completos, informes escalables y cálculos confiables dentro de aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

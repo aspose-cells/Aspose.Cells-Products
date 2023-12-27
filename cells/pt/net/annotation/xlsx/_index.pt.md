@@ -1,7 +1,8 @@
 ---
-title:  Remover XLSX Anotação via .NET
+title:  Adicionar ou remover anotação XLSX via .NET
 weight: 2010
-description: C# código-fonte para adicionar e excluir anotações de formato XLSX em .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: Código-fonte C# para adicionar e excluir anotações de formato XLSX em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
+keywords: [C# Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adicionar ou excluir anotação de XLSX via C#" h2="Crie seus próprios aplicativos .NET para manipular comentários e autores em arquivos de documentos usando APIs do lado do servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,11 +14,11 @@ description: C# código-fonte para adicionar e excluir anotações de formato XL
 
  Para anotar o arquivo XLSX, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que é uma manipulação de documentos rica em recursos, poderosa e fácil de usar API para a plataforma C#. Abrir
+ API, que é um API de manipulação de documentos rico em recursos, poderoso e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gerenciador de pacotes, procure por
  **Aspose.Cells** 
- e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -39,12 +40,12 @@ PM> Install-Package Aspose.Cells
 
  Você precisa
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
- para experimentar o código em seu ambiente.
+ para testar o código em seu ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Carregue o arquivo XLSX criando uma instância da pasta de trabalho
-+ Adicionar comentário à planilha em um Cell
++ Carregue o arquivo XLSX criando uma instância de Workbook
++ Adicionar comentário à planilha em Cell
 + Chame RemoveAt com o ID Cell para removê-lo
 + Salve a pasta de trabalho antes e depois de chamar o método RemoveAt para comparar
 
@@ -58,7 +59,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
 -  Ambiente de desenvolvimento como Microsoft Visual Studio.
 -  Adicione referência à DLL Aspose.Cells for .NET em seu projeto.
 
@@ -79,7 +80,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Remova a anotação de XLSX via aplicativo online" sectionDescription=" Exclua as anotações do documento XLSX agora mesmo visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Remover anotação de XLSX por meio do aplicativo online" sectionDescription=" Exclua anotações do documento XLSX agora mesmo visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta carregar seu arquivo XLSX e clicar no botão \"Remover\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo XLSX e clicar no botão \"Remover\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento de Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagens Abertas, conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura subjacente e os arquivos podem ser examinados simplesmente descompactando o arquivo .xlsx.
+XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento do Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagem Aberta conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura e os arquivos subjacentes podem ser examinados simplesmente descompactando o arquivo .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,11 +103,11 @@ XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introdu
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação suportados" subTitle="Usando C#, pode-se facilmente anotar outros formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação suportados" subTitle="Usando C#, é possível anotar facilmente outros formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/annotation/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

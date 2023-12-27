@@ -1,7 +1,8 @@
 ---
 title:  Générer des rapports dans les fichiers XLSM via .NET
 weight: 4400
-description: C# code source pour générer des rapports au format XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: Code source C# pour générer des rapports au format XLSM sur les plateformes .NET Framework, .NET Core, Mono ou Xamarin.
+keywords: [C# Aspose.Cells., c# Create XLSM Reports Based on Predesigned Excel Template., c# Generate XLSM Reports Based on Predesigned Excel Template., c# Create XLSM Reports Based on Excel Template., C# Generate XLSM Reports Based on Excel Template., c# Create XLSM files Based on Excel Template., C# Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Génération de rapports en masse au format XLSM via C#" h2="Générez des rapports au format XLSM à l\'aide d\'une source de données et d\'un modèle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -11,13 +12,13 @@ description: C# code source pour générer des rapports au format XLSM sur .NET 
 
 {{% blocks/products/pf/agp/content h2="Comment générer des rapports basés sur XLSM à l\'aide de C#" %}}
 
- Pour créer des rapports XLSM, nous utiliserons
+ Afin de créer des rapports XLSM, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une génération de rapports API riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C#. Ouvrir
+ API qui est un générateur de rapports API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -33,7 +34,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour assembler XLSM via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes d\'assemblage XLSM via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -51,13 +52,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou Xamarin Platforms
 -  Environnement de développement comme Microsoft Visual Studio
--  Ajouter une référence à la DLL Aspose.Cells for .NET dans votre projet
+-  Ajoutez une référence à la DLL Aspose.Cells for .NET dans votre projet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -74,9 +75,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -84,14 +85,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite à assembler XLSM" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers XLSM](https://products.aspose.app/cells/assembly/xlsm) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour assembler XLSM" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers XLSM](https://products.aspose.app/cells/assembly/xlsm) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier XLSM et d\'appuyer sur le bouton \"Assembler\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement le fichier XLSM et cliquez sur le bouton \"Assembler\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier XLSM résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Les fichiers avec l'extension XLSM sont un type de fichiers de feuille de calcul prenant en charge les macros. Du point de vue de l'application, une macro est un ensemble d'instructions utilisées pour automatiser les processus. Une macro est utilisée pour enregistrer les étapes qui sont exécutées à plusieurs reprises et facilite l'exécution des actions en exécutant à nouveau la macro. Les macros sont programmées avec Visual Basic pour Applications (VBA) de Microsoft à partir du classeur Excel à l'aide de Visual Basic Editor et peuvent être exécutées/déboguées directement à partir de là.
+Les fichiers avec l'extension XLSM sont un type de fichier de feuille de calcul prenant en charge les macros. Du point de vue de l'application, une macro est un ensemble d'instructions utilisées pour automatiser les processus. Une macro est utilisée pour enregistrer les étapes effectuées à plusieurs reprises et facilite l'exécution des actions en exécutant à nouveau la macro. Les macros sont programmées avec Visual Basic pour Applications (VBA) de Microsoft à partir du classeur Excel à l'aide de Visual Basic Editor et peuvent être exécutées/déboguées directement à partir de là.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -99,7 +100,7 @@ Les fichiers avec l'extension XLSM sont un type de fichiers de feuille de calcul
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapport pris en charge" subTitle="En utilisant C#, on peut facilement générer des rapports de plusieurs formats, y compris." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapports pris en charge" subTitle="En utilisant C#, on peut facilement générer des rapports de plusieurs formats, notamment." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Format binaire Excel" >}}

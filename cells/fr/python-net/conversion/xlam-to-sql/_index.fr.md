@@ -1,6 +1,6 @@
 ---
 title: XLAM en SQL - Convertir XLAM en fichiers SQL Python via Python
-description: Aspose Excel. Convertissez gratuitement en ligne XLAM au format de sauvegarde SQL. Python XLAM au format SQL. Enregistrez XLAM en tant que SQL dans Python.
+description: Aspose Exceller. Convertissez en ligne gratuitement XLAM au format de sauvegarde SQL. Python XLAM au format SQL. Enregistrez XLAM au format SQL dans Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SQL saveformat., Free Online XLAM to SQL Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SQL saveformat., 
 
 {{% blocks/products/pf/agp/content h2="Convertir XLAM en SQL en Python" %}}
 
- Comment convertir XLAM en SQL ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir XLAM en SQL par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
+ Comment convertir XLAM en SQL ? Avec la bibliothèque Aspose.Cells for Python via NET, vous pouvez facilement convertir XLAM en SQL par programme avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Python Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Enregistrez XLAM dans SQL dans Python en ligne gratuitement" %}}
+{{% blocks/products/pf/agp/content h2="Enregistrez XLAM en SQL dans Python en ligne gratuitement" %}}
 
 L'exemple suivant montre comment convertir XLAM en SQL dans Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -34,7 +34,7 @@ Suivez les étapes simples pour convertir XLAM en SQL. Téléchargez votre fichi
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de convertir les fichiers XLAM en SQL par programmation ? Les développeurs Python peuvent facilement charger et convertir XLAM en SQL en quelques lignes de code.
+Besoin de convertir les fichiers XLAM en SQL par programme ? Les développeurs Python peuvent facilement charger et convertir XLAM en SQL en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,16 +47,16 @@ Besoin de convertir les fichiers XLAM en SQL par programmation ? Les développe
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="bibliothèque Python pour convertir XLAM en SQL" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque Python pour convertir XLAM en SQL" %}}
 
 Nous hébergeons nos packages Python dans des référentiels PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
+ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développeur.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +64,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système dispose[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,29 +74,29 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir XLAM en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-bmp/" name="XLAM À BMP" description="Image bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-emf/" name="XLAM À EMF" description="Format de métafichier amélioré" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-gif/" name="XLAM À GIF" description="Format d\'échange graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-html/" name="XLAM À HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM À MD" description="Langage Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-mhtml/" name="XLAM À MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-ods/" name="XLAM À ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-pdf/" name="XLAM À PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-png/" name="XLAM À PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-svg/" name="XLAM À SVG" description="Image Vectorielle" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tiff/" name="XLAM À TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM À TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-txt/" name="XLAM À TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xls/" name="XLAM À XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsb/" name="XLAM À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsm/" name="XLAM À XLSM" description="Fichier tableur" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsx/" name="XLAM À XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlt/" name="XLAM À XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM À XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM À XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-bmp/" name="XLAM AU BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-emf/" name="XLAM AU EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-gif/" name="XLAM AU GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-html/" name="XLAM AU HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-md/" name="XLAM AU MD" description="Langage de démarque" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-mhtml/" name="XLAM AU MHTML" description="Format d\'archive de pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-ods/" name="XLAM AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-pdf/" name="XLAM AU PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-png/" name="XLAM AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-svg/" name="XLAM AU SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tiff/" name="XLAM AU TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-tsv/" name="XLAM AU TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-txt/" name="XLAM AU TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xls/" name="XLAM AU XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsb/" name="XLAM AU XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsm/" name="XLAM AU XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlsx/" name="XLAM AU XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xlt/" name="XLAM AU XLT" description="Modèle Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltm/" name="XLAM AU XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xltx/" name="XLAM AU XLTX" description="Modèle Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xml/" name="XLAM VERS XML" description="Langage de balisage extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM À XPS" description="Spécifications papier XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-json/" name="XLAM À JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-xps/" name="XLAM AU XPS" description="Spécifications du papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlam-to-json/" name="XLAM AU JSON" description="Notation d\'objet JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

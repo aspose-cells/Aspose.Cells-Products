@@ -2,6 +2,7 @@
 title: Insérer des commentaires dans le fichier XLS via Python
 url: /fr/python-java/comments/insert-comments-to-xls/ 
 description: Insérez des commentaires dans XLS à l'aide de Python. Utilisez l'exemple de code API pour insérer des commentaires dans l'application Python.
+keywords: [Python Aspose.Cells., add XLS comments., insert XLS comments., access XLS comments., remove XLS comments., delete XLS comments., add comments in XLS., insert comments in XLS., access comments in XLS., remove comments in XLS., delete comments in XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des commentaires dans le fichier XLS via Python" h2="Créez votre propre application Python pour manipuler les commentaires et les auteurs dans les fichiers de documents à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Insérez des commentaires dans XLS à l'aide de Python. Utilisez l'
 
 {{% blocks/products/pf/agp/content h2="Insérer des commentaires dans le fichier XLS à l\'aide de Python" %}}
 
- Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement insérer des commentaires dans le fichier XLS par programmation avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
+ Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement insérer des commentaires dans le fichier XLS par programme avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Python Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez installer Aspose.Cells for Python via Java à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -20,13 +21,13 @@ description: Insérez des commentaires dans XLS à l'aide de Python. Utilisez l'
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for Python est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installez Java 1.8 ou supérieur et ajoutez-le à la variable d'environnement PATH, par exemple :<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
--  Installer[Python](https://www.python.org/downloads/) 3.5 ou supérieur.
-- Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
+-  Installer[Python](https://www.python.org/downloads/) 3,5 ou supérieur.
+-  Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -39,13 +40,13 @@ description: Insérez des commentaires dans XLS à l'aide de Python. Utilisez l'
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Charger le fichier XLS en créant une instance de Workbook
-+ Insérer des commentaires dans la feuille de travail dans un Cell
- + Enregistrer le classeur
++ Chargez le fichier XLS en créant une instance de Workbook
++ Insérer des commentaires sur la feuille de travail dans un Cell
+ + Enregistrez le classeur
 
 Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez utiliser le code Python suivant pour insérer et supprimer des commentaires dans le fichier XLS.
 
-{{% blocks/products/pf/agp/code-block title="Python exemple de code pour insérer et supprimer des commentaires dans le fichier XLS" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Exemple de code Python pour insérer et supprimer des commentaires dans le fichier XLS" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "insert-and-remove-comments-xls.py" >}}
 
@@ -62,7 +63,7 @@ Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres programmes de tableur similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit le premier choix d'utilisation maintenant.
+Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. De tels fichiers peuvent être créés par Microsoft Excel ainsi que d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de Workbook où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -70,12 +71,12 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="En utilisant Python, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="Grâce au Python, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/comments/insert-comments-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

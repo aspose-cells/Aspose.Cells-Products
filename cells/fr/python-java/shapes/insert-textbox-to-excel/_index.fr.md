@@ -2,6 +2,7 @@
 title:  Insérez TextBox dans Excel en utilisant Python via Java
 weight: 10
 description: Python via Java code source pour insérer TextBox dans Excel.
+keywords: [Python Aspose.Cells., Python add TextBox., Python insert TextBox., Python create TextBox]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérez TextBox dans Excel en utilisant Python via Java" h2="Insérez TextBox en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via Java code source pour insérer TextBox dans Excel.
 
  Afin d'insérer TextBox dans un fichier Excel, nous utiliserons
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
- API qui est une plate-forme de manipulation de documents API for Python via Java riche en fonctionnalités, puissante et facile à utiliser. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Microsoft Office ou Excel. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
+ API qui est une plate-forme de manipulation de documents API for Python via Java riche en fonctionnalités, puissante et facile à utiliser. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Office ou Excel Microsoft. Vous pouvez installer à partir de la console à l’aide de la commande suivante.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Vous avez besoin du Aspose.Cells pour essayer le flux de travail suivant dans vo
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
- + Utilisez la collection de formes[ajouter une méthode](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addTextBox(int,%20int,%20int,%20int,%20int,%20int)) pour insérer un TextBox dans la feuille de calcul sélectionnée.
+ + Utilisez la collection de formes[ajouter une méthode](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addTextBox(int,%20int,%20int,%20int,%20int,%20int)) pour insérer une TextBox dans la feuille de calcul sélectionnée.
 + Enregistrer le classeur au format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -48,12 +49,12 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux et MacOS), assurez-vous simplement que le système dispose de Java 1.8 ou supérieur,[Python](https://www.python.org/downloads/) 3.5 ou supérieur.
+ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux et MacOS), assurez-vous simplement que le système dispose de Java 1.8 ou supérieur,[Python](https://www.python.org/downloads/) 3,5 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Tout système d'exploitation pouvant exécuter des scripts Python via Java, tels que Windows, Linux et MacOS
--  Installez Java et ajoutez-le à la variable d'environnement PATH, par exemple :<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Tout système d'exploitation pouvant exécuter les scripts Python via Java, tel que Windows, Linux et MacOS
+- Installez Java et ajoutez-le à la variable d'environnement PATH, par exemple :<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installez Aspose.Cells for Python via Java à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -71,9 +72,9 @@ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut 
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells API" %}}
 
-Aspose.Cells API capable de créer des applications multiplateformes, peut être utilisé pour créer, éditer, convertir et rendre des formats Excel Microsoft dans différents formats (comme images, PDF, HTML, ODS et plus). De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Il est important que Aspose.Cells soit un API autonome et qu'il ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API capable de créer des applications multiplateformes, peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats (comme des images, PDF, HTML, ODS et plus). des rapports évolutifs et des calculs fiables dans les applications logicielles, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Il est important que Aspose.Cells soit un API autonome et qu'il ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -81,7 +82,7 @@ Aspose.Cells API capable de créer des applications multiplateformes, peut être
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

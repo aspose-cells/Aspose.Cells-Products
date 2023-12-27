@@ -1,7 +1,8 @@
 ---
-title:  Remover XLSX Anotação via Java
+title:  Adicionar ou remover anotação XLSX via Java
 weight: 5260
-description: Java código de amostra para excluir XLSX anotações de formato em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Código de amostra Java para excluir anotações de formato XLSX no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+keywords: [Java Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adicionar ou excluir anotação de XLSX via Java" h2="Crie seus próprios aplicativos Java para manipular comentários e autores em arquivos de documentos usando APIs do lado do servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,8 +57,8 @@ description: Java código de amostra para excluir XLSX anotações de formato em
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Carregue o arquivo XLSX usando a classe Workbook
-1.  Selecione a folha relevante
-1.  Obtenha todos os comentários de CommentCollection
+1.  Selecione a planilha relevante
+1.  Obtenha todos os comentários por CommentCollection
 1.  Chame RemoveAt com o ID Cell para removê-lo
 1.  Salve a pasta de trabalho antes e depois de chamar o método RemoveAt para comparar
 
@@ -67,11 +68,11 @@ description: Java código de amostra para excluir XLSX anotações de formato em
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for Java é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 - Obtenha a versão mais recente de Aspose.Cells for Java diretamente de Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -109,7 +110,7 @@ workbook.save(dataDir + "ThreadedCommentsSample_Out.xlsx");
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -117,14 +118,14 @@ workbook.save(dataDir + "ThreadedCommentsSample_Out.xlsx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Remova a anotação de XLSX via aplicativo online" sectionDescription=" Exclua as anotações do documento XLSX agora mesmo visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Remover anotação de XLSX por meio do aplicativo online" sectionDescription=" Exclua anotações do documento XLSX agora mesmo visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta carregar seu arquivo XLSX e clicar no botão \"Remover\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo XLSX e clicar no botão \"Remover\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento de Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagens Abertas, conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura subjacente e os arquivos podem ser examinados simplesmente descompactando o arquivo .xlsx.
+XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento do Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagem Aberta conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura e os arquivos subjacentes podem ser examinados simplesmente descompactando o arquivo .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,11 +133,11 @@ XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introdu
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação suportados" subTitle="Usando Java, pode-se facilmente anotar outros formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação suportados" subTitle="Usando Java, é possível anotar facilmente outros formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

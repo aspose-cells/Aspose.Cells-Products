@@ -1,8 +1,8 @@
 ---
-title: Python Réparer le fichier xlsx - Réparer le fichier xlsx en ligne gratuitement
+title: Python Réparer xlsx - Récupérer et réparer un fichier xlsx corrompu
 url: /fr/python-net/recovery/repair-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Python Réparer le fichier xlsx. Outil de réparation xlsx en ligne gratuit. Réparez un fichier xlsx corrompu. Récupérez un fichier xlsx corrompu dans l'application Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Free Online Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Python Aspose.Cells. Réparation xlsx. Correction du fichier xlsx. outil de récupération xlsx. corruption xlsx. Restaurez les données xlsx. récupération de fichier xlsx. Récupérez le fichier xlsx corrompu.
+keywords: [Python Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Réparer le fichier XLSX dans Python" h2="Créez votre propre application Python pour réparer les fichiers xlsx à l\'aide de Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Réparer le fichier XLSX à l\'aide de Python" %}}
 
- Comment réparer le fichier xlsx ? Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement réparer le fichier XLSX par programmation avec quelques lignes de code.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python via .NET à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
+ Comment réparer le fichier xlsx ? Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement réparer le fichier XLSX par programme avec quelques lignes de code.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Python Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez installer Aspose.Cells for Python via .NET à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,28 +22,28 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de réparer le fichier xlsx par programme ? Les développeurs Python peuvent facilement charger et réparer le fichier xlsx en quelques lignes de code.
+Besoin de réparer le fichier xlsx par programme ? Les développeurs Python peuvent facilement charger et réparer le fichier xlsx en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
++ Définir une classe qui hérite de Aspose.Cells.IWarningCallback.
 + Chargez le fichier XLSX en créant une instance de Workbook, en utilisant la classe d'héritage ci-dessus, reportez-vous au code ci-dessus.
 + Enregistrez le classeur, le fichier xlsx corrompu sera réparé.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Application gratuite et exemple de code pour réparer le fichier XLSX en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Exemple de code pour réparer le fichier XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Bibliothèque Python pour réparer le fichier XLSX" %}}
 
 Nous hébergeons nos packages Python dans des référentiels PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
+ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développeur.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -51,10 +51,10 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/content h2="Configuration requise" %}}
 
- Aspose.Cells for Python est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for Python est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
  
 -  Installer[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
-- Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
+-  Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
+XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes telles que décrites dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,12 +72,12 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant Python, on peut facilement réparer d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant le Python, on peut facilement réparer d’autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Réparation ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Réparation XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Réparation XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Réparation XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,7 @@
 ---
-title: Java PRN en ETT - Convertisseur PRN en ETT en ligne
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratuit en ligne Java Convertir PRN en format de sauvegarde ETT. Java Format PRN vers ETT. Enregistrez le PRN sous ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to ETT saveformat., Free Online PRN to ETT Java., Java Convert PRN to ETT]
+title: Java PRN en ETT - Convertisseur PRN en ETT
+description: Aspose Exceller. Convertissez PRN en ETT rapidement et facilement avec Aspose.Cells. Java PRN en ETT. Java Enregistrer le PRN dans ETT. Enregistrez le PRN sous ETT en utilisant le Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to ETT in Java., Save PRN to ETT using Java., Java PRN to ETT saveformat., PRN to ETT Converter., Java Save PRN as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PRN en ETT en Java" h2="Bibliothèque Java haute vitesse pour convertir PRN en ETT. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter PRN, ETT et de nombreux autres formats en utilisant Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to ET
 
 {{% blocks/products/pf/agp/content h2="Convertir PRN en ETT en utilisant Java" %}}
 
- Comment convertir PRN en ETT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement convertir PRN en ETT par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment convertir PRN en ETT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement convertir PRN en ETT par programme avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Java Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to ET
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Enregistrez PRN à ETT au Java en ligne gratuitement" %}}
+{{% blocks/products/pf/agp/content h2="Enregistrer PRN vers ETT au Java" %}}
 
-L'exemple suivant montre comment convertir PRN en ETT en Java.
+L'exemple suivant montre comment convertir PRN en ETT dans Java.
 {{% blocks/products/pf/agp/text %}}
 
-Suivez les étapes simples pour convertir PRN en ETT. Téléchargez votre fichier PRN, puis enregistrez-le simplement en tant que fichier ETT. Pour la lecture PRN et l'écriture ETT, vous pouvez utiliser des noms de fichiers complets. Le contenu ETT de sortie et le formatage seront identiques au document PRN d'origine.
+Suivez les étapes simples pour convertir PRN en ETT. Téléchargez votre fichier PRN, puis enregistrez-le simplement en tant que fichier ETT. Pour la lecture PRN et l'écriture ETT, vous pouvez utiliser des noms de fichiers complets. Le contenu et le formatage de l'ETT en sortie seront identiques au document PRN d'origine.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir PRN en ETT en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exemple de code pour convertir PRN en ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir PRN en ETT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de convertir des fichiers PRN en ETT par programmation ? Les développeurs de Java peuvent facilement convertir PRN en ETT en seulement quelques lignes de code.
+Besoin de convertir des fichiers PRN en ETT par programme ? Les développeurs Java peuvent facilement convertir PRN en ETT en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Besoin de convertir des fichiers PRN en ETT par programmation ? Les développeu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="bibliothèque Java pour convertir PRN en ETT" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque Java pour convertir PRN en ETT" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Nous hébergeons nos packages Java dans[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dépôts. 'Aspose.Cells for Java' est un fichier JAR commun contenant du byte-code. Veuillez suivre la[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) comment l'installer dans votre environnement de développement Java.
+ Nous hébergeons nos colis Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) référentiels. « Aspose.Cells for Java » est un fichier JAR commun contenant du byte-code. Veuillez suivre le[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) sur la façon de l'installer dans votre environnement de développement Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ Besoin de convertir des fichiers PRN en ETT par programmation ? Les développeu
 
 {{% blocks/products/pf/agp/text %}}
 
- Avant d'exécuter le code source de conversion Java, assurez-vous que vous disposez des prérequis suivants.
+ Avant d'exécuter le code source de conversion Java, assurez-vous que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 - Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un fichier PRN est un fichier créé à l'aide de la case à cocher Imprimer dans un fichier qui apparaît dans certaines boîtes de dialogue d'impression sur Windows. Il contient un ensemble d'instructions spécifiques au périphérique qu'une imprimante, un télécopieur ou un autre périphérique utilise pour imprimer un document. Les fichiers PRN peuvent contenir du texte ou du contenu binaire, selon l'appareil pour lequel le fichier a été créé.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un fichier PRN est un fichier créé à l'aide de la case à cocher Imprimer dans un fichier qui apparaît dans certaines boîtes de dialogue Imprimer sur Windows. Il contient un ensemble d'instructions spécifiques au périphérique qu'une imprimante, un télécopieur ou un autre périphérique utilise pour imprimer un document. Les fichiers PRN peuvent contenir du texte ou du contenu binaire, selon l'appareil pour lequel le fichier a été créé.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un fichier ETT est un modèle de feuille de calcul créé par Kingsoft Spreadsheets, un tableur inclus dans la suite WPS Office. Il stocke un modèle qui peut être utilisé comme point de départ pour créer de nouvelles feuilles de calcul Kingsoft (fichiers .ET). Les fichiers ETT sont souvent utilisés pour créer des budgets financiers et organiser des données.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir PRN en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN À BMP" description="Image bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN À EMF" description="Format de métafichier amélioré" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN À GIF" description="Format d\'échange graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN À HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN À MD" description="Langage Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN À MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN À ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-pdf/" name="PRN À PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-png/" name="PRN À PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-svg/" name="PRN À SVG" description="Image Vectorielle" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-tiff/" name="PRN À TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-tsv/" name="PRN À TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-txt/" name="PRN À TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xls/" name="PRN À XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsb/" name="PRN À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsm/" name="PRN À XLSM" description="Fichier tableur" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsx/" name="PRN À XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlt/" name="PRN À XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltm/" name="PRN À XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltx/" name="PRN À XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN AU BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN AU EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN AU GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN AU HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN À MD" description="Langage de démarque" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN AU MHTML" description="Format d\'archive de pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-pdf/" name="PRN AU PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-png/" name="PRN AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-svg/" name="PRN AU SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-tiff/" name="PRN AU TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-tsv/" name="PRN AU TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-txt/" name="PRN AU TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xls/" name="PRN AU XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsb/" name="PRN AU XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsm/" name="PRN AU XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlsx/" name="PRN AU XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xlt/" name="PRN AU XLT" description="Modèle Excel Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltm/" name="PRN AU XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltx/" name="PRN AU XLTX" description="Modèle Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xml/" name="PRN VERS XML" description="Langage de balisage extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="PRN À XPS" description="Spécifications papier XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-json/" name="PRN À JSON" description="Notation d\'objet JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-jpeg/" name="PRN À JPEG" description="JPEG Photo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="PRN AU XPS" description="Spécifications du papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-json/" name="PRN AU JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-jpeg/" name="PRN AU JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

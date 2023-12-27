@@ -1,7 +1,8 @@
 ---
-title: ODS planilha de documentos via C++
+title:  ODS gráfico de documento via C++
 weight: 3820
-description: C++ código de exemplo para desenhar e converter gráfico ou diagrama no arquivo ODS no ambiente de tempo de execução C++ para Windows 32 bits, Windows 64 bits e Linux 64 bits.
+description: C++ código de exemplo para desenhar e converter gráfico ou diagrama no arquivo ODS em C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in ods., C++ Save chart to image in ods., C++ chart to image in ods., ods convert chart to image in C++., ods save chart to image in C++., ods chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS Formata gráficos em C++" h2="Gráficos de documentos ODS nativos e de alto desempenho usando APIs Aspose.Cells for C++ do lado do servidor, sem o uso de qualquer software como Microsoft ou Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -13,11 +14,11 @@ description: C++ código de exemplo para desenhar e converter gráfico ou diagra
 
  Para pesquisar o arquivo ODS, usaremos
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API, que é uma plataforma de pesquisa de documentos rica em recursos, poderosa e fácil de usar API for C++. Você pode baixar sua versão mais recente diretamente, basta abrir
+API, que é uma plataforma de pesquisa de documentos API for C++ rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente, basta abrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gerenciador de pacotes, procure por
  **Aspose.Cells.Cpp** 
- e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,20 +38,20 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Um gráfico de documento básico com
+ Um gráfico básico de documentos com
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- As APIs podem ser feitas com apenas algumas linhas de código.
+ APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Crie uma nova pasta de trabalho.
-+ UGet primeira planilha padrão.
-+ Adicionar valores de amostra às células.
++ UObtenha a primeira planilha padrão.
++ Adicione valores de amostra às células.
 + Adicione um gráfico à planilha.
 + Acesse a instância do gráfico recém-adicionado
 + Adicionar SeriesCollection (fonte de dados do gráfico) ao gráfico
-+ Defina o tipo de gráfico da 2ª NSeries para exibir como gráfico de linhas
-Salve o arquivo
++ Defina o tipo de gráfico do 2º NSeries para exibir como gráfico de linhas
++ Salve o arquivo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -58,7 +59,7 @@ Salve o arquivo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for C++ é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,9 +68,9 @@ Salve o arquivo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Criar Gráfico de Arquivos ODS - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Criar gráfico de arquivos ODS - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-ods-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-ods-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,20 +83,20 @@ Salve o arquivo
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice. Converter gráfico do Excel para PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice. Converta gráfico do Excel em PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="On-line ODS Demonstrações ao vivo de conversão de gráficos" sectionDescription=" Converta gráficos de documentos ODS em imagens agora mesmo visitando nosso visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo de conversão de gráficos on-line ODS" sectionDescription=" Converta ODS gráficos de documentos em imagens agora mesmo visitando nosso visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos ODS." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos ODS." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" O gráfico será convertido instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Arquivos com extensão ODS representam o formato de documento de planilha OpenDocument editável pelo usuário. Os dados são armazenados dentro do arquivo ODF em linhas e colunas. É um formato baseado em XML e é um dos vários subtipos da família Open Document Formats (ODF). O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pela OASIS. Vários aplicativos em Windows, bem como outros sistemas operacionais, podem abrir arquivos ODS para edição e manipulação, incluindo Microsoft Excel, NeoOffice e LibreOffice. Os arquivos ODS também podem ser convertidos em outros formatos de planilha, como XLS, XLSX e outros por diferentes aplicativos.
+Arquivos com extensão ODS representam o formato de documento de planilha OpenDocument que pode ser editado pelo usuário. Os dados são armazenados dentro do arquivo ODF em linhas e colunas. É um formato baseado em XML e é um dos vários subtipos da família Open Document Formats (ODF). O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pelo OASIS. Vários aplicativos no Windows, bem como em outros sistemas operacionais, podem abrir arquivos ODS para edição e manipulação, incluindo Microsoft Excel, NeoOffice e LibreOffice. Os arquivos ODS também podem ser convertidos em outros formatos de planilha, como XLS, XLSX e outros por diferentes aplicativos.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,12 +104,12 @@ Arquivos com extensão ODS representam o formato de documento de planilha OpenDo
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráfico suportados" subTitle="Usando C++, pode-se facilmente lidar com charing com diferentes formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráficos suportados" subTitle="Usando C++, é possível lidar facilmente com diferentes formatos, inclusive." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

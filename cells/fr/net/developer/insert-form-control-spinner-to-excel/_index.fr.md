@@ -1,7 +1,8 @@
 ---
 title:  Insérer le bouton de rotation dans Excel via .NET
 weight: 40
-description: C# code source pour insérer le bouton spin dans Excel sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: Code source C# pour insérer un bouton de rotation dans Excel sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin.
+keywords: [C# Aspose.Cells., c# add spin button into Excel., c# insert spin button into Excel., c# create spin button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer le bouton de rotation dans Excel via .NET" h2="Insérez les boutons Spin en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,13 +12,13 @@ description: C# code source pour insérer le bouton spin dans Excel sur .NET Fra
 
 {{% blocks/products/pf/agp/content h2="Comment insérer un bouton de rotation dans un fichier Excel à l\'aide de C#" %}}
 
- Afin d'insérer le bouton de rotation dans le fichier Excel, nous utiliserons
+ Afin d'insérer le bouton de rotation dans un fichier Excel, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
+ API qui est un outil de manipulation et de séparation de documents riche en fonctionnalités, puissant et facile à utiliser API pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  Aspose.Cells 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -33,17 +34,17 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer le bouton de rotation dans le fichier Excel via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer le bouton de rotation dans un fichier Excel via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin de aspose.cells.dll pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du fichier aspose.cells.dll pour essayer le flux de travail suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
- + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addspinner) pour insérer un bouton de rotation dans la feuille de calcul sélectionnée
+ + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addspinner) pour insérer un bouton rotatif dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,7 +53,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,9 +76,9 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

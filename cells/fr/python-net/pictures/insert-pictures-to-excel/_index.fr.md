@@ -1,7 +1,8 @@
 ---
 title:  Insérer une image dans Excel en utilisant Python via .Net
 weight: 200
-description: Python via .Net code source pour insérer une image dans Excel.
+description: Python via Code source .Net pour insérer une image dans Excel.
+keywords: [Python via NET Aspose.Cells., Python via NET add picture into Excel., Python via NET insert picture into Excel., Python via NET create picture in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer une image dans Excel en utilisant Python via .Net" h2="Insérez des images en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net code source pour insérer une image dans Excel.
 
  Afin d'insérer une image dans un fichier Excel, nous utiliserons
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API qui est une manipulation de documents riche en fonctionnalités, puissante et facile à utiliser API for Python via la plate-forme .Net. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Microsoft Office ou Excel. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
+ API qui est un outil de manipulation de documents riche en fonctionnalités, puissant et facile à utiliser API for Python via la plateforme .Net. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Office ou Excel Microsoft. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ API qui est une manipulation de documents riche en fonctionnalités, puissante e
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer une image dans un fichier Excel en utilisant Python via .Net" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer une image dans un fichier Excel à l\'aide de Python via .Net" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,9 +38,9 @@ Vous avez besoin du Aspose.Cells pour essayer le flux de travail suivant dans vo
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
- + Utilisez l'ajout de la collection d'images[méthode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picturecollection/) pour insérer une image dans la feuille de calcul sélectionnée.
+ + Utilisez l'ajout de la collection d'images[méthode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picturecollection/)pour insérer une image dans la feuille de calcul sélectionnée.
 + Enregistrer le classeur au format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,7 +53,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Tout système d'exploitation pouvant exécuter des scripts Python via .Net, tels que Windows, Linux
+-  Tout système d'exploitation pouvant exécuter des scripts Python via .Net, tel que Windows, Linux
 -  Installez Aspose.Cells for Python via .Net à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -70,9 +71,9 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells API" %}}
 
-Aspose.Cells API capable de créer des applications multiplateformes, peut être utilisé pour créer, éditer, convertir et rendre des formats Excel Microsoft dans différents formats (comme images, PDF, HTML, ODS et plus). De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Il est important que Aspose.Cells soit un API autonome et qu'il ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API capable de créer des applications multiplateformes, peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats (comme des images, PDF, HTML, ODS et plus). des rapports évolutifs et des calculs fiables dans les applications logicielles, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Il est important que Aspose.Cells soit un API autonome et qu'il ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +81,7 @@ Aspose.Cells API capable de créer des applications multiplateformes, peut être
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

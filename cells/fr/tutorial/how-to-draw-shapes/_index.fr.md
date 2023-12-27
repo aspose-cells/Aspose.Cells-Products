@@ -2,53 +2,53 @@
 title: Comment ajouter des formes via Aspose.Cells
 weight: 7700
 limit:
-description: Découvrez comment ajouter des formes.
+description: Apprenez à ajouter des formes.
 keywords: [add shapes., how to add shapes in Aspose.Cells., how to add shapes using Aspose.Cells]
 url: /fr/tutorial/add-shapes-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Apprenez à ajouter des formes avec Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Apprenez à ajouter des formes avec le Aspose.Cells" >}}
 
 <p>
-Dans ce tutoriel, nous allons ajouter des formes dans un fichier Excel.
+Dans ce didacticiel, nous ajouterons des formes dans un fichier Excel.
 </p>
 
 <p>
- Nous allons commencer par créer un nouveau classeur à l'aide de<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells bibliothèque</a> et ajouter des formes.
+ Nous allons commencer par créer un nouveau classeur en utilisant le<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells bibliothèque</a> et ajoutez des formes.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
 //ExSummary : veuillez vérifier le code suivant pour savoir comment ajouter des formes.
-//ExStepSummary:0 : le code suivant montre comment ajouter une forme de rectangle.
-//ExStepImage:0:step-1.png
-//ExStepSummary:1 : le code suivant montre comment ajouter une forme de ligne.
-//ExStepImage:1:step-2.png
-//ExStepSummary:2 : le code suivant montre comment ajouter une forme ovale.
-//ExStepImage:2:step-3.png
-//ExStart
+//ExStepSummary:0 : Le code suivant montre comment ajouter une forme rectangulaire.
+//ExStepImage:0:étape-1.png
+//ExStepSummary:1 : Le code suivant montre comment ajouter une forme de ligne.
+//ExStepImage:1:étape-2.png
+//ExStepSummary:2 : Le code suivant montre comment ajouter une forme ovale.
+//ExStepImage:2:étape-3.png
+//ExDébut
 //ExStep:0-
-en utilisant Aspose.Cells ;
+en utilisant le Aspose.Cells ;
 en utilisant Aspose.Cells.Dessin ;
 
 
 
 
 
-classeur classeur = nouveau classeur();
-Feuille de calcul = workbook.Worksheets[0] ;
-feuille.PageSetup.PrintGridlines = vrai;
+Classeur workbook = new Workbook();
+Feuille de calcul = workbook.Worksheets[0];
+sheet.PageSetup.PrintGridlines = true;
 feuille.PageSetup.PrintArea = "A1:F20";
 
-Formes ShapeCollection = feuille. Formes ;
+Formes ShapeCollection = feuille.Shapes;
 
 //Ajouter une forme de rectangle
-formes.AjouterRectangle(1, 0, 1, 0, 100, 150);
+formes.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStep:1-
 //Ajouter une forme de ligne
-formes. AddLine (8, 0, 1, 0, 100, 150);
+formes.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
 //Ajouter une forme ovale
@@ -64,8 +64,8 @@ classeur
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Mise en place du Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Éditeur</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Installation du Aspose.Cells</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editeur</a></li>
     </ul>
 </div>
 

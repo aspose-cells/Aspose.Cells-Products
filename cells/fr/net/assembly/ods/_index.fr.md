@@ -1,7 +1,8 @@
 ---
 title:  Générer des rapports dans les fichiers ODS via .NET
 weight: 520
-description: C# code source pour générer des rapports au format ODS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: Code source C# pour générer des rapports au format ODS sur les plateformes .NET Framework, .NET Core, Mono ou Xamarin.
+keywords: [C# Aspose.Cells., c# Create ODS Reports Based on Predesigned Excel Template., c# Generate ODS Reports Based on Predesigned Excel Template., c# Create ODS Reports Based on Excel Template., C# Generate ODS Reports Based on Excel Template., c# Create ODS files Based on Excel Template., C# Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Génération de rapports en masse au format ODS via C#" h2="Générez des rapports au format ODS à l\'aide d\'une source de données et d\'un modèle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -11,13 +12,13 @@ description: C# code source pour générer des rapports au format ODS sur .NET F
 
 {{% blocks/products/pf/agp/content h2="Comment générer des rapports basés sur ODS à l\'aide de C#" %}}
 
- Pour créer des rapports ODS, nous utiliserons
+ Afin de créer des rapports ODS, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une génération de rapports API riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C#. Ouvrir
+ API qui est un générateur de rapports API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -33,7 +34,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour assembler ODS via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes d\'assemblage ODS via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -51,13 +52,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou Xamarin Platforms
 -  Environnement de développement comme Microsoft Visual Studio
--  Ajouter une référence à la DLL Aspose.Cells for .NET dans votre projet
+-  Ajoutez une référence à la DLL Aspose.Cells for .NET dans votre projet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -74,9 +75,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -84,14 +85,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite à assembler ODS" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers ODS](https://products.aspose.app/cells/assembly/ods) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour assembler ODS" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers ODS](https://products.aspose.app/cells/assembly/ods) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier ODS et d\'appuyer sur le bouton \"Assembler\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement le fichier ODS et cliquez sur le bouton \"Assembler\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier ODS résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Les fichiers avec l'extension ODS représentent le format de document de feuille de calcul OpenDocument modifiable par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et en colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour l'édition et la manipulation, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis en d'autres formats de feuille de calcul, ainsi que XLS, XLSX et d'autres par différentes applications.
+Les fichiers avec l'extension ODS représentent le format de document OpenDocument Spreadsheet qui sont modifiables par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour les éditer et les manipuler, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuilles de calcul, comme XLS, XLSX et autres par différentes applications.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -99,11 +100,11 @@ Les fichiers avec l'extension ODS représentent le format de document de feuille
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapport pris en charge" subTitle="En utilisant C#, on peut facilement générer des rapports de plusieurs formats, y compris." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapports pris en charge" subTitle="En utilisant C#, on peut facilement générer des rapports de plusieurs formats, notamment." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

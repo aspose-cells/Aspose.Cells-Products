@@ -1,8 +1,8 @@
 ---
-title: C++ Réparer le fichier xlsx - Réparer le fichier xlsx en ligne gratuitement
+title: C++ Réparer xlsx - Récupérer et réparer un fichier xlsx corrompu
 url: /fr/cpp/recovery/repair-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Réparer le fichier xlsx. Outil de réparation xlsx en ligne gratuit. Réparez un fichier xlsx corrompu. Récupérez un fichier xlsx corrompu dans l'application C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx file., Free Online Repair a corrupted xlsx file., C++ Recover xlsx file.]
+description: C++ Aspose.Cells. Réparation xlsx. Correction du fichier xlsx. outil de récupération xlsx. corruption xlsx. Restaurez les données xlsx. récupération de fichier xlsx. Récupérez le fichier xlsx corrompu.
+keywords: [C++ Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Réparer le fichier XLSX dans C++" h2="Créez votre propre application C++ pour réparer les fichiers xlsx à l\'aide de C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsx 
 
 {{% blocks/products/pf/agp/content h2="Réparer le fichier XLSX à l\'aide de C++" %}}
 
- Comment réparer le fichier xlsx ? Avec la bibliothèque Aspose.Cells for C++, vous pouvez facilement réparer le fichier XLSX par programmation avec quelques lignes de code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. C++ Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestionnaire de packages, recherchez Aspose.Cells.Cpp et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ Comment réparer le fichier xlsx ? Avec la bibliothèque Aspose.Cells for C++, vous pouvez facilement réparer le fichier XLSX par programme avec quelques lignes de code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. C++ Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement, ouvrez simplement[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Gestionnaire de packages, recherchez Aspose.Cells.Cpp et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -31,27 +31,27 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de réparer le fichier xlsx par programme ? Les développeurs C++ peuvent facilement charger et réparer le fichier xlsx en quelques lignes de code.
+Besoin de réparer le fichier xlsx par programme ? Les développeurs C++ peuvent facilement charger et réparer le fichier xlsx en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
++ Définir une classe qui hérite de Aspose.Cells.IWarningCallback.
 + Chargez le fichier XLSX en créant une instance de Workbook, en utilisant la classe d'héritage ci-dessus, reportez-vous au code ci-dessus.
 + Enregistrez le classeur, le fichier xlsx corrompu sera réparé.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Application gratuite et exemple de code pour réparer le fichier XLSX en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Exemple de code pour réparer le fichier XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="Bibliothèque C++ pour réparer le fichier XLSX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Il existe trois options pour installer "Aspose.Cells for C++" sur votre système. Veuillez en choisir un qui correspond à vos besoins et suivez les instructions étape par étape :
+Il existe trois options pour installer « Aspose.Cells for C++ » sur votre système. Veuillez en choisir un qui correspond à vos besoins et suivre les instructions étape par étape :
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installez un[NuGet Colis](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Voir[Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Installer un[NuGet Colis](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Voir[Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installez la bibliothèque à l'aide des dossiers Include et lib. Voir[Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Installez Aspose.Cells for C++ sous Linux. Voir[Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
@@ -60,9 +60,9 @@ Il existe trois options pour installer "Aspose.Cells for C++" sur votre système
 
 {{% blocks/products/pf/agp/content h2="Configuration requise" %}}
 
- Aspose.Cells for C++ est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
  
-- Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 - Ajoutez une référence à la DLL Aspose.Cells for C++ dans votre projet.
 
 
@@ -73,7 +73,7 @@ Il existe trois options pour installer "Aspose.Cells for C++" sur votre système
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
+XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes telles que décrites dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -81,12 +81,12 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant C++, on peut facilement réparer d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant le C++, on peut facilement réparer d’autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Réparation ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Réparation XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="Réparation XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Réparation XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

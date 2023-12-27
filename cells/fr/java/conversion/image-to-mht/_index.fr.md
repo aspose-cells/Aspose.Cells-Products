@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE en MHT - Convertisseur IMAGE en MHT en ligne
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratuit en ligne Java Convertir IMAGE en format de sauvegarde MHT. Java IMAGE au format MHT. Enregistrez l'IMAGE sur MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to MHT saveformat., Free Online IMAGE to MHT Java., Java Convert IMAGE to MHT]
+title: Java IMAGE en MHT - Convertisseur IMAGE en MHT
+description: Aspose Exceller. Convertissez IMAGE en MHT rapidement et facilement avec Aspose.Cells. Java IMAGE en MHT. Java Enregistrez l’IMAGE dans MHT. Enregistrez l'IMAGE au format MHT en utilisant le Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to MHT in Java., Save IMAGE to MHT using Java., Java IMAGE to MHT saveformat., IMAGE to MHT Converter., Java Save IMAGE as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir IMAGE en MHT en Java" h2="Bibliothèque Java haute vitesse pour convertir IMAGE en MHT. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter IMAGE, MHT et de nombreux autres formats en utilisant Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Convertir IMAGE en MHT en utilisant Java" %}}
 
- Comment convertir IMAGE en MHT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement convertir IMAGE en MHT par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment convertir IMAGE en MHT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement convertir IMAGE en MHT par programme avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Java Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Enregistrez IMAGE sur MHT au Java en ligne gratuitement" %}}
+{{% blocks/products/pf/agp/content h2="Enregistrer l\'IMAGE dans MHT au Java" %}}
 
 L'exemple suivant montre comment convertir IMAGE en MHT en Java.
 {{% blocks/products/pf/agp/text %}}
 
-Suivez les étapes simples pour convertir IMAGE en MHT. Téléchargez votre fichier IMAGE, puis enregistrez-le simplement en tant que fichier MHT. Pour la lecture IMAGE et l'écriture MHT, vous pouvez utiliser des noms de fichiers complets. Le contenu et le formatage MHT de sortie seront identiques au document IMAGE d'origine.
+Suivez les étapes simples pour convertir IMAGE en MHT. Téléchargez votre fichier IMAGE, puis enregistrez-le simplement en tant que fichier MHT. Pour la lecture d'IMAGE et l'écriture MHT, vous pouvez utiliser des noms de fichiers complets. Le contenu et le formatage MHT de sortie seront identiques au document IMAGE original.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir IMAGE en MHT en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exemple de code pour convertir IMAGE en MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Comment convertir une image en MHT via Java" %}}
+{{% blocks/products/pf/agp/content h2="Comment convertir IMAGE en MHT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de convertir des fichiers IMAGE en MHT par programmation ? Les développeurs Java peuvent facilement convertir IMAGE en MHT en quelques lignes de code.
+Besoin de convertir des fichiers IMAGE en MHT par programme ? Java peuvent facilement convertir IMAGE en MHT en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Besoin de convertir des fichiers IMAGE en MHT par programmation ? Les développ
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="bibliothèque Java pour convertir IMAGE en MHT" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque Java pour convertir IMAGE en MHT" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Nous hébergeons nos packages Java dans[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dépôts. 'Aspose.Cells for Java' est un fichier JAR commun contenant du byte-code. Veuillez suivre la[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) comment l'installer dans votre environnement de développement Java.
+ Nous hébergeons nos colis Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) référentiels. « Aspose.Cells for Java » est un fichier JAR commun contenant du byte-code. Veuillez suivre le[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) sur la façon de l'installer dans votre environnement de développement Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,30 +86,30 @@ Besoin de convertir des fichiers IMAGE en MHT par programmation ? Les développ
 
 {{% blocks/products/pf/agp/text %}}
 
- Avant d'exécuter le code source de conversion Java, assurez-vous que vous disposez des prérequis suivants.
+ Avant d'exécuter le code source de conversion Java, assurez-vous que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 - Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un fichier PNG (Portable Network Graphics) est un format de fichier image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement de Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d'image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l'un des formats de fichiers image les plus utilisés.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, des styles de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML en un seul fichier d'archive pour le stockage lors de l'archivage sur des périphériques de stockage. Des applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explorer et Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Un fichier PNG (Portable Network Graphics) est un format de fichier image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement du Graphics Interchange Format (GIF) et n'a aucune limitation de droits d'auteur. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d’image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l’un des formats de fichiers image les plus utilisés.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, du style de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML en tant que fichier d'archive unique à stocker lors de l'archivage sur des périphériques de stockage. Les applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explore et Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir IMAGE en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir IMAGE en de nombreux autres formats de fichiers, dont quelques-uns répertoriés ci-dessous." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-bmp/" name="IMAGE AU BMP" description="Image bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-emf/" name="IMAGE AU EMF" description="Format de métafichier amélioré" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-gif/" name="IMAGE AU GIF" description="Format d\'échange graphique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-html/" name="IMAGE AU HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-md/" name="IMAGE SUR MD" description="Langage Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-mhtml/" name="IMAGE AU MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-md/" name="IMAGE SUR MD" description="Langage de démarque" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-mhtml/" name="IMAGE AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-ods/" name="IMAGE AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-pdf/" name="IMAGE AU PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-png/" name="IMAGE AU PNG" description="Portable Network Graphics" >}}
@@ -119,15 +119,15 @@ Besoin de convertir des fichiers IMAGE en MHT par programmation ? Les développ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-txt/" name="IMAGE AU TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xls/" name="IMAGE AU XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsb/" name="IMAGE AU XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsm/" name="IMAGE AU XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsm/" name="IMAGE AU XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsx/" name="IMAGE AU XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlt/" name="IMAGE AU XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlt/" name="IMAGE AU XLT" description="Modèle Excel Microsoft" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="IMAGE AU XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="IMAGE AU XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="IMAGE AU XLTX" description="Modèle Excel Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xml/" name="IMAGE EN XML" description="Langage de balisage extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="IMAGE AU XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="IMAGE AU XPS" description="Spécifications du papier XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="IMAGE AU JSON" description="Notation d\'objet JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="IMAGE AU JPEG" description="JPEG Photo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="IMAGE AU JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

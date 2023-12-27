@@ -1,7 +1,8 @@
 ---
-title:  XLSB ficha de documento via Java
+title:  XLSB gráfico de documento via Java
 weight: 670
-description: Java código de amostra para desenhar e converter gráfico ou diagrama no arquivo XLSB em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Código de amostra Java para desenhar e converter gráfico ou diagrama no arquivo XLSB em Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsb., Java Save chart to image in xlsb., Java chart to image in xlsb., xlsb convert chart to image in Java., xlsb save chart to imagein Java., xlsb chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Formata gráficos em Java" h2="Gráficos de documentos XLSB nativos e de alto desempenho usando APIs Aspose.Cells for Java do lado do servidor, sem o uso de qualquer software como Microsoft ou Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -11,7 +12,7 @@ description: Java código de amostra para desenhar e converter gráfico ou diagr
 
 {{% blocks/products/pf/agp/content h2="Como criar gráficos de arquivo XLSB usando Java" %}}
 
- Para criar gráficos de arquivo XLSB, usaremos
+Para criar gráficos de arquivos XLSB, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, que é uma plataforma de gráficos API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -53,18 +54,18 @@ description: Java código de amostra para desenhar e converter gráfico ou diagr
 
 {{% blocks/products/pf/agp/text %}}
 
- Um gráfico de documento básico com
+ Um gráfico básico de documentos com
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- As APIs podem ser feitas com apenas algumas linhas de código.
+ APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Criar objeto de classe Workbook.
 + Obtenha a referência da primeira planilha.
-+ Adicionar valores de amostra às células.
++ Adicione valores de amostra às células.
 + Adicione um gráfico à planilha.
 + Acesse a instância do gráfico recém-adicionado.
-Definir a fonte de dados do gráfico como o intervalo.
++ Definir fonte de dados do gráfico como intervalo.
 + Salvar pasta de trabalho.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -73,17 +74,17 @@ Definir a fonte de dados do gráfico como o intervalo.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for Java é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+-  Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 -  Obtenha a versão mais recente de Aspose.Cells for Java diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Criar Gráfico de Arquivos XLSB - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Criar gráfico de arquivos XLSB - Java" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "b48fa96f2807e16db8031eb177e5bb60" "create-excel-document-xlsb-chart.java" >}}
 
@@ -98,20 +99,20 @@ Definir a fonte de dados do gráfico como o intervalo.
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice. Converter gráfico do Excel para PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice. Converta gráfico do Excel em PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="On-line XLSB Demonstrações ao vivo de conversão de gráficos" sectionDescription=" Converta gráficos de documentos XLSB em imagens agora mesmo visitando nosso visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo de conversão de gráficos on-line XLSB" sectionDescription=" Converta XLSB gráficos de documentos em imagens agora mesmo visitando nosso visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos XLSB." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos XLSB." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" O gráfico será convertido instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.
+ formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -119,12 +120,12 @@ XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráfico suportados" subTitle="Usando Java, pode-se facilmente lidar com charing com diferentes formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráficos suportados" subTitle="Usando Java, é possível lidar facilmente com diferentes formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

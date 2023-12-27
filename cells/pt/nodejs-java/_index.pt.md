@@ -1,10 +1,10 @@
 ---
 title:  APIs Node.js para planilhas do Excel - Aspose
 weight: 3120
-description: Processe formatos de arquivo do Excel por meio da biblioteca Node.js. Leitura, gravação, renderização e conversão XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e mais formatos via Node.js em Windows, macOS e Linux
+description: Processe formatos de arquivo Excel por meio da biblioteca Node.js. Leia, escreva, renderize e converta XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e mais formatos via Node.js em Windows, macOS e Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo Excel Node.js" h2="Gere, modifique, converta e renderize planilhas do Excel usando Node.js sem exigir Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo Excel Node.js." h2="Gere, modifique, converta e renderize planilhas do Excel usando Node.js sem precisar do Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,11 +12,11 @@ description: Processe formatos de arquivo do Excel por meio da biblioteca Node.j
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java é um API rico em recursos e escalável para processar planilhas do Excel usando Node.js. API oferece conversão de formato de arquivo Excel, estilo de planilhas para o nível mais granular, criação de gráficos e criação de gráficos. renderização, mecanismo confiável de cálculo de fórmulas e muito mais.
+ Aspose.Cells for Node.js via Java é um API escalonável e rico em recursos para processar planilhas do Excel usando Node.js. API oferece conversão de formato de arquivo Excel, estilo de planilhas no nível mais granular, criação e edição de gráficos. renderização, mecanismo confiável de cálculo de fórmulas e muito mais.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares, incluindo XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares, incluindo XLS, XLSX, ODS, SpreadsheetML, CSV, TSC e TSC. HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,10 +38,10 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
  Converter gráfico em imagem
     </li>
     <li>
- Converter Planilha em Imagem
+ Converter planilha em imagem
     </li>
     <li>
- Converter planilha para PDF
+ Converter planilha em PDF
     </li>
    </ul>
   </div>
@@ -57,13 +57,13 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
  Gráficos
     </li>
     <li>
- Cálculo da Fórmula
+ Cálculo de Fórmula
     </li>
     <li>
- marcadores inteligentes
+ Marcadores inteligentes
     </li>
     <li>
- Tabelas Dinâmicas
+ Tabelas dinâmicas
     </li>
     <li>
  Formatação condicional
@@ -121,7 +121,7 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
    <header>
     <i class="fa fa-cubes">
     </i>
- Java Ambiente de Execução
+ Java Ambiente de tempo de execução
    </header>
    <!--
 
@@ -157,7 +157,7 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Cells for Node.js via Java oferece suporte a formatos populares de arquivo de planilha junto com os formatos de imagem e layout fixo mais comumente usados." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Cells for Node.js via Java suporta formatos de arquivo de planilha populares junto com os formatos de imagem e layout fixo mais comumente usados." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -183,7 +183,7 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
      <b>
  Texto:
      </b>
- CSV, delimitado por tabulações, TXT
+ CSV, delimitado por tabulação, TXT
     </li>
     <li>
      <b>
@@ -198,12 +198,12 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente Saída
+ Somente saída
    </header>
    <ul>
     <li>
      <b>
- Esquema Fixo:
+ Layout Fixo:
      </b>
      PDF, XPS
     </li>
@@ -247,7 +247,7 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Planilha Excel Node.js Avançado API Recursos
+ Recursos avançados da planilha Excel Node.js API
    </h2>
    <p>
    </p>
@@ -255,28 +255,28 @@ Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crie Tabelas Dinâmicas, gráficos, sparklines &amp; formatação condicional
+ Crie tabelas dinâmicas, gráficos, minigráficos e gráficos. formatação condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Atualizar gráficos e gráficos existentes converter gráficos em imagens ou PDF
+ Atualize os gráficos existentes e atualize-os. converter gráficos em imagens ou PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Criar &amp; manipular comentários &amp; hiperlinks
+Crie e manipular comentários e hiperlinks
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Defina fórmulas complexas &amp; calcular resultados via API
+ Defina fórmulas complexas e calcular resultados via API
     </p>
    </div>
    <div class="col-lg-4">
@@ -290,7 +290,7 @@ Criar &amp; manipular comentários &amp; hiperlinks
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular intervalos nomeados
+ Crie e manipular intervalos nomeados
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,14 +304,14 @@ Criar &amp; manipular comentários &amp; hiperlinks
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipular e atualizar tabelas dinâmicas via API
+ Manipule e atualize tabelas dinâmicas via API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converta planilhas para PDF, XPS e XPS &amp; SVG formatos
+ Converta planilhas em PDF, XPS e XPS. SVG formatos
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +327,7 @@ Criar &amp; manipular comentários &amp; hiperlinks
  Opções de exibição flexíveis
     </h2>
     <p>
-Aspose.Cells for Node.js via Java fornece controle total da configuração da página da planilha, pode-se manipular as opções de exibição da planilha, como orientação da página, quebras, tamanho, escala, cabeçalhos, rodapés e nível de zoom. Além disso, os desenvolvedores podem controlar a visibilidade dos dados com a ajuda da área de impressão e congelar painéis para atender às especificações do aplicativo.
+Aspose.Cells for Node.js via Java fornece controle total da configuração da página da planilha, é possível manipular as opções de exibição da planilha, como orientação da página, quebras, tamanho, escala, cabeçalhos, rodapés e nível de zoom. Além disso, os desenvolvedores podem controlar a visibilidade dos dados com a ajuda da área de impressão e congelar painéis para atender às especificações da aplicação.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,15 +335,15 @@ Aspose.Cells for Node.js via Java fornece controle total da configuração da p�
  Opções de segurança
     </h2>
     <p>
- Aspose.Cells for Node.js via Java oferece uma ampla variedade de recursos de segurança, incluindo criptografia/descriptografia de planilhas, conteúdo, objetos e amp; proteção de cenário, bem como a capacidade de ocultar e exibir linhas, colunas e amp; fichas de trabalho.
+ Aspose.Cells for Node.js via Java oferece uma ampla gama de recursos de segurança, incluindo criptografia/descriptografia de planilhas, conteúdo, objeto e criptografia. proteção de cenário, bem como a capacidade de ocultar e exibir linhas, colunas e arquivos. fichas de trabalho.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Manipular linhas &amp; colunas
+ Manipule linhas e Colunas
     </h2>
     <p>
- Aspose.Cells for Node.js via Java permite manipular linhas e colunas de várias maneiras diferentes. Você pode ajustar facilmente a altura e a largura da linha. largura da coluna, dimensionar automaticamente as células de acordo com o conteúdo, inserir &amp; excluir, ocultar &amp; un-ocultar, bem como agrupar &amp; desagrupar linhas &amp; colunas.
+ Aspose.Cells for Node.js via Java permite manipular linhas e colunas de muitas maneiras diferentes. Você pode ajustar facilmente a altura e a altura da linha. largura da coluna, dimensione automaticamente as células de acordo com o conteúdo, insira e insira; excluir, ocultar e un-hide, bem como group &amp; desagrupar linhas &amp; colunas.
     </p>
    </div>
    <div class="col-lg-12">
@@ -351,15 +351,15 @@ Aspose.Cells for Node.js via Java fornece controle total da configuração da p�
 Suporte abrangente para formatação de planilhas
     </h2>
     <p>
- Aspose.Cells for Node.js via Java fornece recursos avançados de formatação que permitem controlar a apresentação de seus dados. Você pode aplicar formatação a uma planilha, coluna, linha ou célula ou adicionar Rich Text a uma única célula, aplicar bordas, definir padrões de fundo e estilo de fonte. O API também permite adicionar, manipular &amp; calcule as regras de formatação condicional em tempo real.
+ Aspose.Cells for Node.js via Java fornece recursos avançados de formatação que permitem controlar a apresentação de seus dados. Você pode aplicar formatação a uma planilha, coluna, linha ou célula ou adicionar Rich Text a uma única célula, aplicar bordas, definir padrões de fundo e estilo de fonte. O API também permite adicionar, manipular e adicionar dados. calcule regras de formatação condicional dinamicamente.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Criação, manipulação e manipulação de gráficos Renderização
+ Criação, manipulação e manipulação de gráficos. Renderização
     </h2>
     <p>
- Aspose.Cells for Node.js via Java fornece suporte completo para gráficos. Pode-se facilmente adicionar gráficos personalizados ou padrão usando o API e definir dinamicamente os dados para atualizar os gráficos.
+ Aspose.Cells for Node.js via Java fornece suporte completo para gráficos. Pode-se facilmente adicionar gráficos personalizados ou padrão usando API e definir dinamicamente os dados para atualizar os gráficos.
     </p>
    </div>
   </div>
@@ -375,13 +375,13 @@ Suporte abrangente para formatação de planilhas
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referências" href="https://reference.aspose.com/nodejs/cells" >}}
-{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}

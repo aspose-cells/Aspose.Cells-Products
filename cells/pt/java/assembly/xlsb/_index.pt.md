@@ -1,7 +1,8 @@
 ---
-title:  Gerar Relatórios em XLSB Arquivos via Java
+title:  Gerar Relatórios nos Arquivos XLSB via Java
 weight: 3560
-description: Java código de amostra para criar relatórios no formato XLSB em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Código de amostra Java para criar relatórios no formato XLSB no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+keywords: [Java Aspose.Cells., Java Create XLSB Reports Based on Predesigned Excel Template., Java Generate XLSB Reports Based on Predesigned Excel Template., Java Create XLSB Reports Based on Excel Template., Java Generate XLSB Reports Based on Excel Template., Java Create XLSB files Based on Excel Template., Java Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Geração de relatórios em massa no formato XLSB via Java" h2="Gere relatórios no formato XLSB usando fonte de dados e um modelo." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Java código de amostra para criar relatórios no formato XLSB em J
 
  Para criar relatórios de arquivo XLSB, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que é uma plataforma de montagem API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
+ API, que é uma plataforma de montagem API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
@@ -49,16 +50,16 @@ description: Java código de amostra para criar relatórios no formato XLSB em J
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passos para Gerar XLSB Relatórios via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Etapas para gerar relatórios XLSB via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instanciar a classe WorkbookDesigner
-1. Adicionar objetos DataSouce em um ArrayList
+1.  Instanciar classe WorkbookDesigner
+1. Adicionar objetos Datasouce em um ArrayList
 1.  Definir fonte de dados e processo para o objeto WorkbookDesigner
-1.  Salve o resultado no formato XLSB por meio do método Worbook.save
+1.  Salve o resultado no formato XLSB através do método Workbook.save
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,18 +67,18 @@ description: Java código de amostra para criar relatórios no formato XLSB em J
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for Java é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 - Obtenha a versão mais recente de Aspose.Cells for Java diretamente de Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Gerar relatórios do Excel no formato XLSB - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Gerar relatórios Excel no formato XLSB - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
@@ -109,7 +110,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -117,14 +118,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para montar XLSB" sectionDescription=" Confira nossas demonstrações ao vivo para[criar XLSB arquivos](https://products.aspose.app/cells/assembly/xlsb) com os seguintes benefícios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo Gratuito para Montar XLSB" sectionDescription=" Confira nossas demonstrações ao vivo para[criar arquivos XLSB](https://products.aspose.app/cells/assembly/xlsb) com os seguintes benefícios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever ou compilar código" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta carregar o arquivo XLSB e clicar no botão \"Montar\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer upload do arquivo XLSB e clicar no botão \"Montar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Baixe o arquivo XLSB resultante no link" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.
+O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,12 +133,12 @@ XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de geração de relatórios suportados" subTitle="Usando Java, pode-se facilmente gerar relatórios de vários formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de geração de relatórios suportados" subTitle="Usando Java, pode-se gerar facilmente relatórios de vários formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

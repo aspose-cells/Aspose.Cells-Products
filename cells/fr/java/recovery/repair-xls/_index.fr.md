@@ -1,8 +1,8 @@
 ---
-title: Java Réparer le fichier xls - Réparer le fichier xls en ligne gratuitement
+title: Java Réparer xls - Récupérer et réparer un fichier xls corrompu
 url: /fr/java/recovery/repair-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Java Réparer le fichier xls. Outil de réparation xls en ligne gratuit. Réparez un fichier xls corrompu. Récupérez un fichier xls corrompu dans l'application Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Free Online Repair a corrupted xls file., Java Recover xls file.]
+description: Java Aspose.Cells. Réparation xls. Correction du fichier xls. outil de récupération xls. corruption xls. Restaurer les données xls. récupération de fichier xls. Récupérez le fichier xls corrompu.
+keywords: [Java Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Réparer le fichier XLS dans Java" h2="Créez votre propre application Java pour réparer les fichiers xls à l\'aide de Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Réparer le fichier XLS à l\'aide de Java" %}}
 
- Comment réparer un fichier xls ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement réparer le fichier XLS par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment réparer le fichier xls ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement réparer le fichier XLS par programme avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Java Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -50,23 +50,23 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/text %}}
 
-Besoin de réparer le fichier xls par programmation ? Les développeurs Java peuvent facilement charger et réparer le fichier xls en quelques lignes de code.
+Besoin de réparer le fichier xls par programme ? Les développeurs Java peuvent facilement charger et réparer le fichier xls en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
++ Définir une classe qui hérite de Aspose.Cells.IWarningCallback.
 + Chargez le fichier XLS en créant une instance de Workbook, en utilisant la classe d'héritage ci-dessus, reportez-vous au code ci-dessus.
 + Enregistrez le classeur, le fichier xls corrompu sera réparé.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Application gratuite et exemple de code pour réparer le fichier XLS en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Exemple de code pour réparer le fichier XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Bibliothèque Java pour réparer le fichier XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Nous hébergeons nos packages Java dans[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dépôts. 'Aspose.Cells for Java' est un fichier JAR commun contenant du byte-code. Veuillez suivre la[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) comment l'installer dans votre environnement de développement Java.
+ Nous hébergeons nos colis Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) référentiels. « Aspose.Cells for Java » est un fichier JAR commun contenant du byte-code. Veuillez suivre le[instructions étape par étape](https://docs.aspose.com/cells/java/installation/) sur la façon de l'installer dans votre environnement de développement Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,9 +74,9 @@ Besoin de réparer le fichier xls par programmation ? Les développeurs Java peu
 
 {{% blocks/products/pf/agp/content h2="Configuration requise" %}}
 
- Aspose.Cells for Java est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for Java est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
  
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 - Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
 
 
@@ -87,7 +87,7 @@ Besoin de réparer le fichier xls par programmation ? Les développeurs Java peu
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres programmes de tableur similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit le premier choix d'utilisation maintenant.
+Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. De tels fichiers peuvent être créés par Microsoft Excel ainsi que d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de Workbook où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,12 +95,12 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant Java, on peut facilement réparer d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Réparer d\'autres formats Excel pris en charge" subTitle="En utilisant le Java, on peut facilement réparer d’autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Réparation ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Réparation XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Réparation XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Réparation XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

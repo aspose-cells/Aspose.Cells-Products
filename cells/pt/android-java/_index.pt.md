@@ -1,10 +1,10 @@
 ---
 title: Planilha Excel Android API - Aspose
 weight: 6510
-description: Biblioteca de planilhas Android para criar leitura, gravação e análise de arquivos do Excel. Uma planilha API para desenvolvimento de aplicativos móveis
+description: Biblioteca de planilhas Android para criar arquivos Excel de leitura, gravação e análise. Uma planilha API para desenvolvimento de aplicativos móveis
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs do Android para manipular planilhas do Excel" h2="Crie, leia, escreva ou manipule arquivos do Excel em aplicativos Android sem quaisquer dependências." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs Android para manipular planilhas Excel" h2="Crie, leia, escreva ou manipule arquivos Excel em aplicativos Android sem nenhuma dependência." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Biblioteca de planilhas Android para criar leitura, gravação e an
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java é um API escalável para gerar, combinar, modificar e analisar planilhas programaticamente. API oferece muitas funções, incluindo formatação de documento Excel e tarefas de configuração de página, recursos de importação e exportação, renderização de páginas de planilha para imagens raster, bem como especificação de resolução de imagem, qualidade, compactação, adição de gráficos diferentes e muito mais. A planilha Android API suporta XLS, XLSX, CSV, SpreadsheetML, ODS, Delimitado por tabulação, HTML, PDF, XPS e mais formatos.
+ Aspose.Cells for Android via Java é um API escalável para gerar, combinar, modificar e analisar planilhas programaticamente. API oferece muitas funções, incluindo formatação de documentos Excel e tarefas de configuração de página, recursos de importação e exportação, renderização de páginas de planilhas em imagens raster, bem como especificação de resolução de imagem, qualidade, compactação, adição de gráficos diferentes e muito mais. A planilha Android API suporta XLS, XLSX, CSV, SpreadsheetML, ODS, delimitado por tabulação, HTML, PDF, XPS e mais formatos.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -27,7 +27,7 @@ description: Biblioteca de planilhas Android para criar leitura, gravação e an
    <header>
     <i class="fa fa-refresh">
     </i>
- Importar &amp; Exportar
+ Importar e Exportar
    </header>
    <ul>
     <li>
@@ -50,7 +50,7 @@ Coleções
  Gráfico para imagem
     </li>
     <li>
- Planilha para Imagem
+ Planilha para imagem
     </li>
     <li>
  Planilha para PDF
@@ -78,7 +78,7 @@ Coleções
  Resumir
     </li>
     <li>
- marcadores inteligentes
+ Marcadores inteligentes
     </li>
    </ul>
   </div>
@@ -95,7 +95,7 @@ Coleções
     <em>
  para
     </em>
- Android via Java
+ Androidvia Java
    </small>
   </footer>
  </div>
@@ -114,11 +114,11 @@ Coleções
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Ambiente de execução do Android
+ Ambiente de execução Android
    </header>
    <ul>
     <li>
- Aplicativo móvel
+ Aplicativo Móvel
     </li>
    </ul>
   </div>
@@ -135,7 +135,7 @@ Coleções
     <em>
  para
     </em>
- Android via Java
+ Androidvia Java
    </small>
   </footer>
  </div>
@@ -185,12 +185,12 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente Saída
+ Somente saída
    </header>
    <ul>
     <li>
      <b>
- Esquema Fixo:
+ Layout Fixo:
      </b>
  PDF, PDF/A, XPS
     </li>
@@ -215,7 +215,7 @@ Coleções
     <em>
  para
     </em>
- Android via Java
+ Androidvia Java
    </small>
   </footer>
  </div>
@@ -242,21 +242,21 @@ Coleções
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Aplicar formatação à planilha, linha, coluna, célula e intervalo
+Aplicar formatação a planilha, linha, coluna, célula e intervalo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Exporte e importe dados de ArrayList, Array, Recordset &amp; conjunto de resultados
+ Exporte e importe dados de ArrayList, Array, Recordset &amp; Conjunto de resultados
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criptografar &amp; descriptografar arquivos do Excel
+ Criptografar e descriptografar arquivos do Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -270,49 +270,49 @@ Aplicar formatação à planilha, linha, coluna, célula e intervalo
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular gráficos
+ Crie e manipular gráficos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular comentários
+ Crie e manipular comentários
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leia, defina &amp; calcular fórmulas
+ Leia, defina e calcular fórmulas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Configurar a configuração da página
+ Configurar configuração de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Definir &amp; manipular filtros automáticos &amp; quebras de página
+ Definir e configurar manipular filtros automáticos e quebras de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leia &amp; escrever formatação condicional
+ Leia e escrever formatação condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar cópias de planilhas existentes
+ Crie cópias de planilhas existentes
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,21 +326,21 @@ Aplicar formatação à planilha, linha, coluna, célula e intervalo
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipular células &amp; intervalos nomeados
+ Manipular células e intervalos nomeados
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converter arquivos do Excel para PDF
+ Converta arquivos Excel para PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converter planilhas &amp; gráficos para imagens
+ Converta planilhas e arquivos gráficos para imagens
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,14 +419,14 @@ Aplicar formatação à planilha, linha, coluna, célula e intervalo
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular tabelas dinâmicas
+ Crie e manipular tabelas dinâmicas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular gráficos personalizados
+ Crie e manipular gráficos personalizados
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,7 +440,7 @@ Aplicar formatação à planilha, linha, coluna, célula e intervalo
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular cenários
+ Crie e manipular cenários
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,19 +454,19 @@ Poderoso mecanismo de cálculo de fórmulas
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leia &amp; escreva TSV, CSV &amp; HTML arquivos
+ Leia e escreva TSV, CSV &amp; HTML arquivos
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Conversão de Formatos Diferentes
+ Conversão de formatos diferentes
     </h2>
     <p>
- A biblioteca Android Excel oferece conversão de planilhas para XPS, PDF e PDF &amp; HTML formatos mantendo a maior fidelidade visual. O processo de conversão confiável faz do API a escolha perfeita para as empresas trocarem arquivos em formatos padrão da indústria.
+ A biblioteca Android Excel oferece conversão de planilhas para XPS, PDF e PDF. HTML formatos mantendo a mais alta fidelidade visual. O processo de conversão confiável torna API uma escolha perfeita para as empresas trocarem arquivos em formatos padrão da indústria.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salve a pasta de trabalho em vários formatos - Java
+ Salvar pasta de trabalho em vários formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Converter objetos de planilha em diferentes formatos
+ Converter objetos de planilha em formatos diferentes
     </h2>
     <p>
- Aspose.Cells for Android via Java oferecem alguns recursos distintos, como planilhas para imagens, gráficos para imagens e gráficos. PDF e planilhas para conversão de formato de documento PDF. O processo flexível tem várias opções para a conversão, como reamostragem de imagens durante planilhas para PDF ou definição das dimensões da imagem resultante ao renderizar planilhas e gráficos. gráficos para formatos de imagem.
+ Aspose.Cells for Android via Java oferecem alguns recursos distintos, como planilhas para imagens, gráficos para imagens e gráficos. PDF e planilhas para conversão de formato de documento PDF. O processo flexível tem uma série de opções para a conversão, como reamostragem de imagens durante planilhas para PDF ou configuração das dimensões da imagem resultante ao renderizar planilhas e arquivos. gráficos para formatos de imagem.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Planilha API Mecanismo de Cálculo de Fórmula
+Planilha API Mecanismo de cálculo de fórmulas
     </h2>
     <p>
- O Android Sheets API fornece um poderoso mecanismo de cálculo de fórmulas que suporta as funções e fórmulas avançadas e padrão do Excel Microsoft. O mecanismo de cálculo de fórmulas facilita a leitura, definição e cálculo dos resultados das fórmulas incorporadas ou de tipo de suplemento, matriz e estilo de referência R1C1.
+ As planilhas Android API fornecem um poderoso mecanismo de cálculo de fórmulas que suporta funções e fórmulas avançadas e padrão do Excel Microsoft. O mecanismo de cálculo de fórmulas facilita a leitura, definição e cálculo dos resultados das fórmulas de tipo integradas ou complementares, matriz e estilo de referência R1C1.
     </p>
    </div>
    <!--
@@ -573,13 +573,13 @@ Planilha API Mecanismo de Cálculo de Fórmula
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referências" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Cells for Android via Java?" tabId="success-stories" >}}

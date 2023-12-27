@@ -1,6 +1,7 @@
 ---
 title:  Créer des graphiques linéaires via C#
-description: C# Exemple de code pour créer des graphiques linéaires vers Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique linéaire vers MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
+description: C# Exemple de code pour créer des graphiques linéaires vers Excel à l’aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique linéaire dans MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer des graphiques linéaires via C#" h2="Création de graphiques MS Excel natifs et hautes performances par programmation à l\'aide des API .NET côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Exemple de code pour créer des graphiques linéaires vers Excel
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- La création dynamique de graphiques linéaires dans l'application en cours d'exécution est facile. Afin de créer une variété de graphiques dans des feuilles de calcul à partir de zéro sans nécessiter MS Office, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui offre différentes fonctionnalités pour la création, la manipulation et la conversion de feuilles de calcul à l'aide de la plate-forme .NET. Aspose.Cells fournit de nombreux objets graphiques flexibles.
+La création dynamique de graphiques linéaires dans l’application en cours d’exécution est simple. Afin de créer une variété de graphiques dans des feuilles de calcul à partir de zéro sans nécessiter MS Office, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui offre différentes fonctionnalités pour la création, la manipulation et la conversion de feuilles de calcul à l'aide de la plateforme .NET. Aspose.Cells fournit de nombreux objets graphiques flexibles.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -19,16 +20,16 @@ description: C# Exemple de code pour créer des graphiques linéaires vers Excel
 
 {{% blocks/products/pf/agp/text %}}
 
- Il est facile pour les développeurs de créer un graphique en courbes dans l'exécution de différentes applications de création de rapports pour le traitement des données en quelques lignes de code seulement.
+ Il est facile pour les développeurs de créer un graphique linéaire en exécutant différentes applications de reporting pour le traitement des données en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. Inclure l'espace de noms Aspose.Cells
-1.  Créer[**Cahier**](https://reference.aspose.com/cells/net/aspose.cells/workbook) exemple de classe.
+1.  Créer[**Cahier d'exercices**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instance de classe.
 1. Ajoutez des données à la feuille de calcul.
-1.  Ajouter un[**Doubler**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Graphique à la feuille de calcul.
-1.  Accéder au nouveau[**Graphique**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objet.
-1.  Spécifiez la source de données du graphique avec[**Chart.SetChartDataRangeChart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) méthode.
+1.  Ajouter un[**Doubler**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Graphique sur la feuille de calcul.
+1.  Accédez au nouveau[**Graphique**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objet.
+1.  Spécifiez la source de données du graphique avec[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) méthode.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -37,16 +38,16 @@ description: C# Exemple de code pour créer des graphiques linéaires vers Excel
 
 {{% blocks/products/pf/agp/text %}}
 
- Assurez-vous simplement que le système dispose de Microsoft Windows ou d'un système d'exploitation compatible avec .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms ainsi qu'un environnement de développement tel que Microsoft Visual Studio.
+Assurez-vous simplement que ce système dispose de Microsoft Windows ou d'un système d'exploitation compatible avec .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms ainsi qu'un environnement de développement tel que Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Installer à partir de la ligne de commande en tant que<code>nuget install Aspose.Cells</code> ou via Package Manager Console de Visual Studio avec<code>Install-Package Aspose.Cells</code>.
+-  Installer à partir de la ligne de commande en tant que<code>nuget install Aspose.Cells</code> ou via la console Package Manager de Visual Studio avec<code>Install-Package Aspose.Cells</code>.
 -  Vous pouvez également obtenir le programme d'installation MSI hors ligne ou toutes les DLL dans un fichier ZIP à partir de<a href="https://downloads.aspose.com/cells/net">téléchargements</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Le code source suivant montre comment créer un graphique linéaire vers un fichier MS Excel XLSX à l\'aide de C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Le code source suivant montre comment créer un graphique linéaire dans un fichier MS Excel XLSX à l\'aide de C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineChart.cs" >}}
 

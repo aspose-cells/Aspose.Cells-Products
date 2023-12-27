@@ -1,10 +1,10 @@
 ---
-title: Tableur Android Excel API - Aspose
+title: Feuille de calcul Excel Android API - Aspose
 weight: 6510
 description: Bibliothèque de feuilles de calcul Android pour créer des fichiers Excel en lecture, écriture et analyse. Une feuille de calcul API pour le développement d'applications mobiles
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android pour manipuler des feuilles de calcul Excel" h2="Créez, lisez, écrivez ou manipulez des fichiers Excel dans des applications Android sans aucune dépendance." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android pour manipuler les feuilles de calcul Excel" h2="Créez, lisez, écrivez ou manipulez des fichiers Excel dans des applications Android sans aucune dépendance." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Bibliothèque de feuilles de calcul Android pour créer des fichier
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java est un API évolutif pour générer, combiner, modifier et analyser par programme des feuilles de calcul. API offre de nombreuses fonctions, notamment le formatage de documents Excel et les tâches de mise en page, les capacités d'importation et d'exportation, le rendu des pages de feuille de calcul en images raster ainsi que la spécification de la résolution, de la qualité, de la compression de l'image, l'ajout de différents graphiques et bien plus encore. La feuille de calcul Android API prend en charge les formats XLS, XLSX, CSV, SpreadsheetML, ODS, délimité par des tabulations, HTML, PDF, XPS et d'autres formats.
+ Aspose.Cells for Android via Java est un API évolutif permettant de générer, combiner, modifier et analyser par programme des feuilles de calcul. API offre de nombreuses fonctions, notamment les tâches de formatage de documents Excel et de mise en page, les capacités d'importation et d'exportation, le rendu des pages de feuille de calcul en images raster ainsi que la spécification de la résolution, de la qualité, de la compression de l'image, l'ajout de différents graphiques et bien plus encore. La feuille de calcul Android API prend en charge les formats XLS, XLSX, CSV, SpreadsheetML, ODS, délimité par des tabulations, HTML, PDF, XPS et bien d'autres formats.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,21 +20,21 @@ description: Bibliothèque de feuilles de calcul Android pour créer des fichier
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En bref" description="Un aperçu des capacités API." >}}
+{{< blocks/products/pf/carousel-item h3="En un coup d\'œil" description="Un aperçu des capacités du API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- Importer &amp; Exporter
+ Importer et amp; Exporter
    </header>
    <ul>
     <li>
  Tableaux
     </li>
     <li>
- Jeu de résultats
+ Ensemble de résultats
     </li>
     <li>
 Collections
@@ -47,10 +47,10 @@ Collections
    </header>
    <ul>
     <li>
- Graphique à image
+ Graphique en image
     </li>
     <li>
- Feuille de calcul à l'image
+ Feuille de calcul à image
     </li>
     <li>
  Feuille de calcul au PDF
@@ -66,7 +66,7 @@ Collections
    </header>
    <ul>
     <li>
- Appliquer la mise en forme
+ Appliquer le formatage
     </li>
     <li>
  Appliquer la formule
@@ -104,7 +104,7 @@ Collections
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plate-forme" description="Aspose.Cells for Android via Java est disponible for Android 2.0 ou supérieur." >}}
+{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Cells for Android via Java est disponible for Android 2.0 ou supérieur." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +144,7 @@ Collections
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="La feuille de calcul Android API prend en charge les formats Excel Microsoft populaires, les images et les formats de mise en page fixe." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="La feuille de calcul Android API prend en charge les formats Excel, images et formats fixes Microsoft populaires." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +156,7 @@ Collections
    <ul>
     <li>
      <b>
- Microsoft Excel :
+ Microsoft Exceller :
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -256,14 +256,14 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crypter et amp; décrypter les fichiers Excel
+ Chiffrer et amp; décrypter les fichiers Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Définir la mise en forme des nombres
+ Définir le formatage des nombres
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,7 +284,7 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lisez, réglez et amp; calculer des formules
+ Lire, définir et amp; calculer des formules
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +298,14 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Définir &amp; manipuler les filtres automatiques &amp ; sauts de page
+ Définir et amp; manipuler les filtres automatiques et amp; sauts de page
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lire &amp; écrire la mise en forme conditionnelle
+ Lire et amp; écrire une mise en forme conditionnelle
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,21 +326,21 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipuler les cellules &amp; plages nommées
+ Manipuler les cellules et amp; plages nommées
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Convertir les fichiers Excel en PDF
+ Convertir des fichiers Excel en PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Convertir des feuilles de calcul &amp; des graphiques aux images
+ Convertir des feuilles de calcul et des amp; graphiques en images
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,7 +419,7 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Créer et amp; manipuler des tableaux croisés dynamiques
+ Créer et amp; manipuler les tableaux croisés dynamiques
     </p>
    </div>
    <div class="col-lg-4">
@@ -447,14 +447,14 @@ Appliquer la mise en forme à la feuille de calcul, à la ligne, à la colonne, 
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Puissant moteur de calcul de formule
+Puissant moteur de calcul de formules
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lire &amp; écrire TSV, CSV &amp; HTML fichiers
+ Lire et amp; écrivez TSV, CSV &amp; HTML fichiers
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,7 +462,7 @@ Puissant moteur de calcul de formule
  Conversion de différents formats
     </h2>
     <p>
- La bibliothèque Android Excel propose la conversion de feuilles de calcul en XPS, PDF &amp; HTML formats conservant la plus grande fidélité visuelle. Le processus de conversion fiable fait de API un choix parfait pour les entreprises pour l'échange de fichiers dans des formats standard de l'industrie.
+ La bibliothèque Android Excel propose la conversion des feuilles de calcul en XPS, PDF et PDF. Formats HTML conservant la plus haute fidélité visuelle. Le processus de conversion fiable fait du API un choix parfait pour les entreprises souhaitant échanger des fichiers dans des formats standard de l'industrie.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,15 +493,15 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
  Convertir des objets de feuille de calcul en différents formats
     </h2>
     <p>
- Aspose.Cells for Android via Java offrent des fonctionnalités distinctives telles que des feuilles de calcul aux images, des graphiques aux images &amp; PDF et feuilles de calcul en conversion de format de document PDF. Le processus flexible offre un certain nombre de choix pour la conversion, comme le rééchantillonnage des images pendant les feuilles de calcul en PDF ou la définition des dimensions de l'image résultante lors du rendu des feuilles de calcul &amp; graphiques aux formats d'image.
+ Aspose.Cells for Android via Java offrent des fonctionnalités distinctives telles que des feuilles de calcul en images, des graphiques en images et des graphiques. PDF et feuilles de calcul en conversion de format de document PDF. Le processus flexible propose un certain nombre de choix pour la conversion, comme le rééchantillonnage des images pendant les feuilles de calcul à PDF ou la définition des dimensions de l'image résultante lors du rendu des feuilles de calcul et des fichiers. graphiques aux formats d’image.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Tableur API Moteur de calcul de formule
+Feuille de calcul API Moteur de calcul de formule
     </h2>
     <p>
- Les feuilles Android API fournissent un puissant moteur de calcul de formule prenant en charge les fonctions et formules Excel avancées et standard Microsoft. Le moteur de calcul de formule facilite la lecture, la définition et le calcul des résultats des formules de type intégré ou complémentaire, de tableau et de style de référence R1C1.
+ Les feuilles Android API fournissent un puissant moteur de calcul de formule prenant en charge les fonctions et formules Excel avancées et standard Microsoft. Le moteur de calcul de formules facilite la lecture, la définition et le calcul des résultats des formules de type, de tableau et de style de référence R1C1 intégrées ou complémentaires.
     </p>
    </div>
    <!--
@@ -573,7 +573,7 @@ Tableur API Moteur de calcul de formule
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Références" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vidéos tutorielles" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Support produit" tabId="support" >}}
@@ -591,7 +591,7 @@ Tableur API Moteur de calcul de formule
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells propose des API Excel individuelles pour d\'autres environnements de développement populaires, comme indiqué ci-dessous :" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells propose des API Excel individuelles pour d\'autres environnements de développement populaires répertoriés ci-dessous :" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -2,6 +2,7 @@
 title: Insérer des légendes dans Excel en utilisant Python via Java
 weight: 360
 description: Python via Java code source pour insérer des légendes dans Excel.
+keywords: [Python Aspose.Cells., Python add Callouts shape., Python insert Callouts shape., Python create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des légendes dans Excel en utilisant Python via Java" h2="Insérez des légendes en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via Java code source pour insérer des légendes dans Excel.
 
  Afin d'insérer des légendes dans un fichier Excel, nous utiliserons
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
- API qui est une plate-forme de manipulation de documents API for Python via Java riche en fonctionnalités, puissante et facile à utiliser. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Microsoft Office ou Excel. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
+ API qui est une plate-forme de manipulation de documents API for Python via Java riche en fonctionnalités, puissante et facile à utiliser. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Office ou Excel Microsoft. Vous pouvez installer à partir de la console à l’aide de la commande suivante.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -29,15 +30,15 @@ description: Python via Java code source pour insérer des légendes dans Excel.
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer des légendes dans un fichier Excel à l\'aide de Python via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer des légendes dans un fichier Excel en utilisant Python via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin des aspose.cells pour essayer le flux de travail suivant dans votre propre environnement.
+Vous avez besoin du fichier aspose.cells pour essayer le flux de travail suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
  + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) pour insérer des légendes dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
@@ -48,17 +49,17 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux et MacOS), assurez-vous simplement que le système dispose de Java 1.8 ou supérieur,[Python](https://www.python.org/downloads/) 3.5 ou supérieur.
+ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux et MacOS), assurez-vous simplement que le système dispose de Java 1.8 ou supérieur,[Python](https://www.python.org/downloads/) 3,5 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Tout système d'exploitation pouvant exécuter des scripts Python via Java, tels que Windows, Linux et MacOS
--  Installez Java et ajoutez-le à la variable d'environnement PATH, par exemple :<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Tout système d'exploitation pouvant exécuter les scripts Python via Java, tel que Windows, Linux et MacOS
+- Installez Java et ajoutez-le à la variable d'environnement PATH, par exemple :<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installez Aspose.Cells for Python via Java à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-L'exemple de code ci-dessous montre comment insérer une "bulle de pensée : nuage". Pour plus de types, veuillez vous référer à "Aperçu des types de légendes" ci-dessous.
+L'exemple de code ci-dessous montre comment insérer une « bulle de pensée : nuage ». Pour plus de types, veuillez vous référer à « Présentation des types de légende » ci-dessous.
 
 {{% blocks/products/pf/agp/code-block title="Insérer des légendes - Python via Java" offSpacer="" %}}
 
@@ -72,7 +73,7 @@ L'exemple de code ci-dessous montre comment insérer une "bulle de pensée : nu
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Présentation des types de légende
+ Présentation des types de légende
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
@@ -183,9 +184,9 @@ Présentation des types de légende
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for Python via Java API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

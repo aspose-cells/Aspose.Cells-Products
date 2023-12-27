@@ -1,7 +1,8 @@
 ---
-title:  Gerar Relatórios em XLS Arquivos via Java
+title:  Gerar Relatórios nos Arquivos XLS via Java
 weight: 1090
-description: Java código de amostra para criar relatórios no formato XLS em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Código de amostra Java para criar relatórios no formato XLS no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Geração de relatórios em massa no formato XLS via Java" h2="Gere relatórios no formato XLS usando fonte de dados e um modelo." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: Java código de amostra para criar relatórios no formato XLS em Ja
 
  Para criar relatórios de arquivo XLS, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que é uma plataforma de montagem API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
+ API, que é uma plataforma de montagem API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
@@ -49,16 +50,16 @@ description: Java código de amostra para criar relatórios no formato XLS em Ja
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passos para Gerar XLS Relatórios via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Etapas para gerar relatórios XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instanciar a classe WorkbookDesigner
-1. Adicionar objetos DataSouce em um ArrayList
+1.  Instanciar classe WorkbookDesigner
+1. Adicionar objetos Datasouce em um ArrayList
 1.  Definir fonte de dados e processo para o objeto WorkbookDesigner
-1.  Salve o resultado no formato XLS por meio do método Worbook.save
+1.  Salve o resultado no formato XLS através do método Workbook.save
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,18 +67,18 @@ description: Java código de amostra para criar relatórios no formato XLS em Ja
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for Java é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 - Obtenha a versão mais recente de Aspose.Cells for Java diretamente de Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Gerar relatórios do Excel no formato XLS - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Gerar relatórios Excel no formato XLS - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
@@ -109,7 +110,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for Java API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -117,14 +118,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para montar XLS" sectionDescription=" Confira nossas demonstrações ao vivo para[criar XLS arquivos](https://products.aspose.app/cells/assembly/xls) com os seguintes benefícios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo Gratuito para Montar XLS" sectionDescription=" Confira nossas demonstrações ao vivo para[criar arquivos XLS](https://products.aspose.app/cells/assembly/xls) com os seguintes benefícios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever ou compilar código" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta carregar o arquivo XLS e clicar no botão \"Montar\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer upload do arquivo XLS e clicar no botão \"Montar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Baixe o arquivo XLS resultante no link" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados pelo Microsoft Excel, bem como por outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como Pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento do Microsoft Excel 2007. As versões mais recentes ainda oferecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha para uso agora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,12 +133,12 @@ Arquivos com extensão XLS representam o formato de arquivo binário do Excel. E
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de geração de relatórios suportados" subTitle="Usando Java, pode-se facilmente gerar relatórios de vários formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de geração de relatórios suportados" subTitle="Usando Java, pode-se gerar facilmente relatórios de vários formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

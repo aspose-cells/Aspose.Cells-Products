@@ -1,7 +1,8 @@
 ---
 title: Regrouper et dissocier des formes dans Excel à l'aide de Python via .Net
 weight: 360
-description: Grouper et dissocier des objets en utilisant Aspose.Cells' Python via .Net API sans aucun logiciel tel que Microsoft ou Open Office, Adobe PDF, etc.
+description: Regrouper et dissocier des objets en utilisant Aspose.Cells' Python via .Net API sans aucun logiciel tel que Microsoft ou Open Office, Adobe PDF, etc.
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Regrouper et dissocier des formes dans Excel à l\'aide de Python via .Net" h2="Utiliser Aspose.Cells\' API pour travailler avec divers objets sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Grouper et dissocier des objets en utilisant Aspose.Cells' Python v
 
 {{% blocks/products/pf/agp/content h2="Comment regrouper et dissocier des formes dans un fichier Excel à l\'aide de Python via .Net" %}}
 
- Pour regrouper et dissocier des formes dans un fichier Excel, nous utiliserons
+ Afin de regrouper et dissocier des formes dans un fichier Excel, nous utiliserons
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API qui est une manipulation de documents riche en fonctionnalités, puissante et facile à utiliser API for Python via la plate-forme .Net. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Microsoft Office ou Excel. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
+ API qui est un outil de manipulation de documents riche en fonctionnalités, puissant et facile à utiliser API for Python via la plateforme .Net. Le API permet la création, la manipulation, la conversion et le rendu de fichiers Excel. Le tout sans compter sur les applications Office ou Excel Microsoft. Vous pouvez installer à partir de la console à l'aide de la commande suivante.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -37,10 +38,10 @@ Vous avez besoin du Aspose.Cells pour essayer le flux de travail suivant dans vo
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
  + Utilisez le[méthode de groupe](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/group/) pour regrouper des formes dans la feuille de calcul sélectionnée
- + Utilisez le[dissocier la méthode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/ungroup/) pour dissocier des formes dans la feuille de calcul sélectionnée
+ + Utilisez le[méthode de dissociation](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/ungroup/) pour dissocier les formes dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -53,7 +54,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Tout système d'exploitation pouvant exécuter des scripts Python via .Net, tels que Windows, Linux
+-  Tout système d'exploitation pouvant exécuter des scripts Python via .Net, tel que Windows, Linux
 -  Installez Aspose.Cells for Python via .Net à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -71,9 +72,9 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for Python via .NET API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

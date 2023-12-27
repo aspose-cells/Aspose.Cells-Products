@@ -1,7 +1,8 @@
 ---
-title:  XLSM ficha de documento via Java
+title:  XLSM gráfico de documento via Java
 weight: 3020
-description: Java código de amostra para desenhar e converter gráfico ou diagrama no arquivo XLSM em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Código de amostra Java para desenhar e converter gráfico ou diagrama no arquivo XLSM em Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsm., Java Save chart to image in xlsm., Java chart to image in xlsm., xlsm convert chart to image in Java., xlsm save chart to imagein Java., xlsm chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM Formata gráficos em Java" h2="Gráficos de documentos XLSM nativos e de alto desempenho usando APIs Aspose.Cells for Java do lado do servidor, sem o uso de qualquer software como Microsoft ou Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -11,7 +12,7 @@ description: Java código de amostra para desenhar e converter gráfico ou diagr
 
 {{% blocks/products/pf/agp/content h2="Como criar gráficos de arquivo XLSM usando Java" %}}
 
- Para criar gráficos de arquivo XLSM, usaremos
+Para criar gráficos de arquivos XLSM, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, que é uma plataforma de gráficos API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -53,18 +54,18 @@ description: Java código de amostra para desenhar e converter gráfico ou diagr
 
 {{% blocks/products/pf/agp/text %}}
 
- Um gráfico de documento básico com
+ Um gráfico básico de documentos com
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- As APIs podem ser feitas com apenas algumas linhas de código.
+ APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Criar objeto de classe Workbook.
 + Obtenha a referência da primeira planilha.
-+ Adicionar valores de amostra às células.
++ Adicione valores de amostra às células.
 + Adicione um gráfico à planilha.
 + Acesse a instância do gráfico recém-adicionado.
-Definir a fonte de dados do gráfico como o intervalo.
++ Definir fonte de dados do gráfico como intervalo.
 + Salvar pasta de trabalho.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -73,17 +74,17 @@ Definir a fonte de dados do gráfico como o intervalo.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for Java é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+-  Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 -  Obtenha a versão mais recente de Aspose.Cells for Java diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Criar Gráfico de Arquivos XLSM - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Criar gráfico de arquivos XLSM - Java" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "b48fa96f2807e16db8031eb177e5bb60" "create-excel-xlsm-document-chart.java" >}}
 
@@ -98,20 +99,20 @@ Definir a fonte de dados do gráfico como o intervalo.
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice. Converter gráfico do Excel para PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice. Converta gráfico do Excel em PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="On-line XLSM Demonstrações ao vivo de conversão de gráficos" sectionDescription=" Converta gráficos de documentos XLSM em imagens agora mesmo visitando nosso visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo de conversão de gráficos on-line XLSM" sectionDescription=" Converta XLSM gráficos de documentos em imagens agora mesmo visitando nosso visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos XLSM." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos XLSM." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" O gráfico será convertido instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções que são utilizadas para automatizar processos. Uma macro é usada para registrar as etapas que são executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) de Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.
+Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções utilizadas para automatizar processos. Uma macro é usada para registrar as etapas executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) do Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -119,12 +120,12 @@ Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macr
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráfico suportados" subTitle="Usando Java, pode-se facilmente lidar com charing com diferentes formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráficos suportados" subTitle="Usando Java, é possível lidar facilmente com diferentes formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

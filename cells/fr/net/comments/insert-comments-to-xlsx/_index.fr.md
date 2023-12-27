@@ -2,6 +2,7 @@
 title: Insérer des commentaires dans le fichier XLSX via .NET
 url: /fr/net/comments/insert-comments-to-xlsx/ 
 description: Insérez des commentaires dans XLSX à l'aide de C#. Utilisez l'exemple de code API pour insérer des commentaires dans l'application .NET.
+keywords: [C# Aspose.Cells., add XLSX comments., insert XLSX comments., access XLSX comments., remove XLSX comments., delete XLSX comments., add comments in XLSX., insert comments in XLSX., access comments in XLSX., remove comments in XLSX., delete comments in XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des commentaires dans le fichier XLSX via C#" h2="Créez votre propre application .NET pour manipuler les commentaires et les auteurs dans les fichiers de documents à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Insérez des commentaires dans XLSX à l'aide de C#. Utilisez l'exe
 
 {{% blocks/products/pf/agp/content h2="Insérer des commentaires dans le fichier XLSX à l\'aide de .NET" %}}
 
- Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement insérer des commentaires dans le fichier XLSX par programmation avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. .NET Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement insérer des commentaires dans le fichier XLSX par programme avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. .NET Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,13 +48,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Charger le fichier XLSX en créant une instance de Workbook
-+ Insérer des commentaires dans la feuille de travail dans un Cell
- + Enregistrer le classeur
++ Chargez le fichier XLSX en créant une instance de Workbook
++ Insérer des commentaires sur la feuille de travail dans un Cell
+ + Enregistrez le classeur
 
 Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez utiliser le code C# suivant pour insérer et supprimer des commentaires dans le fichier XLSX.
 
-{{% blocks/products/pf/agp/code-block title="C# exemple de code pour insérer et supprimer des commentaires dans le fichier XLSX" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Exemple de code C# pour insérer et supprimer des commentaires dans le fichier XLSX" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "insert-and-remove-comments-xlsx.cs" >}}
 
@@ -70,7 +71,7 @@ Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
+XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes telles que décrites dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -78,12 +79,12 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="En utilisant C#, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="Grâce au C#, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

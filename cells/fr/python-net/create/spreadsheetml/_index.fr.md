@@ -1,7 +1,7 @@
 ---
 title: Créer SPREADSHEETML - Créer un fichier SPREADSHEETML dans Python
-description: Aspose Excel. Python Créer un fichier SPREADSHEETML. Créer SPREADSHEETML Python. Python SPREADSHEETML Creator. Créez SPREADSHEETML en Python. Générez le fichier SPREADSHEETML en utilisant Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SPREADSHEETML Python., Python SPREADSHEETML Creater., Create SPREADSHEETML file in Python., Generate SPREADSHEETML file in Python]
+description:  Aspose Exceller. Python Créez un fichier SPREADSHEETML rapidement et facilement avec Aspose.Cells. Générez un fichier SPREADSHEETML en utilisant Python. Créez SPREADSHEETML dans Python. Python SPREADSHEETML Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SPREADSHEETML file., Generate SPREADSHEETML file in Python., Create SPREADSHEETML file using Python., Write data to SPREADSHEETML file via Python., Create a SPREADSHEETML file in Python., Python Generate a SPREADSHEETML file., Python SPREADSHEETML Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer un fichier SPREADSHEETML dans Python" h2="Bibliothèque Python haute vitesse pour créer un fichier SPREADSHEETML. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SPREADSHEETML Python., Py
 
 {{% blocks/products/pf/agp/content h2="Créer un fichier SPREADSHEETML à l\'aide de Python" %}}
 
- Comment créer un fichier SPREADSHEETML ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement créer un fichier SPREADSHEETML par programmation avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
+ Comment créer un fichier SPREADSHEETML ? Avec la bibliothèque Aspose.Cells for Python via NET, vous pouvez facilement créer un fichier SPREADSHEETML par programme avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. Python Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,13 +21,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SPREADSHEETML Python., Py
 
 {{% blocks/products/pf/agp/text %}}
 
- Il est facile pour les développeurs de créer, charger, modifier et convertir des fichiers SPREADSHEETML dans différentes applications de création de rapports pour le traitement des données en quelques lignes de code seulement.
+ Il est facile pour les développeurs de créer, charger, modifier et convertir des fichiers SPREADSHEETML en exécutant différentes applications de reporting pour le traitement des données en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Créer une instance de classe Workbook.
+1.  Créez une instance de classe Workbook.
 1.  Accédez à la première feuille de calcul du classeur.
-1.  Obtenez la ou les cellules souhaitées de la feuille de calcul et entrez la valeur dans la ou les cellules.
+1.  Obtenez la ou les cellules souhaitées de la feuille de calcul et saisissez la valeur dans la ou les cellules.
 1.  Utilisez la méthode Save pour enregistrer le classeur en tant que fichier SPREADSHEETML.
 
 {{% blocks/products/pf/agp/code-block title="Un exemple de code montre comment créer un fichier SPREADSHEETML dans Python." offSpacer="" %}}
@@ -57,16 +57,16 @@ workbook.save("output.xml")
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="bibliothèque Python pour créer un fichier SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="Bibliothèque Python pour créer un fichier SPREADSHEETML" %}}
 
 Nous hébergeons nos packages Python dans des référentiels PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
+ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développeur.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -74,7 +74,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système dispose[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,19 +82,19 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML signifie Extensible Markup Language qui est similaire à HTML mais différent dans l'utilisation de balises pour définir des objets. L'idée derrière la création du format de fichier XML était de stocker et de transporter des données sans dépendre d'outils logiciels ou matériels. Sa popularité est due au fait qu'il est à la fois lisible par l'homme et par la machine. Cela lui permet de créer des protocoles de données communs sous la forme d'objets à stocker et à partager sur un réseau tel que le World Wide Web (WWW). Le "X" dans XML est pour extensible, ce qui implique que le langage peut être étendu à n'importe quel nombre de symboles selon les besoins de l'utilisateur. C'est pour ces fonctionnalités que de nombreux formats de fichiers standard l'utilisent tels que Microsoft Open XML, LibreOffice OpenDocument, XHTML et SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML signifie Extensible Markup Language qui est similaire à HTML mais différent dans l'utilisation de balises pour définir des objets. L'idée derrière la création du format de fichier XML était de stocker et de transporter des données sans dépendre d'outils logiciels ou matériels. Sa popularité est due au fait qu’il est à la fois lisible par l’homme et par la machine. Cela lui permet de créer des protocoles de données communs sous la forme d'objets à stocker et à partager sur un réseau tel que le World Wide Web (WWW). Le "X" dans XML signifie extensible, ce qui implique que le langage peut être étendu à n'importe quel nombre de symboles selon les besoins de l'utilisateur. C'est pour ces fonctionnalités que de nombreux formats de fichiers standards l'utilisent comme Microsoft Open XML, LibreOffice OpenDocument, XHTML et SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autre génération de feuille de calcul prise en charge" subTitle="Vous pouvez également créer d\'autres formats Excel Microsoft, dont quelques-uns répertoriés ci-dessous." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres générations de feuilles de calcul prises en charge" subTitle="Vous pouvez également créer d’autres formats Excel Microsoft, dont quelques-uns répertoriés ci-dessous." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xls/" name="XLS" description="Microsoft Feuille de calcul Excel (ancienne version)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Ouvrir le classeur XML" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsx/" name="XLSX" description="Classeur XML ouvert" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsb/" name="XLSB" description="Classeur binaire Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlsm/" name="XLSM" description="Feuille de calcul prenant en charge les macros" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Excel 97 - Modèle 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xlt/" name="XLT" description="Modèle Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltx/" name="XLTX" description="Modèle Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Modèle Excel prenant en charge les macros" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valeurs séparées par des virgules" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Feuille de calcul OpenDocument" >}}

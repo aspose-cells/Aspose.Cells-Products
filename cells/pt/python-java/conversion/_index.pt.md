@@ -1,17 +1,18 @@
 ---
 title: Microsoft Conversão de arquivo Excel usando Python via Java
-description: Converte Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, 0761781, 0761181818163481, mais formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formatos com outros formatos com outros formats com outros formatos com outros formats com outros formats com outros formatos com outros formats com outros formats com outros formatos.
+description: Aspose.Cells for Python via Java biblioteca. Converta EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL e mais formatos com apenas algumas linhas de código Python.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversão de formato Excel via Python" h2="Importe e exporte arquivos do Excel como formatos de planilha, web, imagem e layout fixo" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversão de formato Excel via Python" h2="Importe e exporte arquivos Excel como planilha, web, imagem e formatos de layout fixo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Biblioteca do Excel acelera a programação de planilhas e processos de conversão enquanto oferece suporte a formatos populares, incluindo XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619348 1. Também permite exportar arquivos Excel para PDF, XPS, HTML, MHTML, Simples Texto e formatos de imagem populares, como TIFF, JPG, PNG, BMP e SVG.
+A Biblioteca Excel Python acelera a programação de planilhas e os processos de conversão, ao mesmo tempo em que oferece suporte a formatos populares, incluindo XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Também permite exportar arquivos Excel para PDF, XPS, HTML, MHTML, Simples Formatos de texto e imagem populares, como TIFF, JPG, PNG, BMP e SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Converter Excel para XLSX, ODS, SXC e FODS" %}}
- A interconversão do formato de planilha requer apenas o carregamento de uma planilha com uma instância de[pasta de trabalho](https://reference.aspose.com/cells/python/asposecells.api/Workbook) e salvando de volta no formato desejado enquanto seleciona o valor apropriado de[SalvarFormato](https://reference.aspose.com/cells/python/asposecells.api/saveformat) enumeração.
-{{% blocks/products/pf/feature-page-code h3="Python Código para conversão de formato de arquivo Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="Converter Excel em XLSX, ODS, SXC e FODS" %}}
+ A interconversão do formato de planilha requer apenas o carregamento de uma planilha com uma instância de[Pasta de trabalho](https://reference.aspose.com/cells/python/asposecells.api/Workbook) e salvando de volta no formato desejado enquanto seleciona o valor apropriado em[Salvar formato](https://reference.aspose.com/cells/python/asposecells.api/saveformat) enumeração.
+{{% blocks/products/pf/feature-page-code h3="Código Python para conversão de formato de arquivo Excel" %}}
 
 ```cs
 // load the template file
@@ -29,8 +30,8 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converter Excel para PDF, XPS, HTML e MD" %}}
- Aulas especializadas estão disponíveis para controlar o processo de conversão para formatos de saída específicos, como[PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) para exportar arquivos do Excel como PDF,[XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) para Excel para conversão XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) para renderizar o Excel como HTML e[MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) para conversão de Excel para Markdown.
-{{% blocks/products/pf/feature-page-code h3="Python Código para Excel para PDF e Formatos Web" %}}
+ Classes especializadas estão disponíveis para controlar o processo de conversão para formatos de saída específicos, como[Opções de salvamento de PDF](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) para exportar arquivos Excel como PDF,[Opções XpsSave](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) para conversão de Excel para XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) para renderizar o Excel como HTML e[MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) para conversão de Excel para Markdown.
+{{% blocks/products/pf/feature-page-code h3="Python Código para Excel para PDF e formatos Web" %}}
 
 ```cs
 // load template Excel file from disc
@@ -61,9 +62,9 @@ book.save("output.md", mdOptions);
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Converter JSON para Excel e Excel para JSON" %}}
-Os desenvolvedores Python podem facilmente carregar e converter arquivos JSON para o Excel em apenas algumas linhas de código. Da mesma forma, os dados do Excel podem ser exportados para dados JSON.
-{{% blocks/products/pf/feature-page-code h3="Python Código para conversão de JSON para Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="Converta JSON para Excel e Excel para JSON" %}}
+Os desenvolvedores do Python podem facilmente carregar e converter arquivos JSON para Excel em apenas algumas linhas de código. Da mesma forma, os dados do Excel podem ser exportados para dados JSON.
+{{% blocks/products/pf/feature-page-code h3="Python Código para conversão JSON para Excel" %}}
 ```cs
 //Load your source json file
 workbook = Workbook("Data.json")
@@ -72,7 +73,7 @@ workbook.save("output.xlsx")
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Python Código para Excel para JSON Conversão" %}}
+{{% blocks/products/pf/feature-page-code h3="Código Python para Excel para conversão JSON" %}}
 ```cs
 //Load your source xlsx file
 workbook = Workbook("input.xlsx")
@@ -85,8 +86,8 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter planilhas do Excel em JPG, BMP, PNG e GIF" %}}
- Cada planilha de um arquivo Excel pode ser convertida em diferentes formatos de imagem, chame[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) .setImageFormat para definir o formato da imagem.
-{{% blocks/products/pf/feature-page-code h3="Python Código para conversão de imagem em Excel" %}}
+ Cada planilha de um arquivo Excel pode ser convertida para diferentes formatos de imagem, ligue[Opções de imagem ou impressão](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat para definir o formato da imagem.
+{{% blocks/products/pf/feature-page-code h3="Python Código para conversão de Excel em imagem" %}}
 ```cs
 // load template spreadsheet
 workbook = Workbook("template.xlsx")
@@ -106,8 +107,8 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter Excel para Word e PowerPoint" %}}
- É possível carregar qualquer planilha e convertê-la em arquivos do Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)classes como demonstrado abaixo.
-{{% blocks/products/pf/feature-page-code h3="Python código para Excel para Word e PowerPoint Conversão" %}}
+É possível carregar qualquer planilha e convertê-la para arquivos Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [Opções PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) aulas conforme demonstrado abaixo.
+{{% blocks/products/pf/feature-page-code h3="Código Python para Excel para Word e conversão PowerPoint" %}}
 ```cs
 // load the template file
 workbook = Workbook("template.xlsx")

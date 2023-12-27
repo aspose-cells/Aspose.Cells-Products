@@ -1,7 +1,8 @@
 ---
 title:  Insérer une étiquette dans Excel via .NET
 weight: 80
-description: C# code source pour insérer Label dans Excel sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: Code source C# pour insérer une étiquette dans Excel sur les plateformes .NET Framework, .NET Core, Mono ou Xamarin.
+keywords: [C# Aspose.Cells., c# add Label into Excel., c# insert Label into Excel., c# create Label in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer une étiquette dans Excel via .NET" h2="Insérez des étiquettes en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,11 +14,11 @@ description: C# code source pour insérer Label dans Excel sur .NET Framework, .
 
 Afin d'insérer Label dans un fichier Excel, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
+ API qui est un outil de manipulation et de séparation de documents riche en fonctionnalités, puissant et facile à utiliser API pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  Aspose.Cells 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -33,15 +34,15 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer l\'étiquette dans le fichier Excel via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer une étiquette dans un fichier Excel via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin de aspose.cells.dll pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du fichier aspose.cells.dll pour essayer le flux de travail suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
  + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addlabel) pour insérer une étiquette dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
@@ -52,7 +53,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +63,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Insérer l\'étiquette - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Insérer une étiquette - C#" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertLabelIntoWorksheet.cs" >}}
 
@@ -75,9 +76,9 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

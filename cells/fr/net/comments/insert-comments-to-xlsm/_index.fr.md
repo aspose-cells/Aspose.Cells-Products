@@ -2,6 +2,7 @@
 title: Insérer des commentaires dans le fichier XLSM via .NET
 url: /fr/net/comments/insert-comments-to-xlsm/ 
 description: Insérez des commentaires dans XLSM à l'aide de C#. Utilisez l'exemple de code API pour insérer des commentaires dans l'application .NET.
+keywords: [C# Aspose.Cells., add XLSM comments., insert XLSM comments., access XLSM comments., remove XLSM comments., delete XLSM comments., add comments in XLSM., insert comments in XLSM., access comments in XLSM., remove comments in XLSM., delete comments in XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des commentaires dans le fichier XLSM via C#" h2="Créez votre propre application .NET pour manipuler les commentaires et les auteurs dans les fichiers de documents à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Insérez des commentaires dans XLSM à l'aide de C#. Utilisez l'exe
 
 {{% blocks/products/pf/agp/content h2="Insérer des commentaires dans le fichier XLSM à l\'aide de .NET" %}}
 
- Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement insérer des commentaires dans le fichier XLSM par programmation avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. .NET Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement insérer des commentaires dans le fichier XLSM par programme avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. .NET Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,13 +48,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Charger le fichier XLSM en créant une instance de Workbook
-+ Insérer des commentaires dans la feuille de travail dans un Cell
- + Enregistrer le classeur
++ Chargez le fichier XLSM en créant une instance de Workbook
++ Insérer des commentaires sur la feuille de travail dans un Cell
+ + Enregistrez le classeur
 
 Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez utiliser le code C# suivant pour insérer et supprimer des commentaires dans le fichier XLSM.
 
-{{% blocks/products/pf/agp/code-block title="C# exemple de code pour insérer et supprimer des commentaires dans le fichier XLSM" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Exemple de code C# pour insérer et supprimer des commentaires dans le fichier XLSM" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "insert-and-remove-comments-xlsm.cs" >}}
 
@@ -70,7 +71,7 @@ Dans Office 365, les commentaires sont destinés aux conversations, vous pouvez 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Les fichiers avec l'extension XLSM sont un type de fichiers de feuille de calcul prenant en charge les macros. Du point de vue de l'application, une macro est un ensemble d'instructions utilisées pour automatiser les processus. Une macro est utilisée pour enregistrer les étapes qui sont exécutées à plusieurs reprises et facilite l'exécution des actions en exécutant à nouveau la macro. Les macros sont programmées avec Visual Basic pour Applications (VBA) de Microsoft à partir du classeur Excel à l'aide de Visual Basic Editor et peuvent être exécutées/déboguées directement à partir de là.
+Les fichiers avec l'extension XLSM sont un type de fichier de feuille de calcul prenant en charge les macros. Du point de vue de l'application, une macro est un ensemble d'instructions utilisées pour automatiser les processus. Une macro est utilisée pour enregistrer les étapes effectuées à plusieurs reprises et facilite l'exécution des actions en exécutant à nouveau la macro. Les macros sont programmées avec Visual Basic pour Applications (VBA) de Microsoft à partir du classeur Excel à l'aide de Visual Basic Editor et peuvent être exécutées/déboguées directement à partir de là.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -78,12 +79,12 @@ Les fichiers avec l'extension XLSM sont un type de fichiers de feuille de calcul
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="En utilisant C#, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Insérer des commentaires dans d\'autres formats Excel pris en charge" subTitle="Grâce au C#, on peut facilement insérer des commentaires dans d\'autres fichiers au format Excel." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/comments/insert-comments-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

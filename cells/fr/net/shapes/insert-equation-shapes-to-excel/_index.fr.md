@@ -1,7 +1,8 @@
 ---
 title:  Insérer des formes d'équation dans Excel via .NET
 weight: 360
-description: C# code source pour insérer des formes d'équation dans Excel sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: C# Exemple de code pour ajouter ou insérer des formes d’équation dans Excel à l’aide de la bibliothèque .NET. Utilisez ce code pour créer des formes d'équation dans MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
+keywords: [C# Aspose.Cells., c# add equation shapes., c# insert equation shapes., c# create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des formes d\'équation dans Excel via .NET" h2="Insérez des formes d\'équation en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,11 +14,11 @@ description: C# code source pour insérer des formes d'équation dans Excel sur 
 
  Afin d'insérer des formes d'équation dans un fichier Excel, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
+ API qui est un outil de manipulation et de séparation de documents riche en fonctionnalités, puissant et facile à utiliser API pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  Aspose.Cells 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -37,11 +38,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin de aspose.cells.dll pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du fichier aspose.cells.dll pour essayer le flux de travail suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
  + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) pour insérer des formes d'équation dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
@@ -52,7 +53,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des prérequis suivants.
+ Aspose.Cells for .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +63,7 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus de types, veuillez vous référer à "Aperçu des types de forme d'équation" ci-dessous.
+L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus de types, veuillez vous référer à « Présentation des types de formes d'équation » ci-dessous.
 
 {{% blocks/products/pf/agp/code-block title="Insérer des formes d\'équation - C#" offSpacer="" %}}
 
@@ -81,31 +82,31 @@ L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus d
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/plus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathPlusAutoShapeType.MathPlus
+ AutoShapeType.MathPlus
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathMinusAutoShapeType.MathMinus
+ AutoShapeType.MathMinus
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/multiplication.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathMultiplyAutoShapeType.MathMultiply
+ AutoShapeType.MathMultiply
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/division.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathDivideAutoShapeType.MathDivide
+ AutoShapeType.MathDivide
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/equals.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathEqualAutoShapeType.MathEqual
+ AutoShapeType.MathEqual
     </p>
    </div>
    <div class="col-lg-4">
@@ -125,9 +126,9 @@ L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus d
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
+{{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

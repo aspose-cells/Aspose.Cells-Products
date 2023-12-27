@@ -1,8 +1,8 @@
 ---
-title: Python Reparar arquivo xlsm - Reparar arquivo xlsm online gratuitamente
+title: Python Reparar xlsm - Recuperar e corrigir arquivo xlsm corrompido
 url: /pt/python-java/recovery/repair-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Python Reparar arquivo xlsm. Ferramenta de reparo xlsm on-line gratuita. Repare um arquivo xlsm corrompido. Recupere um arquivo xlsm corrompido no aplicativo Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells. Reparar xlsm. Corrija o arquivo xlsm. ferramenta de recuperação xlsm. corrupção xlsm. Restaurar dados xlsm. recuperação de arquivo xlsm. Recuperar arquivo xlsm corrompido.
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar arquivo XLSM em Python" h2="Crie seu próprio aplicativo Python para reparar arquivos xlsm usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparar arquivo XLSM usando Python" %}}
 
- Como faço para reparar o arquivo xlsm? Com a biblioteca Aspose.Cells for Python, você pode reparar facilmente o arquivo XLSM programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python via Java de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
+ Como faço para reparar o arquivo xlsm? Com a biblioteca Aspose.Cells for Python, você pode reparar facilmente o arquivo XLSM programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. Python Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode instalar Aspose.Cells for Python via Java de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,23 +22,23 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/text %}}
 
-Precisa reparar o arquivo xlsm programaticamente? Python os desenvolvedores podem facilmente carregar e reparar o arquivo xlsm em apenas algumas linhas de código.
+Precisa reparar o arquivo xlsm programaticamente? Os desenvolvedores do Python podem facilmente carregar e reparar arquivos xlsm em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Defina uma classe que herda Aspose.Cells.IWarningCallback.
++ Defina uma classe que herde Aspose.Cells.IWarningCallback.
 + Carregue o arquivo XLSM criando uma instância de Workbook, usando a classe de herança acima, consulte o código acima.
 + Salve a pasta de trabalho, o arquivo xlsm corrompido será reparado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicativo gratuito e código de amostra para reparar o arquivo XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Exemplo de código para reparar o arquivo XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}    
     
-{{% blocks/products/pf/agp/content h2="Python biblioteca para reparar o arquivo XLSM" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para reparar arquivo XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Existem três opções para instalar "Aspose.Cells for Python via Java" em seu sistema. Escolha um que corresponda às suas necessidades e siga as instruções passo a passo:
+Existem três opções para instalar “Aspose.Cells for Python via Java” em seu sistema. Escolha um que se adeque às suas necessidades e siga as instruções passo a passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -55,7 +55,7 @@ Existem três opções para instalar "Aspose.Cells for Python via Java" em seu s
  
 -  Instale Java 1.8 ou superior e adicione-o à variável de ambiente PATH, por exemplo:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Instalar[Python](https://www.python.org/downloads/) 3,5 ou superior.
-- Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
+-  Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -65,7 +65,7 @@ Existem três opções para instalar "Aspose.Cells for Python via Java" em seu s
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções que são utilizadas para automatizar processos. Uma macro é usada para registrar as etapas que são executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) de Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.
+Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções utilizadas para automatizar processos. Uma macro é usada para registrar as etapas executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) do Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -73,13 +73,13 @@ Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macr
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos do Excel suportados" subTitle="Usando Python, pode-se reparar facilmente outros arquivos no formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos Excel suportados" subTitle="Usando Python, é possível reparar facilmente outros arquivos no formato Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="Conserto ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="Conserto XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="Conserto XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="Conserto XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="Conserto XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="Reparar ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="Reparar XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="Reparar XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="Reparar XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="Reparar XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

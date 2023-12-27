@@ -1,6 +1,7 @@
 ---
-title: Reparar arquivo excel via Java
-description: Repare um arquivo Excel corrompido usando Java. Ferramenta de recuperação para reparar arquivo Excel corrompido no aplicativo Java.
+title: Java Reparar Excel - Recuperar e corrigir arquivo Excel corrompido
+description: Java Aspose.Cells. Reparar excel. Corrigir arquivo Excel. ferramenta de recuperação do Excel. excelente corrupção. Restaurar dados do Excel. recuperação de arquivos excel. Recuperar arquivo Excel corrompido.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Recuperar arquivo Excel via Java" h2="Crie o aplicativo Java para reparar arquivos do Excel usando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,24 +11,24 @@ description: Repare um arquivo Excel corrompido usando Java. Ferramenta de recup
 
 {{% blocks/products/pf/agp/content h2="Reparar arquivo EXCEL usando Java" %}}
 
- Para reparar o arquivo EXCEL, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, que é uma plataforma de manipulação de documentos rica em recursos, poderosa e fácil de usar API for Java.
+ Para reparar o arquivo EXCEL, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que é uma plataforma de manipulação de documentos API for Java rica em recursos, poderosa e fácil de usar.
  
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% cells-recovery title="Aplicativo gratuito para reparar arquivo EXCEL usando Java" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Como reparar arquivo excel usando Java" %}}
+{{% blocks/products/pf/agp/content h2="Como reparar arquivo Excel usando Java" %}}
 
-+ Defina uma classe que herda Aspose.Cells.IWarningCallback.
-+ Carregue o arquivo EXCEL criando uma instância da pasta de trabalho, usando a classe de herança acima, consulte o código acima.
++ Defina uma classe que herde Aspose.Cells.IWarningCallback.
++ Carregue o arquivo EXCEL criando uma instância de Workbook, usando a classe de herança acima, consulte o código acima.
 + Salve a pasta de trabalho, o arquivo Excel corrompido será reparado.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Instale Aspose.Cells para reparar o arquivo excel" %}}
+{{% blocks/products/pf/agp/content h2="Instale Aspose.Cells para reparar arquivo Excel" %}}
 
 Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -69,7 +70,7 @@ Você pode baixar sua versão mais recente diretamente de
 
  Aspose.Cells for Java é compatível com todos os principais sistemas operacionais. Apenas certifique-se de ter os seguintes pré-requisitos.
  
-- Microsoft Windows ou um SO compatível com Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 - Obtenha a versão mais recente de Aspose.Cells for Java diretamente de Maven.
 
 
@@ -81,7 +82,7 @@ Você pode baixar sua versão mais recente diretamente de
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento de Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagens Abertas, conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura subjacente e os arquivos podem ser examinados simplesmente descompactando o arquivo .xlsx.
+XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento do Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagem Aberta conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura e os arquivos subjacentes podem ser examinados simplesmente descompactando o arquivo .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -89,13 +90,13 @@ XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introdu
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos do Excel suportados" subTitle="Usando Java, pode-se reparar facilmente outros arquivos no formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos Excel suportados" subTitle="Usando Java, é possível reparar facilmente outros arquivos no formato Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Conserto ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Conserto XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Conserto XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Conserto XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Conserto XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Reparar ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Reparar XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Reparar XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Reparar XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Reparar XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

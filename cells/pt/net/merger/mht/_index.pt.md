@@ -1,6 +1,6 @@
 ---
 title:  Mesclar arquivos MHT via .NET
-description: Experimente nossas APIs de fusão de mensagens no local para combinar documentos MHT em .NET Framework, .NET Core e plataformas Xamarin.
+description: Experimente nossas APIs de fusão de mensagens no local para combinar documentos MHT nas plataformas .NET Framework, .NET Core e Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar formatos MHT em C#" h2="Fusão de documentos MHT nativos e de alto desempenho usando APIs Aspose.Cells for .NET do lado do servidor, sem o uso de qualquer software como Microsoft ou Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MHT" >}}
@@ -10,7 +10,7 @@ description: Experimente nossas APIs de fusão de mensagens no local para combin
 
 {{% blocks/products/pf/agp/content h2="Como mesclar arquivo MHT usando C#" %}}
 
- Para mesclar o arquivo MHT, usaremos<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API, que é uma manipulação de documentos rica em recursos, poderosa e fácil de usar e mescla API para a plataforma C#. Abrir<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gerenciador de pacotes, procure por<b>Aspose.Cells</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ Para mesclar o arquivo MHT, usaremos<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API, que é uma manipulação de documentos rica em recursos, poderosa e fácil de usar e mesclagem API para a plataforma C#. Abrir<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gerenciador de pacotes, procure por<b>Aspose.Cells</b> e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -30,15 +30,15 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) As APIs podem ser feitas com apenas algumas linhas de código.
+ Um documento básico mesclado e concatenado com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carregue todos os arquivos MHT com o caminho completo.
-1. Faça um documento como o arquivo base
+1. Carregue todos os arquivos MHT com caminho completo.
+1. Faça um documento como arquivo base
 1. Chame o método relevante para concatenar e mesclar arquivos um por um.
 1. Chame o método Save() e passe o nome do arquivo (caminho completo) e o formato (MHT) como parâmetro.
-1. Agora você pode abrir e usar o arquivo MHT em Microsoft Office, Adobe PDF ou qualquer outro programa compatível.
+1. Agora você pode abrir e usar o arquivo MHT no Microsoft Office, Adobe PDF ou qualquer outro programa compatível.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,11 +47,11 @@ Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https:/
 
 {{% blocks/products/pf/agp/text %}}
 
- Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, verifique se você possui os seguintes pré-requisitos em seu sistema.
+ Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Windows Azure, Mono ou plataformas Xamarin
+-  Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Windows Azure, Mono ou plataformas Xamarin
 -  Ambiente de desenvolvimento como Microsoft Visual Studio
 -  Adicione referência à DLL Aspose.Cells for .NET em seu projeto - Instale a partir de NuGet usando o botão Download acima
 
@@ -63,11 +63,11 @@ Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https:/
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo da fusão MHT on-line" sectionDescription=" Mescle documentos MHT agora mesmo visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/merger). A demonstração ao vivo tem os seguintes benefícios" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo on-line da fusão MHT" sectionDescription=" Mesclar documentos MHT agora mesmo visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/merger). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos MHT." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será mesclado e concatenado instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos MHT." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será mesclado e concatenado instantaneamente." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,7 +75,7 @@ Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https:/
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
+Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -85,7 +85,7 @@ Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https:/
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-Um arquivo com extensão .mht é um formato de arquivo de arquivamento habilitado para MIME que contém diferentes tipos de dados em um único arquivo. Ele pode armazenar dados como texto, imagens, estilo de página na forma de arquivos CSS, JavaScript e outros recursos como recursos incorporados a ele. Os arquivos MHT, com mensagem do tipo MIME/rfc822, encapsulam todo o conteúdo de um arquivo HTML como um único arquivo para armazenamento em dispositivos de armazenamento. Aplicativos de software como Microsoft Word permitem que você converta seus documentos WORD em MHT exportando como arquivo MHT. Os arquivos MHT podem ser abertos usando navegadores populares, como Microsoft Internet Explorer e Google Chrome.
+Um arquivo com extensão .mht é um formato de arquivo de arquivamento habilitado para MIME que contém diferentes tipos de dados em um único arquivo. Ele pode armazenar dados como texto, imagens, estilo de página na forma de arquivos CSS, JavaScript e outros recursos como recursos incorporados nele. Os arquivos MHT, tendo o tipo MIME message/rfc822, encapsulam todo o conteúdo de um arquivo HTML como um único arquivo para armazenamento em arquivamento em dispositivos de armazenamento. Aplicativos de software como Microsoft Word permitem converter seus documentos WORD em MHT exportando como arquivo MHT. Os arquivos MHT podem ser abertos usando navegadores populares como Microsoft Internet Explore e Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,8 +1,8 @@
 ---
-title: Python Reparar arquivo xlsb - Reparar arquivo xlsb online gratuitamente
+title: Python Reparar xlsb - Recuperar e corrigir arquivo xlsb corrompido
 url: /pt/python-net/recovery/repair-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Python Reparar arquivo xlsb. Ferramenta online gratuita de reparo de xlsb. Repare um arquivo xlsb corrompido. Recupere um arquivo xlsb corrompido no aplicativo Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Free Online Repair a corrupted xlsb file., Python Recover xlsb file.]
+description: Python Aspose.Cells. Reparar xlsb. Corrija o arquivo xlsb. ferramenta de recuperação xlsb. corrupção xlsb. Restaurar dados xlsb. recuperação de arquivo xlsb. Recupere arquivo xlsb corrompido.
+keywords: [Python Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparar arquivo XLSB em Python" h2="Crie seu próprio aplicativo Python para reparar arquivos xlsb usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparar arquivo XLSB usando Python" %}}
 
-Como faço para reparar o arquivo xlsb? Com a biblioteca Aspose.Cells for Python, você pode reparar facilmente o arquivo XLSB programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python via .NET de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
+ Como faço para reparar o arquivo xlsb? Com a biblioteca Aspose.Cells for Python, você pode reparar facilmente o arquivo XLSB programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. Python Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode instalar Aspose.Cells for Python via .NET de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,28 +22,28 @@ Como faço para reparar o arquivo xlsb? Com a biblioteca Aspose.Cells for Python
 
 {{% blocks/products/pf/agp/text %}}
 
-Precisa reparar o arquivo xlsb programaticamente? Python os desenvolvedores podem facilmente carregar e reparar o arquivo xlsb em apenas algumas linhas de código.
+Precisa reparar o arquivo xlsb programaticamente? Os desenvolvedores do Python podem facilmente carregar e reparar arquivos xlsb em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Defina uma classe que herda Aspose.Cells.IWarningCallback.
++ Defina uma classe que herde Aspose.Cells.IWarningCallback.
 + Carregue o arquivo XLSB criando uma instância de Workbook, usando a classe de herança acima, consulte o código acima.
 + Salve a pasta de trabalho, o arquivo xlsb corrompido será reparado.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Aplicativo gratuito e código de amostra para reparar o arquivo XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Exemplo de código para reparar o arquivo XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
     
-{{% blocks/products/pf/agp/content h2="Python biblioteca para reparar o arquivo XLSB" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteca Python para reparar arquivo XLSB" %}}
 
 Hospedamos nossos pacotes Python em repositórios PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
+ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode acompanhar o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -53,8 +53,8 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
  Aspose.Cells for Python é compatível com todos os principais sistemas operacionais. Apenas certifique-se de ter os seguintes pré-requisitos.
  
--  Instalar[Python](https://www.python.org/downloads/) 3.7 ou superior.
-- Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
+-  Instalar[Python](https://www.python.org/downloads/) 3,7 ou superior.
+-  Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.
+O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,13 +72,13 @@ XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos do Excel suportados" subTitle="Usando Python, pode-se reparar facilmente outros arquivos no formato Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Reparar outros formatos Excel suportados" subTitle="Usando Python, é possível reparar facilmente outros arquivos no formato Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Conserto ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Conserto XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Conserto XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Conserto XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Conserto XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Reparar ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Reparar XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Reparar XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Reparar XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Reparar XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

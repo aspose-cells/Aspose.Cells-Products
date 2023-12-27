@@ -1,10 +1,11 @@
 ---
 title:  Python Planilha Excel API - Aspose
 weight: 2820
-description: Python biblioteca de planilhas para criar leitura, gravação e análise de arquivos do Excel.
+description: Biblioteca Python para criar, reparar, mesclar, analisar e converter arquivos Excel. Converta Excel para PDF, JSON, HTML, TXT e outros formatos populares.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python APIs de análise de planilhas do Excel" h2="Gere, leia, escreva ou manipule planilhas, bem como exporte arquivos do Excel para vários formatos em Python aplicativos." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python APIs de análise de planilhas do Excel" h2="Gere, leia, escreva ou manipule planilhas, bem como exporte arquivos Excel para vários formatos nos aplicativos Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
@@ -12,7 +13,7 @@ description: Python biblioteca de planilhas para criar leitura, gravação e an�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios do Excel usando python.
+Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -27,7 +28,7 @@ Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de 
    <header>
     <i class="fa fa-refresh">
     </i>
- Importar &amp; Exportar
+ Importar e Exportar
    </header>
    <ul>
     <li>
@@ -50,7 +51,7 @@ Coleções
  Gráfico para imagem
     </li>
     <li>
- Planilha para Imagem
+ Planilha para imagem
     </li>
     <li>
  Planilha para PDF
@@ -78,7 +79,7 @@ Coleções
  Resumir
     </li>
     <li>
- marcadores inteligentes
+ Marcadores inteligentes
     </li>
    </ul>
   </div>
@@ -114,7 +115,7 @@ Coleções
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python Ambiente de Execução
+ Python Ambiente de tempo de execução
    </header>
    <!--<ul>
 
@@ -144,7 +145,7 @@ Coleções
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="A biblioteca Excel Python suporta os populares formatos Excel Microsoft, formatos de layout fixo e imagens." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="A biblioteca Python Excel suporta os populares formatos Microsoft Excel, formatos de layout fixo e imagens." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -185,12 +186,12 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente Saída
+ Somente saída
    </header>
    <ul>
     <li>
      <b>
- Esquema Fixo:
+ Layout Fixo:
      </b>
  PDF, PDF/A, XPS
     </li>
@@ -234,7 +235,7 @@ Coleções
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Avançado Python Excel API Recursos
+ Recursos avançados Python Excel API
    </h2>
    <p>
    </p>
@@ -242,21 +243,21 @@ Avançado Python Excel API Recursos
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ler planilhas do Excel
+ Leia planilhas do Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Renderize planilhas para PDF, EMF e imagens
+ Renderizar planilhas para PDF, EMF e imagens
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajustar planilhas dentro de pastas de trabalho
+ Ajustar planilhas em pastas de trabalho
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,14 +285,14 @@ Avançado Python Excel API Recursos
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Adicionar e editar comentários no nível da célula
+ Adicione e edite comentários no nível da célula
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pesquisar e substituir dados
+ Pesquise e substitua dados
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,7 +306,7 @@ Avançado Python Excel API Recursos
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Adicionar ou remover agrupamento de linhas e colunas
+Adicionar ou remover agrupamento de linhas e colunas
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,21 +327,21 @@ Avançado Python Excel API Recursos
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Configurar a configuração da página
+ Configurar configuração de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ajuste a orientação da página, escala, tamanho do papel
+ Ajustar orientação da página, dimensionamento e tamanho do papel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leia &amp; escrever formatação condicional
+ Leia e escrever formatação condicional
     </p>
    </div>
    <!--
@@ -415,11 +416,11 @@ Avançado Python Excel API Recursos
  Conversão de vários formatos
     </h2>
     <p>
- Python A biblioteca do Excel fornece conversão de arquivos do Excel para PDF, XPS e XPS &amp; HTML formatos. A conversão confiável de API o torna uma solução perfeita para empresas que precisam trocar arquivos em formatos padrão da indústria.
+ Python A biblioteca Excel fornece conversão de arquivos Excel para PDF, XPS e XPS. HTML formatos. A conversão confiável de API o torna uma solução perfeita para empresas que precisam trocar arquivos em formatos padrão da indústria.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Salvar planilha em diversos formatos - Java
+Salvar planilha em diferentes formatos - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opções de exibição flexíveis
     </h2>
     <p>
- Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como quebras de página de visualização, definir o nível de zoom, definir a orientação da página, controlar a visibilidade dos dados com painéis congelados, tamanho do papel, dimensionamento, cabeçalhos e gráficos. rodapés e área de impressão.
+ Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como visualizar quebras de página, definir nível de zoom, definir orientação de página, controlar visibilidade de dados com painéis congelados, tamanho de papel, escala, cabeçalhos e configurações. rodapés e área de impressão.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -480,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Gerenciamento de dados de planilhas do Excel
+ Gerenciamento de dados de planilhas Excel
     </h2>
     <p>
- Aspose.Cells for Python via Java API fornece amplo suporte para gerenciamento de dados de planilhas. Pode-se facilmente manipular qualquer célula na planilha em tempo de execução ou importar dados para as planilhas de várias fontes de dados.
+ Aspose.Cells for Python via Java API fornece amplo suporte para gerenciamento de dados de planilhas. Pode-se manipular facilmente qualquer célula da planilha em tempo de execução ou importar dados para as planilhas de várias fontes de dados.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Personalização de Gráficos
+Personalização de gráficos
     </h2>
     <p>
-Aspose.Cells for Python via Java fornece suporte completo para gráficos. Pode-se facilmente adicionar gráficos padrão e personalizados ou definir dinamicamente os dados do gráfico para atualizar o gráfico nesta biblioteca python.
+Aspose.Cells for Python via Java fornece suporte completo para gráficos. É possível adicionar facilmente gráficos padrão e personalizados ou definir dados de gráfico dinamicamente para atualizar o gráfico nesta biblioteca python.
     </p>
    </div>
    <!--
@@ -518,13 +519,13 @@ Aspose.Cells for Python via Java fornece suporte completo para gráficos. Pode-s
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API Referências" href="https://reference.aspose.com/cells/python-java" >}}
-{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Cells for Python via Java?" tabId="success-stories" >}}

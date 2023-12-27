@@ -25,23 +25,23 @@ Neste tutorial, adicionaremos TextBox em um arquivo Excel.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: O código a seguir mostra como alterar a cor do texto.
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: O código a seguir mostra como alterar o ângulo de rotação de TextBox.
+//ExStepSummary:2: O código a seguir mostra como alterar o ângulo de rotação do TextBox.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExEtapa:0-
 usando Aspose.Cells;
 usando Aspose.Cells.Desenho;
 
-Pasta de trabalho pasta de trabalho = new Pasta de trabalho();
-Folha de planilha = pasta de trabalho.Planilhas[0];
-sheet.PageSetup.PrintGridlines = verdadeiro;
-sheet.PageSetup.PrintArea = "A1:F20";
+Pasta de trabalho pasta de trabalho = nova pasta de trabalho();
+Planilha = pasta de trabalho.Worksheets[0];
+planilha.PageSetup.PrintGridlines = true;
+folha.PageSetup.PrintArea = "A1:F20";
 
 ShapeCollection formas = folha.Formas;
 
 //Adiciona TextBox e define o texto
 TextBox textBox = formas.AddTextBox(1, 0, 1, 0, 200, 200);
-textBox.Text = "Aspose.Cells for .NET é uma biblioteca de classes de programação que permite aos desenvolvedores de software manipular e processar arquivos de planilha em seus próprios aplicativos.";
+textBox.Text = "Aspose.Cells for .NET é uma biblioteca de classes de programação que permite aos desenvolvedores de software manipular e processar arquivos de planilhas em seus próprios aplicativos.";
 
 //ExEtapa:1-
 //Muda a cor do texto
@@ -62,7 +62,7 @@ textBox.RotationAngle = 90;
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Instalação de Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editora</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editor</a></li>
     </ul>
 </div>
 

@@ -2,6 +2,7 @@
 title:  Insérer des formes d'équation dans Excel via Java
 weight: 360
 description: Insérez des objets en utilisant Aspose.Cells' Java API sans aucun logiciel tel que Microsoft ou Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add equation shapes., Java insert equation shapes., Java create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insérer des formes d\'équation dans Excel via Java" h2="Insérez des formes d\'équation en utilisant Aspose.Cells\' API sans aucun logiciel comme Microsoft ou Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,9 +14,9 @@ description: Insérez des objets en utilisant Aspose.Cells' Java API sans aucun 
 
  Afin d'insérer des formes d'équation dans un fichier Excel, nous utiliserons
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API qui est une plate-forme API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
+ API qui est une plateforme API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -50,13 +51,13 @@ description: Insérez des objets en utilisant Aspose.Cells' Java API sans aucun 
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer des formes d\'équation dans le fichier Excel via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer des formes d\'équation dans un fichier Excel via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
++ Instanciation d'un objet Workbook. (ou-> Chargez le fichier XLSX avec le chemin complet.)
 + Sélectionnez Feuille de calcul via son index.
  + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) pour insérer des formes d'équation dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
@@ -67,16 +68,16 @@ Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 - Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus de types, veuillez vous référer à "Aperçu des types de forme d'équation" ci-dessous.
+L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus de types, veuillez vous référer à « Présentation des types de formes d'équation » ci-dessous.
 
 {{% blocks/products/pf/agp/code-block title="Insérer des formes d\'équation - Java" offSpacer="" %}}
 
@@ -103,7 +104,7 @@ L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus d
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MATH_MINUS
+AutoShapeType.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">
@@ -141,9 +142,9 @@ L'exemple de code ci-dessous montre comment insérer un "math plus". Pour plus d
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos du Aspose.Cells for Java API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et restituer Microsoft des formats Excel vers différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables au sein d'applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

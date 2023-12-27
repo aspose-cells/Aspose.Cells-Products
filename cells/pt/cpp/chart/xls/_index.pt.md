@@ -1,7 +1,8 @@
 ---
-title: XLS planilha de documentos via C++
+title:  XLS gráfico de documento via C++
 weight: 2500
-description: C++ código de exemplo para desenhar e converter gráfico ou diagrama no arquivo XLS no ambiente de tempo de execução C++ para Windows 32 bits, Windows 64 bits e Linux 64 bits.
+description: C++ código de exemplo para desenhar e converter gráfico ou diagrama no arquivo XLS em C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xls., C++ Save chart to image in xls., C++ chart to image in xls., xls convert chart to image in C++., xls save chart to imagein C++., xls chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS Formata gráficos em C++" h2="Gráficos de documentos XLS nativos e de alto desempenho usando APIs Aspose.Cells for C++ do lado do servidor, sem o uso de qualquer software como Microsoft ou Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,11 +14,11 @@ description: C++ código de exemplo para desenhar e converter gráfico ou diagra
 
  Para pesquisar o arquivo XLS, usaremos
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API, que é uma plataforma de pesquisa de documentos rica em recursos, poderosa e fácil de usar API for C++. Você pode baixar sua versão mais recente diretamente, basta abrir
+API, que é uma plataforma de pesquisa de documentos API for C++ rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente, basta abrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gerenciador de pacotes, procure por
  **Aspose.Cells.Cpp** 
- e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,20 +38,20 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Um gráfico de documento básico com
+ Um gráfico básico de documentos com
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- As APIs podem ser feitas com apenas algumas linhas de código.
+ APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Crie uma nova pasta de trabalho.
-+ UGet primeira planilha padrão.
-+ Adicionar valores de amostra às células.
++ UObtenha a primeira planilha padrão.
++ Adicione valores de amostra às células.
 + Adicione um gráfico à planilha.
 + Acesse a instância do gráfico recém-adicionado
 + Adicionar SeriesCollection (fonte de dados do gráfico) ao gráfico
-+ Defina o tipo de gráfico da 2ª NSeries para exibir como gráfico de linhas
-Salve o arquivo
++ Defina o tipo de gráfico do 2º NSeries para exibir como gráfico de linhas
++ Salve o arquivo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -58,7 +59,7 @@ Salve o arquivo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
+ Aspose.Cells for C++ é compatível com todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,9 +68,9 @@ Salve o arquivo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Criar Gráfico de Arquivos XLS - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Criar gráfico de arquivos XLS - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xls-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xls-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,20 +83,20 @@ Salve o arquivo
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice. Converter gráfico do Excel para PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos Excel Microsoft em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escalonáveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API independente e não requer nenhum software como Microsoft ou OpenOffice. Converta gráfico do Excel em PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="On-line XLS Demonstrações ao vivo de conversão de gráficos" sectionDescription=" Converta gráficos de documentos XLS em imagens agora mesmo visitando nosso visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo de conversão de gráficos on-line XLS" sectionDescription=" Converta XLS gráficos de documentos em imagens agora mesmo visitando nosso visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/chart). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos XLS." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos XLS." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" O gráfico será convertido instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados pelo Microsoft Excel, bem como por outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como Pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento do Microsoft Excel 2007. As versões mais recentes ainda oferecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha para uso agora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,12 +104,12 @@ Arquivos com extensão XLS representam o formato de arquivo binário do Excel. E
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráfico suportados" subTitle="Usando C++, pode-se facilmente lidar com charing com diferentes formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráficos suportados" subTitle="Usando C++, é possível lidar facilmente com diferentes formatos, inclusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/chart/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

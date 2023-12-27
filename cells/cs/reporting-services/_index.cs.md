@@ -40,7 +40,7 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
  Textová pole
     </li>
     <li>
-snímky
+ snímky
     </li>
     <li>
  Dílčí sestavy
@@ -52,13 +52,13 @@ snímky
  Seznamy
     </li>
     <li>
- Tabulky
+Tabulky
     </li>
     <li>
  Měřidlo
     </li>
     <li>
- Matrice
+ Matice
     </li>
     <li>
  Obdélníky/Čáry
@@ -312,7 +312,7 @@ snímky
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sbalte nebo rozbalte pole kontingenční tabulky
+ Sbalte nebo rozbalte pole kontingenční tabulky
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ Sbalte nebo rozbalte pole kontingenční tabulky
  Aspose.Cells' Nástroj pro návrh sestav
     </h2>
     <p>
- Vývojáři mohou navrhovat a dodávat sestavy přímo z Microsoft Excelu a používat Aspose.Cells.Report.Designer – jednoduchý návrhářský nástroj, který používá Microsoft Excel jako šablonu sestav. Tato funkce umožňuje využívat všechny výkonné funkce a funkce dostupné v aplikaci Excel Microsoft včetně kontingenčních tabulek, interaktivních grafů, vzorců a tak dále.
+Vývojáři mohou navrhovat a dodávat sestavy přímo z Microsoft Excelu a používat Aspose.Cells.Report.Designer – jednoduchý návrhářský nástroj, který používá Microsoft Excel jako šablonu sestav. Tato funkce umožňuje využívat všechny výkonné funkce a funkce dostupné v aplikaci Excel Microsoft včetně kontingenčních tabulek, interaktivních grafů, vzorců a tak dále.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Sbalte nebo rozbalte pole kontingenční tabulky
  Export sestav do tabulkových formátů
     </h2>
     <p>
-Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty souborů Microsoft Excel (97 - 2016), včetně „nativních“ Microsoft formátů Excel, jako je XLS, XLSX, 08171636 81717636 81717634 Tab Delimited a HTML. Aspose.Cells for Reporting Services také podporují formát souboru ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty souborů Microsoft Excel (97 - 2016), včetně „nativních“ Microsoft formátů Excel, jako je XLS, XLSX, 078153481, 08161636 De8177636 081773634 omezené a HTML. Aspose.Cells for Reporting Services také podporují formát souboru ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Kromě toho Aspose.Cells for Reporting Services exportujte dokumenty Excel jako plně upravitelné tabulky, tzn. koncový uživatel může v případě potřeby upravovat výsledné tabulky ručně v aplikaci Excel Microsoft.
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty soubo
  Vysoká věrnost – identická s návrhem sestavy
     </h2>
     <p>
- Aspose.Cells for Reporting Services exportujte sestavy do Microsoft tabulek Excelu tak, aby se výsledek jevil jako totožný s původním, jak je vygenerován vestavěným návrhářem sestav Reporting Services. Všechny funkce sestav jsou převedeny na nejvyšší stupeň přesnosti, aby Microsoft Excelové tabulky vypadaly co nejvíce podobně jako ta původní.
+Aspose.Cells for Reporting Services exportujte sestavy do Microsoft tabulek Excelu tak, aby se výsledek jevil jako totožný s původním, jak je vygenerován vestavěným návrhářem sestav Reporting Services. Všechny funkce sestav jsou převedeny na nejvyšší stupeň přesnosti, aby Microsoft Excelové tabulky vypadaly co nejvíce podobně jako ta původní.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty soubo
  Různé možnosti zpracování dat
     </h2>
     <p>
-Aspose.Cells for Reporting Services podporuje tabulky se seskupenými řádky a zápatím, přičemž seskupení lze nastavit v době návrhu jako ostatní položky sestavy. Aspose.Cells for Reporting Services také podporuje parametry a globální proměnné jako zdroje dat sestav. Vývojáři mohou také využít Microsoft Query pro vytváření zdrojů dat a dotazů; toto je široce používaný nástroj a známý většině uživatelů.
+ Aspose.Cells for Reporting Services podporuje tabulky se seskupenými řádky a zápatím, přičemž seskupení lze nastavit v době návrhu jako ostatní položky sestavy. Aspose.Cells for Reporting Services také podporuje parametry a globální proměnné jako zdroje dat sestav. Vývojáři mohou také využít Microsoft Query pro vytváření zdrojů dat a dotazů; toto je široce používaný nástroj a známý většině uživatelů.
     </p>
     <p>
- Kromě toho Aspose.Cells for Reporting Services podporuje jak zdroje dat specifické pro sestavy, tak sdílené zdroje dat vytvořené na serveru sestav předem. Vývojáři mohou používat zdroje dat specifické pro sestavy v době návrhu a specifikovat sdílené zdroje dat jako zdroje dat sestav při publikování sestav.
+Kromě toho Aspose.Cells for Reporting Services podporuje jak zdroje dat specifické pro sestavy, tak sdílené zdroje dat vytvořené na serveru sestav předem. Vývojáři mohou používat zdroje dat specifické pro sestavy v době návrhu a specifikovat sdílené zdroje dat jako zdroje dat sestav při publikování sestav.
     </p>
    </div>
    <!-- 

@@ -1,8 +1,8 @@
 ---
 title: TXT mit CSV zusammenführen - TXT mit CSV in C# kombinieren
 url: /de/net/merger/merge-txt-to-csv/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von TXT zu CSV im Speicherformat. C# Kombinieren Sie das Format TXT mit dem Format CSV. TXT zu CSV in C# zusammenführen. TXT Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV in C#., Free Online C# Merge TXT to csv., C# Combine TXT to CSV Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. TXT mit CSV Saveformat zusammenführen. C# Kombinieren Sie das Format TXT mit dem Format CSV. TXT zu CSV in C# zusammenführen. TXT Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV in C#., C# Merge TXT to csv., C# Combine TXT to CSV., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT über C# mit CSV zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von TXT mit CSV. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TXT mit CSV unter Verwendung von C# zusammen" %}}
 
- Wie füge ich TXT mit CSV zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TXT mit CSV ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich TXT mit CSV zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TXT mit CSV ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie TXT mit CSV in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="TXT mit CSV in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie TXT mit CSV in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um TXT mit CSV zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um TXT mit CSV in C# zusammenzuführen" InputFormat="txt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von TXT mit CSV in C#" InputFormat="txt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TXT über C# mit CSV zusammen" %}}
 
@@ -88,7 +88,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Eine Datei mit der Erweiterung .TXT stellt ein Textdokument dar, das einfachen Text in Form von Zeilen enthält. Absätze in einem Textdokument werden durch Wagenrückläufe erkannt und zur besseren Anordnung von Dateiinhalten verwendet. Ein Standardtextdokument kann in jedem Texteditor oder jeder Textverarbeitungsanwendung auf verschiedenen Betriebssystemen geöffnet werden. Der gesamte in einer solchen Datei enthaltene Text liegt in einem für Menschen lesbaren Format vor und wird durch eine Zeichenfolge dargestellt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

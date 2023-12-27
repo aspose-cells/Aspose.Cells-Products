@@ -1,7 +1,7 @@
 ---
-title: Java ODS zu CSV - Online-Konverter von ODS zu CSV
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie ODS in das Speicherformat CSV. Java ODS bis CSV Format. Speichern Sie ODS bis CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to CSV saveformat., Free Online ODS to CSV Java., Java Convert ODS to CSV]
+title: Java ODS bis CSV - ODS bis CSV Konverter
+description: Aspose Excel. Konvertieren Sie ODS schnell und einfach in CSV mit Aspose.Cells 81 unter Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to CSV in Java., Save ODS to CSV using Java., Java ODS to CSV saveformat., ODS to CSV Converter., Java Save ODS as CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie ODS in CSV in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von ODS in CSV. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von ODS, CSV und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to CS
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie ODS in CSV mit Java" %}}
 
-Wie konvertiere ich ODS in CSV? Mit der Bibliothek Aspose.Cells for Java können Sie ODS mit wenigen Codezeilen problemlos programmgesteuert in CSV konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Wie konvertiere ich ODS in CSV? Mit der Bibliothek Aspose.Cells for Java können Sie ODS mit wenigen Codezeilen problemlos programmgesteuert in CSV konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Wie konvertiere ich ODS in CSV? Mit der Bibliothek Aspose.Cells for Java können
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie ODS bis CSV in Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie ODS bis CSV in Java" %}}
 
 Das folgende Beispiel zeigt, wie ODS in CSV in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um ODS in CSV zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von ODS in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von ODS in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="csv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie ODS in CSV via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie ODS-Dateien programmgesteuert in CSV konvertieren? Java-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei ODS mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei ODS mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie ODS in CSV, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von ODS in CSV.
 
@@ -98,7 +98,7 @@ Müssen Sie ODS-Dateien programmgesteuert in CSV konvertieren? Java-Entwickler k
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Dateien mit der Erweiterung .ods stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist als Teil der von OASIS veröffentlichten und verwalteten ODF 1.2-Spezifikationen spezifiziert. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
-title: Python ODS na PRN – Online převodník ODS na PRN
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte ODS do formátu uložení PRN. Python ODS do formátu PRN. Uložte si ODS na PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to PRN saveformat., Free Online ODS to PRN Python., Python Convert ODS to PRN]
+title: Python ODS na PRN - ODS na PRN převodník
+description: Aspose Excel. Převeďte ODS na PRN rychle a snadno pomocí Aspose.Cells. Python ODS na PRN. Python Uložte ODS do PRN. Uložte ODS jako PRN pomocí Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to PRN in Python., Save ODS to PRN using Python., Python ODS to PRN saveformat., ODS to PRN Converter., Python Save ODS as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte ODS na PRN v Python" h2="Vysokorychlostní knihovna Python pro převod ODS na PRN. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="Převeďte ODS na PRN v Python" %}}
 
- Jak převedu ODS na PRN? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ODS na PRN programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu ODS na PRN? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ODS na PRN programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Ušetřete ODS na PRN v Python online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte ODS na PRN v Python" %}}
 
 Následující příklad ukazuje, jak převést ODS na PRN v Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod ODS na PRN. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ODS na PRN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod ODS na PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést ODS na PRN" %}}
 
@@ -52,7 +52,7 @@ Potřebujete převést ODS soubory na PRN programově? Python vývojáři mohou 
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

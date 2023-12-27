@@ -1,7 +1,7 @@
 ---
-title: Python ZAHLEN zu JPEG - Online-ZAHLEN zu JPEG Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie NUMBERS in das Speicherformat JPEG. Python ZAHLEN im Format JPEG. Speichern Sie die Nummern unter JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to JPEG saveformat., Free Online NUMBERS to JPEG Python., Python Convert NUMBERS to JPEG]
+title: Python ZAHLEN zu JPEG - ZAHLEN zu JPEG Konverter
+description: Aspose Excel. Konvertieren Sie NUMBERS schnell und einfach in JPEG mit Aspose.Cells. Python NUMBERS in JPEG. Python Speichern Sie NUMBERS in JPEG. Speichern Sie NUMBERS als JPEG mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to JPEG in Python., Save NUMBERS to JPEG using Python., Python NUMBERS to JPEG saveformat., NUMBERS to JPEG Converter., Python Save NUMBERS as JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in JPEG in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von NUMBERS in JPEG. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie NUMBERS in JPEG in Python" %}}
 
- Wie konvertiere ich NUMBERS in JPEG? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in JPEG konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich NUMBERS in JPEG? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in JPEG konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie Nummern unter JPEG in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie die Nummern unter JPEG in Python" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS in JPEG in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in JPEG zu konvertieren. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von NUMBERS in JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von ZAHLEN in JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie ZAHLEN in JPEG" %}}
 
@@ -52,7 +52,7 @@ Müssen Sie NUMBERS-Dateien programmgesteuert in JPEG konvertieren? Python-Entwi
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen und gleichzeitig die Speichergröße zu reduzieren. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker ist die Verschlechterung der Bildqualität.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

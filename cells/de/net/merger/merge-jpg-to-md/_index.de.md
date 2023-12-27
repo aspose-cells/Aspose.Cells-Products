@@ -1,8 +1,8 @@
 ---
 title: JPG mit MD zusammenführen – JPG mit MD in C# kombinieren
 url: /de/net/merger/merge-jpg-to-md/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von JPG in das MD-Speicherformat. C# Kombinieren Sie das JPG- in das MD-Format. JPG mit MD in C# zusammenführen. JPG zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to MD in C#., Free Online C# Merge JPG to md., C# Combine JPG to MD Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. JPG in MD-Speicherformat zusammenführen. C# Kombinieren Sie das JPG- in das MD-Format. JPG mit MD in C# zusammenführen. JPG zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to MD in C#., C# Merge JPG to md., C# Combine JPG to MD., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG über C# in MD zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von JPG in MD. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to MD in C#., Free Online 
 
 {{% blocks/products/pf/agp/content h2="JPG mit C# in MD zusammenführen" %}}
 
- Wie füge ich JPG mit MD zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie JPG problemlos programmgesteuert mit ein paar Codezeilen in MD zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich JPG mit MD zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie JPG problemlos programmgesteuert mit ein paar Codezeilen in MD zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPG in MD in C# kostenlos online zusammenführen" %}}
+{{% blocks/products/pf/agp/content h2="JPG zu MD in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie JPG in MD in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um JPG in MD zusammenzuführen. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von JPG in MD unter C#" InputFormat="jpg" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von JPG zu MD in C#" InputFormat="jpg" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie JPG mit MD über C# zusammen" %}}
 

@@ -1,8 +1,8 @@
 ---
-title: Java XLSB-Datei reparieren – XLSB-Datei online kostenlos reparieren
+title: Java XLSB reparieren – Beschädigte XLSB-Datei wiederherstellen und reparieren
 url: /de/java/recovery/repair-xlsb/ 
-description: Aspose Excel. Java Aspose.Cells. Java XLSB-Datei reparieren. Kostenloses Online-XLSB-Reparaturtool. Reparieren Sie eine beschädigte XLSB-Datei. Stellen Sie eine beschädigte XLSB-Datei in der Anwendung Java wieder her.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsb file., Free Online Repair a corrupted xlsb file., Java Recover xlsb file.]
+description: Java Aspose.Cells. Reparatur xlsb. XLSB-Datei reparieren. XLSB-Wiederherstellungstool. XLSB-Korruption. XLSB-Daten wiederherstellen. Wiederherstellung von XLSB-Dateien. Stellen Sie die beschädigte XLSB-Datei wieder her.
+keywords: [Java Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLSB in Java" h2="Erstellen Sie Ihre eigene Java-Anwendung, um XLSB-Dateien mit Java zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLSB mit Java" %}}
 
-Wie repariere ich eine XLSB-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLSB ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie repariere ich eine XLSB-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLSB ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,12 +55,12 @@ Müssen Sie die XLSB-Datei programmgesteuert reparieren? Java-Entwickler können
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLSB, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLSB, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLSB-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java-Bibliothek zum Reparieren der XLSB-Datei" %}}
 

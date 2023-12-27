@@ -2,6 +2,7 @@
 title:  Vložte ListBox do Excelu via .NET
 weight: 50
 description: C# zdrojový kód pro vložení ListBoxu do Excelu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# add ListBox into Excel., c# insert ListBox into Excel., c# create ListBox in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte ListBox do Excelu via .NET" h2="Vložte seznamy pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addlistbox) pro vložení ListBox do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -77,7 +78,7 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

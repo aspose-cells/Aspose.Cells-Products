@@ -1,7 +1,7 @@
 ---
-title: C++ SXC až SXC - Online konvertor SXC až SXC
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést SXC na SXC uložit formát. C++ SXC až SXC formát. Uložte si SXC až SXC C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to SXC saveformat., Free Online SXC to SXC C++., C++ Convert SXC to SXC]
+title: C++ SXC až SXC - SXC až SXC Převodník
+description: Aspose Excel. Převeďte SXC na SXC rychle a snadno pomocí Aspose.Cells. C++ SXC na SXC. C++ Ušetřete SXC na 197 3481761 jako 197 348161 C++ 481 pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to SXC in C++., Save SXC to SXC using C++., C++ SXC to SXC saveformat., SXC to SXC Converter., C++ Save SXC as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést SXC na SXC na C++" h2="Vysoce výkonný převod SXC na SXC pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to SXC s
 
 {{% blocks/products/pf/agp/content h2="Převeďte SXC na SXC pomocí C++" %}}
 
-Jak převedu SXC na SXC? S knihovnou Aspose.Cells for C++ můžete snadno převést SXC na SXC programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Jak převedu SXC na SXC? S knihovnou Aspose.Cells for C++ můžete snadno převést SXC na SXC programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete SXC až SXC v C++ online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit SXC až SXC v C++" %}}
 
 Následující příklad ukazuje, jak převést SXC na SXC v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod SXC na SXC. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SXC na SXC online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sxc" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod SXC na SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sxc" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SXC na SXC přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést soubory SXC na SXC programově? Vývojáři C++ mohou sna
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor SXC pomocí Factory::CreateIWorkbook.
+1.  Načtěte soubor SXC pomocí sešitu.
 1.  Převeďte SXC na SXC voláním metody Save().
 1.  Získejte výsledek převodu SXC na SXC.
 
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-png/" name="SXC DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-svg/" name="SXC DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tiff/" name="SXC DO TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tsv/" name="SXC DO TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-txt/" name="SXC DO TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xls/" name="SXC DO XLS" description="Binární formát Excel" >}}

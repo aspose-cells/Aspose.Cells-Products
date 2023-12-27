@@ -1,8 +1,8 @@
 ---
 title: Sloučit PNG až XLTM - Sloučit PNG až XLTM v Java
 url: /cs/java/merger/merge-png-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Online sloučení zdarma PNG do formátu uložení XLTM. Java Kombinujte formát PNG až XLTM. Sloučit PNG až XLTM v Java. PNG Sloučit.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Free Online Java Merge PNG to xltm., Java Combine PNG to XLTM Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Sloučit PNG do XLTM uložit formát. Java Kombinujte formát PNG až XLTM. Sloučit PNG až XLTM v Java. PNG Sloučit.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Java Merge PNG to xltm., Java Combine PNG to XLTM., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PNG až XLTM via Java" h2="Vysokorychlostní knihovna Java pro sloučení PNG do XLTM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Sloučit PNG až XLTM pomocí Java" %}}
 
- Jak sloučím PNG do XLTM? S knihovnou Aspose.Cells for Java můžete snadno sloučit PNG na XLTM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím PNG do XLTM? S knihovnou Aspose.Cells for Java můžete snadno sloučit PNG na XLTM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLTM in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit PNG až XLTM v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit PNG až XLTM v Java" %}}
 
 Následující příklad ukazuje, jak sloučit PNG až XLTM v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro sloučení PNG do XLTM. Nahrajte své 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení PNG až XLTM v Java" InputFormat="png" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení PNG až XLTM v Java" InputFormat="png" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PNG do XLTM via Java" %}}
 

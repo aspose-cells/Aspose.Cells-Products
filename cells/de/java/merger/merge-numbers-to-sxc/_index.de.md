@@ -1,8 +1,8 @@
 ---
 title: NUMBERS zu SXC zusammenführen - NUMBERS zu SXC in Java kombinieren
 url: /de/java/merger/merge-numbers-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Nummern zum Speichern im SXC-Speicherformat zusammenführen. Java Zahlen im Format SXC kombinieren. NUMBERS zu SXC in Java zusammenführen. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SXC in Java., Free Online Java Merge NUMBERS to sxc., Java Combine NUMBERS to SXC Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. NUMBERS in das Speicherformat SXC zusammenführen. Java Zahlen im Format SXC kombinieren. NUMBERS zu SXC in Java zusammenführen. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SXC in Java., Java Merge NUMBERS to sxc., Java Combine NUMBERS to SXC., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS zu SXC via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von ZAHLEN in SXC. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="SXC" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SXC in Java., Fre
 
 {{% blocks/products/pf/agp/content h2="NUMBERS mit Java zu SXC zusammenführen" %}}
 
- Wie füge ich NUMBERS zu SXC zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert zu SXC zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich NUMBERS zu SXC zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert zu SXC zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SXC in Java., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie NUMMERN kostenlos online mit SXC in Java zusammen" %}}
+{{% blocks/products/pf/agp/content h2="NUMBERS zu SXC in Java zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS mit SXC in Aspose.Cells for Java zusammengeführt werden.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in SXC zusammenzuführen. Laden 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um Nummern mit SXC in Java zusammenzuführen" InputFormat="numbers" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von NUMBERS zu SXC in Java" InputFormat="numbers" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie NUMBERS zu SXC via Java zusammen" %}}
 
@@ -102,7 +102,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Das Dateiformat SXC (Sun XML Calc) gehört zu einer Office-Suite namens OpenOffice.org. Dieses Format erfüllt im Allgemeinen die Tabellenkalkulationsanforderungen der Benutzer, da es sich um ein XML-basiertes Tabellenkalkulationsdateiformat handelt. Das Format SXC unterstützt Formeln, Funktionen, Makros und Diagramme sowie DataPilot. Dies ist eine unglaubliche Funktion, da es die importierten Rohdaten automatisch individualisiert und Zusammenfassungen bereitstellt. Die mit dieser Software erstellten Dateien werden mit der Erweiterung .sxc gespeichert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

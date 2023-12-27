@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM na ET – Online převodník XLTM na ET
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převeďte XLTM do formátu uložení ET. C++ XLTM do formátu ET. Uložit XLTM do ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to ET saveformat., Free Online XLTM to ET C++., C++ Convert XLTM to ET]
+title: C++ XLTM na ET - XLTM na ET převodník
+description: Aspose Excel. Převeďte XLTM na ET rychle a snadno pomocí Aspose.Cells. C++ XLTM na ET. C++ Uložte XLTM do ET. Uložte XLTM jako ET pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to ET in C++., Save XLTM to ET using C++., C++ XLTM to ET saveformat., XLTM to ET Converter., C++ Save XLTM as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XLTM na ET v C++" h2="Vysoce výkonný převod XLTM na ET pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to ET s
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLTM na ET pomocí C++" %}}
 
- Jak převedu XLTM na ET? S knihovnou Aspose.Cells for C++ můžete snadno převést XLTM na ET programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu XLTM na ET? S knihovnou Aspose.Cells for C++ můžete snadno převést XLTM na ET programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLTM na ET v C++ online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte XLTM do ET v C++" %}}
 
 Následující příklad ukazuje, jak převést XLTM na ET v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod XLTM na ET. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTM na ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLTM na ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTM na ET přes C++" %}}
 
@@ -49,8 +49,8 @@ Potřebujete převést soubory XLTM na ET programově? Vývojáři C++ mohou sna
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor XLTM pomocí Factory::CreateIWorkbook.
-1.  Převeďte XLTM na ET voláním metody Save().
+1.  Načtěte soubor XLTM pomocí sešitu.
+1. Převeďte XLTM na ET voláním metody Save().
 1.  Získejte výsledek převodu XLTM na ET.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-pdf/" name="XLTM DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-png/" name="XLTM DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-svg/" name="XLTM DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tiff/" name="XLTM DO TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM DO TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-txt/" name="XLTM DO TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xls/" name="XLTM DO XLS" description="Binární formát Excel" >}}

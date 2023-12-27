@@ -1,7 +1,7 @@
 ---
-title: Java HTM na PPTX - Online převodník HTM na PPTX
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte HTM do formátu uložení PPTX. Java HTM až PPTX formát. Uložte HTM na PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to PPTX saveformat., Free Online HTM to PPTX Java., Java Convert HTM to PPTX]
+title: Java HTM na PPTX - Převodník HTM na PPTX
+description: Aspose Excel. Převeďte HTM na PPTX rychle a snadno pomocí Aspose.Cells. Java HTM na PPTX. Java Uložte HTM na PPTX. Uložte HTM jako 07617318483 pomocí 07617318483
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to PPTX in Java., Save HTM to PPTX using Java., Java HTM to PPTX saveformat., HTM to PPTX Converter., Java Save HTM as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte HTM na PPTX v Java" h2="Vysokorychlostní knihovna Java pro převod HTM na PPTX. Jedná se o profesionální softwarové řešení pro import a export HTM, PPTX a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to PP
 
 {{% blocks/products/pf/agp/content h2="Převeďte HTM na PPTX pomocí Java" %}}
 
- Jak převedu HTM na PPTX? S knihovnou Aspose.Cells for Java můžete snadno převést HTM na PPTX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu HTM na PPTX? S knihovnou Aspose.Cells for Java můžete snadno převést HTM na PPTX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to PP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit HTM na PPTX v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte HTM na PPTX v Java" %}}
 
 Následující příklad ukazuje, jak převést HTM na PPTX v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod HTM na PPTX. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod HTM na PPTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod HTM na PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést HTM na PPTX via Java" %}}
 
@@ -98,7 +98,7 @@ Potřebujete převést soubory HTM na PPTX programově? Vývojáři Java mohou s
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Soubory s příponou .htm představují Hypertext Markup Language pro vytváření webových stránek pro zobrazení ve webových prohlížečích jako je Google Chrome, Internet Explorer, Firefox a řada dalších. Definuje značky pro vytváření statických stránek, které mají být publikovány na World Wide Web (WWW), aby k nim měli přístup ostatní. Tyto značky sdělují prohlížečům, jak zobrazit obsah webové stránky. Takové stránky mohou obsahovat prostý text, obrázky, hypertextové odkazy na jiné stránky, videa a další mediální informace. Když je webová stránka publikována, můžete se podívat na značkovací kód za ní zobrazením jejího zdroje stránky. Moderní prohlížeče umožňují prohlížet každou sekci webové stránky, kde je zpracováno každé poddělení nebo značkovací prvek ve zdroji HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Soubory s příponou PPTX jsou prezentační soubory vytvořené pomocí oblíbené aplikace Microsoft PowerPoint. Na rozdíl od předchozí verze formátu prezentačního souboru PPT, který byl binární, je formát PPTX založen na formátu otevřeného souboru prezentací XML Microsoft PowerPoint. Soubor prezentace je kolekce snímků, kde každý snímek může obsahovat text, obrázky, formátování, animace a další média. Tyto snímky jsou publiku prezentovány ve formě prezentací s vlastním nastavením prezentace.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Soubory s příponou PPTX jsou prezentační soubory vytvořené pomocí oblíbené aplikace Microsoft PowerPoint. Na rozdíl od předchozí verze formátu souboru prezentace PPT, který byl binární, je formát PPTX založen na formátu otevřeného souboru prezentace XML Microsoft PowerPoint. Soubor prezentace je kolekce snímků, kde každý snímek může obsahovat text, obrázky, formátování, animace a další média. Tyto snímky jsou publiku prezentovány ve formě prezentací s vlastním nastavením prezentace.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

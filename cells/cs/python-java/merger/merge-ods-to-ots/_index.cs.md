@@ -1,8 +1,8 @@
 ---
 title: Sloučit ODS na OTS - Sloučit ODS na OTS v Python
 url: /cs/python-java/merger/merge-ods-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Online sloučení zdarma ODS do formátu OTS. Python Zkombinujte ODS do formátu OTS. Sloučit ODS do OTS v Python. ODS Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to OTS in Python., Free Online Python Merge ODS to ots., Python Combine ODS to OTS Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit ODS do formátu uložení OTS. Python Zkombinujte ODS do formátu OTS. Sloučit ODS do OTS v Python. ODS Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to OTS in Python., Python Merge ODS to ots., Python Combine ODS to OTS., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit ODS do OTS přes Python" h2="Vysokorychlostní knihovna Python pro sloučení ODS do OTS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to OTS in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Sloučit ODS do OTS pomocí Python" %}}
 
- Jak sloučím ODS do OTS? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit ODS do OTS programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+ Jak sloučím ODS do OTS? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit ODS do OTS programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit ODS do OTS v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit ODS na OTS v Python" %}}
 
 Následující příklad ukazuje, jak sloučit ODS do OTS v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Postupujte podle jednoduchých kroků pro sloučení ODS s OTS. Nahrajte soubory
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení ODS do OTS v Python" InputFormat="ods" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení ODS do OTS v Python" InputFormat="ods" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit ODS do OTS přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Potřebujete sloučit ODS do OTS programově? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete sloučit ODS do OTS programově? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 -  Nainstalujte Java 1.8 nebo vyšší a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,7 +1,7 @@
 ---
-title: Python CSV zu XLAM - Online-Konverter von CSV zu XLAM
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie CSV in das Speicherformat XLAM. Python CSV bis XLAM Format. Speichern Sie CSV bis XLAM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to XLAM saveformat., Free Online CSV to XLAM Python., Python Convert CSV to XLAM]
+title: Python CSV bis XLAM - CSV bis XLAM Konverter
+description: Aspose Excel. Konvertieren Sie CSV schnell und einfach in XLAM mit Aspose.Cells 81 unter Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to XLAM in Python., Save CSV to XLAM using Python., Python CSV to XLAM saveformat., CSV to XLAM Converter., Python Save CSV as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie CSV in XLAM in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von CSV in XLAM. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von CSV, XLAM und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie CSV in XLAM mit Python" %}}
 
-Wie konvertiere ich CSV in XLAM? Mit der Bibliothek Aspose.Cells for Python können Sie CSV mit wenigen Codezeilen problemlos programmgesteuert in XLAM konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+Wie konvertiere ich CSV in XLAM? Mit der Bibliothek Aspose.Cells for Python können Sie CSV mit wenigen Codezeilen problemlos programmgesteuert in XLAM konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie CSV bis XLAM in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie CSV bis XLAM in Python" %}}
 
 Das folgende Beispiel zeigt, wie CSV in XLAM in Python konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um CSV in XLAM zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von CSV in XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von CSV in XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie CSV über Python in XLAM" %}}
 
@@ -63,18 +63,18 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM ist eine makrofähige Add-In-Datei, die zum Hinzufügen neuer Funktionen zu Tabellenkalkulationen verwendet wird. Ein Add-In ist ein Zusatzprogramm, das zusätzlichen Code ausführt und zusätzliche Funktionen für Tabellenkalkulationen bereitstellt. XLAM-Dateien werden mit der Erweiterung .xlam gespeichert. XLAM-Dateien sind XML-basierte Dateien, die den Dateiformaten XLSM und XLSX ähneln und mit ZIP-Komprimierung gespeichert werden, um die Gesamtdateigröße zu reduzieren.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

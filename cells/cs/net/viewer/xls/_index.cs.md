@@ -2,6 +2,7 @@
 title:  Zobrazit XLS Formáty souborů via .NET
 weight: 1260
 description: C# zdrojový kód pro načtení, vykreslení a zobrazení dokumentů XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# view XLS files., c# how to render XLS document., c# load and display XLS files., XLS File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS Prohlížeč souborů for .NET" h2="Prohlížejte si tabulky Excelu a OpenOffice, jako je XLS, aniž byste potřebovali Microsoft Excel nebo Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Načtěte soubor XLS v instanci sešitu
 1.  Vytvořte instanci HtmlSaveOptions a nastavte vlastnost ExportHeadings na true
-1.  Uložte soubor XLS ve formátu HTML pomocí metody Workbook.Save
+1. Uložte soubor XLS ve formátu HTML pomocí metody Workbook.Save
 1.  Načtěte výsledný HTML ve výchozím prohlížeči pomocí Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,8 +1,8 @@
 ---
 title: TABDELIMITED mit Excel zusammenführen – Kombinieren Sie TABDELIMITED mit Excel in C#
 url: /de/net/merger/merge-tabdelimited-to-excel/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von TABDELIMITED in das Excel-Speicherformat. C# Kombinieren Sie TABDELIMITED mit dem Excel-Format. TABDELIMITED mit Excel in C# zusammenführen. TABDELIMITED zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to EXCEL in C#., Free Online C# Merge TABDELIMITED to excel., C# Combine TABDELIMITED to EXCEL Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. TABDELIMITED mit dem Excel-Speicherformat zusammenführen. C# Kombinieren Sie TABDELIMITED mit dem Excel-Format. TABDELIMITED mit Excel in C# zusammenführen. TABDELIMITED zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to EXCEL in C#., C# Merge TABDELIMITED to excel., C# Combine TABDELIMITED to EXCEL., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie TABDELIMITED über C# mit Excel zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von TABDELIMITED mit Excel. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to EXCEL in C#., 
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit Excel unter Verwendung von C# zusammen" %}}
 
-Wie füge ich TABDELIMITED mit EXCEL zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TABDELIMITED ganz einfach programmgesteuert und mit wenigen Codezeilen in Excel zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich TABDELIMITED mit EXCEL zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TABDELIMITED ganz einfach programmgesteuert und mit wenigen Codezeilen in Excel zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED in C# kostenlos online mit Excel zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED in C# mit Excel zusammen" %}}
 
 Das folgende Beispiel zeigt, wie TABDELIMITED in Aspose.Cells for .NET mit Excel zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um TABDELIMITED mit EXCEL zusammenzuführen
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von TABDELIMITED mit Excel in C#" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von TABDELIMITED mit Excel in C#" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TABDELIMITED über C# mit Excel zusammen" %}}
 

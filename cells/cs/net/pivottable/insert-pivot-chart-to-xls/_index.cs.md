@@ -1,7 +1,8 @@
 ---
 title: Vložení kontingenčního grafu do souborů Microsoft Excel XLS přes C#
 weight: 7690
-description: C# Ukázkový kód pro generování dokumentů XLS s kontingenčním grafem. Tento kód použijte k vytváření souborů Microsoft Excel XLS s kontingenčním grafem v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+description: C# Ukázkový kód pro přidání kontingenčního grafu do XLS pomocí knihovny .NET. Tento kód použijte pro vložení kontingenčního grafu do souboru XLS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložit kontingenční graf do dokumentů XLS přes C#" h2="Nativní a vysoce výkonná Microsoft tabulka Excel XLS s vytvářením kontingenčních grafů programově pomocí .NET API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,9 +12,7 @@ description: C# Ukázkový kód pro generování dokumentů XLS s kontingenční
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generování souboru MS Excel XLS s kontingenčním grafem dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvořit XLS dokumentů s kontingenčním grafem od nuly bez nutnosti MS Office, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
+ Generování souboru MS Excel XLS s kontingenčním grafem dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvořit XLS dokumentů s kontingenčním grafem od nuly bez nutnosti MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# Ukázkový kód pro generování dokumentů XLS s kontingenční
 1.  Získejte požadovanou buňku (buňky) listu a vložte hodnotu do buněk.
 1.  Vložte kontingenční tabulku a nastavte styl
 1.  Vložit kontingenční graf pomocí dat kontingenční tabulky
-1. Pomocí metody Uložit uložte sešit jako soubor XLS.
+1.  Pomocí metody Uložit uložte sešit jako soubor XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# Ukázkový kód pro generování dokumentů XLS s kontingenční
 
 {{% blocks/products/pf/agp/text %}}
 
- Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
+Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
 
 {{% /blocks/products/pf/agp/text %}}
 

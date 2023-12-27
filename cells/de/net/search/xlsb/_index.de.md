@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument XLSB, ohne via .NET zu öffnen
 weight: 8880
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSB-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach XLSB-Formaten in C#" h2="Native und leistungsstarke XLSB Dokumentensuche mit serverseitigen Aspose.Cells for .NET APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSB-Datei a
 
  Um die Datei XLSB zu durchsuchen, verwenden wir
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  Paketmanager, suchen Sie nach
  **Aspose.Cells** 

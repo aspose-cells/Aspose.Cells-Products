@@ -1,7 +1,7 @@
 ---
-title: Java OTS na TXT - Online převodník OTS na TXT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést OTS na TXT saveformat. Java OTS do formátu TXT. Uložte OTS na TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TXT saveformat., Free Online OTS to TXT Java., Java Convert OTS to TXT]
+title: Java OTS na TXT - Převodník OTS na TXT
+description: Aspose Excel. Převeďte OTS na TXT rychle a snadno pomocí Aspose.Cells. Java OTS na TXT. Java Uložte OTS na TXT. Uložte OTS jako 07617318483 pomocí 07617318483
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to TXT in Java., Save OTS to TXT using Java., Java OTS to TXT saveformat., OTS to TXT Converter., Java Save OTS as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte OTS na TXT v Java" h2="Vysokorychlostní knihovna Java pro převod OTS na TXT. Jedná se o profesionální softwarové řešení pro import a export OTS, TXT a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TX
 
 {{% blocks/products/pf/agp/content h2="Převeďte OTS na TXT pomocí Java" %}}
 
- Jak převedu OTS na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu OTS na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete OTS na TXT v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte OTS na TXT v Java" %}}
 
 Následující příklad ukazuje, jak převést OTS na TXT v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod OTS na TXT. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OTS na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod OTS na TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést OTS na TXT via Java" %}}
 

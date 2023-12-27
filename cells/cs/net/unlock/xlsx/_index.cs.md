@@ -2,6 +2,7 @@
 title:  Odemkněte XLSX dokument via .NET
 weight: 2040
 description: C# zdrojový kód k odemknutí heslem chráněného souboru XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemkněte XLSX tabulku přes C#" h2="Odstraňte ochranu z XLSX pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

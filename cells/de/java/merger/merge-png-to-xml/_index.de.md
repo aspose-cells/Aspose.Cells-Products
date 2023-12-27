@@ -1,8 +1,8 @@
 ---
 title: PNG zu XML zusammenführen – Kombinieren Sie PNG zu XML in Java
 url: /de/java/merger/merge-png-to-xml/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von PNG in das XML-Speicherformat. Java Kombinieren Sie PNG in das XML-Format. PNG in XML in Java zusammenführen. PNG Zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Free Online Java Merge PNG to xml., Java Combine PNG to XML Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. PNG in das XML-Speicherformat zusammenführen. Java Kombinieren Sie PNG in das XML-Format. PNG in XML in Java zusammenführen. PNG Zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Java Merge PNG to xml., Java Combine PNG to XML., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG mit XML via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von PNG in XML. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Führen Sie PNG mit Java in XML zusammen" %}}
 
- Wie füge ich PNG mit XML zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie PNG mit wenigen Codezeilen ganz einfach programmgesteuert in XML zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich PNG mit XML zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie PNG mit wenigen Codezeilen ganz einfach programmgesteuert in XML zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XML in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie PNG kostenlos online in Java in XML zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie PNG in XML in Java zusammen" %}}
 
 Das folgende Beispiel zeigt, wie PNG in XML in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Befolgen Sie die einfachen Schritte, um PNG in XML zusammenzuführen. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von PNG in XML in Java" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von PNG in XML in Java" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie PNG mit XML via Java zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie PNG programmgesteuert in XML zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie PNG programmgesteuert in XML zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie XLTX – Erstellen Sie die Datei XLTX in Python
-description: Aspose Excel. Python Datei XLTX erstellen. Erstellen XLTX Python. Python XLTX Ersteller. Erstellen Sie XLTX in Python. Generieren Sie die Datei XLTX mit Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX Creater., Create XLTX file in Python., Generate XLTX file in Python]
+description: Aspose Excel. Python Erstellen Sie schnell und einfach eine XLTX-Datei mit Aspose.Cells. Erstellen Sie eine XLTX-Datei mit Python. Erstellen Sie XLTX in Python. Python XLTX Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Create XLTX file using Python., Write data to XLTX file via Python., Create a XLTX file in Python., Python Generate a XLTX file., Python XLTX Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie die Datei XLTX in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Erstellen der Datei XLTX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSX, PDF und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie die Datei XLTX mit Python" %}}
 
- Wie erstelle ich die Datei XLTX? Mit der Bibliothek Aspose.Cells for Python via Java können Sie die Datei XLTX ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie erstelle ich die Datei XLTX? Mit der Bibliothek Aspose.Cells for Python via Java können Sie die Datei XLTX ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX
 1.  Erstellen Sie eine Arbeitsmappenklasseninstanz.
 1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
-1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLTX-Datei zu speichern.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLTX-Datei zu speichern.
 
 {{% blocks/products/pf/agp/code-block title="Der Beispielcode zeigt, wie die Datei XLTX in Python erstellt wird." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
 
 {{% /blocks/products/pf/agp/text %}}
 

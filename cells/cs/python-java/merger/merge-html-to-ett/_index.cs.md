@@ -1,8 +1,8 @@
 ---
 title: Sloučit HTML na ETT – Sloučit HTML na ETT v Python
 url: /cs/python-java/merger/merge-html-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Zdarma online sloučení HTML do formátu uložení ETT. Python Zkombinujte HTML do formátu ETT. Sloučit HTML do ETT v Python. HTML Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Free Online Python Merge HTML to ett., Python Combine HTML to ETT Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit HTML do formátu uložení ETT. Python Zkombinujte HTML do formátu ETT. Sloučit HTML do ETT v Python. HTML Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Python Merge HTML to ett., Python Combine HTML to ETT., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit HTML do ETT přes Python" h2="Vysokorychlostní knihovna Python pro sloučení HTML do ETT. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Sloučit HTML do ETT pomocí Python" %}}
 
-Jak sloučím HTML do ETT? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit HTML do ETT pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+ Jak sloučím HTML do ETT? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit HTML do ETT pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit HTML do ETT v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit HTML do ETT v Python" %}}
 
 Následující příklad ukazuje, jak sloučit HTML do ETT v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro sloučení HTML s ETT. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení HTML do ETT v Python" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení HTML do ETT v Python" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit HTML do ETT přes Python" %}}
 
@@ -73,7 +73,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 -  Nainstalujte Java 1.8 nebo vyšší a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

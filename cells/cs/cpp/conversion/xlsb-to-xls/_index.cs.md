@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB až XLS - Online konvertor XLSB až XLS
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést XLSB na XLS uložit formát. C++ XLSB až XLS formát. Uložte si XLSB až XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLS saveformat., Free Online XLSB to XLS C++., C++ Convert XLSB to XLS]
+title: C++ XLSB až XLS - XLSB až XLS Převodník
+description: Aspose Excel. Převeďte XLSB na XLS rychle a snadno pomocí Aspose.Cells. C++ XLSB na XLS. C++ Ušetřete XLSB na 197 3481761 jako 197 348161 C++ 481 pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to XLS in C++., Save XLSB to XLS using C++., C++ XLSB to XLS saveformat., XLSB to XLS Converter., C++ Save XLSB as XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLSB na XLS na C++" h2="Vysoce výkonný převod XLSB na XLS pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLS 
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLSB na XLS pomocí C++" %}}
 
-Jak převedu XLSB na XLS? S knihovnou Aspose.Cells for C++ můžete snadno převést XLSB na XLS programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Jak převedu XLSB na XLS? S knihovnou Aspose.Cells for C++ můžete snadno převést XLSB na XLS programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLSB až XLS v C++ online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLSB až XLS v C++" %}}
 
 Následující příklad ukazuje, jak převést XLSB na XLS v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod XLSB na XLS. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLSB na XLS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLSB na XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSB na XLS přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést soubory XLSB na XLS programově? Vývojáři C++ mohou sn
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor XLSB pomocí Factory::CreateIWorkbook.
+1.  Načtěte soubor XLSB pomocí sešitu.
 1.  Převeďte XLSB na XLS voláním metody Save().
 1.  Získejte výsledek převodu XLSB na XLS.
 
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB DO TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB DO TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB DO TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB DO XLS" description="Binární formát Excel" >}}

@@ -1,6 +1,7 @@
 ---
 title:  MHT-Dateiformate anzeigen via .NET
 description: C# Quellcode zum Laden, Rendern und Anzeigen von MHT-Dokumenten auf .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# view MHT files., c# how to render MHT document., c# load and display MHT files., MHT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT-Dateibetrachter for .NET" h2="Zeigen Sie Excel- und OpenOffice-Tabellen wie MHT an, ohne dass Microsoft Excel oder Office Automation erforderlich sind." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -87,7 +88,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 
 
@@ -102,7 +103,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Laden Sie die MHT-Datei bei Bedarf über den Link herunter" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente durch den Export als MHT-Datei in MHT konvertieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.
+Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente in MHT konvertieren, indem Sie sie als MHT-Datei exportieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Vodoznak XLSB dokument via Java
+title: Vodoznak XLSB dokument via Java
 weight: 5900
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte textový vodoznak na XLSB via Java" h2="Sestavte si své vlastní aplikace Java pro soubory vodoznaku XLSB pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

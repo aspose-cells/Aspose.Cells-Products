@@ -2,6 +2,7 @@
 title:  Fügen Sie RadioButton (Formularsteuerelement) mit Python via Java in Excel ein
 weight: 60
 description: Python via Java-Quellcode zum Einfügen von RadioButton (Formularsteuerelement) in Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add RadioButton into Excel., Python via Java insert RadioButton into Excel., Python via Java create RadioButton in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie RadioButton (Formularsteuerelement) mit Python via Java in Excel ein" h2="Fügen Sie Objekte über serverseitige APIs ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ Sie benötigen die Aspose.Cells, um den folgenden Workflow in Ihrer eigenen Umge
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Verwenden Sie die Formsammlungen[Methode hinzufügen](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addRadioButton(int,%20int,%20int,%20int,%20int,%20int)), um einen RadioButton (Formularsteuerelement) in das ausgewählte Arbeitsblatt einzufügen.
 + Arbeitsmappe im Format XLSX speichern.
@@ -52,8 +53,8 @@ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vo
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jedes Betriebssystem, das Java-Skripte ausführen kann, z. B. Windows, Linux und MacOS
--  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jedes Betriebssystem, das Java-Skripte ausführen kann, z. B. Windows, Linux und MacOS
+- Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren Sie Aspose.Cells for Python über Java von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

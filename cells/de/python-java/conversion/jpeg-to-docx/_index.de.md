@@ -1,7 +1,7 @@
 ---
-title: Python JPEG zu DOCX - Online-Konverter von JPEG zu DOCX
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie JPEG in das Speicherformat DOCX. Python JPEG bis DOCX Format. Speichern Sie JPEG bis DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to DOCX saveformat., Free Online JPEG to DOCX Python., Python Convert JPEG to DOCX]
+title: Python JPEG bis DOCX - JPEG bis DOCX Konverter
+description: Aspose Excel. Konvertieren Sie JPEG schnell und einfach in DOCX mit Aspose.Cells 81 unter Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPEG to DOCX in Python., Save JPEG to DOCX using Python., Python JPEG to DOCX saveformat., JPEG to DOCX Converter., Python Save JPEG as DOCX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie JPEG in DOCX in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von JPEG in DOCX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von JPEG, DOCX und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPE
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie JPEG in DOCX mit Python" %}}
 
-Wie konvertiere ich JPEG in DOCX? Mit der Bibliothek Aspose.Cells for Python können Sie JPEG mit wenigen Codezeilen problemlos programmgesteuert in DOCX konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+Wie konvertiere ich JPEG in DOCX? Mit der Bibliothek Aspose.Cells for Python können Sie JPEG mit wenigen Codezeilen problemlos programmgesteuert in DOCX konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie JPEG bis DOCX in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie JPEG bis DOCX in Python" %}}
 
 Das folgende Beispiel zeigt, wie JPEG in DOCX in Python konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um JPEG in DOCX zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von JPEG in DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von JPEG in DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie JPEG über Python in DOCX" %}}
 
@@ -63,12 +63,12 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

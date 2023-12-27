@@ -1,7 +1,7 @@
 ---
 title: Vytvořit XLAM - Vytvořit soubor XLAM v Python
-description: Aspose Excel. Python Vytvořte soubor XLAM. Vytvořit XLAM Python. Python XLAM Tvůrce. Vytvořte XLAM v Python. Vygenerujte soubor XLAM pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM Creater., Create XLAM file in Python., Generate XLAM file in Python]
+description: Aspose Excel. Python Vytvořte XLAM Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor XLAM pomocí Python. Vytvořte XLAM v Python. 0761831981 0761831983
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLAM file., Generate XLAM file in Python., Create XLAM file using Python., Write data to XLAM file via Python., Create a XLAM file in Python., Python Generate a XLAM file., Python XLAM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor XLAM v Python" h2="Vysokorychlostní knihovna Python pro vytváření souboru XLAM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor XLAM pomocí Python" %}}
 
- Jak vytvořit soubor XLAM? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor XLAM programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit soubor XLAM? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor XLAM programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM
 1.  Vytvořte instanci třídy Sešit.
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a zadejte hodnotu do buněk.
-1. Pomocí metody Uložit uložte sešit jako soubor XLAM.
+1.  Pomocí metody Uložit uložte sešit jako soubor XLAM.
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor XLAM v Python." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.xlam")
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

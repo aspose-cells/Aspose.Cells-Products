@@ -1,7 +1,7 @@
 ---
-title: Java XLS až DIF - Online konvertor XLS až DIF
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLS na DIF uložit formát. Java XLS až DIF formát. Uložte si XLS až DIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to DIF saveformat., Free Online XLS to DIF Java., Java Convert XLS to DIF]
+title: Java XLS až DIF - XLS až DIF Převodník
+description: Aspose Excel. Převeďte XLS na DIF rychle a snadno pomocí Aspose.Cells. Java XLS na DIF. Java Ušetřete XLS na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to DIF in Java., Save XLS to DIF using Java., Java XLS to DIF saveformat., XLS to DIF Converter., Java Save XLS as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLS na DIF na Java" h2="Vysokorychlostní knihovna Java pro převod XLS na DIF. Jedná se o profesionální softwarové řešení pro import a export XLS, DIF a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to DI
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLS na DIF pomocí Java" %}}
 
-Jak převedu XLS na DIF? S knihovnou Aspose.Cells for Java můžete snadno převést XLS na DIF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLS na DIF? S knihovnou Aspose.Cells for Java můžete snadno převést XLS na DIF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLS na DIF? S knihovnou Aspose.Cells for Java můžete snadno přev
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLS až DIF v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLS až DIF v Java" %}}
 
 Následující příklad ukazuje, jak převést XLS na DIF v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLS na DIF. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLS na DIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLS na DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLS na DIF via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLS na DIF programově? Vývojáři Java mohou sn
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLS s instancí třídy Workbook.
+1. Načtěte soubor XLS s instancí třídy Workbook.
 1.  Převeďte XLS na DIF voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLS na DIF.
 

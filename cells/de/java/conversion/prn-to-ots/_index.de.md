@@ -1,7 +1,7 @@
 ---
-title: Java PRN zu OTS – Online PRN zu OTS Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie PRN in das OTS-Speicherformat. Java PRN in OTS-Format. Speichern Sie PRN unter OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to OTS saveformat., Free Online PRN to OTS Java., Java Convert PRN to OTS]
+title: Java PRN zu OTS - PRN zu OTS Konverter
+description: Aspose Excel. Konvertieren Sie PRN schnell und einfach in OTS mit Aspose.Cells. Java PRN in OTS. Java PRN in OTS speichern. Speichern Sie PRN als OTS unter Verwendung von Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to OTS in Java., Save PRN to OTS using Java., Java PRN to OTS saveformat., PRN to OTS Converter., Java Save PRN as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie PRN in OTS in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von PRN in OTS. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von PRN, OTS und vielen anderen Formaten unter Verwendung von Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie PRN in OTS mit Java" %}}
 
- Wie konvertiere ich PRN in OTS? Mit der Bibliothek Aspose.Cells for Java können Sie PRN mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich PRN in OTS? Mit der Bibliothek Aspose.Cells for Java können Sie PRN mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie PRN in OTS unter Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie PRN in OTS unter Java" %}}
 
 Das folgende Beispiel zeigt, wie PRN in Java in OTS konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um PRN in OTS zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von PRN in OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von PRN in OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie PRN in OTS via Java" %}}
 

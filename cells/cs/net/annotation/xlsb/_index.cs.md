@@ -1,7 +1,8 @@
 ---
-title:  Odebrat XLSB Anotace via .NET
+title:  Přidat nebo odebrat XLSB Anotace via .NET
 weight: 6440
 description: C# zdrojový kód pro přidání a odstranění anotací formátu XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidat nebo smazat anotaci z XLSB přes C#" h2="Sestavte si své vlastní aplikace .NET pro manipulaci s komentáři a autory v souborech dokumentů pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

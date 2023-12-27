@@ -1,8 +1,8 @@
 ---
 title: NUMBERS mit OTS zusammenführen – Kombinieren Sie NUMBERS mit OTS in Python
 url: /de/python-net/merger/merge-numbers-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von Nummern in das OTS-Speicherformat. Python Kombinieren Sie NUMBERS mit dem OTS-Format. NUMBERS mit OTS in Python zusammenführen. NUMBERS zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to OTS in Python., Free Online Python Merge NUMBERS to ots., Python Combine NUMBERS to OTS Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. NUMBERS in das OTS-Speicherformat zusammenführen. Python Kombinieren Sie NUMBERS mit dem OTS-Format. NUMBERS mit OTS in Python zusammenführen. NUMBERS zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to OTS in Python., Python Merge NUMBERS to ots., Python Combine NUMBERS to OTS., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS über Python mit OTS zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von NUMBERS mit OTS. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to OTS in Python.,
 
 {{% blocks/products/pf/agp/content h2="NUMBERS mit OTS unter Verwendung von Python zusammenführen" %}}
 
- Wie füge ich NUMBERS mit OTS zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in OTS zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Wie füge ich NUMBERS mit OTS zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in OTS zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie NUMBERS in Python kostenlos online mit OTS zusammen" %}}
+{{% blocks/products/pf/agp/content h2="NUMBERS mit OTS in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS mit OTS in Aspose.Cells for Python via .NET zusammengeführt werden.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Befolgen Sie die einfachen Schritte, um NUMBERS mit OTS zusammenzuführen. Laden
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um NUMBERS zu OTS in Python zusammenzuführen" InputFormat="numbers" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von NUMBERS mit OTS in Python" InputFormat="numbers" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie NUMBERS über Python mit OTS zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie NUMBERS programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie NUMBERS programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS mit OTS zusammenzuführen. Laden
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,14 +72,14 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Eine Datei mit der Erweiterung .ots ist eine OpenDocument Spreadsheet-Vorlagendatei, die mit der in Apache OpenOffice enthaltenen Calc-Anwendungssoftware erstellt wird. Die Calc-Anwendungssoftware ähnelt Excel und ist in Microsoft Office verfügbar. Das OTS-Dateiformat wird zum Erstellen von Vorlagen verwendet, die vordefinierte Einstellungen in Bezug auf Stile, Schriftart, Daten, Tabellenlayout und Formatierung enthalten. OTF-Dateien haben den Mime-Typ application/vnd.oasis.opendocument.spreadsheet-template. Diese Vorlagendateien können als Ausgangspunkt zum Generieren und Speichern tatsächlicher Datendateien verwendet werden, die im Dateiformat ODS gespeichert werden. OTS-Dateien können mit Anwendungen wie OpenOffice und LibreOffice verwendet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

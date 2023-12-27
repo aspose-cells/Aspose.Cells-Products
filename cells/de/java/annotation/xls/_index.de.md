@@ -1,7 +1,8 @@
 ---
-title:  Entfernen Sie die Anmerkung XLS via Java
+title:  XLS Anmerkung via Java hinzufügen oder entfernen
 weight: 10040
 description: Java Beispielcode zum Löschen von XLS-Formatanmerkungen in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Anmerkung hinzufügen oder löschen von XLS via Java" h2="Erstellen Sie Ihre eigenen Java-Apps, um Kommentare und Autoren in Dokumentdateien mithilfe serverseitiger APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,8 +1,8 @@
 ---
 title: BILD mit SVG zusammenführen - BILD mit SVG in C++ kombinieren
 url: /de/cpp/merger/merge-image-to-svg/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenloses Online-Bild zum SVG-Speicherformat zusammenführen. C++ Kombinieren Sie BILD mit dem Format SVG. BILD zu SVG in C++ zusammenführen. BILD zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to SVG in C++., Free Online C++ Merge IMAGE to svg., C++ Combine IMAGE to SVG Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. BILD in SVG-Speicherformat zusammenführen. C++ Kombinieren Sie BILD mit dem Format SVG. BILD zu SVG in C++ zusammenführen. BILD zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to SVG in C++., C++ Merge IMAGE to svg., C++ Combine IMAGE to SVG., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="BILD über C++ mit SVG zusammenführen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von IMAGE mit SVG. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to SVG in C++., Free On
 
 {{% blocks/products/pf/agp/content h2="BILD mit SVG unter Verwendung von C++ zusammenführen" %}}
 
- Wie füge ich IMAGE mit SVG zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in SVG zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich IMAGE mit SVG zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in SVG zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="BILD mit SVG in C++ kostenlos online zusammenführen" %}}
+{{% blocks/products/pf/agp/content h2="BILD mit SVG in C++ zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie IMAGE mit SVG in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um IMAGE mit SVG zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um BILD mit SVG in C++ zusammenzuführen" InputFormat="png" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von IMAGE mit SVG in C++" InputFormat="png" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie IMAGE über C++ mit SVG zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie IMAGE programmgesteuert mit SVG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie IMAGE programmgesteuert mit SVG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-pdf/" name="BILD mit PDF zusammenführen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-png/" name="BILD mit PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-svg/" name="BILD mit SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tiff/" name="BILD mit TIFF zusammenführen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tsv/" name="BILD mit TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-txt/" name="BILD mit TXT zusammenführen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xls/" name="BILD mit XLS zusammenführen" description="Excel-Binärformat" >}}

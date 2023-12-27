@@ -2,6 +2,7 @@
 title:  Odemkněte XLSB dokument via Java
 weight: 5860
 description: Java ukázkový kód pro odemknutí heslem chráněného souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemknout XLSB Soubory via Java" h2="Odstraňte ochranu z tabulek aplikace Excel včetně souboru XLSB pomocí knihovny Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ description: Java ukázkový kód pro odemknutí heslem chráněného souboru XL
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Odemkněte soubory XLSB přes C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Odemknout XLSB Soubory via Java" offSpacer="" %}}
 
 ```cs
 

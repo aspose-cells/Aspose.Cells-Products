@@ -1,7 +1,7 @@
 ---
-title: C++ JPG zu OTS – Online JPG zu OTS Konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ Konvertieren Sie JPG in das OTS-Speicherformat. C++ JPG ins OTS-Format. Speichern Sie JPG unter OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to OTS saveformat., Free Online JPG to OTS C++., C++ Convert JPG to OTS]
+title: C++ JPG zu OTS - JPG zu OTS Konverter
+description: Aspose Excel. Konvertieren Sie JPG schnell und einfach in OTS mit Aspose.Cells. C++ JPG in OTS. C++ JPG in OTS speichern. Speichern Sie JPG als OTS mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to OTS in C++., Save JPG to OTS using C++., C++ JPG to OTS saveformat., JPG to OTS Converter., C++ Save JPG as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie JPG in OTS in C++" h2="Leistungsstarke JPG-zu-OTS-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to OTS s
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie JPG in OTS mit C++" %}}
 
- Wie konvertiere ich JPG in OTS? Mit der Bibliothek Aspose.Cells for C++ können Sie JPG problemlos programmgesteuert und mit wenigen Codezeilen in OTS konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich JPG in OTS? Mit der Bibliothek Aspose.Cells for C++ können Sie JPG problemlos programmgesteuert und mit wenigen Codezeilen in OTS konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie JPG kostenlos online in OTS unter C++" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie JPG in OTS unter C++" %}}
 
 Das folgende Beispiel zeigt, wie JPG in C++ in OTS konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um JPG in OTS zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von JPG in OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von JPG in OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie JPG über C++ in OTS" %}}
 
@@ -49,7 +49,7 @@ Müssen Sie JPG-Dateien programmgesteuert in OTS konvertieren? C++-Entwickler k�
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die JPG-Datei mit Factory::CreateIWorkbook.
+1.  Laden Sie die JPG-Datei mit Workbook.
 1.  Konvertieren Sie JPG in OTS, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von JPG in OTS.
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-pdf/" name="JPG AN PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-png/" name="JPG AN PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-svg/" name="JPG AN SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tiff/" name="JPG AN TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPG AN TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-txt/" name="JPG AN TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xls/" name="JPG AN XLS" description="Excel-Binärformat" >}}

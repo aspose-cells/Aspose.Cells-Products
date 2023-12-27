@@ -1,7 +1,7 @@
 ---
-title: Python XLT na HTM – Online Převodník XLT na HTM
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte XLT do formátu uložení HTM. Python XLT do formátu HTM. Uložit XLT do HTM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to HTM saveformat., Free Online XLT to HTM Python., Python Convert XLT to HTM]
+title: Python XLT na HTM - XLT na HTM Převodník
+description: Aspose Excel. Převeďte XLT na HTM rychle a snadno pomocí Aspose.Cells. Python XLT na HTM. Python Uložit XLT do HTM. Uložte XLT jako HTM pomocí Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to HTM in Python., Save XLT to HTM using Python., Python XLT to HTM saveformat., XLT to HTM Converter., Python Save XLT as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XLT na HTM v Python" h2="Vysokorychlostní knihovna Python pro převod XLT na HTM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLT na HTM v Python" %}}
 
- Jak převedu XLT na HTM? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLT na HTM programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu XLT na HTM? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLT na HTM programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLT na HTM v Python online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte XLT do HTM v Python" %}}
 
 Následující příklad ukazuje, jak převést XLT na HTM v Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod XLT na HTM. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLT na HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="htm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLT na HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="htm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLT na HTM" %}}
 
@@ -52,7 +52,7 @@ Potřebujete převést XLT soubory na HTM programově? Python vývojáři mohou 
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

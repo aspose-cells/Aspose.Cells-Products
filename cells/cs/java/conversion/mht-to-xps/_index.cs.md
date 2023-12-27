@@ -1,7 +1,7 @@
 ---
-title: Java MHT na XPS - Online převodník MHT na XPS
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte MHT na XPS saveformat. Java MHT do formátu XPS. Uložte MHT na XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XPS saveformat., Free Online MHT to XPS Java., Java Convert MHT to XPS]
+title: Java Převodník MHT na XPS - MHT na XPS
+description: Aspose Excel. Převeďte MHT na XPS rychle a snadno pomocí Aspose.Cells. Java MHT na XPS. Java Uložte MHT na XPS. Uložte MHT jako 0761734181 pomocí 0761734183
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XPS in Java., Save MHT to XPS using Java., Java MHT to XPS saveformat., MHT to XPS Converter., Java Save MHT as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte MHT na XPS v Java" h2="Vysokorychlostní knihovna Java pro převod MHT na XPS. Jedná se o profesionální softwarové řešení pro import a export MHT, XPS a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XP
 
 {{% blocks/products/pf/agp/content h2="Převeďte MHT na XPS pomocí Java" %}}
 
- Jak převedu MHT na XPS? S knihovnou Aspose.Cells for Java můžete snadno převést MHT na XPS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu MHT na XPS? S knihovnou Aspose.Cells for Java můžete snadno převést MHT na XPS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete MHT na XPS v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte MHT na XPS v Java" %}}
 
 Následující příklad ukazuje, jak převést MHT na XPS v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod MHT na XPS. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod MHT na XPS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod MHT na XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést MHT na XPS via Java" %}}
 
@@ -97,7 +97,7 @@ Potřebujete převést soubory MHT na XPS programově? Vývojáři Java mohou sn
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data jako text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožní převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data jako text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožní převést vaše dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Soubor XPS představuje soubory rozvržení stránky, které jsou založeny na specifikacích papíru XML vytvořených Microsoft. Byl vyvinut jako náhrada za formát souboru EMF a je podobný formátu souboru PDF, ale používá XML v rozvržení, vzhledu a informacích o tisku dokumentu. . Ve skutečnosti je oprávněnější říci, že XPS je pokus o PDF, ale z mnoha důvodů se mu nepodařilo získat dostatečnou popularitu, kterou vlastní PDF. Microsoft poskytuje ve výchozím nastavení XPS Document Writer od Windows 7 pro vytváření souborů XPS. Soubory XPS lze generovat výběrem „Microsoft XPS Document Writer“ jako tiskárny při tisku dokumentu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

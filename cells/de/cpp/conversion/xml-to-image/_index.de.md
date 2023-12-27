@@ -1,7 +1,7 @@
 ---
-title: C++ XML zu IMAGE – Online XML zu IMAGE Konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ Konvertieren Sie XML in das IMAGE-Speicherformat. C++ XML-zu-IMAGE-Format. Speichern Sie XML im BILD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to IMAGE saveformat., Free Online XML to IMAGE C++., C++ Convert XML to IMAGE]
+title: C++ XML zu IMAGE – XML zu IMAGE Konverter
+description: Aspose Excel. Konvertieren Sie XML schnell und einfach in IMAGE mit Aspose.Cells. C++ XML in IMAGE. C++ XML im BILD speichern. Speichern Sie XML als BILD mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to IMAGE in C++., Save XML to IMAGE using C++., C++ XML to IMAGE saveformat., XML to IMAGE Converter., C++ Save XML as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XML in IMAGE in C++" h2="Leistungsstarke XML-zu-BILD-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to IMAGE
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XML mit C++ in IMAGE" %}}
 
- Wie konvertiere ich XML in IMAGE? Mit der Bibliothek Aspose.Cells for C++ können Sie XML mit wenigen Codezeilen ganz einfach programmgesteuert in IMAGE konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich XML in IMAGE? Mit der Bibliothek Aspose.Cells for C++ können Sie XML mit wenigen Codezeilen ganz einfach programmgesteuert in IMAGE konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XML kostenlos online in C++ im BILD" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XML im BILD in C++" %}}
 
 Das folgende Beispiel zeigt, wie XML in C++ in IMAGE konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XML in IMAGE zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XML in IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XML in IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XML über C++ in IMAGE" %}}
 
@@ -49,9 +49,9 @@ Müssen Sie XML-Dateien programmgesteuert in IMAGE konvertieren? C++-Entwickler 
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die XML-Datei mit Factory::CreateIWorkbook.
+1. Laden Sie die XML-Datei mit Workbook.
 1.  Konvertieren Sie XML in IMAGE, indem Sie die Save()-Methode aufrufen.
-1.  Erhalten Sie das Konvertierungsergebnis von XML in IMAGE.
+1. Erhalten Sie das Konvertierungsergebnis von XML in IMAGE.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-pdf/" name="XML TO PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-png/" name="XML TO PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-svg/" name="XML TO SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tiff/" name="XML TO TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tsv/" name="XML TO TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-txt/" name="XML TO TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xls/" name="XML TO XLS" description="Excel-Binärformat" >}}

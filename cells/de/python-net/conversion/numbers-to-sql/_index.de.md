@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS zu SQL – Online NUMBERS zu SQL Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie NUMBERS in das SQL-Speicherformat. Python ZAHLEN im SQL-Format. Speichern Sie NUMBERS in SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SQL saveformat., Free Online NUMBERS to SQL Python., Python Convert NUMBERS to SQL]
+title: Python NUMBERS zu SQL – NUMBERS zu SQL Konverter
+description: Aspose Excel. Konvertieren Sie NUMBERS schnell und einfach in SQL mit Aspose.Cells. Python NUMBERS in SQL. Python Speichern Sie NUMBERS in SQL. Speichern Sie NUMBERS als SQL mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to SQL in Python., Save NUMBERS to SQL using Python., Python NUMBERS to SQL saveformat., NUMBERS to SQL Converter., Python Save NUMBERS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in Python in SQL" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von NUMBERS in SQL. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie NUMBERS in Python in SQL" %}}
 
- Wie konvertiere ich NUMBERS in SQL? Mit der Bibliothek Aspose.Cells for Python via NET können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in SQL konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich NUMBERS in SQL? Mit der Bibliothek Aspose.Cells for Python via NET können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in SQL konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie NUMBERS to SQL in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie NUMBERS in SQL in Python" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS in Python via NET in SQL konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in SQL zu konvertieren. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von NUMBERS in SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von NUMBERS in SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie NUMBERS in SQL" %}}
 
@@ -52,7 +52,7 @@ Müssen Sie NUMBERS-Dateien programmgesteuert in SQL konvertieren? Python-Entwic
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Eine Datei mit der Erweiterung .sql ist eine SQL-Datei (Structured Query Language), die Code für die Arbeit mit relationalen Datenbanken enthält. Es wird zum Schreiben von SQL-Anweisungen für CRUD-Vorgänge (Erstellen, Lesen, Aktualisieren und Löschen) in Datenbanken verwendet. SQL-Dateien werden häufig bei der Arbeit mit Desktop- und webbasierten Datenbanken verwendet. Es gibt mehrere Alternativen zu SQL, wie z. B. Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL und mehrere andere. SQL-Dateien können mit Abfrageeditoren von Microsoft SQL Server, MySQL und anderen Nur-Text-Editoren wie Notepad unter Windows OS geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

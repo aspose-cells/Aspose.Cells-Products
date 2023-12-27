@@ -1,8 +1,8 @@
 ---
 title: MHT mit PDF zusammenführen – MHT mit PDF in Python kombinieren
 url: /de/python-net/merger/merge-mht-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von MHT in das Speicherformat PDF. Python Kombinieren Sie MHT mit dem Format PDF. MHT zu PDF in Python zusammenführen. MHT zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PDF in Python., Free Online Python Merge MHT to pdf., Python Combine MHT to PDF Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. MHT mit dem Sicherungsformat PDF zusammenführen. Python Kombinieren Sie MHT mit dem Format PDF. MHT zu PDF in Python zusammenführen. MHT zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PDF in Python., Python Merge MHT to pdf., Python Combine MHT to PDF., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie MHT über Python mit PDF zusammen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von MHT mit PDF. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PDF in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Führen Sie MHT mit Python zu PDF zusammen" %}}
 
- Wie füge ich MHT mit PDF zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie MHT mit wenigen Codezeilen ganz einfach programmgesteuert mit PDF zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Wie füge ich MHT mit PDF zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie MHT mit wenigen Codezeilen ganz einfach programmgesteuert mit PDF zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie MHT kostenlos mit PDF in Python online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie MHT mit PDF in Python zusammen" %}}
 
 Das folgende Beispiel zeigt, wie MHT mit PDF in Aspose.Cells for Python via .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um MHT mit PDF zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um MHT mit PDF in Python zusammenzuführen" InputFormat="mht" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von MHT mit PDF in Python" InputFormat="mht" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie MHT über Python mit PDF zusammen" %}}
 
@@ -52,7 +52,7 @@ Müssen Sie MHT programmgesteuert mit PDF zusammenführen? Ein einfaches Dokumen
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,14 +72,14 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente durch den Export als MHT-Datei in MHT konvertieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente in MHT konvertieren, indem Sie sie als MHT-Datei exportieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) ist ein Dokumenttyp, der in den 1990er Jahren von Adobe entwickelt wurde. Der Zweck dieses Dateiformats bestand darin, einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einem Format einzuführen, das unabhängig von Anwendungssoftware, Hardware und Betriebssystem ist. Das Dateiformat PDF kann Informationen wie Text, Bilder, Hyperlinks, Formularfelder, Rich Media, digitale Signaturen, Anhänge, Metadaten, Geodaten und 3D-Objekte enthalten, die Teil des Quelldokuments werden können.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

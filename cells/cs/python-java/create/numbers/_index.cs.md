@@ -1,7 +1,7 @@
 ---
 title: Create NUMBERS – Vytvořte soubor NUMBERS v Python
-description: Aspose Excel. Python Vytvořte soubor NUMBERS. Vytvořte ČÍSLA Python. Python Vytvořte ČÍSLA. Vytvořte ČÍSLA v Python. Vygenerujte soubor ČÍSLA pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python NUMBERS Creater., Create NUMBERS file in Python., Generate NUMBERS file in Python]
+description:  Aspose Excel. Python Vytvořte soubor ČÍSEL rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor ČÍSEL pomocí Python. Vytvořte ČÍSLA v Python. Python ČÍSLA Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create NUMBERS file., Generate NUMBERS file in Python., Create NUMBERS file using Python., Write data to NUMBERS file via Python., Create a NUMBERS file in Python., Python Generate a NUMBERS file., Python NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor NUMBERS v Python" h2="Vysokorychlostní knihovna Python pro vytváření souborů NUMBERS. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python N
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor NUMBERS pomocí Python" %}}
 
-Jak vytvořit soubor NUMBERS? S knihovnou Aspose.Cells for Python via Java můžete snadno vytvořit soubor NUMBERS programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit soubor NUMBERS? S knihovnou Aspose.Cells for Python via Java můžete snadno vytvořit soubor NUMBERS programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +80,7 @@ Existují tři možnosti instalace „Aspose.Cells for Python via Java“ do va�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,7 +91,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

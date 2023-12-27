@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE zu MHT – Online-IMAGE zu MHT-Konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ BILD in MHT-Speicherformat konvertieren. C++ BILD in MHT-Format. Speichern Sie das BILD unter MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to MHT saveformat., Free Online IMAGE to MHT C++., C++ Convert IMAGE to MHT]
+title: C++ IMAGE zu MHT – IMAGE zu MHT Konverter
+description: Aspose Excel. Konvertieren Sie IMAGE schnell und einfach in MHT mit Aspose.Cells. C++ IMAGE in MHT. C++ BILD in MHT speichern. Speichern Sie das BILD als MHT mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to MHT in C++., Save IMAGE to MHT using C++., C++ IMAGE to MHT saveformat., IMAGE to MHT Converter., C++ Save IMAGE as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie IMAGE in MHT in C++" h2="Leistungsstarke IMAGE-zu-MHT-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to MHT
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie IMAGE mit C++ in MHT" %}}
 
- Wie konvertiere ich IMAGE in MHT? Mit der Bibliothek Aspose.Cells for C++ können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in MHT konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich IMAGE in MHT? Mit der Bibliothek Aspose.Cells for C++ können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in MHT konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie BILD kostenlos online in MHT unter C++" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie das BILD in MHT unter C++" %}}
 
 Das folgende Beispiel zeigt, wie IMAGE in C++ in MHT konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
 
-Befolgen Sie die einfachen Schritte, um IMAGE in MHT zu konvertieren. Laden Sie Ihre IMAGE-Datei hoch und speichern Sie sie dann einfach als MHT-Datei. Sowohl zum Lesen von IMAGEs als auch zum Schreiben von MHT können Sie vollständig qualifizierte Dateinamen verwenden. Der ausgegebene MHT-Inhalt und die Formatierung sind identisch mit dem ursprünglichen IMAGE-Dokument.
+Befolgen Sie die einfachen Schritte, um IMAGE in MHT zu konvertieren. Laden Sie Ihre IMAGE-Datei hoch und speichern Sie sie dann einfach als MHT-Datei. Sowohl für das Lesen von IMAGE-Dateien als auch für das MHT-Schreiben können Sie vollständig qualifizierte Dateinamen verwenden. Der ausgegebene MHT-Inhalt und die Formatierung sind identisch mit dem ursprünglichen IMAGE-Dokument.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von IMAGE in MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie IMAGE über C++ in MHT" %}}
 
@@ -49,8 +49,8 @@ Müssen Sie IMAGE-Dateien programmgesteuert in MHT konvertieren? C++-Entwickler 
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die IMAGE-Datei mit Factory::CreateIWorkbook.
-1. Konvertieren Sie IMAGE in MHT, indem Sie die Save()-Methode aufrufen.
+1.  Laden Sie die IMAGE-Datei mit Workbook.
+1.  Konvertieren Sie IMAGE in MHT, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von IMAGE in MHT.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -85,7 +85,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Eine PNG-Datei (Portable Network Graphics) ist ein Rasterbilddateiformat, das verlustfreie Komprimierung verwendet. Dieses Dateiformat wurde als Ersatz für das Graphics Interchange Format (GIF) erstellt und unterliegt keinen Urheberrechtsbeschränkungen. Das Dateiformat PNG unterstützt jedoch keine Animationen. Das Dateiformat PNG unterstützt verlustfreie Bildkomprimierung, was es bei seinen Benutzern beliebt macht. Im Laufe der Zeit hat sich PNG zu einem der am weitesten verbreiteten Bilddateiformate entwickelt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente durch den Export als MHT-Datei in MHT konvertieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente in MHT konvertieren, indem Sie sie als MHT-Datei exportieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="BILD AN PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="BILD AN PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="BILD AN SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tiff/" name="BILD AN TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="BILD AN TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="BILD AN TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="BILD AN XLS" description="Excel-Binärformat" >}}

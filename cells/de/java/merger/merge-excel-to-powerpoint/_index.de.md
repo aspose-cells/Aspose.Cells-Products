@@ -1,8 +1,8 @@
 ---
 title: Excel mit POWERPOINT zusammenführen - Kombinieren Sie EXCEL mit POWERPOINT in Java
 url: /de/java/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von Excel in das PowerPoint-Speicherformat. Java Kombinieren Sie das Excel- und das POWERPOINT-Format. Excel mit PowerPoint in Java zusammenführen. Excel zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to POWERPOINT in Java., Free Online Java Merge EXCEL to powerpoint., Java Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Excel- und POWERPOINT-Speicherformat zusammenführen. Java Kombinieren Sie das Excel- und das POWERPOINT-Format. Excel mit PowerPoint in Java zusammenführen. Excel zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to POWERPOINT in Java., Java Merge EXCEL to powerpoint., Java Combine EXCEL to POWERPOINT., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel mit POWERPOINT via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von EXCEL mit POWERPOINT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to POWERPOINT in Java.
 
 {{% blocks/products/pf/agp/content h2="Führen Sie Excel mit PowerPoint mit Java zusammen" %}}
 
- Wie füge ich EXCEL mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach Excel und POWERPOINT programmgesteuert zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich EXCEL mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach Excel und POWERPOINT programmgesteuert zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to POWERPOINT in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie Excel und PowerPoint in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Excel mit PowerPoint in Java zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie man EXCEL mit POWERPOINT in Aspose.Cells for Java zusammenführt.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Befolgen Sie die einfachen Schritte, um EXCEL mit POWERPOINT zusammenzuführen. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um EXCEL mit POWERPOINT unter Java zusammenzuführen" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von EXCEL mit POWERPOINT in Java" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie Excel mit PowerPoint via Java zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie EXCEL programmgesteuert mit POWERPOINT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie EXCEL programmgesteuert mit POWERPOINT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +103,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX ist ein bekanntes Format für Microsoft Excel-Dokumente, das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Das neue Format basiert auf einer Struktur, die gemäß den Open Packaging Conventions organisiert ist, wie in Teil 2 des OOXML-Standards ECMA-376 beschrieben ein Zip-Paket, das eine Reihe von XML-Dateien enthält. Die zugrunde liegende Struktur und die Dateien können durch einfaches Entpacken der .xlsx-Datei untersucht werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
-title: C++ TSV na SQL - Online TSV na SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést TSV do formátu SQL save. C++ TSV do formátu SQL. Uložit TSV do SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TSV to SQL saveformat., Free Online TSV to SQL C++., C++ Convert TSV to SQL]
+title: C++ TSV na SQL - TSV na SQL Converter
+description: Aspose Excel. Převeďte TSV na SQL rychle a snadno pomocí Aspose.Cells. C++ TSV na SQL. C++ Uložte TSV do SQL. Uložte TSV jako SQL pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TSV to SQL in C++., Save TSV to SQL using C++., C++ TSV to SQL saveformat., TSV to SQL Converter., C++ Save TSV as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte TSV na SQL v C++" h2="Vysoce výkonný převod TSV na SQL pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TSV to SQL s
 
 {{% blocks/products/pf/agp/content h2="Převeďte TSV na SQL pomocí C++" %}}
 
- Jak převedu TSV na SQL? S knihovnou Aspose.Cells for C++ můžete snadno převést TSV na SQL programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu TSV na SQL? S knihovnou Aspose.Cells for C++ můžete snadno převést TSV na SQL programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložte TSV do SQL v C++ Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte TSV do SQL v C++" %}}
 
 Následující příklad ukazuje, jak převést TSV na SQL v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod TSV na SQL. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod TSV na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod TSV na SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TSV na SQL přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést TSV soubory na SQL programově? C++ vývojáři mohou sna
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor TSV pomocí Factory::CreateIWorkbook.
+1.  Načtěte soubor TSV pomocí sešitu.
 1.  Převeďte TSV na SQL voláním metody Save().
 1.  Získejte výsledek převodu TSV na SQL.
 
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-pdf/" name="TSV DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-png/" name="TSV DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-svg/" name="TSV DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-tiff/" name="TSV DO TIFF" description="Formát tagovaného obrázku" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-txt/" name="TSV DO TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xls/" name="TSV DO XLS" description="Binární formát Excel" >}}

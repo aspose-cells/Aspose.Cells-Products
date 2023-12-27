@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument TSV bez otevření přes C++
 weight: 930
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru TSV na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in tsv file., C++ find words with pattern in tsv file., C++ search string with pattern in tsv file., C++ find words with pattern in tsv file., C++ search words in tsv file., C++ find words in tsv file., C++ search string in tsv file., C++ find string in tsv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte TSV Formáty v C++" h2="Nativní a vysoce výkonné TSV prohledávání dokumentů pomocí serverových Aspose.Cells for C++ API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TSV" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Načtěte soubor TSV vytvořením instance třídy IWorkbook.
-+ Instantovat třídu IReplaceOptions.
++ Načtěte soubor TSV vytvořením instance třídy Workbook.
++ Instantiate třídy ReplaceOptions.
 + Nastavte požadovaný vzor jako SetCaseSensitive (hodnota bool), SetMatchEntireCellContents (hodnota bool) .
-+ Použijte metodu IWorkbook->Replace(..) s příslušnými možnostmi.
-+ Uložte soubor TSV pomocí metody IWorkbook->Save(.).
+Použijte metodu Workbook::Replace(...) s příslušnými možnostmi.
++ Uložte soubor TSV pomocí metody Workbook::Save(...).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Načtěte soubor TSV vytvořením instance třídy IWorkbook.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load TSV file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.tsv")));
+Workbook  wkb(srcDir + u"sourceFile.tsv");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as TSV file
-wkb->Save(outDir->StringAppend(new String("outputFile.tsv")));  
+wkb.Save(outDir + u"outputFile.tsv");
+
+Aspose::Cells::Cleanup();
 
 ```
 

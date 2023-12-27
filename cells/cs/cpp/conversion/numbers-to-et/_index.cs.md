@@ -1,7 +1,7 @@
 ---
-title: C++ ČÍSLA do ET - Online převodník ČÍSEL na ET
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převeďte ČÍSLA do formátu uložení ET. C++ ČÍSLA do formátu ET. Ušetřete NUMBERS na ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to ET saveformat., Free Online NUMBERS to ET C++., C++ Convert NUMBERS to ET]
+title: C++ ČÍSLA na ET - Převodník ČÍSEL na ET
+description: Aspose Excel. Převeďte ČÍSLA na ET rychle a snadno pomocí Aspose.Cells. C++ ČÍSLA na ET. C++ Uložte ČÍSLA do ET. Uložte NUMBERS jako ET pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to ET in C++., Save NUMBERS to ET using C++., C++ NUMBERS to ET saveformat., NUMBERS to ET Converter., C++ Save NUMBERS as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte ČÍSLA na ET v C++" h2="Vysoce výkonný převod ČÍSEL na ET pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to E
 
 {{% blocks/products/pf/agp/content h2="Převeďte ČÍSLA na ET pomocí C++" %}}
 
- Jak převedu NUMBERS na ET? S knihovnou Aspose.Cells for C++ můžete snadno převést ČÍSLA na ET programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu NUMBERS na ET? S knihovnou Aspose.Cells for C++ můžete snadno převést ČÍSLA na ET programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete ČÍSLA do ET na čísle C++ online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Ušetřete NUMBERS do ET na čísle C++" %}}
 
-Následující příklad ukazuje, jak převést NUMBERS na ET v C++.
+Následující příklad ukazuje, jak převést ČÍSLA na ET v C++.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro převod ČÍSEL na ET. Nahrajte svůj soubor NUMBERS a poté jej jednoduše uložte jako soubor ET. Pro čtení NUMBERS i zápis ET můžete použít plně kvalifikované názvy souborů. Výstupní ET obsah a formátování bude shodné s původním dokumentem NUMBERS.
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod ČÍSEL na ET. Nahrajte svůj 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ČÍSEL na ET online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod ČÍSEL na ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést ČÍSLA na ET přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést NUMBERS soubory na ET programově? C++ vývojáři mohou 
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor NUMBERS pomocí Factory::CreateIWorkbook.
+1.  Načíst NUMBERS soubor pomocí sešitu.
 1.  Převeďte ČÍSLA na ET voláním metody Save().
 1.  Získejte výsledek převodu NUMBERS na ET.
 
@@ -84,7 +84,7 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Soubor ET je výuková lekce vytvořená programem Easiteach, který umožňuje učitelům vytvářet hodiny ve třídě a poskytovat je prostřednictvím interaktivního rozhraní. Obsahuje data lekcí, jako jsou rozložení, navigace, obrázky, text, motivy a animace.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="ČÍSLA NA PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="ČÍSLA NA PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="ČÍSLA NA SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="ČÍSLA NA TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="ČÍSLA NA TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="ČÍSLA NA TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="ČÍSLA NA XLS" description="Binární formát Excel" >}}

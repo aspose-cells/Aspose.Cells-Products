@@ -1,6 +1,7 @@
 ---
 title: Generieren Sie Excel-Dateien über C#
 description: Generieren Sie Microsoft Excel-Tabellen aus einem Vorlagenblatt mit dem Code C#
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Vorlagenbasierte Dateierstellung via .NET" h2="Generieren Sie Excel-Dateiberichte auf Basis einer vordefinierten Vorlage in .NET-basierten Anwendungen" >}}

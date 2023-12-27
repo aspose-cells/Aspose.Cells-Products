@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL na XLS - Online převodník EXCEL na XLS
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převeďte EXCEL do formátu uložení XLS. C++ EXCEL do formátu XLS. Uložte EXCEL na XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XLS saveformat., Free Online EXCEL to XLS C++., C++ Convert EXCEL to XLS]
+title: Převodník C++ EXCEL na XLS - EXCEL na XLS
+description: Aspose Excel. Převeďte EXCEL na XLS rychle a snadno pomocí Aspose.Cells. C++ EXCEL na XLS. C++ Uložte EXCEL na XLS. Uložte EXCEL jako 0761736481 pomocí 381.481
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XLS in C++., Save EXCEL to XLS using C++., C++ EXCEL to XLS saveformat., EXCEL to XLS Converter., C++ Save EXCEL as XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na XLS v C++" h2="Vysoce výkonný převod EXCEL na XLS pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XLS
 
 {{% blocks/products/pf/agp/content h2="Převeďte EXCEL na XLS pomocí C++" %}}
 
- Jak převedu EXCEL na XLS? S knihovnou Aspose.Cells for C++ můžete snadno převést EXCEL na XLS programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu EXCEL na XLS? S knihovnou Aspose.Cells for C++ můžete snadno převést EXCEL na XLS programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit EXCEL na XLS v C++ Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte EXCEL na XLS v C++" %}}
 
 Následující příklad ukazuje, jak převést EXCEL na XLS v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Podle jednoduchých kroků převeďte EXCEL na XLS. Nahrajte svůj soubor EXCEL 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL na XLS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xls" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod EXCELu na XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xls" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL na XLS přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést soubory EXCEL na XLS programově? C++ vývojáři mohou s
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor EXCEL pomocí Factory::CreateIWorkbook.
+1.  Načtěte soubor EXCEL pomocí sešitu.
 1.  Převeďte EXCEL na XLS voláním metody Save().
 1.  Získejte výsledek převodu EXCELu na XLS.
 
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL NA PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL NA PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL NA SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL NA TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL NA TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL NA TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL NA XLS" description="Binární formát Excel" >}}

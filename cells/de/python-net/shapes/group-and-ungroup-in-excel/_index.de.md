@@ -2,6 +2,7 @@
 title: Formen in Excel mit Python via .Net gruppieren und gruppieren
 weight: 360
 description: Gruppieren und Gruppieren Sie Objekte mit Aspose.Cells' Python via .Net API ohne Software wie Microsoft oder Open Office, Adobe PDF usw.
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Formen in Excel mit Python via .Net gruppieren und gruppieren" h2="Verwenden von Aspose.Cells\' API zum Arbeiten mit verschiedenen Objekten ohne Software wie Microsoft oder Open Office, Adobe PDF usw." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Gruppieren und Gruppieren Sie Objekte mit Aspose.Cells' Python via 
 
  Um Formen in einer Excel-Datei zu gruppieren und die Gruppierung aufzuheben, verwenden wir
  [Aspose.Cells for Python über .Net](https://pypi.org/project/aspose-cells-python/) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Sie benötigen die Aspose.Cells, um den folgenden Workflow in Ihrer eigenen Umge
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Gruppenmethode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/group/) um Formen im ausgewählten Arbeitsblatt zu gruppieren
  + Benutzen Sie die[Gruppierungsmethode aufheben](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/ungroup/) um die Gruppierung von Formen im ausgewählten Arbeitsblatt aufzuheben
@@ -73,7 +74,7 @@ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vo
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

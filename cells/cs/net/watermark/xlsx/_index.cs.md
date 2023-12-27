@@ -1,7 +1,8 @@
 ---
-title:  Vodoznak XLSX dokument via .NET
+title: Vodoznak XLSX dokument via .NET
 weight: 8270
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru XLSX na platformách .NET, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte textový vodoznak na XLSX přes C#" h2="Sestavte si své vlastní aplikace .NET pro soubory vodoznaku XLSX pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,12 +1,13 @@
 ---
 title:  Microsoft Excel-Dateikonvertierung über C#
-description: Konvertieren Sie Excel XLS, XLSX, ODS, CSV in PDF, XPS, HTML, JPEG, HTML und viele andere beliebte Formate mit nur wenigen Zeilen C#-Code .
+description: Aspose.Cells for .NET Bibliothek. Konvertieren Sie Excel, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG und weitere Formate mit nur wenigen Zeilen C#-Code.
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Formatkonvertierung via .NET" h2="Importieren und exportieren Sie Excel-Dateien als Tabellenkalkulations-, Web-, Bild- und feste Layoutformate" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Formatkonvertierung via .NET" h2="Importieren und exportieren Sie Excel-Dateien als Tabellenkalkulation, Web, Bild und Format mit festem Layout" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Die Excel-Bibliothek beschleunigt die Programmierung und Konvertierung von Tabellenkalkulationen und unterstützt gleichzeitig gängige Formate wie XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 481. Es ermöglicht auch den Export von Excel-Dateien nach PDF, XPS, HTML, MHTML, Plain Text- und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
+.NET Die Excel-Bibliothek beschleunigt die Programmierung und Konvertierung von Tabellenkalkulationen und unterstützt gleichzeitig gängige Formate wie XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619348 1. Es ermöglicht auch den Export von Excel-Dateien nach PDF, XPS, HTML, MHTML, Plain Text- und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Excel in XLSX, ODS, SXC und FODS" %}}
@@ -49,7 +50,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie JSON in Excel und Excel in JSON" %}}
- JSON Daten können in eine Instanz von importiert werden[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) Klasse mit Hilfe von[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)zur weiteren Verarbeitung oder einfachen Konvertierung in eines der unterstützten Formate. Ähnlich,[Arbeitsblatt](https://reference.aspose.com/cells/net/aspose.cells/worksheet) Daten können als JSON exportiert werden, indem eine erstellt wird[Reichweite](https://reference.aspose.com/cells/net/aspose.cells/range) oder Zellen und das Aufrufen der[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) Methode.
+ JSON Daten können in eine Instanz von importiert werden[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) Klasse mit Hilfe von[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) zur weiteren Verarbeitung oder einfachen Konvertierung in eines der unterstützten Formate. Ähnlich,[Arbeitsblatt](https://reference.aspose.com/cells/net/aspose.cells/worksheet) Daten können als JSON exportiert werden, indem eine erstellt wird[Reichweite](https://reference.aspose.com/cells/net/aspose.cells/range) oder Zellen und das Aufrufen der[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) Methode.
 {{% blocks/products/pf/feature-page-code h3="C# Code für die Konvertierung von JSON in Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +110,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Excel in Word & PowerPoint" %}}
- Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)Klassen wie unten gezeigt.
+Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) Klassen wie unten gezeigt.
 {{% blocks/products/pf/feature-page-code h3="C#-Code für Excel in Word und PowerPoint-Konvertierung" %}}
 ```cs
 // load the template file

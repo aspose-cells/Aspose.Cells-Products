@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to SPREADSHEETML – online převaděč IMAGE to SPREADSHEETML
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést IMAGE do formátu SPREADSHEETML uložit. Java IMAGE do formátu SPREADSHEETML. Uložit IMAGE do SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to SPREADSHEETML saveformat., Free Online IMAGE to SPREADSHEETML Java., Java Convert IMAGE to SPREADSHEETML]
+title: Java IMAGE to SPREADSHEETML – převodník IMAGE do SPREADSHEETML
+description: Aspose Excel. Java Aspose.Cells. IMAGE do SPREADSHEETML v Java. Java Převést IMAGE do formátu SPREADSHEETML pro uložení. Java IMAGE do formátu SPREADSHEETML. Uložit IMAGE do SPREADSHEETML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to SPREADSHEETML in Java., Java IMAGE to SPREADSHEETML saveformat., IMAGE to SPREADSHEETML Java., Java Convert IMAGE to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte IMAGE na SPREADSHEETML v Java" h2="Vysokorychlostní knihovna Java pro převod IMAGE do SPREADSHEETML. Toto je profesionální softwarové řešení pro import a export IMAGE, SPREADSHEETML a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte IMAGE na SPREADSHEETML pomocí Java" %}}
 
- Jak převedu IMAGE na SPREADSHEETML? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu IMAGE na SPREADSHEETML? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložte IMAGE do SPREADSHEETML na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte IMAGE do SPREADSHEETML na Java" %}}
 
 Následující příklad ukazuje, jak převést IMAGE na SPREADSHEETML v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod IMAGE na SPREADSHEETML. Nahraj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod IMAGE do SPREADSHEETML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod IMAGE na SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést IMAGE na SPREADSHEETML via Java" %}}
 

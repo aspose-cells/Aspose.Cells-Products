@@ -1,8 +1,8 @@
 ---
 title: Sloučit FODS na PRN – Sloučit FODS na PRN v Python
 url: /cs/python-java/merger/merge-fods-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Zdarma online sloučení FODS do formátu uložení PRN. Python Spojte FODS do formátu PRN. Sloučit FODS na PRN v Python. FODS Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PRN in Python., Free Online Python Merge FODS to prn., Python Combine FODS to PRN Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit FODS do formátu uložení PRN. Python Spojte FODS do formátu PRN. Sloučit FODS na PRN v Python. FODS Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PRN in Python., Python Merge FODS to prn., Python Combine FODS to PRN., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit FODS na PRN přes Python" h2="Vysokorychlostní knihovna Python pro sloučení FODS do PRN. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PRN in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Sloučit FODS do PRN pomocí Python" %}}
 
- Jak sloučím FODS do PRN? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit FODS do PRN programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+ Jak sloučím FODS do PRN? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit FODS do PRN programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit FODS do PRN v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit FODS s PRN v Python" %}}
 
 Následující příklad ukazuje, jak sloučit FODS do PRN v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro sloučení FODS s PRN. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení FODS do PRN v Python" InputFormat="fods" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení FODS do PRN v Python" InputFormat="fods" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit FODS do PRN přes Python" %}}
 
@@ -73,7 +73,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 -  Nainstalujte Java 1.8 nebo vyšší a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

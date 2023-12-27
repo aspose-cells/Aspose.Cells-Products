@@ -2,6 +2,7 @@
 title:  XLSM Dokumentendiagramm zu Bildern via .NET
 weight: 5100
 description: C#-Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in eine .NET-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Convert chart to image in xlsm., c# Save chart to image in xlsm., c# chart to image in xlsm., xlsm convert chart to image in c#., xlsm save chart to imagein c#., xlsm chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM Dateidiagramme zu Bildern in C#" h2="Native und leistungsstarke Konvertierung von XLSM-Dokumentdiagrammen in Bilder mithilfe serverseitiger APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -44,7 +45,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Datei XLSM laden.
-+ Holen Sie sich das Diagramm.
+Holen Sie sich das Diagramm.
 + Diagramm in Bild konvertieren.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice. Konvertieren Sie das Excel-Diagramm in PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+ Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice. Konvertieren Sie das Excel-Diagramm in PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
  
 
 

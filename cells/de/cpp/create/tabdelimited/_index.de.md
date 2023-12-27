@@ -1,7 +1,7 @@
 ---
 title: TABDELIMITED erstellen – TABDELIMITED-Datei in C++ erstellen
-description: Aspose Excel. C++ TABDELIMITED-Datei erstellen. Erstellen Sie TABDELIMITED C++. C++ TABDELIMITED Ersteller. Erstellen Sie TABDELIMITED in C++. Generieren Sie eine TABDELIMITED-Datei mit C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create TABDELIMITED C++., C++ TABDELIMITED Creater., Create TABDELIMITED file in C++., Generate TABDELIMITED file in C++]
+description: Aspose Excel. C++ Erstellen Sie schnell und einfach eine TABDELIMITED-Datei mit Aspose.Cells. Erstellen Sie eine TABDELIMITED-Datei mit C++. Erstellen Sie TABDELIMITED in C++. C++ TABDELIMITED Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TABDELIMITED file., Generate TABDELIMITED file in C++., Create TABDELIMITED file using C++., Write data to TABDELIMITED file via C++., Create a TABDELIMITED file in C++., C++ Generate a TABDELIMITED file., C++ TABDELIMITED Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine TABDELIMITED-Datei in C++" h2="Native und leistungsstarke TABDELIMITED-Dateierstellung programmgesteuert ohne Microsoft Office unter Verwendung der Bibliothek C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create TABDELIMITED C++., C++ TABDE
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie eine TABDELIMITED-Datei mit C++" %}}
 
- Wie erstelle ich eine TABDELIMITED-Datei? Mit der Bibliothek Aspose.Cells for C++ können Sie mit wenigen Codezeilen ganz einfach eine TABDELIMITED-Datei programmgesteuert erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie erstelle ich eine TABDELIMITED-Datei? Mit der Bibliothek Aspose.Cells for C++ können Sie mit wenigen Codezeilen ganz einfach eine TABDELIMITED-Datei programmgesteuert erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -30,45 +30,51 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Für die Entwickler ist es einfach, TABDELIMITED-Dateien in laufenden Berichtsanwendungen zur Datenverarbeitung in nur wenigen Codezeilen zu erstellen, zu laden, zu ändern und zu konvertieren.
+ Für die Entwickler ist es einfach, TABDELIMITED-Dateien in laufenden Berichtsanwendungen für die Datenverarbeitung in nur wenigen Codezeilen zu erstellen, zu laden, zu ändern und zu konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Erstellen Sie ein Objekt der IWorkbook-Klasse.
-1.  Holen Sie sich das erste Blatt in ein IWorksheet-Objekt.
-1.  Verwenden Sie die Methode IWorksheet->GetICells(), um die Zellen des Arbeitsblatts in ein ICells-Objekt abzurufen.
-1. Verwenden Sie die Methode ICells->GetObjectByIndex(), um auf die gewünschte Zelle des Arbeitsblatts in einem ICell-Objekt zuzugreifen.
-1.  Verwenden Sie die Methode ICell->PutValue(), um einen Wert in die Zelle einzugeben.
+1.  Erstellen Sie ein Objekt der Workbook-Klasse.
+1.  Holen Sie sich das erste Blatt in ein Worksheet-Objekt.
+1.  Verwenden Sie die Methode Worksheet.GetCells(), um die Zellen des Arbeitsblatts in ein Cells-Objekt abzurufen.
+1. Verwenden Sie die Methode Cells.Get(), um auf die gewünschte Zelle des Arbeitsblatts in einem Cell-Objekt zuzugreifen.
+1.  Verwenden Sie die Methode Cell.PutValue(), um einen Wert in die Zelle einzugeben.
 1.  Speichern Sie die Arbeitsmappe als .tsv-Datei mit der Save()-Methode.
 
 {{% blocks/products/pf/agp/code-block title="Beispielcode zeigt, wie eine TABDELIMITED-Datei in C++ erstellt wird." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.tsv"));
+wkb.Save(u"created_one.tsv");
+
+Aspose::Cells::Cleanup();
 
 ```
 

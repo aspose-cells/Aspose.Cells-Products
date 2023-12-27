@@ -2,6 +2,7 @@
 title:  Dateiformate XLTM anzeigen via .NET
 weight: 430
 description: C# Quellcode zum Laden, Rendern und Anzeigen von XLTM Dokumenten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# view XLTM files., c# how to render XLTM document., c# load and display XLTM files., XLTM File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM Dateibetrachter for .NET" h2="Zeigen Sie Excel- und OpenOffice-Tabellen wie XLTM an, ohne Microsoft Excel oder Office Automation zu benötigen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLTM" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Laden Sie die Datei XLTM in eine Instanz von Workbook
 1.  Erstellen Sie eine Instanz von HtmlSaveOptions und setzen Sie die ExportHeadings-Eigenschaft auf true
-1.  Speichern Sie die Datei XLTM im Format HTML mit der Methode Workbook.Save
+1. Speichern Sie die Datei XLTM im Format HTML mit der Methode Workbook.Save
 1.  Laden Sie das Ergebnis HTML im Standardbrowser mit Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

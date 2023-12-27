@@ -1,7 +1,8 @@
 ---
-title:  Odebrat XLSM Anotace via Java
+title:  Přidat nebo odebrat XLSM Anotace via Java
 weight: 2860
 description: Java ukázkový kód pro odstranění XLSM anotací formátu na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidat nebo smazat anotaci z XLSM via Java" h2="Sestavte si své vlastní aplikace Java pro manipulaci s komentáři a autory v souborech dokumentů pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

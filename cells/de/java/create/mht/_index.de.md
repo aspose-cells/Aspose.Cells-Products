@@ -1,7 +1,7 @@
 ---
 title: MHT erstellen – MHT-Datei in Java erstellen
-description: Aspose Excel. Java MHT-Datei erstellen. Erstellen Sie MHT Java. Java MHT-Ersteller. Erstellen Sie MHT in Java. Generieren Sie eine MHT-Datei mit Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater., Create MHT file in Java., Generate MHT file in Java]
+description:  Aspose Excel. Java Erstellen Sie schnell und einfach eine MHT-Datei mit Aspose.Cells. Erstellen Sie eine MHT-Datei mit Java. Erstellen Sie MHT in Java. Java MHT Creator.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MHT file., Generate MHT file in Java., Create MHT file using Java., Write data to MHT file via Java., Create a MHT file in Java., Java Generate a MHT file., Java MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine MHT-Datei in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Erstellen einer MHT-Datei. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSX, PDF und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie eine MHT-Datei mit Java" %}}
 
- Wie erstelle ich eine MHT-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach eine MHT-Datei programmgesteuert erstellen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie erstelle ich eine MHT-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach eine MHT-Datei programmgesteuert erstellen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/text %}}
 
-Für die Entwickler ist es einfach, MHT-Dateien in verschiedenen Berichtsanwendungen zur Datenverarbeitung in nur wenigen Codezeilen zu erstellen, zu laden, zu ändern und zu konvertieren.
+ Für die Entwickler ist es einfach, MHT-Dateien in verschiedenen Berichtsanwendungen zur Datenverarbeitung in nur wenigen Codezeilen zu erstellen, zu laden, zu ändern und zu konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.mht");
 
 {{% blocks/products/pf/agp/text %}}
 
-Stellen Sie vor dem Ausführen des Beispielquellcodes für die Konvertierung Java sicher, dass die folgenden Voraussetzungen erfüllt sind.
+ Stellen Sie vor dem Ausführen des Beispielquellcodes für die Konvertierung Java sicher, dass die folgenden Voraussetzungen erfüllt sind.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,7 +113,7 @@ Stellen Sie vor dem Ausführen des Beispielquellcodes für die Konvertierung Jav
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente durch den Export als MHT-Datei in MHT konvertieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Eine Datei mit der Erweiterung .mht ist ein MIME-fähiges Archivierungsdateiformat, das verschiedene Datentypen in einer einzigen Datei enthält. Es kann Daten wie Text, Bilder, Seitenstil in Form von CSS-Dateien, JavaScript und andere Ressourcen als darin eingebettete Ressourcen speichern. MHT-Dateien mit dem MIME-Typ message/rfc822 kapseln den gesamten Inhalt einer HTML-Datei als eine einzige Archivdatei zur Speicherung bei der Archivierung auf Speichergeräten. Mit Softwareanwendungen wie Microsoft Word können Sie Ihre WORD-Dokumente in MHT konvertieren, indem Sie sie als MHT-Datei exportieren. MHT-Dateien können mit gängigen Browsern wie Microsoft Internet Explorer und Google Chrome geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

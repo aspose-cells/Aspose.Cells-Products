@@ -1,7 +1,7 @@
 ---
-title: Python XLSB zu ETT - Online XLSB zu ETT Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie XLSB in das ETT-Speicherformat. Python XLSB in das ETT-Format. Speichern Sie XLSB in ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to ETT saveformat., Free Online XLSB to ETT Python., Python Convert XLSB to ETT]
+title: Python XLSB zu ETT - XLSB zu ETT Konverter
+description: Aspose Excel. Konvertieren Sie XLSB schnell und einfach in ETT mit Aspose.Cells. Python XLSB in ETT. Python Speichern Sie XLSB in ETT. Speichern Sie XLSB als ETT unter Verwendung von Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to ETT in Python., Save XLSB to ETT using Python., Python XLSB to ETT saveformat., XLSB to ETT Converter., Python Save XLSB as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSB in ETT in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von XLSB in ETT. Nutzen Sie unsere Excel-Konvertierung API, um in Python hochwertige, plattformunabhängige Software zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLSB in ETT in Python" %}}
 
- Wie konvertiere ich XLSB in ETT? Mit der Bibliothek Aspose.Cells for Python über die NET-Bibliothek können Sie XLSB mit wenigen Codezeilen problemlos programmgesteuert in ETT konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich XLSB in ETT? Mit der Bibliothek Aspose.Cells for Python über die NET-Bibliothek können Sie XLSB mit wenigen Codezeilen problemlos programmgesteuert in ETT konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLSB bei ETT in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLSB bei ETT in Python" %}}
 
 Das folgende Beispiel zeigt, wie XLSB in ETT in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um XLSB in ETT umzuwandeln. Laden Sie Ihre 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLSB in ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLSB in ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSB in ETT" %}}
 
@@ -52,7 +52,7 @@ Müssen Sie XLSB-Dateien programmgesteuert in ETT konvertieren? Python-Entwickle
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

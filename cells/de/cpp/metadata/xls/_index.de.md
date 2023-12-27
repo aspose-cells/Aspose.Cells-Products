@@ -2,6 +2,7 @@
 title:  Bearbeiten oder Anzeigen von XLS-Dokumentmetadaten über C++
 weight: 2150
 description: C++ Beispielcode zum Bearbeiten oder Anzeigen von XLS-Dateimetadaten in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ view xls metadata., C++ add xls metadata., C++ insert xls metadata., C++ edit xls metadata., C++ remove xls metadata., C++ extract xls metadata., C++ modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie XLS-Metadaten über C++" h2="Erstellen Sie Ihre eigenen C++-Apps, um mithilfe serverseitiger APIs Metadaten aus XLS-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Laden Sie die Datei XLS mit CreateIWorkbookMetadata
-+ Erstellen Sie Optionen mit CreateIMetadataOptions
-+ Fügen Sie neue Eigenschaften durch GetICustomDocumentProperties() und AddIDocumentProperty hinzu
++ Erstellen Sie Optionen mit MetadataOptions
++ Laden Sie die Datei XLS mit WorkbookMetadata
++ Fügen Sie neue Eigenschaften durch GetCustomDocumentProperties() und Add hinzu
 + Dokument XLS speichern
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xls"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xls"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xls", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xls"); 
+
+Aspose::Cells::Cleanup();
 
 ```
 

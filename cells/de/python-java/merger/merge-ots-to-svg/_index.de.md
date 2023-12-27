@@ -1,8 +1,8 @@
 ---
 title: OTS zu SVG zusammenführen – OTS zu SVG in Python zusammenfassen
 url: /de/python-java/merger/merge-ots-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenloses Online-Merge-OTS zum SVG-Speicherformat. Python Kombinieren Sie OTS mit dem Format SVG. OTS zu SVG in Python zusammenführen. OTS zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to SVG in Python., Free Online Python Merge OTS to svg., Python Combine OTS to SVG Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. OTS in SVG-Speicherformat zusammenführen. Python Kombinieren Sie OTS mit dem Format SVG. OTS zu SVG in Python zusammenführen. OTS zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to SVG in Python., Python Merge OTS to svg., Python Combine OTS to SVG., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS über Python mit SVG zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von OTS mit SVG. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to SVG in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="OTS mit SVG unter Verwendung von Python zusammenführen" %}}
 
- Wie füge ich OTS mit SVG zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert mit SVG zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Wie füge ich OTS mit SVG zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert mit SVG zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie OTS kostenlos online mit SVG in Python zusammen" %}}
+{{% blocks/products/pf/agp/content h2="OTS mit SVG in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie OTS mit SVG in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Befolgen Sie die einfachen Schritte, um OTS mit SVG zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um OTS mit SVG in Python zusammenzuführen" InputFormat="ots" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von OTS mit SVG in Python" InputFormat="ots" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie OTS über Python mit SVG zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie OTS programmgesteuert mit SVG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie OTS programmgesteuert mit SVG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

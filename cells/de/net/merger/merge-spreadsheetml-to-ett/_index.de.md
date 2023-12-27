@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML mit ETT zusammenführen – Kombinieren Sie SPREADSHEETML mit ETT in C#
 url: /de/net/merger/merge-spreadsheetml-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von SPREADSHEETML in das ETT-Speicherformat. C# Kombinieren Sie SPREADSHEETML mit dem ETT-Format. Führen Sie SPREADSHEETML zu ETT in C# zusammen. SPREADSHEETML Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to ETT in C#., Free Online C# Merge SPREADSHEETML to ett., C# Combine SPREADSHEETML to ETT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. SPREADSHEETML in ETT-Speicherformat zusammenführen. C# Kombinieren Sie SPREADSHEETML mit dem ETT-Format. Führen Sie SPREADSHEETML zu ETT in C# zusammen. SPREADSHEETML Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to ETT in C#., C# Merge SPREADSHEETML to ett., C# Combine SPREADSHEETML to ETT., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie SPREADSHEETML über C# mit ETT zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von SPREADSHEETML mit ETT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to ETT in C#., F
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit ETT unter Verwendung von C# zusammen" %}}
 
- Wie füge ich SPREADSHEETML mit ETT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SPREADSHEETML ganz einfach programmgesteuert und mit wenigen Codezeilen in ETT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich SPREADSHEETML mit ETT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SPREADSHEETML ganz einfach programmgesteuert und mit wenigen Codezeilen in ETT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML in C# kostenlos online mit ETT zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML in ETT in C# zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML in Aspose.Cells for .NET mit ETT zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML mit ETT zusammenzuführen.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um SPREADSHEETML in ETT unter C# zusammenzuführen" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SPREADSHEETML mit ETT in C#" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SPREADSHEETML über C# mit ETT zusammen" %}}
 

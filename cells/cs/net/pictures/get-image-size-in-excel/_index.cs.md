@@ -2,6 +2,7 @@
 title:  Získejte velikost obrázků/obrázků v aplikaci Excel via .NET
 weight: 10
 description: C# zdrojový kód pro získání velikosti obrázků/obrázků v Excelu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Získejte velikost obrázků/obrázků v aplikaci Excel via .NET" h2="Použití Aspose.Cells\' API pro práci s různými objekty bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
     + [Šířka](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) Představuje šířku tvaru v jednotkách pixelů.
     + [Výška](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) Představuje výšku tvaru v jednotkách pixelů.
     + [Původní šířka](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) Získá původní šířku obrázku v jednotkách pixelů.
-    + [Původní výška](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) Získá původní výšku obrázku v jednotkách pixelů.
+    + [Původní výška](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)Získá původní výšku obrázku v jednotkách pixelů.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ Existují také dva atributy související s velikostí 'WidthScale' a 'HeightSc
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

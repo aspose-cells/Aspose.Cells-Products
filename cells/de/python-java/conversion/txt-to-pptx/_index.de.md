@@ -1,7 +1,7 @@
 ---
-title: Python TXT zu PPTX - Online-Konverter von TXT zu PPTX
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie TXT in das Speicherformat PPTX. Python TXT bis PPTX Format. Speichern Sie TXT bis PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to PPTX saveformat., Free Online TXT to PPTX Python., Python Convert TXT to PPTX]
+title: Python TXT bis PPTX - TXT bis PPTX Konverter
+description: Aspose Excel. Konvertieren Sie TXT schnell und einfach in PPTX mit Aspose.Cells 81 unter Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to PPTX in Python., Save TXT to PPTX using Python., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TXT in PPTX in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von TXT in PPTX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von TXT, PPTX und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie TXT in PPTX mit Python" %}}
 
-Wie konvertiere ich TXT in PPTX? Mit der Bibliothek Aspose.Cells for Python können Sie TXT mit wenigen Codezeilen problemlos programmgesteuert in PPTX konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+Wie konvertiere ich TXT in PPTX? Mit der Bibliothek Aspose.Cells for Python können Sie TXT mit wenigen Codezeilen problemlos programmgesteuert in PPTX konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie TXT bis PPTX in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie TXT bis PPTX in Python" %}}
 
 Das folgende Beispiel zeigt, wie TXT in PPTX in Python konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um TXT in PPTX zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von TXT in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von TXT in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TXT über Python in PPTX" %}}
 
@@ -63,19 +63,19 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Eine Datei mit der Erweiterung .TXT stellt ein Textdokument dar, das einfachen Text in Form von Zeilen enthält. Absätze in einem Textdokument werden durch Wagenrückläufe erkannt und zur besseren Anordnung von Dateiinhalten verwendet. Ein Standardtextdokument kann in jedem Texteditor oder jeder Textverarbeitungsanwendung auf verschiedenen Betriebssystemen geöffnet werden. Der gesamte in einer solchen Datei enthaltene Text liegt in einem für Menschen lesbaren Format vor und wird durch eine Zeichenfolge dargestellt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

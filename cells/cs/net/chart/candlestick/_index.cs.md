@@ -1,6 +1,7 @@
 ---
 title: Vytvářejte svíčkové grafy prostřednictvím C#
 description: C# Ukázkový kód pro vytváření grafů Candlestick (Otevřený-Vysoký-Nízký-Zavřít) do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření svíčkového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

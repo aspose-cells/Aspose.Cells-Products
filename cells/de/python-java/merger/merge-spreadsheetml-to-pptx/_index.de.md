@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML mit PPTX zusammenführen – SPREADSHEETML mit PPTX in Python kombinieren
 url: /de/python-java/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von SPREADSHEETML in das PPTX-Speicherformat. Python Kombinieren Sie SPREADSHEETML mit dem Format PPTX. Führen Sie SPREADSHEETML zu PPTX in Python zusammen. SPREADSHEETML Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in Python., Free Online Python Merge SPREADSHEETML to pptx., Python Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. SPREADSHEETML in PPTX-Speicherformat zusammenführen. Python Kombinieren Sie SPREADSHEETML mit dem Format PPTX. Führen Sie SPREADSHEETML zu PPTX in Python zusammen. SPREADSHEETML Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in Python., Python Merge SPREADSHEETML to pptx., Python Combine SPREADSHEETML to PPTX., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie SPREADSHEETML über Python mit PPTX zusammen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von SPREADSHEETML in PPTX. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in P
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit Python zu PPTX zusammen" %}}
 
-Wie füge ich SPREADSHEETML mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie SPREADSHEETML ganz einfach programmgesteuert mit ein paar Codezeilen in PPTX zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Wie füge ich SPREADSHEETML mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie SPREADSHEETML ganz einfach programmgesteuert mit ein paar Codezeilen in PPTX zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit PPTX in Python online kostenlos zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit PPTX in Python zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML mit PPTX in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML mit PPTX zusammenzuführen
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von SPREADSHEETML mit PPTX in Python" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SPREADSHEETML mit PPTX in Python" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SPREADSHEETML über Python mit PPTX zusammen" %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -81,7 +81,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML steht für Extensible Markup Language, die HTML ähnelt, sich jedoch durch die Verwendung von Tags zum Definieren von Objekten unterscheidet. Die gesamte Idee hinter der Erstellung des XML-Dateiformats bestand darin, Daten zu speichern und zu transportieren, ohne auf Software- oder Hardware-Tools angewiesen zu sein. Seine Beliebtheit ist darauf zurückzuführen, dass es sowohl für Menschen als auch für Maschinen lesbar ist. Dadurch ist es möglich, gemeinsame Datenprotokolle in Form von Objekten zu erstellen, die über Netzwerke wie das World Wide Web (WWW) gespeichert und geteilt werden. Das „X“ in XML steht für erweiterbar, was bedeutet, dass die Sprache je nach Benutzeranforderungen auf eine beliebige Anzahl von Symbolen erweitert werden kann. Für diese Funktionen nutzen es viele Standarddateiformate wie Microsoft Open XML, LibreOffice OpenDocument, XHTML und SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
-title: Python ZAHLEN zu SVG - Online-ZAHLEN zu SVG Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie NUMBERS in das Speicherformat SVG. Python ZAHLEN im Format SVG. Speichern Sie die Nummern unter SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SVG saveformat., Free Online NUMBERS to SVG Python., Python Convert NUMBERS to SVG]
+title: Python ZAHLEN zu SVG - ZAHLEN zu SVG Konverter
+description: Aspose Excel. Konvertieren Sie NUMBERS schnell und einfach in SVG mit Aspose.Cells. Python NUMBERS in SVG. Python Speichern Sie NUMBERS in SVG. Speichern Sie NUMBERS als SVG mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to SVG in Python., Save NUMBERS to SVG using Python., Python NUMBERS to SVG saveformat., NUMBERS to SVG Converter., Python Save NUMBERS as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in SVG in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von NUMBERS in SVG. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie NUMBERS in SVG in Python" %}}
 
- Wie konvertiere ich NUMBERS in SVG? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in SVG konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich NUMBERS in SVG? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in SVG konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie Nummern unter SVG in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie die Nummern unter SVG in Python" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS in SVG in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in SVG zu konvertieren. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von NUMBERS in SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von ZAHLEN in SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie ZAHLEN in SVG" %}}
 
@@ -52,7 +52,7 @@ Müssen Sie NUMBERS-Dateien programmgesteuert in SVG konvertieren? Python-Entwic
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Eine SVG-Datei ist eine Skalar-Vektorgrafikdatei, die ein XML-basiertes Textformat zur Beschreibung des Erscheinungsbilds eines Bildes verwendet. Das Wort „Skalierbar“ bezieht sich auf die Tatsache, dass die SVG ohne Qualitätsverlust auf verschiedene Größen skaliert werden kann. Die textbasierte Beschreibung solcher Dateien macht sie unabhängig von der Auflösung. Es ist eines der am häufigsten verwendeten Formate zum Erstellen einer Website und zum Drucken von Grafiken, um Skalierbarkeit zu erreichen. Das Format kann jedoch nur für zweidimensionale Grafiken verwendet werden. SVG-Dateien können in fast allen modernen Browsern angezeigt/geöffnet werden, einschließlich Chrome, Internet Explorer, Firefox und Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

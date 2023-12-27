@@ -1,7 +1,7 @@
 ---
-title: Java XLS až EMF - Online konvertor XLS až EMF
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLS na EMF uložit formát. Java XLS až EMF formát. Uložte si XLS až EMF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EMF saveformat., Free Online XLS to EMF Java., Java Convert XLS to EMF]
+title: Java XLS až EMF - XLS až EMF Převodník
+description: Aspose Excel. Převeďte XLS na EMF rychle a snadno pomocí Aspose.Cells. Java XLS na EMF. Java Ušetřete XLS na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to EMF in Java., Save XLS to EMF using Java., Java XLS to EMF saveformat., XLS to EMF Converter., Java Save XLS as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLS na EMF na Java" h2="Vysokorychlostní knihovna Java pro převod XLS na EMF. Jedná se o profesionální softwarové řešení pro import a export XLS, EMF a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EM
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLS na EMF pomocí Java" %}}
 
-Jak převedu XLS na EMF? S knihovnou Aspose.Cells for Java můžete snadno převést XLS na EMF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLS na EMF? S knihovnou Aspose.Cells for Java můžete snadno převést XLS na EMF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLS na EMF? S knihovnou Aspose.Cells for Java můžete snadno přev
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLS až EMF v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLS až EMF v Java" %}}
 
 Následující příklad ukazuje, jak převést XLS na EMF v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLS na EMF. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLS na EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLS na EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLS na EMF via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLS na EMF programově? Vývojáři Java mohou sn
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLS s instancí třídy Workbook.
+1. Načtěte soubor XLS s instancí třídy Workbook.
 1.  Převeďte XLS na EMF voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLS na EMF.
 

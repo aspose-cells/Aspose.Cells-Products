@@ -2,6 +2,7 @@
 title:  Generieren Sie Berichte in XLS-Dateien via .NET
 weight: 1700
 description: C#-Quellcode zum Generieren von Berichten im XLS-Format auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Create XLS Reports Based on Predesigned Excel Template., c# Generate XLS Reports Based on Predesigned Excel Template., c# Create XLS Reports Based on Excel Template., C# Generate XLS Reports Based on Excel Template., c# Create XLS files Based on Excel Template., C# Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Massenberichterstellung im XLS-Format über C#" h2="Erstellen Sie Berichte im Format XLS mithilfe einer Datenquelle und einer Vorlage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

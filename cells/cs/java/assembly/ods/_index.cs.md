@@ -2,6 +2,7 @@
 title:  Generujte sestavy v souborech ODS via Java
 weight: 2440
 description: Java ukázkový kód pro vytvoření sestav formátu ODS na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Create ODS Reports Based on Predesigned Excel Template., Java Generate ODS Reports Based on Predesigned Excel Template., Java Create ODS Reports Based on Excel Template., Java Generate ODS Reports Based on Excel Template., Java Create ODS files Based on Excel Template., Java Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generování hromadné sestavy ve formátu ODS Formát via Java" h2="Generujte zprávy ve formátu ODS pomocí zdroje dat a šablony." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -75,9 +76,9 @@ description: Java ukázkový kód pro vytvoření sestav formátu ODS na Java Ru
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu ODS – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu ODS – Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

@@ -1,8 +1,8 @@
 ---
 title: Sloučit XLT až PNG - Sloučit XLT až PNG v C#
 url: /cs/net/merger/merge-xlt-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Online sloučení zdarma XLT do formátu uložení PNG. C# Kombinujte formát XLT až PNG. Sloučit XLT až PNG v C#. XLT Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PNG in C#., Free Online C# Merge XLT to png., C# Combine XLT to PNG Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit XLT do PNG uložit formát. C# Kombinujte formát XLT až PNG. Sloučit XLT až PNG v C#. XLT Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PNG in C#., C# Merge XLT to png., C# Combine XLT to PNG., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLT na PNG přes C#" h2="Vysokorychlostní knihovna C# pro sloučení XLT do PNG. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="PNG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PNG in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLT až PNG pomocí C#" %}}
 
- Jak sloučím XLT do PNG? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLT na PNG programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím XLT do PNG? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLT na PNG programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XLT až PNG v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XLT až PNG v C#" %}}
 
 Následující příklad ukazuje, jak sloučit XLT až PNG v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení XLT do PNG. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XLT až PNG v C#" InputFormat="xlt" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XLT až PNG v C#" InputFormat="xlt" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLT na PNG přes C#" %}}
 

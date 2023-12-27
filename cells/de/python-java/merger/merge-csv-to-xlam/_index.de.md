@@ -1,8 +1,8 @@
 ---
 title: CSV mit XLAM zusammenführen - CSV mit XLAM in Python kombinieren
 url: /de/python-java/merger/merge-csv-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von CSV zu XLAM im Speicherformat. Python Kombinieren Sie das Format CSV mit dem Format XLAM. CSV zu XLAM in Python zusammenführen. CSV Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLAM in Python., Free Online Python Merge CSV to xlam., Python Combine CSV to XLAM Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. CSV mit XLAM Saveformat zusammenführen. Python Kombinieren Sie das Format CSV mit dem Format XLAM. CSV zu XLAM in Python zusammenführen. CSV Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLAM in Python., Python Merge CSV to xlam., Python Combine CSV to XLAM., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV über Python mit XLAM zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von CSV mit XLAM. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLAM in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Führen Sie CSV mit XLAM unter Verwendung von Python zusammen" %}}
 
- Wie füge ich CSV mit XLAM zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie CSV mit XLAM ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+Wie füge ich CSV mit XLAM zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie CSV mit XLAM ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie CSV mit XLAM in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="CSV mit XLAM in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie CSV mit XLAM in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um CSV mit XLAM zusammenzuführen. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um CSV mit XLAM in Python zusammenzuführen" InputFormat="csv" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von CSV mit XLAM in Python" InputFormat="csv" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie CSV über Python mit XLAM zusammen" %}}
 
@@ -73,14 +73,14 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM ist eine makrofähige Add-In-Datei, die zum Hinzufügen neuer Funktionen zu Tabellenkalkulationen verwendet wird. Ein Add-In ist ein Zusatzprogramm, das zusätzlichen Code ausführt und zusätzliche Funktionen für Tabellenkalkulationen bereitstellt. XLAM-Dateien werden mit der Erweiterung .xlam gespeichert. XLAM-Dateien sind XML-basierte Dateien, die den Dateiformaten XLSM und XLSX ähneln und mit ZIP-Komprimierung gespeichert werden, um die Gesamtdateigröße zu reduzieren.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

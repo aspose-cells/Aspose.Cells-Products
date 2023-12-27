@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument XLSX, ohne via .NET zu öffnen
 weight: 4880
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSX-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# search words with pattern in XLSX file., c# find words with pattern in XLSX file., c# search string with pattern in XLSX file., c# find words with pattern in XLSX file., c# search words in excel file., c# find words in excel file., c# search string in excel file., c# find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach XLSX-Formaten in C#" h2="Native und leistungsstarke XLSX Dokumentensuche mit serverseitigen Aspose.Cells for .NET APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSX-Datei a
 
  Um die Datei XLSX zu durchsuchen, verwenden wir
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  Paketmanager, suchen Sie nach
  **Aspose.Cells** 

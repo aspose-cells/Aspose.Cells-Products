@@ -1,7 +1,7 @@
 ---
-title: Python OTS zu CSV - Online OTS zu CSV Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python OTS in CSV Saveformat konvertieren. Python OTS zum CSV-Format. Speichern Sie OTS unter CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to CSV saveformat., Free Online OTS to CSV Python., Python Convert OTS to CSV]
+title: Python OTS zu CSV - OTS zu CSV Konverter
+description: Aspose Excel. Konvertieren Sie OTS schnell und einfach in CSV mit Aspose.Cells. Python OTS in CSV. Python Speichern Sie OTS in CSV. Speichern Sie OTS als CSV mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to CSV in Python., Save OTS to CSV using Python., Python OTS to CSV saveformat., OTS to CSV Converter., Python Save OTS as CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie OTS in CSV in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von OTS in CSV. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von OTS, CSV und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie OTS mit Python in CSV" %}}
 
- Wie konvertiere ich OTS in CSV? Mit der Bibliothek Aspose.Cells for Python können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert in CSV konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich OTS in CSV? Mit der Bibliothek Aspose.Cells for Python können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert in CSV konvertieren.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie OTS unter CSV in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie OTS unter CSV in Python" %}}
 
 Das folgende Beispiel zeigt, wie OTS in Python in CSV konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um OTS in CSV zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von OTS in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von OTS in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie OTS über Python in CSV" %}}
 
@@ -63,19 +63,19 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Eine Datei mit der Erweiterung .ots ist eine OpenDocument Spreadsheet-Vorlagendatei, die mit der in Apache OpenOffice enthaltenen Calc-Anwendungssoftware erstellt wird. Die Calc-Anwendungssoftware ähnelt Excel und ist in Microsoft Office verfügbar. Das OTS-Dateiformat wird zum Erstellen von Vorlagen verwendet, die vordefinierte Einstellungen in Bezug auf Stile, Schriftart, Daten, Tabellenlayout und Formatierung enthalten. OTF-Dateien haben den Mime-Typ application/vnd.oasis.opendocument.spreadsheet-template. Diese Vorlagendateien können als Ausgangspunkt zum Generieren und Speichern tatsächlicher Datendateien verwendet werden, die im Dateiformat ODS gespeichert werden. OTS-Dateien können mit Anwendungen wie OpenOffice und LibreOffice verwendet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

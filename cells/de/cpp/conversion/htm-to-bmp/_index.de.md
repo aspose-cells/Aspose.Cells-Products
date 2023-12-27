@@ -1,7 +1,7 @@
 ---
-title: C++ HTM zu BMP - Online HTM zu BMP Konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ Konvertieren Sie HTM in das BMP-Speicherformat. C++ HTM zum BMP-Format. Speichern Sie HTM unter BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to BMP saveformat., Free Online HTM to BMP C++., C++ Convert HTM to BMP]
+title: C++ HTM zu BMP - HTM zu BMP Konverter
+description: Aspose Excel. Konvertieren Sie HTM schnell und einfach in BMP mit Aspose.Cells. C++ HTM in BMP. C++ Speichern Sie HTM in BMP. Speichern Sie HTM als BMP mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to BMP in C++., Save HTM to BMP using C++., C++ HTM to BMP saveformat., HTM to BMP Converter., C++ Save HTM as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie HTM in BMP in C++" h2="Leistungsstarke HTM-zu-BMP-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Microsoft-Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to BMP s
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie HTM mit C++ in BMP" %}}
 
- Wie konvertiere ich HTM in BMP? Mit der Bibliothek Aspose.Cells for C++ können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert in BMP konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich HTM in BMP? Mit der Bibliothek Aspose.Cells for C++ können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert in BMP konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie HTM unter BMP in C++ kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie HTM unter BMP in C++" %}}
 
 Das folgende Beispiel zeigt, wie HTM in C++ in C++ konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um HTM in BMP zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von HTM in BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="bmp" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von HTM in BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="bmp" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie HTM über C++ in BMP" %}}
 
@@ -49,7 +49,7 @@ Müssen Sie HTM-Dateien programmgesteuert in BMP konvertieren? C++-Entwickler k�
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die HTM-Datei mit Factory::CreateIWorkbook.
+1.  Laden Sie die HTM-Datei mit Workbook.
 1.  Konvertieren Sie HTM in BMP, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von HTM in BMP.
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-pdf/" name="HTM AN PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-png/" name="HTM AN PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-svg/" name="HTM AN SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tiff/" name="HTM AN TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tsv/" name="HTM AN TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-txt/" name="HTM AN TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xls/" name="HTM AN XLS" description="Excel-Binärformat" >}}

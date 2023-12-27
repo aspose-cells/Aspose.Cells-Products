@@ -1,7 +1,7 @@
 ---
-title: Java PRN zu EMF - Online PRN zu EMF Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java PRN in EMF Saveformat konvertieren. Java PRN im EMF-Format. Speichern Sie die PRN unter EMF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to EMF saveformat., Free Online PRN to EMF Java., Java Convert PRN to EMF]
+title: Java PRN zu EMF - PRN zu EMF Konverter
+description: Aspose Excel. Konvertieren Sie PRN schnell und einfach in EMF mit Aspose.Cells. Java PRN in EMF. Java Speichern Sie PRN in EMF. Speichern Sie PRN als EMF mit Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to EMF in Java., Save PRN to EMF using Java., Java PRN to EMF saveformat., PRN to EMF Converter., Java Save PRN as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie PRN in EMF in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von PRN in EMF. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von PRN, EMF und vielen anderen Formaten unter Verwendung von Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to EM
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie PRN mit Java in EMF" %}}
 
- Wie konvertiere ich PRN in EMF? Mit der Bibliothek Aspose.Cells for Java können Sie PRN mit wenigen Codezeilen ganz einfach programmgesteuert in EMF konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich PRN in EMF? Mit der Bibliothek Aspose.Cells for Java können Sie PRN mit wenigen Codezeilen ganz einfach programmgesteuert in EMF konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to EM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie PRN unter EMF in Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie die PRN unter EMF in Java" %}}
 
 Das folgende Beispiel zeigt, wie PRN in EMF in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um PRN in EMF zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von PRN in EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von PRN in EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie PRN in EMF via Java" %}}
 

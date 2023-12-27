@@ -1,8 +1,8 @@
 ---
 title: PNG mit PPTX zusammenführen - PNG mit PPTX in Python kombinieren
 url: /de/python-java/merger/merge-png-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von PNG zu PPTX im Speicherformat. Python Kombinieren Sie das Format PNG mit dem Format PPTX. PNG zu PPTX in Python zusammenführen. PNG Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to PPTX in Python., Free Online Python Merge PNG to pptx., Python Combine PNG to PPTX Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. PNG mit PPTX Saveformat zusammenführen. Python Kombinieren Sie das Format PNG mit dem Format PPTX. PNG zu PPTX in Python zusammenführen. PNG Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to PPTX in Python., Python Merge PNG to pptx., Python Combine PNG to PPTX., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG über Python mit PPTX zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von PNG mit PPTX. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to PPTX in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Führen Sie PNG mit PPTX unter Verwendung von Python zusammen" %}}
 
- Wie füge ich PNG mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie PNG mit PPTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+Wie füge ich PNG mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie PNG mit PPTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie PNG mit PPTX in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="PNG mit PPTX in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie PNG mit PPTX in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um PNG mit PPTX zusammenzuführen. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um PNG mit PPTX in Python zusammenzuführen" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von PNG mit PPTX in Python" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie PNG über Python mit PPTX zusammen" %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -81,7 +81,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Eine PNG-Datei (Portable Network Graphics) ist ein Rasterbilddateiformat, das verlustfreie Komprimierung verwendet. Dieses Dateiformat wurde als Ersatz für das Graphics Interchange Format (GIF) erstellt und unterliegt keinen Urheberrechtsbeschränkungen. Das Dateiformat PNG unterstützt jedoch keine Animationen. Das Dateiformat PNG unterstützt verlustfreie Bildkomprimierung, was es bei seinen Benutzern beliebt macht. Im Laufe der Zeit hat sich PNG zu einem der am weitesten verbreiteten Bilddateiformate entwickelt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

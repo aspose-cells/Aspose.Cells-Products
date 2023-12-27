@@ -2,6 +2,7 @@
 title:  Odemkněte XLSM dokument via Java
 weight: 7700
 description: Java ukázkový kód pro odemknutí heslem chráněného souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemknout XLSM Soubory via Java" h2="Odstraňte ochranu z tabulek aplikace Excel včetně souboru XLSM pomocí knihovny Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java ukázkový kód pro odemknutí heslem chráněného souboru XL
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Odemkněte soubory XLSM přes C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Odemknout XLSM Soubory via Java" offSpacer="" %}}
 
 ```cs
 

@@ -1,7 +1,7 @@
 ---
-title: Java ODS zu SQL - Online ODS zu SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie ODS in das SQL-Speicherformat. Java ODS in das SQL-Format. Speichern Sie ODS in SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SQL saveformat., Free Online ODS to SQL Java., Java Convert ODS to SQL]
+title: Java ODS zu SQL - ODS zu SQL Converter
+description: Aspose Excel. Konvertieren Sie ODS schnell und einfach in SQL mit Aspose.Cells. Java ODS in SQL. Java Speichern Sie ODS in SQL. Speichern Sie ODS als SQL mit Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to SQL in Java., Save ODS to SQL using Java., Java ODS to SQL saveformat., ODS to SQL Converter., Java Save ODS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie ODS in SQL in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von ODS in SQL. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von ODS, SQL und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SQ
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie ODS mit Java in SQL" %}}
 
- Wie konvertiere ich ODS in SQL? Mit der Bibliothek Aspose.Cells for Java können Sie ODS mit wenigen Codezeilen problemlos programmgesteuert in SQL konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich ODS in SQL? Mit der Bibliothek Aspose.Cells for Java können Sie ODS mit wenigen Codezeilen problemlos programmgesteuert in SQL konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SQ
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie ODS kostenlos in SQL in Java online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie ODS in SQL in Java" %}}
 
 Das folgende Beispiel zeigt, wie ODS in SQL in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um ODS in SQL zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von ODS in SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von ODS in SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie ODS in SQL via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie ODS-Dateien programmgesteuert in SQL konvertieren? Java-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei ODS mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei ODS mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie ODS in SQL, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von ODS in SQL.
 

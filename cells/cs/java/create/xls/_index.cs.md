@@ -1,7 +1,7 @@
 ---
 title: Vytvořit XLS - Vytvořit soubor XLS v Java
-description: Aspose Excel. Java Vytvořte soubor XLS. Vytvořit XLS Java. Java XLS Tvůrce. Vytvořte XLS v Java. Vygenerujte soubor XLS pomocí Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater., Create XLS file in Java., Generate XLS file in Java]
+description: Aspose Excel. Java Vytvořte XLS Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor XLS pomocí Java. Vytvořte XLS v Java. 0761831981 0761831983
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLS file., Generate XLS file in Java., Create XLS file using Java., Write data to XLS file via Java., Create a XLS file in Java., Java Generate a XLS file., Java XLS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor XLS v Java" h2="Vysokorychlostní knihovna Java pro vytváření souboru XLS. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor XLS pomocí Java" %}}
 
- Jak vytvořit soubor XLS? S knihovnou Aspose.Cells for Java můžete snadno vytvořit soubor XLS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak vytvořit soubor XLS? S knihovnou Aspose.Cells for Java můžete snadno vytvořit soubor XLS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater
 1.  Vytvořte instanci[Třída sešitu](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Získejte přístup k příslušnému listu pomocí metody getWorksheets.get().
 1.  Vyberte příslušnou buňku, zadejte hodnotu do požadované buňky pomocí názvu buňky, například A1, B3 atd.
-1.  Uložte sešit ve formátu XLS pomocí metody save().
+1. Uložte sešit ve formátu XLS pomocí metody save().
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor XLS v Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xls");
 
 {{% blocks/products/pf/agp/text %}}
 
-Před spuštěním ukázkového zdrojového kódu konverze Java se ujistěte, že splňujete následující předpoklady.
+ Před spuštěním ukázkového zdrojového kódu konverze Java se ujistěte, že splňujete následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 

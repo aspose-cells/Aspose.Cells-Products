@@ -1,6 +1,7 @@
 ---
 title: Fügen Sie Formen über JAVA in Excel ein
-description:  C# Quellcodes zum Einfügen einer Form in Microsoft Excel-Dateien mithilfe der JAVA-Bibliothek.
+description:  Java Quellcodes zum Einfügen einer Form in Microsoft Excel-Dateien mithilfe der JAVA-Bibliothek.
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Einfügen von Excel-Formen über JAVA" h2="Erstellen Sie Excel-Dokumente und fügen Sie Formen mithilfe serverseitiger APIs in JAVA-basierten Anwendungen ein." >}}
@@ -12,9 +13,9 @@ description:  C# Quellcodes zum Einfügen einer Form in Microsoft Excel-Dateien 
 
 {{% blocks/products/pf/feature-page-section h2="Fügen Sie Formen in eine Excel-Datei ein" %}}
 
- Das Einfügen von Formen mithilfe dieser APIs ist einfach. Der Prozess ist Erstellen[Arbeitsbuchklasse](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/) Objekt und wählen Sie das erste Arbeitsblatt oder das relevante Blatt aus, indem Sie seinen Index angeben. Fügen Sie dem Arbeitsblatt eine Form hinzu, indem Sie verwenden[Formsammlung](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)'s Add-Methode.
+ Das Einfügen von Formen mithilfe dieser APIs ist einfach. Der Prozess ist Erstellen[Arbeitsbuchklasse](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/)Objekt und wählen Sie das erste Arbeitsblatt oder das relevante Blatt aus, indem Sie seinen Index angeben. Fügen Sie dem Arbeitsblatt eine Form hinzu, indem Sie verwenden[Formsammlung](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)'s Add-Methode.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code zum Einfügen einer Form in Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code zum Einfügen einer Form in Excel" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

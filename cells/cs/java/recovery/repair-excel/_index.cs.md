@@ -1,8 +1,8 @@
 ---
-title: Java Oprava excelového souboru – Oprava excelového souboru online zdarma
+title: Java Opravit excel – Obnovte a opravte poškozený soubor Excel
 url: /cs/java/recovery/repair-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Java Oprava excel souboru. Zdarma online nástroj pro opravu excel. Opravte poškozený soubor aplikace Excel. Obnovte poškozený soubor aplikace Excel v aplikaci Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair excel file., Free Online Repair a corrupted excel file., Java Recover excel file.]
+description: Java Aspose.Cells. Oprava excel. Opravte soubor Excel. excelový nástroj pro obnovu. excelentní korupce. Obnovte data aplikace Excel. obnovení souborů excel. Obnovte poškozený soubor aplikace Excel.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Opravte soubor EXCEL v Java" h2="Sestavte si vlastní aplikaci Java pro opravu souborů aplikace Excel pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor EXCEL pomocí Java" %}}
 
- Jak opravím soubor Excel? S knihovnou Aspose.Cells for Java můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak opravím soubor Excel? S knihovnou Aspose.Cells for Java můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Potřebujete opravit excelový soubor programově? Java vývojáři mohou snadno
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezplatná aplikace a ukázkový kód pro opravu souboru EXCEL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Ukázkový kód pro opravu souboru EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java knihovna pro opravu souboru EXCEL" %}}
 

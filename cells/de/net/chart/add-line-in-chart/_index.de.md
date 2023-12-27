@@ -1,6 +1,7 @@
 ---
 title:  Fügen Sie über C# eine Linie im Diagramm hinzu
 description: C# Beispielcode zum Hinzufügen einer Linie in einem Diagramm zu Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Hinzufügen einer Linie in einem Diagramm zu MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie über C# eine Linie im Diagramm hinzu" h2="Native und leistungsstarke MS Excel-Erstellung programmgesteuert unter Verwendung serverseitiger .NET-APIs." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ Das dynamische Hinzufügen einer Linie im Diagramm innerhalb einer laufenden Anw
 1.  Fügen Sie mit dem einige Daten zu Arbeitsblattzellen hinzu[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) Objekt[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)Methode.
  Dies wird als Datenquelle für das Diagramm verwendet.
 1.  Fügen Sie dem Arbeitsblatt ein Diagramm hinzu, indem Sie das aufrufen[**Diagramme**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) Sammlung[**Hinzufügen**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) Methode, gekapselt in der[**Arbeitsblatt**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)Objekt.
-1.  Greifen Sie auf das Neue zu[**Diagramm**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)Objekt aus der Charts-Sammlung durch Übergabe seines Index, geben Sie durch Aufruf die Datenquelle des Diagramms an[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Greifen Sie auf das Neue zu[**Diagramm**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) Objekt aus der Charts-Sammlung durch Übergabe seines Index, geben Sie durch Aufruf die Datenquelle des Diagramms an[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Berechnen Sie die Diagrammposition durch Aufruf[**Berechnung**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) Methode.
 1.  Füge hinzu ein[**Linie**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Shape durch Aufrufen der Chart.Shapes.AddShapeInChartByScale-Methode.
 1. Legen Sie das Zeilenformat fest
@@ -38,7 +39,7 @@ Das dynamische Hinzufügen einer Linie im Diagramm innerhalb einer laufenden Anw
 
 {{% blocks/products/pf/agp/text %}}
 
- Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
+Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
 
 {{% /blocks/products/pf/agp/text %}}
 

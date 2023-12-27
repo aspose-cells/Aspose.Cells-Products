@@ -1,7 +1,8 @@
 ---
 title:  Vložte popisky do Excelu via .NET
 weight: 360
-description: C# zdrojový kód pro vložení popisků do aplikace Excel na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# Ukázkový kód pro přidání nebo vložení popisků do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření popisků v MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Callouts shape., c# insert Callouts shape., c# create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte popisky do Excelu via .NET" h2="Vkládejte popisky pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
- + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)pro vložení popisků do vybraného listu
+ + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) pro vložení popisků do vybraného listu
 + Uložit sešit ve formátu XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +77,7 @@ Ukázkový kód níže ukazuje, jak vložit "Thought Bubble: Cloud". Další typ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Přehled typů popisků
+ Přehled typů popisků
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/speech_bubble_rectangle.png" align="left" width="28" height="28">
@@ -111,7 +112,7 @@ Přehled typů popisků
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/bent_line.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.LineCalloutWithBorder2
+AutoShapeType.LineCalloutWithBorder2
     </p>
    </div>
    <div class="col-lg-4">
@@ -171,7 +172,7 @@ Přehled typů popisků
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/double_bent_line_with_border_and_accent_bar.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.LineCalloutWithBorderAndAccentBar3
+ AutoShapeType.LineCalloutWithBorderAndAccentBar3
     </p>
    </div>
   </div>
@@ -187,7 +188,7 @@ AutoShapeType.LineCalloutWithBorderAndAccentBar3
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

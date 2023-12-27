@@ -1,8 +1,8 @@
 ---
-title: C++ Oprava excelového souboru – Oprava excelového souboru online zdarma
+title: C++ Opravit excel – Obnovte a opravte poškozený soubor Excel
 url: /cs/cpp/recovery/repair-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Oprava excel souboru. Zdarma online nástroj pro opravu excel. Opravte poškozený soubor aplikace Excel. Obnovte poškozený soubor aplikace Excel v aplikaci C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel file., Free Online Repair a corrupted excel file., C++ Recover excel file.]
+description: C++ Aspose.Cells. Oprava excel. Opravte soubor Excel. excelový nástroj pro obnovu. excelentní korupce. Obnovte data aplikace Excel. obnovení souborů excel. Obnovte poškozený soubor aplikace Excel.
+keywords: [C++ Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Opravte soubor EXCEL v C++" h2="Sestavte si vlastní aplikaci C++ pro opravu souborů aplikace Excel pomocí C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor EXCEL pomocí C++" %}}
 
- Jak opravím soubor Excel? S knihovnou Aspose.Cells for C++ můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak opravím soubor Excel? S knihovnou Aspose.Cells for C++ můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Potřebujete opravit excelový soubor programově? C++ vývojáři mohou snadno 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezplatná aplikace a ukázkový kód pro opravu souboru EXCEL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Ukázkový kód pro opravu souboru EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ knihovna pro opravu souboru EXCEL" %}}
 

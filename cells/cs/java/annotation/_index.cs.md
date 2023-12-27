@@ -1,6 +1,7 @@
 ---
-title: Anotace souboru Excel via Java
+title: Přidat nebo odebrat anotace souboru Excel via Java
 description: Přidejte nebo odeberte datovou anotaci tabulek Excelu a OpenOffice s knihovnou Java.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Spravovat Microsoft<sup>&reg;</sup> Anotace souboru Excel via Java" h2="Vkládejte jednoduché poznámky pro anotaci nebo odstraňte komentáře na úrovni buněk tabulky Excel v aplikacích založených na Java." >}}

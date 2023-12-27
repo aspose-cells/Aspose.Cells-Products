@@ -1,8 +1,8 @@
 ---
 title: Sloučit ODS do TABDELIMITED – Sloučit ODS do TABDELIMITED v C#
 url: /cs/net/merger/merge-ods-to-tabdelimited/ 
-description: Aspose Excel. C# Aspose.Cells. Zdarma online sloučení ODS do formátu uložení TABDELIMITED. C# Zkombinujte ODS do formátu TABDELIMITED. Sloučit ODS na TABDELIMITED v C#. ODS Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to TABDELIMITED in C#., Free Online C# Merge ODS to tabdelimited., C# Combine ODS to TABDELIMITED Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit ODS do formátu uložení TABDELIMITED. C# Zkombinujte ODS do formátu TABDELIMITED. Sloučit ODS na TABDELIMITED v C#. ODS Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to TABDELIMITED in C#., C# Merge ODS to tabdelimited., C# Combine ODS to TABDELIMITED., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit ODS do TABDELIMITED přes C#" h2="Vysokorychlostní knihovna C# pro sloučení ODS do TABDELIMITED. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to TABDELIMITED in C#., Fr
 
 {{% blocks/products/pf/agp/content h2="Sloučit ODS do TABDELIMITED pomocí C#" %}}
 
- Jak sloučím ODS do TABDELIMITED? S knihovnou Aspose.Cells for .NET můžete snadno sloučit ODS do TABDELIMITED programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím ODS do TABDELIMITED? S knihovnou Aspose.Cells for .NET můžete snadno sloučit ODS do TABDELIMITED programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit ODS do TABDELIMITED v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit ODS do TABDELIMITED v C#" %}}
 
 Následující příklad ukazuje, jak sloučit ODS do TABDELIMITED v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení ODS do TABDELIMITED. Nahraj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení ODS do TABDELIMITED v C#" InputFormat="ods" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení ODS do TABDELIMITED v C#" InputFormat="ods" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit ODS do TABDELIMITED přes C#" %}}
 

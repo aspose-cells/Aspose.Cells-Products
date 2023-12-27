@@ -1,8 +1,8 @@
 ---
 title: PNG mit PRN zusammenführen – PNG mit PRN in C# kombinieren
 url: /de/net/merger/merge-png-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von PNG in das PRN-Speicherformat. C# Kombinieren Sie PNG zum PRN-Format. PNG mit PRN in C# zusammenführen. PNG Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to PRN in C#., Free Online C# Merge PNG to prn., C# Combine PNG to PRN Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. PNG in PRN-Speicherformat zusammenführen. C# Kombinieren Sie PNG zum PRN-Format. PNG mit PRN in C# zusammenführen. PNG Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to PRN in C#., C# Merge PNG to prn., C# Combine PNG to PRN., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie PNG über C# mit PRN zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von PNG mit PRN. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to PRN in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Führen Sie PNG mit PRN unter Verwendung von C# zusammen" %}}
 
- Wie füge ich PNG mit PRN zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie PNG ganz einfach programmgesteuert mit ein paar Codezeilen in PRN zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich PNG mit PRN zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie PNG ganz einfach programmgesteuert mit ein paar Codezeilen in PRN zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie PNG kostenlos online mit PRN in C# zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie PNG mit PRN in C# zusammen" %}}
 
 Das folgende Beispiel zeigt, wie PNG mit PRN in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um PNG mit PRN zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um PNG mit PRN in C# zusammenzuführen" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von PNG mit PRN in C#" InputFormat="png" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie PNG über C# mit PRN zusammen" %}}
 

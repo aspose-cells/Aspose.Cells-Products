@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to PNG saveformat., 
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLAM na PNG pomocí Python" %}}
 
-Jak převedu XLAM na PNG? S knihovnou Aspose.Cells for Python můžete snadno převést XLAM na PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+Jak převedu XLAM na PNG? S knihovnou Aspose.Cells for Python můžete snadno převést XLAM na PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ Existují tři možnosti instalace „Aspose.Cells for Python via Java“ do va�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Vytvořit ET – Vytvořte soubor ET v Python
-description: Aspose Excel. Python Vytvořte soubor ET. Vytvořit ET Python. Python Vytvořit ET. Vytvořte ET v Python. Vygenerujte soubor ET pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Creater., Create ET file in Python., Generate ET file in Python]
+description:  Aspose Excel. Python Vytvořte ET soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte ET soubor pomocí Python. Vytvořte ET v Python. Python ET Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python., Create ET file using Python., Write data to ET file via Python., Create a ET file in Python., Python Generate a ET file., Python ET Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor ET v Python" h2="Vysokorychlostní knihovna Python pro vytváření ET souboru. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Cre
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor ET pomocí Python" %}}
 
- Jak vytvořit ET soubor? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit ET soubor programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit ET soubor? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit ET soubor programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.et")
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

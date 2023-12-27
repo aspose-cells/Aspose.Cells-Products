@@ -1,8 +1,8 @@
 ---
 title: Excel mit SQL zusammenführen – Kombinieren Sie EXCEL mit SQL in C#
 url: /de/net/merger/merge-excel-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von Excel in das SQL-Speicherformat. C# Kombinieren Sie das Excel-Format mit dem SQL-Format. Excel mit SQL in C# zusammenführen. EXCEL zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to SQL in C#., Free Online C# Merge EXCEL to sql., C# Combine EXCEL to SQL Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Excel- und SQL-Speicherformat zusammenführen. C# Kombinieren Sie das Excel-Format mit dem SQL-Format. Excel mit SQL in C# zusammenführen. EXCEL zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to SQL in C#., C# Merge EXCEL to sql., C# Combine EXCEL to SQL., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel über C# mit SQL zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von EXCEL mit SQL. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="SQL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to SQL in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Führen Sie Excel mit SQL mit C# zusammen" %}}
 
- Wie füge ich Excel mit SQL zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie mit wenigen Codezeilen ganz einfach Excel und SQL programmgesteuert zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich Excel mit SQL zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie mit wenigen Codezeilen ganz einfach Excel und SQL programmgesteuert zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie Excel in SQL in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Excel mit SQL in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie Excel in SQL in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um EXCEL mit SQL zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von Excel mit SQL in C#" InputFormat="xlsx" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von Excel mit SQL in C#" InputFormat="xlsx" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie Excel mit SQL über C# zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie Excel programmgesteuert mit SQL zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie Excel programmgesteuert mit SQL zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

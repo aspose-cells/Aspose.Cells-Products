@@ -1,6 +1,7 @@
 ---
 title: Erstellen Sie Candlestick-Charts über C#
 description: C# Beispielcode zum Erstellen von Candlestick-Diagrammen (Open-High-Low-Close Stock) in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Erstellen eines Candlestick-Diagramms für MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

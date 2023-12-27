@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL na XLSM - Online převodník EXCEL na XLSM
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte EXCEL do formátu uložení XLSM. Python EXCEL do formátu XLSM. Uložte EXCEL na XLSM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to XLSM saveformat., Free Online EXCEL to XLSM Python., Python Convert EXCEL to XLSM]
+title: Převodník Python EXCEL na XLSM - EXCEL na XLSM
+description: Aspose Excel. Převeďte EXCEL na XLSM rychle a snadno pomocí Aspose.Cells. Python EXCEL na XLSM. Python Uložte EXCEL na XLSM. Uložte EXCEL jako 0761736481 pomocí 381.481
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to XLSM in Python., Save EXCEL to XLSM using Python., Python EXCEL to XLSM saveformat., EXCEL to XLSM Converter., Python Save EXCEL as XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na XLSM v Python" h2="Vysokorychlostní knihovna Python pro převod EXCELu na XLSM. Jedná se o profesionální softwarové řešení pro import a export EXCEL, XLSM a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Převeďte EXCEL na XLSM pomocí Python" %}}
 
- Jak převedu EXCEL na XLSM? S knihovnou Aspose.Cells for Python můžete snadno převést EXCEL na XLSM programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu EXCEL na XLSM? S knihovnou Aspose.Cells for Python můžete snadno převést EXCEL na XLSM programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit EXCEL na XLSM v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte EXCEL na XLSM v Python" %}}
 
 Následující příklad ukazuje, jak převést EXCEL na XLSM v Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Podle jednoduchých kroků převeďte EXCEL na XLSM. Nahrajte svůj soubor EXCEL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL na XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod EXCELu na XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL na XLSM přes Python" %}}
 
@@ -63,12 +63,12 @@ Existují tři možnosti instalace „Aspose.Cells for Python via Java“ do va�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

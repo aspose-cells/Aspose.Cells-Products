@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE na FODS - Online IMAGE na FODS převodník
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést OBRÁZEK do formátu uložení FODS. Java IMAGE do formátu FODS. Uložit IMAGE na FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to FODS saveformat., Free Online IMAGE to FODS Java., Java Convert IMAGE to FODS]
+title: Java IMAGE na FODS - IMAGE na FODS Převodník
+description: Aspose Excel. Převeďte OBRÁZEK na FODS rychle a snadno pomocí Aspose.Cells. Java OBRÁZEK na FODS. Java Uložit OBRÁZEK na FODS. Uložit OBRÁZEK jako 0761731481 pomocí 0761731481
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to FODS in Java., Save IMAGE to FODS using Java., Java IMAGE to FODS saveformat., IMAGE to FODS Converter., Java Save IMAGE as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte IMAGE na FODS v Java" h2="Vysokorychlostní knihovna Java pro převod IMAGE na FODS. Jedná se o profesionální softwarové řešení pro import a export IMAGE, FODS a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte IMAGE na FODS pomocí Java" %}}
 
- Jak převedu IMAGE na FODS? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu IMAGE na FODS? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit IMAGE na FODS v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte IMAGE na FODS v Java" %}}
 
 Následující příklad ukazuje, jak převést IMAGE na FODS v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod IMAGE na FODS. Nahrajte svůj 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OBRÁZKU na FODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod IMAGE na FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést IMAGE na FODS via Java" %}}
 

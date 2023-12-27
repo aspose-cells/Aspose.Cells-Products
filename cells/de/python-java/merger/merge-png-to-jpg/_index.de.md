@@ -1,8 +1,8 @@
 ---
 title: PNG zu JPG zusammenführen – Kombinieren Sie PNG zu JPG in Python
 url: /de/python-java/merger/merge-png-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von PNG in das JPG-Speicherformat. Python Kombinieren Sie PNG zum JPG-Format. PNG zu JPG in Python zusammenführen. PNG Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to JPG in Python., Free Online Python Merge PNG to jpg., Python Combine PNG to JPG Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. PNG in das JPG-Speicherformat zusammenführen. Python Kombinieren Sie PNG zum JPG-Format. PNG zu JPG in Python zusammenführen. PNG Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to JPG in Python., Python Merge PNG to jpg., Python Combine PNG to JPG., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG über Python in JPG zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von PNG in JPG. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to JPG in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="PNG mit Python in JPG zusammenführen" %}}
 
- Wie füge ich PNG zu JPG zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie PNG mit wenigen Codezeilen ganz einfach programmgesteuert in JPG zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Wie füge ich PNG zu JPG zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie PNG mit wenigen Codezeilen ganz einfach programmgesteuert in JPG zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zusammenführen von PNG zu JPG in Python online kostenlos" %}}
+{{% blocks/products/pf/agp/content h2="PNG in JPG in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie PNG in JPG in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um PNG in JPG zusammenzuführen. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von PNG zu JPG in Python" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von PNG zu JPG in Python" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie PNG über Python zu JPG zusammen" %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,8 +1,8 @@
 ---
 title: Sloučit PRN s MARKDOWN – Sloučit PRN s MARKDOWN v Python
 url: /cs/python-net/merger/merge-prn-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Zdarma online sloučit PRN do formátu uložení MARKDOWN. Python Zkombinujte PRN do formátu MARKDOWN. Sloučit PRN na MARKDOWN v Python. PRN Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MARKDOWN in Python., Free Online Python Merge PRN to markdown., Python Combine PRN to MARKDOWN Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit PRN do formátu uložení MARKDOWN. Python Zkombinujte PRN do formátu MARKDOWN. Sloučit PRN na MARKDOWN v Python. PRN Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MARKDOWN in Python., Python Merge PRN to markdown., Python Combine PRN to MARKDOWN., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PRN na MARKDOWN přes Python" h2="Vysokorychlostní knihovna Python pro sloučení PRN do MARKDOWN. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MARKDOWN in Python.
 
 {{% blocks/products/pf/agp/content h2="Sloučit PRN na MARKDOWN pomocí Python" %}}
 
- Jak sloučím PRN s číslem MARKDOWN? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit PRN s MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Jak sloučím PRN s číslem MARKDOWN? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit PRN s MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit PRN na MARKDOWN v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit PRN na MARKDOWN v Python" %}}
 
 Následující příklad ukazuje, jak sloučit PRN s MARKDOWN v Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro sloučení PRN do MARKDOWN. Nahrajte s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení PRN na MARKDOWN v Python" InputFormat="prn" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení PRN s MARKDOWN v Python" InputFormat="prn" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PRN na MARKDOWN přes Python" %}}
 
@@ -52,7 +52,7 @@ Potřebujete sloučit PRN s MARKDOWN programově? Základní dokument, který se
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

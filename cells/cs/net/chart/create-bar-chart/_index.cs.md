@@ -1,6 +1,7 @@
 ---
 title: Vytvořte sloupcové grafy prostřednictvím C#
 description: C# Ukázkový kód pro vytváření pruhových grafů do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření sloupcového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

@@ -1,8 +1,8 @@
 ---
-title: Python Oprava excelového souboru – Oprava excelového souboru online zdarma
+title: Python Opravit excel – Obnovte a opravte poškozený soubor Excel
 url: /cs/python-net/recovery/repair-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Python Oprava excel souboru. Zdarma online nástroj pro opravu excel. Opravte poškozený soubor aplikace Excel. Obnovte poškozený soubor aplikace Excel v aplikaci Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair excel file., Free Online Repair a corrupted excel file., Python Recover excel file.]
+description: Python Aspose.Cells. Oprava excel. Opravte soubor Excel. excelový nástroj pro obnovu. excelentní korupce. Obnovte data aplikace Excel. obnovení souborů excel. Obnovte poškozený soubor aplikace Excel.
+keywords: [Python Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Opravte soubor EXCEL v Python" h2="Sestavte si vlastní aplikaci Python pro opravu souborů aplikace Excel pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor EXCEL pomocí Python" %}}
 
- Jak opravím soubor Excel? S knihovnou Aspose.Cells for Python můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Jak opravím soubor Excel? S knihovnou Aspose.Cells for Python můžete snadno opravit soubor EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ Potřebujete opravit excelový soubor programově? Python vývojáři mohou snad
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezplatná aplikace a ukázkový kód pro opravu souboru EXCEL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Ukázkový kód pro opravu souboru EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python knihovna pro opravu souboru EXCEL" %}}
 
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
  Aspose.Cells for Python je podporován na všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
  
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

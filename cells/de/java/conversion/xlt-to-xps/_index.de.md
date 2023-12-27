@@ -1,7 +1,7 @@
 ---
-title: Java XLT zu XPS - Online-Konverter von XLT zu XPS
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie XLT in das Speicherformat XPS. Java XLT bis XPS Format. Speichern Sie XLT bis XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to XPS saveformat., Free Online XLT to XPS Java., Java Convert XLT to XPS]
+title: Java XLT bis XPS - XLT bis XPS Konverter
+description: Aspose Excel. Konvertieren Sie XLT schnell und einfach in XPS mit Aspose.Cells 81 unter Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to XPS in Java., Save XLT to XPS using Java., Java XLT to XPS saveformat., XLT to XPS Converter., Java Save XLT as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLT in XPS in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von XLT in XPS. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLT, XPS und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to XP
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLT in XPS mit Java" %}}
 
-Wie konvertiere ich XLT in XPS? Mit der Bibliothek Aspose.Cells for Java können Sie XLT mit wenigen Codezeilen problemlos programmgesteuert in XPS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Wie konvertiere ich XLT in XPS? Mit der Bibliothek Aspose.Cells for Java können Sie XLT mit wenigen Codezeilen problemlos programmgesteuert in XPS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Wie konvertiere ich XLT in XPS? Mit der Bibliothek Aspose.Cells for Java können
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLT bis XPS in Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLT bis XPS in Java" %}}
 
 Das folgende Beispiel zeigt, wie XLT in XPS in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um XLT in XPS zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von XLT in XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLT in XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLT in XPS via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie XLT-Dateien programmgesteuert in XPS konvertieren? Java-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLT mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei XLT mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie XLT in XPS, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLT in XPS.
 

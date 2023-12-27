@@ -1,7 +1,7 @@
 ---
-title: Java JPG na MD - Online převodník JPG na MD
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převod formátu JPG na MD. Java Formát JPG do MD. Uložit JPG na MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MD saveformat., Free Online JPG to MD Java., Java Convert JPG to MD]
+title: Java Převodník JPG na MD - JPG na MD
+description: Aspose Excel. Převeďte JPG na MD rychle a snadno pomocí Aspose.Cells. Java JPG na MD. Java Uložit JPG na MD. Uložte JPG jako MD pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to MD in Java., Save JPG to MD using Java., Java JPG to MD saveformat., JPG to MD Converter., Java Save JPG as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte JPG na MD v Java" h2="Vysokorychlostní knihovna Java pro převod JPG na MD. Jedná se o profesionální softwarové řešení pro import a export JPG, MD a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MD
 
 {{% blocks/products/pf/agp/content h2="Převeďte JPG na MD pomocí Java" %}}
 
- Jak převedu JPG na MD? S knihovnou Aspose.Cells for Java můžete snadno převést JPG na MD programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu JPG na MD? S knihovnou Aspose.Cells for Java můžete snadno převést JPG na MD programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to MD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit JPG do MD v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte JPG na MD v Java" %}}
 
 Následující příklad ukazuje, jak převést JPG na MD v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod JPG na MD. Nahrajte svůj soub
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod JPG na MD online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod JPG na MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést JPG na MD via Java" %}}
 
@@ -70,7 +70,7 @@ Potřebujete převést JPG soubory na MD programově? Java vývojáři mohou sna
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
 1.  Načtěte soubor JPG s instancí třídy Workbook.
 1.  Převeďte JPG na MD voláním metody Workbook.save.
-1. Získejte výsledek převodu JPG na MD.
+1.  Získejte výsledek převodu JPG na MD.
 
 {{% /blocks/products/pf/agp/content %}}
 

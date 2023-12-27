@@ -1,8 +1,8 @@
 ---
 title: SXC mit POWERPOINT zusammenführen - SXC mit POWERPOINT in C# kombinieren
 url: /de/net/merger/merge-sxc-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von SXC in das POWERPOINT-Speicherformat. C# Kombinieren Sie SXC mit dem POWERPOINT-Format. SXC mit POWERPOINT in C# zusammenführen. SXC Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to POWERPOINT in C#., Free Online C# Merge SXC to powerpoint., C# Combine SXC to POWERPOINT Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. SXC in das POWERPOINT-Speicherformat zusammenführen. C# Kombinieren Sie SXC mit dem POWERPOINT-Format. SXC mit POWERPOINT in C# zusammenführen. SXC Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to POWERPOINT in C#., C# Merge SXC to powerpoint., C# Combine SXC to POWERPOINT., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC über C# mit POWERPOINT zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von SXC mit POWERPOINT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to POWERPOINT in C#., Free
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SXC mit C# in POWERPOINT zusammen" %}}
 
- Wie füge ich SXC mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SXC mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich SXC mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SXC mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SXC kostenlos online mit POWERPOINT in C# zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SXC mit POWERPOINT in C# zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SXC mit POWERPOINT in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um SXC mit POWERPOINT zusammenzuführen. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von SXC mit POWERPOINT in C#" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SXC mit POWERPOINT in C#" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SXC über C# mit POWERPOINT zusammen" %}}
 
@@ -88,7 +88,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Das Dateiformat SXC (Sun XML Calc) gehört zu einer Office-Suite namens OpenOffice.org. Dieses Format erfüllt im Allgemeinen die Tabellenkalkulationsanforderungen der Benutzer, da es sich um ein XML-basiertes Tabellenkalkulationsdateiformat handelt. Das Format SXC unterstützt Formeln, Funktionen, Makros und Diagramme sowie DataPilot. Dies ist eine unglaubliche Funktion, da es die importierten Rohdaten automatisch individualisiert und Zusammenfassungen bereitstellt. Die mit dieser Software erstellten Dateien werden mit der Erweiterung .sxc gespeichert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

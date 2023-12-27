@@ -1,7 +1,8 @@
 ---
 title:  Fügen Sie PivotTable in Microsoft Excel XLSX-Dateien über C# ein
 weight: 7690
-description: C# Beispielcode zum Generieren von XLSX-Dokumenten mit PivotTable. Verwenden Sie diesen Code zum Erstellen von Micorsoft Excel XLSX-Dateien mit PivotTable in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+description: C# Beispielcode zum Hinzufügen von PivotTable zu XLSX mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Einfügen einer PivotTable in die Datei XLSX in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in xlsx., c# create PivotTable in xlsx., c# modify PivotTable in xlsx., access PivotTable in xlsx., c# add pivot table in xlsx., c# insert pivot table in xlsx., c# create pivot table in xlsx., c# modify pivot table in xlsx., access pivot table in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PivotTable in XLSX Dokumente über C# einfügen" h2="Native und leistungsstarke Microsoft Excel XLSX Tabellenkalkulation mit programmgesteuerter PivotTable-Erstellung unter Verwendung serverseitiger .NET APIs." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,7 @@ description: C# Beispielcode zum Generieren von XLSX-Dokumenten mit PivotTable. 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Das dynamische Generieren einer MS Excel XLSX-Datei mit PivotTable innerhalb der laufenden Anwendung ist einfach. Um XLSX-Dokumente mit PivotTable von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Entwickler können den Code zum Schreiben von Daten, zum Generieren von Diagrammen oder Grafiken sowie zum Erstellen von Tabellen in Tabellenkalkulationen problemlos erweitern.
+ Das dynamische Generieren einer MS Excel XLSX-Datei mit PivotTable innerhalb der laufenden Anwendung ist einfach. Um XLSX-Dokumente mit PivotTable von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Entwickler können den Code zum Schreiben von Daten, zum Generieren von Diagrammen oder Grafiken sowie zum Erstellen von Tabellen in Tabellenkalkulationen problemlos erweitern.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Beispielcode zum Generieren von XLSX-Dokumenten mit PivotTable. 
 
 {{% blocks/products/pf/agp/text %}}
 
-Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tabellenformat XLSX in unterschiedliche Berichtsanwendungen zur Datenverarbeitung einzufügen.
+ Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tabellenformat XLSX in verschiedene Berichtsanwendungen zur Datenverarbeitung einzufügen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tab
 1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
 1.  Fügen Sie eine PivotTable ein und legen Sie den Stil fest
-1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLSX-Datei zu speichern.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLSX-Datei zu speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tab
 
 {{% blocks/products/pf/agp/text %}}
 
- Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
+Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
 
 {{% /blocks/products/pf/agp/text %}}
 

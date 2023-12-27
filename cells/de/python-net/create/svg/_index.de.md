@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie SVG – Erstellen Sie die Datei SVG in Python
-description: Aspose Excel. Python Datei SVG erstellen. Erstellen SVG Python. Python SVG Ersteller. Erstellen Sie SVG in Python. Generieren Sie die Datei SVG mit Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SVG Python., Python SVG Creater., Create SVG file in Python., Generate SVG file in Python]
+description: Aspose Excel. Python Erstellen Sie schnell und einfach eine SVG-Datei mit Aspose.Cells. Erstellen Sie eine SVG-Datei mit Python. Erstellen Sie SVG in Python. Python SVG Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SVG file., Generate SVG file in Python., Create SVG file using Python., Write data to SVG file via Python., Create a SVG file in Python., Python Generate a SVG file., Python SVG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie die Datei SVG in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Erstellen der Datei SVG. Nutzen Sie unsere Excel-Konvertierung API, um in Python hochwertige, plattformunabhängige Software zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SVG Python., Python SVG C
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie die Datei SVG mit Python" %}}
 
- Wie erstelle ich die Datei SVG? Mit der Bibliothek Aspose.Cells for Python über die Bibliothek NET können Sie die Datei SVG ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie erstelle ich die Datei SVG? Mit der Bibliothek Aspose.Cells for Python über die Bibliothek NET können Sie die Datei SVG ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SVG Python., Python SVG C
 1.  Erstellen Sie eine Arbeitsmappenklasseninstanz.
 1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
-1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als SVG-Datei zu speichern.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als SVG-Datei zu speichern.
 
 {{% blocks/products/pf/agp/code-block title="Der Beispielcode zeigt, wie die Datei SVG in Python erstellt wird." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.svg")
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

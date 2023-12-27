@@ -1,8 +1,8 @@
 ---
 title: FODS mit JSON zusammenführen - FODS mit JSON in Python kombinieren
 url: /de/python-java/merger/merge-fods-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von FODS zu JSON im Speicherformat. Python Kombinieren Sie das Format FODS mit dem Format JSON. FODS zu JSON in Python zusammenführen. FODS Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to JSON in Python., Free Online Python Merge FODS to json., Python Combine FODS to JSON Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. FODS mit JSON Saveformat zusammenführen. Python Kombinieren Sie das Format FODS mit dem Format JSON. FODS zu JSON in Python zusammenführen. FODS Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to JSON in Python., Python Merge FODS to json., Python Combine FODS to JSON., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="FODS über Python mit JSON zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von FODS mit JSON. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to JSON in Python., F
 
 {{% blocks/products/pf/agp/content h2="Führen Sie FODS mit JSON unter Verwendung von Python zusammen" %}}
 
- Wie füge ich FODS mit JSON zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie FODS mit JSON ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+Wie füge ich FODS mit JSON zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie FODS mit JSON ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie FODS mit JSON in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="FODS mit JSON in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie FODS mit JSON in Aspose.Cells for Python via Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um FODS mit JSON zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um FODS mit JSON in Python zusammenzuführen" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von FODS mit JSON in Python" InputFormat="fods" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie FODS über Python mit JSON zusammen" %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

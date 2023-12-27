@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Excel-Bibliothek zur Tabellenkalkulationsverarbeitung. Lesen, schreiben, rendern und konvertieren XLS XLSX XLSM ODS CSV TSV und weitere Formate. Kompatibel mit Windows Linux und Unix
+description:  Aspose.Cells for Java Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Konvertieren Sie Excel in PDF, JSON, CSV, HTML und so weiter.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Excel-Tabellenverarbeitung API" h2="Erstellen, bearbeiten, konvertieren, schützen oder drucken Sie Tabellenkalkulationen, ohne sich auf Microsoft Excel verlassen zu müssen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -198,7 +199,7 @@ Aspose.Cells for Java ist eine ausgereifte und funktionsreiche Bibliothek, die v
      <b>
       Numbers:
      </b>
- App-Dokumente der iWork-Office-Suite Numbers von Apple
+ Apples iWork Office Suite Numbers App-Dokumente
     </li>
     <li>
      SXC, FODS

@@ -1,7 +1,7 @@
 ---
-title: Java OTS do EXCEL - Online převodník OTS do EXCEL
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte OTS do formátu uložení EXCEL. Java OTS do formátu EXCEL. Uložte OTS do EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EXCEL saveformat., Free Online OTS to EXCEL Java., Java Convert OTS to EXCEL]
+title: Java OTS do EXCEL - Převodník OTS do EXCEL
+description: Aspose Excel. Převeďte OTS na EXCEL rychle a snadno pomocí Aspose.Cells. Java OTS do EXCELu. Java Uložte OTS do EXCELu. Uložte OTS jako EXCEL pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EXCEL in Java., Save OTS to EXCEL using Java., Java OTS to EXCEL saveformat., OTS to EXCEL Converter., Java Save OTS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte OTS na EXCEL v Java" h2="Vysokorychlostní knihovna Java pro převod OTS do EXCELu. Jedná se o profesionální softwarové řešení pro import a export OTS, EXCEL a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EX
 
 {{% blocks/products/pf/agp/content h2="Převeďte OTS na EXCEL pomocí Java" %}}
 
- Jak převedu OTS na EXCEL? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu OTS na EXCEL? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit OTS do EXCELu na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte OTS do EXCELu na Java" %}}
 
 Následující příklad ukazuje, jak převést OTS na EXCEL v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod OTS na EXCEL. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OTS do EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod OTS na EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést OTS do EXCEL via Java" %}}
 
@@ -70,7 +70,7 @@ Potřebujete převést soubory OTS do EXCELu programově? Java vývojáři mohou
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
 1.  Načtěte soubor OTS s instancí třídy Workbook.
 1.  Převeďte OTS na EXCEL voláním metody Workbook.save.
-1.  Získejte výsledek převodu OTS do EXCELu.
+1. Získejte výsledek převodu OTS do EXCELu.
 
 {{% /blocks/products/pf/agp/content %}}
 

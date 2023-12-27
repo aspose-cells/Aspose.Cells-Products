@@ -1,8 +1,8 @@
 ---
-title: Java XLSM-Datei reparieren - XLSM-Datei kostenlos online reparieren
+title: Java XLSM reparieren – Beschädigte XLSM-Datei wiederherstellen und reparieren
 url: /de/java/recovery/repair-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Java XLSM-Datei reparieren. Kostenloses Online-XLSM-Reparaturtool. Reparieren Sie eine beschädigte XLSM-Datei. Stellen Sie eine beschädigte XLSM-Datei in der Anwendung Java wieder her.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsm file., Free Online Repair a corrupted xlsm file., Java Recover xlsm file.]
+description: Java Aspose.Cells. Reparatur xlsm. XLSM-Datei reparieren. XLSM-Wiederherstellungstool. XLSM-Korruption. XLSM-Daten wiederherstellen. Wiederherstellung von XLSM-Dateien. Stellen Sie die beschädigte XLSM-Datei wieder her.
+keywords: [Java Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLSM in Java" h2="Erstellen Sie Ihre eigene Java-Anwendung, um XLSM-Dateien mit Java zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLSM mit Java" %}}
 
- Wie repariere ich eine XLSM-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLSM ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie repariere ich eine XLSM-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLSM ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,12 +55,12 @@ Müssen Sie die XLSM-Datei programmgesteuert reparieren? Java-Entwickler können
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLSM, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLSM, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLSM-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java-Bibliothek zum Reparieren der XLSM-Datei" %}}
 

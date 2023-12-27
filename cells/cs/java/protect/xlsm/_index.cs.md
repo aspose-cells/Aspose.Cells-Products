@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte XLSM dokument via Java
+title:  Chraňte a uzamkněte XLSM dokument via Java
 weight: 9620
 description: Java ukázkový kód pro uzamčení souboru XLSM pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Lock XLSM files., Java How to Protect and lock XLSM document., Java Protect XLSM files., Encrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat XLSM Soubory via Java" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSM pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -111,7 +112,7 @@ wkb.save("lockedFile.xlsm");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSM" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSM soubory](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSM" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSM](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSM a stisknout tlačítko „Odemknout“." >}}

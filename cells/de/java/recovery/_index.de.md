@@ -1,6 +1,7 @@
 ---
-title: Reparieren Sie die Excel-Datei via Java
-description: Reparieren Sie eine beschädigte Excel-Datei mit Java. Wiederherstellungstool zum Reparieren beschädigter Excel-Dateien in der Anwendung Java.
+title: Java Excel reparieren – Beschädigte Excel-Datei wiederherstellen und reparieren
+description: Java Aspose.Cells. Excel reparieren. Excel-Datei reparieren. Excel-Wiederherstellungstool. Excel-Korruption. Excel-Daten wiederherstellen. Excel-Dateiwiederherstellung. Beschädigte Excel-Datei wiederherstellen.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Stellen Sie die Excel-Datei via Java wieder her" h2="Erstellen Sie die Anwendung Java, um Excel-Dateien mit Java zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Reparieren Sie eine beschädigte Excel-Datei mit Java. Wiederherste
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Excel-Datei mit Java" %}}
 
- Um eine Excel-Datei zu reparieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung.
+ Um eine Excel-Datei zu reparieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung.
  
  Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 

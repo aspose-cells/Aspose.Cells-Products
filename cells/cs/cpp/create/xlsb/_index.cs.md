@@ -1,7 +1,7 @@
 ---
 title: Vytvořit XLSB - Vytvořit soubor XLSB v C++
-description: Aspose Excel. C++ Vytvořte soubor XLSB. Vytvořit XLSB C++. C++ XLSB Tvůrce. Vytvořte XLSB v C++. Vygenerujte soubor XLSB pomocí C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create XLSB C++., C++ XLSB Creater., Create XLSB file in C++., Generate XLSB file in C++]
+description: Aspose Excel. C++ Vytvořte XLSB Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor XLSB pomocí C++. Vytvořte XLSB v C++. 0761831981 0761831983
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLSB file in C++., Create XLSB file using C++., Write data to XLSB file via C++., Create a XLSB file in C++., C++ Generate a XLSB file., C++ XLSB Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor XLSB v C++" h2="Nativní a vysoce výkonné vytváření souborů XLSB programově bez aplikace Microsoft Office pomocí knihovny C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create XLSB C++., C++ XLSB Creater.
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor XLSB pomocí C++" %}}
 
- Jak vytvořit soubor XLSB? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor XLSB programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak vytvořit soubor XLSB? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor XLSB programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Vytvořte objekt třídy IWorkbook.
-1.  Získejte první list do objektu IWorksheet.
-1.  Pomocí metody IWorksheet->GetICells() přeneste buňky listu do objektu ICells.
-1. Použijte metodu ICells->GetObjectByIndex() pro přístup k požadované buňce listu do objektu ICell.
-1.  Pomocí metody ICell->PutValue() zadejte hodnotu do buňky.
+1.  Vytvořte objekt třídy Workbook.
+1.  Získejte první list do objektu Worksheet.
+1.  Použijte metodu Worksheet.GetCells() k získání buněk listu do objektu Cells.
+1. Použijte metodu Cells.Get() pro přístup k požadované buňce listu do objektu Cell.
+1.  Pomocí metody Cell.PutValue() zadejte hodnotu do buňky.
 1.  Uložte sešit jako soubor .xlsb pomocí metody Save().
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor XLSB v C++." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.xlsb"));
+wkb.Save(u"created_one.xlsb");
+
+Aspose::Cells::Cleanup();
 
 ```
 

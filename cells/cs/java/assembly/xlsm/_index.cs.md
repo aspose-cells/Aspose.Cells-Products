@@ -2,6 +2,7 @@
 title:  Generujte sestavy v souborech XLSM via Java
 weight: 270
 description: Java ukázkový kód pro vytvoření sestav formátu XLSM na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Create XLSM Reports Based on Predesigned Excel Template., Java Generate XLSM Reports Based on Predesigned Excel Template., Java Create XLSM Reports Based on Excel Template., Java Generate XLSM Reports Based on Excel Template., Java Create XLSM files Based on Excel Template., Java Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generování hromadné sestavy ve formátu XLSM Formát via Java" h2="Generujte zprávy ve formátu XLSM pomocí zdroje dat a šablony." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -75,9 +76,9 @@ description: Java ukázkový kód pro vytvoření sestav formátu XLSM na Java R
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu XLSM – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu XLSM – Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

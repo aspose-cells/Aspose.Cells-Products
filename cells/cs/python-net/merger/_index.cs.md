@@ -45,7 +45,7 @@ description: Sloučit soubor Excel v kódu Python. Zkombinujte soubor Excel pomo
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

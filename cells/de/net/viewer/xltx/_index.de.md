@@ -2,6 +2,7 @@
 title:  Dateiformate XLTX anzeigen via .NET
 weight: 7870
 description: C# Quellcode zum Laden, Rendern und Anzeigen von XLTX Dokumenten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# view XLTX files., c# how to render XLTX document., c# load and display XLTX files., XLTX File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX Dateibetrachter for .NET" h2="Zeigen Sie Excel- und OpenOffice-Tabellen wie XLTX an, ohne Microsoft Excel oder Office Automation zu benötigen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLTX" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Laden Sie die Datei XLTX in eine Instanz von Workbook
 1.  Erstellen Sie eine Instanz von HtmlSaveOptions und setzen Sie die ExportHeadings-Eigenschaft auf true
-1.  Speichern Sie die Datei XLTX im Format HTML mit der Methode Workbook.Save
+1. Speichern Sie die Datei XLTX im Format HTML mit der Methode Workbook.Save
 1.  Laden Sie das Ergebnis HTML im Standardbrowser mit Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

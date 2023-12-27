@@ -1,8 +1,8 @@
 ---
-title: C# Excel-Datei reparieren – Excel-Datei kostenlos online reparieren
+title: C# Excel reparieren – Beschädigte Excel-Datei wiederherstellen und reparieren
 url: /de/net/recovery/repair-excel/ 
-description: Aspose Excel. C# Aspose.Cells. C# Excel-Datei reparieren. Kostenloses Online-Excel-Reparaturtool. Reparieren Sie eine beschädigte Excel-Datei. Stellen Sie eine beschädigte Excel-Datei in der Anwendung .NET wieder her.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel file., Free Online Repair a corrupted excel file., C# Recover excel file.]
+description: C# Aspose.Cells. Excel reparieren. Excel-Datei reparieren. Excel-Wiederherstellungstool. Excel-Korruption. Excel-Daten wiederherstellen. Excel-Dateiwiederherstellung. Beschädigte Excel-Datei wiederherstellen.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Excel-Datei in C#" h2="Erstellen Sie Ihre eigene .NET-Anwendung, um Excel-Dateien mit .NET zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel fi
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Excel-Datei mit C#" %}}
 
- Wie repariere ich eine Excel-Datei? Mit der Bibliothek Aspose.Cells for .NET können Sie Excel-Dateien ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie repariere ich eine Excel-Datei? Mit der Bibliothek Aspose.Cells for .NET können Sie Excel-Dateien ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Müssen Sie eine Excel-Datei programmgesteuert reparieren? .NET Entwickler könn
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur von Excel-Dateien" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren einer Excel-Datei" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET-Bibliothek zum Reparieren der Excel-Datei" %}}
 

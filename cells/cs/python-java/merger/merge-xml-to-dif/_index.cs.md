@@ -1,8 +1,8 @@
 ---
 title: Sloučit XML s DIF – Zkombinovat XML s DIF v Python
 url: /cs/python-java/merger/merge-xml-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Online zdarma Sloučit XML do formátu uložení DIF. Python Zkombinujte XML do formátu DIF. Sloučit XML na DIF v Python. Sloučit XML.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to DIF in Python., Free Online Python Merge XML to dif., Python Combine XML to DIF Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit XML do formátu uložení DIF. Python Zkombinujte XML do formátu DIF. Sloučit XML na DIF v Python. Sloučit XML.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to DIF in Python., Python Merge XML to dif., Python Combine XML to DIF., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XML na DIF přes Python" h2="Vysokorychlostní knihovna Python pro sloučení XML do DIF. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="DIF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to DIF in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Sloučit XML do DIF pomocí Python" %}}
 
- Jak sloučím XML do DIF? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit XML do DIF programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+ Jak sloučím XML do DIF? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit XML do DIF programově pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XML na DIF v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XML na DIF v Python" %}}
 
 Následující příklad ukazuje, jak sloučit XML do DIF v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Postupujte podle jednoduchých kroků pro sloučení XML do DIF. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XML na DIF v Python" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XML do DIF v Python" InputFormat="xml" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XML na DIF přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Potřebujete programově sloučit XML s DIF? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Potřebujete programově sloučit XML s DIF? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 -  Nainstalujte Java 1.8 nebo vyšší a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -85,7 +85,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit xml do mnoha dalších formátů souborů včetně." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit xml s mnoha dalšími formáty souborů včetně." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-docx/" name="Sloučit XML na DOCX" description="Microsoft dokument aplikace Word" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-sql/" name="Sloučit XML do SQL" description="strukturovaný dotazovací jazyk" >}}

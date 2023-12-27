@@ -1,7 +1,8 @@
 ---
-title:  Vodoznak ODS dokument via .NET
+title: Vodoznak ODS dokument via .NET
 weight: 4190
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru ODS na platformách .NET, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., C# add watermark to ods file., C# insert watermark to ods file., C# create watermark in ods file., remove watermark from ods file using C#., C# operate watermark in ods file., C# access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte textový vodoznak na ODS přes C#" h2="Sestavte si své vlastní aplikace .NET pro soubory vodoznaku ODS pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

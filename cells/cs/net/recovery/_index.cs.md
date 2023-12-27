@@ -1,6 +1,7 @@
 ---
-title: Oprava excelového souboru via .NET
-description: Opravte poškozený soubor aplikace Excel pomocí C#. Nástroj pro obnovu pro opravu poškozeného souboru aplikace Excel v aplikaci .NET.
+title: C# Opravit excel – Obnovte a opravte poškozený soubor Excel
+description: C# Aspose.Cells. Oprava excel. Opravte soubor Excel. excelový nástroj pro obnovu. excelentní korupce. Obnovte data aplikace Excel. obnovení souborů excel. Obnovte poškozený soubor aplikace Excel.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Obnovte soubor EXCEL přes C#" h2="Sestavte si vlastní aplikaci .NET pro opravu souborů aplikace Excel pomocí .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -49,7 +50,7 @@ Aspose.Cells je plně multiplatformní a podporuje všechny hlavní implementace
 
 Pokud kód .NET nezávisí na základním hardwaru nebo operačním systému, ale pouze na virtuálním počítači, můžete volně vyvíjet jakýkoli druh softwaru pro Windows, Linux, macOS, Android a iOS. Podporován je také Azure a AWS Lambda. Jen se ujistěte, že jste nainstalovali odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 
-K vytváření aplikací C#, F#, VB.NET doporučujeme použít Microsoft Visual Studio, VSCode.
+vytváření aplikací C#, F#, VB.NET doporučujeme použít Microsoft Visual Studio, VSCode.
 
 {{% /blocks/products/pf/agp/content %}}
     

@@ -1,7 +1,7 @@
 ---
-title: C++ TABDELIMITED na XLTX - Online převodník TABDELIMITED na XLTX
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést TABDELIMITED na XLTX saveformat. C++ TABDELIMITED na formát XLTX. Ušetřete TABDELIMITED na XLTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED to XLTX saveformat., Free Online TABDELIMITED to XLTX C++., C++ Convert TABDELIMITED to XLTX]
+title: C++ TABDELIMITED na XLTX - TABDELIMITED na XLTX Převodník
+description: Aspose Excel. Převeďte TABDELIMITED na XLTX rychle a snadno pomocí Aspose.Cells. C++ TABDELIMITED na XLTX. C++ Uložit TABDELIMITED na XLTX. Uložit TABDELIMITED pomocí.761834 jako 018
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to XLTX in C++., Save TABDELIMITED to XLTX using C++., C++ TABDELIMITED to XLTX saveformat., TABDELIMITED to XLTX Converter., C++ Save TABDELIMITED as XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést TABDELIMITED na XLTX v C++" h2="Vysoce výkonný převod TABDELIMITED na XLTX pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED
 
 {{% blocks/products/pf/agp/content h2="Převést TABDELIMITED na XLTX pomocí C++" %}}
 
- Jak převedu TABDELIMITED na XLTX? S knihovnou Aspose.Cells for C++ můžete snadno převést TABDELIMITED na XLTX programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu TABDELIMITED na XLTX? S knihovnou Aspose.Cells for C++ můžete snadno převést TABDELIMITED na XLTX programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete TABDELIMITED na XLTX v C++ online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Ušetřete TABDELIMITED na XLTX v C++" %}}
 
 Následující příklad ukazuje, jak převést TABDELIMITED na XLTX v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod TABDELIMITED na XLTX. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod TABDELIMITED na XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod TABDELIMITED na XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TABDELIMITED na XLTX přes C++" %}}
 
@@ -49,7 +49,7 @@ Potřebujete převést soubory TABDELIMITED na XLTX programově? C++ vývojáři
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor TABDELIMITED pomocí Factory::CreateIWorkbook.
+1.  Načíst soubor TABDELIMITED pomocí sešitu.
 1.  Převeďte TABDELIMITED na XLTX voláním metody Save().
 1.  Získejte výsledek převodu TABDELIMITED na XLTX.
 
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="OMEZENO NA PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="OMEZENO NA PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="OMEZENO NA SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="OMEZENO NA TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="OMEZENO NA TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="OMEZENO NA TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="OMEZENO NA XLS" description="Binární formát Excel" >}}

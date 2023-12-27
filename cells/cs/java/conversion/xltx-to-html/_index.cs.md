@@ -1,7 +1,7 @@
 ---
-title: Java XLTX až HTML - Online konvertor XLTX až HTML
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLTX na HTML uložit formát. Java XLTX až HTML formát. Uložte si XLTX až HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to HTML saveformat., Free Online XLTX to HTML Java., Java Convert XLTX to HTML]
+title: Java XLTX až HTML - XLTX až HTML Převodník
+description: Aspose Excel. Převeďte XLTX na HTML rychle a snadno pomocí Aspose.Cells. Java XLTX na HTML. Java Ušetřete XLTX na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to HTML in Java., Save XLTX to HTML using Java., Java XLTX to HTML saveformat., XLTX to HTML Converter., Java Save XLTX as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLTX na HTML na Java" h2="Vysokorychlostní knihovna Java pro převod XLTX na HTML. Jedná se o profesionální softwarové řešení pro import a export XLTX, HTML a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to H
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLTX na HTML pomocí Java" %}}
 
-Jak převedu XLTX na HTML? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na HTML programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLTX na HTML? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na HTML programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLTX na HTML? S knihovnou Aspose.Cells for Java můžete snadno př
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLTX až HTML v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLTX až HTML v Java" %}}
 
 Následující příklad ukazuje, jak převést XLTX na HTML v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLTX na HTML. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTX na HTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLTX na HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTX na HTML via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLTX na HTML programově? Vývojáři Java mohou 
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLTX s instancí třídy Workbook.
+1. Načtěte soubor XLTX s instancí třídy Workbook.
 1.  Převeďte XLTX na HTML voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLTX na HTML.
 

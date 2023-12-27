@@ -1,8 +1,8 @@
 ---
 title: Sloučit PNG na MD – Sloučit PNG na MD v C#
 url: /cs/net/merger/merge-png-to-md/ 
-description: Aspose Excel. C# Aspose.Cells. Online sloučení zdarma PNG do formátu uložení MD. C# Spojte PNG do formátu MD. Sloučit PNG na MD v C#. PNG Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to MD in C#., Free Online C# Merge PNG to md., C# Combine PNG to MD Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit PNG do formátu uložení MD. C# Spojte PNG do formátu MD. Sloučit PNG na MD v C#. PNG Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to MD in C#., C# Merge PNG to md., C# Combine PNG to MD., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PNG na MD přes C#" h2="Vysokorychlostní knihovna C# pro sloučení PNG do MD. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to MD in C#., Free Online 
 
 {{% blocks/products/pf/agp/content h2="Sloučit PNG na MD pomocí C#" %}}
 
- Jak sloučím PNG s MD? S knihovnou Aspose.Cells for .NET můžete snadno sloučit PNG do MD programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím PNG s MD? S knihovnou Aspose.Cells for .NET můžete snadno sloučit PNG do MD programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit PNG na MD v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit PNG na MD v C#" %}}
 
 Následující příklad ukazuje, jak sloučit PNG do MD v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení PNG s MD. Nahrajte své sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení PNG na MD v C#" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení PNG na MD v C#" InputFormat="png" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PNG na MD přes C#" %}}
 

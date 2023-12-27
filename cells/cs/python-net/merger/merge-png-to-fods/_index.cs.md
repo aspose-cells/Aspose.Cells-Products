@@ -1,8 +1,8 @@
 ---
 title: Sloučit PNG až FODS - Sloučit PNG až FODS v Python
 url: /cs/python-net/merger/merge-png-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Online sloučení zdarma PNG do formátu uložení FODS. Python Kombinujte formát PNG až FODS. Sloučit PNG až FODS v Python. PNG Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to FODS in Python., Free Online Python Merge PNG to fods., Python Combine PNG to FODS Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit PNG do FODS uložit formát. Python Kombinujte formát PNG až FODS. Sloučit PNG až FODS v Python. PNG Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to FODS in Python., Python Merge PNG to fods., Python Combine PNG to FODS., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PNG na FODS přes Python" h2="Vysokorychlostní knihovna Python pro sloučení PNG do FODS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="FODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to FODS in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Sloučit PNG až FODS pomocí Python" %}}
 
- Jak sloučím PNG do FODS? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit PNG na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+Jak sloučím PNG do FODS? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit PNG na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit PNG až FODS v Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit PNG až FODS v Python" %}}
 
 Následující příklad ukazuje, jak sloučit PNG až FODS v Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro sloučení PNG do FODS. Nahrajte své 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení PNG až FODS v Python" InputFormat="png" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení PNG až FODS v Python" InputFormat="png" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PNG na FODS přes Python" %}}
 
@@ -52,7 +52,7 @@ Postupujte podle jednoduchých kroků pro sloučení PNG do FODS. Nahrajte své 
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

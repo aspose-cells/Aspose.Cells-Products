@@ -49,7 +49,7 @@ description: Java ukázkový kód pro spojení TSV dokumentů na Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
-Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,7 +98,7 @@ tsvFile1.save("combinedFileWithPath.tsv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát své soubory TSV." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude sloučen a zřetězen." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude sloučen a zřetězen." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

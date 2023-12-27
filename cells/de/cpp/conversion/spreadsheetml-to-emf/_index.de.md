@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML zu EMF - Online-SPREADSHEETML zu EMF Konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ Konvertieren Sie SPREADSHEETML in das EMF-Speicherformat. C++ SPREADSHEETML in das Format EMF. Speichern Sie SPREADSHEETML unter EMF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to EMF saveformat., Free Online SPREADSHEETML to EMF C++., C++ Convert SPREADSHEETML to EMF]
+title: C++ SPREADSHEETML zu EMF - SPREADSHEETML zu EMF Konverter
+description: Aspose Excel. Konvertieren Sie SPREADSHEETML schnell und einfach in EMF mit Aspose.Cells. C++ SPREADSHEETML in EMF. C++ Speichern Sie SPREADSHEETML in EMF. Speichern Sie SPREADSHEETML als EMF mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to EMF in C++., Save SPREADSHEETML to EMF using C++., C++ SPREADSHEETML to EMF saveformat., SPREADSHEETML to EMF Converter., C++ Save SPREADSHEETML as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie SPREADSHEETML in EMF in C++" h2="Leistungsstarke Konvertierung von SPREADSHEETML in EMF mithilfe der C++-Bibliothek, ohne dass eine Microsoft-Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie SPREADSHEETML mit C++ in EMF" %}}
 
- Wie konvertiere ich SPREADSHEETML in EMF? Mit der Bibliothek Aspose.Cells for C++ können Sie SPREADSHEETML mit wenigen Codezeilen problemlos programmgesteuert in EMF konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich SPREADSHEETML in EMF? Mit der Bibliothek Aspose.Cells for C++ können Sie SPREADSHEETML mit wenigen Codezeilen problemlos programmgesteuert in EMF konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie SPREADSHEETML unter EMF in C++ online kostenlos" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie SPREADSHEETML unter EMF in C++" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML in EMF in C++ konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML in EMF zu konvertieren. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von SPREADSHEETML in EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von SPREADSHEETML in EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie SPREADSHEETML über C++ in EMF" %}}
 
@@ -49,7 +49,7 @@ Müssen Sie SPREADSHEETML-Dateien programmgesteuert in EMF konvertieren? C++-Ent
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die SPREADSHEETML-Datei mit Factory::CreateIWorkbook.
+1.  Laden Sie die SPREADSHEETML-Datei mit Workbook.
 1.  Konvertieren Sie SPREADSHEETML in EMF, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von SPREADSHEETML in EMF.
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="SPREADSHEETML AN PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="SPREADSHEETML AN PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="SPREADSHEETML AN SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="SPREADSHEETML AN TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="SPREADSHEETML AN TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="SPREADSHEETML AN TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="SPREADSHEETML AN XLS" description="Excel-Binärformat" >}}

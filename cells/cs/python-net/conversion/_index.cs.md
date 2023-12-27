@@ -1,12 +1,13 @@
 ---
 title: Microsoft Převod souborů Excel pomocí Python via NET
-description: Převeďte Excel XLS, XLSX, ODS, CSV na PDF, XPS, HTML, HTML, JPEG, JPEG, JPEG, 43 z mnoha dalších 0817 a 16 pouze populárních formátů 1 kód.
+description: Aspose.Cells for Python prostřednictvím knihovny NET. Převeďte formáty EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL a další formáty s několika řádky kódu Python.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Převod formátu Excel přes Python" h2="Importujte a exportujte soubory Excel jako tabulkový procesor, web, obrázky a formáty s pevným rozložením" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Excel Library urychluje programování tabulek a procesy převodu a zároveň podporuje oblíbené formáty včetně XLS, XLSX, XLSM, XLSB, XLTX, XLTM, XLTM, XLTM, XLTM, XLTM, XLTM, XLTM, 871 871 3481. Umožňuje také exportovat soubory Excel do PDF, XPS, HTML, MHTML, Plain Textové a oblíbené formáty obrázků, jako jsou TIFF, JPG, PNG, BMP a SVG.
+Python Knihovna Excel zrychluje programování tabulek a procesy převodu a zároveň podporuje oblíbené formáty včetně XLS, XLSX, XLSM, XLSB, XLTX, 076163181, 076163181, 76163481, 1733 07648 81. Umožňuje také exportovat soubory Excel do PDF, XPS, HTML, MHTML, Plain Textové a oblíbené formáty obrázků, jako jsou TIFF, JPG, PNG, BMP a SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Převést Excel na XLSX, ODS, SXC a FODS" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převést pracovní listy aplikace Excel do formátu JPG, BMP, PNG a GIF" %}}
- Každý list souboru Excel lze převést do různých obrazových formátů, volejte[ImageOrPrintOptions](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/) .setImageFormat pro nastavení formátu obrázku.
+ Každý list souboru Excel lze převést do různých obrazových formátů, volejte[ImageOrPrintOptions](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/).setImageFormat pro nastavení formátu obrázku.
 {{% blocks/products/pf/feature-page-code h3="Python Kód pro převod Excelu na obrázek" %}}
 ```cs
 // load template spreadsheet
@@ -106,7 +107,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte Excel do Wordu a PowerPoint" %}}
- Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [Možnosti PptxSave](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)třídy, jak je ukázáno níže.
+Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [Možnosti PptxSave](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) třídy, jak je ukázáno níže.
 {{% blocks/products/pf/feature-page-code h3="Python kód pro Excel do Wordu a PowerPoint převod" %}}
 ```cs
 // load the template file

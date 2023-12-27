@@ -1,7 +1,7 @@
 ---
-title: XLAM in XML – Konvertieren Sie XLAM in die XML-Dateien C++
-description: Aspose Excel. Kostenlose Online-Konvertierung von XLAM in das XML-Speicherformat. C++ XLAM in das XML-Format. Speichern Sie XLAM als XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XML saveformat., Free Online XLAM to XML Converter]
+title: C++ XLAM zu XML - XLAM zu XML-Konverter
+description: Aspose Excel. Konvertieren Sie XLAM schnell und einfach in XML mit Aspose.Cells. C++ XLAM in XML. C++ Speichern Sie XLAM in XML. Speichern Sie XLAM als XML mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to XML in C++., Save XLAM to XML using C++., C++ XLAM to XML saveformat., XLAM to XML Converter., C++ Save XLAM as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLAM in XML in C++" h2="Leistungsstarke XLAM-zu-XML-Konvertierung mithilfe der C++-Bibliothek, ohne dass Microsoft eine Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XML saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLAM mit C++ in XML" %}}
 
- Wie konvertiere ich XLAM in XML? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in XML konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich XLAM in XML? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in XML konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM kostenlos in XML in C++ online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM als XML in C++" %}}
 
 Das folgende Beispiel zeigt, wie XLAM in C++ in XML konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XLAM in XML zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLAM in XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLAM in XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLAM über C++ in XML" %}}
 
@@ -49,7 +49,7 @@ Müssen Sie XLAM-Dateien programmgesteuert in XML konvertieren? C++-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLAM mit Factory::CreateIWorkbook.
+1.  Laden Sie die Datei XLAM mithilfe der Arbeitsmappe.
 1.  Konvertieren Sie XLAM in XML, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLAM in XML.
 
@@ -82,6 +82,12 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM ist eine makrofähige Add-In-Datei, die zum Hinzufügen neuer Funktionen zu Tabellenkalkulationen verwendet wird. Ein Add-In ist ein Zusatzprogramm, das zusätzlichen Code ausführt und zusätzliche Funktionen für Tabellenkalkulationen bereitstellt. XLAM-Dateien werden mit der Erweiterung .xlam gespeichert. XLAM-Dateien sind XML-basierte Dateien, die den Dateiformaten XLSM und XLSX ähneln und mit ZIP-Komprimierung gespeichert werden, um die Gesamtdateigröße zu reduzieren.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML steht für Extensible Markup Language, die HTML ähnelt, sich jedoch durch die Verwendung von Tags zum Definieren von Objekten unterscheidet. Die gesamte Idee hinter der Erstellung des XML-Dateiformats bestand darin, Daten zu speichern und zu transportieren, ohne auf Software- oder Hardware-Tools angewiesen zu sein. Seine Beliebtheit ist darauf zurückzuführen, dass es sowohl für Menschen als auch für Maschinen lesbar ist. Dadurch ist es möglich, gemeinsame Datenprotokolle in Form von Objekten zu erstellen, die über Netzwerke wie das World Wide Web (WWW) gespeichert und geteilt werden. Das „X“ in XML steht für erweiterbar, was bedeutet, dass die Sprache je nach Benutzeranforderungen auf eine beliebige Anzahl von Symbolen erweitert werden kann. Für diese Funktionen nutzen es viele Standarddateiformate wie Microsoft Open XML, LibreOffice OpenDocument, XHTML und SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können XLAM auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 
@@ -95,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM BIS PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM BIS PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM BIS SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM BIS TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM BIS TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM BIS TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM BIS XLS" description="Excel-Binärformat" >}}

@@ -1,8 +1,8 @@
 ---
-title: Python XLSM-Datei reparieren - XLSM-Datei kostenlos online reparieren
+title: Python XLSM reparieren – Beschädigte XLSM-Datei wiederherstellen und reparieren
 url: /de/python-net/recovery/repair-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Python XLSM-Datei reparieren. Kostenloses Online-XLSM-Reparaturtool. Reparieren Sie eine beschädigte XLSM-Datei. Stellen Sie eine beschädigte XLSM-Datei in der Anwendung Python wieder her.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells. Reparatur xlsm. XLSM-Datei reparieren. XLSM-Wiederherstellungstool. XLSM-Korruption. XLSM-Daten wiederherstellen. Wiederherstellung von XLSM-Dateien. Stellen Sie die beschädigte XLSM-Datei wieder her.
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLSM in Python" h2="Erstellen Sie Ihre eigene Python-Anwendung, um XLSM-Dateien mit Python zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLSM mit Python" %}}
 
- Wie repariere ich eine XLSM-Datei? Mit der Bibliothek Aspose.Cells for Python können Sie die Datei XLSM ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Wie repariere ich eine XLSM-Datei? Mit der Bibliothek Aspose.Cells for Python können Sie die Datei XLSM ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -27,19 +27,19 @@ Müssen Sie die XLSM-Datei programmgesteuert reparieren? Python-Entwickler könn
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLSM, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLSM, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLSM-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python-Bibliothek zum Reparieren der XLSM-Datei" %}}
 
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
  Aspose.Cells for Python wird auf allen gängigen Betriebssystemen unterstützt. Stellen Sie einfach sicher, dass Sie die folgenden Voraussetzungen erfüllen.
  
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

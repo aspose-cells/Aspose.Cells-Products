@@ -1,7 +1,7 @@
 ---
-title: XLAM in OTS – Konvertieren Sie XLAM in die OTS-Dateien C++
-description: Aspose Excel. Kostenlose Online-Konvertierung von XLAM in das OTS-Speicherformat. C++ XLAM in das OTS-Format. Speichern Sie XLAM als OTS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to OTS saveformat., Free Online XLAM to OTS Converter]
+title: C++ XLAM zu OTS - XLAM zu OTS Konverter
+description: Aspose Excel. Konvertieren Sie XLAM schnell und einfach in OTS mit Aspose.Cells. C++ XLAM in OTS. C++ Speichern Sie XLAM in OTS. Speichern Sie XLAM als OTS unter C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to OTS in C++., Save XLAM to OTS using C++., C++ XLAM to OTS saveformat., XLAM to OTS Converter., C++ Save XLAM as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLAM in OTS in C++" h2="Leistungsstarke XLAM-zu-OTS-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Microsoft-Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to OTS saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLAM in OTS mit C++" %}}
 
- Wie konvertiere ich XLAM in OTS? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich XLAM in OTS? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM bei OTS in C++ kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM bei OTS in C++" %}}
 
 Das folgende Beispiel zeigt, wie XLAM in OTS in C++ konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XLAM in OTS umzuwandeln. Laden Sie Ihre 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLAM in OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="ots" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLAM in OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="ots" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLAM über C++ in OTS" %}}
 
@@ -49,8 +49,8 @@ Müssen Sie XLAM-Dateien programmgesteuert in OTS konvertieren? C++-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLAM mit Factory::CreateIWorkbook.
-1.  Konvertieren Sie XLAM in OTS, indem Sie die Save()-Methode aufrufen.
+1.  Laden Sie die Datei XLAM mithilfe der Arbeitsmappe.
+1. Konvertieren Sie XLAM in OTS, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLAM in OTS.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,6 +82,12 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM ist eine makrofähige Add-In-Datei, die zum Hinzufügen neuer Funktionen zu Tabellenkalkulationen verwendet wird. Ein Add-In ist ein Zusatzprogramm, das zusätzlichen Code ausführt und zusätzliche Funktionen für Tabellenkalkulationen bereitstellt. XLAM-Dateien werden mit der Erweiterung .xlam gespeichert. XLAM-Dateien sind XML-basierte Dateien, die den Dateiformaten XLSM und XLSX ähneln und mit ZIP-Komprimierung gespeichert werden, um die Gesamtdateigröße zu reduzieren.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Eine Datei mit der Erweiterung .ots ist eine OpenDocument Spreadsheet-Vorlagendatei, die mit der in Apache OpenOffice enthaltenen Calc-Anwendungssoftware erstellt wird. Die Calc-Anwendungssoftware ähnelt Excel und ist in Microsoft Office verfügbar. Das OTS-Dateiformat wird zum Erstellen von Vorlagen verwendet, die vordefinierte Einstellungen in Bezug auf Stile, Schriftart, Daten, Tabellenlayout und Formatierung enthalten. OTF-Dateien haben den Mime-Typ application/vnd.oasis.opendocument.spreadsheet-template. Diese Vorlagendateien können als Ausgangspunkt zum Generieren und Speichern tatsächlicher Datendateien verwendet werden, die im Dateiformat ODS gespeichert werden. OTS-Dateien können mit Anwendungen wie OpenOffice und LibreOffice verwendet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können XLAM auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 
@@ -95,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM BIS PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM BIS PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM BIS SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM BIS TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM BIS TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM BIS TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM BIS XLS" description="Excel-Binärformat" >}}

@@ -1,8 +1,8 @@
 ---
 title: Sloučit HTM s MARKDOWN - Sloučit HTM s MARKDOWN v Python
 url: /cs/python-net/merger/merge-htm-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Online zdarma sloučit HTM do MARKDOWN saveformat. Python Zkombinujte HTM do formátu MARKDOWN. Sloučit HTM na MARKDOWN v Python. HTM Sloučit.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MARKDOWN in Python., Free Online Python Merge HTM to markdown., Python Combine HTM to MARKDOWN Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Sloučit HTM do formátu uložení MARKDOWN. Python Zkombinujte HTM do formátu MARKDOWN. Sloučit HTM na MARKDOWN v Python. HTM Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MARKDOWN in Python., Python Merge HTM to markdown., Python Combine HTM to MARKDOWN., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit HTM na MARKDOWN přes Python" h2="Vysokorychlostní knihovna Python pro sloučení HTM do MARKDOWN. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MARKDOWN in Python.
 
 {{% blocks/products/pf/agp/content h2="Sloučit HTM na MARKDOWN pomocí Python" %}}
 
- Jak sloučím HTM s MARKDOWN? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit HTM do MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Jak sloučím HTM s MARKDOWN? S knihovnou Aspose.Cells for Python via .NET můžete snadno sloučit HTM do MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Můžete nainstalovat Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit HTM na MARKDOWN v Python online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit HTM na MARKDOWN v Python" %}}
 
 Následující příklad ukazuje, jak sloučit HTM s MARKDOWN v Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro sloučení HTM do MARKDOWN. Nahrajte s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení HTM na MARKDOWN v Python" InputFormat="htm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení HTM s MARKDOWN v Python" InputFormat="htm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit HTM na MARKDOWN přes Python" %}}
 
@@ -52,7 +52,7 @@ Potřebujete sloučit HTM na MARKDOWN programově? Základní dokument, který s
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

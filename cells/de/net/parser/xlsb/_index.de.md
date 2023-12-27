@@ -2,6 +2,7 @@
 title:  Extrahieren Sie Text und Bilder aus dem Dokument XLSB via .NET
 weight: 2200
 description: C#-Quellcode zum Extrahieren von Text und Bildern aus der XLSB-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How to Parse XLSB File., c# Extract text from XLSB file., Extract images from XLSB file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Analysieren Sie XLSB-Formate in C#" h2="Natives und leistungsstarkes XLSB Parsen von Dokumenten mithilfe serverseitiger Aspose.Cells for .NET APIs, ohne die Verwendung von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}

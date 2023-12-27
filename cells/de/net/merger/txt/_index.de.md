@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .N
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre TXT-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort zusammengeführt und verkettet." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

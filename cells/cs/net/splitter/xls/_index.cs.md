@@ -2,6 +2,7 @@
 title:  Rozdělit XLS Soubory via .NET
 weight: 1340
 description: C# zdrojový kód pro rozdělení XLS dokumentů na platformách .NET, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., C# split xls files., C# how to split xls files into multiple files., C# xls splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Rozdělit XLS Formáty v C#" h2="Nativní a vysoce výkonný rozbočovač XLS využívající rozhraní API na straně serveru, bez použití jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}

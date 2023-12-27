@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument ODS bez otevření via .NET
 weight: 160
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# search words with pattern in ods file., c# find words with pattern in ods file., c# search string with pattern in ods file., c# find words with pattern in ods file., c# search words in ods file., c# find words in ods file., c# search string in ods file., c# find string in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte ODS Formáty v C#" h2="Nativní a vysoce výkonné ODS prohledávání dokumentů pomocí serverových Aspose.Cells for .NET API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -13,7 +14,7 @@ description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru ODS n
 
  K vyhledání souboru ODS použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells** 

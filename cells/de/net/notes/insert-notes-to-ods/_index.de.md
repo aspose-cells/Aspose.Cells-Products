@@ -2,6 +2,7 @@
 title: Fügen Sie Notizen zur Datei ODS via .NET ein
 url: /de/net/notes/insert-notes-to-ods/ 
 description: Fügen Sie Notizen zu ODS mit C# ein. Verwenden Sie den Beispielcode API, um Notizen in die Anwendung .NET einzufügen.
+keywords: [C# Aspose.Cells., add ODS notes., insert ODS notes., access ODS notes., remove ODS notes., delete ODS notes., add notes in ODS., insert notes in ODS., access notes in ODS., remove notes in ODS., delete notes in ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Notizen über C# in die Datei ODS ein" h2="Erstellen Sie Ihre eigene .NET-Anwendung, um Kommentare und Autoren in Dokumentdateien mithilfe serverseitiger APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Fügen Sie Notizen zu ODS mit C# ein. Verwenden Sie den Beispielcod
 
 {{% blocks/products/pf/agp/content h2="Fügen Sie Notizen in die Datei ODS mit .NET ein" %}}
 
- Mit der Bibliothek Aspose.Cells for .NET können Sie mit wenigen Codezeilen ganz einfach programmgesteuert Notizen in die Datei ODS einfügen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Mit der Bibliothek Aspose.Cells for .NET können Sie mit wenigen Codezeilen ganz einfach programmgesteuert Notizen in die Datei ODS einfügen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 

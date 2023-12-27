@@ -1,7 +1,8 @@
 ---
-title:  Wasserzeichen XLSB Dokument via Java
+title: Wasserzeichen XLSB Dokument via Java
 weight: 5900
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur Datei XLSB in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Textwasserzeichen zu XLSB via Java hinzu" h2="Erstellen Sie mithilfe serverseitiger APIs Ihre eigenen Java-Apps, um XLSB-Dateien mit Wasserzeichen zu versehen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

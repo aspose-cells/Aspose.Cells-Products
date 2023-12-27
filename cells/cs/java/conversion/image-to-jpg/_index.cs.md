@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to JPG - Online převodník IMAGE to JPG
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést OBRÁZEK do formátu pro uložení JPG. Java OBRÁZEK do formátu JPG. Uložit IMAGE do JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to JPG saveformat., Free Online IMAGE to JPG Java., Java Convert IMAGE to JPG]
+title: Java IMAGE to JPG - IMAGE to JPG Converter
+description: Aspose Excel. Převeďte OBRÁZEK na JPG rychle a snadno pomocí Aspose.Cells. Java OBRÁZEK na JPG. Java Uložit OBRÁZEK do JPG. Uložte IMAGE jako JPG pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to JPG in Java., Save IMAGE to JPG using Java., Java IMAGE to JPG saveformat., IMAGE to JPG Converter., Java Save IMAGE as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést IMAGE na JPG v Java" h2="Vysokorychlostní knihovna Java pro převod IMAGE do JPG. Jedná se o profesionální softwarové řešení pro import a export IMAGE, JPG a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte OBRÁZEK na JPG pomocí Java" %}}
 
- Jak převedu IMAGE na JPG? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu IMAGE na JPG? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit OBRÁZEK do JPG na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte IMAGE do JPG na Java" %}}
 
 Následující příklad ukazuje, jak převést IMAGE na JPG v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod IMAGE na JPG. Nahrajte svůj I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OBRÁZKU na JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod OBRÁZKU na JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést IMAGE na JPG via Java" %}}
 

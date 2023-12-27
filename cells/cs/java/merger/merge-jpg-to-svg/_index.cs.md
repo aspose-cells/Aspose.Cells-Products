@@ -1,8 +1,8 @@
 ---
 title: Sloučit JPG s SVG - Sloučit JPG s SVG v Java
 url: /cs/java/merger/merge-jpg-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Online zdarma Sloučit JPG do formátu uložení SVG. Java Zkombinujte JPG do formátu SVG. Sloučit JPG na SVG v Java. Sloučit JPG.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Free Online Java Merge JPG to svg., Java Combine JPG to SVG Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Sloučit JPG do formátu uložení SVG. Java Zkombinujte JPG do formátu SVG. Sloučit JPG na SVG v Java. Sloučit JPG.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Java Merge JPG to svg., Java Combine JPG to SVG., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit JPG na SVG via Java" h2="Vysokorychlostní knihovna Java pro sloučení JPG do SVG. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Sloučit JPG do SVG pomocí Java" %}}
 
- Jak sloučím JPG s SVG? S knihovnou Aspose.Cells for Java můžete snadno sloučit JPG do SVG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím JPG s SVG? S knihovnou Aspose.Cells for Java můžete snadno sloučit JPG do SVG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SVG in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit JPG na SVG v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit JPG na SVG v Java" %}}
 
 Následující příklad ukazuje, jak sloučit JPG s SVG v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro sloučení JPG do SVG. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení JPG na SVG v Java" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení JPG do SVG v Java" InputFormat="jpg" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit JPG na SVG via Java" %}}
 

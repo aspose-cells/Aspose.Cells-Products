@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument ODS via Java
 weight: 5080
 description: Java Beispielcode zum Entsperren der passwortgeschützten ODS-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java unlock ODS files., Java how to unlock ODS document., Java unprotect ODS files., remove protection from ODS files., decrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie ODS Dateien via Java" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei ODS mithilfe der Bibliothek Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -73,7 +74,7 @@ description: Java Beispielcode zum Entsperren der passwortgeschützten ODS-Datei
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Entsperren Sie ODS-Dateien über C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Entsperren Sie ODS Dateien via Java" offSpacer="" %}}
 
 ```cs
 

@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL do JPG - Online převodník EXCEL do JPG
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převod EXCEL do formátu JPG. Java EXCEL do formátu JPG. Uložte EXCEL do JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to JPG saveformat., Free Online EXCEL to JPG Java., Java Convert EXCEL to JPG]
+title: Java EXCEL do JPG - Převodník EXCEL do JPG
+description: Aspose Excel. Převeďte EXCEL na JPG rychle a snadno pomocí Aspose.Cells. Java EXCEL na JPG. Java Uložit EXCEL do JPG. Uložte EXCEL jako JPG pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to JPG in Java., Save EXCEL to JPG using Java., Java EXCEL to JPG saveformat., EXCEL to JPG Converter., Java Save EXCEL as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na JPG v Java" h2="Vysokorychlostní knihovna Java pro převod EXCELu do JPG. Jedná se o profesionální softwarové řešení pro import a export EXCEL, JPG a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte EXCEL na JPG pomocí Java" %}}
 
- Jak převedu EXCEL do JPG? S knihovnou Aspose.Cells for Java můžete snadno převést EXCEL na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu EXCEL do JPG? S knihovnou Aspose.Cells for Java můžete snadno převést EXCEL na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit EXCEL do JPG v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte EXCEL do JPG v Java" %}}
 
 Následující příklad ukazuje, jak převést EXCEL na JPG v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod EXCELu na JPG. Nahrajte soubor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL na JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod EXCELu na JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL na JPG via Java" %}}
 
@@ -70,7 +70,7 @@ Potřebujete převést soubory EXCEL do JPG programově? Java vývojáři mohou 
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
 1.  Načtěte soubor EXCEL s instancí třídy Workbook.
 1.  Převeďte EXCEL na JPG voláním metody Workbook.save.
-1.  Získejte výsledek převodu EXCELu do JPG.
+1. Získejte výsledek převodu EXCELu do JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Sloučit XML s SXC – Zkombinovat XML s SXC v Java
 url: /cs/java/merger/merge-xml-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Online zdarma Sloučit XML do formátu uložení SXC. Java Zkombinujte XML do formátu SXC. Sloučit XML na SXC v Java. Sloučit XML.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to SXC in Java., Free Online Java Merge XML to sxc., Java Combine XML to SXC Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Sloučit XML do formátu uložení SXC. Java Zkombinujte XML do formátu SXC. Sloučit XML na SXC v Java. Sloučit XML.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to SXC in Java., Java Merge XML to sxc., Java Combine XML to SXC., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XML na SXC via Java" h2="Vysokorychlostní knihovna Java pro sloučení XML do SXC. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="SXC" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to SXC in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Sloučit XML do SXC pomocí Java" %}}
 
-Jak sloučím XML do SXC? S knihovnou Aspose.Cells for Java můžete snadno sloučit XML do SXC programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím XML do SXC? S knihovnou Aspose.Cells for Java můžete snadno sloučit XML do SXC programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak sloučím XML do SXC? S knihovnou Aspose.Cells for Java můžete snadno slou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XML na SXC v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XML na SXC v Java" %}}
 
 Následující příklad ukazuje, jak sloučit XML do SXC v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Postupujte podle jednoduchých kroků pro sloučení XML do SXC. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XML na SXC v Java" InputFormat="xml" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XML do SXC v Java" InputFormat="xml" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XML na SXC via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Potřebujete programově sloučit XML s SXC? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Potřebujete programově sloučit XML s SXC? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,7 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Java lze také sloučit xml do mnoha dalších formátů souborů včetně." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Java lze také sloučit xml s mnoha dalšími formáty souborů včetně." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-docx/" name="Sloučit XML na DOCX" description="Microsoft dokument aplikace Word" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-sql/" name="Sloučit XML do SQL" description="strukturovaný dotazovací jazyk" >}}

@@ -2,6 +2,7 @@
 title:  Bearbeiten oder Anzeigen von ODS-Dateimetadaten via Java
 weight: 2080
 description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im ODS-Format in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java view ods metadata., Java add ods metadata., Java insert ods metadata., Java edit ods metadata., Java remove ods metadata., Java extract ods metadata., Java modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie ODS-Metadaten via Java" h2="Erstellen Sie Ihre eigenen Java-Apps, um mithilfe serverseitiger APIs Metadaten aus ODS-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im ODS
 
  Um ODS-Dateimetadaten zu erhalten, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
+ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 

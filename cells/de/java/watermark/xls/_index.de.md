@@ -1,7 +1,8 @@
 ---
-title:  Wasserzeichen XLS Dokument via Java
+title: Wasserzeichen XLS Dokument via Java
 weight: 2210
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur Datei XLS in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Textwasserzeichen zu XLS via Java hinzu" h2="Erstellen Sie mithilfe serverseitiger APIs Ihre eigenen Java-Apps, um XLS-Dateien mit Wasserzeichen zu versehen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

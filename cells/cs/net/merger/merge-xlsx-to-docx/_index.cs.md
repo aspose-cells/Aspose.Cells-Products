@@ -1,8 +1,8 @@
 ---
 title: Sloučit XLSX až DOCX - Sloučit XLSX až DOCX v C#
 url: /cs/net/merger/merge-xlsx-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Online sloučení zdarma XLSX do formátu uložení DOCX. C# Kombinujte formát XLSX až DOCX. Sloučit XLSX až DOCX v C#. XLSX Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to DOCX in C#., Free Online C# Merge XLSX to docx., C# Combine XLSX to DOCX Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit XLSX do DOCX uložit formát. C# Kombinujte formát XLSX až DOCX. Sloučit XLSX až DOCX v C#. XLSX Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to DOCX in C#., C# Merge XLSX to docx., C# Combine XLSX to DOCX., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLSX na DOCX přes C#" h2="Vysokorychlostní knihovna C# pro sloučení XLSX do DOCX. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to DOCX in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLSX až DOCX pomocí C#" %}}
 
- Jak sloučím XLSX do DOCX? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLSX na DOCX programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím XLSX do DOCX? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLSX na DOCX programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XLSX až DOCX v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XLSX až DOCX v C#" %}}
 
 Následující příklad ukazuje, jak sloučit XLSX až DOCX v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení XLSX do DOCX. Nahrajte své
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XLSX až DOCX v C#" InputFormat="xlsx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XLSX až DOCX v C#" InputFormat="xlsx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLSX na DOCX přes C#" %}}
 

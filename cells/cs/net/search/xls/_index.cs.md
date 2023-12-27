@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument XLS bez otevření via .NET
 weight: 1490
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# search words with pattern in xls file., c# find words with pattern in xls file., c# search string with pattern in xls file., c# find words with pattern in xls file., c# search words in xls file., c# find words in xls file., c# search string in xls file., c# find string in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte XLS Formáty v C#" h2="Nativní a vysoce výkonné XLS prohledávání dokumentů pomocí serverových Aspose.Cells for .NET API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru XLS n
 
  K vyhledání souboru XLS použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells** 

@@ -1,8 +1,8 @@
 ---
 title: XLT mit POWERPOINT zusammenführen - XLT mit POWERPOINT in Python kombinieren
 url: /de/python-net/merger/merge-xlt-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von XLT in das POWERPOINT-Speicherformat. Python Kombinieren Sie XLT mit dem POWERPOINT-Format. XLT mit POWERPOINT in Python zusammenführen. XLT Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Free Online Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. XLT in das POWERPOINT-Speicherformat zusammenführen. Python Kombinieren Sie XLT mit dem POWERPOINT-Format. XLT mit POWERPOINT in Python zusammenführen. XLT Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT über Python mit POWERPOINT zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von XLT mit POWERPOINT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Pytho
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLT mit Python in POWERPOINT zusammen" %}}
 
- Wie füge ich XLT mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie XLT mit wenigen Codezeilen ganz einfach programmgesteuert in POWERPOINT einbinden.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+Wie füge ich XLT mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie XLT mit wenigen Codezeilen ganz einfach programmgesteuert in POWERPOINT einbinden.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie XLT kostenlos online mit POWERPOINT in Python zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie XLT mit POWERPOINT in Python zusammen" %}}
 
 Das folgende Beispiel zeigt, wie XLT mit POWERPOINT in Aspose.Cells for Python via .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um XLT mit POWERPOINT zusammenzuführen. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von XLT mit POWERPOINT in Python" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XLT mit POWERPOINT in Python" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XLT über Python mit POWERPOINT zusammen" %}}
 
@@ -52,7 +52,7 @@ Befolgen Sie die einfachen Schritte, um XLT mit POWERPOINT zusammenzuführen. La
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -80,7 +80,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Dateien mit der Erweiterung .xlt sind Vorlagendateien, die mit Microsoft Excel erstellt wurden, einer Tabellenkalkulationsanwendung, die Teil der Office-Suite Microsoft ist. Microsoft Office 97-2003 unterstützte das Erstellen neuer XLT Dateien sowie das Öffnen dieser Dateien. Die neueste Version von Excel ist immer noch in der Lage, diese Vorlagendateien im alten Format zu öffnen. Eine solche Vorlagendatei wird verwendet, um schnell neue Excel-Dateien mit Standarddaten und -einstellungen wie Seitenformatierung, Schriftgröße, Rändern, Diagrammen usw. zu erstellen, die dann als neue XLS-Dateien gespeichert werden können.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

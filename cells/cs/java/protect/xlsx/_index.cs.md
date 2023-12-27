@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte XLSX dokument via Java
+title:  Chraňte a uzamkněte XLSX dokument via Java
 weight: 1870
 description: Java ukázkový kód pro uzamčení souboru XLSX pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Lock XLSX files., Java How to Protect and lock XLSX document., Java Protect XLSX files., Encrypt XLSX Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat XLSX Soubory via Java" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSX pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -111,7 +112,7 @@ wkb.save("lockedFile.xlsx");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSX" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSX soubory](https://products.aspose.app/cells/protect/xlsx) s následujícími výhodami." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSX" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSX](https://products.aspose.app/cells/protect/xlsx) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSX a stisknout tlačítko „Odemknout“." >}}

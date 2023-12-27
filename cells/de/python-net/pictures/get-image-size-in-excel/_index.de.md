@@ -2,6 +2,7 @@
 title: Ermitteln Sie die Größe von Bildern/Bildern in Excel mit Python via .Net
 weight: 10
 description: Ermittelt die Größe von Bildern/Bildern in Excel mithilfe von Aspose.Cells' Python via .Net API ohne Software wie Microsoft oder Open Office, Adobe PDF usw.
+keywords: [Python via .NET Aspose.Cells., Python via .NET Get Images/Pictures Size In Excel., Python via .NET Obtain Images/Pictures Size In Excel., Python via .NET Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ermitteln Sie die Größe von Bildern/Bildern in Excel mit Python via .Net" h2="Verwenden von Aspose.Cells\' API zum Arbeiten mit verschiedenen Objekten ohne Software wie Microsoft oder Open Office, Adobe PDF usw." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Ermittelt die Größe von Bildern/Bildern in Excel mithilfe von Asp
 
  Um die Größe von Bildern/Bildern in einer Excel-Datei zu erhalten, verwenden wir
  [Aspose.Cells for Python über .Net](https://pypi.org/project/aspose-cells-python/) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -44,7 +45,7 @@ Sie benötigen die Aspose.Cells, um den folgenden Workflow in Ihrer eigenen Umge
     + [Breite](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/width/) Stellt die Breite der Form in der Einheit Pixel dar.
     + [Höhe](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/height/) Stellt die Höhe der Form in der Einheit Pixel dar.
     + [OriginalBreite](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_width/) Ruft die ursprüngliche Breite des Bildes in Pixeleinheiten ab.
-    + [Originalhöhe](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/) Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
+    + [Originalhöhe](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/)Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -94,7 +95,7 @@ Aspose.Cells API kann plattformübergreifende Anwendungen erstellen, kann zum Er
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

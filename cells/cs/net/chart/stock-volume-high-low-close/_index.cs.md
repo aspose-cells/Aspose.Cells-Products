@@ -1,6 +1,7 @@
 ---
 title: Vytvářejte objemové-vysoké-nízké-zavřené akciové grafy prostřednictvím C#
 description: C# Ukázkový kód pro vytváření akciových grafů Objem-Vysoký-Nízký-Zavřít do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření akciového grafu Objem-Vysoký-Nízký-Zavřít do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Volume-High-Low-Close Stock Chart., c# insert Volume-High-Low-Close Stock Chart., c# create Volume-High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

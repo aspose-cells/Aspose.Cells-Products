@@ -2,6 +2,7 @@
 title:  Generieren Sie Berichte in ODS-Dateien via Java
 weight: 2440
 description: Java Beispielcode zum Erstellen von Berichten im ODS-Format zur Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Create ODS Reports Based on Predesigned Excel Template., Java Generate ODS Reports Based on Predesigned Excel Template., Java Create ODS Reports Based on Excel Template., Java Generate ODS Reports Based on Excel Template., Java Create ODS files Based on Excel Template., Java Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Massenberichterstellung im ODS-Format via Java" h2="Erstellen Sie Berichte im Format ODS mithilfe einer Datenquelle und einer Vorlage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -75,9 +76,9 @@ description: Java Beispielcode zum Erstellen von Berichten im ODS-Format zur Jav
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generieren Sie Excel-Berichte im Format ODS – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generieren Sie Excel-Berichte im Format ODS – Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

@@ -1,8 +1,8 @@
 ---
-title: Python XLSX-Datei reparieren - XLSX-Datei kostenlos online reparieren
+title: Python XLSX reparieren – Beschädigte XLSX-Datei wiederherstellen und reparieren
 url: /de/python-java/recovery/repair-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Python XLSX-Datei reparieren. Kostenloses Online-XLSX-Reparaturtool. Reparieren Sie eine beschädigte XLSX-Datei. Stellen Sie eine beschädigte XLSX-Datei in der Anwendung Python wieder her.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Free Online Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Python Aspose.Cells. Reparatur xlsx. XLSX-Datei reparieren. XLSX-Wiederherstellungstool. XLSX-Korruption. XLSX-Daten wiederherstellen. Wiederherstellung von XLSX-Dateien. Stellen Sie die beschädigte XLSX-Datei wieder her.
+keywords: [Python Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLSX in Python" h2="Erstellen Sie Ihre eigene Python-Anwendung, um XLSX-Dateien mit Python zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLSX mit Python" %}}
 
- Wie repariere ich eine XLSX-Datei? Mit der Bibliothek Aspose.Cells for Python können Sie die Datei XLSX ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Wie repariere ich eine XLSX-Datei? Mit der Bibliothek Aspose.Cells for Python können Sie die Datei XLSX ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -27,12 +27,12 @@ Müssen Sie die XLSX-Datei programmgesteuert reparieren? Python-Entwickler könn
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLSX, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLSX, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLSX-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python-Bibliothek zum Reparieren der XLSX-Datei" %}}
 
@@ -55,7 +55,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
  
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

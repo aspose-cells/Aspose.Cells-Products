@@ -1,7 +1,7 @@
 ---
 title: Vytvořit PNG - Vytvořit soubor PNG v Python
-description: Aspose Excel. Python Vytvořte soubor PNG. Vytvořit PNG Python. Python PNG Tvůrce. Vytvořte PNG v Python. Vygenerujte soubor PNG pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG Creater., Create PNG file in Python., Generate PNG file in Python]
+description: Aspose Excel. Python Vytvořte PNG Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor PNG pomocí Python. Vytvořte PNG v Python. 0761831981 0761831983
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create PNG file., Generate PNG file in Python., Create PNG file using Python., Write data to PNG file via Python., Create a PNG file in Python., Python Generate a PNG file., Python PNG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor PNG v Python" h2="Vysokorychlostní knihovna Python pro vytváření souboru PNG. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG C
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor PNG pomocí Python" %}}
 
- Jak vytvořit soubor PNG? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit soubor PNG? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG C
 1.  Vytvořte instanci třídy Sešit.
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a zadejte hodnotu do buněk.
-1. Pomocí metody Uložit uložte sešit jako soubor PNG.
+1.  Pomocí metody Uložit uložte sešit jako soubor PNG.
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor PNG v Python." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.png")
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

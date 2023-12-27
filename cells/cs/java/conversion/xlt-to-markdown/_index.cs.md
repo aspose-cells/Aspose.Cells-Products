@@ -1,7 +1,7 @@
 ---
-title: Java XLT až MARKDOWN - Online konvertor XLT až MARKDOWN
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLT na MARKDOWN uložit formát. Java XLT až MARKDOWN formát. Uložte si XLT až MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to MARKDOWN saveformat., Free Online XLT to MARKDOWN Java., Java Convert XLT to MARKDOWN]
+title: Java XLT až MARKDOWN - XLT až MARKDOWN Převodník
+description: Aspose Excel. Převeďte XLT na MARKDOWN rychle a snadno pomocí Aspose.Cells. Java XLT na MARKDOWN. Java Ušetřete XLT na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to MARKDOWN in Java., Save XLT to MARKDOWN using Java., Java XLT to MARKDOWN saveformat., XLT to MARKDOWN Converter., Java Save XLT as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLT na MARKDOWN na Java" h2="Vysokorychlostní knihovna Java pro převod XLT na MARKDOWN. Jedná se o profesionální softwarové řešení pro import a export XLT, MARKDOWN a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to MA
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLT na MARKDOWN pomocí Java" %}}
 
-Jak převedu XLT na MARKDOWN? S knihovnou Aspose.Cells for Java můžete snadno převést XLT na MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLT na MARKDOWN? S knihovnou Aspose.Cells for Java můžete snadno převést XLT na MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLT na MARKDOWN? S knihovnou Aspose.Cells for Java můžete snadno 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLT až MARKDOWN v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLT až MARKDOWN v Java" %}}
 
 Následující příklad ukazuje, jak převést XLT na MARKDOWN v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLT na MARKDOWN. Nahrajte svů
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLT na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLT na MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLT na MARKDOWN via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLT na MARKDOWN programově? Vývojáři Java moh
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLT s instancí třídy Workbook.
+1. Načtěte soubor XLT s instancí třídy Workbook.
 1.  Převeďte XLT na MARKDOWN voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLT na MARKDOWN.
 

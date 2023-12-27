@@ -1,8 +1,8 @@
 ---
 title: HTML mit ET zusammenführen – HTML mit ET in C# kombinieren
 url: /de/net/merger/merge-html-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von HTML in das ET-Speicherformat. C# Kombinieren Sie HTML zum ET-Format. HTML mit ET in C# zusammenführen. HTML Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ET in C#., Free Online C# Merge HTML to et., C# Combine HTML to ET Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. HTML in das ET-Speicherformat zusammenführen. C# Kombinieren Sie HTML zum ET-Format. HTML mit ET in C# zusammenführen. HTML Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ET in C#., C# Merge HTML to et., C# Combine HTML to ET., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML über C# mit ET zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von HTML mit ET. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ET in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Führen Sie HTML mit C# zu ET zusammen" %}}
 
- Wie füge ich HTML mit ET zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTML mit ein paar Codezeilen ganz einfach programmgesteuert mit ET zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich HTML mit ET zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTML mit ein paar Codezeilen ganz einfach programmgesteuert mit ET zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTML kostenlos online mit ET in C# zusammen" %}}
+{{% blocks/products/pf/agp/content h2="HTML mit ET in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie HTML mit ET in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um HTML mit ET zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um HTML mit ET in C# zusammenzuführen" InputFormat="html" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTML mit ET in C#" InputFormat="html" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTML über C# mit ET zusammen" %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Převést XLSX na PDF/A Complied Files via Java
+title:  Převést XLSX na PDF/A Complied Files via Java
 weight: 3200
 description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do souborů PDFA v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
@@ -11,7 +11,7 @@ description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. 
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSX na PDF/A pomocí Java" %}}
 
- K vykreslení XLSX na PDF/A použijeme
+ vykreslení XLSX na PDF/A použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, což je funkčně bohatá, výkonná a snadno použitelná konverzní platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -58,7 +58,7 @@ description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Načtěte soubor XLSX s instancí třídy Workbook
-1. Vytvořte objekt třídy PdfSaveOptions
+1.  Vytvořte objekt třídy PdfSaveOptions
 1.  Nastavte typ shody PdfCompliance.PdfA1b
 1.  Zavolejte metodu Workbook.save
 1.  Předat výstupní cestu s rozšířením PDF a objektem PdfSaveOptions jako parametry
@@ -95,12 +95,12 @@ description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. 
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX až PDF Živá ukázka konverzí" sectionDescription="[Převeďte XLSX na PDF](https://products.aspose.app/cells/conversion/xlsx-to-pdf) právě teď na naší webové stránce s živými ukázkami. Živá ukázka má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor XLSX, bude okamžitě převeden na PDF." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát svůj soubor XLSX, bude okamžitě převeden na PDF." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Dostanete odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Knihovna pro manipulaci s tabulkami" %}}
 
-Excel API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+ Excel API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 

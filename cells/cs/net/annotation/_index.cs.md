@@ -1,6 +1,7 @@
 ---
-title: Anotace souboru Excel NET C#
+title: Přidat nebo odebrat anotace souboru Excel NET C#
 description: Přidejte nebo odeberte datovou anotaci tabulek Excelu a OpenOffice pomocí několika řádků kódu C#.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Odebrat Microsoft<sup>&reg;</sup> Anotace souboru Excel via .NET" h2="Přidejte nebo odstraňte anotace souborů Excel pomocí kódu C# v aplikacích založených na .NET." >}}

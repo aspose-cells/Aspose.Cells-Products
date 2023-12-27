@@ -1,6 +1,7 @@
 ---
 title: Erstellen Sie Streudiagramme über C#
 description: C# Beispielcode zum Erstellen von Streudiagrammen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Erstellen eines Streudiagramms für MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

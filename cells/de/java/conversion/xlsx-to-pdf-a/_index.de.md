@@ -1,5 +1,5 @@
 ---
-title: Konvertieren Sie XLSX in PDF/A-kompatible Dateien via Java
+title:  Konvertieren Sie XLSX in PDF/A-kompatible Dateien via Java
 weight: 3200
 description: Beispiel für den Konvertierungscode Java für das Format XLSX in PDF A Complied Files. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in PDFA-kompatible Dateien in jeder Web- oder Desktop-basierten Anwendung zu exportieren.
 ---
@@ -11,7 +11,7 @@ description: Beispiel für den Konvertierungscode Java für das Format XLSX in P
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSX mit Java in PDF/A" %}}
 
- Um XLSX in PDF/A zu rendern, verwenden wir
+Um XLSX in PDF/A zu rendern, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Konvertierungsplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -58,7 +58,7 @@ description: Beispiel für den Konvertierungscode Java für das Format XLSX in P
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Laden Sie die Datei XLSX mit einer Instanz der Workbook-Klasse
-1. Erstellen Sie ein PDFSaveOptions-Klassenobjekt
+1.  Erstellen Sie ein PDFSaveOptions-Klassenobjekt
 1.  Legen Sie den Compliance-Typ PdfCompliance.PdfA1b fest
 1.  Rufen Sie die Workbook.save-Methode auf
 1.  Übergeben Sie den Ausgabepfad mit der Erweiterung PDF und dem PdfSaveOptions-Objekt als Parameter
@@ -95,12 +95,12 @@ description: Beispiel für den Konvertierungscode Java für das Format XLSX in P
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX bis PDF Konvertierungs-Live-Demos" sectionDescription="[Konvertieren Sie XLSX in PDF](https://products.aspose.app/cells/conversion/xlsx-to-pdf) Besuchen Sie jetzt unsere Live-Demos-Website. Die Live-Demo bietet die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSX-Datei hoch, sie wird sofort in PDF konvertiert." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre XLSX-Datei hoch, sie wird sofort in PDF konvertiert." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sie erhalten den Download-Link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Bibliothek zur Tabellenbearbeitung" %}}
 
-Excel API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+ Excel API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 
 

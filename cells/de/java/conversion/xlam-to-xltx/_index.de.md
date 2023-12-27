@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to XLTX saveformat., Fre
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLAM in XLTX mit Java" %}}
 
-Wie konvertiere ich XLAM in XLTX? Mit der Bibliothek Aspose.Cells for Java können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in XLTX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Wie konvertiere ich XLAM in XLTX? Mit der Bibliothek Aspose.Cells for Java können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in XLTX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie XLAM-Dateien programmgesteuert in XLTX konvertieren? Java-Entwickler
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLAM mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei XLAM mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie XLAM in XLTX, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLAM in XLTX.
 

@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument XLSX via Java
 weight: 310
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSX-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java unlock XLSX files., Java how to unlock XLSX document., Java unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie XLSX Dateien via Java" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei XLSX mithilfe der Bibliothek Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -73,7 +74,7 @@ description: Java Beispielcode zum Entsperren der passwortgeschützten XLSX-Date
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSX-Dateien über C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSX Dateien via Java" offSpacer="" %}}
 
 ```cs
 

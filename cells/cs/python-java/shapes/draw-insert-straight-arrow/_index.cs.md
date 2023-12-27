@@ -2,6 +2,7 @@
 title:  Jak nakreslím nebo vložím přímou šipku do Excelu pomocí Python via Java
 weight: 10
 description: Python via Java zdrojový kód pro kreslení nebo vkládání rovné šipky do Excelu.
+keywords: [Python Aspose.Cells., Python add straight arrow., Python insert straight arrow., Python create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte rovnou šipku do Excelu pomocí Python via Java" h2="Vložte přímou šipku pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Python via Java zdrojový kód pro kreslení nebo vkládání rovn�
 
 {{% blocks/products/pf/agp/content h2="Jak vložit přímou šipku do souboru aplikace Excel pomocí Python via Java" %}}
 
- Abychom vložili rovnou šipku do excelového souboru, použijeme
+Abychom vložili rovnou šipku do excelového souboru, použijeme
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
  API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci s dokumenty API for Python via Java. API poskytuje vytváření, manipulaci, konverzi a vykreslování souborů Excel. Vše bez spoléhání se na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
 
@@ -37,7 +38,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte kolekci tvarů[přidat metodu](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addLine(int,%20int,%20int,%20int,%20int,%20int)) pro vložení rovné šipky do vybraného listu.
 + Uložit sešit ve formátu XLSX.
@@ -48,12 +49,12 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jakýkoli operační systém, který může spouštět skripty Python via Java, například Windows, Linux a MacOS
--  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jakýkoli operační systém, který může spouštět skripty Python via Java, například Windows, Linux a MacOS
+- Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Instalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

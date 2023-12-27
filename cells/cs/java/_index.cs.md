@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API – Aspose
 weight: 6830
-description: Java Knihovna Excel pro zpracování tabulek. Číst zápis render a převod XLS XLSX XLSM ODS CSV TSV a další formáty. Kompatibilní s Windows Linux & Unix
+description:  Aspose.Cells for Java knihovna pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, CSV, HTML a tak dále.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Zpracování tabulky Excel API" h2="Vytvářejte, manipulujte, převádějte, chraňte nebo tiskněte tabulky bez spoléhání se na Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}

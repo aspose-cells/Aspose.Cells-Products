@@ -1,7 +1,7 @@
 ---
-title: C++ TXT do SPREADSHEETML – online převodník TXT do SPREADSHEETML
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést TXT do formátu SPREADSHEETML uložit. C++ TXT do formátu SPREADSHEETML. Uložte TXT do SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to SPREADSHEETML saveformat., Free Online TXT to SPREADSHEETML C++., C++ Convert TXT to SPREADSHEETML]
+title: C++ TXT do SPREADSHEETML - TXT do SPREADSHEETML Converter
+description: Aspose Excel. Převeďte TXT na SPREADSHEETML rychle a snadno pomocí Aspose.Cells. C++ TXT na SPREADSHEETML. C++ Uložte TXT do SPREADSHEETML. Uložte TXT jako SPREADSHEETML pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to SPREADSHEETML in C++., Save TXT to SPREADSHEETML using C++., C++ TXT to SPREADSHEETML saveformat., TXT to SPREADSHEETML Converter., C++ Save TXT as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte TXT na SPREADSHEETML v C++" h2="Vysoce výkonný převod TXT do SPREADSHEETML pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to SPREA
 
 {{% blocks/products/pf/agp/content h2="Převeďte TXT na SPREADSHEETML pomocí C++" %}}
 
-Jak převedu TXT na SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno převést TXT na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu TXT na SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno převést TXT na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete TXT do SPREADSHEETML v C++ Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte TXT do SPREADSHEETML v C++" %}}
 
 Následující příklad ukazuje, jak převést TXT na SPREADSHEETML v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod TXT na SPREADSHEETML. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod TXT na SPREADSHEETML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod TXT na SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TXT na SPREADSHEETML přes C++" %}}
 
@@ -49,8 +49,8 @@ Potřebujete převést TXT soubory do SPREADSHEETML programově? C++ vývojáři
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor TXT pomocí Factory::CreateIWorkbook.
-1. Převeďte TXT na SPREADSHEETML voláním metody Save().
+1.  Načtěte soubor TXT pomocí sešitu.
+1.  Převeďte TXT na SPREADSHEETML voláním metody Save().
 1.  Získejte výsledek převodu TXT na SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-pdf/" name="TXT DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-png/" name="TXT DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-svg/" name="TXT DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tiff/" name="TXT DO TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tsv/" name="TXT DO TSV" description="Hodnoty oddělené tabulátory" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-xls/" name="TXT DO XLS" description="Binární formát Excel" >}}

@@ -1,7 +1,7 @@
 ---
 title: Vytvořit PNG - Vytvořit soubor PNG v Java
-description: Aspose Excel. Java Vytvořte soubor PNG. Vytvořit PNG Java. Java PNG Tvůrce. Vytvořte PNG v Java. Vygenerujte soubor PNG pomocí Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create PNG Java., Java PNG Creater., Create PNG file in Java., Generate PNG file in Java]
+description: Aspose Excel. Java Vytvořte PNG Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor PNG pomocí Java. Vytvořte PNG v Java. 0761831981 0761831983
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create PNG file., Generate PNG file in Java., Create PNG file using Java., Write data to PNG file via Java., Create a PNG file in Java., Java Generate a PNG file., Java PNG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor PNG v Java" h2="Vysokorychlostní knihovna Java pro vytváření souboru PNG. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create PNG Java., Java PNG Creater
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor PNG pomocí Java" %}}
 
- Jak vytvořit soubor PNG? S knihovnou Aspose.Cells for Java můžete snadno vytvořit soubor PNG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak vytvořit soubor PNG? S knihovnou Aspose.Cells for Java můžete snadno vytvořit soubor PNG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create PNG Java., Java PNG Creater
 1.  Vytvořte instanci[Třída sešitu](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Získejte přístup k příslušnému listu pomocí metody getWorksheets.get().
 1.  Vyberte příslušnou buňku, zadejte hodnotu do požadované buňky pomocí názvu buňky, například A1, B3 atd.
-1.  Uložte sešit ve formátu PNG pomocí metody save().
+1. Uložte sešit ve formátu PNG pomocí metody save().
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor PNG v Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.png");
 
 {{% blocks/products/pf/agp/text %}}
 
-Před spuštěním ukázkového zdrojového kódu konverze Java se ujistěte, že splňujete následující předpoklady.
+ Před spuštěním ukázkového zdrojového kódu konverze Java se ujistěte, že splňujete následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 

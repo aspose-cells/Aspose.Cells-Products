@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED na SQL – online převaděč TABDELIMITED na SQL
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte TABDELIMITED na SQL saveformat. Java TABDELIMITED na formát SQL. Uložte TABDELIMITED do SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to SQL saveformat., Free Online TABDELIMITED to SQL Java., Java Convert TABDELIMITED to SQL]
+title: Java TABDELIMITED na SQL - TABDELIMITED na SQL Converter
+description: Aspose Excel. Převeďte TABDELIMITED na SQL rychle a snadno pomocí Aspose.Cells. Java TABDELIMITED na SQL. Java Uložte TABDELIMITED do SQL. Uložte TABDELIMITED jako SQL pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to SQL in Java., Save TABDELIMITED to SQL using Java., Java TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., Java Save TABDELIMITED as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte TABDELIMITED na SQL v Java" h2="Vysokorychlostní knihovna Java pro převod TABDELIMITED na SQL. Toto je profesionální softwarové řešení pro import a export TABDELIMITED, SQL a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="Převeďte TABDELIMITED na SQL pomocí Java" %}}
 
- Jak převedu TABDELIMITED na SQL? S knihovnou Aspose.Cells for Java můžete snadno převést TABDELIMITED na SQL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu TABDELIMITED na SQL? S knihovnou Aspose.Cells for Java můžete snadno převést TABDELIMITED na SQL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložte TABDELIMITED do SQL v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte TABDELIMITED do SQL v Java" %}}
 
 Následující příklad ukazuje, jak převést TABDELIMITED na SQL v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod TABDELIMITED na SQL. Nahrajte 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod TABDELIMITED na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod TABDELIMITED na SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TABDELIMITED na SQL via Java" %}}
 

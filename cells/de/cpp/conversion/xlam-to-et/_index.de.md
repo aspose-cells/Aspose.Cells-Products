@@ -1,7 +1,7 @@
 ---
-title: XLAM in ET – Konvertieren Sie XLAM in die ET-Dateien C++
-description: Aspose Excel. Kostenlose Online-Konvertierung von XLAM in das ET-Saveformat. C++ XLAM in das ET-Format. Speichern Sie XLAM als ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to ET saveformat., Free Online XLAM to ET Converter]
+title: C++ XLAM zu ET - XLAM zu ET Konverter
+description: Aspose Excel. Konvertieren Sie XLAM schnell und einfach in ET mit Aspose.Cells. C++ XLAM in ET. C++ Speichern Sie XLAM in ET. Speichern Sie XLAM als ET mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to ET in C++., Save XLAM to ET using C++., C++ XLAM to ET saveformat., XLAM to ET Converter., C++ Save XLAM as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLAM in ET in C++" h2="Leistungsstarke XLAM-zu-ET-Konvertierung mithilfe der C++-Bibliothek, ohne dass eine Microsoft-Excel-, OpenOffice- oder Adobe Acrobat-Installation erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to ET saveformat., Free On
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLAM in ET mit C++" %}}
 
- Wie konvertiere ich XLAM in ET? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in ET konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich XLAM in ET? Mit der Bibliothek Aspose.Cells for C++ können Sie XLAM mit wenigen Codezeilen problemlos programmgesteuert in ET konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM in ET in C++ kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLAM in ET in C++" %}}
 
 Das folgende Beispiel zeigt, wie XLAM in ET in C++ konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XLAM in ET umzuwandeln. Laden Sie Ihre X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLAM in ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLAM in ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLAM über C++ in ET" %}}
 
@@ -49,8 +49,8 @@ Müssen Sie XLAM-Dateien programmgesteuert in ET konvertieren? C++-Entwickler k�
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLAM mit Factory::CreateIWorkbook.
-1.  Konvertieren Sie XLAM in ET, indem Sie die Save()-Methode aufrufen.
+1.  Laden Sie die Datei XLAM mithilfe der Arbeitsmappe.
+1. Konvertieren Sie XLAM in ET, indem Sie die Save()-Methode aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLAM in ET.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,6 +82,12 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM ist eine makrofähige Add-In-Datei, die zum Hinzufügen neuer Funktionen zu Tabellenkalkulationen verwendet wird. Ein Add-In ist ein Zusatzprogramm, das zusätzlichen Code ausführt und zusätzliche Funktionen für Tabellenkalkulationen bereitstellt. XLAM-Dateien werden mit der Erweiterung .xlam gespeichert. XLAM-Dateien sind XML-basierte Dateien, die den Dateiformaten XLSM und XLSX ähneln und mit ZIP-Komprimierung gespeichert werden, um die Gesamtdateigröße zu reduzieren.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Eine ET-Datei ist eine von Easiteach erstellte Unterrichtsstunde, ein Programm, das es Lehrern ermöglicht, Unterrichtsstunden zu entwickeln und diese über eine interaktive Schnittstelle bereitzustellen. Es enthält Unterrichtsdaten wie Layouts, Navigation, Bilder, Text, Themen und Animationen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können XLAM auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 
@@ -95,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM BIS PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM BIS PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM BIS SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM BIS TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM BIS TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM BIS TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM BIS XLS" description="Excel-Binärformat" >}}

@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint App ist ein SharePoint Excel-Tabellenko
    </header>
    <ul>
     <li>
-In Unterordnern speichern
+ In Unterordnern speichern
     </li>
     <li>
  Dateiverkettung
@@ -154,7 +154,7 @@ In Unterordnern speichern
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description=" Aspose.Cells for SharePoint unterstützt viele gängige Tabellenformate, PDF, HTML und andere[Dateiformate](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells for SharePoint unterstützt viele gängige Tabellenformate, PDF, HTML und andere[Dateiformate](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ In Unterordnern speichern
  Verketten Sie Dateien während der Konvertierung
     </h2>
     <p>
-Aspose.Cells for SharePoint bietet die Möglichkeit, Dateien unterschiedlicher Formate in einem einzigen Dokument zusammenzufassen. Darüber hinaus können Sie Dokumente in der Liste auch nach oben oder unten verschieben, um die Reihenfolge festzulegen, in der die Dokumente kombiniert werden sollen.
+ Aspose.Cells for SharePoint bietet die Möglichkeit, Dateien unterschiedlicher Formate in einem einzigen Dokument zusammenzufassen. Darüber hinaus können Sie Dokumente in der Liste auch nach oben oder unten verschieben, um die Reihenfolge festzulegen, in der die Dokumente kombiniert werden sollen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ Aspose.Cells for SharePoint bietet die Möglichkeit, Dateien unterschiedlicher F
  Konvertieren Sie Dateien in Unterordnern
     </h2>
     <p>
- Aspose.Cells for SharePoint vereinfacht den Konvertierungsprozess, indem alle Dokumente und Unterordner in einem ausgewählten Ordner rekursiv konvertiert werden. Die bestehende Unterordnerstruktur wird im Zielordner erstellt.
+Aspose.Cells for SharePoint vereinfacht den Konvertierungsprozess, indem alle Dokumente und Unterordner in einem ausgewählten Ordner rekursiv konvertiert werden. Die bestehende Unterordnerstruktur wird im Zielordner erstellt.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint bietet die Möglichkeit, Dateien unterschiedlicher F
  Interagieren Sie mit der Öffentlichkeit API
     </h2>
     <p>
-Entwickler mit internen SharePoint-Lösungen können die Dokumentkonvertierungs-Engine von Aspose.Cells for SharePoint über die öffentliche Version API verwenden. Sie bietet programmgesteuerten Zugriff auf alle unterstützten Formate und Konvertierungsoptionen.
+ Entwickler mit internen SharePoint-Lösungen können die Dokumentkonvertierungs-Engine von Aspose.Cells for SharePoint über die öffentliche Version API verwenden. Sie bietet programmgesteuerten Zugriff auf alle unterstützten Formate und Konvertierungsoptionen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Entwickler mit internen SharePoint-Lösungen können die Dokumentkonvertierungs-
  Microsoft Excel-Automatisierung – Nicht erforderlich
     </h2>
     <p>
- Aspose.Cells for SharePoint wird mit verwaltetem Code erstellt, der niemals Microsoft Excel auf dem Computer installieren muss, um mit der Excel-Formatkonvertierung zu arbeiten. Es ist eine perfekte Microsoft Excel-Automatisierungsalternative im Hinblick auf unterstützte Funktionen, Sicherheit, Stabilität, Skalierbarkeit, Geschwindigkeit und Preis.
+Aspose.Cells for SharePoint wird mit verwaltetem Code erstellt, der niemals Microsoft Excel auf dem Computer installieren muss, um mit der Excel-Formatkonvertierung zu arbeiten. Es ist eine perfekte Microsoft Excel-Automatisierungsalternative im Hinblick auf unterstützte Funktionen, Sicherheit, Stabilität, Skalierbarkeit, Geschwindigkeit und Preis.
     </p>
    </div>
   </div>

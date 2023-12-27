@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML mit Excel zusammenführen – Kombinieren Sie SPREADSHEETML mit Excel in Java
 url: /de/java/merger/merge-spreadsheetml-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von SPREADSHEETML in das Excel-Speicherformat. Java Kombinieren Sie SPREADSHEETML mit dem Excel-Format. Führen Sie SPREADSHEETML mit Excel in Java zusammen. SPREADSHEETML Zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL in Java., Free Online Java Merge SPREADSHEETML to excel., Java Combine SPREADSHEETML to EXCEL Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. SPREADSHEETML mit dem Excel-Speicherformat zusammenführen. Java Kombinieren Sie SPREADSHEETML mit dem Excel-Format. Führen Sie SPREADSHEETML mit Excel in Java zusammen. SPREADSHEETML Zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL in Java., Java Merge SPREADSHEETML to excel., Java Combine SPREADSHEETML to EXCEL., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie SPREADSHEETML mit Excel via Java zusammen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von SPREADSHEETML mit Excel. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL in Ja
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit Java in Excel zusammen" %}}
 
- Wie füge ich SPREADSHEETML mit Excel zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie SPREADSHEETML mit wenigen Codezeilen ganz einfach programmgesteuert in Excel zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich SPREADSHEETML mit Excel zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie SPREADSHEETML mit wenigen Codezeilen ganz einfach programmgesteuert in Excel zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL in Ja
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML in Excel in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML in Java mit Excel zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML in Aspose.Cells for Java mit Excel zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML mit Excel zusammenzuführe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von SPREADSHEETML zu Excel in Java" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SPREADSHEETML in Excel in Java" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SPREADSHEETML mit Excel via Java zusammen" %}}
 

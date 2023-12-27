@@ -1,8 +1,8 @@
 ---
 title: ODS mit MD zusammenführen – Kombinieren Sie ODS mit MD in C++
 url: /de/cpp/merger/merge-ods-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung von ODS in das MD-Speicherformat. C++ Kombinieren Sie ODS zum MD-Format. ODS zu MD in C++ zusammenführen. ODS Zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MD in C++., Free Online C++ Merge ODS to md., C++ Combine ODS to MD Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. ODS in MD-Speicherformat zusammenführen. C++ Kombinieren Sie ODS zum MD-Format. ODS zu MD in C++ zusammenführen. ODS Zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MD in C++., C++ Merge ODS to md., C++ Combine ODS to MD., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS über C++ mit MD zusammenführen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von ODS mit MD. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MD in C++., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="ODS mit MD unter Verwendung von C++ zusammenführen" %}}
 
- Wie füge ich ODS mit MD zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie ODS ganz einfach programmgesteuert mit ein paar Codezeilen in MD zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich ODS mit MD zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie ODS ganz einfach programmgesteuert mit ein paar Codezeilen in MD zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie ODS mit MD in C++ kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="ODS mit MD in C++ zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie ODS mit MD in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um ODS mit MD zusammenzuführen. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um ODS mit MD in C++ zusammenzuführen" InputFormat="ods" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von ODS mit MD in C++" InputFormat="ods" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie ODS über C++ mit MD zusammen" %}}
 
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-pdf/" name="ODS zu PDF zusammenführen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-png/" name="ODS zu PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-svg/" name="ODS zu SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tiff/" name="ODS zu TIFF zusammenführen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tsv/" name="ODS zu TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-txt/" name="ODS zu TXT zusammenführen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xls/" name="ODS zu XLS zusammenführen" description="Excel-Binärformat" >}}

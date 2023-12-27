@@ -1,8 +1,8 @@
 ---
 title: HTM mit XLS zusammenführen – HTM mit XLS in C# kombinieren
 url: /de/net/merger/merge-htm-to-xls/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenloses Online-Merge-HTM zum XLS-Speicherformat. C# Kombinieren Sie HTM mit dem Format XLS. HTM zu XLS in C# zusammenführen. HTM zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to XLS in C#., Free Online C# Merge HTM to xls., C# Combine HTM to XLS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. HTM mit dem Sicherungsformat XLS zusammenführen. C# Kombinieren Sie HTM mit dem Format XLS. HTM zu XLS in C# zusammenführen. HTM zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to XLS in C#., C# Merge HTM to xls., C# Combine HTM to XLS., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM über C# mit XLS zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von HTM mit XLS. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to XLS in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Führen Sie HTM mit XLS unter Verwendung von C# zusammen" %}}
 
- Wie füge ich HTM mit XLS zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit XLS zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich HTM mit XLS zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit XLS zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTM kostenlos mit XLS in C# online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="HTM mit XLS in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie HTM mit XLS in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um HTM mit XLS zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um HTM mit XLS in C# zusammenzuführen" InputFormat="htm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTM mit XLS in C#" InputFormat="htm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTM über C# mit XLS zusammen" %}}
 

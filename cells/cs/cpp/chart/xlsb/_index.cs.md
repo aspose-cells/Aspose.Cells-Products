@@ -1,7 +1,8 @@
 ---
-title: XLSB schéma dokumentu přes C++
+title:  XLSB schéma dokumentu přes C++
 weight: 5200
 description: C++ ukázkový kód pro kreslení a převod grafu nebo diagramu v souboru XLSB na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsb., C++ Save chart to image in xlsb., C++ chart to image in xlsb., xlsb convert chart to image in C++., xlsb save chart to imagein C++., xlsb chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Tabulky formátů v C++" h2="Nativní a vysoce výkonné grafy dokumentů XLSB pomocí serverových Aspose.Cells for C++ API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Přístup k instanci nově přidaného grafu
 + Přidat SeriesCollection (zdroj dat grafu) do grafu
 + Nastavte typ grafu 2nd NSeries, aby se zobrazil jako spojnicový graf
-Uložte soubor
++ Uložte soubor
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ Uložte soubor
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit tabulku souborů XLSB - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsb-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsb-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

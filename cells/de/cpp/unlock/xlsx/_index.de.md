@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument XLSX über C++
 weight: 3680
 description: C++ Beispielcode zum Entsperren der passwortgeschützten XLSX-Datei in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLSX files., C++ how to unlock XLSX document., C++ unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie XLSX-Dateien über C++" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei XLSX mithilfe der Bibliothek C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Laden Sie die gesperrte Datei XLSX mit CreateIWorkbook.
-1.  Rufen Sie zum Entsperren die Funktion Unprotect() auf.
-1.  Setzen Sie das Passwort mit SetPassword auf NULL.
-1.  Speichern Sie die Datei XLSX an einem angegebenen Speicherort.
+1.  Instanziieren Sie die Arbeitsmappenklasse mit dem Pfad zur geschützten Datei XLSX
+1.  Rufen Sie das Standard- oder ein beliebiges Arbeitsblatt ab, um den Schutz zu entfernen
+1.  Entfernen Sie den Arbeitsblattschutz mit der Worksheet.Unprotect-Methode
+1.  Entfernen Sie den Arbeitsmappenschutz mit der Methode Workbook.Unprotect
+1.  Ergebnis im Format XLSX speichern
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSX file
+Workbook workbook(u"protected.xlsx");
 
-// Load XLSX file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsx")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSX file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsx")));
+// save the result back in XLSX format
+workbook.Save("unprotected.xlsx", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

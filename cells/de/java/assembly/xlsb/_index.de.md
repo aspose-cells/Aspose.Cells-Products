@@ -2,6 +2,7 @@
 title:  Generieren Sie Berichte in XLSB-Dateien via Java
 weight: 3560
 description: Java Beispielcode zum Erstellen von Berichten im XLSB-Format zur Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Create XLSB Reports Based on Predesigned Excel Template., Java Generate XLSB Reports Based on Predesigned Excel Template., Java Create XLSB Reports Based on Excel Template., Java Generate XLSB Reports Based on Excel Template., Java Create XLSB files Based on Excel Template., Java Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Massenberichterstellung im XLSB-Format via Java" h2="Erstellen Sie Berichte im Format XLSB mithilfe einer Datenquelle und einer Vorlage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -75,9 +76,9 @@ description: Java Beispielcode zum Erstellen von Berichten im XLSB-Format zur Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generieren Sie Excel-Berichte im Format XLSB – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generieren Sie Excel-Berichte im Format XLSB – Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

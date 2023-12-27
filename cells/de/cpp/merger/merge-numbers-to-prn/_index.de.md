@@ -1,8 +1,8 @@
 ---
 title: NUMBERS mit PRN zusammenführen – Kombinieren Sie NUMBERS mit PRN in C++
 url: /de/cpp/merger/merge-numbers-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung von Nummern in das PRN-Speicherformat. C++ Kombinieren Sie ZAHLEN im PRN-Format. NUMBERS mit PRN in C++ zusammenführen. NUMBERS zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PRN in C++., Free Online C++ Merge NUMBERS to prn., C++ Combine NUMBERS to PRN Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. NUMBERS in PRN-Speicherformat zusammenführen. C++ Kombinieren Sie ZAHLEN im PRN-Format. NUMBERS mit PRN in C++ zusammenführen. NUMBERS zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PRN in C++., C++ Merge NUMBERS to prn., C++ Combine NUMBERS to PRN., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie NUMBERS über C++ mit PRN zusammen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von NUMBERS mit PRN. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PRN in C++., Free 
 
 {{% blocks/products/pf/agp/content h2="NUMBERS mit PRN unter Verwendung von C++ zusammenführen" %}}
 
- Wie füge ich NUMBERS mit PRN zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in PRN zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich NUMBERS mit PRN zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in PRN zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie NUMBERS in C++ kostenlos online mit PRN zusammen" %}}
+{{% blocks/products/pf/agp/content h2="NUMBERS mit PRN in C++ zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS mit PRN in Aspose.Cells for C++ zusammengeführt werden.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um NUMBERS mit PRN zusammenzuführen. Laden
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um NUMMERN in PRN unter C++ zusammenzuführen" InputFormat="numbers" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von NUMBERS mit PRN in C++" InputFormat="numbers" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie NUMBERS über C++ mit PRN zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie NUMBERS programmgesteuert mit PRN zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie NUMBERS programmgesteuert mit PRN zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -88,7 +88,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Eine PRN-Datei ist eine Datei, die mithilfe des Kontrollkästchens „In Datei drucken“ erstellt wurde, das in einigen Druckdialogfeldern unter Windows angezeigt wird. Sie enthält eine Reihe gerätespezifischer Anweisungen, die ein Drucker, ein Faxgerät oder ein anderes Gerät zum Drucken eines Dokuments verwendet. PRN-Dateien können je nach Gerät, für das die Datei erstellt wurde, Text- oder Binärinhalte enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="NUMBERS zu PDF zusammenführen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="NUMBERS zu PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="NUMBERS zu SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="NUMBERS zu TIFF zusammenführen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="NUMBERS zu TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="NUMBERS zu TXT zusammenführen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="NUMBERS zu XLS zusammenführen" description="Excel-Binärformat" >}}

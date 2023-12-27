@@ -1,7 +1,7 @@
 ---
-title: Java PNG na ET – Online převodník PNG na ET
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte PNG do formátu uložení ET. Java PNG do formátu ET. Uložit PNG do ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to ET saveformat., Free Online PNG to ET Java., Java Convert PNG to ET]
+title: Java PNG na ET - PNG na ET převodník
+description: Aspose Excel. Převeďte PNG na ET rychle a snadno pomocí Aspose.Cells. Java PNG na ET. Java Uložte PNG do ET. Uložte PNG jako ET pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to ET in Java., Save PNG to ET using Java., Java PNG to ET saveformat., PNG to ET Converter., Java Save PNG as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte PNG na ET v Java" h2="Vysokorychlostní knihovna Java pro převod PNG na ET. Toto je profesionální softwarové řešení pro import a export PNG, ET a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to ET
 
 {{% blocks/products/pf/agp/content h2="Převeďte PNG na ET pomocí Java" %}}
 
- Jak převedu PNG na ET? S knihovnou Aspose.Cells for Java můžete snadno převést PNG na ET programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu PNG na ET? S knihovnou Aspose.Cells for Java můžete snadno převést PNG na ET programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to ET
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete PNG na ET v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte PNG do ET v Java" %}}
 
 Následující příklad ukazuje, jak převést PNG na ET v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod PNG na ET. Nahrajte svůj soub
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod PNG na ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod PNG na ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést PNG na ET via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory PNG na ET programově? Vývojáři Java mohou sna
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor PNG s instancí třídy Workbook.
+1. Načtěte soubor PNG s instancí třídy Workbook.
 1.  Převeďte PNG na ET voláním metody Workbook.save.
 1.  Získejte výsledek převodu PNG na ET.
 

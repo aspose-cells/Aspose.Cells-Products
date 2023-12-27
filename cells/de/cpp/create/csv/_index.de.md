@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie CSV – Erstellen Sie die Datei CSV in C++
-description: Aspose Excel. C++ Datei CSV erstellen. Erstellen CSV C++. C++ CSV Ersteller. Erstellen Sie CSV in C++. Generieren Sie die Datei CSV mit C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create CSV C++., C++ CSV Creater., Create CSV file in C++., Generate CSV file in C++]
+description: Aspose Excel. C++ Erstellen Sie schnell und einfach eine CSV-Datei mit Aspose.Cells. Erstellen Sie eine CSV-Datei mit C++. Erstellen Sie CSV in C++. C++ CSV Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create CSV file., Generate CSV file in C++., Create CSV file using C++., Write data to CSV file via C++., Create a CSV file in C++., C++ Generate a CSV file., C++ CSV Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie die Datei CSV in C++" h2="Native und leistungsstarke CSV-Dateierstellung programmgesteuert ohne Microsoft Office unter Verwendung der C++-Bibliothek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create CSV C++., C++ CSV Creater., 
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie die Datei CSV mit C++" %}}
 
- Wie erstelle ich die Datei CSV? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei CSV ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie erstelle ich die Datei CSV? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei CSV ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Erstellen Sie ein Objekt der IWorkbook-Klasse.
-1.  Holen Sie sich das erste Blatt in ein IWorksheet-Objekt.
-1.  Verwenden Sie die Methode IWorksheet->GetICells(), um die Zellen des Arbeitsblatts in ein ICells-Objekt abzurufen.
-1. Verwenden Sie die Methode ICells->GetObjectByIndex(), um auf die gewünschte Zelle des Arbeitsblatts in einem ICell-Objekt zuzugreifen.
-1.  Verwenden Sie die Methode ICell->PutValue(), um einen Wert in die Zelle einzugeben.
+1.  Erstellen Sie ein Objekt der Workbook-Klasse.
+1.  Holen Sie sich das erste Blatt in ein Worksheet-Objekt.
+1.  Verwenden Sie die Methode Worksheet.GetCells(), um die Zellen des Arbeitsblatts in ein Cells-Objekt abzurufen.
+1. Verwenden Sie die Methode Cells.Get(), um auf die gewünschte Zelle des Arbeitsblatts in einem Cell-Objekt zuzugreifen.
+1.  Verwenden Sie die Methode Cell.PutValue(), um einen Wert in die Zelle einzugeben.
 1.  Speichern Sie die Arbeitsmappe als CSV-Datei mit der Save()-Methode.
 
 {{% blocks/products/pf/agp/code-block title="Der Beispielcode zeigt, wie die Datei CSV in C++ erstellt wird." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.csv"));
+wkb.Save(u"created_one.csv");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -104,7 +110,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzmenge. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Dateien mit der Erweiterung .csv (Comma Separated Values) stellen reine Textdateien dar, die Datensätze mit durch Kommas getrennten Werten enthalten. Jede Zeile in einer CSV-Datei ist ein neuer Datensatz aus der in der Datei enthaltenen Datensatzgruppe. Solche Dateien entstehen, wenn Daten von einem Speichersystem auf ein anderes übertragen werden sollen. Da alle Anwendungen durch Komma getrennte Datensätze erkennen können, ist der Import solcher Datendateien in die Datenbank sehr bequem. Fast alle Tabellenkalkulationsanwendungen wie Microsoft Excel oder OpenOffice Calc können CSV ohne großen Aufwand importieren. Aus solchen Dateien importierte Daten werden zur Darstellung für den Benutzer in Zellen einer Tabelle angeordnet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

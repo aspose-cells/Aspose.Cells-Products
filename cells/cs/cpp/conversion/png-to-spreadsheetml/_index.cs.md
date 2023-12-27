@@ -1,7 +1,7 @@
 ---
-title: C++ PNG do SPREADSHEETML – online převodník PNG do SPREADSHEETML
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Online zdarma C++ Převést PNG do formátu SPREADSHEETML uložit. C++ PNG do formátu SPREADSHEETML. Uložte PNG do SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to SPREADSHEETML saveformat., Free Online PNG to SPREADSHEETML C++., C++ Convert PNG to SPREADSHEETML]
+title: C++ PNG do SPREADSHEETML - PNG do SPREADSHEETML Converter
+description: Aspose Excel. Převeďte PNG na SPREADSHEETML rychle a snadno pomocí Aspose.Cells. C++ PNG na SPREADSHEETML. C++ Uložte PNG do SPREADSHEETML. Uložte PNG jako SPREADSHEETML pomocí C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to SPREADSHEETML in C++., Save PNG to SPREADSHEETML using C++., C++ PNG to SPREADSHEETML saveformat., PNG to SPREADSHEETML Converter., C++ Save PNG as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte PNG na SPREADSHEETML v C++" h2="Vysoce výkonný převod PNG do SPREADSHEETML pomocí knihovny C++ bez nutnosti instalace Microsoft Excel, OpenOffice nebo Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to SPREA
 
 {{% blocks/products/pf/agp/content h2="Převeďte PNG na SPREADSHEETML pomocí C++" %}}
 
-Jak převedu PNG na SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno převést PNG na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak převedu PNG na SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno převést PNG na SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete PNG do SPREADSHEETML v C++ Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte PNG do SPREADSHEETML v C++" %}}
 
 Následující příklad ukazuje, jak převést PNG na SPREADSHEETML v C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro převod PNG na SPREADSHEETML. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod PNG na SPREADSHEETML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Ukázkový kód pro převod PNG na SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést PNG na SPREADSHEETML přes C++" %}}
 
@@ -49,8 +49,8 @@ Potřebujete převést PNG soubory do SPREADSHEETML programově? C++ vývojáři
 
 1.  Nainstalujte 'Aspose.Cells for C++'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
-1.  Načtěte soubor PNG pomocí Factory::CreateIWorkbook.
-1. Převeďte PNG na SPREADSHEETML voláním metody Save().
+1.  Načtěte soubor PNG pomocí sešitu.
+1.  Převeďte PNG na SPREADSHEETML voláním metody Save().
 1.  Získejte výsledek převodu PNG na SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-pdf/" name="PNG DO PDF" description="Přenosný formát dokumentu" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-svg/" name="PNG DO SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tiff/" name="PNG DO TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG DO TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-txt/" name="PNG DO TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xls/" name="PNG DO XLS" description="Binární formát Excel" >}}

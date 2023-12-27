@@ -1,8 +1,8 @@
 ---
-title: C++ XLS-Datei reparieren – XLS-Datei kostenlos online reparieren
+title: C++ XLS reparieren – Beschädigte XLS-Datei wiederherstellen und reparieren
 url: /de/cpp/recovery/repair-xls/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ XLS-Datei reparieren. Kostenloses Online-XLS-Reparaturtool. Reparieren Sie eine beschädigte XLS-Datei. Stellen Sie eine beschädigte XLS-Datei in der Anwendung C++ wieder her.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xls file., Free Online Repair a corrupted xls file., C++ Recover xls file.]
+description: C++ Aspose.Cells. Reparatur XLS. XLS-Datei reparieren. XLS-Wiederherstellungstool. XLS-Korruption. XLS-Daten wiederherstellen. Wiederherstellung von XLS-Dateien. Stellen Sie die beschädigte XLS-Datei wieder her.
+keywords: [C++ Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLS in C++" h2="Erstellen Sie Ihre eigene C++-Anwendung, um XLS-Dateien mit C++ zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xls f
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLS mit C++" %}}
 
- Wie repariere ich eine XLS-Datei? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei XLS ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie repariere ich eine XLS-Datei? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei XLS ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -36,12 +36,12 @@ Müssen Sie die XLS-Datei programmgesteuert reparieren? C++-Entwickler können X
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLS, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLS, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLS-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++-Bibliothek zum Reparieren der XLS-Datei" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: OTS erstellen – OTS-Datei in Python erstellen
-description: Aspose Excel. Python OTS-Datei erstellen. OTS erstellen Python. Python OTS-Ersteller. Erstellen Sie OTS in Python. Erstellen Sie eine OTS-Datei mit Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS Creater., Create OTS file in Python., Generate OTS file in Python]
+description:  Aspose Excel. Python Erstellen Sie schnell und einfach eine OTS-Datei mit Aspose.Cells. Erstellen Sie eine OTS-Datei mit Python. Erstellen Sie OTS in Python. Python OTS Creator.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Create OTS file using Python., Write data to OTS file via Python., Create a OTS file in Python., Python Generate a OTS file., Python OTS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine OTS-Datei in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Erstellen einer OTS-Datei. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSX, PDF und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie eine OTS-Datei mit Python" %}}
 
- Wie erstelle ich eine OTS-Datei? Mit der Bibliothek Aspose.Cells for Python via Java können Sie mit wenigen Codezeilen ganz einfach eine OTS-Datei programmgesteuert erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie erstelle ich eine OTS-Datei? Mit der Bibliothek Aspose.Cells for Python via Java können Sie mit wenigen Codezeilen ganz einfach eine OTS-Datei programmgesteuert erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/text %}}
 
- Für die Entwickler ist es einfach, in nur wenigen Codezeilen OTS-Dateien zu erstellen, zu laden, zu ändern und zu konvertieren, während verschiedene Berichtsanwendungen für die Datenverarbeitung ausgeführt werden.
+Für die Entwickler ist es einfach, in nur wenigen Codezeilen OTS-Dateien zu erstellen, zu laden, zu ändern und zu konvertieren, während verschiedene Berichtsanwendungen für die Datenverarbeitung ausgeführt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
 
 {{% /blocks/products/pf/agp/text %}}
 

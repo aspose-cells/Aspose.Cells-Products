@@ -12,7 +12,7 @@ description: Exportujte sestavy z Jasper Reports a JasperServer ve formátu Exce
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports je spolehlivé rozšíření JasperReports a JasperServer, které nabízí export sestav ve formátu Microsoft Excel XLS, XLSX, PDF, ODS a ODS a 383 0717 pomocí formátu 176163481, 0717 6193481 Excel. Funguje jako alternativa k původnímu exportéru Excel Microsoft od JasperReports a také eliminuje závislost na knihovně POI.
+ Aspose.Cells for JasperReports je spolehlivé rozšíření JasperReports a JasperServer, které nabízí export sestav ve formátu Microsoft Excel XLS, XLSX, PDF, ODS a ODS a ODS a ODS a ODS a 0783 0717 formátu 93481 Excel. Funguje jako alternativa k původnímu exportéru Excel Microsoft od JasperReports a také eliminuje závislost na knihovně POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

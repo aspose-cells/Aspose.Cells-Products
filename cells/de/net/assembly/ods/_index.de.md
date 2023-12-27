@@ -2,6 +2,7 @@
 title:  Generieren Sie Berichte in ODS-Dateien via .NET
 weight: 520
 description: C#-Quellcode zum Generieren von Berichten im ODS-Format auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Create ODS Reports Based on Predesigned Excel Template., c# Generate ODS Reports Based on Predesigned Excel Template., c# Create ODS Reports Based on Excel Template., C# Generate ODS Reports Based on Excel Template., c# Create ODS files Based on Excel Template., C# Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Massenberichterstellung im ODS-Format über C#" h2="Erstellen Sie Berichte im Format ODS mithilfe einer Datenquelle und einer Vorlage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

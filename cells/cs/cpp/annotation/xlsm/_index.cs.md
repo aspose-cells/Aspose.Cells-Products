@@ -1,7 +1,8 @@
 ---
-title:  Přidat XLSM anotaci přes C++
+title:  Přidat nebo odebrat XLSM anotaci přes C++
 weight: 2860
 description: C++ ukázkový kód pro odstranění XLSM anotací formátu na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte anotaci do souboru XLSM přes C++" h2="Sestavte si své vlastní aplikace C++ pro manipulaci s komentáři a autory v souborech dokumentů pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Vyberte příslušný list
 1.  Přidejte komentář pomocí metody Add
 1.  Nastavte poznámku komentáře pomocí metody SetNote.
-1.  Uložte sešit pomocí[Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metoda
+1.  Uložte sešit pomocí[Uložit](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) metoda
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Přidejte komentáře na XLSM - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsm-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsm-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

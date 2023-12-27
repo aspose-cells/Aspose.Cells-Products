@@ -2,6 +2,7 @@
 title:  Suchen und ersetzen Sie Text im Dokument XLSB via Java
 weight: 4590
 description: Java Beispielcode zum Schwärzen sensibler Informationen in der Datei XLSB in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigieren Sie XLSB-Formate in Java" h2="Native und leistungsstarke XLSB dokumentieren vertrauliche Schwärzungsinformationen mithilfe serverseitiger Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Java Beispielcode zum Schwärzen sensibler Informationen in der Dat
 
  Um die Datei XLSB zu redigieren, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionsplattform. Sie können die neueste Version direkt von herunterladen
+API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionsplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
@@ -65,7 +66,7 @@ description: Java Beispielcode zum Schwärzen sensibler Informationen in der Dat
 + Geben Sie den Bereich an, in dem Sie suchen möchten
 + Durchlaufen Sie jede Zelle und verwenden Sie getCells().find(...).
 + Ersetzen Sie den Wert.
-Speichern Sie die Arbeitsmappe.
++ Speichern Sie die Arbeitsmappe.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.xlsb");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSB-Dateien hoch." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}

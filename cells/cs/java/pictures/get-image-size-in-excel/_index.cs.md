@@ -2,6 +2,7 @@
 title:  Získejte velikost obrázků/obrázků v aplikaci Excel via Java
 weight: 10
 description: Získá velikost obrázků/obrázků v aplikaci Excel pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Získejte velikost obrázků/obrázků v aplikaci Excel via Java" h2="Použití Aspose.Cells\' API pro práci s různými objekty bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: Získá velikost obrázků/obrázků v aplikaci Excel pomocí Aspos
     + [Šířka](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) Představuje šířku tvaru v jednotkách pixelů.
     + [Výška](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) Představuje výšku tvaru v jednotkách pixelů.
     + [Původní šířka](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) Získá původní šířku obrázku v jednotkách pixelů.
-    + [Původní výška](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) Získá původní výšku obrázku v jednotkách pixelů.
+    + [Původní výška](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)Získá původní výšku obrázku v jednotkách pixelů.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

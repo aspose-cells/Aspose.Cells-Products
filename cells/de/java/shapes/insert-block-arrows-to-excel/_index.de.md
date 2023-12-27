@@ -2,6 +2,7 @@
 title: Fügen Sie Blockpfeile in Excel via Java ein
 weight: 338
 description: Fügen Sie Objekte mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Blockpfeile in Excel via Java ein" h2="Fügen Sie Blockpfeile mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Fügen Sie Objekte mit Aspose.Cells' Java API ohne Software wie Mic
 
 {{% blocks/products/pf/agp/content h2="So fügen Sie Blockpfeile mithilfe von Java in eine Excel-Datei ein" %}}
 
-Um Blockpfeile in eine Excel-Datei einzufügen, verwenden wir
+ Um Blockpfeile in eine Excel-Datei einzufügen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche API for Java Plattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ Um Blockpfeile in eine Excel-Datei einzufügen, verwenden wir
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) , um Blockpfeile in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.
@@ -151,7 +152,7 @@ Der folgende Beispielcode zeigt, wie ein „Rechtspfeil“ eingefügt wird. Weit
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Der folgende Beispielcode zeigt, wie ein „Rechtspfeil“ eingefügt wird. Weit
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

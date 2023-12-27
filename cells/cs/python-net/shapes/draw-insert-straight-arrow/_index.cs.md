@@ -2,6 +2,7 @@
 title:  Jak nakreslím nebo vložím přímou šipku do Excelu pomocí Python via .Net
 weight: 10
 description: Python via .Net zdrojový kód pro kreslení nebo vkládání rovné šipky do Excelu.
+keywords: [Python Aspose.Cells., Python add straight arrow., Python insert straight arrow., Python create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte přímou šipku do Excelu pomocí Python via .Net" h2="Vložte přímou šipku pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via .Net zdrojový kód pro kreslení nebo vkládání rovn�
 
 {{% blocks/products/pf/agp/content h2="Jak vložit přímou šipku do souboru aplikace Excel pomocí Python via .Net" %}}
 
- Abychom vložili rovnou šipku do excelového souboru, použijeme
+Abychom vložili rovnou šipku do excelového souboru, použijeme
  [Aspose.Cells for Python přes .Net](https://pypi.org/project/aspose-cells-python/) 
-API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API for Python prostřednictvím platformy .Net. API umožňuje vytváření, manipulaci, konverzi a vykreslování souborů Excel. Vše bez spoléhání na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
+ API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API for Python prostřednictvím platformy .Net. API umožňuje vytváření, manipulaci, konverzi a vykreslování souborů Excel. Vše bez spoléhání na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte přidání z kolekce tvarů[metoda](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_line/) pro vložení rovné šipky do vybraného listu.
 + Uložit sešit ve formátu XLSX.
@@ -80,7 +81,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

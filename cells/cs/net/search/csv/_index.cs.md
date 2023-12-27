@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument CSV bez otevření via .NET
 weight: 7510
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru CSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# search words with pattern in csv file., c# find words with pattern in csv file., c# search string with pattern in csv file., c# find words with pattern in csv file., c# search words in csv file., c# find words in csv file., c# search string in csv file., c# find string in csv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte CSV Formáty v C#" h2="Nativní a vysoce výkonné CSV prohledávání dokumentů pomocí serverových Aspose.Cells for .NET API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
@@ -13,7 +14,7 @@ description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru CSV n
 
  K vyhledání souboru CSV použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells** 

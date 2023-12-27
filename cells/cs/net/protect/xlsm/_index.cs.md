@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte XLSM dokument via .NET
+title:  Chraňte a uzamkněte XLSM dokument via .NET
 weight: 7530
 description: C# zdrojový kód k uzamčení souboru XLSM pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Lock XLSM files., c# How to Protect and lock XLSM document., c# Protect XLSM files., Encrypt XLSM Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSM přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSM pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -105,7 +106,7 @@ book.Save("protected.xlsm");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSM" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSM soubory](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSM" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSM](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSM a stisknout tlačítko „Odemknout“." >}}

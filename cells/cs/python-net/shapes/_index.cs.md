@@ -1,6 +1,7 @@
 ---
 title:  Vložte tvary do Excelu pomocí Python via .Net
 description:  Python via Zdrojové kódy .Net, jak vložit tvar do souborů Microsoft Excel pomocí Python via .Net Library.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Vkládání tvarů aplikace Excel pomocí Python via .Net" h2="Vytvářejte dokumenty aplikace Excel a vkládejte tvary pomocí rozhraní API na straně serveru v aplikacích založených na síti Python via." >}}
@@ -12,7 +13,7 @@ description:  Python via Zdrojové kódy .Net, jak vložit tvar do souborů Micr
 
 {{% blocks/products/pf/feature-page-section h2="Vložte tvary do souboru aplikace Excel" %}}
 
- Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, tvořit[Třída sešitu](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) přidat metodu.
+ Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, vytvořit[Třída sešitu](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/)objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) přidat metodu.
 
 {{% blocks/products/pf/feature-page-code h3="Python via .Net kód pro vložení tvaru do Excelu" %}}
 

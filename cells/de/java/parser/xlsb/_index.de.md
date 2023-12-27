@@ -2,6 +2,7 @@
 title:  Extrahieren Sie Text und Bilder aus dem Dokument XLSB via Java
 weight: 440
 description: Java Beispielcode zum Extrahieren von Text und Bildern aus der Datei XLSB in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Java How to Parse XLSB File., Java Extract text from XLSB file., Extract images from XLSB file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Analysieren Sie XLSB-Formate in Java" h2="Natives und leistungsstarkes XLSB Parsen von Dokumenten mithilfe serverseitiger Aspose.Cells for Java APIs, ohne die Verwendung von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -63,7 +64,7 @@ description: Java Beispielcode zum Extrahieren von Text und Bildern aus der Date
 + Wählen Sie das erforderliche Blatt mit der Methode getWorksheets().get aus.
 + Holen Sie sich alle Zellen des ausgewählten Blattes mit getCells().
 + Iteriere über jede Zelle und erhalte ihren Text.
-Drucken Sie jeden Zellenwert aus oder verwenden Sie die StringBuilder-Methode append(), um ihn als Ganzes anzuzeigen
++ Drucken Sie jeden Zellenwert aus oder verwenden Sie die StringBuilder-Methode append(), um ihn als Ganzes anzuzeigen
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

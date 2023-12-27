@@ -2,6 +2,7 @@
 title:  Odemkněte ODS dokument via .NET
 weight: 3110
 description: C# zdrojový kód k odemknutí heslem chráněného souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# unlock ODS files., c# how to unlock ODS document., c# unprotect ODS files., remove protection from ODS files., decrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemkněte ODS tabulku přes C#" h2="Odstraňte ochranu z ODS pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

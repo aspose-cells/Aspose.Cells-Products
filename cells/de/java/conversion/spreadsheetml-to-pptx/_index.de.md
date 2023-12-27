@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML zu PPTX - Online-SPREADSHEETML zu PPTX Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie SPREADSHEETML in das PPTX-Speicherformat. Java SPREADSHEETML in das Format PPTX. Speichern Sie SPREADSHEETML unter PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to PPTX saveformat., Free Online SPREADSHEETML to PPTX Java., Java Convert SPREADSHEETML to PPTX]
+title: Java SPREADSHEETML zu PPTX - SPREADSHEETML zu PPTX Konverter
+description: Aspose Excel. Konvertieren Sie SPREADSHEETML schnell und einfach in PPTX mit Aspose.Cells. Java SPREADSHEETML in PPTX. Java Speichern Sie SPREADSHEETML in PPTX. Speichern Sie SPREADSHEETML als PPTX mit Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to PPTX in Java., Save SPREADSHEETML to PPTX using Java., Java SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX Converter., Java Save SPREADSHEETML as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie SPREADSHEETML in PPTX in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von SPREADSHEETML in PPTX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von SPREADSHEETML, PPTX und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie SPREADSHEETML mit Java in PPTX" %}}
 
- Wie konvertiere ich SPREADSHEETML in PPTX? Mit der Bibliothek Aspose.Cells for Java können Sie SPREADSHEETML mit wenigen Codezeilen problemlos programmgesteuert in PPTX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich SPREADSHEETML in PPTX? Mit der Bibliothek Aspose.Cells for Java können Sie SPREADSHEETML mit wenigen Codezeilen problemlos programmgesteuert in PPTX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie SPREADSHEETML unter PPTX in Java online kostenlos" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie SPREADSHEETML unter PPTX in Java" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML in PPTX in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML in PPTX zu konvertieren. L
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von SPREADSHEETML in PPTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von SPREADSHEETML in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie SPREADSHEETML in PPTX via Java" %}}
 
@@ -98,7 +98,7 @@ Müssen Sie SPREADSHEETML-Dateien programmgesteuert in PPTX konvertieren? Java-E
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML steht für Extensible Markup Language, die HTML ähnelt, sich jedoch durch die Verwendung von Tags zum Definieren von Objekten unterscheidet. Die gesamte Idee hinter der Erstellung des XML-Dateiformats bestand darin, Daten zu speichern und zu transportieren, ohne auf Software- oder Hardware-Tools angewiesen zu sein. Seine Beliebtheit ist darauf zurückzuführen, dass es sowohl für Menschen als auch für Maschinen lesbar ist. Dadurch ist es möglich, gemeinsame Datenprotokolle in Form von Objekten zu erstellen, die über Netzwerke wie das World Wide Web (WWW) gespeichert und geteilt werden. Das „X“ in XML steht für erweiterbar, was bedeutet, dass die Sprache je nach Benutzeranforderungen auf eine beliebige Anzahl von Symbolen erweitert werden kann. Für diese Funktionen nutzen es viele Standarddateiformate wie Microsoft Open XML, LibreOffice OpenDocument, XHTML und SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

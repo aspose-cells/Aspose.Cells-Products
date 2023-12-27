@@ -2,6 +2,7 @@
 title: So zeichnen Sie eine gebogene Pfeilform oder fügen sie mit Python via .Net in Excel ein
 weight: 10
 description: Python via .Net-Quellcode zum Einfügen einer gebogenen Pfeilform in Excel.
+keywords: [Python Aspose.Cells., Python add curved arrow shape., Python insert curved arrow shape., Python create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie mit Python via .Net eine gebogene Pfeilform in Excel ein" h2="Fügen Sie eine gebogene Pfeilform mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net-Quellcode zum Einfügen einer gebogenen Pfeilform i
 
  Um eine gebogene Pfeilform in eine Excel-Datei einzufügen, verwenden wir
  [Aspose.Cells for Python über .Net](https://pypi.org/project/aspose-cells-python/) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Sie benötigen die Aspose.Cells, um den folgenden Workflow in Ihrer eigenen Umge
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
- + Verwenden Sie das Add der Shapecollection[Methode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) , um eine gebogene Pfeilform in das ausgewählte Arbeitsblatt einzufügen.
+ + Verwenden Sie das Add der Shapecollection[Methode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) um eine gebogene Pfeilform in das ausgewählte Arbeitsblatt einzufügen.
 + Arbeitsmappe im Format XLSX speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -80,7 +81,7 @@ Aspose.Cells API kann plattformübergreifende Anwendungen erstellen, kann zum Er
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

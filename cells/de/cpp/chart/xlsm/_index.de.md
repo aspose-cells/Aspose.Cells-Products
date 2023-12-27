@@ -1,7 +1,8 @@
 ---
-title: XLSM Dokumentenkarte über C++
+title:  XLSM Dokumentenkarte über C++
 weight: 8510
 description: C++ Beispielcode zum Zeichnen und Konvertieren eines Diagramms oder Diagramms in eine XLSM-Datei in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsm., C++ Save chart to image in xlsm., C++ chart to image in xlsm., xlsm convert chart to image in C++., xlsm save chart to imagein C++., xlsm chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM Formatiert Diagramme in C++" h2="Native und leistungsstarke XLSM Dokumentdiagramme mit serverseitigen Aspose.Cells for C++ APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Greifen Sie auf die Instanz des neu hinzugefügten Diagramms zu
 + Fügen Sie SeriesCollection (Diagrammdatenquelle) zum Diagramm hinzu
 + Stellen Sie den Diagrammtyp der 2. NSeries so ein, dass er als Liniendiagramm angezeigt wird
-Speichern Sie die Datei
++ Speichern Sie die Datei
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ Speichern Sie die Datei
 
 {{% blocks/products/pf/agp/code-block title="Erstellen Sie ein XLSM-Dateidiagramm – C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsm-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsm-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

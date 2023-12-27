@@ -1,7 +1,7 @@
 ---
-title: Java TSV na OTS - Online TSV na OTS převodník
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést TSV do formátu OTS. Java TSV do formátu OTS. Uložte TSV na OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to OTS saveformat., Free Online TSV to OTS Java., Java Convert TSV to OTS]
+title: Java TSV na OTS - TSV na OTS Převodník
+description: Aspose Excel. Převeďte TSV na OTS rychle a snadno pomocí Aspose.Cells. Java TSV na OTS. Java Uložte TSV do OTS. Uložte TSV jako OTS pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to OTS in Java., Save TSV to OTS using Java., Java TSV to OTS saveformat., TSV to OTS Converter., Java Save TSV as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte TSV na OTS v Java" h2="Vysokorychlostní knihovna Java pro převod TSV na OTS. Jedná se o profesionální softwarové řešení pro import a export TSV, OTS a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to OT
 
 {{% blocks/products/pf/agp/content h2="Převeďte TSV na OTS pomocí Java" %}}
 
- Jak převedu TSV na OTS? S knihovnou Aspose.Cells for Java můžete snadno převést TSV na OTS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu TSV na OTS? S knihovnou Aspose.Cells for Java můžete snadno převést TSV na OTS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete TSV na OTS v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte TSV do OTS v Java" %}}
 
 Následující příklad ukazuje, jak převést TSV na OTS v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod TSV na OTS. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod TSV na OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod TSV na OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TSV na OTS via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést TSV soubory na OTS programově? Vývojáři Java mohou sn
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor TSV s instancí třídy Workbook.
+1. Načtěte soubor TSV s instancí třídy Workbook.
 1.  Převeďte TSV na OTS voláním metody Workbook.save.
 1.  Získejte výsledek převodu TSV na OTS.
 

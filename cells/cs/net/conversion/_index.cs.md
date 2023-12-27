@@ -1,12 +1,13 @@
 ---
 title:  Microsoft Převod souborů Excel přes C#
-description: Převeďte Excel XLS, XLSX, ODS, CSV na PDF, XPS, HTML, HTML, JPEG, JPEG, JPEG, 43 z mnoha dalších 0817 a 16 pouze populárních formátů 1 kód.
+description: Aspose.Cells for .NET knihovna. Převeďte EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG a další formáty kódu 0381 s několika řádky
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Převod formátu Excel via .NET" h2="Importujte a exportujte soubory Excel jako tabulkový procesor, web, obrázky a formáty s pevným rozložením" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel Library urychluje programování tabulek a procesy převodu a zároveň podporuje oblíbené formáty včetně XLS, XLSX, XLSM, XLSB, XLTX, XLTM, XLTM, XLTM, XLTM, XLTM, XLTM, XLTM, 871 871 3481. Umožňuje také exportovat soubory Excel do PDF, XPS, HTML, MHTML, Plain Textové a oblíbené formáty obrázků, jako jsou TIFF, JPG, PNG, BMP a SVG.
+.NET Knihovna Excel zrychluje programování tabulek a procesy převodu a zároveň podporuje oblíbené formáty včetně XLS, XLSX, XLSM, XLSB, XLTX, 076163181, 076163181, 76163481, 1733 07648 81. Umožňuje také exportovat soubory Excel do PDF, XPS, HTML, MHTML, Plain Textové a oblíbené formáty obrázků, jako jsou TIFF, JPG, PNG, BMP a SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Převést Excel na XLSX, ODS, SXC a FODS" %}}
@@ -49,7 +50,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte JSON na Excel a Excel na JSON" %}}
- JSON data lze importovat do instance[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) třídy s pomocí[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)pro další zpracování nebo jednoduchý převod do některého z podporovaných formátů. Podobně,[Pracovní list](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data lze exportovat jako JSON vytvořením a[Rozsah](https://reference.aspose.com/cells/net/aspose.cells/range) nebo buňky a volání[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metoda.
+ JSON data lze importovat do instance[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) třídy s pomocí[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) pro další zpracování nebo jednoduchý převod do některého z podporovaných formátů. Podobně,[Pracovní list](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data lze exportovat jako JSON vytvořením a[Rozsah](https://reference.aspose.com/cells/net/aspose.cells/range) nebo buňky a volání[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metoda.
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro převod JSON na Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +110,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte Excel do Wordu a PowerPoint" %}}
- Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [Možnosti PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)třídy, jak je ukázáno níže.
+Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [Možnosti PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) třídy, jak je ukázáno níže.
 {{% blocks/products/pf/feature-page-code h3="C# kód pro Excel do Wordu a PowerPoint převod" %}}
 ```cs
 // load the template file

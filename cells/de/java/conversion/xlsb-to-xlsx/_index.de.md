@@ -1,7 +1,7 @@
 ---
-title: Java XLSB zu XLSX - Online-Konverter von XLSB zu XLSX
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie XLSB in das Speicherformat XLSX. Java XLSB bis XLSX Format. Speichern Sie XLSB bis XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to XLSX saveformat., Free Online XLSB to XLSX Java., Java Convert XLSB to XLSX]
+title: Java XLSB bis XLSX - XLSB bis XLSX Konverter
+description: Aspose Excel. Konvertieren Sie XLSB schnell und einfach in XLSX mit Aspose.Cells 81 unter Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XLSX in Java., Save XLSB to XLSX using Java., Java XLSB to XLSX saveformat., XLSB to XLSX Converter., Java Save XLSB as XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSB in XLSX in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von XLSB in XLSX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSB, XLSX und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to X
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLSB in XLSX mit Java" %}}
 
-Wie konvertiere ich XLSB in XLSX? Mit der Bibliothek Aspose.Cells for Java können Sie XLSB mit wenigen Codezeilen problemlos programmgesteuert in XLSX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Wie konvertiere ich XLSB in XLSX? Mit der Bibliothek Aspose.Cells for Java können Sie XLSB mit wenigen Codezeilen problemlos programmgesteuert in XLSX konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Wie konvertiere ich XLSB in XLSX? Mit der Bibliothek Aspose.Cells for Java könn
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie XLSB bis XLSX in Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie XLSB bis XLSX in Java" %}}
 
 Das folgende Beispiel zeigt, wie XLSB in XLSX in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um XLSB in XLSX zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von XLSB in XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLSB in XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSB in XLSX via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie XLSB-Dateien programmgesteuert in XLSX konvertieren? Java-Entwickler
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLSB mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei XLSB mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie XLSB in XLSX, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von XLSB in XLSX.
 

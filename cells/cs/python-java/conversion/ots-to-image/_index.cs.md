@@ -1,7 +1,7 @@
 ---
-title: Python OTS to IMAGE - Online převodník OTS to IMAGE
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte OTS do formátu uložení OBRÁZEK. Python OTS do formátu IMAGE. Uložte OTS do IMAGE Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to IMAGE saveformat., Free Online OTS to IMAGE Python., Python Convert OTS to IMAGE]
+title: Python OTS to IMAGE - OTS to IMAGE Converter
+description: Aspose Excel. Převeďte OTS na IMAGE rychle a snadno pomocí Aspose.Cells. Python OTS na IMAGE. Python Uložit OTS do IMAGE. Uložte OTS jako IMAGE pomocí Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to IMAGE in Python., Save OTS to IMAGE using Python., Python OTS to IMAGE saveformat., OTS to IMAGE Converter., Python Save OTS as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte OTS na IMAGE v Python" h2="Vysokorychlostní knihovna Python pro převod OTS na IMAGE. Toto je profesionální softwarové řešení pro import a export OTS, IMAGE a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Převeďte OTS na IMAGE pomocí Python" %}}
 
- Jak převedu OTS na IMAGE? S knihovnou Aspose.Cells for Python můžete snadno převést OTS na IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu OTS na IMAGE? S knihovnou Aspose.Cells for Python můžete snadno převést OTS na IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit OTS do IMAGE na Python Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte OTS do IMAGE na Python" %}}
 
 Následující příklad ukazuje, jak převést OTS na IMAGE v Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod OTS na IMAGE. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OTS na IMAGE online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod OTS na IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést OTS na IMAGE přes Python" %}}
 
@@ -41,7 +41,7 @@ Potřebujete převést soubory OTS na IMAGE programově? Python vývojáři moho
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
 1.  Načtěte soubor OTS s instancí sešitu.
 1.  Převeďte OTS na IMAGE voláním metody Workbook.save.
-1.  Získejte výsledek převodu OTS na IMAGE.
+1. Získejte výsledek převodu OTS na IMAGE.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ Existují tři možnosti instalace „Aspose.Cells for Python via Java“ do va�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

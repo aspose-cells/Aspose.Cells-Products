@@ -1,8 +1,8 @@
 ---
 title: Excel mit PRN zusammenführen – Kombinieren Sie EXCEL mit PRN in Java
 url: /de/java/merger/merge-excel-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von Excel in das PRN-Speicherformat. Java Kombinieren Sie das Excel-Format mit dem PRN-Format. Excel mit PRN in Java zusammenführen. EXCEL zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PRN in Java., Free Online Java Merge EXCEL to prn., Java Combine EXCEL to PRN Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Excel- und PRN-Speicherformat zusammenführen. Java Kombinieren Sie das Excel-Format mit dem PRN-Format. Excel mit PRN in Java zusammenführen. EXCEL zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PRN in Java., Java Merge EXCEL to prn., Java Combine EXCEL to PRN., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel mit PRN via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von EXCEL mit PRN. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PRN in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Führen Sie Excel mit PRN unter Verwendung von Java zusammen" %}}
 
- Wie füge ich Excel mit PRN zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach Excel und PRN programmgesteuert zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich Excel mit PRN zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Codezeilen ganz einfach Excel und PRN programmgesteuert zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PRN in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie Excel mit PRN in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie Excel mit PRN in Java zusammen" %}}
 
 Das folgende Beispiel zeigt, wie Excel in PRN in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Befolgen Sie die einfachen Schritte, um EXCEL mit PRN zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um Excel in PRN unter Java zusammenzuführen" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von Excel mit PRN in Java" InputFormat="xlsx" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie Excel mit PRN via Java zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie Excel programmgesteuert mit PRN zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie EXCEL programmgesteuert mit PRN zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

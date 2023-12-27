@@ -1,8 +1,8 @@
 ---
 title: MHTML mit PPTX zusammenführen - MHTML mit PPTX in Python kombinieren
 url: /de/python-net/merger/merge-mhtml-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von MHTML zu PPTX im Speicherformat. Python Kombinieren Sie das Format MHTML mit dem Format PPTX. MHTML zu PPTX in Python zusammenführen. MHTML Zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to PPTX in Python., Free Online Python Merge MHTML to pptx., Python Combine MHTML to PPTX Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. MHTML mit PPTX Saveformat zusammenführen. Python Kombinieren Sie das Format MHTML mit dem Format PPTX. MHTML zu PPTX in Python zusammenführen. MHTML Zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to PPTX in Python., Python Merge MHTML to pptx., Python Combine MHTML to PPTX., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML über Python mit PPTX zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von MHTML mit PPTX. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to PPTX in Python., 
 
 {{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit PPTX unter Verwendung von Python zusammen" %}}
 
- Wie füge ich MHTML mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie MHTML mit PPTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+Wie füge ich MHTML mit PPTX zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie MHTML mit PPTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit PPTX in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="MHTML mit PPTX in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie MHTML mit PPTX in Aspose.Cells for Python via .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um MHTML mit PPTX zusammenzuführen. Laden 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um MHTML mit PPTX in Python zusammenzuführen" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von MHTML mit PPTX in Python" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie MHTML über Python mit PPTX zusammen" %}}
 
@@ -52,7 +52,7 @@ Befolgen Sie die einfachen Schritte, um MHTML mit PPTX zusammenzuführen. Laden 
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -80,7 +80,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Dateien mit der Erweiterung MHTML stellen ein Webseitenarchivformat dar, das von verschiedenen Anwendungen erstellt werden kann. Das Format wird als Archivformat bezeichnet, da es den Webcode und die zugehörigen Ressourcen in einer einzigen Datei speichert. Zu diesen Ressourcen gehört alles, was mit der Webseite verknüpft ist, beispielsweise Bilder, Applets, Animationen, Audiodateien usw. MHTML-Dateien können in einer Vielzahl von Anwendungen wie Internet Explorer und Microsoft Word geöffnet werden. Microsoft Windows verwendet das Dateiformat MHTML zum Aufzeichnen von Problemszenarien, die bei der Verwendung einer Anwendung unter Windows beobachtet wurden und Probleme aufwerfen. Das Dateiformat MHTML kodiert den Seiteninhalt ähnlich den in message/rfc822 definierten Spezifikationen, bei denen es sich um Klartext-E-Mail-bezogene Spezifikationen handelt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

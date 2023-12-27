@@ -1,8 +1,8 @@
 ---
 title: Sloučit CSV až XLS - Sloučit CSV až XLS v C#
 url: /cs/net/merger/merge-csv-to-xls/ 
-description: Aspose Excel. C# Aspose.Cells. Online sloučení zdarma CSV do formátu uložení XLS. C# Kombinujte formát CSV až XLS. Sloučit CSV až XLS v C#. CSV Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XLS in C#., Free Online C# Merge CSV to xls., C# Combine CSV to XLS Online for Free., CSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit CSV do XLS uložit formát. C# Kombinujte formát CSV až XLS. Sloučit CSV až XLS v C#. CSV Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XLS in C#., C# Merge CSV to xls., C# Combine CSV to XLS., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit CSV na XLS přes C#" h2="Vysokorychlostní knihovna C# pro sloučení CSV do XLS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XLS in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Sloučit CSV až XLS pomocí C#" %}}
 
- Jak sloučím CSV do XLS? S knihovnou Aspose.Cells for .NET můžete snadno sloučit CSV na XLS programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím CSV do XLS? S knihovnou Aspose.Cells for .NET můžete snadno sloučit CSV na XLS programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit CSV až XLS v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit CSV až XLS v C#" %}}
 
 Následující příklad ukazuje, jak sloučit CSV až XLS v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení CSV do XLS. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení CSV až XLS v C#" InputFormat="csv" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení CSV až XLS v C#" InputFormat="csv" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit CSV na XLS přes C#" %}}
 

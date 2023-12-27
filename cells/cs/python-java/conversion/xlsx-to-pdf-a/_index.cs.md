@@ -10,7 +10,7 @@ description: Ukázkový kód pro převod xlsx na pdf Python. Použijte ukázkov�
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSX na PDF pomocí Python" %}}
 
- Abychom převedli XLSX na PDF, použijeme
+Abychom převedli XLSX na PDF, použijeme
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci a konverzi dokumentů API for Python.
 {{% /blocks/products/pf/agp/content %}}
@@ -41,11 +41,11 @@ description: Ukázkový kód pro převod xlsx na pdf Python. Použijte ukázkov�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Převést XLSX na PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: Ukázkový kód pro převod xlsx na pdf Python. Použijte ukázkov�
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Knihovna programování tabulek Excelu schopná vytvářet aplikace pro různé platformy se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+Knihovna programování tabulek Excelu schopná vytvářet aplikace pro různé platformy se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
     {{% /blocks/products/pf/agp/content %}}
 

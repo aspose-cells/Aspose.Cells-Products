@@ -2,6 +2,7 @@
 title:  Anzeigen oder Bearbeiten von XLSX-Dateimetadaten via .NET
 weight: 3430
 description: C#-Quellcode zum Bearbeiten oder Anzeigen von XLSX-Formatmetadaten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# view xlsx metadata., c# add xlsx metadata., c# insert xlsx metadata., c# edit xlsx metadata., c# remove xlsx metadata., c# extract xlsx metadata., c# modify xlsx metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie XLSX-Metadaten via .NET" h2="Erstellen Sie Ihre eigenen .NET-Apps, um mithilfe serverseitiger APIs Metadaten aus XLSX-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

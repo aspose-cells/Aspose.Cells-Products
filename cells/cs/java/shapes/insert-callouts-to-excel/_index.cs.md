@@ -2,6 +2,7 @@
 title:  Vložte popisky do Excelu via Java
 weight: 360
 description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java add Callouts shape., Java insert Callouts shape., Java create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte popisky do Excelu via Java" h2="Vkládejte popisky pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,9 +57,9 @@ description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli s
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
- + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-)pro vložení popisků do vybraného listu
+ + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) pro vložení popisků do vybraného listu
 + Uložit sešit ve formátu XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -90,7 +91,7 @@ Ukázkový kód níže ukazuje, jak vložit "Thought Bubble: Cloud". Další typ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Přehled typů popisků
+ Přehled typů popisků
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">

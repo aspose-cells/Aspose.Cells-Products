@@ -2,6 +2,7 @@
 title:  XLS tabulka dokladů via Java
 weight: 1050
 description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu v souboru XLS na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xls., Java Save chart to image in xls., Java chart to image in xls., xls convert chart to image in Java., xls save chart to imagein Java., xls chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS Tabulky formátů v Java" h2="Nativní a vysoce výkonné grafy dokumentů XLS pomocí serverových Aspose.Cells for Java API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -11,7 +12,7 @@ description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu v 
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit grafy souborů XLS pomocí Java" %}}
 
- K vytvoření XLS souborových grafů použijeme
+ vytvoření XLS souborových grafů použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, což je funkčně bohatá, výkonná a snadno použitelná grafická platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu v 
 + Přidat vzorové hodnoty do buněk.
 + Přidejte graf do listu.
 + Přístup k instanci nově přidaného grafu.
-Nastavení zdroje dat grafu jako rozsahu.
++ Nastavení zdroje dat grafu jako rozsahu.
 + Uložit sešit.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

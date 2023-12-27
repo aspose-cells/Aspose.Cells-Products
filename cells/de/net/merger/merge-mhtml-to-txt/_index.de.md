@@ -1,8 +1,8 @@
 ---
 title: MHTML mit TXT zusammenführen - MHTML mit TXT in C# kombinieren
 url: /de/net/merger/merge-mhtml-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von MHTML zu TXT im Speicherformat. C# Kombinieren Sie das Format MHTML mit dem Format TXT. MHTML zu TXT in C# zusammenführen. MHTML Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TXT in C#., Free Online C# Merge MHTML to txt., C# Combine MHTML to TXT Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. MHTML mit TXT Saveformat zusammenführen. C# Kombinieren Sie das Format MHTML mit dem Format TXT. MHTML zu TXT in C# zusammenführen. MHTML Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TXT in C#., C# Merge MHTML to txt., C# Combine MHTML to TXT., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML über C# mit TXT zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von MHTML mit TXT. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TXT in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit TXT unter Verwendung von C# zusammen" %}}
 
- Wie füge ich MHTML mit TXT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie MHTML mit TXT ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich MHTML mit TXT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie MHTML mit TXT ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit TXT in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="MHTML mit TXT in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie MHTML mit TXT in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um MHTML mit TXT zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um MHTML mit TXT in C# zusammenzuführen" InputFormat="mhtml" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von MHTML mit TXT in C#" InputFormat="mhtml" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie MHTML über C# mit TXT zusammen" %}}
 

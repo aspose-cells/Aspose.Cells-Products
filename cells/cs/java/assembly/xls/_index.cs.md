@@ -2,6 +2,7 @@
 title:  Generujte sestavy v souborech XLS via Java
 weight: 1090
 description: Java ukázkový kód pro vytvoření sestav formátu XLS na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generování hromadné sestavy ve formátu XLS Formát via Java" h2="Generujte zprávy ve formátu XLS pomocí zdroje dat a šablony." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -75,9 +76,9 @@ description: Java ukázkový kód pro vytvoření sestav formátu XLS na Java Ru
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu XLS – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generujte sestavy Excel ve formátu XLS – Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

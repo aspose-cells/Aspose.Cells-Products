@@ -2,6 +2,7 @@
 title:  Vložte ComboBox (ovládací prvek formuláře) do Excelu pomocí Python via java
 weight: 20
 description: Python via zdrojový kód java pro vložení ComboBoxu (ovládání formuláře) do Excelu.
+keywords: [Python via Java Aspose.Cells., Python via Java add ComboBox into Excel., Python via Java insert ComboBox into Excel., Python via Java create ComboBox in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte ComboBox (ovládací prvek formuláře) do Excelu pomocí Python via java" h2="Vkládejte objekty pomocí rozhraní API na straně serveru bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte kolekci tvarů[přidat metodu](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addComboBox(int,%20int,%20int,%20int,%20int,%20int)), chcete-li do vybraného listu vložit ComboBox (ovládací prvek formuláře).
 + Uložit sešit ve formátu XLSX.
@@ -52,8 +53,8 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
--  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
+- Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte Aspose.Cells for Python přes java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

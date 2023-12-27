@@ -2,6 +2,7 @@
 title:  Vložte tvary rovnic do Excelu via Java
 weight: 360
 description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java add equation shapes., Java insert equation shapes., Java create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte tvary rovnic do Excelu via Java" h2="Vložte tvary rovnic pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli s
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) pro vložení tvarů rovnic do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -103,7 +104,7 @@ Ukázkový kód níže ukazuje, jak vložit "matematické plus". Další typy vi
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MATH_MINUS
+AutoShapeType.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">

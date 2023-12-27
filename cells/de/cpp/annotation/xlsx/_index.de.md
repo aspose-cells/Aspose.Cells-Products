@@ -1,7 +1,8 @@
 ---
-title:  Fügen Sie die Anmerkung XLSX über C++ hinzu
+title:  XLSX-Anmerkung über C++ hinzufügen oder entfernen
 weight: 5260
 description: C++ Beispielcode zum Hinzufügen oder Löschen von XLSX-Formatanmerkungen zur C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie über C++ eine Anmerkung in der Datei XLSX hinzu" h2="Erstellen Sie Ihre eigenen C++-Apps, um Kommentare und Autoren in Dokumentdateien mithilfe serverseitiger APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Wählen Sie das entsprechende Blatt aus
 1.  Fügen Sie den Kommentar mit der Add-Methode hinzu
 1.  Legen Sie die Notiz des Kommentars mit der SetNote-Methode fest.
-1.  Speichern Sie die Arbeitsmappe mit[Speichern](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode
+1.  Speichern Sie die Arbeitsmappe mit[Speichern](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) Methode
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Fügen Sie Kommentare unter XLSX - C++ hinzu" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsx-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsx-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -2,6 +2,7 @@
 title:  Upravit nebo zobrazit XLSX Metadata souborů via Java
 weight: 1240
 description: Java ukázkový kód k úpravě nebo zobrazení XLSX metadata formátu na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java view xlsx metadata., Java add xlsx metadata., Java insert xlsx metadata., Java edit xlsx metadata., Java remove xlsx metadata., Java extract xlsx metadata., Java modify xlsx metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Výpis XLSX Metadata via Java" h2="Sestavte si své vlastní aplikace Java pro přidávání, úpravy, odstraňování nebo extrahování metadat ze souborů XLSX pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java ukázkový kód k úpravě nebo zobrazení XLSX metadata form�
 
  Abychom získali metadata souboru XLSX, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma metadat API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma metadat API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 

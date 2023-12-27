@@ -1,7 +1,7 @@
 ---
-title: Python TABDELIMITED zu PPTX - Online-Konverter von TABDELIMITED zu PPTX
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie TABDELIMITED in das PPTX-Speicherformat. Python TABDELIMITED im Format PPTX. Speichern Sie TABDELIMITED unter PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to PPTX saveformat., Free Online TABDELIMITED to PPTX Python., Python Convert TABDELIMITED to PPTX]
+title: Python TABDELIMITED zu PPTX - TABDELIMITED zu PPTX Konverter
+description: Aspose Excel. Konvertieren Sie TABDELIMITED schnell und einfach in PPTX mit Aspose.Cells. Python TABDELIMITED in PPTX. Python Speichern Sie TABDELIMITED in PPTX. Speichern Sie TABDELIMITED als PPTX mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to PPTX in Python., Save TABDELIMITED to PPTX using Python., Python TABDELIMITED to PPTX saveformat., TABDELIMITED to PPTX Converter., Python Save TABDELIMITED as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TABDELIMITED in PPTX in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von TABDELIMITED in PPTX. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie TABDELIMITED in PPTX in Python" %}}
 
- Wie konvertiere ich TABDELIMITED in PPTX? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie TABDELIMITED mit wenigen Codezeilen ganz einfach programmgesteuert in PPTX konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich TABDELIMITED in PPTX? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie TABDELIMITED mit wenigen Codezeilen ganz einfach programmgesteuert in PPTX konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie TABDELIMITED unter PPTX in Python kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie TABDELIMITED unter PPTX in Python" %}}
 
 Das folgende Beispiel zeigt, wie TABDELIMITED in PPTX in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um TABDELIMITED in PPTX zu konvertieren. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von TABDELIMITED in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von TABDELIMITED in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TABDELIMITED in PPTX" %}}
 
@@ -41,7 +41,7 @@ Müssen Sie TABDELIMITED-Dateien programmgesteuert in PPTX konvertieren? Python-
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 1.  Laden Sie die TABDELIMITED-Datei mit einer Instanz von Workbook.
-1.  Konvertieren Sie TABDELIMITED in PPTX, indem Sie die Methode Workbook.save aufrufen.
+1. Konvertieren Sie TABDELIMITED in PPTX, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von TABDELIMITED in PPTX.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -52,7 +52,7 @@ Müssen Sie TABDELIMITED-Dateien programmgesteuert in PPTX konvertieren? Python-
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -73,7 +73,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Das Dateiformat „Tabulatorgetrennte Werte“ (TSV) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Das Dateiformat, ähnlich CSV, wird zur strukturierten Organisation von Daten für den Import und Export zwischen verschiedenen Anwendungen verwendet. Das Format wird hauptsächlich für den Datenimport/-export und -austausch in Tabellenkalkulationsanwendungen und Datenbanken verwendet. Jeder Datensatz in einer TSV-Datei ist in einer einzelnen Zeile einer Textdatei enthalten, in der jeder Feldwert durch ein Tabulatorzeichen getrennt ist. Der Medientyp für das Dateiformat TSV ist Text/durch Tabulatoren getrennte Werte.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

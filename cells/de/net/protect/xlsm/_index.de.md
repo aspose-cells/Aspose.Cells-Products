@@ -1,7 +1,8 @@
 ---
-title: XLSM Dokument via .NET schützen und verriegeln
+title:  XLSM Dokument via .NET schützen und verriegeln
 weight: 7530
 description: C#-Quellcode zum Sperren der XLSM-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Lock XLSM files., c# How to Protect and lock XLSM document., c# Protect XLSM files., Encrypt XLSM Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Verschlüsseln Sie XLSM-Dateien über C#" h2="Schützen Sie Excel-Tabellen einschließlich des Formats XLSM mithilfe der Bibliothek .NET mit einem Passwort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

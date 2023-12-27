@@ -2,6 +2,7 @@
 title:  Generujte sestavy v souborech XLSB via .NET
 weight: 1690
 description: C# zdrojový kód pro generování sestav formátu XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Create XLSB Reports Based on Predesigned Excel Template., c# Generate XLSB Reports Based on Predesigned Excel Template., c# Create XLSB Reports Based on Excel Template., C# Generate XLSB Reports Based on Excel Template., c# Create XLSB files Based on Excel Template., C# Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generování hromadné zprávy ve formátu XLSB přes C#" h2="Generujte zprávy ve formátu XLSB pomocí zdroje dat a šablony." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

@@ -2,6 +2,7 @@
 title:  Ermitteln Sie die Größe von Bildern/Bildern in Excel via .NET
 weight: 10
 description: C#-Quellcode zum Ermitteln der Bildgröße in Excel auf den Plattformen .NET Framework, .NET Core, Mono oder Xamarin.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ermitteln Sie die Größe von Bildern/Bildern in Excel via .NET" h2="Verwenden von Aspose.Cells\' API zum Arbeiten mit verschiedenen Objekten ohne Software wie Microsoft oder Open Office, Adobe PDF usw." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ Sie benötigen die aspose.cells.dll, um den folgenden Workflow in Ihrer eigenen 
     + [Breite](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) Stellt die Breite der Form in der Einheit Pixel dar.
     + [Höhe](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) Stellt die Höhe der Form in der Einheit Pixel dar.
     + [OriginalBreite](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) Ruft die ursprüngliche Breite des Bildes in Pixeleinheiten ab.
-    + [Originalhöhe](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
+    + [Originalhöhe](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ Es gibt auch zwei größenbezogene Attribute „WidthScale“ und „HeightScale
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

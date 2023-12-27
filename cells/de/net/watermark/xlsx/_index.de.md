@@ -1,7 +1,8 @@
 ---
-title:  Wasserzeichen XLSX Dokument via .NET
+title: Wasserzeichen XLSX Dokument via .NET
 weight: 8270
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSX-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Textwasserzeichen zu XLSX über C# hinzu" h2="Erstellen Sie mithilfe serverseitiger APIs Ihre eigenen .NET-Apps, um XLSX-Dateien mit Wasserzeichen zu versehen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

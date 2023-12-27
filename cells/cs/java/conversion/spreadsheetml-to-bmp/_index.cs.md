@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML na BMP - Online převodník SPREADSHEETML na BMP
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte SPREADSHEETML na BMP saveformat. Java SPREADSHEETML do formátu BMP. Uložte SPREADSHEETML na BMP Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to BMP saveformat., Free Online SPREADSHEETML to BMP Java., Java Convert SPREADSHEETML to BMP]
+title: Java SPREADSHEETML na BMP - SPREADSHEETML na BMP Převodník
+description: Aspose Excel. Převeďte SPREADSHEETML na BMP rychle a snadno pomocí Aspose.Cells. Java SPREADSHEETML na BMP. Java Uložte SPREADSHEETML na BMP. 4 Uložit jako 83076181
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to BMP in Java., Save SPREADSHEETML to BMP using Java., Java SPREADSHEETML to BMP saveformat., SPREADSHEETML to BMP Converter., Java Save SPREADSHEETML as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést SPREADSHEETML na BMP v Java" h2="Vysokorychlostní knihovna Java pro převod SPREADSHEETML na BMP. Jedná se o profesionální softwarové řešení pro import a export SPREADSHEETML, BMP a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Převeďte SPREADSHEETML na BMP pomocí Java" %}}
 
- Jak převedu SPREADSHEETML na BMP? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu SPREADSHEETML na BMP? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na BMP v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na BMP v Java" %}}
 
 Následující příklad ukazuje, jak převést SPREADSHEETML na BMP v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod SPREADSHEETML na BMP. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SPREADSHEETML na BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod SPREADSHEETML na BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SPREADSHEETML na BMP via Java" %}}
 

@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte ODS dokument via .NET
+title:  Chraňte a uzamkněte ODS dokument via .NET
 weight: 5580
 description: C# zdrojový kód k uzamčení souboru ODS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Lock ODS files., c# How to Protect and lock ODS document., c# Protect ODS files., Encrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory ODS přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu ODS pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -105,7 +106,7 @@ book.Save("protected.ods");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu ODS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat ODS soubory](https://products.aspose.app/cells/protect/ods) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu ODS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory ODS](https://products.aspose.app/cells/protect/ods) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor ODS a stisknout tlačítko „Odemknout“." >}}

@@ -2,6 +2,7 @@
 title:  Chraňte a uzamkněte dokument XLS přes C++
 weight: 8760
 description: C++ příklad kódu pro uzamčení souboru XLS pomocí hesla na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLS files., C++ How to Protect and lock XLS document., C++ Protect XLS files., Encrypt XLS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLS přes C++" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLS pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Načtěte soubor XLS pomocí třídy IWorkbook
+1.  Načtěte soubor XLS pomocí třídy Workbook
 1.  Použijte metodu Protect(..) s ProtectionType a Password
 1.  Uložte chráněný soubor XLS metodou Save().
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xls");
 
-// Load XLS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xls")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLS file
-workbook->Save(outDir->StringAppend(new String("output.xls")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xls");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -100,7 +105,7 @@ workbook->Save(outDir->StringAppend(new String("output.xls")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLS soubory](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLS](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLS a stisknout tlačítko „Odemknout“." >}}

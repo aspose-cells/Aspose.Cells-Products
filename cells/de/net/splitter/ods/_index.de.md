@@ -2,6 +2,7 @@
 title:  Teilen Sie ODS Dateien via .NET
 weight: 140
 description: C# Quellcode zum Aufteilen von ODS Dokumenten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., C# split ods files., C# how to split ods files into multiple files., C# ods splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS-Formate in C# aufteilen" h2="Nativer und leistungsstarker ODS-Splitter mit serverseitigen APIs, ohne den Einsatz von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Durchlaufen Sie jedes Blatt
 + Erstellen Sie ein neues Workbook-Klassenobjekt
  + Kopieren Sie das Blatt über[Kopiermethode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
- + Rufen Sie die Save()-Methode auf und übergeben Sie den Dateinamen (vollständiger Pfad) und SaveFormat.Ods als Parameter.
+ Rufen Sie die Save()-Methode auf und übergeben Sie den Dateinamen (vollständiger Pfad) und SaveFormat.Ods als Parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

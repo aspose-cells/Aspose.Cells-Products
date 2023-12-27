@@ -10,7 +10,7 @@ description: C++ Beispielcode zum Kombinieren von XLS-Dokumenten in der C++-Lauf
 
 {{% blocks/products/pf/agp/content h2="So führen Sie eine XLS-Datei mit C++ zusammen" %}}
 
- Um die Datei XLS zusammenzuführen, verwenden wir<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zum Zusammenführen von Dokumenten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> Paketmanager, suchen Sie nach<b>Aspose.Cells.Cpp</b> und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei XLS zusammenzuführen, verwenden wir<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zum Zusammenführen von Dokumenten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> Paketmanager, suchen Sie nach<b>Aspose.Cells.Cpp</b> und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,13 +56,13 @@ Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von Excel-Dateien" InputFormat="xls" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von Excel-Dateien" InputFormat="xls" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 

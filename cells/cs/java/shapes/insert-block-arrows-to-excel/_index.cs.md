@@ -2,6 +2,7 @@
 title: Vložte šipky bloku do Excelu via Java
 weight: 338
 description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte šipky bloku do Excelu via Java" h2="Vložte blokové šipky pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli s
 
 {{% blocks/products/pf/agp/content h2="Jak vložit blokové šipky do souboru aplikace Excel pomocí Java" %}}
 
-Aby bylo možné vložit blokové šipky do souboru aplikace Excel, použijeme
+ Aby bylo možné vložit blokové šipky do souboru aplikace Excel, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, což je funkčně bohatá, výkonná a snadno použitelná platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ Aby bylo možné vložit blokové šipky do souboru aplikace Excel, použijeme
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) pro vložení blokových šipek do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -151,7 +152,7 @@ Ukázkový kód níže ukazuje, jak vložit "šipku vpravo". Další typy nalezn
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Ukázkový kód níže ukazuje, jak vložit "šipku vpravo". Další typy nalezn
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

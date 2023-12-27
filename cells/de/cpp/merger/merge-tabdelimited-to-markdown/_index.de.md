@@ -1,8 +1,8 @@
 ---
 title: TABDELIMITED mit MARKDOWN zusammenführen - TABDELIMITED mit MARKDOWN in C++ kombinieren
 url: /de/cpp/merger/merge-tabdelimited-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung mit TABDELIMITED zum MARKDOWN-Speicherformat. C++ Kombinieren Sie TABDELIMITED mit dem Format MARKDOWN. TABDELIMITED mit MARKDOWN in C++ zusammenführen. TABDELIMITED zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to MARKDOWN in C++., Free Online C++ Merge TABDELIMITED to markdown., C++ Combine TABDELIMITED to MARKDOWN Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. TABDELIMITED mit dem Speicherformat MARKDOWN zusammenführen. C++ Kombinieren Sie TABDELIMITED mit dem Format MARKDOWN. TABDELIMITED mit MARKDOWN in C++ zusammenführen. TABDELIMITED zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to MARKDOWN in C++., C++ Merge TABDELIMITED to markdown., C++ Combine TABDELIMITED to MARKDOWN., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie TABDELIMITED über C++ mit MARKDOWN zusammen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von TABDELIMITED mit MARKDOWN. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to MARKDOWN in C
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit C++ zu MARKDOWN zusammen" %}}
 
-Wie füge ich TABDELIMITED mit MARKDOWN zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TABDELIMITED ganz einfach programmgesteuert mit ein paar Codezeilen in MARKDOWN zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich TABDELIMITED mit MARKDOWN zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TABDELIMITED ganz einfach programmgesteuert mit ein paar Codezeilen in MARKDOWN zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit MARKDOWN in C++ online kostenlos zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit MARKDOWN in C++ zusammen" %}}
 
 Das folgende Beispiel zeigt, wie TABDELIMITED mit MARKDOWN in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um TABDELIMITED mit MARKDOWN zusammenzufüh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um TABDELIMITED mit MARKDOWN in C++ zusammenzuführen" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von TABDELIMITED mit MARKDOWN in C++" InputFormat="tsv" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TABDELIMITED über C++ mit MARKDOWN zusammen" %}}
 
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-pdf/" name="Führen Sie TABDELIMITED mit PDF zusammen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-png/" name="Führen Sie TABDELIMITED mit PNG zusammen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-svg/" name="Führen Sie TABDELIMITED mit SVG zusammen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tiff/" name="Führen Sie TABDELIMITED mit TIFF zusammen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="Führen Sie TABDELIMITED mit TSV zusammen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="Führen Sie TABDELIMITED mit TXT zusammen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="Führen Sie TABDELIMITED mit XLS zusammen" description="Excel-Binärformat" >}}

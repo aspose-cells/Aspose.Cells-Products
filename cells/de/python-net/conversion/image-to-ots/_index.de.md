@@ -1,7 +1,7 @@
 ---
-title: Python IMAGE zu OTS – Online IMAGE zu OTS Konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python BILD in OTS-Speicherformat konvertieren. Python BILD in OTS-Format. Speichern Sie das BILD unter OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to OTS saveformat., Free Online IMAGE to OTS Python., Python Convert IMAGE to OTS]
+title: Python IMAGE zu OTS - IMAGE zu OTS Konverter
+description: Aspose Excel. Konvertieren Sie IMAGE schnell und einfach in OTS mit Aspose.Cells. Python IMAGE in OTS. Python BILD in OTS speichern. Speichern Sie das BILD als OTS mit Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to OTS in Python., Save IMAGE to OTS using Python., Python IMAGE to OTS saveformat., IMAGE to OTS Converter., Python Save IMAGE as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie IMAGE in Python in OTS" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von IMAGE in OTS. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie IMAGE in Python in OTS" %}}
 
- Wie konvertiere ich IMAGE in OTS? Mit der Bibliothek Aspose.Cells for Python via NET können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie konvertiere ich IMAGE in OTS? Mit der Bibliothek Aspose.Cells for Python via NET können Sie IMAGE mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie BILD kostenlos online in OTS unter Python" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie das BILD in OTS unter Python" %}}
 
 Das folgende Beispiel zeigt, wie IMAGE in OTS in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um IMAGE in OTS zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von IMAGE in OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie IMAGE in OTS" %}}
 
@@ -42,7 +42,7 @@ Müssen Sie IMAGE-Dateien programmgesteuert in OTS konvertieren? Python-Entwickl
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 1.  Laden Sie die IMAGE-Datei mit einer Instanz von Workbook.
 1.  Konvertieren Sie IMAGE in OTS, indem Sie die Methode Workbook.save aufrufen.
-1.  Erhalten Sie das Konvertierungsergebnis von IMAGE in OTS.
+1. Erhalten Sie das Konvertierungsergebnis von IMAGE in OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ Müssen Sie IMAGE-Dateien programmgesteuert in OTS konvertieren? Python-Entwickl
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,8 @@
 ---
 title:  Python Excelová tabulka API - Aspose
 weight: 2820
-description: Python tabulková knihovna pro vytváření souborů Excel pro čtení, zápis a analýzu.
+description: Python knihovna pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, HTML, TXT a další oblíbené formáty.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Rozhraní API pro analýzu tabulek aplikace Excel" h2="Vytvářejte, čtěte, zapisujte nebo manipulujte s tabulkami a také exportujte soubory Excel do různých formátů v rámci aplikací Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
@@ -234,7 +235,7 @@ Sbírky
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Pokročilé Python Excel API Funkce
+ Pokročilé Python Excel API Funkce
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Pokročilé Python Excel API Funkce
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Přidejte nebo odeberte seskupení do řádků a sloupců
+Přidejte nebo odeberte seskupení do řádků a sloupců
     </p>
    </div>
    <div class="col-lg-4">
@@ -488,7 +489,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Přizpůsobení grafů
+Přizpůsobení grafů
     </h2>
     <p>
 Aspose.Cells for Python via Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.

@@ -1,8 +1,8 @@
 ---
 title: Sloučit TABDELIMITED na TIFF - Sloučit TABDELIMITED na TIFF v C#
 url: /cs/net/merger/merge-tabdelimited-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Zdarma online sloučení TABDELIMITED do formátu uložení TIFF. C# Kombinujte TABDELIMITED do formátu TIFF. Sloučit TABDELIMITED na TIFF v C#. TABDELIMITED Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TIFF in C#., Free Online C# Merge TABDELIMITED to tiff., C# Combine TABDELIMITED to TIFF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit TABDELIMITED do formátu uložení TIFF. C# Kombinujte TABDELIMITED do formátu TIFF. Sloučit TABDELIMITED na TIFF v C#. TABDELIMITED Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TIFF in C#., C# Merge TABDELIMITED to tiff., C# Combine TABDELIMITED to TIFF., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit TABDELIMITED na TIFF přes C#" h2="Vysokorychlostní knihovna C# pro sloučení TABDELIMITED do TIFF. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="TIFF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TIFF in C#., F
 
 {{% blocks/products/pf/agp/content h2="Sloučit TABDELIMITED do TIFF pomocí C#" %}}
 
-Jak sloučím TABDELIMITED do TIFF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit TABDELIMITED do TIFF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím TABDELIMITED do TIFF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit TABDELIMITED do TIFF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit TABDELIMITED na TIFF v C# online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit TABDELIMITED na TIFF v C#" %}}
 
 Následující příklad ukazuje, jak sloučit TABDELIMITED do TIFF v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení TABDELIMITED do TIFF. Nahra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení TABDELIMITED na TIFF v C#" InputFormat="tsv" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení TABDELIMITED na TIFF v C#" InputFormat="tsv" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit TABDELIMITED na TIFF přes C#" %}}
 

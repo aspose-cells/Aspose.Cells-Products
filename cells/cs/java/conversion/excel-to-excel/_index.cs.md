@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL do EXCEL - Online převodník EXCEL na EXCEL
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převod formátu EXCEL do formátu EXCEL. Java EXCEL do formátu EXCEL. Uložte EXCEL do EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to EXCEL saveformat., Free Online EXCEL to EXCEL Java., Java Convert EXCEL to EXCEL]
+title: Java EXCEL do EXCEL - převodník EXCEL na EXCEL
+description: Aspose Excel. Převeďte EXCEL do EXCELu rychle a snadno pomocí Aspose.Cells. Java EXCEL do EXCELu. Java Uložit EXCEL do EXCELu. Uložte EXCEL jako EXCEL pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to EXCEL in Java., Save EXCEL to EXCEL using Java., Java EXCEL to EXCEL saveformat., EXCEL to EXCEL Converter., Java Save EXCEL as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na EXCEL v Java" h2="Vysokorychlostní knihovna Java pro převod EXCELu do EXCELu. Toto je profesionální softwarové řešení pro import a export EXCEL, EXCEL a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte EXCEL na EXCEL pomocí Java" %}}
 
-Jak převedu EXCEL na EXCEL? S knihovnou Aspose.Cells for Java můžete snadno převést EXCEL na EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu EXCEL na EXCEL? S knihovnou Aspose.Cells for Java můžete snadno převést EXCEL na EXCEL programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu EXCEL na EXCEL? S knihovnou Aspose.Cells for Java můžete snadno p
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit EXCEL do EXCELu na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte EXCEL do EXCELu v Java" %}}
 
 Následující příklad ukazuje, jak převést EXCEL na EXCEL v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků a převeďte EXCEL na EXCEL. Nahrajte soub
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL do EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod EXCELu na EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL na EXCEL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ Excel zu TABDELIMITED – Online-Konverter von Excel zu TABDELIMITED
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Kostenlos online C++ Konvertieren Sie EXCEL in das TABDELIMITED-Speicherformat. C++ Excel in das TABDELIMITED-Format. Speichern Sie Excel unter TABDELIMITED C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TABDELIMITED saveformat., Free Online EXCEL to TABDELIMITED C++., C++ Convert EXCEL to TABDELIMITED]
+title: C++ Excel zu TABDELIMITED - Konverter von Excel zu TABDELIMITED
+description: Aspose Excel. Konvertieren Sie EXCEL schnell und einfach in TABDELIMITED mit Aspose.Cells. C++ EXCEL in TABDELIMITED. C++ Speichern Sie Excel in TABDELIMITED. Speichern Sie Excel als TABDELIMITED mit C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to TABDELIMITED in C++., Save EXCEL to TABDELIMITED using C++., C++ EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., C++ Save EXCEL as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie Excel in TABDELIMITED in C++" h2="Hochleistungsfähige Konvertierung von EXCEL in TABDELIMITED mithilfe der Bibliothek C++, ohne dass eine Installation von Excel, OpenOffice oder Adobe Acrobat erforderlich ist." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TAB
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie EXCEL in TABDELIMITED mit C++" %}}
 
-Wie konvertiere ich Excel in TABDELIMITED? Mit der Bibliothek Aspose.Cells for C++ können Sie EXCEL mit wenigen Codezeilen ganz einfach programmgesteuert in TABDELIMITED konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie konvertiere ich Excel in TABDELIMITED? Mit der Bibliothek Aspose.Cells for C++ können Sie EXCEL mit wenigen Codezeilen ganz einfach programmgesteuert in TABDELIMITED konvertieren.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie Excel kostenlos in TABDELIMITED in C++ online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie Excel in TABDELIMITED in C++" %}}
 
 Das folgende Beispiel zeigt, wie man in C++ EXCEL in TABDELIMITED konvertiert.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um EXCEL in TABDELIMITED zu konvertieren. L
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von EXCEL in TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von EXCEL in TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie Excel über C++ in TABDELIMITED" %}}
 
@@ -49,9 +49,9 @@ Müssen Sie Excel-Dateien programmgesteuert in TABDELIMITED konvertieren? C++-En
 
 1.  Installieren Sie „Aspose.Cells for C++“.
 1.  Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Excel-Datei mit Factory::CreateIWorkbook.
+1.  Laden Sie die Excel-Datei mit Workbook.
 1.  Konvertieren Sie EXCEL in TABDELIMITED, indem Sie die Save()-Methode aufrufen.
-1. Erhalten Sie das Konvertierungsergebnis von EXCEL in TABDELIMITED.
+1.  Erhalten Sie das Konvertierungsergebnis von EXCEL in TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -101,7 +101,6 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="Excel an PDF" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="Excel an PNG" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="Excel an SVG" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="Excel an TIFF" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="Excel an TSV" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="Excel an TXT" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="Excel an XLS" description="Excel-Binärformat" >}}

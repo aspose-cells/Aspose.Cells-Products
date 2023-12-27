@@ -1,8 +1,8 @@
 ---
 title: HTM mit OTS zusammenführen – Kombinieren Sie HTM mit OTS in Java
 url: /de/java/merger/merge-htm-to-ots/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenloses Online-Merge-HTM-zu-OTS-Speicherformat. Java Kombinieren Sie HTM mit dem OTS-Format. HTM mit OTS in Java zusammenführen. HTM zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to OTS in Java., Free Online Java Merge HTM to ots., Java Combine HTM to OTS Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. HTM mit OTS-Speicherformat zusammenführen. Java Kombinieren Sie HTM mit dem OTS-Format. HTM mit OTS in Java zusammenführen. HTM zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to OTS in Java., Java Merge HTM to ots., Java Combine HTM to OTS., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM mit OTS via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von HTM mit OTS. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to OTS in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="HTM mit OTS unter Verwendung von Java zusammenführen" %}}
 
- Wie füge ich HTM zu OTS zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie HTM mit nur wenigen Codezeilen ganz einfach programmgesteuert mit OTS zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich HTM zu OTS zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie HTM mit nur wenigen Codezeilen ganz einfach programmgesteuert mit OTS zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to OTS in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTM mit OTS in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="HTM mit OTS in Java zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie HTM mit OTS in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Befolgen Sie die einfachen Schritte, um HTM mit OTS zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von HTM mit OTS unter Java" InputFormat="htm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTM mit OTS in Java" InputFormat="htm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTM mit OTS via Java zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie HTM programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie HTM programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

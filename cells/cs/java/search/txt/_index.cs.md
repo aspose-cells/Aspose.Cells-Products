@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument TXT bez otevření via Java
 weight: 1200
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TXT v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java search words with pattern in txt file., Java find words with pattern in txt file., Java search string with pattern in txt file., Java find words with pattern in txt file., Java search words in txt file., Java find words in txt file., Java search string in txt file., Java find string in txt file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte TXT Formáty v Java" h2="Nativní a vysoce výkonné TXT prohledávání dokumentů pomocí serverových Aspose.Cells for Java API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TXT" >}}
@@ -62,7 +63,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TX
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu
-+ Vytiskněte buňky nalezené po výsledku hledání
+Vytiskněte buňky nalezené po výsledku hledání
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -2,6 +2,7 @@
 title:  Extrahujte text a obrázky z dokumentu ODS via Java
 weight: 4740
 description: Java ukázkový kód pro extrahování textu a obrázků ze souboru ODS na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java How to Parse ODS File., Java Extract text from ODS file., Extract images from ODS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Parse ODS Formáty v Java" h2="Nativní a vysoce výkonné ODS analyzování dokumentů pomocí Aspose.Cells for Java API na straně serveru, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -63,7 +64,7 @@ description: Java ukázkový kód pro extrahování textu a obrázků ze souboru
 + Vyberte požadovaný list pomocí metody getWorksheets().get.
 + Získejte všechny buňky vybraného listu pomocí getCells().
 + Iterujte každou buňku, získejte její text.
-Vytiskněte každou hodnotu buňky nebo použijte metodu append() StringBuilder k zobrazení jako celku
++ Vytiskněte každou hodnotu buňky nebo použijte metodu append() StringBuilder k zobrazení jako celku
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

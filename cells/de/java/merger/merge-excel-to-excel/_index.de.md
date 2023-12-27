@@ -1,8 +1,8 @@
 ---
 title: Excel mit Excel zusammenführen – Kombinieren Sie Excel mit Excel in Java
 url: /de/java/merger/merge-excel-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von Excel in das Excel-Speicherformat. Java Kombinieren Sie das Excel-Format mit dem Excel-Format. Zusammenführen von Excel zu Excel in Java. Zusammenführen von Excel.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL in Java., Free Online Java Merge EXCEL to excel., Java Combine EXCEL to EXCEL Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Excel- und Excel-Speicherformat zusammenführen. Java Kombinieren Sie das Excel-Format mit dem Excel-Format. Zusammenführen von Excel zu Excel in Java. Zusammenführen von Excel.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL in Java., Java Merge EXCEL to excel., Java Combine EXCEL to EXCEL., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel mit Excel via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von Excel mit Excel. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL in Java., Fre
 
 {{% blocks/products/pf/agp/content h2="Führen Sie Excel mit Excel unter Verwendung von Java zusammen" %}}
 
- Wie füge ich Excel mit Excel zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Zeilen Code ganz einfach programmgesteuert Excel mit Excel zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich Excel mit Excel zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie mit wenigen Zeilen Code ganz einfach programmgesteuert Excel mit Excel zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL in Java., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie Excel in Excel in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie Excel zu Excel in Java zusammen" %}}
 
 Das folgende Beispiel zeigt, wie man Excel in Excel in Aspose.Cells for Java zusammenführt.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um Excel mit Excel zusammenzuführen. Laden
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um Excel in Excel unter Java zusammenzuführen" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von Excel zu Excel in Java" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie Excel mit Excel via Java zusammen" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Vytvořit MHTML - Vytvořit soubor MHTML v Python
-description: Aspose Excel. Python Vytvořte soubor MHTML. Vytvořit MHTML Python. Python MHTML Tvůrce. Vytvořte MHTML v Python. Vygenerujte soubor MHTML pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHTML Creater., Create MHTML file in Python., Generate MHTML file in Python]
+description: Aspose Excel. Python Vytvořte MHTML Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor MHTML pomocí Python. Vytvořte MHTML v Python. 0761831981 0761831983
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHTML file., Generate MHTML file in Python., Create MHTML file using Python., Write data to MHTML file via Python., Create a MHTML file in Python., Python Generate a MHTML file., Python MHTML Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor MHTML v Python" h2="Vysokorychlostní knihovna Python pro vytváření souboru MHTML. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor MHTML pomocí Python" %}}
 
- Jak vytvořit soubor MHTML? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor MHTML programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit soubor MHTML? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit soubor MHTML programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHT
 1.  Vytvořte instanci třídy Sešit.
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a zadejte hodnotu do buněk.
-1. Pomocí metody Uložit uložte sešit jako soubor MHTML.
+1.  Pomocí metody Uložit uložte sešit jako soubor MHTML.
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor MHTML v Python." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.mhtml")
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

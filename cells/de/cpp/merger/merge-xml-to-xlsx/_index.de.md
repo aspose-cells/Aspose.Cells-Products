@@ -1,8 +1,8 @@
 ---
 title: XML mit XLSX zusammenführen – XML mit XLSX in C++ kombinieren
 url: /de/cpp/merger/merge-xml-to-xlsx/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Merge-XML in das XLSX-Speicherformat. C++ Kombinieren Sie XML mit dem Format XLSX. XML mit XLSX in C++ zusammenführen. XML zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLSX in C++., Free Online C++ Merge XML to xlsx., C++ Combine XML to XLSX Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. XML mit dem Speicherformat XLSX zusammenführen. C++ Kombinieren Sie XML mit dem Format XLSX. XML mit XLSX in C++ zusammenführen. XML zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLSX in C++., C++ Merge XML to xlsx., C++ Combine XML to XLSX., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML über C++ mit XLSX zusammenführen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von XML in XLSX. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLSX in C++., Free Onl
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XML mit C++ zu XLSX zusammen" %}}
 
-Wie füge ich XML mit XLSX zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie XML problemlos programmgesteuert und mit wenigen Codezeilen in XLSX zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich XML mit XLSX zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie XML problemlos programmgesteuert und mit wenigen Codezeilen in XLSX zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XML mit XLSX in C++ kostenlos online zusammenführen" %}}
+{{% blocks/products/pf/agp/content h2="XML mit XLSX in C++ zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie XML mit XLSX in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um XML in XLSX zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von XML mit XLSX in C++" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XML mit XLSX in C++" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XML über C++ mit XLSX zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie XML programmgesteuert mit XLSX zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie XML programmgesteuert mit XLSX zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-pdf/" name="XML mit PDF zusammenführen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-png/" name="XML mit PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-svg/" name="XML mit SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tiff/" name="XML mit TIFF zusammenführen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tsv/" name="XML mit TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-txt/" name="XML mit TXT zusammenführen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xls/" name="XML mit XLS zusammenführen" description="Excel-Binärformat" >}}

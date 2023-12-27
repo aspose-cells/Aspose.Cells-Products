@@ -1,7 +1,7 @@
 ---
-title: Java TXT zu OTS - Online TXT zu OTS Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie TXT in das OTS-Speicherformat. Java TXT in das OTS-Format. Speichern Sie TXT in OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to OTS saveformat., Free Online TXT to OTS Java., Java Convert TXT to OTS]
+title: Java TXT zu OTS - TXT zu OTS Konverter
+description: Aspose Excel. Konvertieren Sie TXT schnell und einfach in OTS mit Aspose.Cells. Java TXT in OTS. Java Speichern Sie TXT in OTS. Speichern Sie TXT als OTS unter Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to OTS in Java., Save TXT to OTS using Java., Java TXT to OTS saveformat., TXT to OTS Converter., Java Save TXT as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TXT in OTS in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von TXT in OTS. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von TXT, OTS und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie TXT in OTS mit Java" %}}
 
- Wie konvertiere ich TXT in OTS? Mit der Bibliothek Aspose.Cells for Java können Sie TXT mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich TXT in OTS? Mit der Bibliothek Aspose.Cells for Java können Sie TXT mit wenigen Codezeilen ganz einfach programmgesteuert in OTS konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie TXT bei OTS in Java kostenlos online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie TXT bei OTS in Java" %}}
 
 Das folgende Beispiel zeigt, wie TXT in OTS in Java konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um TXT in OTS umzuwandeln. Laden Sie Ihre T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von TXT in OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von TXT in OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TXT in OTS via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie TXT-Dateien programmgesteuert in OTS konvertieren? Java-Entwickler k
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei TXT mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei TXT mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie TXT in OTS, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von TXT in OTS.
 

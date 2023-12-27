@@ -1,8 +1,8 @@
 ---
-title: C++ Oprava souboru xlsb – Oprava souboru xlsb online zdarma
+title: C++ Oprava xlsb – Obnovte a opravte poškozený soubor xlsb
 url: /cs/cpp/recovery/repair-xlsb/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Oprava xlsb souboru. Zdarma online nástroj na opravu xlsb. Opravte poškozený soubor xlsb. Obnovte poškozený soubor xlsb v aplikaci C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsb file., Free Online Repair a corrupted xlsb file., C++ Recover xlsb file.]
+description: C++ Aspose.Cells. Oprava xlsb. Opravit soubor xlsb. nástroj pro obnovu xlsb. korupce xlsb. Obnovte data xlsb. obnovení souboru xlsb. Obnovte poškozený soubor xlsb.
+keywords: [C++ Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Opravte soubor XLSB v C++" h2="Sestavte si vlastní aplikaci C++ pro opravu souborů xlsb pomocí C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsb 
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor XLSB pomocí C++" %}}
 
-Jak opravím soubor xlsb? S knihovnou Aspose.Cells for C++ můžete snadno opravit soubor XLSB programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak opravím soubor xlsb? S knihovnou Aspose.Cells for C++ můžete snadno opravit soubor XLSB programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Potřebujete opravit soubor xlsb programově? C++ vývojáři mohou snadno nač�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezplatná aplikace a ukázkový kód pro opravu souboru XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Ukázkový kód pro opravu souboru XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="Knihovna C++ na opravu souboru XLSB" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: BILD mit HTM zusammenführen – Kombinieren Sie BILD mit HTM in C#
 url: /de/net/merger/merge-image-to-htm/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von BILD in das HTM-Speicherformat. C# Kombinieren Sie IMAGE mit dem HTM-Format. BILD mit HTM in C# zusammenführen. BILD zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to HTM in C#., Free Online C# Merge IMAGE to htm., C# Combine IMAGE to HTM Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. BILD in HTM-Speicherformat zusammenführen. C# Kombinieren Sie IMAGE mit dem HTM-Format. BILD mit HTM in C# zusammenführen. BILD zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to HTM in C#., C# Merge IMAGE to htm., C# Combine IMAGE to HTM., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie IMAGE über C# mit HTM zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von IMAGE mit HTM. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to HTM in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="BILD mit HTM unter Verwendung von C# zusammenführen" %}}
 
- Wie füge ich IMAGE mit HTM zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie IMAGE ganz einfach programmgesteuert und mit wenigen Codezeilen in HTM zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich IMAGE mit HTM zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie IMAGE ganz einfach programmgesteuert und mit wenigen Codezeilen in HTM zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie IMAGE in C# kostenlos online mit HTM zusammen" %}}
+{{% blocks/products/pf/agp/content h2="BILD mit HTM in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie IMAGE in Aspose.Cells for .NET mit HTM zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um IMAGE mit HTM zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von IMAGE mit HTM unter C#" InputFormat="png" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von IMAGE mit HTM in C#" InputFormat="png" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie IMAGE über C# mit HTM zusammen" %}}
 

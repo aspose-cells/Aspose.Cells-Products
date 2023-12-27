@@ -1,7 +1,8 @@
 ---
-title: XLSX Dokument via .NET schützen und verriegeln
+title:  XLSX Dokument via .NET schützen und verriegeln
 weight: 90
 description: C#-Quellcode zum Sperren der XLSX-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Lock XLSX files., c# How to Protect and lock XLSX document., c# Protect XLSX files., Encrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Verschlüsseln Sie XLSX-Dateien über C#" h2="Schützen Sie Excel-Tabellen einschließlich des Formats XLSX mithilfe der Bibliothek .NET mit einem Passwort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

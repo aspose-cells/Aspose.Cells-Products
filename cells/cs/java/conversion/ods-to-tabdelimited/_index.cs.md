@@ -1,7 +1,7 @@
 ---
-title: Java ODS na TABDELIMITED – Online převodník ODS na TABDELIMITED
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést ODS do formátu uložení TABDELIMITED. Java ODS do formátu TABDELIMITED. Uložit ODS do TABDELIMITED Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to TABDELIMITED saveformat., Free Online ODS to TABDELIMITED Java., Java Convert ODS to TABDELIMITED]
+title: Java ODS na TABDELIMITED - ODS na TABDELIMITED Převodník
+description: Aspose Excel. Převeďte ODS na TABDELIMITED rychle a snadno pomocí Aspose.Cells. Java ODS na TABDELIMITED. Java Uložit ODS do TABDELIMITED. Uložte ODS jako TABDELIMITED pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to TABDELIMITED in Java., Save ODS to TABDELIMITED using Java., Java ODS to TABDELIMITED saveformat., ODS to TABDELIMITED Converter., Java Save ODS as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést ODS na TABDELIMITED v Java" h2="Vysokorychlostní knihovna Java pro převod ODS na TABDELIMITED. Toto je profesionální softwarové řešení pro import a export ODS, TABDELIMITED a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to TA
 
 {{% blocks/products/pf/agp/content h2="Převést ODS na TABDELIMITED pomocí Java" %}}
 
- Jak převedu ODS na TABDELIMITED? S knihovnou Aspose.Cells for Java můžete snadno převést ODS na TABDELIMITED programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu ODS na TABDELIMITED? S knihovnou Aspose.Cells for Java můžete snadno převést ODS na TABDELIMITED programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete ODS na TABDELIMITED za Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Ušetřete ODS na TABDELIMITED za Java" %}}
 
 Následující příklad ukazuje, jak převést ODS na TABDELIMITED v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod ODS na TABDELIMITED. Nahrajte 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ODS na TABDELIMITED Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod ODS na TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="tsv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést ODS na TABDELIMITED via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést ODS soubory na TABDELIMITED programově? Java vývojáři
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor ODS s instancí třídy Workbook.
+1. Načtěte soubor ODS s instancí třídy Workbook.
 1.  Převeďte ODS na TABDELIMITED voláním metody Workbook.save.
 1.  Získejte výsledek převodu ODS na TABDELIMITED.
 

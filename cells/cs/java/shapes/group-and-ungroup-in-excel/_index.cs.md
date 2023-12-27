@@ -2,6 +2,7 @@
 title: Seskupit a oddělit tvary v Excelu via Java
 weight: 360
 description: Seskupit a oddělit objekty pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Seskupit a oddělit tvary v Excelu via Java" h2="Použití Aspose.Cells\' API pro práci s různými objekty bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Seskupit a oddělit objekty pomocí Aspose.Cells' Java API bez jak�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[skupinová metoda](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#group-com.aspose.cells.Shape---) seskupit tvary ve vybraném listu
  + Použijte[metoda oddělování skupin](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#ungroup-com.aspose.cells.GroupShape-) oddělit tvary ve vybraném listu

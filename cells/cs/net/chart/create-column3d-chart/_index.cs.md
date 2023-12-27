@@ -1,6 +1,7 @@
 ---
 title: Vytvořte sloupcové 3D grafy prostřednictvím C#
 description: C# Ukázkový kód pro vytváření sloupcových 3D grafů do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření Column3D grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

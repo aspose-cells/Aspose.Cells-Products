@@ -1,6 +1,7 @@
 ---
 title:  Konvertieren Sie das Diagramm in BMP Bilder via .NET
 description: C#-Quellcode zum Konvertieren des Diagramms in eine XLSX-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Convert chart to BMP., c# Save chart to BMP., c# chart to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie Diagramme in BMP-Bilder in C#" h2="Native und leistungsstarke Konvertierung von XLS-Dokumentdiagrammen in Bilder mithilfe serverseitiger APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Erstellen Sie die Datei XLSX.
-+ Holen Sie sich das Diagramm.
+Holen Sie sich das Diagramm.
 + Konvertieren Sie das Diagramm in das Bild BMP.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

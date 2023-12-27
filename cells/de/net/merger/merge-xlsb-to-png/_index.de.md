@@ -1,8 +1,8 @@
 ---
 title: XLSB mit PNG zusammenführen - XLSB mit PNG in C# kombinieren
 url: /de/net/merger/merge-xlsb-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von XLSB zu PNG im Speicherformat. C# Kombinieren Sie das Format XLSB mit dem Format PNG. XLSB zu PNG in C# zusammenführen. XLSB Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to PNG in C#., Free Online C# Merge XLSB to png., C# Combine XLSB to PNG Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. XLSB mit PNG Saveformat zusammenführen. C# Kombinieren Sie das Format XLSB mit dem Format PNG. XLSB zu PNG in C# zusammenführen. XLSB Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to PNG in C#., C# Merge XLSB to png., C# Combine XLSB to PNG., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB über C# mit PNG zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von XLSB mit PNG. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="PNG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to PNG in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLSB mit PNG unter Verwendung von C# zusammen" %}}
 
- Wie füge ich XLSB mit PNG zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSB mit PNG ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich XLSB mit PNG zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSB mit PNG ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie XLSB mit PNG in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="XLSB mit PNG in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie XLSB mit PNG in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XLSB mit PNG zusammenzuführen. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um XLSB mit PNG in C# zusammenzuführen" InputFormat="xlsb" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XLSB mit PNG in C#" InputFormat="xlsb" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XLSB über C# mit PNG zusammen" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java PRN na IMAGE - Online převodník PRN na IMAGE
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte PRN do formátu uložení IMAGE. Java PRN do formátu IMAGE. Uložit PRN do IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to IMAGE saveformat., Free Online PRN to IMAGE Java., Java Convert PRN to IMAGE]
+title: Java PRN to IMAGE - PRN to IMAGE Converter
+description: Aspose Excel. Převeďte PRN na IMAGE rychle a snadno pomocí Aspose.Cells. Java PRN na IMAGE. Java Uložit PRN do IMAGE. Uložit PRN jako IMAGE pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to IMAGE in Java., Save PRN to IMAGE using Java., Java PRN to IMAGE saveformat., PRN to IMAGE Converter., Java Save PRN as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte PRN na IMAGE v Java" h2="Vysokorychlostní knihovna Java pro převod PRN na IMAGE. Toto je profesionální softwarové řešení pro import a export PRN, IMAGE a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to IM
 
 {{% blocks/products/pf/agp/content h2="Převeďte PRN na IMAGE pomocí Java" %}}
 
- Jak převedu PRN na IMAGE? S knihovnou Aspose.Cells for Java můžete snadno převést PRN na IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu PRN na IMAGE? S knihovnou Aspose.Cells for Java můžete snadno převést PRN na IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to IM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit PRN do IMAGE na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit PRN do IMAGE na Java" %}}
 
 Následující příklad ukazuje, jak převést PRN na IMAGE v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod PRN na IMAGE. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod PRN na IMAGE online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod PRN na IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést PRN na IMAGE via Java" %}}
 
@@ -70,7 +70,7 @@ Potřebujete převést soubory PRN na IMAGE programově? Java vývojáři mohou 
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
 1.  Načtěte soubor PRN s instancí třídy Workbook.
 1.  Převeďte PRN na IMAGE voláním metody Workbook.save.
-1.  Získejte výsledek převodu PRN na IMAGE.
+1. Získejte výsledek převodu PRN na IMAGE.
 
 {{% /blocks/products/pf/agp/content %}}
 

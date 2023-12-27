@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint App je převaděč tabulek SharePoint E
    </header>
    <ul>
     <li>
-Uložit do podsložek
+ Uložit do podsložek
     </li>
     <li>
  Zřetězení souborů
@@ -154,7 +154,7 @@ Uložit do podsložek
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for SharePoint podporuje mnoho oblíbených formátů tabulek, PDF, HTML a další[formáty souborů](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells for SharePoint podporuje mnoho oblíbených formátů tabulek, PDF, HTML a další[formáty souborů](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ Uložit do podsložek
  Zřetězit soubory během převodu
     </h2>
     <p>
-Aspose.Cells for SharePoint poskytuje možnost kombinovat soubory různých formátů do jednoho dokumentu. Kromě toho můžete dokumenty v seznamu posouvat nahoru nebo dolů a nastavit pořadí, ve kterém chcete dokumenty kombinovat.
+ Aspose.Cells for SharePoint poskytuje možnost kombinovat soubory různých formátů do jednoho dokumentu. Kromě toho můžete dokumenty v seznamu posouvat nahoru nebo dolů a nastavit pořadí, ve kterém chcete dokumenty kombinovat.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ Aspose.Cells for SharePoint poskytuje možnost kombinovat soubory různých form
  Převést soubory v podsložkách
     </h2>
     <p>
- Aspose.Cells for SharePoint usnadňuje proces převodu rekurzivním převodem všech dokumentů a podsložek ve vybrané složce. Stávající struktura podsložek se vytvoří v cílové složce.
+Aspose.Cells for SharePoint usnadňuje proces převodu rekurzivním převodem všech dokumentů a podsložek ve vybrané složce. Stávající struktura podsložek se vytvoří v cílové složce.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint poskytuje možnost kombinovat soubory různých form
  Komunikujte s veřejností API
     </h2>
     <p>
-Vývojáři, kteří mají interní řešení SharePoint, mohou použít modul pro převod dokumentů Aspose.Cells for SharePoint prostřednictvím veřejného API. Poskytuje programový přístup ke všem podporovaným formátům a možnostem převodu.
+ Vývojáři, kteří mají interní řešení SharePoint, mohou použít modul pro převod dokumentů Aspose.Cells for SharePoint prostřednictvím veřejného API. Poskytuje programový přístup ke všem podporovaným formátům a možnostem převodu.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Vývojáři, kteří mají interní řešení SharePoint, mohou použít modul p
  Microsoft Excel Automation – není potřeba
     </h2>
     <p>
- Aspose.Cells for SharePoint je vytvořen pomocí spravovaného kódu, který nikdy nepotřebuje Microsoft, aby byl na počítači nainstalován Excel, aby mohl pracovat s převodem formátu Excel. Je to perfektní alternativa pro automatizaci Excelu Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
+Aspose.Cells for SharePoint je vytvořen pomocí spravovaného kódu, který nikdy nepotřebuje Microsoft, aby byl na počítači nainstalován Excel, aby mohl pracovat s převodem formátu Excel. Je to perfektní alternativa pro automatizaci Excelu Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
     </p>
    </div>
   </div>

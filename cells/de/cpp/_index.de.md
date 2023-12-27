@@ -1,7 +1,8 @@
 ---
-title:  C++ Excel-Tabellenkalkulationsprogrammierung API - Aspose
+title: C++ Excel-Tabellenkalkulationsprogrammierung API - Aspose
 weight: 7140
-description: C++ Excel-Bibliothek zum Lesen, Schreiben und Parsen von Dateien, einschließlich der Formate XLS, XLSX, XLSM und XLSB. Konvertieren Sie Tabellenkalkulationen in die Formate PDF, CSV und weitere
+description: Aspose.Cells for C++ Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Konvertieren Sie Excel in PDF, JSON, XML, TSV usw.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel-Tabellen-APIs" h2="Erstellen, lesen, schreiben und analysieren Sie Tabellenkalkulationen ohne Microsoft Excel-Abhängigkeiten in voll funktionsfähigen C++ Anwendungen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: C++ Excel-Bibliothek zum Lesen, Schreiben und Parsen von Dateien, e
  PivotTable
     </li>
     <li>
- Tische
+Tische
     </li>
     <li>
  Diagramme
     </li>
     <li>
-Formelberechnung
+ Formelberechnung
     </li>
     <li>
  Datenvalidierung
@@ -227,7 +228,7 @@ Formelberechnung
      <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ Formelberechnung
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Laden &amp; Speichern Sie Excel-Dateien mithilfe von Streams
+Laden &amp; Speichern Sie Excel-Dateien mithilfe von Streams
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,7 +289,7 @@ Formelberechnung
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Legen Sie die Datenvalidierung fest, um die Eingabe einzuschränken
+ Legen Sie die Datenvalidierung fest, um die Eingabe einzuschränken
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,17 +416,17 @@ Aspose APIs sind völlig unabhängig und stehen in keiner Verbindung zur Microso
      <h3>
  Konvertieren Sie Excel-Dateien in mehrere Formate – C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ gibt Ihnen die vollständige Kontrolle darüber, wie Sie Ih
  Rendern Sie Arbeitsblätter als Bilder
     </h2>
     <p>
-Die Bibliothek rendert mithilfe ihrer eigenen Rendering-Engine mit höchster Genauigkeit nach Microsoft Excel. Es bietet besondere Funktionen wie das Rendern von Arbeitsblättern in Bilder in gängigen Formaten, darunter BMP, TIFF, PNG, JPEG &amp; EMF. Der Sheet2Image-Prozess ist flexibel und ermöglicht die Auswahl von Optionen wie die Steuerung der Auflösung des resultierenden Bildes.
+Die Bibliothek rendert mithilfe ihrer eigenen Rendering-Engine mit höchster Genauigkeit nach Microsoft Excel. Es bietet besondere Funktionen wie das Rendern von Arbeitsblättern in Bilder in gängigen Formaten, darunter BMP, PNG, JPEG &amp; EMF. Der Sheet2Image-Prozess ist flexibel und ermöglicht die Auswahl von Optionen wie die Steuerung der Auflösung des resultierenden Bildes.
     </p>
    </div>
    <div class="col-lg-12">

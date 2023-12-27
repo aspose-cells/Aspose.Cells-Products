@@ -1,7 +1,8 @@
 ---
 title:  Vložte obdélník do Excelu via .NET
 weight: 240
-description: C# zdrojový kód pro vložení obdélníku do Excelu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# Ukázkový kód pro přidání nebo vložení obdélníku do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření obdélníku v MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Rectangle., c# insert Rectangle., c# create Rectangle]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte obdélník do Excelu via .NET" h2="Vložte obdélník pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# zdrojový kód pro vložení obdélníku do Excelu na platformá
 
 {{% blocks/products/pf/agp/content h2="Jak vložit obdélník do souboru aplikace Excel pomocí C#" %}}
 
-Abychom vložili obdélník do souboru aplikace Excel, použijeme
+ Abychom vložili obdélník do souboru aplikace Excel, použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci s dokumenty a rozdělovač API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addrectangle) pro vložení obdélníku do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -77,7 +78,7 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

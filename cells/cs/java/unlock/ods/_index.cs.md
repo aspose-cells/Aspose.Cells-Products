@@ -2,6 +2,7 @@
 title:  Odemkněte ODS dokument via Java
 weight: 5080
 description: Java ukázkový kód pro odemknutí heslem chráněného souboru ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java unlock ODS files., Java how to unlock ODS document., Java unprotect ODS files., remove protection from ODS files., decrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemknout ODS Soubory via Java" h2="Odstraňte ochranu z tabulek aplikace Excel včetně souboru ODS pomocí knihovny Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -73,7 +74,7 @@ description: Java ukázkový kód pro odemknutí heslem chráněného souboru OD
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Odemkněte soubory ODS přes C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Odemknout ODS Soubory via Java" offSpacer="" %}}
 
 ```cs
 

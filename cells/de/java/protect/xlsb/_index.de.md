@@ -1,7 +1,8 @@
 ---
-title: XLSB Dokument via Java schützen und verriegeln
+title:  XLSB Dokument via Java schützen und verriegeln
 weight: 6590
 description: Java Beispielcode zum Sperren der Datei XLSB mit Passwort in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Lock XLSB files., Java How to Protect and lock XLSB document., Java Protect XLSB files., Encrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Dateien verschlüsseln via Java" h2="Schützen Sie Excel-Tabellen einschließlich des Formats XLSB mithilfe der Bibliothek .NET mit einem Passwort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

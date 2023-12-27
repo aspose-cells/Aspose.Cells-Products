@@ -38,7 +38,7 @@ description: C# Beispielcode für die Konvertierung von ODS in Byte-Array. Verwe
 
 {{% blocks/products/pf/agp/text %}}
 
- Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
+Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
 
 {{% /blocks/products/pf/agp/text %}}
 

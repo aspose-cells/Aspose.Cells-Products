@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument XLSX, ohne via Java zu öffnen
 weight: 6780
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei XLSX in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach XLSX-Formaten in Java" h2="Native und leistungsstarke XLSX Dokumentensuche mit serverseitigen Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei X
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält
-+ Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
+Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

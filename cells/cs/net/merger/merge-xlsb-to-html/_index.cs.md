@@ -1,8 +1,8 @@
 ---
 title: Sloučit XLSB až HTML - Sloučit XLSB až HTML v C#
 url: /cs/net/merger/merge-xlsb-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Online sloučení zdarma XLSB do formátu uložení HTML. C# Kombinujte formát XLSB až HTML. Sloučit XLSB až HTML v C#. XLSB Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML in C#., Free Online C# Merge XLSB to html., C# Combine XLSB to HTML Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit XLSB do HTML uložit formát. C# Kombinujte formát XLSB až HTML. Sloučit XLSB až HTML v C#. XLSB Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML in C#., C# Merge XLSB to html., C# Combine XLSB to HTML., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLSB na HTML přes C#" h2="Vysokorychlostní knihovna C# pro sloučení XLSB do HTML. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLSB až HTML pomocí C#" %}}
 
- Jak sloučím XLSB do HTML? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLSB na HTML programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím XLSB do HTML? S knihovnou Aspose.Cells for .NET můžete snadno sloučit XLSB na HTML programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XLSB až HTML v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XLSB až HTML v C#" %}}
 
 Následující příklad ukazuje, jak sloučit XLSB až HTML v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení XLSB do HTML. Nahrajte své
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XLSB až HTML v C#" InputFormat="xlsb" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XLSB až HTML v C#" InputFormat="xlsb" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLSB na HTML přes C#" %}}
 

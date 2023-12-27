@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte XLSB dokument via .NET
+title:  Chraňte a uzamkněte XLSB dokument via .NET
 weight: 5920
 description: C# zdrojový kód k uzamčení souboru XLSB pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Lock XLSB files., c# How to Protect and lock XLSB document., c# Protect XLSB files., Encrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSB přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSB pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -105,7 +106,7 @@ book.Save("protected.xlsb");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSB soubory](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSB](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSB a stisknout tlačítko „Odemknout“." >}}

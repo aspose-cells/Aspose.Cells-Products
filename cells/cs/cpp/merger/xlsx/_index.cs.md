@@ -10,7 +10,7 @@ description: C++ ukázkový kód pro kombinaci dokumentů XLSX na C++ Runtime En
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit soubor XLSX pomocí C++" %}}
 
- Za účelem sloučení souboru XLSX použijeme<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro slučování dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte<b>Aspose.Cells.Cpp</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Za účelem sloučení souboru XLSX použijeme<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro slučování dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte<b>Aspose.Cells.Cpp</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,13 +56,13 @@ Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://p
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení souborů Excel online" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezplatná aplikace pro sloučení souborů Excel online" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 

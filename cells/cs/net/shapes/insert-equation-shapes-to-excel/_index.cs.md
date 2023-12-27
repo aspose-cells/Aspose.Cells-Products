@@ -1,7 +1,8 @@
 ---
 title:  Vložte tvary rovnic do Excelu via .NET
 weight: 360
-description: C# zdrojový kód pro vložení tvarů rovnic do aplikace Excel na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# Ukázkový kód pro přidání nebo vložení tvarů rovnic do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření tvarů rovnic v MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add equation shapes., c# insert equation shapes., c# create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte tvary rovnic do Excelu via .NET" h2="Vložte tvary rovnic pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) pro vložení tvarů rovnic do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -127,7 +128,7 @@ Ukázkový kód níže ukazuje, jak vložit "matematické plus". Další typy vi
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

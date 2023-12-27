@@ -1,8 +1,8 @@
 ---
-title: C# Oprava souboru ods - Oprava souboru ods online zdarma
+title: C# Oprava ods – Obnovení a oprava poškozeného souboru ods
 url: /cs/net/recovery/repair-ods/ 
-description: Aspose Excel. C# Aspose.Cells. C# Oprava souboru ods. Zdarma online nástroj pro opravu ods. Opravte poškozený soubor ods. Obnovte poškozený soubor ods v aplikaci .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file., Free Online Repair a corrupted ods file., C# Recover ods file.]
+description: C# Aspose.Cells. Oprava ods. Opravit soubor ods. nástroj pro obnovu ods. korupce. Obnovte data ods. obnovení souboru ods. Obnovte poškozený soubor ods.
+keywords: [C# Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Opravte soubor ODS v C#" h2="Sestavte si vlastní aplikaci .NET pro opravu souborů ods pomocí .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor ODS pomocí C#" %}}
 
- Jak opravím soubor ods? S knihovnou Aspose.Cells for .NET můžete snadno opravit soubor ODS programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak opravím soubor ods? S knihovnou Aspose.Cells for .NET můžete snadno opravit soubor ODS programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Potřebujete opravit soubor ods programově? .NET vývojáři mohou snadno nač�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezplatná aplikace a ukázkový kód pro opravu souboru ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Ukázkový kód pro opravu souboru ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2="Knihovna .NET na opravu souboru ODS" %}}
 

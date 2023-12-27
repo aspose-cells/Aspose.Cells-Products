@@ -1,6 +1,7 @@
 ---
-title: Excel-Dateianmerkungen NET C#
+title: Hinzufügen oder Entfernen von Excel-Dateianmerkungen NET C#
 description: Fügen Sie Datenanmerkungen von Excel- und OpenOffice-Tabellen mit nur wenigen Zeilen C#-Code hinzu oder entfernen Sie sie.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Entfernen Sie Microsoft<sup>&reg;</sup> Excel-Dateianmerkungen via .NET" h2="Fügen Sie Anmerkungen zu Excel-Dateien mithilfe des Codes C# in .NET-basierten Anwendungen hinzu oder löschen Sie sie." >}}

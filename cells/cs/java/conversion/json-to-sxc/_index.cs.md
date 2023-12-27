@@ -1,7 +1,7 @@
 ---
-title: Java JSON až SXC - Online konvertor JSON až SXC
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést JSON na SXC uložit formát. Java JSON až SXC formát. Uložte si JSON až SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to SXC saveformat., Free Online JSON to SXC Java., Java Convert JSON to SXC]
+title: Java JSON až SXC - JSON až SXC Převodník
+description: Aspose Excel. Převeďte JSON na SXC rychle a snadno pomocí Aspose.Cells. Java JSON na SXC. Java Ušetřete JSON na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to SXC in Java., Save JSON to SXC using Java., Java JSON to SXC saveformat., JSON to SXC Converter., Java Save JSON as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést JSON na SXC na Java" h2="Vysokorychlostní knihovna Java pro převod JSON na SXC. Jedná se o profesionální softwarové řešení pro import a export JSON, SXC a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to S
 
 {{% blocks/products/pf/agp/content h2="Převeďte JSON na SXC pomocí Java" %}}
 
-Jak převedu JSON na SXC? S knihovnou Aspose.Cells for Java můžete snadno převést JSON na SXC programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu JSON na SXC? S knihovnou Aspose.Cells for Java můžete snadno převést JSON na SXC programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu JSON na SXC? S knihovnou Aspose.Cells for Java můžete snadno pře
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete JSON až SXC v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit JSON až SXC v Java" %}}
 
 Následující příklad ukazuje, jak převést JSON na SXC v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod JSON na SXC. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod JSON na SXC online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod JSON na SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést JSON na SXC via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory JSON na SXC programově? Vývojáři Java mohou s
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor JSON s instancí třídy Workbook.
+1. Načtěte soubor JSON s instancí třídy Workbook.
 1.  Převeďte JSON na SXC voláním metody Workbook.save.
 1.  Získejte výsledek převodu JSON na SXC.
 

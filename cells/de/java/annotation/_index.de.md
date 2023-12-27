@@ -1,6 +1,7 @@
 ---
-title: Anmerkungen zu Excel-Dateien via Java
+title: Hinzufügen oder Entfernen von Excel-Dateianmerkungen via Java
 description: Fügen Sie Datenanmerkungen von Excel- und OpenOffice-Tabellen mit der Bibliothek Java hinzu oder entfernen Sie sie.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Verwalten Sie Microsoft<sup>&reg;</sup> Excel-Dateianmerkungen via Java" h2="Fügen Sie einfache Notizen für Anmerkungen ein oder löschen Sie Kommentare auf Zellenebene in Excel-Tabellen in Java-basierten Anwendungen." >}}

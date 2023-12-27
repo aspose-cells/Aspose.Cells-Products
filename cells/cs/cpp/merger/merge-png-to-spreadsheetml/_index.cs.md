@@ -1,8 +1,8 @@
 ---
 title: Sloučit PNG do SPREADSHEETML - Sloučit PNG do SPREADSHEETML v C++
 url: /cs/cpp/merger/merge-png-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Zdarma online sloučení PNG do formátu uložení SPREADSHEETML. C++ Zkombinujte PNG do formátu SPREADSHEETML. Sloučit PNG do SPREADSHEETML v C++. PNG Sloučit.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to SPREADSHEETML in C++., Free Online C++ Merge PNG to spreadsheetml., C++ Combine PNG to SPREADSHEETML Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Sloučit PNG do formátu uložení SPREADSHEETML. C++ Zkombinujte PNG do formátu SPREADSHEETML. Sloučit PNG do SPREADSHEETML v C++. PNG Sloučit.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to SPREADSHEETML in C++., C++ Merge PNG to spreadsheetml., C++ Combine PNG to SPREADSHEETML., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PNG do SPREADSHEETML přes C++" h2="Vysokorychlostní knihovna C++ pro sloučení PNG do SPREADSHEETML. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C++. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to SPREADSHEETML in C++.,
 
 {{% blocks/products/pf/agp/content h2="Sloučit PNG do SPREADSHEETML pomocí C++" %}}
 
-Jak sloučím PNG do SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno sloučit PNG do SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím PNG do SPREADSHEETML? S knihovnou Aspose.Cells for C++ můžete snadno sloučit PNG do SPREADSHEETML programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit PNG do SPREADSHEETML v C++ Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit PNG do SPREADSHEETML v C++" %}}
 
 Následující příklad ukazuje, jak sloučit PNG do SPREADSHEETML v Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení PNG do SPREADSHEETML. Nahra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení PNG do SPREADSHEETML v C++" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení PNG do SPREADSHEETML v C++" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PNG do SPREADSHEETML přes C++" %}}
 
@@ -107,7 +107,6 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-pdf/" name="Sloučit PNG až PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-png/" name="Sloučit PNG až PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-svg/" name="Sloučit PNG až SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-tiff/" name="Sloučit PNG až TIFF" description="Formát tagovaného obrázku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-tsv/" name="Sloučit PNG až TSV" description="Hodnoty oddělené tabulátory" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-txt/" name="Sloučit PNG až TXT" description="Textový dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-png-to-xls/" name="Sloučit PNG až XLS" description="Binární formát Excel" >}}

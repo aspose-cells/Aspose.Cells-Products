@@ -1,12 +1,13 @@
 ---
 title: Microsoft Excel-Dateikonvertierung mit Python via Java
-description: Konvertieren Sie Excel XLS, XLSX, ODS, CSV in PDF, XPS, HTML, JPEG, HTML und viele andere beliebte Formate mit nur wenigen Zeilen Python-Code .
+description: Aspose.Cells for Python via Java Bibliothek. Konvertieren Sie Excel, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL und weitere Formate mit nur wenigen Zeilen Python-Code.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Formatkonvertierung über Python" h2="Importieren und exportieren Sie Excel-Dateien als Tabellenkalkulations-, Web-, Bild- und feste Layoutformate" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Formatkonvertierung über Python" h2="Importieren und exportieren Sie Excel-Dateien als Tabellenkalkulation, Web, Bild und Format mit festem Layout" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Die Excel-Bibliothek beschleunigt die Programmierung und Konvertierung von Tabellenkalkulationen und unterstützt gleichzeitig gängige Formate wie XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 481. Es ermöglicht auch den Export von Excel-Dateien nach PDF, XPS, HTML, MHTML, Plain Text- und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
+Python Die Excel-Bibliothek beschleunigt die Programmierung und Konvertierung von Tabellenkalkulationen und unterstützt gleichzeitig gängige Formate wie XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619348 1. Es ermöglicht auch den Export von Excel-Dateien nach PDF, XPS, HTML, MHTML, Plain Text- und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Excel in XLSX, ODS, SXC und FODS" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Excel-Arbeitsblätter in JPG, BMP, PNG und GIF" %}}
- Jedes Arbeitsblatt einer Excel-Datei kann in verschiedene Bildformate konvertiert werden[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) .setImageFormat zum Festlegen des Bildformats.
+ Jedes Arbeitsblatt einer Excel-Datei kann in verschiedene Bildformate konvertiert werden[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat zum Festlegen des Bildformats.
 {{% blocks/products/pf/feature-page-code h3="Python Code für die Konvertierung von Excel in Bilder" %}}
 ```cs
 // load template spreadsheet
@@ -106,7 +107,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Excel in Word & PowerPoint" %}}
- Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)Klassen wie unten gezeigt.
+Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) Klassen wie unten gezeigt.
 {{% blocks/products/pf/feature-page-code h3="Python-Code für Excel in Word und PowerPoint-Konvertierung" %}}
 ```cs
 // load the template file

@@ -1,7 +1,8 @@
 ---
-title: ODS Dokument via .NET schützen und verriegeln
+title:  ODS Dokument via .NET schützen und verriegeln
 weight: 5580
 description: C#-Quellcode zum Sperren der ODS-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Lock ODS files., c# How to Protect and lock ODS document., c# Protect ODS files., Encrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Verschlüsseln Sie ODS-Dateien über C#" h2="Schützen Sie Excel-Tabellen einschließlich des Formats ODS mithilfe der Bibliothek .NET mit einem Passwort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

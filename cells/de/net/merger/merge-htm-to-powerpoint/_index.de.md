@@ -1,8 +1,8 @@
 ---
 title: HTM mit POWERPOINT zusammenführen - HTM mit POWERPOINT in C# kombinieren
 url: /de/net/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von HTM in das POWERPOINT-Speicherformat. C# Kombinieren Sie HTM mit dem POWERPOINT-Format. HTM mit POWERPOINT in C# zusammenführen. HTM zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to POWERPOINT in C#., Free Online C# Merge HTM to powerpoint., C# Combine HTM to POWERPOINT Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. HTM mit dem POWERPOINT-Speicherformat zusammenführen. C# Kombinieren Sie HTM mit dem POWERPOINT-Format. HTM mit POWERPOINT in C# zusammenführen. HTM zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to POWERPOINT in C#., C# Merge HTM to powerpoint., C# Combine HTM to POWERPOINT., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM über C# mit POWERPOINT zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von HTM mit POWERPOINT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to POWERPOINT in C#., Free
 
 {{% blocks/products/pf/agp/content h2="Führen Sie HTM mit POWERPOINT unter Verwendung von C# zusammen" %}}
 
- Wie füge ich HTM mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich HTM mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTM mit POWERPOINT unter C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="HTM mit POWERPOINT in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie HTM in Aspose.Cells for .NET mit POWERPOINT zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um HTM mit POWERPOINT zusammenzuführen. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von HTM mit POWERPOINT unter C#" InputFormat="htm" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTM mit POWERPOINT in C#" InputFormat="htm" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTM über C# mit POWERPOINT zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Müssen Sie HTM programmgesteuert mit POWERPOINT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+Müssen Sie HTM programmgesteuert mit POWERPOINT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -88,7 +88,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Dateien mit der Erweiterung .htm stellen eine Hypertext Markup Language zum Erstellen von Webseiten zur Anzeige in Webbrowsern wie Chrome, Internet Explorer, Firefox und einer Reihe anderer dar. Es definiert die Markups zum Erstellen statischer Seiten, die im World Wide Web (WWW) veröffentlicht werden, damit andere darauf zugreifen können. Diese Markups teilen den Browsern mit, wie sie den Inhalt einer Webseite anzeigen sollen. Solche Seiten können einfachen Text, Bilder, Hyperlinks zu anderen Seiten, Videos und andere Medieninformationen enthalten. Wenn eine Webseite veröffentlicht wird, können Sie einen Blick auf den Markup-Code dahinter werfen, indem Sie die Seitenquelle anzeigen. Moderne Browser ermöglichen die Untersuchung jedes Abschnitts einer Webseite, in dem jede Unterteilung oder jedes Markup-Element in der HTM-Quelle ausgearbeitet wird.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

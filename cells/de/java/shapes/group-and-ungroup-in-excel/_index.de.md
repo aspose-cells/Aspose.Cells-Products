@@ -2,6 +2,7 @@
 title: Gruppieren und Gruppieren von Formen in Excel via Java
 weight: 360
 description: Gruppieren und Gruppieren von Objekten mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gruppieren und Gruppieren von Formen in Excel via Java" h2="Verwenden von Aspose.Cells\' API zum Arbeiten mit verschiedenen Objekten ohne Software wie Microsoft oder Open Office, Adobe PDF usw." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Gruppieren und Gruppieren von Objekten mit Aspose.Cells' Java API o
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Gruppenmethode](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#group-com.aspose.cells.Shape---) um Formen im ausgewählten Arbeitsblatt zu gruppieren
  + Benutzen Sie die[Gruppierungsmethode aufheben](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#ungroup-com.aspose.cells.GroupShape-) um die Gruppierung von Formen im ausgewählten Arbeitsblatt aufzuheben

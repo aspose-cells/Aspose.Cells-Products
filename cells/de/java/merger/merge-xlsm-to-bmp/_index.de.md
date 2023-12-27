@@ -1,8 +1,8 @@
 ---
 title: XLSM mit BMP zusammenführen - XLSM mit BMP in Java kombinieren
 url: /de/java/merger/merge-xlsm-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von XLSM zu BMP im Speicherformat. Java Kombinieren Sie das Format XLSM mit dem Format BMP. XLSM zu BMP in Java zusammenführen. XLSM Zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to BMP in Java., Free Online Java Merge XLSM to bmp., Java Combine XLSM to BMP Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. XLSM mit BMP Saveformat zusammenführen. Java Kombinieren Sie das Format XLSM mit dem Format BMP. XLSM zu BMP in Java zusammenführen. XLSM Zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to BMP in Java., Java Merge XLSM to bmp., Java Combine XLSM to BMP., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM zu BMP via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von XLSM mit BMP. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="BMP" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to BMP in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLSM mit BMP unter Verwendung von Java zusammen" %}}
 
- Wie füge ich XLSM mit BMP zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie XLSM mit BMP ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich XLSM mit BMP zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie XLSM mit BMP ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to BMP in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie XLSM mit BMP in Java kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="XLSM mit BMP in Java zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie XLSM mit BMP in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um XLSM mit BMP zusammenzuführen. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um XLSM mit BMP in Java zusammenzuführen" InputFormat="xlsm" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XLSM mit BMP in Java" InputFormat="xlsm" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XLSM mit BMP via Java zusammen" %}}
 

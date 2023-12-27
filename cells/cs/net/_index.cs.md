@@ -1,7 +1,8 @@
 ---
 title:  .NET Excel API | Zpracovat tabulkové formáty via .NET Core
 weight: 2030
-description: C# ASP.NET knihovna VB.NET pro práci s dokumenty Microsoft Excel. Vytvářejte soubory pro čtení, zápis, ukládání a tisk tabulkových procesorů. Převést na PDF nebo více formátů
+description: C# ASP.NET Knihovna VB.NET pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, XML, TSV, HTML a tak dále.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Manipulujte s rozhraními API Excel Files via .NET" h2="Čtení a zápis souborů tabulek na platformách .NET, .NET Core & Xamarin. Exportujte tabulky do jiných formátů bez Microsoft Excelu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}

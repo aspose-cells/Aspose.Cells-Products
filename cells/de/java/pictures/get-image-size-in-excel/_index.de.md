@@ -2,6 +2,7 @@
 title:  Ermitteln Sie die Größe von Bildern/Bildern in Excel via Java
 weight: 10
 description: Ruft die Größe von Bildern/Bildern in Excel mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ab.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ermitteln Sie die Größe von Bildern/Bildern in Excel via Java" h2="Verwenden von Aspose.Cells\' API zum Arbeiten mit verschiedenen Objekten ohne Software wie Microsoft oder Open Office, Adobe PDF usw." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: Ruft die Größe von Bildern/Bildern in Excel mit Aspose.Cells' Jav
     + [Breite](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) Stellt die Breite der Form in der Einheit Pixel dar.
     + [Höhe](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) Stellt die Höhe der Form in der Einheit Pixel dar.
     + [OriginalBreite](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) Ruft die ursprüngliche Breite des Bildes in Pixeleinheiten ab.
-    + [Originalhöhe](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
+    + [Originalhöhe](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)Ruft die ursprüngliche Höhe des Bildes in Pixeleinheiten ab.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

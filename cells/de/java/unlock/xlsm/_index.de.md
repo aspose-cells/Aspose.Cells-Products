@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument XLSM via Java
 weight: 7700
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSM-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie XLSM Dateien via Java" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei XLSM mithilfe der Bibliothek Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java Beispielcode zum Entsperren der passwortgeschützten XLSM-Date
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSM-Dateien über C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSM Dateien via Java" offSpacer="" %}}
 
 ```cs
 

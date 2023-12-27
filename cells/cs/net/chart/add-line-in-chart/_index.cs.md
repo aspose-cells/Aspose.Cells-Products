@@ -1,6 +1,7 @@
 ---
 title:  Přidejte čáru do grafu prostřednictvím čísla C#
 description: C# Ukázkový kód pro přidání čáry do grafu do Excelu pomocí knihovny .NET. Tento kód použijte pro přidání čáry do grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte čáru do grafu prostřednictvím čísla C#" h2="Nativní a vysoce výkonná tvorba MS Excel programově pomocí serverových .NET API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ Přidání řádku do grafu dynamicky v rámci běžící aplikace je snadné. A
 1.  Přidejte některá data do buněk listu pomocí[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) objektu[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)metoda.
  Ten bude použit jako zdroj dat pro graf.
 1.  Přidejte graf do listu voláním[**Grafy**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) sbírky[**Přidat**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) metoda, zapouzdřená v[**Pracovní list**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)objekt.
-1.  Přístup k novému[**Schéma**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objekt z kolekce Charts předáním jeho indexu, určete zdroj dat grafu voláním[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Přístup k novému[**Schéma**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objekt z kolekce Charts předáním jeho indexu, určete zdroj dat grafu voláním[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Vypočítejte polohu grafu voláním[**Vypočítat**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) metoda.
 1.  Přidat[**Čára**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Tvar voláním metody Chart.Shapes.AddShapeInChartByScale.
 1. Nastavte formát řádku
@@ -38,7 +39,7 @@ Přidání řádku do grafu dynamicky v rámci běžící aplikace je snadné. A
 
 {{% blocks/products/pf/agp/text %}}
 
- Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
+Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
 
 {{% /blocks/products/pf/agp/text %}}
 

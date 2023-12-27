@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie PNG – Erstellen Sie die Datei PNG in Python
-description: Aspose Excel. Python Datei PNG erstellen. Erstellen PNG Python. Python PNG Ersteller. Erstellen Sie PNG in Python. Generieren Sie die Datei PNG mit Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG Creater., Create PNG file in Python., Generate PNG file in Python]
+description: Aspose Excel. Python Erstellen Sie schnell und einfach eine PNG-Datei mit Aspose.Cells. Erstellen Sie eine PNG-Datei mit Python. Erstellen Sie PNG in Python. Python PNG Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create PNG file., Generate PNG file in Python., Create PNG file using Python., Write data to PNG file via Python., Create a PNG file in Python., Python Generate a PNG file., Python PNG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie die Datei PNG in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Erstellen der Datei PNG. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSX, PDF und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG C
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie die Datei PNG mit Python" %}}
 
- Wie erstelle ich die Datei PNG? Mit der Bibliothek Aspose.Cells for Python via Java können Sie die Datei PNG ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+ Wie erstelle ich die Datei PNG? Mit der Bibliothek Aspose.Cells for Python via Java können Sie die Datei PNG ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG C
 1.  Erstellen Sie eine Arbeitsmappenklasseninstanz.
 1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
-1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als PNG-Datei zu speichern.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als PNG-Datei zu speichern.
 
 {{% blocks/products/pf/agp/code-block title="Der Beispielcode zeigt, wie die Datei PNG in Python erstellt wird." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for Python via Java“ auf Ihrem Sy
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
+ Aspose.Cells for Python via Java ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux und MacOS) verwendet werden. Stellen Sie einfach sicher, dass das System Java 1.8 oder höher hat.[Python](https://www.python.org/downloads/) 3,5 oder höher.
 
 {{% /blocks/products/pf/agp/text %}}
 

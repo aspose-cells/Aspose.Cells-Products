@@ -2,6 +2,7 @@
 title:  Fügen Sie Arc in Excel via Java ein
 weight: 10
 description: Fügen Sie Objekte mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein.
+keywords: [Java Aspose.Cells., Java add arc shape., Java insert arc shape., Java create arc shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Arc in Excel via Java ein" h2="Fügen Sie Arc mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Fügen Sie Objekte mit Aspose.Cells' Java API ohne Software wie Mic
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addArc-int-int-int-int-int-int-) , um Arc in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.

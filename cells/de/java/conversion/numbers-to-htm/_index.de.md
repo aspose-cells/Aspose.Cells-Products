@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS zu HTM - Online NUMBERS zu HTM Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie NUMBERS in das HTM-Speicherformat. Java ZAHLEN im HTM-Format. Speichern Sie NUMBERS unter HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to HTM saveformat., Free Online NUMBERS to HTM Java., Java Convert NUMBERS to HTM]
+title: Java NUMBERS zu HTM - NUMBERS zu HTM Konverter
+description: Aspose Excel. Konvertieren Sie NUMBERS schnell und einfach mit Aspose.Cells in HTM. Java NUMBERS in HTM. Java Nummern in HTM speichern. Speichern Sie NUMBERS als HTM mit Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to HTM in Java., Save NUMBERS to HTM using Java., Java NUMBERS to HTM saveformat., NUMBERS to HTM Converter., Java Save NUMBERS as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in Java in HTM" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von NUMBERS in HTM. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von NUMBERS, HTM und vielen anderen Formaten unter Verwendung von Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie NUMBERS mit Java in HTM" %}}
 
- Wie konvertiere ich NUMBERS in HTM? Mit der Bibliothek Aspose.Cells for Java können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in HTM konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich NUMBERS in HTM? Mit der Bibliothek Aspose.Cells for Java können Sie NUMBERS mit wenigen Codezeilen ganz einfach programmgesteuert in HTM konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie NUMBERS kostenlos online bei HTM in Java" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie NUMBERS in HTM unter Java" %}}
 
 Das folgende Beispiel zeigt, wie NUMBERS in Java in HTM konvertiert werden.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in HTM zu konvertieren. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von NUMBERS in HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von NUMBERS in HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie NUMBERS in HTM via Java" %}}
 
@@ -97,7 +97,7 @@ Müssen Sie NUMBERS-Dateien programmgesteuert in HTM konvertieren? Java-Entwickl
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Dateien mit der Erweiterung .htm stellen eine Hypertext Markup Language zum Erstellen von Webseiten zur Anzeige in Webbrowsern wie Chrome, Internet Explorer, Firefox und einer Reihe anderer dar. Es definiert die Markups zum Erstellen statischer Seiten, die im World Wide Web (WWW) veröffentlicht werden, damit andere darauf zugreifen können. Diese Markups teilen den Browsern mit, wie sie den Inhalt einer Webseite anzeigen sollen. Solche Seiten können einfachen Text, Bilder, Hyperlinks zu anderen Seiten, Videos und andere Medieninformationen enthalten. Wenn eine Webseite veröffentlicht wird, können Sie einen Blick auf den Markup-Code dahinter werfen, indem Sie die Seitenquelle anzeigen. Moderne Browser ermöglichen die Untersuchung jedes Abschnitts einer Webseite, in dem jede Unterteilung oder jedes Markup-Element in der HTM-Quelle ausgearbeitet wird.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

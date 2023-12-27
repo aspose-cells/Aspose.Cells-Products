@@ -2,6 +2,7 @@
 title:  Anzeigen oder Bearbeiten von ODS-Dateimetadaten via .NET
 weight: 320
 description: C#-Quellcode zum Bearbeiten oder Anzeigen von ODS-Formatmetadaten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# view ods metadata., c# add ods metadata., c# insert ods metadata., c# edit ods metadata., c# remove ods metadata., c# extract ods metadata., c# modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie ODS-Metadaten via .NET" h2="Erstellen Sie Ihre eigenen .NET-Apps, um mithilfe serverseitiger APIs Metadaten aus ODS-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,8 @@
 ---
 title:  Fügen Sie Blockpfeile in Excel via .NET ein
 weight: 338
-description: C# Quellcode zum Einfügen von Blockpfeilen in Excel auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+description: C# Beispielcode zum Hinzufügen oder Einfügen von Blockpfeilen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code, um Blockpfeile in MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung zu erstellen.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Blockpfeile in Excel via .NET ein" h2="Fügen Sie Blockpfeile mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# Quellcode zum Einfügen von Blockpfeilen in Excel auf .NET Frame
 
 {{% blocks/products/pf/agp/content h2="So fügen Sie Blockpfeile mit C# in eine Excel-Datei ein" %}}
 
-Um Blockpfeile in eine Excel-Datei einzufügen, verwenden wir
+ Um Blockpfeile in eine Excel-Datei einzufügen, verwenden wir
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung und -spaltung API für C#. Offen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Sie benötigen die aspose.cells.dll, um den folgenden Workflow in Ihrer eigenen 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) , um Blockpfeile in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.
@@ -159,7 +160,7 @@ Der folgende Beispielcode zeigt, wie ein „Rechtspfeil“ eingefügt wird. Weit
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedLeftArrow
+AutoShapeType.CurvedLeftArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ Der folgende Beispielcode zeigt, wie ein „Rechtspfeil“ eingefügt wird. Weit
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

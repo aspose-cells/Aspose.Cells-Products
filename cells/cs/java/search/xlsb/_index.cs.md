@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument XLSB bez otevření via Java
 weight: 9420
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java search words with pattern in xlsb file., Java find words with pattern in xlsb file., Java search string with pattern in xlsb file., Java find words with pattern in xlsb file., Java search words in xlsb file., Java find words in xlsb file., Java search string in xlsb file., Java find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte XLSB Formáty v Java" h2="Nativní a vysoce výkonné XLSB prohledávání dokumentů pomocí serverových Aspose.Cells for Java API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -62,7 +63,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XL
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu
-+ Vytiskněte buňky nalezené po výsledku hledání
+Vytiskněte buňky nalezené po výsledku hledání
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

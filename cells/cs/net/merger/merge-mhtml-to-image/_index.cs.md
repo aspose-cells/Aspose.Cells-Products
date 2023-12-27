@@ -1,8 +1,8 @@
 ---
 title: Sloučit MHTML s IMAGE – Sloučit MHTML s IMAGE v C#
 url: /cs/net/merger/merge-mhtml-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Zdarma online sloučení MHTML do formátu uložení OBRÁZKU. C# Zkombinujte MHTML do formátu IMAGE. Sloučit MHTML do IMAGE v C#. MHTML Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to IMAGE in C#., Free Online C# Merge MHTML to image., C# Combine MHTML to IMAGE Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit MHTML do formátu uložení OBRÁZEK. C# Zkombinujte MHTML do formátu IMAGE. Sloučit MHTML do IMAGE v C#. MHTML Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to IMAGE in C#., C# Merge MHTML to image., C# Combine MHTML to IMAGE., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit MHTML do IMAGE přes C#" h2="Vysokorychlostní knihovna C# pro sloučení MHTML do IMAGE. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="IMAGE" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to IMAGE in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="Sloučit MHTML do IMAGE pomocí C#" %}}
 
- Jak sloučím MHTML do IMAGE? S knihovnou Aspose.Cells for .NET můžete snadno sloučit MHTML do IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím MHTML do IMAGE? S knihovnou Aspose.Cells for .NET můžete snadno sloučit MHTML do IMAGE programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit MHTML s IMAGE v C# Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit MHTML s IMAGE v C#" %}}
 
 Následující příklad ukazuje, jak sloučit MHTML do IMAGE v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení MHTML s IMAGE. Nahrajte sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení MHTML do IMAGE v C#" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení MHTML do IMAGE v C#" InputFormat="mhtml" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit MHTML s IMAGE přes C#" %}}
 

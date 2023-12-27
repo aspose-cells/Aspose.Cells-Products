@@ -1,6 +1,7 @@
 ---
 title:  Vytvořte spojnicové grafy prostřednictvím C#
 description: C# Ukázkový kód pro vytváření spojnicových grafů do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření spojnicového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte spojnicové grafy prostřednictvím C#" h2="Nativní a vysoce výkonné vytváření grafů MS Excel programově pomocí rozhraní API .NET na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Ukázkový kód pro vytváření spojnicových grafů do Excelu 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Vytváření spojnicových grafů dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvářet různé grafy až tabulky od nuly bez potřeby MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Aspose.Cells poskytuje mnoho flexibilních objektů grafu.
+Vytváření spojnicových grafů dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvářet různé grafy až tabulky od nuly bez potřeby MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Aspose.Cells poskytuje mnoho flexibilních objektů grafu.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -25,8 +26,8 @@ description: C# Ukázkový kód pro vytváření spojnicových grafů do Excelu 
 
 1. Zahrnout jmenný prostor Aspose.Cells
 1.  Vytvořit[**pracovní sešit**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instance třídy.
-1. Přidejte některá data do listu.
-1.  Přidat[**Čára**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Graf k pracovnímu listu.
+1. Přidejte do listu nějaká data.
+1.  Přidat[**Čára**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Graf k pracovnímu listu.
 1.  Přístup k novému[**Schéma**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objekt.
 1.  Zadejte zdroj dat grafu pomocí[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metoda.
 
@@ -37,7 +38,7 @@ description: C# Ukázkový kód pro vytváření spojnicových grafů do Excelu 
 
 {{% blocks/products/pf/agp/text %}}
 
- Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
+Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
 
 {{% /blocks/products/pf/agp/text %}}
 

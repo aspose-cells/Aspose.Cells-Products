@@ -1,7 +1,8 @@
 ---
 title:  Vložení kontingenční tabulky do souborů Microsoft Excel XLSM přes C#
 weight: 7690
-description: C# Ukázkový kód pro generování XLSM dokumentů pomocí kontingenční tabulky. Tento kód použijte k vytváření souborů Microsoft Excel XLSM s kontingenční tabulkou v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+description: C# Ukázkový kód pro přidání kontingenční tabulky do XLSM pomocí knihovny .NET. Tento kód použijte pro vložení kontingenční tabulky do souboru XLSM v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in xlsm., c# create PivotTable in xlsm., c# modify PivotTable in xlsm., access PivotTable in xlsm., c# add pivot table in xlsm., c# insert pivot table in xlsm., c# create pivot table in xlsm., c# modify pivot table in xlsm., access pivot table in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložit kontingenční tabulku do dokumentů XLSM prostřednictvím čísla C#" h2="Nativní a vysoce výkonná Microsoft tabulka Excel XLSM s vytvářením kontingenčních tabulek programově pomocí .NET API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -11,9 +12,7 @@ description: C# Ukázkový kód pro generování XLSM dokumentů pomocí konting
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generování souboru MS Excel XLSM s kontingenční tabulkou dynamicky v rámci běžící aplikace je snadné. Aby bylo možné vytvořit XLSM dokumentů s kontingenční tabulkou od nuly bez nutnosti MS Office, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
+ Generování souboru MS Excel XLSM s kontingenční tabulkou dynamicky v rámci běžící aplikace je snadné. Aby bylo možné vytvořit XLSM dokumentů s kontingenční tabulkou od nuly bez nutnosti MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Ukázkový kód pro generování XLSM dokumentů pomocí konting
 
 {{% blocks/products/pf/agp/text %}}
 
-Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLSM do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
+ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLSM do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XL
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a vložte hodnotu do buněk.
 1.  Vložte kontingenční tabulku a nastavte styl
-1. Pomocí metody Uložit uložte sešit jako soubor XLSM.
+1.  Pomocí metody Uložit uložte sešit jako soubor XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XL
 
 {{% blocks/products/pf/agp/text %}}
 
- Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
+Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
 
 {{% /blocks/products/pf/agp/text %}}
 

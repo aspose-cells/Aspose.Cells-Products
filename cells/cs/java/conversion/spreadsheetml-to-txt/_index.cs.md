@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML na TXT - Online převodník SPREADSHEETML na TXT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte SPREADSHEETML na TXT saveformat. Java SPREADSHEETML do formátu TXT. Uložte SPREADSHEETML na TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to TXT saveformat., Free Online SPREADSHEETML to TXT Java., Java Convert SPREADSHEETML to TXT]
+title: Java SPREADSHEETML na TXT - SPREADSHEETML na TXT Převodník
+description: Aspose Excel. Převeďte SPREADSHEETML na TXT rychle a snadno pomocí Aspose.Cells. Java SPREADSHEETML na TXT. Java Uložte SPREADSHEETML na TXT. 4 Uložit jako 83076181
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to TXT in Java., Save SPREADSHEETML to TXT using Java., Java SPREADSHEETML to TXT saveformat., SPREADSHEETML to TXT Converter., Java Save SPREADSHEETML as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést SPREADSHEETML na TXT v Java" h2="Vysokorychlostní knihovna Java pro převod SPREADSHEETML na TXT. Jedná se o profesionální softwarové řešení pro import a export SPREADSHEETML, TXT a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Převeďte SPREADSHEETML na TXT pomocí Java" %}}
 
- Jak převedu SPREADSHEETML na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu SPREADSHEETML na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na TXT v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na TXT v Java" %}}
 
 Následující příklad ukazuje, jak převést SPREADSHEETML na TXT v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod SPREADSHEETML na TXT. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SPREADSHEETML na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod SPREADSHEETML na TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SPREADSHEETML na TXT via Java" %}}
 

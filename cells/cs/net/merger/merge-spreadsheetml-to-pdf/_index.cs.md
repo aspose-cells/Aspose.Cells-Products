@@ -1,8 +1,8 @@
 ---
 title: Sloučit SPREADSHEETML s PDF - Sloučit SPREADSHEETML s PDF v C#
 url: /cs/net/merger/merge-spreadsheetml-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Zdarma online sloučit SPREADSHEETML do formátu uložení PDF. C# Zkombinujte SPREADSHEETML do formátu PDF. Sloučit SPREADSHEETML na PDF v C#. SPREADSHEETML Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PDF in C#., Free Online C# Merge SPREADSHEETML to pdf., C# Combine SPREADSHEETML to PDF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit SPREADSHEETML do PDF saveformat. C# Zkombinujte SPREADSHEETML do formátu PDF. Sloučit SPREADSHEETML na PDF v C#. SPREADSHEETML Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PDF in C#., C# Merge SPREADSHEETML to pdf., C# Combine SPREADSHEETML to PDF., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit SPREADSHEETML na PDF přes C#" h2="Vysokorychlostní knihovna C# pro sloučení SPREADSHEETML do PDF. Použijte náš excelový převod API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export formátů Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PDF in C#., F
 
 {{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML do PDF pomocí C#" %}}
 
- Jak sloučím SPREADSHEETML do PDF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit SPREADSHEETML do PDF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím SPREADSHEETML do PDF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit SPREADSHEETML do PDF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML na PDF v C# online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML na PDF v C#" %}}
 
 Následující příklad ukazuje, jak sloučit SPREADSHEETML do PDF v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení SPREADSHEETML do PDF. Nahra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení SPREADSHEETML na PDF v C#" InputFormat="xml" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení SPREADSHEETML do PDF v C#" InputFormat="xml" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit SPREADSHEETML do PDF přes C#" %}}
 

@@ -1,6 +1,7 @@
 ---
 title:  Erstellen Sie Liniendiagramme über C#
 description: C# Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Erstellen eines Liniendiagramms für MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie Liniendiagramme über C#" h2="Native und leistungsstarke Erstellung von MS Excel-Diagrammen programmgesteuert mithilfe serverseitiger .NET-APIs." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilf
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Das dynamische Erstellen von Liniendiagrammen innerhalb einer laufenden Anwendung ist einfach. Um eine Vielzahl von Diagrammen bis hin zu Tabellenkalkulationen von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Aspose.Cells bietet viele flexible Diagrammobjekte.
+Das dynamische Erstellen von Liniendiagrammen innerhalb einer laufenden Anwendung ist einfach. Um eine Vielzahl von Diagrammen bis hin zu Tabellenkalkulationen von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Aspose.Cells bietet viele flexible Diagrammobjekte.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -26,7 +27,7 @@ description: C# Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilf
 1. Schließen Sie den Namespace Aspose.Cells ein
 1.  Erstellen[**Arbeitsmappe**](https://reference.aspose.com/cells/net/aspose.cells/workbook) Klasseninstanz.
 1. Fügen Sie dem Arbeitsblatt einige Daten hinzu.
-1.  Füge hinzu ein[**Linie**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Diagramm zum Arbeitsblatt.
+1.  Füge hinzu ein[**Linie**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagramm zum Arbeitsblatt.
 1.  Greifen Sie auf das Neue zu[**Diagramm**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)Objekt.
 1.  Geben Sie die Datenquelle des Diagramms mit an[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) Methode.
 
@@ -37,7 +38,7 @@ description: C# Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilf
 
 {{% blocks/products/pf/agp/text %}}
 
- Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
+Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -12,7 +12,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-, Schr
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
+Aspose.Cells for Python ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -234,7 +234,7 @@ Sammlungen
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Erweiterte Python Excel API Funktionen
+ Erweiterte Python Excel API Funktionen
    </h2>
    <p>
    </p>
@@ -305,7 +305,7 @@ Erweiterte Python Excel API Funktionen
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
+Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
     </p>
    </div>
    <div class="col-lg-4">
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Flexible Anzeigeoptionen
     </h2>
     <p>
-Aspose.Cells for Python bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
+ Aspose.Cells for Python bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -489,7 +489,7 @@ Aspose.Cells for Python bietet vollständige Kontrolle über die Seiteneinrichtu
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Diagrammanpassung
+Diagrammanpassung
     </h2>
     <p>
  Aspose.Cells for Python bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.

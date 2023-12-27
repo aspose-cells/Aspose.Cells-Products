@@ -2,6 +2,7 @@
 title:  Zobrazit TXT Formáty souborů via .NET
 weight: 8300
 description: C# zdrojový kód pro načtení, vykreslení a zobrazení dokumentů TXT na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# view TXT files., c# how to render TXT document., c# load and display TXT files., TXT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT Prohlížeč souborů for .NET" h2="Prohlížejte si tabulky Excelu a OpenOffice, jako je TXT, aniž byste potřebovali Microsoft Excel nebo Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="TXT" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Načtěte soubor TXT v instanci sešitu
 1.  Vytvořte instanci HtmlSaveOptions a nastavte vlastnost ExportHeadings na true
-1.  Uložte soubor TXT ve formátu HTML pomocí metody Workbook.Save
+1. Uložte soubor TXT ve formátu HTML pomocí metody Workbook.Save
 1.  Načtěte výsledný HTML ve výchozím prohlížeči pomocí Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

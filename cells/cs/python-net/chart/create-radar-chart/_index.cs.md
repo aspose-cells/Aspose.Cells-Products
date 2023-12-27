@@ -1,6 +1,7 @@
 ---
 title: Vytvořte radarové mapy přes Python
 description: Python Ukázkový kód pro vytváření radarových grafů do Excelu pomocí knihovny Python. Tento kód použijte pro vytvoření radarového grafu pro MS Excel v aplikaci založené na Python.
+keywords: [Python Aspose.Cells., Python add Radar Chart., Python insert Radar Chart., Python create Radar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -24,7 +25,7 @@ Pro vývojáře je snadné vytvořit radarový graf v rámci běhu různých rep
 
 1. Importujte buňky asposecell do souboru kódu.
 1. Vytvořte instanci třídy Sešit.
-1. Přidejte některá data do listu.
+1. Přidejte do listu nějaká data.
 1. Přidejte do listu radarový graf
 1. Získejte přístup k novému objektu grafu z kolekce Charts předáním jeho indexu.
 1. Nastavte zdroj dat grafu pomocí metody Chart.setChartDataRange.
@@ -36,7 +37,7 @@ Pro vývojáře je snadné vytvořit radarový graf v rámci běhu různých rep
  Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
 {{% /blocks/products/pf/agp/text %}}
 
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Následující zdrojový kód ukazuje, jak vytvořit radarový graf do souboru MS Excel XLSX pomocí Python." offSpacer="" %}}

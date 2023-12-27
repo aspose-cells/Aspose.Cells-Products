@@ -1,8 +1,8 @@
 ---
 title: PRN zu JPG zusammenführen – PRN zu JPG in C# kombinieren
 url: /de/net/merger/merge-prn-to-jpg/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenloses Online-Speicherformat zum Zusammenführen von PRN und JPG. C# Kombinieren Sie PRN mit dem JPG-Format. PRN in JPG in C# zusammenführen. PRN zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to JPG in C#., Free Online C# Merge PRN to jpg., C# Combine PRN to JPG Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. PRN in JPG-Speicherformat zusammenführen. C# Kombinieren Sie PRN mit dem JPG-Format. PRN in JPG in C# zusammenführen. PRN zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to JPG in C#., C# Merge PRN to jpg., C# Combine PRN to JPG., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN über C# in JPG zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von PRN in JPG. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to JPG in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="PRN mit C# in JPG zusammenführen" %}}
 
- Wie füge ich PRN zu JPG zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie PRN ganz einfach programmgesteuert und mit wenigen Codezeilen in JPG zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich PRN zu JPG zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie PRN ganz einfach programmgesteuert und mit wenigen Codezeilen in JPG zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PRN in JPG in C# kostenlos online zusammenführen" %}}
+{{% blocks/products/pf/agp/content h2="PRN in JPG in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie PRN in JPG in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um PRN in JPG zusammenzuführen. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um PRN in JPG unter C# zusammenzuführen" InputFormat="prn" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von PRN zu JPG in C#" InputFormat="prn" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie PRN über C# zu JPG zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie PRN programmgesteuert in JPG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie PRN programmgesteuert in JPG zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLTX až TXT - Online konvertor XLTX až TXT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLTX na TXT uložit formát. Java XLTX až TXT formát. Uložte si XLTX až TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to TXT saveformat., Free Online XLTX to TXT Java., Java Convert XLTX to TXT]
+title: Java XLTX až TXT - XLTX až TXT Převodník
+description: Aspose Excel. Převeďte XLTX na TXT rychle a snadno pomocí Aspose.Cells. Java XLTX na TXT. Java Ušetřete XLTX na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to TXT in Java., Save XLTX to TXT using Java., Java XLTX to TXT saveformat., XLTX to TXT Converter., Java Save XLTX as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLTX na TXT na Java" h2="Vysokorychlostní knihovna Java pro převod XLTX na TXT. Jedná se o profesionální softwarové řešení pro import a export XLTX, TXT a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to T
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLTX na TXT pomocí Java" %}}
 
-Jak převedu XLTX na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLTX na TXT? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na TXT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLTX na TXT? S knihovnou Aspose.Cells for Java můžete snadno pře
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLTX až TXT v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLTX až TXT v Java" %}}
 
 Následující příklad ukazuje, jak převést XLTX na TXT v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLTX na TXT. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTX na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLTX na TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="txt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTX na TXT via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLTX na TXT programově? Vývojáři Java mohou s
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLTX s instancí třídy Workbook.
+1. Načtěte soubor XLTX s instancí třídy Workbook.
 1.  Převeďte XLTX na TXT voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLTX na TXT.
 

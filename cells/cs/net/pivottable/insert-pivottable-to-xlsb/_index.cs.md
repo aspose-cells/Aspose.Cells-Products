@@ -1,7 +1,8 @@
 ---
 title:  Vložení kontingenční tabulky do souborů Microsoft Excel XLSB přes C#
 weight: 7690
-description: C# Ukázkový kód pro generování XLSB dokumentů pomocí kontingenční tabulky. Tento kód použijte k vytváření souborů Microsoft Excel XLSB s kontingenční tabulkou v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+description: C# Ukázkový kód pro přidání kontingenční tabulky do XLSB pomocí knihovny .NET. Tento kód použijte pro vložení kontingenční tabulky do souboru XLSB v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in xlsb., c# create PivotTable in xlsb., c# modify PivotTable in xlsb., access PivotTable in xlsb., c# add pivot table in xlsb., c# insert pivot table in xlsb., c# create pivot table in xlsb., c# modify pivot table in xlsb., access pivot table in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložit kontingenční tabulku do dokumentů XLSB prostřednictvím čísla C#" h2="Nativní a vysoce výkonná Microsoft tabulka Excel XLSB s vytvářením kontingenčních tabulek programově pomocí .NET API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# Ukázkový kód pro generování XLSB dokumentů pomocí konting
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generování souboru MS Excel XLSB s kontingenční tabulkou dynamicky v rámci běžící aplikace je snadné. Aby bylo možné vytvořit XLSB dokumentů s kontingenční tabulkou od nuly bez nutnosti MS Office, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
+ Generování souboru MS Excel XLSB s kontingenční tabulkou dynamicky v rámci běžící aplikace je snadné. Aby bylo možné vytvořit XLSB dokumentů s kontingenční tabulkou od nuly bez nutnosti MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Ukázkový kód pro generování XLSB dokumentů pomocí konting
 
 {{% blocks/products/pf/agp/text %}}
 
-Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLSB do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
+ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLSB do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XL
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a vložte hodnotu do buněk.
 1.  Vložte kontingenční tabulku a nastavte styl
-1. Pomocí metody Uložit uložte sešit jako soubor XLSB.
+1.  Pomocí metody Uložit uložte sešit jako soubor XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XL
 
 {{% blocks/products/pf/agp/text %}}
 
- Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
+Jen se ujistěte, že systém má Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin a také vývojové prostředí jako 048 Visual Studio.3333
 
 {{% /blocks/products/pf/agp/text %}}
 

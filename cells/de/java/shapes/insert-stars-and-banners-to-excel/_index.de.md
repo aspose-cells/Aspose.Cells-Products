@@ -2,6 +2,7 @@
 title:  Einfügen Stern/Banner in Excel via Java einfügen
 weight: 381
 description: Fügen Sie Stern/Banner mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein.
+keywords: [Java Aspose.Cells., Java add Star/Banner., Java insert Star/Banner., Java create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Einfügen Stern/Banner in Excel via Java einfügen" h2="Fügen Sie Stern/Banner mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Fügen Sie Stern/Banner mit Aspose.Cells' Java API ohne Software wi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) , um „Stern/Banner einfügen“ in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.
@@ -90,7 +91,7 @@ Der folgende Beispielcode zeigt, wie „Band: gebogen und nach oben geneigt“ u
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Übersicht über die Arten von Stern- und Bannereinfügungen
+Übersicht über die Arten von Stern- und Bannereinfügungen
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/explosion_8_points.png" align="left" width="28" height="28">
@@ -149,7 +150,7 @@ Der folgende Beispielcode zeigt, wie „Band: gebogen und nach oben geneigt“ u
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR_16
+ AutoShapeType.STAR_16
     </p>
    </div>
    <div class="col-lg-4">

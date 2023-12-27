@@ -1,6 +1,7 @@
 ---
 title: Vytvořte radarové mapy přes C#
 description: C# Ukázkový kód pro vytváření radarových grafů do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření radarového grafu pro MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add Radar Chart., c# insert Radar Chart., c# create Radar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

@@ -2,6 +2,7 @@
 title:  Odemkněte dokument XLSM přes C++
 weight: 6070
 description: C++ ukázkový kód pro odemknutí heslem chráněného souboru XLSM na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLSM files., C++ how to unlock XLSM document., C++ unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemkněte soubory XLSM přes C++" h2="Odstraňte ochranu z tabulek aplikace Excel včetně souboru XLSM pomocí knihovny C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Načtěte zamčený soubor XLSM pomocí CreateIWorkbook.
-1.  Pro odemknutí zavolejte funkci Unprotect().
-1.  Nastavte heslo na NULL pomocí SetPassword.
-1.  Uložte soubor XLSM na určené místo.
+1.  Okamžitá třída sešitu s cestou k chráněnému souboru XLSM
+1.  Získejte výchozí nebo jakýkoli pracovní list pro odstranění ochrany
+1.  Odstraňte ochranu listu pomocí metody Worksheet.Unprotect
+1.  Odstraňte ochranu sešitu pomocí metody Workbook.Unprotect
+1.  Uložte výsledek ve formátu XLSM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSM file
+Workbook workbook(u"protected.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsm")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsm")));
+// save the result back in XLSM format
+workbook.Save("unprotected.xlsm", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

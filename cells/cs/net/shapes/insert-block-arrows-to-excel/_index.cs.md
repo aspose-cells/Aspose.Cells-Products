@@ -1,7 +1,8 @@
 ---
 title:  Vložte šipky bloku do Excelu via .NET
 weight: 338
-description: C# zdrojový kód pro vložení Block Arrows do Excelu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# Ukázkový kód pro přidání nebo vložení šipek bloků do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření blokových šipek v MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte šipky bloku do Excelu via .NET" h2="Vložte blokové šipky pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# zdrojový kód pro vložení Block Arrows do Excelu na platform�
 
 {{% blocks/products/pf/agp/content h2="Jak vložit blokové šipky do souboru aplikace Excel pomocí C#" %}}
 
-Aby bylo možné vložit blokové šipky do souboru aplikace Excel, použijeme
+ Aby bylo možné vložit blokové šipky do souboru aplikace Excel, použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci s dokumenty a rozdělovač API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) pro vložení blokových šipek do vybraného listu
 + Uložit sešit ve formátu XLSX.
@@ -159,7 +160,7 @@ Ukázkový kód níže ukazuje, jak vložit "šipku vpravo". Další typy nalezn
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedLeftArrow
+AutoShapeType.CurvedLeftArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ Ukázkový kód níže ukazuje, jak vložit "šipku vpravo". Další typy nalezn
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML mit GIF zusammenführen – SPREADSHEETML mit GIF in C++ kombinieren
 url: /de/cpp/merger/merge-spreadsheetml-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung von SPREADSHEETML in das GIF-Speicherformat. C++ Kombinieren Sie SPREADSHEETML mit dem Format GIF. Führen Sie SPREADSHEETML zu GIF in C++ zusammen. SPREADSHEETML Zusammenführen.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to GIF in C++., Free Online C++ Merge SPREADSHEETML to gif., C++ Combine SPREADSHEETML to GIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. SPREADSHEETML in GIF-Speicherformat zusammenführen. C++ Kombinieren Sie SPREADSHEETML mit dem Format GIF. Führen Sie SPREADSHEETML zu GIF in C++ zusammen. SPREADSHEETML Zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to GIF in C++., C++ Merge SPREADSHEETML to gif., C++ Combine SPREADSHEETML to GIF., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie SPREADSHEETML über C++ mit GIF zusammen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von SPREADSHEETML in GIF. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="GIF" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to GIF in C++.,
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit C++ zu GIF zusammen" %}}
 
- Wie füge ich SPREADSHEETML mit GIF zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie SPREADSHEETML ganz einfach programmgesteuert mit ein paar Codezeilen in GIF zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich SPREADSHEETML mit GIF zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie SPREADSHEETML ganz einfach programmgesteuert mit ein paar Codezeilen in GIF zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit GIF in C++ online kostenlos zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit GIF in C++ zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML mit GIF in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML mit GIF zusammenzuführen.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von SPREADSHEETML mit GIF in C++" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SPREADSHEETML mit GIF in C++" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SPREADSHEETML über C++ mit GIF zusammen" %}}
 
@@ -107,7 +107,6 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-pdf/" name="Führen Sie SPREADSHEETML zu PDF zusammen" description="Tragbares Dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-png/" name="Führen Sie SPREADSHEETML zu PNG zusammen" description="Tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-svg/" name="Führen Sie SPREADSHEETML zu SVG zusammen" description="Skalierbare Vektorgrafiken" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tiff/" name="Führen Sie SPREADSHEETML zu TIFF zusammen" description="Markiertes Bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="Führen Sie SPREADSHEETML zu TSV zusammen" description="Durch Tabulatoren getrennte Werte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="Führen Sie SPREADSHEETML zu TXT zusammen" description="Text dokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="Führen Sie SPREADSHEETML zu XLS zusammen" description="Excel-Binärformat" >}}

@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to ETT - Online převodník IMAGE to ETT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést IMAGE do formátu ETT. Java OBRÁZEK do formátu ETT. Uložte IMAGE na ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to ETT saveformat., Free Online IMAGE to ETT Java., Java Convert IMAGE to ETT]
+title: Java IMAGE to ETT - Převodník IMAGE to ETT
+description: Aspose Excel. Převeďte IMAGE na ETT rychle a snadno pomocí Aspose.Cells. Java IMAGE na ETT. Java Uložit IMAGE do ETT. Uložte IMAGE jako ETT pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to ETT in Java., Save IMAGE to ETT using Java., Java IMAGE to ETT saveformat., IMAGE to ETT Converter., Java Save IMAGE as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte IMAGE na ETT v Java" h2="Vysokorychlostní knihovna Java pro převod IMAGE na ETT. Jedná se o profesionální softwarové řešení pro import a export IMAGE, ETT a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte IMAGE na ETT pomocí Java" %}}
 
-Jak převedu IMAGE na ETT? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na ETT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu IMAGE na ETT? S knihovnou Aspose.Cells for Java můžete snadno převést IMAGE na ETT programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu IMAGE na ETT? S knihovnou Aspose.Cells for Java můžete snadno př
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit OBRÁZEK do ETT na čísle Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte IMAGE do ETT na Java" %}}
 
 Následující příklad ukazuje, jak převést IMAGE na ETT v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod IMAGE na ETT. Nahrajte svůj I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod IMAGE na ETT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod IMAGE na ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést IMAGE na ETT via Java" %}}
 

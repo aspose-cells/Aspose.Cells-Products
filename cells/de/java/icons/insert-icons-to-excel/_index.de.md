@@ -2,6 +2,7 @@
 title: Fügen Sie SVG Bilder/Symbole in Excel via Java ein
 weight: 10
 description: Fügen Sie Objekte mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein.
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie SVG Bilder/Symbole in Excel via Java ein" h2="Fügen Sie SVG Bilder/Symbole mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -25,7 +26,7 @@ Bei der Verwendung von Excel können folgende Probleme auftreten:
 + Fügen Sie eine große Anzahl von SVG-Bildern in dieselbe Excel-Datei ein.
 + Fügen Sie SVG-Bilder in eine große Anzahl verschiedener Excel-Dateien ein.
 
- Um diese Probleme zu lösen, empfehlen wir Ihnen die Verwendung von[Aspose.Cells](https://products.aspose.com/cells/) Bibliothek. Sie enthält viele gängige Schnittstellen zur Verarbeitung von Excel-Dateien und ist ein sehr nützliches Werkzeug.
+ Um diese Probleme zu lösen, empfehlen wir Ihnen die Verwendung von[Aspose.Cells](https://products.aspose.com/cells/)Bibliothek. Sie enthält viele gängige Schnittstellen zur Verarbeitung von Excel-Dateien und ist ein sehr nützliches Werkzeug.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,9 +97,9 @@ Wenn keine der oben genannten Methoden Ihren Anforderungen entspricht, können S
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
- + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) um Callouts in das ausgewählte Arbeitsblatt einzufügen
+ + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) , um Callouts in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

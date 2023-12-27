@@ -2,6 +2,7 @@
 title:  Suchen und ersetzen Sie Text im Dokument XLSM via .NET
 weight: 2370
 description: C#-Quellcode zum Schwärzen sensibler Informationen in der XLSM-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact XLSM file., c# edit XLSM file., c# XLSM file redaction., c# Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigieren Sie XLSM-Formate in C#" h2="Native und leistungsstarke XLSM dokumentieren vertrauliche Schwärzungsinformationen mithilfe serverseitiger Aspose.Cells for .NET APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Erstellen Sie ein FindOptions-Objekt.
 + Suchoptionen festlegen
 + Durchlaufen Sie jede Zelle und verwenden Sie die Find-Methode.
-Speichern Sie die Arbeitsmappe.
++ Speichern Sie die Arbeitsmappe.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSM-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Dateien mit der Erweiterung XLSM sind Tabellenkalkulationsdateien, die Makros unterstützen. Aus Anwendungssicht handelt es sich bei einem Makro um eine Reihe von Anweisungen, die zur Automatisierung von Prozessen verwendet werden. Ein Makro wird verwendet, um die Schritte aufzuzeichnen, die wiederholt ausgeführt werden, und erleichtert die Ausführung der Aktionen durch erneutes Ausführen des Makros. Makros werden mit Visual Basic for Applications (VBA) von Microsoft aus der Excel-Arbeitsmappe heraus mit dem Visual Basic-Editor programmiert und können direkt von dort aus ausgeführt/debuggt werden.

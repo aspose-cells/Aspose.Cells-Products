@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument XLSB via Java
 weight: 5860
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSB-Datei in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie XLSB Dateien via Java" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei XLSB mithilfe der Bibliothek Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ description: Java Beispielcode zum Entsperren der passwortgeschützten XLSB-Date
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSB-Dateien über C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Entsperren Sie XLSB Dateien via Java" offSpacer="" %}}
 
 ```cs
 

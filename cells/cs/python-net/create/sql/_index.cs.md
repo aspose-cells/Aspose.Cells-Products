@@ -1,7 +1,7 @@
 ---
 title: Vytvořit SQL - Vytvořte soubor SQL v Python
-description: Aspose Excel. Python Vytvořte soubor SQL. Vytvořit SQL Python. Python SQL Creater. Vytvořte SQL v Python. Vygenerujte soubor SQL pomocí Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL Creater., Create SQL file in Python., Generate SQL file in Python]
+description:  Aspose Excel. Python Vytvořte soubor SQL rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor SQL pomocí Python. Vytvořte SQL v Python. Python SQL Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Create SQL file using Python., Write data to SQL file via Python., Create a SQL file in Python., Python Generate a SQL file., Python SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor SQL v Python" h2="Vysokorychlostní knihovna Python pro vytváření SQL souboru. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor SQL pomocí Python" %}}
 
- Jak vytvořit SQL soubor? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit SQL soubor programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak vytvořit SQL soubor? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno vytvořit SQL soubor programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/text %}}
 
-Pro vývojáře je snadné vytvářet, načítat, upravovat a převádět soubory SQL v rámci různých aplikací pro vytváření sestav pro zpracování dat v několika řádcích kódu.
+ Pro vývojáře je snadné vytvářet, načítat, upravovat a převádět soubory SQL v rámci různých aplikací pro vytváření sestav pro zpracování dat v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.sql")
 Naše balíčky Python hostujeme v úložištích PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

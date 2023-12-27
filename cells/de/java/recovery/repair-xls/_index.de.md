@@ -1,8 +1,8 @@
 ---
-title: Java XLS-Datei reparieren – XLS-Datei kostenlos online reparieren
+title: Java XLS reparieren – Beschädigte XLS-Datei wiederherstellen und reparieren
 url: /de/java/recovery/repair-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Java XLS-Datei reparieren. Kostenloses Online-XLS-Reparaturtool. Reparieren Sie eine beschädigte XLS-Datei. Stellen Sie eine beschädigte XLS-Datei in der Anwendung Java wieder her.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Free Online Repair a corrupted xls file., Java Recover xls file.]
+description: Java Aspose.Cells. Reparatur XLS. XLS-Datei reparieren. XLS-Wiederherstellungstool. XLS-Korruption. XLS-Daten wiederherstellen. Wiederherstellung von XLS-Dateien. Stellen Sie die beschädigte XLS-Datei wieder her.
+keywords: [Java Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLS in Java" h2="Erstellen Sie Ihre eigene Java-Anwendung, um XLS-Dateien mit Java zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLS mit Java" %}}
 
- Wie repariere ich eine XLS-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLS ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie repariere ich eine XLS-Datei? Mit der Bibliothek Aspose.Cells for Java können Sie die Datei XLS ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,12 +55,12 @@ Müssen Sie die XLS-Datei programmgesteuert reparieren? Java-Entwickler können 
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLS, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLS, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLS-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java-Bibliothek zum Reparieren der XLS-Datei" %}}
 

@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument TSV, ohne es über C++ zu öffnen
 weight: 930
 description: C++ Beispielcode zum Suchen von Wörtern mit Muster in der Datei TSV in der Laufzeitumgebung C++ für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in tsv file., C++ find words with pattern in tsv file., C++ search string with pattern in tsv file., C++ find words with pattern in tsv file., C++ search words in tsv file., C++ find words in tsv file., C++ search string in tsv file., C++ find string in tsv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach TSV-Formaten in C++" h2="Native und leistungsstarke TSV Dokumentensuche mit serverseitigen Aspose.Cells for C++ APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TSV" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Laden Sie die Datei TSV, indem Sie eine IWorkbook-Klasse instanziieren.
-+ Instanziieren Sie die IReplaceOptions-Klasse.
++ Laden Sie die Datei TSV, indem Sie eine Arbeitsmappenklasse instanziieren.
++ Instanziieren Sie die Klasse „ReplaceOptions“.
 + Legen Sie das erforderliche Muster wie SetCaseSensitive(bool value), SetMatchEntireCellContents(bool value) fest.
-+ Verwenden Sie die Methode IWorkbook->Replace(..) mit relevanten Optionen.
-+ Speichern Sie die Datei TSV mit der Methode IWorkbook->Save(.).
+Verwenden Sie die Methode Workbook::Replace(...) mit relevanten Optionen.
++ Speichern Sie die Datei TSV mit der Methode Workbook::Save(...).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Laden Sie die Datei TSV, indem Sie eine IWorkbook-Klasse instanziieren.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load TSV file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.tsv")));
+Workbook  wkb(srcDir + u"sourceFile.tsv");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as TSV file
-wkb->Save(outDir->StringAppend(new String("outputFile.tsv")));  
+wkb.Save(outDir + u"outputFile.tsv");
+
+Aspose::Cells::Cleanup();
 
 ```
 

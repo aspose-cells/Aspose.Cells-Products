@@ -2,6 +2,7 @@
 title:  Odemkněte XLS dokument via Java
 weight: 6390
 description: Java ukázkový kód pro odemknutí heslem chráněného souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java unlock XLS files., Java how to unlock XLS document., Java unprotect XLS files., remove protection from XLS files., decrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Odemknout XLS Soubory via Java" h2="Odstraňte ochranu z tabulek aplikace Excel včetně souboru XLS pomocí knihovny Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -73,7 +74,7 @@ description: Java ukázkový kód pro odemknutí heslem chráněného souboru XL
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Odemkněte soubory XLS přes C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Odemknout XLS Soubory via Java" offSpacer="" %}}
 
 ```cs
 

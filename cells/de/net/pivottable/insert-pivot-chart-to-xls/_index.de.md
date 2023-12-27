@@ -1,7 +1,8 @@
 ---
 title: Fügen Sie ein Pivot-Diagramm in Microsoft Excel XLS-Dateien über C# ein
 weight: 7690
-description: C# Beispielcode zum Generieren von XLS-Dokumenten mit Pivot-Diagramm. Verwenden Sie diesen Code zum Erstellen von Micorsoft Excel XLS-Dateien mit Pivot-Diagramm in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+description: C# Beispielcode zum Hinzufügen eines Pivot-Diagramms zu XLS mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Einfügen eines Pivot-Diagramms in die Datei XLS in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pivot-Diagramm in XLS-Dokumente über C# einfügen" h2="Native und leistungsstarke Microsoft Excel XLS Tabellenkalkulation mit programmgesteuerter Erstellung von Pivot-Diagrammen unter Verwendung serverseitiger .NET APIs." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,9 +12,7 @@ description: C# Beispielcode zum Generieren von XLS-Dokumenten mit Pivot-Diagram
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Das dynamische Generieren einer MS Excel XLS-Datei mit Pivot-Diagramm innerhalb der laufenden Anwendung ist einfach. Um XLS Dokumente mit Pivot Chart von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Entwickler können den Code zum Schreiben von Daten, zum Generieren von Diagrammen oder Grafiken sowie zum Erstellen von Tabellen in Tabellenkalkulationen problemlos erweitern.
+ Das dynamische Generieren einer MS Excel XLS-Datei mit Pivot-Diagramm innerhalb der laufenden Anwendung ist einfach. Um XLS Dokumente mit Pivot Chart von Grund auf zu erstellen, ohne dass MS Office erforderlich ist, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, das verschiedene Funktionen für die Erstellung, Bearbeitung und Konvertierung von Tabellenkalkulationen mithilfe der Plattform .NET bietet. Entwickler können den Code zum Schreiben von Daten, zum Generieren von Diagrammen oder Grafiken sowie zum Erstellen von Tabellen in Tabellenkalkulationen problemlos erweitern.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# Beispielcode zum Generieren von XLS-Dokumenten mit Pivot-Diagram
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
 1.  Fügen Sie eine PivotTable ein und legen Sie den Stil fest
 1.  Fügen Sie ein Pivot-Diagramm mit den Daten von PivotTable ein
-1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLS-Datei zu speichern.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLS-Datei zu speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# Beispielcode zum Generieren von XLS-Dokumenten mit Pivot-Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
+Stellen Sie einfach sicher, dass das System über Microsoft Windows oder ein kompatibles Betriebssystem mit .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen sowie eine Entwicklungsumgebung wie Microsoft Visual Studio verfügt.
 
 {{% /blocks/products/pf/agp/text %}}
 

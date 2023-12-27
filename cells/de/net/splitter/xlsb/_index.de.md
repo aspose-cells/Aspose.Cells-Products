@@ -2,6 +2,7 @@
 title:  Teilen Sie XLSB Dateien via .NET
 weight: 7370
 description: C# Quellcode zum Aufteilen von XLSB Dokumenten auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., C# split xlsb files., C# how to split xlsb files into multiple files., C# xlsb splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB-Formate in C# aufteilen" h2="Nativer und leistungsstarker XLSB-Splitter mit serverseitigen APIs, ohne den Einsatz von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}

@@ -1,7 +1,8 @@
 ---
-title: Chraňte a uzamkněte XLSX dokument via .NET
+title:  Chraňte a uzamkněte XLSX dokument via .NET
 weight: 90
 description: C# zdrojový kód k uzamčení souboru XLSX pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# Lock XLSX files., c# How to Protect and lock XLSX document., c# Protect XLSX files., Encrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSX přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSX pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -105,7 +106,7 @@ book.Save("protected.xlsx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSX" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSX soubory](https://products.aspose.app/cells/protect/xlsx) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSX" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSX](https://products.aspose.app/cells/protect/xlsx) s následujícími výhodami." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSX a stisknout tlačítko „Odemknout“." >}}

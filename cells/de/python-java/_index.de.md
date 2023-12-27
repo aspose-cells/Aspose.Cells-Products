@@ -1,7 +1,8 @@
 ---
 title:  Python Excel-Tabelle API - Aspose
 weight: 2820
-description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-, Schreib- und Analyse-Excel-Dateien.
+description: Python-Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Konvertieren Sie Excel in PDF, JSON, HTML, TXT und andere gängige Formate.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel-Tabellen-Parsing-APIs" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellenkalkulationen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
@@ -234,7 +235,7 @@ Sammlungen
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Erweiterte Python Excel API Funktionen
+ Erweiterte Python Excel API Funktionen
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Erweiterte Python Excel API Funktionen
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
+Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
     </p>
    </div>
    <div class="col-lg-4">
@@ -488,7 +489,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Diagrammanpassung
+Diagrammanpassung
     </h2>
     <p>
 Aspose.Cells for Python via Java bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.

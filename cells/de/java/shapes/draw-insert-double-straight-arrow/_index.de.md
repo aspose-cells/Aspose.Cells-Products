@@ -1,7 +1,8 @@
 ---
-title: Wie zeichne oder füge ich einen doppelten geraden Pfeil in Excel via Java ein?
+title:  Wie zeichne oder füge ich einen doppelten geraden Pfeil in Excel via Java ein?
 weight: 20
 description: Zeichnen oder fügen Sie doppelte gerade Pfeilobjekte mit Aspose.Cells' Java API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein.
+keywords: [Java Aspose.Cells., Java add double straight arrow., Java insert double straight arrow., Java create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie einen doppelten geraden Pfeil in Excel via Java ein" h2="Fügen Sie einen doppelten geraden Pfeil mit Aspose.Cells\' API ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Zeichnen oder fügen Sie doppelte gerade Pfeilobjekte mit Aspose.Ce
 
 {{% blocks/products/pf/agp/content h2="So fügen Sie mit Java einen doppelten geraden Pfeil in eine Excel-Datei ein" %}}
 
- Um einen doppelten geraden Pfeil in eine Excel-Datei einzufügen, verwenden wir
+Um einen doppelten geraden Pfeil in eine Excel-Datei einzufügen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche API for Java Plattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Zeichnen oder fügen Sie doppelte gerade Pfeilobjekte mit Aspose.Ce
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) , um einen doppelten geraden Pfeil in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.

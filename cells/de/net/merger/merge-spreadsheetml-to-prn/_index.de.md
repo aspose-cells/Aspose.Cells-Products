@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML mit PRN zusammenführen – Kombinieren Sie SPREADSHEETML mit PRN in C#
 url: /de/net/merger/merge-spreadsheetml-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von SPREADSHEETML in das PRN-Speicherformat. C# Kombinieren Sie SPREADSHEETML mit dem PRN-Format. Führen Sie SPREADSHEETML mit PRN in C# zusammen. SPREADSHEETML Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PRN in C#., Free Online C# Merge SPREADSHEETML to prn., C# Combine SPREADSHEETML to PRN Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. SPREADSHEETML in PRN-Speicherformat zusammenführen. C# Kombinieren Sie SPREADSHEETML mit dem PRN-Format. Führen Sie SPREADSHEETML mit PRN in C# zusammen. SPREADSHEETML Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PRN in C#., C# Merge SPREADSHEETML to prn., C# Combine SPREADSHEETML to PRN., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie SPREADSHEETML über C# mit PRN zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von SPREADSHEETML mit PRN. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to PRN in C#., F
 
 {{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit PRN unter Verwendung von C# zusammen" %}}
 
-Wie füge ich SPREADSHEETML mit PRN zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SPREADSHEETML mit wenigen Codezeilen ganz einfach programmgesteuert in PRN zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+Wie füge ich SPREADSHEETML mit PRN zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie SPREADSHEETML ganz einfach programmgesteuert und mit wenigen Codezeilen in PRN zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit PRN in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie SPREADSHEETML mit PRN in C# zusammen" %}}
 
 Das folgende Beispiel zeigt, wie SPREADSHEETML mit PRN in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um SPREADSHEETML mit PRN zusammenzuführen.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von SPREADSHEETML zu PRN in C#" InputFormat="xml" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von SPREADSHEETML mit PRN in C#" InputFormat="xml" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SPREADSHEETML über C# mit PRN zusammen" %}}
 

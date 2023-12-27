@@ -1,7 +1,8 @@
 ---
-title:  Vodoznak XLSB dokument via .NET
+title: Vodoznak XLSB dokument via .NET
 weight: 5410
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru XLSB na platformách .NET, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Přidejte textový vodoznak na XLSB přes C#" h2="Sestavte si své vlastní aplikace .NET pro soubory vodoznaku XLSB pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

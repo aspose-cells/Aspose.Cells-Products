@@ -2,6 +2,7 @@
 title:  Entsperren Sie das Dokument ODS über C++
 weight: 1190
 description: C++ Beispielcode zum Entsperren der passwortgeschützten ODS-Datei in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ unlock ODS files., C++ how to unlock ODS document., C++ unprotect ODS files., remove protection from ODS files., decrypt ODS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Entsperren Sie ODS-Dateien über C++" h2="Entfernen Sie den Schutz von Excel-Tabellen einschließlich der Datei ODS mithilfe der Bibliothek C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Laden Sie die gesperrte Datei ODS mit CreateIWorkbook.
-1.  Rufen Sie zum Entsperren die Funktion Unprotect() auf.
-1.  Setzen Sie das Passwort mit SetPassword auf NULL.
-1.  Speichern Sie die Datei ODS an einem angegebenen Speicherort.
+1.  Instanziieren Sie die Arbeitsmappenklasse mit dem Pfad zur geschützten Datei ODS
+1.  Rufen Sie das Standard- oder ein beliebiges Arbeitsblatt ab, um den Schutz zu entfernen
+1.  Entfernen Sie den Arbeitsblattschutz mit der Worksheet.Unprotect-Methode
+1.  Entfernen Sie den Arbeitsmappenschutz mit der Methode Workbook.Unprotect
+1.  Ergebnis im Format ODS speichern
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected ODS file
+Workbook workbook(u"protected.ods");
 
-// Load ODS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.ods")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the ODS file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.ods")));
+// save the result back in ODS format
+workbook.Save("unprotected.ods", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

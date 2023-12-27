@@ -1,7 +1,8 @@
 ---
-title:  C++ Programování tabulkových procesorů Excel API - Aspose
+title: C++ Programování tabulkových procesorů Excel API - Aspose
 weight: 7140
-description: C++ Knihovna Excel pro čtení, zápis a analýzu souborů včetně formátů XLS, XLSX, XLSM a XLSB. Převeďte tabulky do formátů PDF, CSV a dalších
+description: Aspose.Cells for C++ knihovna pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, XML, TSV a tak dále.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Rozhraní API pro tabulky Excel" h2="Vytvářejte, čtěte, zapisujte a analyzujte tabulky bez jakýchkoli závislostí aplikace Excel v rámci plně funkčních aplikací C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: C++ Knihovna Excel pro čtení, zápis a analýzu souborů včetně
  Kontingenční tabulka
     </li>
     <li>
- Tabulky
+Tabulky
     </li>
     <li>
  Grafy
     </li>
     <li>
-Výpočet vzorců
+ Výpočet vzorců
     </li>
     <li>
  Ověření dat
@@ -227,7 +228,7 @@ Výpočet vzorců
      <b>
  Snímky:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ Výpočet vzorců
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Načíst &amp; ukládat soubory Excel pomocí streamů
+Načíst &amp; ukládat soubory Excel pomocí streamů
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,7 +289,7 @@ Výpočet vzorců
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Chcete-li omezit vstup, nastavte ověřování dat
+ Chcete-li omezit vstup, nastavte ověřování dat
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,17 +416,17 @@ Aspose API jsou zcela nezávislá a nejsou přidružena ani autorizována, sponz
      <h3>
  Převod souborů aplikace Excel do více formátů - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ vám poskytuje úplnou kontrolu nad tím, jak chcete svá d
  Vykreslit listy jako obrázky
     </h2>
     <p>
-Knihovna vykresluje s nejvyšší věrností Microsoft Excel pomocí vlastního vykreslovacího jádra. Nabízí výrazné funkce, jako je vykreslování pracovních listů na obrázky v oblíbených formátech včetně BMP, TIFF, PNG, JPEG &amp; EMF. Proces Sheet2Image je flexibilní, takže umožňuje vybrat možnosti, jako je ovládání rozlišení výsledného obrázku.
+Knihovna vykresluje s nejvyšší věrností Microsoft Excel pomocí vlastního vykreslovacího jádra. Nabízí výrazné funkce, jako je vykreslování pracovních listů na obrázky v oblíbených formátech včetně BMP, PNG, JPEG &amp; EMF. Proces Sheet2Image je flexibilní, takže umožňuje vybrat možnosti, jako je ovládání rozlišení výsledného obrázku.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,8 +1,8 @@
 ---
 title: MHTML mit POWERPOINT zusammenführen - MHTML mit POWERPOINT in Java kombinieren
 url: /de/java/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von MHTML in das POWERPOINT-Speicherformat. Java Kombinieren Sie MHTML mit dem POWERPOINT-Format. MHTML mit POWERPOINT in Java zusammenführen. MHTML Zusammenführen.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java., Free Online Java Merge MHTML to powerpoint., Java Combine MHTML to POWERPOINT Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. MHTML in das POWERPOINT-Speicherformat zusammenführen. Java Kombinieren Sie MHTML mit dem POWERPOINT-Format. MHTML mit POWERPOINT in Java zusammenführen. MHTML Zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java., Java Merge MHTML to powerpoint., Java Combine MHTML to POWERPOINT., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML mit POWERPOINT via Java zusammenführen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von MHTML mit POWERPOINT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java.
 
 {{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit Java in POWERPOINT zusammen" %}}
 
- Wie füge ich MHTML mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie MHTML mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich MHTML mit POWERPOINT zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie MHTML mit wenigen Codezeilen ganz einfach programmgesteuert mit POWERPOINT zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to POWERPOINT in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie MHTML kostenlos online mit POWERPOINT in Java zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie MHTML mit POWERPOINT in Java zusammen" %}}
 
 Das folgende Beispiel zeigt, wie MHTML mit POWERPOINT in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um MHTML mit POWERPOINT zusammenzuführen. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von MHTML mit POWERPOINT in Java" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von MHTML mit POWERPOINT in Java" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie MHTML mit POWERPOINT via Java zusammen" %}}
 
@@ -103,7 +103,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Dateien mit der Erweiterung MHTML stellen ein Webseitenarchivformat dar, das von verschiedenen Anwendungen erstellt werden kann. Das Format wird als Archivformat bezeichnet, da es den Webcode und die zugehörigen Ressourcen in einer einzigen Datei speichert. Zu diesen Ressourcen gehört alles, was mit der Webseite verknüpft ist, beispielsweise Bilder, Applets, Animationen, Audiodateien usw. MHTML-Dateien können in einer Vielzahl von Anwendungen wie Internet Explorer und Microsoft Word geöffnet werden. Microsoft Windows verwendet das Dateiformat MHTML zum Aufzeichnen von Problemszenarien, die bei der Verwendung einer Anwendung unter Windows beobachtet wurden und Probleme aufwerfen. Das Dateiformat MHTML kodiert den Seiteninhalt ähnlich den in message/rfc822 definierten Spezifikationen, bei denen es sich um Klartext-E-Mail-bezogene Spezifikationen handelt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, das binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Dateien mit der Erweiterung PPTX sind Präsentationsdateien, die mit der beliebten Anwendung Microsoft PowerPoint erstellt wurden. Im Gegensatz zur vorherigen Version des Präsentationsdateiformats PPT, die binär war, basiert das Format PPTX auf dem offenen XML-Präsentationsdateiformat Microsoft PowerPoint. Eine Präsentationsdatei ist eine Sammlung von Folien, wobei jede Folie aus Text, Bildern, Formatierungen, Animationen und anderen Medien bestehen kann. Diese Folien werden dem Publikum in Form von Diashows mit benutzerdefinierten Präsentationseinstellungen präsentiert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

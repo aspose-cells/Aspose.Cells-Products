@@ -1,6 +1,7 @@
 ---
 title: Vkládání tvarů do Excelu přes JAVA
-description:  C# zdrojové kódy, jak vložit tvar do Microsoft souborů Excel pomocí knihovny JAVA.
+description:  Java zdrojové kódy, jak vložit tvar do Microsoft souborů Excel pomocí knihovny JAVA.
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Vkládání tvarů Excel přes JAVA" h2="Vytvářejte dokumenty aplikace Excel a vkládejte tvary pomocí rozhraní API na straně serveru v aplikacích založených na JAVA." >}}
@@ -12,9 +13,9 @@ description:  C# zdrojové kódy, jak vložit tvar do Microsoft souborů Excel p
 
 {{% blocks/products/pf/feature-page-section h2="Vložte tvary do souboru aplikace Excel" %}}
 
- Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, tvořit[Třída sešitu](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/) objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)Metoda Add.
+ Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, vytvořit[Třída sešitu](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/)objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)Metoda Add.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kód pro vložení tvaru do Excelu" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Kód pro vložení tvaru do Excelu" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

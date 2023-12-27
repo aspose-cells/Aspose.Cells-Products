@@ -1,7 +1,8 @@
 ---
-title:  Vložte tvary rovnic do Excelu přes C++
+title: Vložte tvary rovnic do Excelu přes C++
 weight: 780
 description: C++ ukázkový kód pro vložení tvarů rovnic do souboru aplikace Excel na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add equation shapes., C++ insert equation shapes., C++ create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte tvary rovnic do Excelu přes C++" h2="Vkládejte objekty pomocí nativního a vysokého výkonu na straně serveru Aspose.Cells for C++ API bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Kroky pro vložení tvarů rovnic do souboru aplikace Excel prostřednictvím C++" %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
- + Použijte[přidat metodu](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) pro vložení tvarů rovnic do vybraného listu
+ + Použijte[přidat metodu](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) pro vložení tvarů rovnic do vybraného listu
 + Uložit sešit ve formátu XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Ukázkový kód níže ukazuje, jak vložit "matematické plus". Další typy vi
 
 {{% blocks/products/pf/agp/code-block title="Vložit tvary rovnic – C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertEquationIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertEquationIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -90,7 +91,7 @@ Ukázkový kód níže ukazuje, jak vložit "matematické plus". Další typy vi
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/multiplication.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType::AutoShapeType_MathMultiply
+ AutoShapeType::AutoShapeType_MathMultiply
     </p>
    </div>
    <div class="col-lg-4">
@@ -122,7 +123,7 @@ AutoShapeType::AutoShapeType_MathMultiply
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

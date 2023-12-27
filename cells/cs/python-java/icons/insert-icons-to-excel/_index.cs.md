@@ -2,6 +2,7 @@
 title:  Vložte SVG obrázky/ikony do Excelu pomocí Python via java
 weight: 200
 description: Python via zdrojový kód java pro vložení SVG obrázků/ikon do Excelu.
+keywords: [Python via Java Aspose.Cells., Python via Java add SVG images/Icons into Excel., Python via Java insert SVG images/Icons into Excel., Python via Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte SVG obrázky/ikony do Excelu pomocí Python via java" h2="Vložte SVG obrázky/ikony pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -25,7 +26,7 @@ Při používání Excelu se můžete setkat s následujícími problémy:
 + Vložte velké množství obrázků svg do stejného souboru aplikace Excel.
 + Vložte obrázky svg do velkého počtu různých souborů aplikace Excel.
 
- K vyřešení těchto problémů vám doporučujeme použít[Aspose.Cells](https://products.aspose.com/cells/) knihovna.Obsahuje mnoho běžných rozhraní pro zpracování souborů aplikace Excel a je velmi užitečným nástrojem.
+ K vyřešení těchto problémů vám doporučujeme použít[Aspose.Cells](https://products.aspose.com/cells/)knihovna.Obsahuje mnoho běžných rozhraní pro zpracování souborů aplikace Excel a je velmi užitečným nástrojem.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -77,7 +78,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte kolekci tvarů[přidat metodu](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addIcons(int,%20int,%20int,%20int,%20int,%20int,%20byte[],%20byte[])) pro vložení ikony do vybraného listu.
 + Uložit sešit ve formátu XLSX.
@@ -92,8 +93,8 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
--  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
+- Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte Aspose.Cells for Python přes java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -121,7 +122,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

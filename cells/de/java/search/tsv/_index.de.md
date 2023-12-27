@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument TSV, ohne via Java zu öffnen
 weight: 4940
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei TSV in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java search words with pattern in tsv file., Java find words with pattern in tsv file., Java search string with pattern in tsv file., Java find words with pattern in tsv file., Java search words in tsv file., Java find words in tsv file., Java search string in tsv file., Java find string in tsv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach TSV-Formaten in Java" h2="Native und leistungsstarke TSV Dokumentensuche mit serverseitigen Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TSV" >}}
@@ -62,7 +63,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei T
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält
-+ Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
+Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

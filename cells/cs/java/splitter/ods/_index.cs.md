@@ -2,6 +2,7 @@
 title:  Rozdělit ODS Soubory via Java
 weight: 1950
 description: Java ukázkový kód pro rozdělení ODS dokumentů na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java split ods files., Java how to split ods files into multiple files., Java ods splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Rozdělit ODS Soubory via Java" h2="ODS rozdělení pomocí knihovny Java na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -62,7 +63,7 @@ description: Java ukázkový kód pro rozdělení ODS dokumentů na Java Runtime
 + Načtěte soubor ODS pomocí třídy Workbook.
 + Iterujte každý list
 + Vytvořit nový objekt třídy Workbook
-+ Zkopírujte vybraný list do nového objektu
+Zkopírujte vybraný list do nového objektu
 + Zavolejte metodu uložení s novou cestou k souboru ODS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

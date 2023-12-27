@@ -1,6 +1,7 @@
 ---
-title: Oprava excelového souboru via Java
-description: Opravte poškozený soubor aplikace Excel pomocí Java. Nástroj pro obnovu pro opravu poškozeného souboru aplikace Excel v aplikaci Java.
+title: Java Opravit excel – Obnovte a opravte poškozený soubor Excel
+description: Java Aspose.Cells. Oprava excel. Opravte soubor Excel. excelový nástroj pro obnovu. excelentní korupce. Obnovte data aplikace Excel. obnovení souborů excel. Obnovte poškozený soubor aplikace Excel.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Obnovte soubor Excel via Java" h2="Sestavte aplikaci Java pro opravu souborů aplikace Excel pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Opravte poškozený soubor aplikace Excel pomocí Java. Nástroj pr
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor EXCEL pomocí Java" %}}
 
- K opravě souboru EXCEL použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci s dokumenty API for Java.
+ K opravě souboru EXCEL použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci s dokumenty API for Java.
  
  Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 

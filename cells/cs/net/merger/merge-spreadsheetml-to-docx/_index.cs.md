@@ -1,8 +1,8 @@
 ---
 title: Sloučit SPREADSHEETML s DOCX - Sloučit SPREADSHEETML s DOCX v C#
 url: /cs/net/merger/merge-spreadsheetml-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Zdarma online sloučit SPREADSHEETML do formátu uložení DOCX. C# Zkombinujte SPREADSHEETML do formátu DOCX. Sloučit SPREADSHEETML na DOCX v C#. SPREADSHEETML Sloučit.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to DOCX in C#., Free Online C# Merge SPREADSHEETML to docx., C# Combine SPREADSHEETML to DOCX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Sloučit SPREADSHEETML do DOCX saveformat. C# Zkombinujte SPREADSHEETML do formátu DOCX. Sloučit SPREADSHEETML na DOCX v C#. SPREADSHEETML Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to DOCX in C#., C# Merge SPREADSHEETML to docx., C# Combine SPREADSHEETML to DOCX., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit SPREADSHEETML na DOCX přes C#" h2="Vysokorychlostní knihovna C# pro sloučení SPREADSHEETML do DOCX. Použijte náš excelový převod API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Toto je profesionální softwarové řešení pro import a export formátů Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to DOCX in C#., 
 
 {{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML do DOCX pomocí C#" %}}
 
- Jak sloučím SPREADSHEETML do DOCX? S knihovnou Aspose.Cells for .NET můžete snadno sloučit SPREADSHEETML do DOCX programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím SPREADSHEETML do DOCX? S knihovnou Aspose.Cells for .NET můžete snadno sloučit SPREADSHEETML do DOCX programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML na DOCX v C# online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit SPREADSHEETML na DOCX v C#" %}}
 
 Následující příklad ukazuje, jak sloučit SPREADSHEETML do DOCX v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Postupujte podle jednoduchých kroků pro sloučení SPREADSHEETML do DOCX. Nahr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení SPREADSHEETML na DOCX v C#" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení SPREADSHEETML do DOCX v C#" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit SPREADSHEETML do DOCX přes C#" %}}
 

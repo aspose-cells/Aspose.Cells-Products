@@ -1,6 +1,7 @@
 ---
 title: Teilen Sie das Excel-Arbeitsblatt blattweise in C# auf
 description: C# Quellcodes, die erklären, wie Microsoft Excel-Dateien in mehreren Dateien in Visual C#.NET Anwendungen aufgeteilt werden
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Dateiaufteilung via .NET" h2="Teilen Sie ein einzelnes Excel-Dokument mithilfe des C#-Codes in .NET-basierten Anwendungen in verschiedene Dateien auf" >}}
@@ -9,7 +10,7 @@ description: C# Quellcodes, die erklären, wie Microsoft Excel-Dateien in mehrer
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Teilen Sie ein Excel-Dokument in mehrere Dateien auf" %}}
- Der einfachste Weg, Excel-Dateien blattweise aufzuteilen, ist der Zugriff auf alle Blätter über[Arbeitsblätter](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Jedes Blatt durchlaufen und aufrufen[Kopieren](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) Methode. Schließlich wird es in einem angegebenen Pfad gespeichert.
+Der einfachste Weg, Excel-Dateien blattweise aufzuteilen, ist der Zugriff auf alle Blätter über[Arbeitsblätter](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Jedes Blatt durchlaufen und aufrufen[Kopieren](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) Methode. Schließlich wird es in einem angegebenen Pfad gespeichert.
 
  + Laden Sie die Excel-Datei mit vollständigem Pfad mit[Arbeitsbuchklasse](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Durchlaufen Sie jedes Blatt
@@ -28,7 +29,7 @@ description: C# Quellcodes, die erklären, wie Microsoft Excel-Dateien in mehrer
 
 {{% blocks/products/pf/feature-page-section h2="Teilen Sie das Excel-Arbeitsblatt in Bereiche auf" %}}
 
- Für die Aufteilung des Arbeitsblattfensters in Bereiche ist API vorgesehen[Split-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)der Arbeitsblattklasse, die die geteilte Ansicht des Arbeitsblatts bereitstellt. Um die geteilte Ansicht zu entfernen, bietet API an[RemoveSplit-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Speichern Sie es abschließend in einem angegebenen Pfad.
+ Für die Aufteilung des Arbeitsblattfensters in Bereiche ist API vorgesehen[Split-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) der Arbeitsblattklasse, die die geteilte Ansicht des Arbeitsblatts bereitstellt. Um die geteilte Ansicht zu entfernen, bietet API an[RemoveSplit-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Speichern Sie es abschließend in einem angegebenen Pfad.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Teilen des Excel-Arbeitsblattfensters" %}}
 

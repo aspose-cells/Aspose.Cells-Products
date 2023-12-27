@@ -2,6 +2,7 @@
 title: Fügen Sie Notizen über Python in die Datei XLSM ein
 url: /de/python-java/notes/insert-notes-to-xlsm/ 
 description: Fügen Sie Notizen zu XLSM mit Python ein. Verwenden Sie den Beispielcode API, um Notizen in die Anwendung Python einzufügen.
+keywords: [Python Aspose.Cells., add XLSM notes., insert XLSM notes., access XLSM notes., remove XLSM notes., delete XLSM notes., add notes in XLSM., insert notes in XLSM., access notes in XLSM., remove notes in XLSM., delete notes in XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Notizen über Python in die Datei XLSM ein" h2="Erstellen Sie Ihre eigene Python-Anwendung, um Kommentare und Autoren in Dokumentdateien mithilfe serverseitiger APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Fügen Sie Notizen zu XLSM mit Python ein. Verwenden Sie den Beispi
 
 {{% blocks/products/pf/agp/content h2="Fügen Sie Notizen in die Datei XLSM mit Python ein" %}}
 
- Mit der Bibliothek Aspose.Cells for Python können Sie mit wenigen Codezeilen ganz einfach programmgesteuert Notizen in die Datei XLSM einfügen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Mit der Bibliothek Aspose.Cells for Python können Sie mit wenigen Codezeilen ganz einfach programmgesteuert Notizen in die Datei XLSM einfügen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
  
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Fügen Sie Notizen zu XLSM mit Python ein. Verwenden Sie den Beispi
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

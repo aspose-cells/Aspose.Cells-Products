@@ -1,7 +1,7 @@
 ---
-title: Java JPEG až XLSM - Online konvertor JPEG až XLSM
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést JPEG na XLSM uložit formát. Java JPEG až XLSM formát. Uložte si JPEG až XLSM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to XLSM saveformat., Free Online JPEG to XLSM Java., Java Convert JPEG to XLSM]
+title: Java JPEG až XLSM - JPEG až XLSM Převodník
+description: Aspose Excel. Převeďte JPEG na XLSM rychle a snadno pomocí Aspose.Cells. Java JPEG na XLSM. Java Ušetřete JPEG na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to XLSM in Java., Save JPEG to XLSM using Java., Java JPEG to XLSM saveformat., JPEG to XLSM Converter., Java Save JPEG as XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést JPEG na XLSM na Java" h2="Vysokorychlostní knihovna Java pro převod JPEG na XLSM. Jedná se o profesionální softwarové řešení pro import a export JPEG, XLSM a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to X
 
 {{% blocks/products/pf/agp/content h2="Převeďte JPEG na XLSM pomocí Java" %}}
 
-Jak převedu JPEG na XLSM? S knihovnou Aspose.Cells for Java můžete snadno převést JPEG na XLSM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu JPEG na XLSM? S knihovnou Aspose.Cells for Java můžete snadno převést JPEG na XLSM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu JPEG na XLSM? S knihovnou Aspose.Cells for Java můžete snadno př
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete JPEG až XLSM v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit JPEG až XLSM v Java" %}}
 
 Následující příklad ukazuje, jak převést JPEG na XLSM v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod JPEG na XLSM. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod JPEG na XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod JPEG na XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést JPEG na XLSM via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory JPEG na XLSM programově? Vývojáři Java mohou 
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor JPEG s instancí třídy Workbook.
+1. Načtěte soubor JPEG s instancí třídy Workbook.
 1.  Převeďte JPEG na XLSM voláním metody Workbook.save.
 1.  Získejte výsledek převodu JPEG na XLSM.
 

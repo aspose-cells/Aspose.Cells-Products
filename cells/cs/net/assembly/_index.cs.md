@@ -1,6 +1,7 @@
 ---
 title: Vygenerujte soubory Excel přes C#
 description: Vygenerujte Microsoft Excel tabulky ze šablony pomocí kódu C#
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Vytvoření souborů podle šablony aplikace Excel via .NET" h2="Vytvářejte sestavy souborů Excel na základě předdefinované šablony v aplikacích založených na .NET" >}}

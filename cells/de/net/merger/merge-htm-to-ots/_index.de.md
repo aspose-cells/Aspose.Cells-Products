@@ -1,8 +1,8 @@
 ---
 title: HTM mit OTS zusammenführen – Kombinieren Sie HTM mit OTS in C#
 url: /de/net/merger/merge-htm-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenloses Online-Merge-HTM-zu-OTS-Speicherformat. C# Kombinieren Sie HTM mit dem OTS-Format. HTM mit OTS in C# zusammenführen. HTM zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to OTS in C#., Free Online C# Merge HTM to ots., C# Combine HTM to OTS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. HTM mit OTS-Speicherformat zusammenführen. C# Kombinieren Sie HTM mit dem OTS-Format. HTM mit OTS in C# zusammenführen. HTM zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to OTS in C#., C# Merge HTM to ots., C# Combine HTM to OTS., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM über C# mit OTS zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von HTM mit OTS. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to OTS in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="HTM mit OTS unter Verwendung von C# zusammenführen" %}}
 
- Wie füge ich HTM zu OTS zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit nur wenigen Codezeilen ganz einfach programmgesteuert mit OTS zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich HTM zu OTS zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie HTM mit nur wenigen Codezeilen ganz einfach programmgesteuert mit OTS zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTM mit OTS in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="HTM mit OTS in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie HTM mit OTS in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Befolgen Sie die einfachen Schritte, um HTM mit OTS zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von HTM mit OTS unter C#" InputFormat="htm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTM mit OTS in C#" InputFormat="htm" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTM über C# mit OTS zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie HTM programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie HTM programmgesteuert mit OTS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Vložte tvary do Excelu pomocí Python via Java
-description: Python via Java zdrojové kódy, jak vložit tvar do Microsoft souborů Excel pomocí Aspose.Cells for Python via Java knihovny.
+description:  Python via Java zdrojové kódy, jak vložit tvar do Microsoft souborů Excel pomocí Aspose.Cells for Python via Java knihovny.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Vkládání tvarů aplikace Excel pomocí Python via Java" h2="Vytvářejte dokumenty aplikace Excel a vkládejte tvary pomocí rozhraní API na straně serveru v pythonu prostřednictvím aplikací založených na java." >}}
@@ -12,7 +13,7 @@ description: Python via Java zdrojové kódy, jak vložit tvar do Microsoft soub
 
 {{% blocks/products/pf/feature-page-section h2="Vložte tvary do souboru aplikace Excel" %}}
 
- Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, tvořit[Třída sešitu](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)Metoda Add.
+ Vkládání tvarů pomocí těchto rozhraní API je jednoduché. Proces je, vytvořit[Třída sešitu](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook)objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Přidejte tvar do listu pomocí[kolekce tvarů](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)Metoda Add.
 
 {{% blocks/products/pf/feature-page-code h3="Python via Java Kód pro vložení tvaru do Excelu" %}}
 

@@ -1,8 +1,8 @@
 ---
-title: C# XLSB-Datei reparieren – XLSB-Datei online kostenlos reparieren
+title: C# XLSB reparieren – Beschädigte XLSB-Datei wiederherstellen und reparieren
 url: /de/net/recovery/repair-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. C# XLSB-Datei reparieren. Kostenloses Online-XLSB-Reparaturtool. Reparieren Sie eine beschädigte XLSB-Datei. Stellen Sie eine beschädigte XLSB-Datei in der Anwendung .NET wieder her.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb file., Free Online Repair a corrupted xlsb file., C# Recover xlsb file.]
+description: C# Aspose.Cells. Reparatur xlsb. XLSB-Datei reparieren. XLSB-Wiederherstellungstool. XLSB-Korruption. XLSB-Daten wiederherstellen. Wiederherstellung von XLSB-Dateien. Stellen Sie die beschädigte XLSB-Datei wieder her.
+keywords: [C# Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparieren Sie die Datei XLSB in C#" h2="Erstellen Sie Ihre eigene .NET-Anwendung, um XLSB-Dateien mit .NET zu reparieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb fil
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Datei XLSB mit C#" %}}
 
-Wie repariere ich eine XLSB-Datei? Mit der Bibliothek Aspose.Cells for .NET können Sie die Datei XLSB ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie repariere ich eine XLSB-Datei? Mit der Bibliothek Aspose.Cells for .NET können Sie die Datei XLSB ganz einfach programmgesteuert mit ein paar Codezeilen reparieren.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -36,12 +36,12 @@ Müssen Sie die XLSB-Datei programmgesteuert reparieren? .NET-Entwickler können
 {{% /blocks/products/pf/agp/text %}}
 
 + Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
-+ Laden Sie die Datei XLSB, indem Sie eine Instanz von Workbook erstellen und dabei die obige Vererbungsklasse verwenden. Weitere Informationen finden Sie im obigen Code.
++ Laden Sie die Datei XLSB, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte XLSB-Datei wird repariert.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Kostenlose App und Beispielcode zur Online-Reparatur der Datei XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Beispielcode zum Reparieren der Datei XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET-Bibliothek zum Reparieren der XLSB-Datei" %}}
 

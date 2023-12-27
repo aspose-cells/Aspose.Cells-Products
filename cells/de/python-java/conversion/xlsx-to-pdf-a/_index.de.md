@@ -10,7 +10,7 @@ description: Beispielcode für die Konvertierung von XLSX in PDF Python. Verwend
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSX mit Python in PDF" %}}
 
- Um XLSX in PDF umzuwandeln, verwenden wir
+Um XLSX in PDF umzuwandeln, verwenden wir
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung und -konvertierung.
 {{% /blocks/products/pf/agp/content %}}
@@ -41,11 +41,11 @@ description: Beispielcode für die Konvertierung von XLSX in PDF Python. Verwend
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren Sie Java und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Konvertieren Sie XLSX in PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: Beispielcode für die Konvertierung von XLSX in PDF Python. Verwend
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Excel-Tabellenkalkulations-Programmierbibliothek, die in der Lage ist, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
+Eine Excel-Tabellenkalkulations-Programmierbibliothek, die in der Lage ist, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht.
 
     {{% /blocks/products/pf/agp/content %}}
 

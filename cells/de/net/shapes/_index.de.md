@@ -1,6 +1,7 @@
 ---
 title: Formen in Excel einfügen via .NET
-description:  C# Quellcodes zum Einfügen einer Form in Microsoft Excel-Dateien mithilfe der .NET-Bibliothek.
+description: C# Beispielcode zum Hinzufügen oder Einfügen von Formen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code, um Formen in MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung zu erstellen.
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Einfügen von Excel-Formen via .NET" h2="Erstellen Sie Excel-Dokumente und fügen Sie Formen mithilfe serverseitiger APIs in .NET-basierten Anwendungen ein." >}}
@@ -12,7 +13,7 @@ description:  C# Quellcodes zum Einfügen einer Form in Microsoft Excel-Dateien 
 
 {{% blocks/products/pf/feature-page-section h2="Fügen Sie Formen in eine Excel-Datei ein" %}}
 
- Das Einfügen von Formen mithilfe dieser APIs ist einfach. Der Prozess ist Erstellen[Arbeitsbuchklasse](https://reference.aspose.com/cells/net/aspose.cells/workbook) Objekt und wählen Sie das erste Arbeitsblatt oder das relevante Blatt aus, indem Sie seinen Index angeben. Fügen Sie dem Arbeitsblatt eine Form hinzu, indem Sie verwenden[Formsammlung](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)'s Add-Methode.
+ Das Einfügen von Formen mithilfe dieser APIs ist einfach. Der Prozess ist Erstellen[Arbeitsbuchklasse](https://reference.aspose.com/cells/net/aspose.cells/workbook)Objekt und wählen Sie das erste Arbeitsblatt oder das relevante Blatt aus, indem Sie seinen Index angeben. Fügen Sie dem Arbeitsblatt eine Form hinzu, indem Sie verwenden[Formsammlung](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)'s Add-Methode.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Einfügen einer Form in Excel" %}}
 

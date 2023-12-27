@@ -1,7 +1,8 @@
 ---
-title:  Wasserzeichen XLSB Dokument via .NET
+title: Wasserzeichen XLSB Dokument via .NET
 weight: 5410
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSB-Datei auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Textwasserzeichen zu XLSB über C# hinzu" h2="Erstellen Sie mithilfe serverseitiger APIs Ihre eigenen .NET-Apps, um XLSB-Dateien mit Wasserzeichen zu versehen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

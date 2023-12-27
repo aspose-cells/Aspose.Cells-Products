@@ -2,6 +2,7 @@
 title:  XLSB Dokumententabelle via Java
 weight: 670
 description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in die Datei XLSB in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsb., Java Save chart to image in xlsb., Java chart to image in xlsb., xlsb convert chart to image in Java., xlsb save chart to imagein Java., xlsb chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Formatiert Diagramme in Java" h2="Native und leistungsstarke XLSB Dokumentdiagramme mit serverseitigen Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -11,7 +12,7 @@ description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder
 
 {{% blocks/products/pf/agp/content h2="So erstellen Sie XLSB-Dateidiagramme mit Java" %}}
 
- Um XLSB-Dateidiagramme zu erstellen, verwenden wir
+Um XLSB-Dateidiagramme zu erstellen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Diagrammplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder
 + Beispielwerte zu Zellen hinzufügen.
 + Fügen Sie dem Arbeitsblatt ein Diagramm hinzu.
 + Greifen Sie auf die Instanz des neu hinzugefügten Diagramms zu.
-Diagrammdatenquelle als Bereich festlegen.
++ Diagrammdatenquelle als Bereich festlegen.
 + Arbeitsmappe speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

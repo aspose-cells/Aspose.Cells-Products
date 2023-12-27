@@ -1,8 +1,8 @@
 ---
 title: XLSM mit XLTX zusammenführen - XLSM mit XLTX in C# kombinieren
 url: /de/net/merger/merge-xlsm-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von XLSM zu XLTX im Speicherformat. C# Kombinieren Sie das Format XLSM mit dem Format XLTX. XLSM zu XLTX in C# zusammenführen. XLSM Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTX in C#., Free Online C# Merge XLSM to xltx., C# Combine XLSM to XLTX Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. XLSM mit XLTX Saveformat zusammenführen. C# Kombinieren Sie das Format XLSM mit dem Format XLTX. XLSM zu XLTX in C# zusammenführen. XLSM Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTX in C#., C# Merge XLSM to xltx., C# Combine XLSM to XLTX., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM über C# mit XLTX zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von XLSM mit XLTX. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTX in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLSM mit XLTX unter Verwendung von C# zusammen" %}}
 
- Wie füge ich XLSM mit XLTX zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSM mit XLTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich XLSM mit XLTX zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSM mit XLTX ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie XLSM mit XLTX in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="XLSM mit XLTX in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie XLSM mit XLTX in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um XLSM mit XLTX zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um XLSM mit XLTX in C# zusammenzuführen" InputFormat="xlsm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XLSM mit XLTX in C#" InputFormat="xlsm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XLSM über C# mit XLTX zusammen" %}}
 

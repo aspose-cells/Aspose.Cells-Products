@@ -1,7 +1,7 @@
 ---
-title: Java OTS na ET - Online převodník OTS na ET
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést OTS na ET saveformat. Java OTS do formátu ET. Uložte OTS na ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to ET saveformat., Free Online OTS to ET Java., Java Convert OTS to ET]
+title: Java Převodník OTS na ET - OTS na ET
+description: Aspose Excel. Převeďte OTS na ET rychle a snadno pomocí Aspose.Cells. Java OTS na ET. Java Uložit OTS do ET. Uložte OTS jako ET pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to ET in Java., Save OTS to ET using Java., Java OTS to ET saveformat., OTS to ET Converter., Java Save OTS as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte OTS na ET v Java" h2="Vysokorychlostní knihovna Java pro převod OTS na ET. Jedná se o profesionální softwarové řešení pro import a export OTS, ET a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to ET
 
 {{% blocks/products/pf/agp/content h2="Převeďte OTS na ET pomocí Java" %}}
 
-Jak převedu OTS na ET? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na ET programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu OTS na ET? S knihovnou Aspose.Cells for Java můžete snadno převést OTS na ET programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ Jak převedu OTS na ET? S knihovnou Aspose.Cells for Java můžete snadno přev�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit OTS do ET na Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte OTS do ET na Java" %}}
 
 Následující příklad ukazuje, jak převést OTS na ET v Java.
 {{% blocks/products/pf/agp/text %}}
 
-Postupujte podle jednoduchých kroků pro převod OTS na ET. Nahrajte svůj soubor OTS a poté jej jednoduše uložte jako soubor ET. Pro čtení OTS i zápis ET můžete použít plně kvalifikované názvy souborů. Výstupní obsah ET a formátování budou identické s původním dokumentem OTS.
+Postupujte podle jednoduchých kroků pro převod OTS na ET. Nahrajte svůj soubor OTS a poté jej jednoduše uložte jako soubor ET. Pro čtení OTS i zápis ET můžete použít plně kvalifikované názvy souborů. Výstupní ET obsah a formátování budou identické s původním OTS dokumentem.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod OTS na ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod OTS na ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést OTS na ET via Java" %}}
 

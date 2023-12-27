@@ -1,7 +1,7 @@
 ---
-title: Java MHTML zu SPREADSHEETML - Online MHTML zu SPREADSHEETML Konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Kostenlos online Java Konvertieren Sie MHTML in das SPREADSHEETML-Speicherformat. Java MHTML in das SPREADSHEETML-Format. Speichern Sie MHTML in SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to SPREADSHEETML saveformat., Free Online MHTML to SPREADSHEETML Java., Java Convert MHTML to SPREADSHEETML]
+title: Java MHTML zu SPREADSHEETML - MHTML zu SPREADSHEETML Konverter
+description: Aspose Excel. Konvertieren Sie MHTML schnell und einfach in SPREADSHEETML mit Aspose.Cells. Java MHTML in SPREADSHEETML. Java Speichern Sie MHTML in SPREADSHEETML. Speichern Sie MHTML als SPREADSHEETML mit Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to SPREADSHEETML in Java., Save MHTML to SPREADSHEETML using Java., Java MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Converter., Java Save MHTML as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHTML in SPREADSHEETML in Java" h2="Hochgeschwindigkeitsbibliothek Java zum Konvertieren von MHTML in SPREADSHEETML. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von MHTML, SPREADSHEETML und vielen anderen Formaten mit Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie MHTML mit Java in SPREADSHEETML" %}}
 
-Wie konvertiere ich MHTML in SPREADSHEETML? Mit der Bibliothek Aspose.Cells for Java können Sie MHTML mit ein paar Codezeilen ganz einfach programmgesteuert in SPREADSHEETML konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie konvertiere ich MHTML in SPREADSHEETML? Mit der Bibliothek Aspose.Cells for Java können Sie MHTML mit ein paar Codezeilen ganz einfach programmgesteuert in SPREADSHEETML konvertieren.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Wie konvertiere ich MHTML in SPREADSHEETML? Mit der Bibliothek Aspose.Cells for 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Speichern Sie MHTML kostenlos in SPREADSHEETML in Java online" %}}
+{{% blocks/products/pf/agp/content h2="Speichern Sie MHTML in SPREADSHEETML in Java" %}}
 
 Das folgende Beispiel zeigt, wie MHTML in Java in SPREADSHEETML konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Befolgen Sie die einfachen Schritte, um MHTML in SPREADSHEETML zu konvertieren. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von MHTML in SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von MHTML in SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHTML in SPREADSHEETML via Java" %}}
 
@@ -68,7 +68,7 @@ Müssen Sie MHTML-Dateien programmgesteuert in SPREADSHEETML konvertieren? Java-
 
 1.  Installieren Sie „Aspose.Cells for Java“.
 1.  Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei MHTML mit einer Instanz der Workbook-Klasse.
+1. Laden Sie die Datei MHTML mit einer Instanz der Workbook-Klasse.
 1.  Konvertieren Sie MHTML in SPREADSHEETML, indem Sie die Methode Workbook.save aufrufen.
 1.  Erhalten Sie das Konvertierungsergebnis von MHTML in SPREADSHEETML.
 

@@ -2,6 +2,7 @@
 title:  Jak nakreslím nebo vložím rovnou šipku do Excelu via Java
 weight: 10
 description: Nakreslete nebo vložte objekty s přímou šipkou pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java add straight arrow., Java insert straight arrow., Java create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte rovnou šipku do Excelu via Java" h2="Vložte přímou šipku pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Nakreslete nebo vložte objekty s přímou šipkou pomocí Aspose.C
 
 {{% blocks/products/pf/agp/content h2="Jak vložit přímou šipku do souboru aplikace Excel pomocí Java" %}}
 
- Abychom vložili rovnou šipku do excelového souboru, použijeme
+Abychom vložili rovnou šipku do excelového souboru, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, což je funkčně bohatá, výkonná a snadno použitelná platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Nakreslete nebo vložte objekty s přímou šipkou pomocí Aspose.C
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) pro vložení rovné šipky do vybraného listu
 + Uložit sešit ve formátu XLSX.

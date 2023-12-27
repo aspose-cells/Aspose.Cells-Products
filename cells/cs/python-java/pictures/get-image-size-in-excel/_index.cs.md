@@ -2,6 +2,7 @@
 title: Získejte velikost obrázků/obrázků v aplikaci Excel pomocí Python via Java
 weight: 10
 description: Získá velikost obrázků/obrázků v aplikaci Excel pomocí Aspose.Cells' Python via Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Python via Java Aspose.Cells., Python via Java Get Images/Pictures Size In Excel., Python via Java Obtain Images/Pictures Size In Excel., Python via Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Získejte velikost obrázků/obrázků v aplikaci Excel pomocí Python via Java" h2="Použití Aspose.Cells\' API pro práci s různými objekty bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -44,7 +45,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
     + [Šířka](https://reference.aspose.com/cells/python-java/asposecells.api/picture#Width) Představuje šířku tvaru v jednotkách pixelů.
     + [Výška](https://reference.aspose.com/cells/python-java/asposecells.api/picture#Height) Představuje výšku tvaru v jednotkách pixelů.
     + [Původní šířka](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalWidth) Získá původní šířku obrázku v jednotkách pixelů.
-    + [Původní výška](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalHeight) Získá původní výšku obrázku v jednotkách pixelů.
+    + [Původní výška](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalHeight)Získá původní výšku obrázku v jednotkách pixelů.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -53,12 +54,12 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
+ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux a MacOS), jen se ujistěte, že systém má Java 1.8 nebo vyšší,[Python](https://www.python.org/downloads/) 3.5 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jakýkoli operační systém, který může spouštět skripty Python via Java, například Windows, Linux a MacOS
--  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jakýkoli operační systém, který může spouštět skripty Python via Java, například Windows, Linux a MacOS
+- Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Instalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -95,7 +96,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

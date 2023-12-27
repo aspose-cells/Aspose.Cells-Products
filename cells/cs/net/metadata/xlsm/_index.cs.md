@@ -2,6 +2,7 @@
 title:  Zobrazit nebo upravit XLSM Metadata souborů via .NET
 weight: 5590
 description: C# zdrojový kód pro úpravu nebo zobrazení XLSM metadata formátu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# view xlsm metadata., c# add xlsm metadata., c# insert xlsm metadata., c# edit xlsm metadata., c# remove xlsm metadata., c# extract xlsm metadata., c# modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Výpis XLSM Metadata via .NET" h2="Sestavte si své vlastní aplikace .NET pro přidávání, úpravy, odstraňování nebo extrahování metadat ze souborů XLSM pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

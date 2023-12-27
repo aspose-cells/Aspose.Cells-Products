@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML na XLSX - Online převodník SPREADSHEETML na XLSX
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte SPREADSHEETML na XLSX saveformat. Java SPREADSHEETML do formátu XLSX. Uložte SPREADSHEETML na XLSX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to XLSX saveformat., Free Online SPREADSHEETML to XLSX Java., Java Convert SPREADSHEETML to XLSX]
+title: Java SPREADSHEETML na XLSX - SPREADSHEETML na XLSX Převodník
+description: Aspose Excel. Převeďte SPREADSHEETML na XLSX rychle a snadno pomocí Aspose.Cells. Java SPREADSHEETML na XLSX. Java Uložte SPREADSHEETML na XLSX. 4 Uložit jako 83076181
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to XLSX in Java., Save SPREADSHEETML to XLSX using Java., Java SPREADSHEETML to XLSX saveformat., SPREADSHEETML to XLSX Converter., Java Save SPREADSHEETML as XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést SPREADSHEETML na XLSX v Java" h2="Vysokorychlostní knihovna Java pro převod SPREADSHEETML na XLSX. Jedná se o profesionální softwarové řešení pro import a export SPREADSHEETML, XLSX a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Převeďte SPREADSHEETML na XLSX pomocí Java" %}}
 
- Jak převedu SPREADSHEETML na XLSX? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na XLSX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu SPREADSHEETML na XLSX? S knihovnou Aspose.Cells for Java můžete snadno převést SPREADSHEETML na XLSX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na XLSX v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit SPREADSHEETML na XLSX v Java" %}}
 
 Následující příklad ukazuje, jak převést SPREADSHEETML na XLSX v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod SPREADSHEETML na XLSX. Nahrajt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SPREADSHEETML na XLSX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod SPREADSHEETML na XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SPREADSHEETML na XLSX via Java" %}}
 

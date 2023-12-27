@@ -2,6 +2,7 @@
 title:  ODS Dokumententabelle via Java
 weight: 2240
 description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in die Datei ODS in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java Convert chart to image in ods., Java Save chart to image in ods., Java chart to image in ods., ods convert chart to image in Java., ods save chart to image in Java., ods chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS Formatiert Diagramme in Java" h2="Native und leistungsstarke ODS Dokumentdiagramme mit serverseitigen Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder
 
 {{% blocks/products/pf/agp/content h2="So erstellen Sie ODS-Dateidiagramme mit Java" %}}
 
- Um ODS-Dateidiagramme zu erstellen, verwenden wir
+Um ODS-Dateidiagramme zu erstellen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Diagrammplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java Beispielcode zum Zeichnen und Konvertieren von Diagrammen oder
 + Beispielwerte zu Zellen hinzufügen.
 + Fügen Sie dem Arbeitsblatt ein Diagramm hinzu.
 + Greifen Sie auf die Instanz des neu hinzugefügten Diagramms zu.
-Diagrammdatenquelle als Bereich festlegen.
++ Diagrammdatenquelle als Bereich festlegen.
 + Arbeitsmappe speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

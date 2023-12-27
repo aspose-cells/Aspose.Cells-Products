@@ -1,6 +1,7 @@
 ---
 title: Vytvářejte akciové grafy High-Low-Close prostřednictvím C#
 description: C# Ukázkový kód pro vytváření akciových grafů High-Low-Close do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření akciového grafu High-Low-Close do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add High-Low-Close Stock Chart., c# insert High-Low-Close Stock Chart., c# create High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

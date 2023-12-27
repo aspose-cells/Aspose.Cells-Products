@@ -2,6 +2,7 @@
 title:  Rozdělit XLSM Soubory via Java
 weight: 5670
 description: Java ukázkový kód pro rozdělení XLSM dokumentů na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java split xlsm files., Java how to split xlsm files into multiple files., Java xlsm splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Rozdělit XLSM Soubory via Java" h2="XLSM rozdělení pomocí knihovny Java na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -62,7 +63,7 @@ description: Java ukázkový kód pro rozdělení XLSM dokumentů na Java Runtim
 + Načtěte soubor XLSM pomocí třídy Workbook.
 + Iterujte každý list
 + Vytvořit nový objekt třídy Workbook
-+ Zkopírujte vybraný list do nového objektu
+Zkopírujte vybraný list do nového objektu
 + Zavolejte metodu uložení s novou cestou k souboru XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

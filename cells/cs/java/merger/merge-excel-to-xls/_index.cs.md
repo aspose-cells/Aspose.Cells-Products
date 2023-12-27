@@ -1,8 +1,8 @@
 ---
 title: Sloučit EXCEL s XLS - Kombinovat EXCEL s XLS v Java
 url: /cs/java/merger/merge-excel-to-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Online zdarma sloučit EXCEL do XLS saveformat. Java Kombinujte EXCEL do formátu XLS. Sloučit EXCEL na XLS v Java. EXCEL Sloučit.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLS in Java., Free Online Java Merge EXCEL to xls., Java Combine EXCEL to XLS Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Sloučit EXCEL do XLS saveformat. Java Kombinujte EXCEL do formátu XLS. Sloučit EXCEL na XLS v Java. EXCEL Sloučit.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLS in Java., Java Merge EXCEL to xls., Java Combine EXCEL to XLS., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit EXCEL na XLS via Java" h2="Vysokorychlostní knihovna Java pro sloučení EXCELu do XLS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLS in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Sloučit EXCEL s XLS pomocí Java" %}}
 
- Jak sloučím EXCEL s XLS? S knihovnou Aspose.Cells for Java můžete snadno sloučit EXCEL s XLS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím EXCEL s XLS? S knihovnou Aspose.Cells for Java můžete snadno sloučit EXCEL s XLS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLS in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit EXCEL na XLS v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit EXCEL na XLS v Java" %}}
 
 Následující příklad ukazuje, jak sloučit EXCEL s XLS v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro sloučení EXCELu s XLS. Nahrajte své
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení EXCELu s XLS v Java" InputFormat="xlsx" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení EXCELu s XLS v Java" InputFormat="xlsx" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit EXCEL s XLS via Java" %}}
 

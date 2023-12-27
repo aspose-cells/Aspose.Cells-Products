@@ -1,7 +1,8 @@
 ---
-title: Jak nakreslím nebo vložím dvojitou rovnou šipku do Excelu via .NET
+title:  Jak nakreslím nebo vložím dvojitou rovnou šipku do Excelu via .NET
 weight: 10
-description: C# zdrojový kód pro kreslení nebo vkládání dvojité přímé šipky do Excelu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# Ukázkový kód pro přidání nebo vložení dvojité přímé šipky do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření dvojité přímé šipky v MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
+keywords: [C# Aspose.Cells., c# add double straight arrow., c# insert double straight arrow., c# create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte dvojitou rovnou šipku do Excelu via .NET" h2="Vložte dvojitou přímou šipku pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# zdrojový kód pro kreslení nebo vkládání dvojité přímé 
 
 {{% blocks/products/pf/agp/content h2="Jak vložit dvojitou přímou šipku do souboru aplikace Excel pomocí C#" %}}
 
- Abychom vložili dvojitou přímou šipku do souboru Excel, použijeme
+Abychom vložili dvojitou přímou šipku do souboru Excel, použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci s dokumenty a rozdělovač API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,9 +42,9 @@ Abyste mohli vyzkoušet následující pracovní postup ve svém vlastním prost
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
- + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline) pro vložení dvojité rovné šipky do vybraného listu
+ + Použijte[přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline)pro vložení dvojité rovné šipky do vybraného listu
 + Uložit sešit ve formátu XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -77,7 +78,7 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
+Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

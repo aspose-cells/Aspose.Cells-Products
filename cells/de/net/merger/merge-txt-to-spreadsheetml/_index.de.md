@@ -1,8 +1,8 @@
 ---
 title: TXT mit SPREADSHEETML zusammenführen – Kombinieren Sie TXT mit SPREADSHEETML in C#
 url: /de/net/merger/merge-txt-to-spreadsheetml/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von TXT in das SPREADSHEETML-Speicherformat. C# Kombinieren Sie TXT mit dem SPREADSHEETML-Format. TXT mit SPREADSHEETML in C# zusammenführen. TXT Zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., Free Online C# Merge TXT to spreadsheetml., C# Combine TXT to SPREADSHEETML Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. TXT in das SPREADSHEETML-Speicherformat zusammenführen. C# Kombinieren Sie TXT mit dem SPREADSHEETML-Format. TXT mit SPREADSHEETML in C# zusammenführen. TXT Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., C# Merge TXT to spreadsheetml., C# Combine TXT to SPREADSHEETML., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie TXT über C# mit SPREADSHEETML zusammen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von TXT mit SPREADSHEETML. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., F
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TXT mit SPREADSHEETML unter Verwendung von C# zusammen" %}}
 
-Wie füge ich TXT mit SPREADSHEETML zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TXT ganz einfach programmgesteuert mit ein paar Codezeilen in SPREADSHEETML zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich TXT mit SPREADSHEETML zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie TXT ganz einfach programmgesteuert mit ein paar Codezeilen in SPREADSHEETML zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie TXT kostenlos mit SPREADSHEETML in C# online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie TXT mit SPREADSHEETML in C# zusammen" %}}
 
 Das folgende Beispiel zeigt, wie TXT mit SPREADSHEETML in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um TXT in SPREADSHEETML zusammenzuführen. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von TXT mit SPREADSHEETML in C#" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von TXT mit SPREADSHEETML in C#" InputFormat="txt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TXT über C# mit SPREADSHEETML zusammen" %}}
 

@@ -2,6 +2,7 @@
 title:  Vyhledejte dokument XLSX bez otevření via Java
 weight: 6780
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hledejte XLSX Formáty v Java" h2="Nativní a vysoce výkonné XLSX prohledávání dokumentů pomocí serverových Aspose.Cells for Java API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XL
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu
-+ Vytiskněte buňky nalezené po výsledku hledání
+Vytiskněte buňky nalezené po výsledku hledání
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

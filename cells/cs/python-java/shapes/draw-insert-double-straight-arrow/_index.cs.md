@@ -2,6 +2,7 @@
 title:  Jak nakreslím nebo vložím dvojitou přímou šipku do aplikace Excel pomocí Python via java
 weight: 10
 description: Python via zdrojový kód java pro nakreslení nebo vložení dvojité rovné šipky do aplikace Excel.
+keywords: [Python Aspose.Cells., Python add double straight arrow., Python insert double straight arrow., Python create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte dvojitou rovnou šipku do Excelu pomocí Python via java" h2="Vložte dvojitou přímou šipku pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Python via zdrojový kód java pro nakreslení nebo vložení dvoji
 
 {{% blocks/products/pf/agp/content h2="Jak vložit dvojitou rovnou šipku do souboru aplikace Excel pomocí Python via java" %}}
 
- Abychom vložili dvojitou přímou šipku do souboru Excel, použijeme
+Abychom vložili dvojitou přímou šipku do souboru Excel, použijeme
  [Aspose.Cells for Python přes java](https://pypi.org/project/aspose-cells/) 
  API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API for Python přes platformu java. API poskytuje vytváření souborů Excel, manipulaci, konverzi a vykreslování. Vše bez spoléhání na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
 
@@ -37,7 +38,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
  + Použijte kolekci tvarů[přidat metodu](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addLine(int,%20int,%20int,%20int,%20int,%20int)), chcete-li do vybraného listu vložit dvojitou přímou šipku.
 + Uložit sešit ve formátu XLSX.
@@ -52,8 +53,8 @@ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou ce
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
--  Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Jakýkoli operační systém, který může spouštět Python via java skripty, jako je Windows, Linux a MacOS
+- Nainstalujte Java a přidejte jej do proměnné prostředí PATH, například:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Nainstalujte Aspose.Cells for Python přes java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

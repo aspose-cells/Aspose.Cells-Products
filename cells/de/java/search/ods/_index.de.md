@@ -2,6 +2,7 @@
 title:  Durchsuchen Sie das Dokument ODS, ohne via Java zu öffnen
 weight: 8140
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei ODS in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java search words with pattern in ods file., Java find words with pattern in ods file., Java search string with pattern in ods file., Java find words with pattern in ods file., Java search words in ods file., Java find words in ods file., Java search string in ods file., Java find string in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Suchen Sie nach ODS-Formaten in Java" h2="Native und leistungsstarke ODS Dokumentensuche mit serverseitigen Aspose.Cells for Java APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -62,7 +63,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei O
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält
-+ Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
+Drucken Sie die nach dem Suchergebnis gefundenen Zellen aus
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

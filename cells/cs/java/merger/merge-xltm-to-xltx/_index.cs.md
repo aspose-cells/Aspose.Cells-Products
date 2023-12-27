@@ -1,8 +1,8 @@
 ---
 title: Sloučit XLTM až XLTX - Sloučit XLTM až XLTX v Java
 url: /cs/java/merger/merge-xltm-to-xltx/ 
-description: Aspose Excel. Java Aspose.Cells. Online sloučení zdarma XLTM do formátu uložení XLTX. Java Kombinujte formát XLTM až XLTX. Sloučit XLTM až XLTX v Java. XLTM Sloučit.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTX in Java., Free Online Java Merge XLTM to xltx., Java Combine XLTM to XLTX Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Sloučit XLTM do XLTX uložit formát. Java Kombinujte formát XLTM až XLTX. Sloučit XLTM až XLTX v Java. XLTM Sloučit.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTX in Java., Java Merge XLTM to xltx., Java Combine XLTM to XLTX., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLTM až XLTX via Java" h2="Vysokorychlostní knihovna Java pro sloučení XLTM do XLTX. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTX in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLTM až XLTX pomocí Java" %}}
 
- Jak sloučím XLTM do XLTX? S knihovnou Aspose.Cells for Java můžete snadno sloučit XLTM na XLTX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím XLTM do XLTX? S knihovnou Aspose.Cells for Java můžete snadno sloučit XLTM na XLTX programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTX in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sloučit XLTM až XLTX v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Sloučit XLTM až XLTX v Java" %}}
 
 Následující příklad ukazuje, jak sloučit XLTM až XLTX v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro sloučení XLTM do XLTX. Nahrajte své
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Online zdarma ke sloučení XLTM až XLTX v Java" InputFormat="xltm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ukázkový kód pro sloučení XLTM až XLTX v Java" InputFormat="xltm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLTM do XLTX via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLTX do JPG – Online konvertor XLTX do JPG
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLTX do formátu JPG. Java XLTX do formátu JPG. Uložit XLTX do JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to JPG saveformat., Free Online XLTX to JPG Java., Java Convert XLTX to JPG]
+title: Java XLTX do JPG - XLTX do JPG Converter
+description: Aspose Excel. Převeďte XLTX na JPG rychle a snadno pomocí Aspose.Cells. Java XLTX na JPG. Java Uložit XLTX do JPG. Uložte XLTX jako JPG pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to JPG in Java., Save XLTX to JPG using Java., Java XLTX to JPG saveformat., XLTX to JPG Converter., Java Save XLTX as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XLTX na JPG v Java" h2="Vysokorychlostní knihovna Java pro převod XLTX do JPG. Jedná se o profesionální softwarové řešení pro import a export XLTX, JPG a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to J
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLTX na JPG pomocí Java" %}}
 
- Jak převedu XLTX na JPG? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu XLTX na JPG? S knihovnou Aspose.Cells for Java můžete snadno převést XLTX na JPG programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit XLTX do JPG v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte XLTX do JPG v Java" %}}
 
 Následující příklad ukazuje, jak převést XLTX na JPG v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLTX na JPG. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTX na JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLTX na JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTX na JPG via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést XLTX soubory do JPG programově? Vývojáři Java mohou s
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLTX s instancí třídy Workbook.
+1. Načtěte soubor XLTX s instancí třídy Workbook.
 1.  Převeďte XLTX na JPG voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLTX na JPG.
 

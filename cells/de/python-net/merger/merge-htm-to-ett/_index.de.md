@@ -1,8 +1,8 @@
 ---
 title: HTM mit ETT zusammenführen – HTM mit ETT in Python kombinieren
 url: /de/python-net/merger/merge-htm-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von HTM in das ETT-Speicherformat. Python Kombinieren Sie HTM mit dem ETT-Format. HTM mit ETT in Python zusammenführen. HTM zusammenführen.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to ETT in Python., Free Online Python Merge HTM to ett., Python Combine HTM to ETT Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. HTM mit ETT-Speicherformat zusammenführen. Python Kombinieren Sie HTM mit dem ETT-Format. HTM mit ETT in Python zusammenführen. HTM zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to ETT in Python., Python Merge HTM to ett., Python Combine HTM to ETT., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM über Python mit ETT zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von HTM mit ETT. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to ETT in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Führen Sie HTM mit ETT unter Verwendung von Python zusammen" %}}
 
- Wie füge ich HTM zu ETT zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit ETT zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Wie füge ich HTM zu ETT zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie HTM mit wenigen Codezeilen ganz einfach programmgesteuert mit ETT zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie HTM mit ETT in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="Führen Sie HTM in Python mit ETT zusammen" %}}
 
 Das folgende Beispiel zeigt, wie HTM in Aspose.Cells for Python via .NET mit ETT zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Befolgen Sie die einfachen Schritte, um HTM mit ETT zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose Online-Zusammenführung von HTM zu ETT unter Python" InputFormat="htm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von HTM mit ETT in Python" InputFormat="htm" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie HTM über Python mit ETT zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie HTM programmgesteuert mit ETT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie HTM programmgesteuert mit ETT zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ Müssen Sie HTM programmgesteuert mit ETT zusammenführen? Ein einfaches Dokumen
 Wir hosten unsere Python-Pakete in PyPi-Repositories.
 
 {{% blocks/products/pf/agp/text %}}
-Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installieren[Python](https://www.python.org/downloads/) 3,7 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

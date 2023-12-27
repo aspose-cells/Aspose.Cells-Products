@@ -2,6 +2,7 @@
 title:  Generieren Sie Berichte in XLSM-Dateien via .NET
 weight: 4400
 description: C#-Quellcode zum Generieren von Berichten im XLSM-Format auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# Create XLSM Reports Based on Predesigned Excel Template., c# Generate XLSM Reports Based on Predesigned Excel Template., c# Create XLSM Reports Based on Excel Template., C# Generate XLSM Reports Based on Excel Template., c# Create XLSM files Based on Excel Template., C# Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Massenberichterstellung im XLSM-Format über C#" h2="Erstellen Sie Berichte im Format XLSM mithilfe einer Datenquelle und einer Vorlage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

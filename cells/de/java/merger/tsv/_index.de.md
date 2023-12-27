@@ -49,7 +49,7 @@ description: Java Beispielcode zum Kombinieren von TSV-Dokumenten in der Java-La
 
 {{% blocks/products/pf/agp/text %}}
 
-Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,7 +98,7 @@ tsvFile1.save("combinedFileWithPath.tsv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre TSV-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort zusammengeführt und verkettet." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

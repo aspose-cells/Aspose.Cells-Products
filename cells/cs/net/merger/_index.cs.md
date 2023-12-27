@@ -18,7 +18,7 @@ description: Spojte soubory tabulek Excelu a OpenOffice pomocí několika řádk
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučit více souborů aplikace Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro sloučení několika souborů aplikace Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

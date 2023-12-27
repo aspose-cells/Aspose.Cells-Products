@@ -1,7 +1,7 @@
 ---
-title: Java HTML až XLTM - Online konvertor HTML až XLTM
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést HTML na XLTM uložit formát. Java HTML až XLTM formát. Uložte si HTML až XLTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to XLTM saveformat., Free Online HTML to XLTM Java., Java Convert HTML to XLTM]
+title: Java HTML až XLTM - HTML až XLTM Převodník
+description: Aspose Excel. Převeďte HTML na XLTM rychle a snadno pomocí Aspose.Cells. Java HTML na XLTM. Java Ušetřete HTML na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XLTM in Java., Save HTML to XLTM using Java., Java HTML to XLTM saveformat., HTML to XLTM Converter., Java Save HTML as XLTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést HTML na XLTM na Java" h2="Vysokorychlostní knihovna Java pro převod HTML na XLTM. Jedná se o profesionální softwarové řešení pro import a export HTML, XLTM a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to X
 
 {{% blocks/products/pf/agp/content h2="Převeďte HTML na XLTM pomocí Java" %}}
 
-Jak převedu HTML na XLTM? S knihovnou Aspose.Cells for Java můžete snadno převést HTML na XLTM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu HTML na XLTM? S knihovnou Aspose.Cells for Java můžete snadno převést HTML na XLTM programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu HTML na XLTM? S knihovnou Aspose.Cells for Java můžete snadno př
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete HTML až XLTM v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit HTML až XLTM v Java" %}}
 
 Následující příklad ukazuje, jak převést HTML na XLTM v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod HTML na XLTM. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod HTML na XLTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod HTML na XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xltm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést HTML na XLTM via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory HTML na XLTM programově? Vývojáři Java mohou 
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor HTML s instancí třídy Workbook.
+1. Načtěte soubor HTML s instancí třídy Workbook.
 1.  Převeďte HTML na XLTM voláním metody Workbook.save.
 1.  Získejte výsledek převodu HTML na XLTM.
 

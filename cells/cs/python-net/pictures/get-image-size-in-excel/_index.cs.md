@@ -2,6 +2,7 @@
 title: Získejte velikost obrázků/obrázků v aplikaci Excel pomocí Python via .Net
 weight: 10
 description: Získává velikost obrázků/obrázků v aplikaci Excel pomocí Aspose.Cells' Python via .Net API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Python via .NET Aspose.Cells., Python via .NET Get Images/Pictures Size In Excel., Python via .NET Obtain Images/Pictures Size In Excel., Python via .NET Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Získejte velikost obrázků/obrázků v aplikaci Excel pomocí Python via .Net" h2="Použití Aspose.Cells\' API pro práci s různými objekty bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Získává velikost obrázků/obrázků v aplikaci Excel pomocí As
 
  Abychom získali velikost obrázků/obrázků v souboru Excel, použijeme
  [Aspose.Cells for Python přes .Net](https://pypi.org/project/aspose-cells-python/) 
-API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API for Python prostřednictvím platformy .Net. API umožňuje vytváření, manipulaci, konverzi a vykreslování souborů Excel. Vše bez spoléhání na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
+ API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API for Python prostřednictvím platformy .Net. API umožňuje vytváření, manipulaci, konverzi a vykreslování souborů Excel. Vše bez spoléhání na aplikace Office nebo Excel Microsoft. Instalaci můžete provést z konzoly pomocí následujícího příkazu.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -44,7 +45,7 @@ Chcete-li vyzkoušet následující pracovní postup ve svém vlastním prostře
     + [Šířka](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/width/) Představuje šířku tvaru v jednotkách pixelů.
     + [Výška](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/height/) Představuje výšku tvaru v jednotkách pixelů.
     + [Původní šířka](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_width/) Získá původní šířku obrázku v jednotkách pixelů.
-    + [Původní výška](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/) Získá původní výšku obrázku v jednotkách pixelů.
+    + [Původní výška](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/)Získá původní výšku obrázku v jednotkách pixelů.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -94,7 +95,7 @@ Aspose.Cells API schopný vytvářet aplikace pro více platforem, lze jej použ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -2,6 +2,7 @@
 title:  Zobrazit nebo upravit XLSX Metadata souborů via .NET
 weight: 3430
 description: C# zdrojový kód pro úpravu nebo zobrazení XLSX metadata formátu na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+keywords: [C# Aspose.Cells., c# view xlsx metadata., c# add xlsx metadata., c# insert xlsx metadata., c# edit xlsx metadata., c# remove xlsx metadata., c# extract xlsx metadata., c# modify xlsx metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Výpis XLSX Metadata via .NET" h2="Sestavte si své vlastní aplikace .NET pro přidávání, úpravy, odstraňování nebo extrahování metadat ze souborů XLSX pomocí rozhraní API na straně serveru." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

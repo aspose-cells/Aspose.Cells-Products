@@ -1,6 +1,7 @@
 ---
 title: Vytvořte sloupcové grafy prostřednictvím Python
 description: Python Ukázkový kód pro vytváření pruhových grafů do Excelu pomocí knihovny Python. Tento kód použijte pro vytvoření sloupcového grafu do MS Excel v aplikaci založené na Python.
+keywords: [Python Aspose.Cells., Python add Bar Chart., Python insert Bar Chart., Python create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -24,7 +25,7 @@ Pro vývojáře je snadné vytvořit sloupcový graf v rámci různých aplikac�
 
 1. Importujte buňky asposecell do souboru kódu.
 1. Vytvořte instanci třídy Sešit.
-1. Přidejte některá data do listu.
+1. Přidejte do listu nějaká data.
 1. Přidejte do listu pruhový graf
 1. Získejte přístup k novému objektu grafu z kolekce Charts předáním jeho indexu.
 1. Nastavte zdroj dat grafu pomocí metody Chart.setChartDataRange.
@@ -35,7 +36,7 @@ Pro vývojáře je snadné vytvořit sloupcový graf v rámci různých aplikac�
 {{% blocks/products/pf/agp/text %}}
  Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
 {{% /blocks/products/pf/agp/text %}}
-- Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
+-  Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Následující zdrojový kód ukazuje, jak vytvořit sloupcový graf do souboru MS Excel XLSX pomocí Python." offSpacer="" %}}

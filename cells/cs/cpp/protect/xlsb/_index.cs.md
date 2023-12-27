@@ -2,6 +2,7 @@
 title:  Chraňte a uzamkněte dokument XLSB přes C++
 weight: 4860
 description: C++ příklad kódu pro uzamčení souboru XLSB pomocí hesla na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLSB files., C++ How to Protect and lock XLSB document., C++ Protect XLSB files., Encrypt XLSB Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSB přes C++" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSB pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Načtěte soubor XLSB pomocí třídy IWorkbook
+1.  Načtěte soubor XLSB pomocí třídy Workbook
 1.  Použijte metodu Protect(..) s ProtectionType a Password
 1.  Uložte chráněný soubor XLSB metodou Save().
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsb");
 
-// Load XLSB file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsb")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSB file
-workbook->Save(outDir->StringAppend(new String("output.xlsb")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsb");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -100,7 +105,7 @@ workbook->Save(outDir->StringAppend(new String("output.xlsb")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSB soubory](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat soubory XLSB](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSB a stisknout tlačítko „Odemknout“." >}}

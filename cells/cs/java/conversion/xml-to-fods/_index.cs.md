@@ -1,7 +1,7 @@
 ---
-title: Java XML na FODS – Online převodník XML na FODS
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převod XML do formátu uložení FODS. Java XML do formátu FODS. Uložit XML na FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to FODS saveformat., Free Online XML to FODS Java., Java Convert XML to FODS]
+title: Java XML na FODS - Převodník XML na FODS
+description: Aspose Excel. Převeďte XML na FODS rychle a snadno pomocí Aspose.Cells. Java XML na FODS. Java Uložte XML na FODS. Uložte XML jako FODS pomocí 0716183
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to FODS in Java., Save XML to FODS using Java., Java XML to FODS saveformat., XML to FODS Converter., Java Save XML as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XML na FODS v Java" h2="Vysokorychlostní knihovna Java pro převod XML na FODS. Jedná se o profesionální softwarové řešení pro import a export XML, FODS a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to FO
 
 {{% blocks/products/pf/agp/content h2="Převeďte XML na FODS pomocí Java" %}}
 
- Jak převedu XML na FODS? S knihovnou Aspose.Cells for Java můžete snadno převést XML na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu XML na FODS? S knihovnou Aspose.Cells for Java můžete snadno převést XML na FODS programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to FO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Uložit XML na FODS v Java Online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte XML na FODS v Java" %}}
 
 Následující příklad ukazuje, jak převést XML na FODS v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XML na FODS. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XML na FODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XML na FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XML na FODS via Java" %}}
 

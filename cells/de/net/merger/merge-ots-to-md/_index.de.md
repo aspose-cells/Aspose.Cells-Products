@@ -1,8 +1,8 @@
 ---
 title: OTS mit MD zusammenführen – OTS mit MD in C# kombinieren
 url: /de/net/merger/merge-ots-to-md/ 
-description: Aspose Excel. C# Aspose.Cells. Kostenloses Online-Speicherformat zum Zusammenführen von OTS und MD. C# Kombinieren Sie OTS mit dem MD-Format. OTS mit MD in C# zusammenführen. OTS zusammenführen.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MD in C#., Free Online C# Merge OTS to md., C# Combine OTS to MD Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. OTS in MD-Speicherformat zusammenführen. C# Kombinieren Sie OTS mit dem MD-Format. OTS mit MD in C# zusammenführen. OTS zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MD in C#., C# Merge OTS to md., C# Combine OTS to MD., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS über C# mit MD zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von OTS mit MD. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MD in C#., Free Online 
 
 {{% blocks/products/pf/agp/content h2="OTS mit MD unter Verwendung von C# zusammenführen" %}}
 
- Wie füge ich OTS zu MD zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert in MD zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich OTS zu MD zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie OTS mit wenigen Codezeilen ganz einfach programmgesteuert in MD zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie OTS in MD in C# kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="OTS in MD in C# zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie OTS mit MD in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Befolgen Sie die einfachen Schritte, um OTS mit MD zusammenzuführen. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online, um OTS in MD unter C# zusammenzuführen" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von OTS zu MD in C#" InputFormat="ots" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie OTS über C# mit MD zusammen" %}}
 

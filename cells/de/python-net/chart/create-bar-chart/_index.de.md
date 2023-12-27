@@ -1,6 +1,7 @@
 ---
 title: Erstellen Sie Balkendiagramme über Python
 description: Python Beispielcode zum Erstellen von Balkendiagrammen in Excel mithilfe der Bibliothek Python. Verwenden Sie diesen Code zum Erstellen eines Balkendiagramms für MS Excel in einer auf Python basierenden Anwendung.
+keywords: [Python Aspose.Cells., Python add Bar Chart., Python insert Bar Chart., Python create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -35,7 +36,7 @@ Für die Entwickler ist es einfach, mit nur wenigen Codezeilen ein Balkendiagram
 {{% blocks/products/pf/agp/text %}}
  Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
 {{% /blocks/products/pf/agp/text %}}
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Der folgende Quellcode zeigt, wie Sie mit Python ein Balkendiagramm in die MS Excel-Datei XLSX erstellen." offSpacer="" %}}

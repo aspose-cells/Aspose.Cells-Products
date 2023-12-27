@@ -1,7 +1,8 @@
 ---
-title:  Fügen Sie die Anmerkung zur Excel-Datei XLSB über C++ hinzu
+title:  Hinzufügen oder Entfernen der Excel-Datei XLSB Anmerkung über C++
 weight: 860
 description: C++ Beispielcode zum Löschen von XLSB-Formatanmerkungen in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie über C++ eine Anmerkung in der Datei XLSB hinzu" h2="Erstellen Sie Ihre eigenen C++-Apps, um Kommentare und Autoren in Dokumentdateien mithilfe serverseitiger APIs zu bearbeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Wählen Sie das entsprechende Blatt aus
 1.  Fügen Sie den Kommentar mit der Add-Methode hinzu
 1.  Legen Sie die Notiz des Kommentars mit der SetNote-Methode fest.
-1.  Speichern Sie die Arbeitsmappe mit[Speichern](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode
+1.  Speichern Sie die Arbeitsmappe mit[Speichern](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) Methode
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Fügen Sie Kommentare in der Datei XLSB hinzu – C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsb-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsb-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

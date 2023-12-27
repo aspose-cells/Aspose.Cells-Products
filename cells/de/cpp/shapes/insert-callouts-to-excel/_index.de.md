@@ -2,6 +2,7 @@
 title:  Fügen Sie Callouts über C++ in Excel ein
 weight: 810
 description: C++ Beispielcode zum Einfügen von Callouts in eine Excel-Datei in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+keywords: [C++ Aspose.Cells., C++ add Callouts shape., C++ insert Callouts shape., C++ create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie Callouts über C++ in Excel ein" h2="Fügen Sie Objekte mit der nativen und hohen Leistung der Serverseite Aspose.Cells for C++ API ein, ohne Software wie Microsoft oder Adobe PDF zu verwenden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Schritte zum Einfügen von Callouts in eine Excel-Datei über C++" %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
- + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) um Gleichungsformen in das ausgewählte Arbeitsblatt einzufügen
+ + Benutzen Sie die[Methode hinzufügen](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) um Gleichungsformen in das ausgewählte Arbeitsblatt einzufügen
 + Arbeitsmappe im Format XLSX speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Der folgende Beispielcode zeigt, wie eine „Gedankenblase: Wolke“ eingefügt 
 
 {{% blocks/products/pf/agp/code-block title="Callouts einfügen – C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -73,7 +74,7 @@ Der folgende Beispielcode zeigt, wie eine „Gedankenblase: Wolke“ eingefügt 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Übersicht über Callout-Typen
+ Übersicht über Callout-Typen
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/speech_bubble_rectangle.png" align="left" width="28" height="28">
@@ -182,7 +183,7 @@ Der folgende Beispielcode zeigt, wie eine „Gedankenblase: Wolke“ eingefügt 
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

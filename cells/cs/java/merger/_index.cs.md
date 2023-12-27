@@ -5,7 +5,7 @@ description: Sloučit soubory aplikace Excel pomocí Java do více listů nebo j
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Sloučení souborů aplikace Excel via Java" h2="Zkombinujte dva nebo více souborů aplikace Excel do jedné tabulky pomocí kódu Java" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Knihovna Excel](/cells/cs/java/) poskytuje několik způsobů, jak kombinovat sešity s různými typy obsahu, jako jsou vzorce, obrázky, data, grafy atd., do jednoho tabulkového dokumentu. Mezi podporované formáty souborů patří XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV a další, CSV, 0781.
+[Java Knihovna Excel](/cells/cs/java/)poskytuje několik způsobů, jak kombinovat sešity s různými typy obsahu, jako jsou vzorce, obrázky, data, grafy atd., do jednoho tabulkového dokumentu. Mezi podporované formáty souborů patří XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV a další, CSV, 0781.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinujte soubory aplikace Excel s obrázky a grafy" %}}
@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučit více souborů aplikace Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro sloučení několika souborů aplikace Excel" %}}
 
 ```cs
@@ -44,7 +44,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučení souborů aplikace Excel zkopírováním pracovních listů" %}}
-[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) lze použít ke kopírování dat a formátování ze zdrojového listu do jiného listu v rámci nebo mezi sešity. Metoda přebírá objekt zdrojového listu jako parametr.
+[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)lze použít ke kopírování dat a formátování ze zdrojového listu do jiného listu v rámci nebo mezi sešity. Metoda přebírá objekt zdrojového listu jako parametr.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro kopírování sešitů mezi sešity" %}}
 
 ```cs

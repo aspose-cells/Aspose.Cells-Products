@@ -1,7 +1,8 @@
 ---
 title:  .NET Excel API | Prozesstabellenformate via .NET Kern
 weight: 2030
-description: C# ASP.NET VB.NET Bibliothek zum Arbeiten mit Microsoft Excel-Dokumenten. Tabellendateien erstellen, lesen, schreiben, speichern und drucken. Konvertieren Sie in PDF oder mehr Formate
+description: C# ASP.NET VB.NET Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Konvertieren Sie Excel in PDF, JSON, XML, TSV, HTML und so weiter.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Bearbeiten Sie Excel-Dateien via .NET APIs" h2="Lesen und Schreiben von Tabellenkalkulationsdateien auf den Core- und Xamarin-Plattformen .NET, .NET. Exportieren Sie Tabellenkalkulationen in andere Formate ohne Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
@@ -250,7 +251,7 @@ Aspose.Cells for .NET ist eine Excel-Tabellenkalkulationsprogrammierung API zur 
      <b>
       Numbers:
      </b>
- App-Dokumente der iWork-Office-Suite Numbers von Apple
+ Apples iWork Office Suite Numbers App-Dokumente
     </li>
    </ul>
   </div>

@@ -2,6 +2,7 @@
 title:  Bearbeiten oder Anzeigen von XLSB-Dateimetadaten via Java
 weight: 7290
 description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLSB-Format in der Java-Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+keywords: [Java Aspose.Cells., Java view xlsb metadata., Java add xlsb metadata., Java insert xlsb metadata., Java edit xlsb metadata., Java remove xlsb metadata., Java extract xlsb metadata., Java modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie XLSB-Metadaten via Java" h2="Erstellen Sie Ihre eigenen Java-Apps, um mithilfe serverseitiger APIs Metadaten aus XLSB-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLS
 
  Um XLSB-Dateimetadaten zu erhalten, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
+ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 

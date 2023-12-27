@@ -1,6 +1,7 @@
 ---
 title:  Bearbeiten Sie die Dateien CSV via .NET
 description: C# Quellcode zum Bearbeiten von CSV Dokumenten auf .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen.
+keywords: [C# Aspose.Cells., c# edit csv document., c# load csv file., c# modify csv file., c# save file to csv format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Bearbeiten Sie die Formate CSV in C#" h2="Native und leistungsstarke CSV Dokumentbearbeitung mit serverseitigen Aspose.Cells for .NET APIs, ohne den Einsatz von Software wie Microsoft oder Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,15 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Eine grundlegende Dokumentbearbeitung mit
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs können mit nur wenigen Codezeilen erstellt werden.
+ Eine grundlegende Dokumentbearbeitung mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Fügen Sie den Namespace in Ihre Klassendatei ein
+1.  Laden Sie Ihre Beispieldatei.
+1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
+1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
+1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als CSV-Datei zu speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +59,9 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="CSV-Dateien bearbeiten – C#" offSpacer="" %}}
 
-```cs
-code here
 
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-csv.cs" >}}
+
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +74,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
+Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 
 

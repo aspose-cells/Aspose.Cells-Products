@@ -1,7 +1,7 @@
 ---
-title: Java MHTML na PRN – Online převodník MHTML na PRN
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převeďte MHTML do formátu uložení PRN. Java MHTML do formátu PRN. Uložte si MHTML na PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to PRN saveformat., Free Online MHTML to PRN Java., Java Convert MHTML to PRN]
+title: Java MHTML na PRN - MHTML na PRN převodník
+description: Aspose Excel. Převeďte MHTML na PRN rychle a snadno pomocí Aspose.Cells. Java MHTML na PRN. Java Uložte MHTML do PRN. Uložte MHTML jako PRN pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to PRN in Java., Save MHTML to PRN using Java., Java MHTML to PRN saveformat., MHTML to PRN Converter., Java Save MHTML as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte MHTML na PRN v Java" h2="Vysokorychlostní knihovna Java pro převod MHTML na PRN. Jedná se o profesionální softwarové řešení pro import a export MHTML, PRN a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte MHTML na PRN pomocí Java" %}}
 
- Jak převedu MHTML na PRN? S knihovnou Aspose.Cells for Java můžete snadno převést MHTML na PRN programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak převedu MHTML na PRN? S knihovnou Aspose.Cells for Java můžete snadno převést MHTML na PRN programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete MHTML na PRN v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložte MHTML na PRN v Java" %}}
 
 Následující příklad ukazuje, jak převést MHTML na PRN v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod MHTML na PRN. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod MHTML na PRN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod MHTML na PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést MHTML na PRN via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést MHTML soubory na PRN programově? Vývojáři Java mohou 
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor MHTML s instancí třídy Workbook.
+1. Načtěte soubor MHTML s instancí třídy Workbook.
 1.  Převeďte MHTML na PRN voláním metody Workbook.save.
 1.  Získejte výsledek převodu MHTML na PRN.
 

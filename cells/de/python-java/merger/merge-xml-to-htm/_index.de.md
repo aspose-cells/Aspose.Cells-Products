@@ -1,8 +1,8 @@
 ---
 title: XML mit HTM zusammenführen – XML mit HTM in Python kombinieren
 url: /de/python-java/merger/merge-xml-to-htm/ 
-description: Aspose Excel. Python Aspose.Cells. Kostenloses Online-Merge-XML-zu-HTM-Speicherformat. Python Kombinieren Sie XML mit dem HTM-Format. XML zu HTM in Python zusammenführen. XML-Zusammenführung.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to HTM in Python., Free Online Python Merge XML to htm., Python Combine XML to HTM Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. XML mit HTM-Speicherformat zusammenführen. Python Kombinieren Sie XML mit dem HTM-Format. XML zu HTM in Python zusammenführen. XML-Zusammenführung.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to HTM in Python., Python Merge XML to htm., Python Combine XML to HTM., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML über Python mit HTM zusammenführen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von XML mit HTM. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to HTM in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XML mit Python in HTM zusammen" %}}
 
- Wie füge ich XML mit HTM zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie XML problemlos programmgesteuert und mit wenigen Codezeilen in HTM zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+ Wie füge ich XML mit HTM zusammen? Mit der Bibliothek Aspose.Cells for Python via Java können Sie XML problemlos programmgesteuert und mit wenigen Codezeilen in HTM zusammenführen.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können Aspose.Cells for Python via Java von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Führen Sie XML mit HTM in Python kostenlos online zusammen" %}}
+{{% blocks/products/pf/agp/content h2="XML mit HTM in Python zusammenführen" %}}
 
 Das folgende Beispiel zeigt, wie XML in Aspose.Cells for Python via Java mit HTM zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Befolgen Sie die einfachen Schritte, um XML mit HTM zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlos online zum Zusammenführen von XML zu HTM unter Python" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Beispielcode zum Zusammenführen von XML zu HTM in Python" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XML über Python mit HTM zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Müssen Sie XML programmgesteuert mit HTM zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie XML programmgesteuert mit HTM zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 -  Installieren Sie Java 1.8 oder höher und fügen Sie es der Umgebungsvariablen PATH hinzu, zum Beispiel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installieren[Python](https://www.python.org/downloads/) 3,5 oder höher.
-- Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
+-  Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

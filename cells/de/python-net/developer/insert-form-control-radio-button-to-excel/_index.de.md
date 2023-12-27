@@ -2,6 +2,7 @@
 title:  Fügen Sie RadioButton (Formularsteuerelement) mit Python via .Net in Excel ein
 weight: 60
 description: Python via .Net-Quellcode zum Einfügen von RadioButton (Formularsteuerelement) in Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add RadioButton into Excel., Python via .Net insert RadioButton into Excel., Python via .Net create RadioButton in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fügen Sie RadioButton (Formularsteuerelement) mit Python via .Net in Excel ein" h2="Fügen Sie Objekte über serverseitige APIs ohne Software wie Microsoft oder Open Office, Adobe PDF usw. ein." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net-Quellcode zum Einfügen von RadioButton (Formularst
 
  Um RadioButton (Formularsteuerelement) in eine Excel-Datei einzufügen, verwenden wir
  [Aspose.Cells for Python über .Net](https://pypi.org/project/aspose-cells-python/) 
-API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
+ API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung über .Net. API ermöglicht die Erstellung, Bearbeitung, Konvertierung und Wiedergabe von Excel-Dateien. Alles ohne auf Office- oder Excel-Anwendungen angewiesen zu sein. Sie können die Installation über die Konsole mit dem folgenden Befehl durchführen.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Sie benötigen die Aspose.Cells, um den folgenden Workflow in Ihrer eigenen Umge
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
++ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vollständigem Pfad.)
 + Wählen Sie Arbeitsblatt über seinen Index aus.
  + Verwenden Sie das Add der Shapecollection[Methode](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_radio_button/#int-int-int-int-int-int) um einen RadioButton (Formularsteuerelement) in das ausgewählte Arbeitsblatt einzufügen.
 + Arbeitsmappe im Format XLSX speichern.
@@ -57,7 +58,7 @@ Instanziieren eines Arbeitsmappenobjekts. (Oder->Laden Sie die Datei XLSX mit vo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="RadioButton einfügen (Formularsteuerelement) – Python via .Net" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="RadioButton einfügen (Formularsteuerung) – Python via .Net" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "InsertRadioButtonIntoWorksheet.py" >}}
 

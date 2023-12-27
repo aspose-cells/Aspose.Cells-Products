@@ -1,7 +1,7 @@
 ---
-title: Java XLSM až TIFF - Online konvertor XLSM až TIFF
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Online zdarma Java Převést XLSM na TIFF uložit formát. Java XLSM až TIFF formát. Uložte si XLSM až TIFF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to TIFF saveformat., Free Online XLSM to TIFF Java., Java Convert XLSM to TIFF]
+title: Java XLSM až TIFF - XLSM až TIFF Převodník
+description: Aspose Excel. Převeďte XLSM na TIFF rychle a snadno pomocí Aspose.Cells. Java XLSM na TIFF. Java Ušetřete XLSM na 197 3481761 jako 197 348161 Java 481 pomocí Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to TIFF in Java., Save XLSM to TIFF using Java., Java XLSM to TIFF saveformat., XLSM to TIFF Converter., Java Save XLSM as TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLSM na TIFF na Java" h2="Vysokorychlostní knihovna Java pro převod XLSM na TIFF. Jedná se o profesionální softwarové řešení pro import a export XLSM, TIFF a mnoha dalších formátů pomocí Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to T
 
 {{% blocks/products/pf/agp/content h2="Převeďte XLSM na TIFF pomocí Java" %}}
 
-Jak převedu XLSM na TIFF? S knihovnou Aspose.Cells for Java můžete snadno převést XLSM na TIFF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+Jak převedu XLSM na TIFF? S knihovnou Aspose.Cells for Java můžete snadno převést XLSM na TIFF programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Jak převedu XLSM na TIFF? S knihovnou Aspose.Cells for Java můžete snadno př
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ušetřete XLSM až TIFF v Java online zdarma" %}}
+{{% blocks/products/pf/agp/content h2="Uložit XLSM až TIFF v Java" %}}
 
 Následující příklad ukazuje, jak převést XLSM na TIFF v Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Postupujte podle jednoduchých kroků pro převod XLSM na TIFF. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLSM na TIFF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLSM na TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSM na TIFF via Java" %}}
 
@@ -68,7 +68,7 @@ Potřebujete převést soubory XLSM na TIFF programově? Vývojáři Java mohou 
 
 1.  Nainstalujte 'Aspose.Cells for Java'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
-1.  Načtěte soubor XLSM s instancí třídy Workbook.
+1. Načtěte soubor XLSM s instancí třídy Workbook.
 1.  Převeďte XLSM na TIFF voláním metody Workbook.save.
 1.  Získejte výsledek převodu XLSM na TIFF.
 

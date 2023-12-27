@@ -2,6 +2,7 @@
 title:  Vyhledejte a nahraďte text v dokumentu XLS via Java
 weight: 7900
 description: Java ukázkový kód pro redigování citlivých informací v souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java redact XLS file., Java edit XLS file., Java XLS file redaction., Java Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigovat XLS Formáty v Java" h2="Nativní a vysoce výkonné XLS informace o redigování citlivých na dokumenty pomocí serverových Aspose.Cells for Java API, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: Java ukázkový kód pro redigování citlivých informací v soubo
 
  Abychom redigovali soubor XLS, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakce API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakce API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
@@ -65,7 +66,7 @@ description: Java ukázkový kód pro redigování citlivých informací v soubo
 + Určete rozsah, ve kterém chcete hledat
 + Projděte každou buňku a použijte getCells().find(...).
 + Nahraďte hodnotu.
-Uložte sešit.
++ Uložte sešit.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}

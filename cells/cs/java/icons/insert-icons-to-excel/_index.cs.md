@@ -2,6 +2,7 @@
 title: Vložte SVG obrázky/ikony do Excelu via Java
 weight: 10
 description: Vkládejte objekty pomocí Aspose.Cells' Java API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd.
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vložte SVG obrázky/ikony do Excelu via Java" h2="Vložte SVG obrázky/ikony pomocí Aspose.Cells\' API bez jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF atd." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -25,7 +26,7 @@ Při používání Excelu se můžete setkat s následujícími problémy:
 + Vložte velké množství obrázků svg do stejného souboru aplikace Excel.
 + Vložte obrázky svg do velkého počtu různých souborů aplikace Excel.
 
- K vyřešení těchto problémů vám doporučujeme použít[Aspose.Cells](https://products.aspose.com/cells/) knihovna.Obsahuje mnoho běžných rozhraní pro zpracování souborů aplikace Excel a je velmi užitečným nástrojem.
+ K vyřešení těchto problémů vám doporučujeme použít[Aspose.Cells](https://products.aspose.com/cells/)knihovna.Obsahuje mnoho běžných rozhraní pro zpracování souborů aplikace Excel a je velmi užitečným nástrojem.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,9 +97,9 @@ Pokud žádná z výše uvedených metod nevyhovuje vašim potřebám, můžete 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
++ Vytvoření instance objektu Workbook. (nebo->Načtěte soubor XLSX s úplnou cestou.)
 + Vyberte List přes jeho index.
- + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---)pro vložení popisků do vybraného listu
+ + Použijte[přidat metodu](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) pro vložení popisků do vybraného listu
 + Uložit sešit ve formátu XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

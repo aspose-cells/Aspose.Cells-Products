@@ -1,17 +1,18 @@
 ---
-title:  Microsoft Excel Dosya Dönüştürme via Java
-description: Yalnızca birkaç satırlık Java koduyla Excel XLS, XLSX, ODS, CSV'i PDF, XPS, HTML, JPEG, HTML ve diğer birçok popüler biçime dönüştürün .
+title:  Microsoft Excel Dosyası Dönüştürme via Java
+description: Aspose.Cells for Java kütüphane. EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG ve daha fazla formatı yalnızca birkaç satır Java koduyla dönüştürün.
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosyaları Dönüştürme via Java" h2="Microsoft Excel belgelerini elektronik tablo, web, resim ve sabit mizanpaj biçimleri olarak kaydedin" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosyalarını Dönüştürme via Java" h2="Microsoft Excel belgesini elektronik tablo, web, resim ve sabit düzen formatlarında kaydedin" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Herhangi**Excel dönüştürücü**uygulama veya çözüm, Java Excel Kitaplığı, XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 dahil olmak üzere birden çok biçimi işlerken elektronik tablo programlama ve dönüştürme işlemlerini hızlandırır 193481. Ayrıca *Excel dosyalarını PDF'e dönüştürmeye** olanak tanır, XPS, HTML, MHTML, Düz Metin ve TIFF, JPG, PNG, BMP ve SVG gibi popüler resim biçimleri.
+ Herhangi**Excel dönüştürücü** uygulama veya çözüm, Java Excel Kitaplığı, XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619 dahil olmak üzere birden fazla formatı işlerken elektronik tablo programlama ve dönüştürme süreçlerini hızlandırır 3481. Ayrıca *Excel dosyalarını PDF**'e dönüştürmenize de olanak tanır, XPS, HTML, MHTML, Düz Metin ve TIFF, JPG, PNG, BMP ve SVG gibi popüler resim formatları.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının Ara Dönüşümü" %}}
- Elektronik tablo biçiminin karşılıklı dönüştürülmesi, yalnızca bir elektronik tablonun örneğinin yüklenmesini gerektirir.[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) ve uygun değeri seçerek istenen formatta geri kaydetme[Biçimi Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) numaralandırma.
-{{% blocks/products/pf/feature-page-code h3="Java Excel Dosya Biçimi Dönüştürme için Örnek Kod" %}}
+{{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının ara dönüşümü" %}}
+ Elektronik tablo formatının karşılıklı dönüştürülmesi yalnızca aşağıdaki örneğin bulunduğu bir elektronik tablonun yüklenmesini gerektirir:[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) ve uygun değeri seçerken istenilen formatta tekrar kaydetme[Formatı Kaydet](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) numaralandırma.
+{{% blocks/products/pf/feature-page-code h3="Java Excel Dosya Formatı Dönüştürme için Örnek Kod" %}}
 
 ```cs
 // load the source file
@@ -28,7 +29,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i PDF, XPS, HTML ve MD\'ye dönüştürün" %}}
- Aşağıdakiler gibi belirli çıktı biçimleri için dönüştürme sürecini kontrol etmek için özel sınıflar mevcuttur:[PdfKaydetmeSeçenekleri](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) Excel dosyalarını PDF olarak dönüştürmek için,[XpsSaveSeçenekleri](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) Excel'i XPS olarak dışa aktarmak için,[HtmlKaydetme Seçenekleri](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) Excel'i HTML olarak işlemek ve[MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) Excel'den Markdown'a dönüştürme için.
+ Belirli çıktı formatları için dönüştürme sürecini kontrol etmek amacıyla özel sınıflar mevcuttur:[PdfKaydetmeSeçenekleri](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) Excel dosyalarını PDF olarak dönüştürmek için,[XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) Excel'i XPS olarak dışa aktarmak için,[HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) Excel'i HTML olarak işlemek ve[İşaretlemeKaydetSeçenekleri](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) Excel'den Markdown'a dönüşüm için.
 {{% blocks/products/pf/feature-page-code h3="Java Excel\'den PDF\'e ve Web Formatlarına Örnek Kod" %}}
 
 ```cs
@@ -56,8 +57,8 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="JSON\'i Excel\'e ve Excel\'i JSON\'e dönüştürün" %}}
- JSON verileri, Workbook sınıfının bir örneğine şu yardımla alınabilir:[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) daha fazla işleme veya desteklenen biçimlerden herhangi birine basit dönüştürme için. Benzer şekilde, Çalışma Sayfası verileri, bir dosya oluşturularak JSON olarak dışa aktarılabilir.[Menzil](https://reference.aspose.com/cells/java/com.aspose.cells/range) veya hücreler ve arama[exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) yöntem.
-{{% blocks/products/pf/feature-page-code h3="Java JSON\'den Excel\'e Dönüştürme Kodu" %}}
+ JSON verileri Workbook sınıfının bir örneğine aşağıdakilerin yardımıyla aktarılabilir:[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) daha fazla işlem yapmak veya desteklenen formatlardan herhangi birine basit bir şekilde dönüştürmek için. Benzer şekilde, Çalışma Sayfası verileri bir oluşturularak JSON olarak dışa aktarılabilir.[Menzil](https://reference.aspose.com/cells/java/com.aspose.cells/range) veya hücreleri çağırıp[ihracatRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) yöntem.
+{{% blocks/products/pf/feature-page-code h3="Java JSON\'i Excel\'e Dönüştürme Kodu" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
 Worksheet wks = workbook.getWorksheets().get(0);
@@ -85,7 +86,7 @@ workbook.save(path + "excel-to-json.out.xlsx");
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Java Excel için Kaynak Kodu JSON\'e Dönüştürme" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Excel Kaynak Kodundan JSON\'e Dönüşüm" %}}
 ```cs
 // load XLSX file with an instance of Workbook
 Workbook workbook = new Workbook("sourceFile.xlsx");
@@ -107,8 +108,8 @@ writer.close();
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfalarını Görüntülere Kaydet" %}}
- Her çalışma sayfası, ImageType özelliği tarafından ayarlanan JPG, BMP, PNG ve GIF dahil olmak üzere farklı resim biçimlerine dönüştürülebilir. Herhangi**Excel'i Görüntülere Dönüştür** durumda, bağlantılardan ilgili vakayı seçin.
+{{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfalarını Görsellere Kaydetme" %}}
+ Her çalışma sayfası, ImageType özelliği tarafından ayarlanan JPG, BMP, PNG ve GIF dahil olmak üzere farklı görüntü formatlarına dönüştürülebilir. Herhangi**Excel'i Görsellere Dönüştür** durumda, bağlantılardan ilgili durumu seçin.
 {{% blocks/products/pf/feature-page-code h3="Java Excel\'den Görüntüye Dönüştürme Kodu" %}}
 ```cs
 // load template spreadsheet
@@ -135,9 +136,9 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Microsoft Excel\'i Word\'e ve PowerPoint\'e dönüştürün" %}}
- Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)aşağıda gösterildiği gibi sınıflar.
-{{% blocks/products/pf/feature-page-code h3="Java Excel\'den Word\'e Dönüştürme Kodu ve PowerPoint" %}}
+{{% blocks/products/pf/feature-page-section h2="Microsoft Excel\'i Word\'e ve PowerPoint\'i dönüştürün" %}}
+Kullanırken herhangi bir elektronik tabloyu yükleyip Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) Aşağıda gösterildiği gibi sınıflar.
+{{% blocks/products/pf/feature-page-code h3="Java Excel\'den Word\'e Kod ve PowerPoint Dönüştürme" %}}
 ```cs
 // load the template file
 var wkb = new Workbook("template.xlsx");

@@ -1,7 +1,7 @@
 ---
-title: C++ JSON เป็น MD - ตัวแปลงออนไลน์ JSON เป็น MD
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลง JSON เป็น MD บันทึกรูปแบบ C++ JSON เป็นรูปแบบ MD บันทึก JSON ถึง MD C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to MD saveformat., Free Online JSON to MD C++., C++ Convert JSON to MD]
+title: C++ JSON เป็น MD - JSON เป็น MD Converter
+description: Aspose เอ็กเซล. แปลง JSON เป็น MD อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ JSON เป็น MD C++ บันทึก JSON ถึง นพ. บันทึก JSON เป็น MD โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to MD in C++., Save JSON to MD using C++., C++ JSON to MD saveformat., JSON to MD Converter., C++ Save JSON as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง JSON เป็น MD ใน C++" h2="การแปลง JSON เป็น MD ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Microsoft Excel, OpenOffice หรือ Adobe Acrobat" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to MD s
 
 {{% blocks/products/pf/agp/content h2="แปลง JSON เป็น MD โดยใช้ C++" %}}
 
- ฉันจะแปลง JSON เป็น MD ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง JSON เป็น MD ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง JSON เป็น MD ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง JSON เป็น MD โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก JSON เป็น MD ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก JSON ไปที่ MD ใน C++" %}}
 
 ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง JSON เป็น MD ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง JSON เป็น MD อัปโหลดไฟล์ JSON ของคุณ จากนั้นบันทึกเป็นไฟล์ MD สำหรับทั้งการอ่าน JSON และการเขียน MD คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหา MD เอาต์พุตและการจัดรูปแบบจะเหมือนกับเอกสาร JSON ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง JSON เป็น MD อัปโหลดไฟล์ JSON ของคุณ จากนั้นบันทึกเป็นไฟล์ MD สำหรับทั้ง JSON การอ่านและการเขียน MD คุณสามารถใช้ชื่อไฟล์ที่มีคุณสมบัติครบถ้วนได้ เนื้อหาและการจัดรูปแบบ MD เอาต์พุตจะเหมือนกับเอกสาร JSON ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง JSON เป็น MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง JSON เป็น MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง JSON เป็น MD ผ่าน C++" %}}
 
@@ -47,11 +47,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ JSON โดยใช้ Factory::CreateIWorkbook
-1.  แปลง JSON เป็น MD โดยเรียกเมธอด Save()
-1.  รับผลลัพธ์การแปลง JSON เป็น MD
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1.  โหลดไฟล์ JSON โดยใช้สมุดงาน
+1.  แปลง JSON เป็น MD โดยการเรียกเมธอด Save()
+1.  รับผลลัพธ์การแปลงจาก JSON เป็น MD
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,35 +84,34 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) เป็นรูปแบบไฟล์มาตรฐานแบบเปิดสำหรับการแชร์ข้อมูลที่ใช้ข้อความที่มนุษย์อ่านได้เพื่อจัดเก็บและส่งข้อมูล ไฟล์ JSON ถูกจัดเก็บด้วยนามสกุล .json JSON ต้องการการจัดรูปแบบน้อยกว่าและเป็นทางเลือกที่ดีสำหรับ XML JSON มาจาก JavaScript แต่เป็นรูปแบบข้อมูลที่ไม่ขึ้นกับภาษา การสร้างและการแยกวิเคราะห์ JSON ได้รับการสนับสนุนโดยภาษาโปรแกรมสมัยใหม่หลายภาษา application/json เป็นประเภทสื่อที่ใช้สำหรับ JSON{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}ไฟล์ข้อความที่สร้างด้วยภาษาถิ่นของ Markdown จะถูกบันทึกด้วยนามสกุลไฟล์ .md หรือ .MARKDOWN ไฟล์ MD ถูกบันทึกในรูปแบบข้อความธรรมดาที่ใช้ภาษา Markdown ซึ่งรวมถึงสัญลักษณ์ข้อความแบบอินไลน์ด้วย กำหนดวิธีจัดรูปแบบข้อความ เช่น การเยื้อง การจัดรูปแบบตาราง แบบอักษร และส่วนหัว ไฟล์ MD สามารถแปลงเป็น HTML ด้วยโปรแกรมที่ชื่อว่า Markdown ภาษา Markdown เผยแพร่โดย John Gruber{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) เป็นรูปแบบไฟล์มาตรฐานแบบเปิดสำหรับการแชร์ข้อมูลที่ใช้ข้อความที่มนุษย์อ่านได้เพื่อจัดเก็บและส่งข้อมูล ไฟล์ JSON จะถูกจัดเก็บด้วยนามสกุล .json JSON ต้องการการจัดรูปแบบน้อยกว่าและเป็นทางเลือกที่ดีสำหรับ XML JSON มาจาก JavaScript แต่เป็นรูปแบบข้อมูลที่ไม่ขึ้นกับภาษา การสร้างและแยกวิเคราะห์ JSON ได้รับการสนับสนุนโดยภาษาโปรแกรมสมัยใหม่มากมาย application/json เป็นประเภทสื่อที่ใช้สำหรับ JSON{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}ไฟล์ข้อความที่สร้างด้วยภาษา Markdown จะถูกบันทึกด้วยนามสกุลไฟล์ .md หรือ .MARKDOWN ไฟล์ MD จะถูกบันทึกในรูปแบบข้อความธรรมดาที่ใช้ภาษา Markdown ซึ่งรวมถึงสัญลักษณ์ข้อความแบบอินไลน์ด้วย ซึ่งกำหนดวิธีการจัดรูปแบบข้อความ เช่น การเยื้อง การจัดรูปแบบตาราง แบบอักษร และส่วนหัว ไฟล์ MD สามารถแปลงเป็น HTML ด้วยโปรแกรมชื่อ Markdown ภาษา Markdown ได้รับการเผยแพร่โดย John Gruber{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง JSON เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง JSON เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-bmp/" name="JSON ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-bmp/" name="JSON ถึง BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-emf/" name="JSON ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-gif/" name="JSON ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-html/" name="JSON ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-md/" name="JSON ถึง นพ" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-mhtml/" name="JSON ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-mhtml/" name="JSON ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-ods/" name="JSON ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-pdf/" name="JSON ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-pdf/" name="JSON ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-png/" name="JSON ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-svg/" name="JSON ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tiff/" name="JSON ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tsv/" name="JSON ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-txt/" name="JSON ถึง TXT" description="เอกสารข้อความ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xls/" name="JSON ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xlsb/" name="JSON ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xlsb/" name="JSON ถึง XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xlsm/" name="JSON ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xlsx/" name="JSON ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xlt/" name="JSON ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xltm/" name="JSON ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xltm/" name="JSON ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xltx/" name="JSON ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xml/" name="JSON ถึง XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xps/" name="JSON ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xps/" name="JSON ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-jpeg/" name="JSON ถึง JPEG" description="JPEG อิมเมจ" >}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB เป็น OTS - ออนไลน์ XLSB เป็น OTS Converter
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลง XLSB เป็นรูปแบบบันทึก OTS C++ XLSB เป็นรูปแบบ OTS บันทึก XLSB เป็น OTS C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to OTS saveformat., Free Online XLSB to OTS C++., C++ Convert XLSB to OTS]
+title: C++ XLSB เป็น OTS - XLSB เป็น OTS แปลง
+description: Aspose เอ็กเซล. แปลง XLSB เป็น OTS อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ XLSB เป็น OTS C++ บันทึก XLSB ไปที่ โอทีเอส. บันทึก XLSB เป็น OTS โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to OTS in C++., Save XLSB to OTS using C++., C++ XLSB to OTS saveformat., XLSB to OTS Converter., C++ Save XLSB as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLSB เป็น OTS ใน C++" h2="การแปลง XLSB เป็น OTS ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Microsoft Excel, OpenOffice หรือ Adobe Acrobat" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to OTS 
 
 {{% blocks/products/pf/agp/content h2="แปลง XLSB เป็น OTS โดยใช้ C++" %}}
 
- ฉันจะแปลง XLSB เป็น OTS ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XLSB เป็น OTS ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง XLSB เป็น OTS ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XLSB เป็น OTS โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก XLSB เป็น OTS ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก XLSB ไปที่ OTS ใน C++" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีแปลง XLSB เป็น OTS ใน C++
+ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง XLSB เป็น OTS ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XLSB เป็น OTS อัปโหลดไฟล์ XLSB ของคุณ จากนั้นบันทึกเป็นไฟล์ OTS สำหรับทั้งการอ่าน XLSB และการเขียน OTS คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ OTS เอาต์พุตจะเหมือนกับเอกสาร XLSB ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XLSB เป็น OTS อัปโหลดไฟล์ XLSB ของคุณ จากนั้นบันทึกเป็นไฟล์ OTS สำหรับทั้งการอ่าน XLSB และการเขียน OTS คุณสามารถใช้ชื่อไฟล์ที่มีคุณสมบัติครบถ้วนได้ เนื้อหาและการจัดรูปแบบ OTS เอาต์พุตจะเหมือนกับเอกสาร XLSB ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง XLSB เป็น OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ots" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSB เป็น OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ots" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLSB เป็น OTS ผ่าน C++" %}}
 
@@ -47,11 +47,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ XLSB โดยใช้ Factory::CreateIWorkbook
-1.  แปลง XLSB เป็น OTS โดยเรียกเมธอด Save()
-1.  รับผลการแปลง XLSB เป็น OTS
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1.  โหลดไฟล์ XLSB โดยใช้สมุดงาน
+1. แปลง XLSB เป็น OTS โดยการเรียกเมธอด Save()
+1.  รับผลลัพธ์การแปลง XLSB เป็น OTS
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,24 +84,23 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นชุดของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความแบบไม่มีโครงสร้างหรือกึ่งโครงสร้าง สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพ ไม่เหมือนกับ XLSX (ซึ่งใช้รูปแบบไฟล์ Open XML) XLSB แทนไฟล์สมุดงาน Excel แบบไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้เร็วกว่าซึ่งทำให้มีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้คือ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้ทั่วไปเลือกสำหรับการบันทึกสมุดงาน สามารถเปิดได้โดย Microsoft Office 2007 ขึ้นไป{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}ไฟล์ที่มีนามสกุล .ots คือไฟล์เทมเพลตสเปรดชีต OpenDocument ที่สร้างขึ้นด้วยซอฟต์แวร์แอปพลิเคชัน Calc ที่รวมอยู่ใน Apache OpenOffice ซอฟต์แวร์แอปพลิเคชัน Calc คล้ายกับ Excel ที่มีใน Microsoft Office รูปแบบไฟล์ OTS ใช้เพื่อสร้างเทมเพลตที่มีการตั้งค่าที่กำหนดไว้ล่วงหน้าเกี่ยวกับสไตล์ แบบอักษร ข้อมูล เค้าโครงสเปรดชีต และการจัดรูปแบบ ไฟล์ OTF มีแอปพลิเคชันประเภท mime/vnd.oasis.opendocument.spreadsheet- template ไฟล์เทมเพลตเหล่านี้สามารถใช้เป็นจุดเริ่มต้นในการสร้างและบันทึกไฟล์ข้อมูลจริงที่บันทึกในรูปแบบไฟล์ ODS ไฟล์ OTS สามารถใช้กับแอปพลิเคชันเช่น OpenOffice และ LibreOffice{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นคอลเลกชันของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพที่ไม่มีโครงสร้างหรือกึ่งโครงสร้าง ต่างจาก XLSX (ซึ่งยึดตามรูปแบบไฟล์ Open XML) XLSB แสดงถึงไฟล์เวิร์กบุ๊ก Excel ไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้รวดเร็วยิ่งขึ้น ซึ่งมีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้เลือกบ่อยที่สุดสำหรับการบันทึกสมุดงาน สามารถเปิดได้ภายใน Microsoft Office 2007 ขึ้นไป{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}ไฟล์ที่มีนามสกุล .ots คือไฟล์เทมเพลต OpenDocument Spreadsheet ที่สร้างขึ้นด้วยแอปพลิเคชันซอฟต์แวร์ Calc ที่รวมอยู่ใน Apache OpenOffice ซอฟต์แวร์แอปพลิเคชัน Calc คล้ายกับ Excel ที่มีอยู่ใน Microsoft Office รูปแบบไฟล์ OTS ใช้เพื่อสร้างเทมเพลตที่มีการตั้งค่าที่กำหนดไว้ล่วงหน้าที่เกี่ยวข้องกับสไตล์ แบบอักษร ข้อมูล เค้าโครงสเปรดชีต และการจัดรูปแบบ ไฟล์ OTF มีแอปพลิเคชันประเภท mime/vnd.oasis.opendocument.spreadsheet-template ไฟล์เทมเพลตเหล่านี้สามารถใช้เป็นจุดเริ่มต้นในการสร้างและบันทึกไฟล์ข้อมูลจริงที่บันทึกในรูปแบบไฟล์ ODS ไฟล์ OTS สามารถใช้กับแอปพลิเคชันเช่น OpenOffice และ LibreOffice{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XLSB เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XLSB เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-bmp/" name="XLSB ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-bmp/" name="XLSB ถึง BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-emf/" name="XLSB ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-gif/" name="XLSB ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-html/" name="XLSB ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-md/" name="XLSB ถึง นพ" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-mhtml/" name="XLSB ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-mhtml/" name="XLSB ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-ods/" name="XLSB ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB ถึง TXT" description="เอกสารข้อความ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
@@ -109,10 +108,10 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlsm/" name="XLSB ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlsx/" name="XLSB ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xlt/" name="XLSB ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltm/" name="XLSB ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltm/" name="XLSB ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltx/" name="XLSB ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xml/" name="XLSB ถึง XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-json/" name="XLSB ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-jpeg/" name="XLSB ถึง JPEG" description="JPEG อิมเมจ" >}}
 

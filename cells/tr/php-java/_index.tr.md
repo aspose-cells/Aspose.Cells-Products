@@ -1,10 +1,10 @@
 ---
 title:  Excel Elektronik Tablosu PHP API - Aspose
 weight: 3660
-description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve tüm Excel 97-2016 biçimlerini okumak ve dönüştürmek için. Elektronik Tabloları birden çok biçime dışa aktarın
+description: PHP Excel elektronik tablosu API okumak, yazmak ve dönüştürmek için XLS XLSX CSV TSV HTML ODS SpreadsheetML ve tüm Excel 97-2016 formatları. E-Tabloları birden çok formatta dışa aktarın
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel Elektronik Tablosu API" h2="Herhangi bir Microsoft Excel bağımlılığı olmadan elektronik tablo düzenleme görevlerini gerçekleştirin ve Excel dosyalarını birden çok biçime dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel Elektronik Tablosu API" h2="Elektronik tablo düzenleme görevlerini gerçekleştirin ve Excel dosyalarını herhangi bir Microsoft Excel bağımlılığı olmadan birden çok formatta dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -12,7 +12,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java, ölçeklenebilir ve zengin özelliklere sahip bir Excel elektronik tablo yönetimi ve işleme API'dir. Uygulamalar, elektronik tablo biçimi dönüştürme, grafik yönetimi ve oluşturma, formül uygulama, çalışma sayfalarının en ayrıntılı düzeyde biçimlendirilmesi ve çok daha fazlasını gerçekleştirebilir. API Destekler XLS, XLSX, ODS, SpreadsheetML, CSV, sekme sınırlı, HTML/MHTML, PDF, for PHP ve diğer formatlar. Geliştiriciler, JavaBridge'i kullanırken PHP uygulamalarına kolayca Excel dosyaları oluşturma, düzenleme, dönüştürme ve işleme yeteneği ekleyebilirler.
+ Aspose.Cells for PHP via Java, ölçeklenebilir ve zengin özelliklere sahip bir Excel elektronik tablo yönetimi ve işlemesidir API. Uygulamalar, elektronik tablo formatını dönüştürme, grafik yönetimi ve oluşturma, formülleri uygulama, çalışma sayfalarını en ayrıntılı düzeyde şekillendirme ve çok daha fazlasını gerçekleştirebilir. API, XLS, XLSX, ODS, SpreadsheetML, CSV, Sekmeyle Ayrılmış, HTML/MHTML, PDF, XPS ve diğer formatları destekler. Geliştiriciler, JavaBridge'i kullanırken PHP uygulamalarına Excel dosyaları oluşturma, düzenleme, dönüştürme ve işleme yeteneğini kolayca ekleyebilirler.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +20,14 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for PHP via Java özelliklerine genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for PHP via Java yeteneklerine genel bakış." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
- oluşturma
+ İşleme
    </header>
    <ul>
     <li>
@@ -37,7 +37,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
  Çalışma Sayfasını Resme Dönüştür
     </li>
     <li>
- Elektronik Tabloyu PDF'e Dönüştür
+ E-tabloyu PDF'e dönüştür
     </li>
    </ul>
   </div>
@@ -53,7 +53,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
  Grafikler
     </li>
     <li>
- formül hesaplama
+ Formül Hesaplama
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -107,7 +107,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for PHP via Java, PHP 7.1 (veya üstü) ve JavaBridge gerektirir. Bu gereksinimlerin karşılanabileceği herhangi bir platformda çalışabilir." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for PHP via Java, PHP 7.1 (veya üstü) ve JavaBridge gerektirir. Bu gereksinimlerin karşılanabileceği her platformda çalışabilir." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -123,7 +123,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
    <header>
     <i class="fa fa-cubes">
     </i>
- linux
+ Linux
    </header>
    <br/>
    <header>
@@ -165,7 +165,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for PHP via Java, en sık kullanılan görüntü ve sabit düzen biçimleriyle birlikte popüler elektronik tablo biçimlerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells for PHP via Java, en sık kullanılan resim ve sabit düzen formatlarının yanı sıra popüler elektronik tablo formatlarını da destekler." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -177,7 +177,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -206,7 +206,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıktı
+ Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -255,7 +255,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Gelişmiş PHP Hesap Tablosu API Özellikler
+ Gelişmiş PHP Elektronik Tablosu API Özellikleri
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -264,28 +264,28 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV, Sekmeyle ayrılmış &amp; HTML biçimleri
+ CSV desteği, Sekmeyle ayrılmış ve amp; HTML formatları
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Yükle &amp; OpenDocument Elektronik Tablosu (ODS) biçimini kaydet
+ Yükle ve yükle OpenDocument Elektronik Tablosu (ODS) biçimini kaydet
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oluşturun, değiştirin &amp; grafikler oluştur
+ Oluşturun, değiştirin ve yönetin grafikleri oluşturma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Bir tasarımcı e-tablosundan formülleri içe aktarın
+ Formülleri tasarımcı e-tablosundan içe aktarma
     </p>
    </div>
    <div class="col-lg-4">
@@ -299,7 +299,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Yorum oluşturma ve düzenleme
+ Yorumları oluşturma ve değiştirme
     </p>
    </div>
    <div class="col-lg-4">
@@ -313,14 +313,14 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; karmaşık formülleri hesapla
+ Ayarla ve ayarla karmaşık formülleri hesapla
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; koşullu biçimlendirme kurallarını değiştirme
+ Oluştur ve oluştur koşullu biçimlendirme kurallarını değiştirme
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,47 +334,47 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; adlandırılmış aralıkları değiştir
+ Oluştur ve oluştur adlandırılmış aralıkları işleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfalarını Akıllı İşaretleyiciler aracılığıyla doldurun
+ Çalışma sayfalarını Akıllı İşaretleyiciler aracılığıyla doldurma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oluşturun, değiştirin &amp; Pivot Tabloları yenile
+ Oluşturun, değiştirin ve yönetin Pivot Tabloları yenile
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfalarını SVG biçiminde dışa aktarın
+ Çalışma sayfalarını SVG formatında dışa aktarın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; mini grafikler oluştur
+ Oluştur ve oluştur mini çizgiler oluştur
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Excel Dosyalarını XPS, PDF &amp; HTML
+ Excel Dosyalarını XPS, PDF ve PDF'e dönüştürün HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API, Excel dosyalarını XPS, XPS ve HTML biçimlerine dönüştürmenin yanı sıra en yüksek görsel doğruluğu korur. Dönüştürme işlemi güvenilirdir ve geliştiriciler gerekli biçimi yalnızca birkaç satırla elde edebilir.
+Aspose.Cells for PHP via Java API, Excel dosyalarını XPS, XPS ve HTML formatlarına dönüştürmenin yanı sıra en yüksek görsel doğruluğu koruyabilmektedir. Dönüştürme süreci güvenilirdir ve geliştiriciler yalnızca birkaç satırla gerekli formatı elde edebilirler.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Elektronik tabloyu birden çok biçimde kaydedin - PHP
+ Elektronik tabloyu birden çok biçimde kaydetme - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -393,10 +393,10 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Excel Elektronik Tablolarını İşleyin &amp; PDF &amp; Görüntüler
+ Excel Elektronik Tablolarını Oluşturun ve PDF &amp; Görüntüler
     </h2>
     <p>
- Aspose.Cells for PHP via Java, Microsoft Excel'e en yüksek doğrulukla işleme için özel olarak tasarlanmış kendi işleme motoruna sahiptir. Aspose.Cells for PHP via Java'i kullanırken, tüm elektronik tabloları, tek tek çalışma sayfalarını &amp; bir dizi görüntü &amp; sabit düzen formatları.
+ Aspose.Cells for PHP via Java, Microsoft Excel'e en yüksek sadakatle işleme için özel olarak tasarlanmış kendi işleme motoruna sahiptir. Aspose.Cells for PHP via Java'i kullanırken tüm e-tabloları, bireysel çalışma sayfalarını ve ayrı ayrı çalışma sayfalarını dönüştürebilirsiniz. bir dizi görüntü ve grafik için grafikler; sabit düzen biçimleri.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,26 +404,26 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Esnek Çalışma Sayfası Görüntüleme Seçenekleri
     </h2>
     <p>
- Aspose.Cells for PHP via Java size çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar, böylece sayfa sonları, sayfa yönü, ölçekleme, kağıt boyutu, üstbilgiler/altbilgiler ve sayfa sonları gibi Excel çalışma sayfasının görüntüleme seçeneklerini değiştirmenize olanak tanır. Yakınlaştırma seviyesi. Veri görünürlüğünü, bölmeleri dondur &amp; uygulama gereksinimlerinize uygun yazdırma alanı.
+Aspose.Cells for PHP via Java, çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar, böylece Excel çalışma sayfasının sayfa sonları, sayfa yönü, ölçekleme, kağıt boyutu, üstbilgiler/altbilgiler ve altbilgiler gibi görüntüleme seçeneklerini değiştirmenize olanak tanır. Yakınlaştırma seviyesi. Ayrıca bölmeleri dondurarak veri görünürlüğünü de kontrol edebilirsiniz. uygulama gereksinimlerinize uygun baskı alanı.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Verimli, Sağlam &amp; Güvenilir Formül Hesaplama Motoru
+ Verimli, Sağlam ve Güvenilir Formül Hesaplama Motoru
     </h2>
     <p>
-Aspose.Cells for PHP via Java, neredeyse tüm standart ve gelişmiş Microsoft Excel formüllerini ve işlevlerini destekleyen güçlü bir Formül Hesaplama Motoru ile donatılmıştır. Yerleşik veya eklenti tipi, dizi ve R1C1 referans stili formüllerini okuyabilir, ayarlayabilir ve sonuçlarını hesaplayabilirsiniz.
+ Aspose.Cells for PHP via Java, neredeyse tüm standart ve gelişmiş Microsoft Excel formüllerini ve işlevlerini destekleyen güçlü bir Formül Hesaplama Motoru ile donatılmıştır. Yerleşik veya eklenti tipi, dizi ve R1C1 referans stili formüllerinin sonuçlarını okuyabilir, ayarlayabilir ve hesaplayabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Biçimlendirme, Grafikler ve Verilerle Verileri Görselleştirin Grafik
+ Verileri Biçimlendirme, Grafikler ve Verilerle Görselleştirin Grafik
     </h2>
     <p>
- Kitaplık o kadar esnektir ki, elektronik tabloları her türlü görsel efektle donatabilir, ayrıca bir çalışma sayfasına, satıra, sütuna veya hücreye biçimlendirme uygulayabilir, niteliklerle yazı tiplerini ayarlayabilir, hücre stilini tanımlayabilir &amp; sayı biçimleri, Zengin Metin ekleyin ve koşullu biçimlendirme kuralları tanımlayın.
+ Kitaplık o kadar esnektir ki, e-tablolara her türlü görsel efekt eklenebilir, ayrıca bir çalışma sayfasına, satıra, sütuna veya hücreye biçimlendirme uygulanabilir, yazı tiplerini niteliklerle ayarlayabilir, hücre stilini tanımlayabilir ve bunları oluşturabilirsiniz. sayı biçimleri, Zengin Metin ekleyin ve koşullu biçimlendirme kurallarını tanımlayın.
     </p>
     <p>
- Aynı şekilde, profesyonel bir görünüm ve kolay anlaşılırlık için tablolar ve grafikler ayrılmaz parçalardır. Aspose.Cells for PHP via Java API'ler her türden standart ve özel grafiği oluşturabilir ve değiştirebilir. Ayrıca hücrelere farklı tipte çizim nesneleri kolayca eklenebilir.
+Benzer şekilde, profesyonel bir görünüm ve kolay anlaşılırlık için çizelgeler ve grafikler de ayrılmaz parçalardır. Aspose.Cells for PHP via Java API'ler her tür standart ve özel grafiği oluşturabilir ve işleyebilir. Ayrıca hücrelere farklı türde çizim nesneleri kolaylıkla eklenebilmektedir.
     </p>
    </div>
   </div>
@@ -436,10 +436,10 @@ Aspose.Cells for PHP via Java, neredeyse tüm standart ve gelişmiş Microsoft E
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/phpjava/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/php/cells" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

@@ -1,8 +1,8 @@
 ---
-title: Python ซ่อมแซมไฟล์ ods - ซ่อมแซมไฟล์ ods ออนไลน์ฟรี
+title: Python ซ่อมแซม ods - กู้คืนและแก้ไขไฟล์ ods ที่เสียหาย
 url: /th/python-java/recovery/repair-ods/ 
-description: Aspose เก่ง. Python Aspose.Cells. Python ซ่อมไฟล์ ods. เครื่องมือซ่อมแซม ods ออนไลน์ฟรี ซ่อมแซมไฟล์ ods ที่เสียหาย กู้คืนไฟล์ ods ที่เสียหายภายในแอปพลิเคชัน Python
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Free Online Repair a corrupted ods file., Python Recover ods file.]
+description: Python Aspose.Cells.อู่ซ่อม. แก้ไขไฟล์ ods เครื่องมือการกู้คืน ods การทุจริต กู้คืนข้อมูล ods การกู้คืนไฟล์ ods กู้คืนไฟล์ ods ที่เสียหาย
+keywords: [Python Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ซ่อมไฟล์ ODS ใน Python" h2="สร้างแอปพลิเคชัน Python ของคุณเองเพื่อซ่อมแซมไฟล์ ods โดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,50 +12,50 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="ซ่อมแซมไฟล์ ODS โดยใช้ Python" %}}
 
- ฉันจะซ่อมแซมไฟล์ ods ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถซ่อมแซมไฟล์ ODS โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python via Java จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells</code>.
+ ฉันจะซ่อมแซมไฟล์ ods ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถซ่อมแซมไฟล์ ODS โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม ท่านสามารถติดตั้ง Aspose.Cells for Python via Java จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งดังนี้:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="วิธีซ่อมไฟล์ ods ใน Python" %}}
+{{% blocks/products/pf/agp/content h2="วิธีการซ่อมแซมไฟล์ ods ใน Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-ต้องการซ่อมแซมไฟล์ ods โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและซ่อมแซมไฟล์ ods ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการซ่อมแซมไฟล์ ods โดยทางโปรแกรมหรือไม่? นักพัฒนา Python สามารถโหลดและซ่อมแซมไฟล์ ods ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
 + กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
-+ โหลดไฟล์ ODS โดยสร้างอินสแตนซ์ของสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างอิงถึงรหัสด้านบน
++ โหลดไฟล์ ODS โดยการสร้างอินสแตนซ์ของ Workbook โดยใช้คลาสการสืบทอดด้านบนอ้างถึงโค้ดด้านบน
 + บันทึกสมุดงาน ไฟล์ ods ที่เสียหายจะได้รับการซ่อมแซม
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="แอพฟรีและโค้ดตัวอย่างเพื่อซ่อมแซมไฟล์ ODS ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="ตัวอย่างโค้ดการซ่อมแซมไฟล์ ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonjava" %}}    
     
-{{% blocks/products/pf/agp/content h2="ห้องสมุด Python เพื่อซ่อมแซมไฟล์ ODS" %}}
+{{% blocks/products/pf/agp/content h2="Python ไลบรารี่ เพื่อซ่อมแซมไฟล์ ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for Python via Java" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for Python via Java" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน Windows ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#windows)
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#linux)
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน macOS ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน Windows ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน macOS ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ความต้องการของระบบ" %}}
 
- Aspose.Cells for Python ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for Python รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
  
--  ติดตั้ง Java 1.8 หรือสูงกว่าและเพิ่มลงในตัวแปรสภาพแวดล้อม PATH เช่น:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  ติดตั้ง Java 1.8 หรือสูงกว่า และเพิ่มลงในตัวแปรสภาพแวดล้อม PATH ตัวอย่างเช่น:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  ติดตั้ง[Python](https://www.python.org/downloads/) 3.5 หรือสูงกว่า
-- ติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells</code>.
+-  ติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งดังนี้:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -65,7 +65,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล .ods หมายถึงรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS สามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ
+ไฟล์ที่มีนามสกุล .ods ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -73,13 +73,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่นๆ ที่รองรับ" subTitle="การใช้ Python ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
+{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่น ๆ ที่รองรับ" subTitle="การใช้ Python ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="ซ่อม ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="ซ่อม XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="ซ่อม XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="ซ่อม XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="ซ่อม XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="ซ่อมODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="ซ่อมXLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="ซ่อมXLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="ซ่อมXLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="ซ่อมXLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

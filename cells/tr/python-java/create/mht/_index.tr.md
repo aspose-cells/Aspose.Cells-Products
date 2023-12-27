@@ -1,7 +1,7 @@
 ---
-title: MHT oluştur - Python'de MHT dosyası oluşturun
-description: Aspose excel. Python MHT Dosyası Oluşturun. MHT Python oluşturun. Python MHT Oluşturucu. Python'de MHT oluşturun. Python'i kullanarak MHT dosyası oluşturun.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
+title: MHT Oluştur - Python'de MHT dosyası oluşturun
+description:  Aspose Excel'de. Python Aspose.Cells ile hızlı ve kolay bir şekilde MHT Dosyası oluşturun. Python'i kullanarak MHT dosyası oluşturun. Python'de MHT oluşturun. Python MHT Oluşturucu.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Create MHT file using Python., Write data to MHT file via Python., Create a MHT file in Python., Python Generate a MHT file., Python MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de MHT Dosyası Oluşturun" h2="MHT dosyası oluşturmak için yüksek hızlı Python kitaplığı. Bu, XLSX, PDF ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/content h2="Python Kullanarak MHT Dosyası Oluşturun" %}}
 
- MHT dosyası nasıl oluşturulur? Aspose.Cells for Python via Java kütüphanesi ile birkaç satır kod ile MHT dosyasını programlı olarak kolayca oluşturabilirsiniz.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ MHT dosyası nasıl oluşturulur? Aspose.Cells for Python via Java kütüphanesi ile birkaç satır kodla programlı olarak MHT dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,14 +21,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/text %}}
 
-Geliştiricilerin, yalnızca birkaç kod satırında veri işleme için farklı raporlama uygulamalarını çalıştırırken MHT dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
+ Geliştiricilerin, veri işleme için farklı raporlama uygulamalarını çalıştırarak MHT dosyalarını yalnızca birkaç satır kodla oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Asposecell'leri kod dosyanıza aktarın.
 1.  Çalışma Kitabı sınıfı örneği oluşturun.
 1.  Çalışma kitabının ilk çalışma sayfasına erişin.
-1.  Çalışma sayfasının istenen hücre(ler)ini alın ve değeri hücre(ler)e girin.
+1.  Çalışma sayfasının istenen hücresini/hücrelerini alın ve değeri hücreye/hücrelere girin.
 1.  Çalışma kitabını MHT dosyası olarak kaydetmek için Kaydet yöntemini kullanın.
 
 {{% blocks/products/pf/agp/code-block title="Örnek kod, Python\'de MHT dosyasının nasıl oluşturulacağını gösterir." offSpacer="" %}}
@@ -66,13 +66,13 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Sisteminize "Aspose.Cells for Python via Java" yüklemek için üç seçenek vardır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:
+Sisteminize "Aspose.Cells for Python via Java" kurulumu için üç seçenek bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Aspose.Cells for Python via Java'i Windows'e takın. Bkz.[Belgeler](https://docs.aspose.com/cells/python-java/getting-started/#windows)
-1.  Linux'ta Aspose.Cells for Python via Java'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/python-java/getting-started/#linux)
-1.  macOS'ta Aspose.Cells for Python via Java'i yükleyin. Görmek[Belgeler](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+1.  Aspose.Cells for Python via Java'i Windows'e yükleyin. Bkz.[Dokümantasyon](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Linux'ta Aspose.Cells for Python via Java'i yükleyin. Görmek[Dokümantasyon](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  MacOS'ta Aspose.Cells for Python via Java'i yükleyin. Görmek[Dokümantasyon](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,30 +80,30 @@ Sisteminize "Aspose.Cells for Python via Java" yüklemek için üç seçenek var
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux ve MacOS), sadece sistemin Java 1.8 veya üstü olduğundan emin olun,[Python](https://www.python.org/downloads/) 3.5 veya üstü.
+ Aspose.Cells for Python via Java platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux ve MacOS), sadece sistemin Java 1.8 veya daha yüksek bir sürüme sahip olduğundan emin olun,[Python](https://www.python.org/downloads/) 3,5 veya daha yüksek.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Java'i yükleyin ve PATH ortam değişkenine ekleyin, örneğin:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
--  Aspose.Cells for Python via Java'i yükleyin<a href="https://pypi.org/project/aspose-cells/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells</code>.
+-  Java'i kurun ve PATH ortam değişkenine ekleyin, örneğin:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Aspose.Cells for Python via Java'i şuradan yükleyin:<a href="https://pypi.org/project/aspose-cells/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht uzantılı bir dosya, farklı veri türlerini tek bir dosyada içeren, MIME özellikli bir arşivleme dosyası biçimidir. Metin, resimler, sayfa stili gibi verileri CSS dosyaları, JavaScript ve diğer kaynaklar biçimindeki gömülü kaynaklar olarak depolayabilir. MIME tipi mesaj/rfc822'ye sahip olan MHT dosyaları, bir HTML dosyasının tüm içeriğini, depolama aygıtlarında arşivlemede depolamak için tek bir arşiv dosyası olarak kapsüller. Microsoft Word gibi yazılım uygulamaları, WORD belgelerinizi MHT dosyası olarak dışa aktararak MHT'ye dönüştürmenizi sağlar. MHT dosyaları, Microsoft Internet Explorer ve Google Chrome gibi popüler tarayıcılar kullanılarak açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht uzantılı bir dosya, farklı veri türlerini tek bir dosyada içeren, MIME özellikli bir arşivleme dosyası formatıdır. Metin, resim, sayfa stili gibi verileri CSS dosyaları, JavaScript ve diğer kaynaklar biçiminde gömülü kaynaklar olarak depolayabilir. MIME tipi mesaj/rfc822'ye sahip MHT dosyaları, HTML dosyasının tüm içeriğini depolama aygıtlarında arşivlemede depolamak için tek bir arşiv dosyası olarak kapsüller. Microsoft Word gibi yazılım uygulamaları, WORD belgelerinizi MHT dosyası olarak dışa aktararak MHT'ye dönüştürmenizi sağlar. MHT dosyaları, Microsoft Internet Explorer ve Google Chrome gibi popüler tarayıcılar kullanılarak açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Elektronik Tablo Oluşturma" subTitle="Aşağıda listelenenlerden birkaçı dahil olmak üzere diğer Microsoft Excel biçimlerini de oluşturabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Elektronik Tablo Oluşturma" subTitle="Ayrıca aşağıda listelenenlerden birkaçı dahil olmak üzere diğer Microsoft Excel formatlarını da oluşturabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Makro özellikli Hesap Tablosu" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Excel 97 - 2003 Şablonu" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltx/" name="XLTX" description="Excel Şablonu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Makro Etkin Excel Şablonu" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Excel Makro Etkin Şablonu" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="Virgülle Ayrılmış Değerler" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="OpenDocument Elektronik Tablosu" >}}

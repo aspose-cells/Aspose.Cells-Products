@@ -8,17 +8,17 @@ url: /tr/tutorial
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Aspose.Cells Dersler: Excel dosyalarını Kolaylıkla Düzenlemeyi Öğrenin" >}}
+{{< blocks/products/pf/feature-page-section h2="Aspose.Cells Dersler: Excel dosyalarını Kolaylıkla Nasıl Düzenleyeceğinizi Öğrenin" >}}
 
 <p>
- Aspose.Cells ders sayfamıza hoş geldiniz! Burada, size nasıl kullanılacağını öğretecek çeşitli öğreticiler bulacaksınız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kitaplık</a> ile<a href="https://products.aspose.app/cells/editor/">excel dosyalarını düzenle</a>. İster yeni başlayan ister deneyimli bir kullanıcı olun, derslerimiz size Excel dosyalarıyla bir profesyonel gibi çalışmak için ihtiyaç duyduğunuz bilgi ve becerileri sağlayacaktır.
+ Aspose.Cells dersler sayfamıza hoş geldiniz! Burada size uygulamayı nasıl kullanacağınızı öğretecek çeşitli eğitimler bulacaksınız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kütüphane</a> ile<a href="https://products.aspose.app/cells/editor/">Excel dosyalarını düzenle</a>. İster yeni başlayan ister deneyimli bir kullanıcı olun, derslerimiz size Excel dosyalarıyla bir profesyonel gibi çalışmak için ihtiyaç duyduğunuz bilgi ve becerileri sağlayacaktır.
 </p>
 <p>
-Derslerimiz, Şekiller oluşturma, Grafikler oluşturma, PivotTable'lar oluşturma, Dilimleyiciler oluşturma ve Excel dosyalarını düzenlemenin diğer yolları dahil olmak üzere çok çeşitli konuları kapsar. Adım adım kılavuzlarımız ve pratik örneklerimizle, tekniklere hızla hakim olabilecek ve bunları projelerinizde kullanmaya başlayabileceksiniz.</p>
+Derslerimiz Şekil oluşturma, Grafik oluşturma, PivotTable oluşturma, Dilimleyici oluşturma ve Excel dosyalarını düzenlemenin diğer yollarını içeren çok çeşitli konuları kapsar. Adım adım kılavuzlarımız ve pratik örneklerimiz sayesinde tekniklere hızla hakim olabilecek ve bunları projelerinizde kullanmaya başlayabileceksiniz.</p>
 <p>
-Aspose olarak, müşterilerimize hedeflerine ulaşmalarına yardımcı olacak en iyi araçları ve kaynakları sağlamaya kararlıyız. Derslerimiz, teknik jargonda kaybolmadan öğrenmeye odaklanabilmeniz için takip etmesi ve anlaması kolay olacak şekilde tasarlanmıştır. Herkesin yüksek kaliteli Excel düzenleme araçlarına erişmesi gerektiğine inanıyoruz ve derslerimiz başlamak için harika bir yol.</p>
+Aspose olarak müşterilerimize hedeflerine ulaşmalarına yardımcı olacak en iyi araçları ve kaynakları sağlamaya kararlıyız. Derslerimiz takip edilmesi ve anlaşılması kolay olacak şekilde tasarlanmıştır, böylece teknik jargonda kaybolmadan öğrenmeye odaklanabilirsiniz. Herkesin yüksek kaliteli Excel düzenleme araçlarına erişmesi gerektiğine inanıyoruz ve derslerimiz başlamanın harika bir yoludur.</p>
 <p>
-İster bir tasarımcı, ister geliştirici, ister yalnızca Excel dosyalarıyla çalışması gereken biri olun, Aspose.Cells numaralı derslerimiz sizin için mükemmel bir kaynaktır. Bugün eğitimlerimize göz atın ve Excel dosyalarını kolaylıkla nasıl düzenleyeceğinizi öğrenmeye başlayın!
+Yani ister bir tasarımcı, geliştirici olun, ister yalnızca Excel dosyalarıyla çalışması gereken biri olun, Aspose.Cells derslerimiz sizin için mükemmel bir kaynaktır. Eğitimlerimize bugün göz atın ve Excel dosyalarını kolaylıkla nasıl düzenleyeceğinizi öğrenmeye başlayın!
 </p>
 
 <br />
@@ -28,13 +28,13 @@ Aspose olarak, müşterilerimize hedeflerine ulaşmalarına yardımcı olacak en
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Aspose.Cells kurulumu</a></li>
         <li class="link-item"><a href="add-shapes-in-excel">Excel dosyasına şekiller nasıl eklenir</a></li>
-        <li class="link-item"><a href="add-textbox-in-excel">TextBox Excel dosyasına nasıl eklenir</a></li>
+        <li class="link-item"><a href="add-textbox-in-excel">Excel dosyasına TextBox nasıl eklenir</a></li>
         <li class="link-item"><a href="add-column-chart-in-excel">Excel dosyasına sütun grafiği nasıl eklenir</a></li>
         <li class="link-item"><a href="add-pie-chart-in-excel">Excel dosyasına pasta grafiği nasıl eklenir</a></li>
         <li class="link-item"><a href="add-line-chart-in-excel">Excel dosyasına çizgi grafiği nasıl eklenir</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/viewer/">Aspose.Cells Görüntüleyen</a></li> 
+        <li class="link-item"><a href="https://products.aspose.app/cells/viewer/">Aspose.Cells Görüntüleyici</a></li> 
         <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editör</a></li>        
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/features/">Aspose.Cells özellikleri için belgeler</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/features/">Aspose.Cells özelliklerine ilişkin belgeler</a></li>
     </ul>
 </div>
 

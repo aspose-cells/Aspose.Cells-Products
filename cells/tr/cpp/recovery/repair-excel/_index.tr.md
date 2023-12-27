@@ -1,8 +1,8 @@
 ---
-title: C++ Excel Dosyasını Onar - Excel Dosyasını Çevrimiçi Ücretsiz Olarak Onar
+title: C++ Excel'i Onar - Bozuk excel Dosyasını Kurtarın ve Onarın
 url: /tr/cpp/recovery/repair-excel/ 
-description: Aspose excel. C++ Aspose.Cells. C++ Excel dosyasını onarın. Ücretsiz Çevrimiçi excel onarım aracı. Bozuk bir excel dosyasını onarın. C++ uygulamasında bozuk bir excel dosyasını kurtarın.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel file., Free Online Repair a corrupted excel file., C++ Recover excel file.]
+description: C++ Aspose.Cells. Excel'i onarın. Excel dosyasını düzeltin. excel kurtarma aracı. excel yolsuzluk. Excel verilerini geri yükleyin. excel dosya kurtarma. Bozuk excel dosyasını kurtarın.
+keywords: [C++ Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++\'deki EXCEL dosyasını onarın" h2="C++\'i kullanarak excel dosyalarını onarmak için kendi C++ uygulamanızı oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel
 
 {{% blocks/products/pf/agp/content h2="C++ Kullanarak EXCEL Dosyasını Onarın" %}}
 
- Excel dosyasını nasıl onarabilirim? Aspose.Cells for C++ kütüphanesi ile EXCEL dosyasını birkaç satır kod ile programlı olarak kolayca onarabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+ Excel dosyasını nasıl onarırım? Aspose.Cells for C++ kütüphanesi ile EXCEL dosyasını programlı olarak birkaç satır kodla kolayca onarabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -27,43 +27,43 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="C++\'de excel dosyası nasıl onarılır" %}}
+{{% blocks/products/pf/agp/content h2="C++\'deki excel dosyası nasıl onarılır" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Excel dosyasını programlı olarak onarmanız mı gerekiyor? C++ geliştiriciler, excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
+Excel dosyasını programlı olarak onarmanız mı gerekiyor? C++ geliştiriciler excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
-+ Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
++ Yukarıdaki miras sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Çevrimiçi EXCEL dosyasını onarmak için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="EXCEL dosyasını onarmak için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="EXCEL dosyasını onarmak için C++ kitaplığı" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Sisteminize "Aspose.Cells for C++" yüklemek için üç seçenek vardır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:
+Sisteminize "Aspose.Cells for C++" kurulumu için üç seçenek bulunmaktadır. Lütfen ihtiyaçlarınıza uygun olanı seçin ve adım adım talimatları izleyin:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  yüklemek[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Include ve lib Folders'ı kullanarak kitaplığı kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  Linux'ta Aspose.Cells for C++'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Bir yükleme yapın[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Görmek[Dokümantasyon](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Include ve lib Klasörlerini kullanarak kitaplığı yükleyin. Görmek[Dokümantasyon](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Linux'ta Aspose.Cells for C++'i yükleyin. Görmek[Dokümantasyon](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="sistem gereksinimleri" %}}
 
- Aspose.Cells for C++, tüm büyük işletim sistemlerinde desteklenir. Sadece aşağıdaki ön koşullara sahip olduğunuzdan emin olun.
+ Aspose.Cells for C++ tüm önemli işletim sistemlerinde desteklenir. Sadece aşağıdaki önkoşullara sahip olduğunuzdan emin olun.
  
-- Microsoft Windows veya Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment ile uyumlu bir işletim sistemi.
-- Projenizdeki Aspose.Cells for C++ DLL'ye başvuru ekleyin.
+- Microsoft Windows veya Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+- Projenizdeki Aspose.Cells for C++ DLL dosyasına referans ekleyin.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,7 +73,7 @@ Sisteminize "Aspose.Cells for C++" yüklemek için üç seçenek vardır. Lütfe
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. OOXML standardı ECMA-376'nın 2. Bölümünde özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak, yeni biçim şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Altta yatan yapı ve dosyalar, yalnızca .xlsx dosyasını açarak incelenebilir.
+XLSX, Microsoft tarafından Microsoft Office 2007 sürümüyle tanıtılan Microsoft Excel belgeleri için iyi bilinen bir formattır. OOXML standardı ECMA-376'nın 2. Kısmında özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak yeni format şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Temel yapı ve dosyalar, .xlsx dosyasının sıkıştırması açılarak incelenebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -81,13 +81,13 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Biçimlerini Onarın" subTitle="C++\'i kullanarak, diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Formatlarını Onarın" subTitle="C++\'i kullanarak diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Tamir ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Tamir XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="Tamir XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Tamir XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Tamir XLSX" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="Onarım ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="Onarım XLS" description="Excel İkili Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="Onarım XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="Onarım XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="Onarım XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,10 +1,10 @@
 ---
 title: Raporları Excel'de Dışa Aktarma XLS XLSX PDF ODS JasperReports ve JasperServer'da
 weight: 9460
-description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF ODS TXT ve SpreadsheetML biçiminde dışa aktarın. Ayrıca raporları Excel Elektronik Tabloları olarak yazdırın
+description: Raporları Jasper Reports ve JasperServer'dan Excel XLS XLSX PDF ODS TXT ve SpreadsheetML formatında dışa aktarın. Raporları Excel Elektronik Tabloları olarak da yazdırabilirsiniz
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Raporları Excel Formatları Olarak Dışa Aktarmak için JasperReports Uzantısı" h2="Raporları Microsoft Excel elektronik tablosuna birden çok biçimde dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Raporları Excel Formatlarında Dışa Aktarmak için JasperReports Uzantısı" h2="Raporları Microsoft Excel elektronik tablosuna birden fazla formatta aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports, 0 kullanmadan Microsoft Excel XLS, XLSX, PDF, ODS, TXT ve SpreadsheetML formatlarında dışa aktarma raporları sunan güvenilir bir JasperReports ve JasperServer uzantısıdır. 76193481 Excel. JasperReports'un orijinal Microsoft Excel dışa aktarıcısına alternatif olarak çalışır ve POI kitaplığına bağımlılığı ortadan kaldırır.
+ Aspose.Cells for JasperReports, raporları 076 kullanmadan Microsoft Excel XLS, XLSX, PDF, ODS, TXT ve TXT formatlarında dışa aktarma olanağı sunan güvenilir bir JasperReports ve JasperServer uzantısıdır 193481 Excel. JasperReports'un orijinal Microsoft Excel dışa aktarıcısına alternatif olarak çalışır ve POI kitaplığına bağımlılığı ortadan kaldırır.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for JasperReports\' özelliklerine genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for JasperReports\'in özelliklerine genel bakış." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,7 +33,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
    <header>
     <i class="fa fa-table">
     </i>
- Rapor Tasarımına Yüksek Sadakat
+ Rapor Tasarımına Yüksek Doğruluk
    </header>
   </div>
   <!--/left-->
@@ -47,7 +47,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
    <header>
     <i class="fa fa-share">
     </i>
- Excel Formatlarına Aktar
+ Excel Formatlarına Aktarma
    </header>
   </div>
   <!--/right-->
@@ -88,7 +88,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- JasperReports 6.3.0 veya üstü
+ JasperReports 6.3.0 veya üzeri
    </header>
   </div>
   <!--/right-->
@@ -113,7 +113,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=" Aspose.Cells for JasperReports, raporları doğrudan[aşağıdaki biçimler](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for JasperReports, raporları doğrudan[aşağıdaki formatlar](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -123,12 +123,12 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıktı
+ Yalnızca Çıkış
    </header>
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX
     </li>
@@ -198,14 +198,14 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Microsoft Excel Dosyaları olarak raporlar oluşturun
+ Raporları Microsoft Excel Dosyaları olarak oluşturun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Raporları elektronik tablo olarak yazdırın
+ Raporları elektronik tablo olarak yazdırma
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,34 +217,34 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Raporları Microsoft Excel Formatlarına Aktarın
+ Raporları Microsoft Excel Formatına Aktarma
     </h2>
     <p>
- Aspose.Cells for JasperReports, raporları doğrudan Microsoft Excel biçimlerine, örneğin XLS &amp; XLSX. Ayrıca SpreadsheetML, ODS, CSV &amp; İş gereksinimlerinize uygun sekmeyle ayrılmış biçimler.
+ Aspose.Cells for JasperReports, raporları doğrudan Microsoft ve XLS &amp; gibi Microsoft Excel formatlarına aktarma işlevini sağlar. XLSX. Ayrıca, SpreadsheetML, ODS, CSV &amp; İş gereksinimlerinize uyacak sekmeyle ayrılmış formatlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Rapor Tasarımına Yüksek Sadakat
+ Rapor Tasarımına Yüksek Doğruluk
     </h2>
     <p>
-Aspose.Cells for JasperReports raporları desteklenen formatlara en yüksek hassasiyetle dışa aktarın; JasperReports'un yerel dışa aktarma işlevleri tarafından dışa aktarılan benzer raporlar görünüyor.
+Aspose.Cells for JasperReports raporları en yüksek hassasiyetle desteklenen formatlara aktarın; JasperReports'un yerel dışa aktarma işlevleri tarafından dışa aktarılan raporların aynısı görünüyor.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Düzenlenebilir Excel Tabloları
+ Düzenlenebilir Excel Elektronik Tabloları
     </h2>
     <p>
- Aspose.Cells for JasperReports Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın. Microsoft Excel grafiklerini destekler ve Aspose oluşturma motoru aracılığıyla dışa aktarılan herhangi bir grafik, statik bir resim yerine düzenlenebilir bir grafik olarak kullanılabilir olacak ve böylece son kullanıcıların Microsoft Excel'de grafikleri manuel olarak değiştirmesine izin verecektir.
+ Aspose.Cells for JasperReports Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın. Microsoft Excel grafiklerini destekler ve Aspose işleme motoru aracılığıyla dışa aktarılan herhangi bir grafik, statik bir resim yerine düzenlenebilir bir grafik olarak mevcut olacak ve böylece son kullanıcıların grafikleri Microsoft Excel'de manuel olarak değiştirmesine olanak tanıyacaktır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Ofis Otomasyonu – Gerekli değil
+ Microsoft Ofis Otomasyonu – Gerekmiyor
     </h2>
     <p>
- Aspose.Cells for JasperReports ihracatçı, Excel belge biçimleriyle çalışmak için asla Microsoft Excel veya Microsoft Office'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanarak geliştirildi. Kararlılık, ölçeklenebilirlik, desteklenen özellikler, güvenlik, fiyat ve hız açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
+ Aspose.Cells for JasperReports ihracatçı, Excel belge formatlarıyla çalışmak için makineye hiçbir zaman Microsoft Excel veya Microsoft Office'in yüklenmesine ihtiyaç duymayan yönetilen kod kullanılarak geliştirildi. Kararlılık, ölçeklenebilirlik, desteklenen özellikler, güvenlik, fiyat ve hız açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
     </p>
    </div>
   </div>
@@ -257,10 +257,10 @@ Aspose.Cells for JasperReports raporları desteklenen formatlara en yüksek hass
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/jasperreports/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

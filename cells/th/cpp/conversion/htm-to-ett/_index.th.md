@@ -1,7 +1,7 @@
 ---
-title: C++ HTM เป็น ETT - ตัวแปลง HTM เป็น ETT ออนไลน์
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลงรูปแบบบันทึก HTM เป็น ETT C++ รูปแบบ HTM เป็น ETT บันทึก HTM เป็น ETT C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to ETT saveformat., Free Online HTM to ETT C++., C++ Convert HTM to ETT]
+title: C++ HTM เป็น ETT - เครื่องมือแปลง HTM เป็น ETT
+description: Aspose เอ็กเซล. แปลง HTM เป็น ETT อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ HTM เป็น ETT C++ บันทึก HTM ไปที่ ETT บันทึก HTM เป็น ETT โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to ETT in C++., Save HTM to ETT using C++., C++ HTM to ETT saveformat., HTM to ETT Converter., C++ Save HTM as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง HTM เป็น ETT ใน C++" h2="การแปลง HTM เป็น ETT ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Excel, OpenOffice หรือ Adobe Acrobat Microsoft" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to ETT s
 
 {{% blocks/products/pf/agp/content h2="แปลง HTM เป็น ETT โดยใช้ C++" %}}
 
- ฉันจะแปลง HTM เป็น ETT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง HTM เป็น ETT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง HTM เป็น ETT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง HTM เป็น ETT โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก HTM เป็น ETT ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก HTM ไปที่ ETT ใน C++" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีแปลง HTM เป็น ETT ใน C++
+ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง HTM เป็น ETT ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง HTM เป็น ETT อัปโหลดไฟล์ HTM ของคุณ จากนั้นบันทึกเป็นไฟล์ ETT สำหรับทั้งการอ่าน HTM และการเขียน ETT คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ ETT เอาต์พุตจะเหมือนกับเอกสาร HTM ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง HTM เป็น ETT อัปโหลดไฟล์ HTM ของคุณ จากนั้นบันทึกเป็นไฟล์ ETT สำหรับทั้งการอ่าน HTM และการเขียน ETT คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ ETT ที่ส่งออกจะเหมือนกับเอกสาร HTM ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง HTM เป็น ETT ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง HTM เป็น ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง HTM เป็น ETT ผ่าน C++" %}}
 
@@ -47,25 +47,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ HTM โดยใช้ Factory::CreateIWorkbook
-1.  แปลง HTM เป็น ETT โดยเรียกเมธอด Save()
-1.  รับผลการแปลง HTM เป็น ETT
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1.  โหลดไฟล์ HTM โดยใช้สมุดงาน
+1.  แปลง HTM เป็น ETT โดยการเรียกเมธอด Save()
+1.  รับผลการแปลงจาก HTM เป็น ETT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ไลบรารี C++ เพื่อแปลง HTM เป็น ETT" %}}
+{{% blocks/products/pf/agp/content h2="C++ ไลบรารี่เพื่อแปลง HTM เป็น ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,37 +84,36 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}ไฟล์ที่มีนามสกุล .htm เป็นตัวแทนของ Hypertext Markup Language สำหรับสร้างเว็บเพจสำหรับแสดงผลในเว็บเบราว์เซอร์ เช่น Google Chrome, Internet Explorer, Firefox และอื่นๆ อีกมากมาย กำหนดมาร์กอัปสำหรับสร้างเพจแบบสแตติกเพื่อเผยแพร่บนเวิลด์ไวด์เว็บ (WWW) เพื่อให้ผู้อื่นเข้าถึงได้ มาร์กอัปเหล่านี้บอกเบราว์เซอร์ถึงวิธีแสดงเนื้อหาของหน้าเว็บ หน้าดังกล่าวสามารถมีข้อความธรรมดา รูปภาพ ไฮเปอร์ลิงก์ไปยังหน้าอื่น วิดีโอ และข้อมูลสื่ออื่นๆ เมื่อมีการเผยแพร่หน้าเว็บ คุณสามารถดูรหัสมาร์กอัปที่อยู่เบื้องหลังได้โดยดูแหล่งที่มาของหน้าเว็บ เบราว์เซอร์สมัยใหม่อนุญาตให้ตรวจสอบแต่ละส่วนของหน้าเว็บที่มีรายละเอียดย่อยหรือองค์ประกอบมาร์กอัปแต่ละรายการในซอร์ส HTM{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}ไฟล์ ETT เป็นเทมเพลตสเปรดชีตที่สร้างโดย Kingsoft Spreadsheets ซึ่งเป็นโปรแกรมสเปรดชีตที่รวมอยู่ในชุด WPS Office มันเก็บเทมเพลตที่สามารถใช้เป็นจุดเริ่มต้นสำหรับการสร้างสเปรดชีต Kingsoft ใหม่ (ไฟล์ .ET) ไฟล์ ETT มักใช้สำหรับสร้างงบประมาณทางการเงินและจัดระเบียบข้อมูล{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}ไฟล์ที่มีนามสกุล .htm แสดงถึง Hypertext Markup Language สำหรับการสร้างหน้าเว็บเพื่อแสดงบนเว็บเบราว์เซอร์ เช่น Google Chrome, Internet Explorer, Firefox และอื่นๆ อีกมากมาย กำหนดมาร์กอัปสำหรับการสร้างเพจแบบคงที่ที่จะเผยแพร่บนเวิลด์ไวด์เว็บ (WWW) เพื่อให้ผู้อื่นเข้าถึงได้ มาร์กอัปเหล่านี้บอกเบราว์เซอร์ถึงวิธีการแสดงเนื้อหาของหน้าเว็บ หน้าดังกล่าวสามารถประกอบด้วยข้อความธรรมดา รูปภาพ ไฮเปอร์ลิงก์ไปยังหน้า วิดีโอ และข้อมูลสื่ออื่น ๆ เมื่อหน้าเว็บถูกเผยแพร่ คุณสามารถดูโค้ดมาร์กอัปที่อยู่ด้านหลังหน้าเว็บนั้นได้โดยการดูแหล่งที่มาของหน้านั้น เบราว์เซอร์สมัยใหม่ช่วยให้สามารถตรวจสอบแต่ละส่วนของหน้าเว็บซึ่งมีรายละเอียดแต่ละส่วนย่อยหรือองค์ประกอบมาร์กอัปในแหล่งที่มา HTM{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}ไฟล์ ETT เป็นเทมเพลตสเปรดชีตที่สร้างโดย Kingsoft Spreadsheets ซึ่งเป็นโปรแกรมสเปรดชีตที่รวมอยู่ในชุด WPS Office มันเก็บเทมเพลตที่สามารถใช้เป็นจุดเริ่มต้นสำหรับการสร้างสเปรดชีต Kingsoft ใหม่ (ไฟล์ .ET) ไฟล์ ETT มักใช้ในการสร้างงบประมาณทางการเงินและจัดระเบียบข้อมูล{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง HTM เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รูปแบบตามรายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง HTM เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-bmp/" name="เอชทีเอ็ม ไปที่ BMP" description="ภาพบิตแมป" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-emf/" name="เอชทีเอ็ม ไปที่ EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-gif/" name="เอชทีเอ็ม ไปที่ GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-html/" name="เอชทีเอ็ม ไปที่ HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-md/" name="HTM เป็น MD" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-mhtml/" name="เอชทีเอ็ม ไปที่ MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-ods/" name="เอชทีเอ็ม ไปที่ ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-pdf/" name="เอชทีเอ็ม ไปที่ PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-png/" name="เอชทีเอ็ม ไปที่ PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-svg/" name="เอชทีเอ็ม ไปที่ SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tiff/" name="เอชทีเอ็ม ไปที่ TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tsv/" name="เอชทีเอ็ม ไปที่ TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-txt/" name="เอชทีเอ็ม ไปที่ TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xls/" name="เอชทีเอ็ม ไปที่ XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsb/" name="เอชทีเอ็ม ไปที่ XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsm/" name="เอชทีเอ็ม ไปที่ XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsx/" name="เอชทีเอ็ม ไปที่ XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlt/" name="เอชทีเอ็ม ไปที่ XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltm/" name="เอชทีเอ็ม ไปที่ XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltx/" name="เอชทีเอ็ม ไปที่ XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-bmp/" name="HTM ถึง BMP" description="รูปภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-emf/" name="HTM ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-gif/" name="HTM ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-html/" name="HTM ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-md/" name="HTM ถึง MD" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-mhtml/" name="HTM ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-ods/" name="HTM ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-pdf/" name="HTM ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-png/" name="HTM ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-svg/" name="HTM ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tsv/" name="HTM ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-txt/" name="HTM ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xls/" name="HTM ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsb/" name="HTM ถึง XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsm/" name="HTM ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlsx/" name="HTM ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xlt/" name="HTM ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltm/" name="HTM ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltx/" name="HTM ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xml/" name="HTM เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xps/" name="เอชทีเอ็ม ไปที่ XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-json/" name="เอชทีเอ็ม ไปที่ JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-jpeg/" name="เอชทีเอ็ม ไปที่ JPEG" description="JPEG อิมเมจ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xps/" name="HTM ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-json/" name="HTM ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-jpeg/" name="HTM ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

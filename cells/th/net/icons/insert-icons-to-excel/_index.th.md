@@ -1,7 +1,8 @@
 ---
 title:  แทรกรูปภาพ/ไอคอน SVG ลงใน Excel via .NET
 weight: 110
-description: ซอร์สโค้ด C# เพื่อแทรกรูปภาพ/ไอคอน SVG ลงใน Excel บน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
+description: ซอร์สโค้ด C# เพื่อแทรก SVG รูปภาพ/ไอคอนลงใน Excel บน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
+keywords: [C# Aspose.Cells., c# add SVG images/Icons into Excel., c# insert SVG images/Icons into Excel., c# create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แทรกรูปภาพ/ไอคอน SVG ลงใน Excel via .NET" h2="แทรกรูปภาพ/ไอคอน SVG โดยใช้ Aspose.Cells\' API โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF เป็นต้น" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,53 +12,53 @@ description: ซอร์สโค้ด C# เพื่อแทรกรูป
 
 {{% blocks/products/pf/agp/content %}}
 
-คุณไม่ต้องการเห็นภาพที่ขยายและบีบอัดบนอุปกรณ์ใด ๆ ?
+คุณไม่ต้องการที่จะเห็นภาพที่ถูกยืดและบีบอัดบนอุปกรณ์ใด ๆ ใช่ไหม?
 
 คุณไม่ต้องการให้ภาพเบลอเมื่อซูมเข้าใช่ไหม
 
-คุณไม่ต้องการให้ภาพบิดเบี้ยวด้วยความละเอียดสูงใช่หรือไม่
+คุณไม่ต้องการให้ภาพบิดเบี้ยวด้วยความละเอียดสูงใช่ไหม
 
-บางที SVG ก็เป็นตัวเลือกที่ดี รูปภาพ SVG ดูดีไม่ว่าจะซูมระดับใดก็ตาม และไม่ขึ้นกับความละเอียด เนื่องจากรูปภาพ svg มีความเที่ยงตรงสูง จึงเป็นที่นิยมอย่างมากในหมู่ผู้ใช้ Excel
+บางที SVG อาจเป็นตัวเลือกที่ดี รูปภาพ SVG ดูดีในทุกระดับการซูม และไม่ขึ้นกับความละเอียด เนื่องจากรูปภาพ svg มีความเที่ยงตรงสูง จึงเป็นที่นิยมอย่างมากในหมู่ผู้ใช้ Excel
 
 เมื่อคุณใช้ Excel คุณอาจพบปัญหาต่อไปนี้:
 
-+ ไม่สามารถจัดการไฟล์ Excel เป้าหมายด้วยตนเองได้โดยตรง และต้องใช้โปรแกรมในการประมวลผล
-+ แทรกรูปภาพ svg จำนวนมากลงในไฟล์ Excel เดียวกัน
++ ไฟล์ Excel เป้าหมายไม่สามารถจัดการด้วยตนเองได้โดยตรง และจำเป็นต้องมีโปรแกรมในการประมวลผล
++ แทรกรูปภาพ Svg จำนวนมากลงในไฟล์ Excel เดียวกัน
 + แทรกรูปภาพ svg ลงในไฟล์ Excel ต่างๆ จำนวนมาก
 
- เพื่อแก้ปัญหาเหล่านี้ เราขอแนะนำให้คุณใช้[Aspose.Cells](https://products.aspose.com/cells/) library.It มีอินเทอร์เฟซทั่วไปมากมายสำหรับการประมวลผลไฟล์ excel และเป็นเครื่องมือที่มีประโยชน์มาก
+ เพื่อแก้ไขปัญหาเหล่านี้ เราขอแนะนำให้คุณใช้[Aspose.Cells](https://products.aspose.com/cells/)ไลบรารี่ มันมีอินเทอร์เฟซทั่วไปมากมายสำหรับการประมวลผลไฟล์ Excel และเป็นเครื่องมือที่มีประโยชน์มาก
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="วิธีแทรกรูปภาพ / ไอคอน SVG ลงในไฟล์ Excel โดยใช้ Microsoft Excel" %}}
+{{% blocks/products/pf/agp/content h2="วิธีแทรกรูปภาพ/ไอคอน SVG ลงในไฟล์ Excel โดยใช้ Microsoft Excel" %}}
 
 ![](/cells/th/net/icons/insert-icons-to-excel/sample.png)
 
-Microsoft Excel ให้สามวิธีในการแทรก svg:
+Microsoft Excel มีวิธีแทรก svg ให้เราสามวิธี:
 
-+  **แทรกรูปภาพ/ไอคอนในเครื่อง SVG**
++  **แทรกรูปภาพ/ไอคอน SVG ในเครื่อง**
 
-คุณสามารถลากและวางไฟล์ SVG ไปยังตำแหน่งเฉพาะในเอกสาร หรือคุณสามารถเลือกเส้นทาง "*แทรก -> รูปภาพ -> อุปกรณ์นี้...*" จากริบบิ้น
+คุณสามารถลากและวางไฟล์ SVG ไปยังตำแหน่งเฉพาะในเอกสารได้ หรือคุณสามารถเลือกเส้นทาง "*Insert -> Picture -> This Device...*" จาก Ribbon
 
 +  **แทรกภาพ/ไอคอนที่ตั้งไว้ล่วงหน้า SVG**
 
-Microsoft Excel ได้เตรียมภาพ svg ล่วงหน้าไว้ให้เราเลือกแล้ว คุณสามารถเปิดกล่องโต้ตอบการเลือกโดยเลือกเส้นทาง "*แทรก -> รูปภาพ -> รูปภาพสต็อก...*" จากริบบิ้น ไฟล์ svg ส่วนใหญ่อยู่ภายใต้ตัวเลือก "ไอคอน" ในภาพสต็อก
+Microsoft Excel ได้จัดเตรียมรูปภาพ svg ที่ตั้งไว้ให้เราเลือกแล้ว คุณสามารถเปิดกล่องโต้ตอบการเลือกได้โดยเลือกเส้นทาง "*แทรก -> รูปภาพ -> รูปภาพสต็อก...*" จาก Ribbon ไฟล์ svg ส่วนใหญ่อยู่ภายใต้ตัวเลือก "ไอคอน" ใน Stock Images
 
-+  **แทรกรูปภาพ/ไอคอน SVG จากเว็บ**
++  **แทรก SVG ภาพ/ไอคอน จากเว็บ**
 
-หากวิธีการข้างต้นไม่ตรงกับความต้องการของคุณ คุณยังสามารถค้นหาผลลัพธ์ที่คุณต้องการจากอินเทอร์เน็ตผ่าน Microsoft Excel คุณสามารถเปิดกล่องโต้ตอบการเลือกโดยเลือก "*แทรก -> รูปภาพ -> รูปภาพออนไลน์...* "เส้นทางจากริบบิ้น
+หากไม่มีวิธีใดข้างต้นที่สามารถตอบสนองความต้องการของคุณได้ คุณยังสามารถค้นหาผลลัพธ์ที่คุณต้องการจากอินเทอร์เน็ตผ่าน Microsoft Excel คุณสามารถเปิดกล่องโต้ตอบการเลือกได้โดยเลือก "*แทรก -> รูปภาพ -> รูปภาพออนไลน์...* " เส้นทางจากริบบิ้น
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแทรกรูปภาพ/ไอคอน SVG ลงในไฟล์ Excel โดยใช้ C#" %}}
 
- ในการแทรกรูปภาพ/ไอคอน SVG ลงในไฟล์ excel เราจะใช้
+ เราจะใช้การแทรกรูปภาพ/ไอคอน SVG ลงในไฟล์ Excel
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นการจัดการและแยกเอกสารที่มีฟีเจอร์หลากหลาย ทรงพลังและใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและแยกเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  ผู้จัดการแพ็คเกจ ค้นหา
  Aspose.Cells 
- และติดตั้ง. คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -77,13 +78,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-คุณต้องใช้ aspose.cells.dll เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
+คุณต้องมี aspose.cells.dll เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
 
 {{% /blocks/products/pf/agp/text %}}
 
-การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX พร้อมเส้นทางแบบเต็ม)
++ การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX ด้วยเส้นทางแบบเต็ม)
 + เลือกแผ่นงานผ่านดัชนี
- + ใช้[เพิ่มวิธีการ](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addicons)เพื่อแทรกไอคอนในเวิร์กชีตที่เลือก
+ + ใช้[เพิ่มวิธีการ](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addicons)เพื่อแทรกไอคอนในแผ่นงานที่เลือก
 + บันทึกสมุดงานในรูปแบบ XLSX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for .NET รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -117,7 +118,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
+Aspose.Cells API สามารถใช้สร้าง แก้ไข แปลง และเรนเดอร์รูปแบบ Excel Microsoft เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลน และไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ XML เป็น MHT - ตัวแปลง XML เป็น MHT ออนไลน์
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลงไฟล์ XML เป็น MHT C++ รูปแบบ XML เป็น MHT บันทึก XML เป็น MHT C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to MHT saveformat., Free Online XML to MHT C++., C++ Convert XML to MHT]
+title: C++ XML เป็น MHT - ตัวแปลง XML เป็น MHT
+description: Aspose เอ็กเซล. แปลง XML เป็น MHT อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ XML เป็น MHT C++ บันทึก XML เป็น MHT บันทึก XML เป็น MHT โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XML to MHT in C++., Save XML to MHT using C++., C++ XML to MHT saveformat., XML to MHT Converter., C++ Save XML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XML เป็น MHT ใน C++" h2="การแปลง XML เป็น MHT ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Excel, OpenOffice หรือ Adobe Acrobat Microsoft" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to MHT s
 
 {{% blocks/products/pf/agp/content h2="แปลง XML เป็น MHT โดยใช้ C++" %}}
 
- ฉันจะแปลง XML เป็น MHT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XML เป็น MHT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง XML เป็น MHT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XML เป็น MHT โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก XML เป็น MHT ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก XML เป็น MHT ใน C++" %}}
 
 ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง XML เป็น MHT ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XML เป็น MHT อัปโหลดไฟล์ XML ของคุณ จากนั้นบันทึกเป็นไฟล์ MHT สำหรับทั้งการอ่าน XML และการเขียน MHT คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ MHT เอาต์พุตจะเหมือนกับเอกสาร XML ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XML เป็น MHT อัปโหลดไฟล์ XML ของคุณ จากนั้นบันทึกเป็นไฟล์ MHT สำหรับทั้งการอ่าน XML และการเขียน MHT คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ MHT ที่ส่งออกจะเหมือนกับเอกสาร XML ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง XML เป็น MHT ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XML เป็น MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XML เป็น MHT ผ่าน C++" %}}
 
@@ -47,11 +47,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ XML โดยใช้ Factory::CreateIWorkbook
-1. แปลง XML เป็น MHT โดยเรียกเมธอด Save()
-1.  รับผลการแปลง XML เป็น MHT
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1. โหลดไฟล์ XML โดยใช้สมุดงาน
+1.  แปลง XML เป็น MHT โดยการเรียกเมธอด Save()
+1.  รับผลลัพธ์การแปลง XML เป็น MHT
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,35 +84,34 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML ย่อมาจาก Extensible Markup Language ซึ่งคล้ายกับ HTML แต่แตกต่างกันที่การใช้แท็กสำหรับกำหนดวัตถุ แนวคิดทั้งหมดที่อยู่เบื้องหลังการสร้างรูปแบบไฟล์ XML คือการจัดเก็บและส่งข้อมูลโดยไม่ต้องพึ่งพาเครื่องมือซอฟต์แวร์หรือฮาร์ดแวร์ ความนิยมของมันเกิดจากการที่มันสามารถอ่านได้ทั้งมนุษย์และเครื่อง สิ่งนี้ทำให้สามารถสร้างโปรโตคอลข้อมูลทั่วไปในรูปแบบของอ็อบเจกต์ที่จะจัดเก็บและแชร์ผ่านเครือข่าย เช่น เวิลด์ไวด์เว็บ (WWW) "X" ใน XML ใช้สำหรับขยายได้ ซึ่งหมายความว่าภาษาสามารถขยายเป็นสัญลักษณ์จำนวนเท่าใดก็ได้ตามความต้องการของผู้ใช้ สำหรับคุณสมบัติเหล่านี้รูปแบบไฟล์มาตรฐานจำนวนมากใช้ประโยชน์จากมันเช่น Microsoft Open XML, LibreOffice OpenDocument, XHTML และ SVG{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}ไฟล์ที่มีนามสกุล .mht เป็นรูปแบบไฟล์เก็บถาวรที่เปิดใช้งาน MIME ซึ่งมีข้อมูลประเภทต่างๆ อยู่ในไฟล์เดียว สามารถจัดเก็บข้อมูลเช่น ข้อความ รูปภาพ การจัดรูปแบบหน้าในรูปแบบของไฟล์ CSS, JavaScript และทรัพยากรอื่นๆ เป็นทรัพยากรแบบฝังในนั้น ไฟล์ MHT ซึ่งมีข้อความประเภท MIME/rfc822 สรุปเนื้อหาทั้งหมดของไฟล์ HTML เป็นไฟล์เก็บถาวรไฟล์เดียวสำหรับการจัดเก็บในการเก็บถาวรบนอุปกรณ์จัดเก็บข้อมูล แอปพลิเคชันซอฟต์แวร์ เช่น Microsoft Word ให้คุณแปลงเอกสาร WORD เป็น MHT โดยส่งออกเป็นไฟล์ MHT ไฟล์ MHT สามารถเปิดได้โดยใช้เบราว์เซอร์ยอดนิยม เช่น Microsoft Internet Explore และ Google Chrome{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML ย่อมาจาก Extensible Markup Language ที่คล้ายกับ HTML แต่ต่างกันในการใช้แท็กเพื่อกำหนดออบเจ็กต์ แนวคิดทั้งหมดที่อยู่เบื้องหลังการสร้างรูปแบบไฟล์ XML คือการจัดเก็บและขนส่งข้อมูลโดยไม่ต้องพึ่งซอฟต์แวร์หรือเครื่องมือฮาร์ดแวร์ ความนิยมนี้เกิดจากการที่ทั้งมนุษย์และเครื่องสามารถอ่านได้ ช่วยให้สามารถสร้างโปรโตคอลข้อมูลทั่วไปในรูปแบบของออบเจ็กต์ที่จะจัดเก็บและแบ่งปันผ่านเครือข่าย เช่น เวิลด์ไวด์เว็บ (WWW) "X" ใน XML มีไว้สำหรับการขยาย ซึ่งหมายความว่าภาษาสามารถขยายไปยังสัญลักษณ์จำนวนเท่าใดก็ได้ตามความต้องการของผู้ใช้ สำหรับคุณสมบัติเหล่านี้รูปแบบไฟล์มาตรฐานหลายรูปแบบได้นำไปใช้เช่น Microsoft Open XML, LibreOffice OpenDocument, XHTML และ SVG{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}ไฟล์ที่มีนามสกุล .mht คือรูปแบบไฟล์การเก็บถาวรที่เปิดใช้งาน MIME ซึ่งมีข้อมูลประเภทต่างๆ อยู่ในไฟล์เดียว มันสามารถจัดเก็บข้อมูลเช่นข้อความ รูปภาพ การจัดรูปแบบหน้าในรูปแบบของไฟล์ CSS, JavaScript และทรัพยากรอื่น ๆ เป็นทรัพยากรที่ฝังอยู่ในนั้น ไฟล์ MHT ซึ่งมีข้อความประเภท MIME / rfc822 ห่อหุ้มเนื้อหาทั้งหมดของไฟล์ HTML เป็นไฟล์เก็บถาวรไฟล์เดียวสำหรับจัดเก็บในการเก็บถาวรบนอุปกรณ์จัดเก็บข้อมูล แอปพลิเคชันซอฟต์แวร์ เช่น Microsoft Word ช่วยให้คุณสามารถแปลงเอกสาร WORD เป็น MHT โดยส่งออกเป็นไฟล์ MHT ไฟล์ MHT สามารถเปิดได้โดยใช้เบราว์เซอร์ยอดนิยมเช่น Microsoft Internet Explore และ Google Chrome{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XML เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XML เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-bmp/" name="XML ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-bmp/" name="XML ถึง BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-emf/" name="XML ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-gif/" name="XML ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-html/" name="XML ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-md/" name="XML เป็น MD" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-mhtml/" name="XML ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-mhtml/" name="XML ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-ods/" name="XML ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-pdf/" name="XML ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-pdf/" name="XML ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-png/" name="XML ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-svg/" name="XML ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tiff/" name="XML ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-tsv/" name="XML ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-txt/" name="XML ถึง TXT" description="เอกสารข้อความ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xls/" name="XML ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xlsb/" name="XML ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xlsb/" name="XML ถึง XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xlsm/" name="XML ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xlsx/" name="XML ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xlt/" name="XML ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xltm/" name="XML ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xltm/" name="XML ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xltx/" name="XML ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xps/" name="XML ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-xps/" name="XML ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-json/" name="XML ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xml-to-jpeg/" name="XML ถึง JPEG" description="JPEG อิมเมจ" >}}
 

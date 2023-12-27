@@ -1,10 +1,10 @@
 ---
-title:  RDL Raporlarını SQL Server'da Excel XLS XLSX ve SpreadsheetML'e Aktarın
+title:  RDL Raporlarını SQL Server'da Excel XLS XLSX ve SpreadsheetML'e aktarın
 weight: 3460
-description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS ve TXT biçimlerini dışa aktarın
+description: SQL Server Reporting Services oluşturma uzantısı - Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS ve TXT formatlarını dışa aktarın
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Raporları Excel Dosyaları Olarak Sunmak için Raporlama Hizmetleri Uzantısı" h2="RDL ve RDLC raporlarını kolaylıkla Excel elektronik tablo dosyası biçimlerine aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Raporları Excel Dosyaları Olarak Sunmak için Raporlama Hizmetleri Uzantısı" h2="RDL ve RDLC raporlarını Excel elektronik tablo dosya formatlarına kolaylıkla aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -12,7 +12,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Reporting Services, Microsoft SQL Server Raporlama Hizmetleri ve Microsoft Rapor Görüntüleyici içinden Excel raporları göndermenizi sağlar. Excel tabanlı raporlar için yerel ihracatçının aksine - Aspose.Cells for Reporting Services, RDL &amp; RDLC, bir dizi Excel elektronik tablo dosya biçimine rapor verir.
+ Aspose.Cells for Reporting Services, Microsoft SQL Server Raporlama Hizmetleri ve Microsoft Rapor Görüntüleyici içinden Excel raporları sunmanıza olanak tanır. Excel tabanlı raporlar için yerel ihracatçının aksine - Aspose.Cells for Reporting Services, RDL &amp; RDLC, çeşitli Excel elektronik tablo dosya formatlarına rapor verir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,7 +40,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
  Metin kutuları
     </li>
     <li>
-Görüntüler
+ Görüntüler
     </li>
     <li>
  Alt raporlar
@@ -52,19 +52,19 @@ Görüntüler
  Listeler
     </li>
     <li>
- Tablolar
+Tablolar
     </li>
     <li>
  Ölçer
     </li>
     <li>
- matrisler
+ Matrisler
     </li>
     <li>
  Dikdörtgenler/Çizgiler
     </li>
     <li>
- stiller
+ Stiller
     </li>
    </ul>
   </div>
@@ -98,7 +98,7 @@ Görüntüler
  Paylaşılan Veri Kaynağı
     </li>
     <li>
- şifreleme
+ Şifreleme
     </li>
    </ul>
    <header>
@@ -111,10 +111,10 @@ Görüntüler
  Pivot Tablolar
     </li>
     <li>
- Etkileşimli Grafikler
+ İnteraktif Grafikler
     </li>
     <li>
- formüller
+ Formüller
     </li>
    </ul>
   </div>
@@ -193,7 +193,7 @@ Görüntüler
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=" Aspose.Cells for Reporting Services yaygın olarak kullanılan hesap tablosunu destekler[dosya formatları](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for Reporting Services yaygın olarak kullanılan elektronik tabloyu destekler[dosya formatları](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -216,12 +216,12 @@ Görüntüler
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıktı
+ Yalnızca Çıkış
    </header>
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSM, XLSB, XML
     </li>
@@ -291,14 +291,14 @@ Görüntüler
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- MarkDown biçim dosyasını dışa aktar
+ MarkDown format dosyasını dışa aktar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Destek Tablix Grup Sayfa Sonu
+ Tablix Grup Sayfa Sonunu Destekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,7 +312,7 @@ Görüntüler
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Pivot Tablo alanlarını daraltın veya genişletin
+ Pivot Tablo alanlarını daraltın veya genişletin
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +326,7 @@ Pivot Tablo alanlarını daraltın veya genişletin
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- MS Excel yazdırma formatını çağırın
+ MS Excel yazdırma formatını çağır
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Pivot Tablo alanlarını daraltın veya genişletin
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel Sayfalarında Sayfa marjı ayarlarını yapın
+ Excel E-Tablolarında Sayfa kenar boşluğu ayarlarını ayarlama
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,18 +348,18 @@ Pivot Tablo alanlarını daraltın veya genişletin
  Aspose.Cells' Rapor Tasarımcısı Aracı
     </h2>
     <p>
- Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasarım aracı olan Aspose.Cells.Report.Designer'ı kullanırken doğrudan Microsoft Excel'den raporlar tasarlayabilir ve teslim edebilir. Bu özellik, Pivot Tablolar, etkileşimli Grafikler, formüller vb. dahil olmak üzere Microsoft Excel uygulamasında bulunan tüm güçlü işlevlerden ve özelliklerden yararlanmanıza olanak tanır.
+Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasarım aracı olan Aspose.Cells.Report.Designer'ı kullanarak doğrudan Microsoft Excel'den raporlar tasarlayabilir ve iletebilir. Bu özellik, Pivot Tablolar, etkileşimli Grafikler, formüller vb. dahil olmak üzere Microsoft Excel uygulamasında mevcut olan tüm güçlü işlevsellik ve özelliklerden yararlanmanıza olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Raporları Elektronik Tablo Formatlarına Aktarın
+ Raporları Elektronik Tablo Formatlarına Aktarma
     </h2>
     <p>
-Aspose.Cells for Reporting Services, XLS, XLSX, XLSM, SpreadsheetML, CSV gibi "yerel" Microsoft Excel biçimleri dahil olmak üzere tüm popüler Microsoft Excel (97 - 2016) dosya biçimlerini destekler, Sekmeyle Ayrılmış ve HTML. Aspose.Cells for Reporting Services ayrıca ODS (OpenDocument Elektronik Tablosu) dosya biçimini destekler.
+ Aspose.Cells for Reporting Services, "yerel" dahil olmak üzere tüm popüler Microsoft Excel (97 - 2016) dosya formatlarını destekler taklit ve HTML. Aspose.Cells for Reporting Services ayrıca ODS (OpenDocument Elektronik Tablosu) dosya formatını da destekler.
     </p>
     <p>
- Üstelik Aspose.Cells for Reporting Services Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın, yani; Son kullanıcı, ortaya çıkan elektronik tabloları gerekirse Microsoft Excel uygulamasında manuel olarak düzenleyebilir.
+ Üstelik Aspose.Cells for Reporting Services, Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarır; Son kullanıcı, gerektiğinde ortaya çıkan tabloları Microsoft Excel uygulamasında manuel olarak düzenleyebilir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services, XLS, XLSX, XLSM, SpreadsheetML, CSV gibi "y
  Yüksek Doğruluk - Rapor Tasarımıyla Aynı
     </h2>
     <p>
- Aspose.Cells for Reporting Services raporları Microsoft Excel elektronik tablolarına, sonucun yerleşik Raporlama Hizmetleri rapor tasarımcısı tarafından oluşturulan orijinalle aynı görünecek şekilde dışa aktarın. Tüm rapor özellikleri, Microsoft Excel elektronik tablolarının orijinaline mümkün olduğunca benzer görünmesini sağlamak için en yüksek hassasiyet derecesine dönüştürülür.
+Aspose.Cells for Reporting Services raporları Microsoft Excel elektronik tablolarına, sonuç yerleşik Raporlama Servisleri rapor tasarımcısı tarafından oluşturulan orijinal sonuçla aynı görünecek şekilde aktarın. Microsoft Excel elektronik tablolarının mümkün olduğunca orijinaline benzer görünmesini sağlamak için tüm rapor özellikleri en yüksek hassasiyet derecesine dönüştürülür.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services, XLS, XLSX, XLSM, SpreadsheetML, CSV gibi "y
  Çeşitli Veri İşleme Seçenekleri
     </h2>
     <p>
-Aspose.Cells for Reporting Services gruplandırılmış satırlar ve altbilgiler içeren tabloları desteklerken, gruplama diğer rapor öğeleri gibi tasarım sırasında ayarlanabilir. Aspose.Cells for Reporting Services ayrıca rapor veri kaynakları olarak parametreleri ve global değişkenleri destekler. Geliştiriciler ayrıca veri kaynakları ve sorgular oluşturmak için Microsoft Sorgu'dan yararlanabilir; bu yaygın olarak kullanılan bir araçtır ve çoğu kullanıcı için tanıdıktır.
+ Aspose.Cells for Reporting Services gruplandırılmış satırlar ve alt bilgiler içeren tabloları destekler; gruplandırma ise diğer rapor öğeleri gibi tasarım zamanında ayarlanabilir. Aspose.Cells for Reporting Services ayrıca rapor veri kaynakları olarak parametreleri ve genel değişkenleri de destekler. Geliştiriciler ayrıca veri kaynakları ve sorgular oluşturmak için Microsoft Sorgusunu kullanabilir; Bu yaygın olarak kullanılan bir araçtır ve çoğu kullanıcının aşina olduğu bir araçtır.
     </p>
     <p>
- Buna ek olarak, Aspose.Cells for Reporting Services, hem raporlara özel veri kaynaklarını hem de önceden Rapor Sunucusunda oluşturulan paylaşılan veri kaynaklarını destekler. Geliştiriciler, tasarım zamanında rapora özgü veri kaynaklarını kullanabilir ve raporları yayınlarken paylaşılan veri kaynaklarını rapor veri kaynakları olarak belirtebilir.
+Buna ek olarak Aspose.Cells for Reporting Services hem raporlara özel veri kaynaklarını hem de Report Server üzerinde önceden oluşturulmuş paylaşılan veri kaynaklarını desteklemektedir. Geliştiriciler, rapora özgü veri kaynaklarını tasarım sırasında kullanabilir ve raporları yayınlarken paylaşılan veri kaynaklarını rapor veri kaynakları olarak belirtebilir.
     </p>
    </div>
    <!-- 
@@ -421,10 +421,10 @@ Aspose.Cells for Reporting Services gruplandırılmış satırlar ve altbilgiler
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Ofis Otomasyonu – Gerekli değil
+ Microsoft Ofis Otomasyonu – Gerekmiyor
     </h2>
     <p>
- Aspose.Cells for Reporting Services, Excel belge biçimleriyle çalışmak için asla Microsoft Office veya Microsoft Excel'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
+ Aspose.Cells for Reporting Services, Excel belge formatlarıyla çalışmak için makineye hiçbir zaman Microsoft Office veya Microsoft Excel'in yüklenmesini gerektirmeyen yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, stabilite, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
     </p>
    </div>
   </div>
@@ -437,10 +437,10 @@ Aspose.Cells for Reporting Services gruplandırılmış satırlar ve altbilgiler
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/reportingservices/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

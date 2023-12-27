@@ -1,7 +1,7 @@
 ---
-title: C++ SXC เป็น PRN - ออนไลน์ SXC เป็น PRN Converter
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลง SXC เป็น PRN saveformat C++ SXC เป็นรูปแบบ PRN บันทึก SXC ไปที่ PRN C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to PRN saveformat., Free Online SXC to PRN C++., C++ Convert SXC to PRN]
+title: C++ SXC เป็น PRN - SXC เป็น PRN Converter
+description: Aspose เอ็กเซล. แปลง SXC เป็น PRN อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ SXC เป็น PRN C++ บันทึก SXC ไปที่ PRN บันทึก SXC เป็น PRN โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to PRN in C++., Save SXC to PRN using C++., C++ SXC to PRN saveformat., SXC to PRN Converter., C++ Save SXC as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง SXC เป็น PRN ใน C++" h2="การแปลง SXC เป็น PRN ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Microsoft Excel, OpenOffice หรือ Adobe Acrobat" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to PRN s
 
 {{% blocks/products/pf/agp/content h2="แปลง SXC เป็น PRN โดยใช้ C++" %}}
 
- ฉันจะแปลง SXC เป็น PRN ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง SXC เป็น PRN ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง SXC เป็น PRN ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง SXC เป็น PRN โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก SXC เป็น PRN ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก SXC ไปที่ PRN ใน C++" %}}
 
 ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง SXC เป็น PRN ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง SXC เป็น PRN อัปโหลดไฟล์ SXC ของคุณ จากนั้นบันทึกเป็นไฟล์ PRN สำหรับทั้งการอ่าน SXC และการเขียน PRN คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ PRN เอาต์พุตจะเหมือนกับเอกสาร SXC ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง SXC เป็น PRN อัปโหลดไฟล์ SXC ของคุณ จากนั้นบันทึกเป็นไฟล์ PRN สำหรับทั้ง SXC การอ่านและการเขียน PRN คุณสามารถใช้ชื่อไฟล์ที่มีคุณสมบัติครบถ้วนได้ เนื้อหาและการจัดรูปแบบ PRN เอาต์พุตจะเหมือนกับเอกสาร SXC ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง SXC เป็น PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง SXC เป็น PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง SXC เป็น PRN ผ่าน C++" %}}
 
@@ -47,11 +47,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ SXC โดยใช้ Factory::CreateIWorkbook
-1.  แปลง SXC เป็น PRN โดยเรียกเมธอด Save()
-1.  รับผลลัพธ์การแปลงของ SXC เป็น PRN
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1.  โหลดไฟล์ SXC โดยใช้สมุดงาน
+1.  แปลง SXC เป็น PRN โดยการเรียกเมธอด Save()
+1.  รับผลลัพธ์การแปลงจาก SXC เป็น PRN
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,35 +84,34 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}รูปแบบไฟล์ SXC(Sun XML Calc) เป็นของชุดสำนักงานที่ชื่อว่า OpenOffice.org โดยทั่วไปรูปแบบนี้เกี่ยวข้องกับความต้องการสเปรดชีตของผู้ใช้เนื่องจากเป็นรูปแบบไฟล์สเปรดชีตที่ใช้ XML รูปแบบ SXC รองรับสูตร ฟังก์ชัน มาโคร และแผนภูมิพร้อมกับ DataPilot ซึ่งเป็นคุณสมบัติที่น่าทึ่งเพราะจะปรับให้เป็นรายบุคคลโดยอัตโนมัติและให้ข้อมูลสรุปที่นำเข้าดิบ ไฟล์ที่สร้างด้วยซอฟต์แวร์นี้จะถูกบันทึกด้วยนามสกุล .sxc{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ไฟล์ PRN คือไฟล์ที่สร้างขึ้นโดยใช้กล่องกาเครื่องหมาย พิมพ์ไปยังไฟล์ ที่ปรากฏภายในกล่องโต้ตอบการพิมพ์บางกล่องใน Windows ประกอบด้วยชุดคำแนะนำเฉพาะอุปกรณ์ที่เครื่องพิมพ์ เครื่องโทรสาร หรืออุปกรณ์อื่นๆ ใช้ในการพิมพ์เอกสาร ไฟล์ PRN อาจมีข้อความหรือเนื้อหาไบนารี ขึ้นอยู่กับอุปกรณ์ที่สร้างไฟล์{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}รูปแบบไฟล์ SXC(Sun XML Calc) เป็นของชุดโปรแกรมสำนักงานชื่อ OpenOffice.org โดยทั่วไปรูปแบบนี้จะเกี่ยวข้องกับความต้องการของสเปรดชีตของผู้ใช้ เนื่องจากเป็นรูปแบบไฟล์สเปรดชีตที่ใช้ XML รูปแบบ SXC รองรับสูตร ฟังก์ชัน มาโคร และแผนภูมิ พร้อมด้วย DataPilot ซึ่งเป็นคุณสมบัติที่น่าทึ่งเพราะจะแยกข้อมูลโดยอัตโนมัติและให้ข้อมูลสรุปของข้อมูลดิบที่นำเข้า ไฟล์ที่สร้างด้วยซอฟต์แวร์นี้จะถูกบันทึกเป็นนามสกุล .sxc{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ไฟล์ PRN เป็นไฟล์ที่สร้างขึ้นโดยใช้ช่องทำเครื่องหมายพิมพ์ไปยังไฟล์ที่ปรากฏภายในกล่องโต้ตอบการพิมพ์บางกล่องที่ Windows ประกอบด้วยชุดคำแนะนำเฉพาะอุปกรณ์ที่เครื่องพิมพ์ เครื่องแฟกซ์ หรืออุปกรณ์อื่นใช้ในการพิมพ์เอกสาร ไฟล์ PRN อาจมีข้อความหรือเนื้อหาไบนารี ขึ้นอยู่กับอุปกรณ์ที่สร้างไฟล์{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง SXC เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง SXC เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-bmp/" name="SXC ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-bmp/" name="SXC ถึง BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-emf/" name="SXC ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-gif/" name="SXC ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-html/" name="SXC ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-md/" name="SXC ถึง นพ" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-mhtml/" name="SXC ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-mhtml/" name="SXC ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-ods/" name="SXC ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-png/" name="SXC ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-svg/" name="SXC ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tiff/" name="SXC ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tsv/" name="SXC ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-txt/" name="SXC ถึง TXT" description="เอกสารข้อความ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xls/" name="SXC ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsb/" name="SXC ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsb/" name="SXC ถึง XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsm/" name="SXC ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsx/" name="SXC ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlt/" name="SXC ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltm/" name="SXC ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltm/" name="SXC ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltx/" name="SXC ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xml/" name="SXC ถึง XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xps/" name="SXC ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xps/" name="SXC ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-json/" name="SXC ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-jpeg/" name="SXC ถึง JPEG" description="JPEG อิมเมจ" >}}
 

@@ -1,8 +1,8 @@
 ---
-title: C++ ซ่อมแซมไฟล์ xlsm - ซ่อมแซมไฟล์ xlsm ออนไลน์ฟรี
+title: C++ ซ่อมแซม xlsm - กู้คืนและแก้ไขไฟล์ xlsm ที่เสียหาย
 url: /th/cpp/recovery/repair-xlsm/ 
-description: Aspose เก่ง. C++ Aspose.Cells. C++ ซ่อมไฟล์ xlsm. เครื่องมือซ่อมแซม xlsm ออนไลน์ฟรี ซ่อมแซมไฟล์ xlsm ที่เสียหาย กู้คืนไฟล์ xlsm ที่เสียหายภายในแอปพลิเคชัน C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsm file., Free Online Repair a corrupted xlsm file., C++ Recover xlsm file.]
+description: C++ Aspose.Cells.ซ่อมxlsm. แก้ไขไฟล์ xlsm เครื่องมือการกู้คืน xlsm การทุจริต xlsm กู้คืนข้อมูล xlsm การกู้คืนไฟล์ xlsm กู้คืนไฟล์ xlsm ที่เสียหาย
+keywords: [C++ Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ซ่อมไฟล์ XLSM ใน C++" h2="สร้างแอปพลิเคชัน C++ ของคุณเองเพื่อซ่อมแซมไฟล์ xlsm โดยใช้ C++" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsm 
 
 {{% blocks/products/pf/agp/content h2="ซ่อมแซมไฟล์ XLSM โดยใช้ C++" %}}
 
- ฉันจะซ่อมแซมไฟล์ xlsm ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถซ่อมแซมไฟล์ XLSM โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะซ่อมแซมไฟล์ xlsm ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถซ่อมแซมไฟล์ XLSM โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -36,31 +36,31 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 + กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
-+ โหลดไฟล์ XLSM โดยสร้างอินสแตนซ์ของสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างอิงถึงรหัสด้านบน
++ โหลดไฟล์ XLSM โดยการสร้างอินสแตนซ์ของ Workbook โดยใช้คลาสการสืบทอดด้านบนอ้างถึงโค้ดด้านบน
 + บันทึกสมุดงาน ไฟล์ xlsm ที่เสียหายจะได้รับการซ่อมแซม
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="แอพฟรีและโค้ดตัวอย่างเพื่อซ่อมแซมไฟล์ XLSM ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="ตัวอย่างโค้ดการซ่อมแซมไฟล์ XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="cpp" %}}    
     
-{{% blocks/products/pf/agp/content h2="ห้องสมุด C++ เพื่อซ่อมแซมไฟล์ XLSM" %}}
+{{% blocks/products/pf/agp/content h2="C++ ไลบรารี่ เพื่อซ่อมแซมไฟล์ XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ความต้องการของระบบ" %}}
 
- Aspose.Cells for C++ ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for C++ รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
  
 - Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 - เพิ่มการอ้างอิงถึง Aspose.Cells for C++ DLL ในโครงการของคุณ
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-ไฟล์ที่มีนามสกุล XLSM เป็นไฟล์สเปรดชีตประเภทหนึ่งที่รองรับมาโคร จากมุมมองของแอปพลิเคชัน มาโครคือชุดคำสั่งที่ใช้สำหรับกระบวนการอัตโนมัติ แมโครใช้เพื่อบันทึกขั้นตอนที่ดำเนินการซ้ำๆ และอำนวยความสะดวกในการดำเนินการโดยการเรียกใช้แมโครอีกครั้ง มาโครได้รับการตั้งโปรแกรมด้วย Visual Basic for Applications (VBA) ของ Microsoft จากภายในสมุดงาน Excel โดยใช้ Visual Basic Editor และสามารถเรียกใช้/ดีบักได้โดยตรงจากที่นั่น
+ไฟล์ที่มีนามสกุล XLSM เป็นไฟล์สเปรดชีตประเภทหนึ่งที่รองรับมาโคร จากมุมมองของแอปพลิเคชัน แมโครคือชุดคำสั่งที่ใช้สำหรับกระบวนการอัตโนมัติ แมโครใช้เพื่อบันทึกขั้นตอนที่ดำเนินการซ้ำๆ และอำนวยความสะดวกในการดำเนินการโดยการเรียกใช้แมโครอีกครั้ง แมโครได้รับการตั้งโปรแกรมด้วย Visual Basic for Applications (VBA) ของ Microsoft จากภายในสมุดงาน Excel โดยใช้ Visual Basic Editor และสามารถเรียกใช้/ดีบักได้โดยตรงจากที่นั่น
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -81,13 +81,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่นๆ ที่รองรับ" subTitle="การใช้ C++ ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
+{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่น ๆ ที่รองรับ" subTitle="การใช้ C++ ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="ซ่อม ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="ซ่อม XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="ซ่อม XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="ซ่อม XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="ซ่อม XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-ods/" name="ซ่อมODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xls/" name="ซ่อมXLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsb/" name="ซ่อมXLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsm/" name="ซ่อมXLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/recovery/repair-xlsx/" name="ซ่อมXLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

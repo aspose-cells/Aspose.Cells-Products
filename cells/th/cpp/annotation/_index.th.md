@@ -1,19 +1,20 @@
 ---
-title: คำอธิบายประกอบไฟล์ Excel ผ่าน C++
+title: เพิ่มหรือลบคำอธิบายประกอบไฟล์ Excel ผ่านทาง C++
 description: เพิ่มหรือลบความคิดเห็นคำอธิบายประกอบข้อมูลของสเปรดชีต Excel และ OpenOffice ด้วยไลบรารี C++
+keywords: [C++ Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="จัดการ Microsoft<sup>&reg;</sup> คำอธิบายประกอบไฟล์ Excel ผ่าน C++" h2="เพิ่มหรือลบบันทึกง่ายๆ สำหรับคำอธิบายประกอบหรือความคิดเห็นภายในแอปพลิเคชันที่ใช้ C++" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="จัดการ Microsoft<sup>&reg;</sup> คำอธิบายประกอบไฟล์ Excel ผ่านทาง C++" h2="เพิ่มหรือลบบันทึกย่อแบบง่ายสำหรับคำอธิบายประกอบหรือความคิดเห็นภายในแอปพลิเคชันที่ใช้ C++" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[C++ เอ็กเซล API](/cells/th/cpp/) ให้การสนับสนุนในการจัดการคำอธิบายประกอบที่ระดับเซลล์โดยการเพิ่ม เข้าถึง และลบความคิดเห็น APIจัดให้[ไอคอมเมนท์](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment) และ[ICommentCollection](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection) เช่นเดียวกับ[GetIComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ae7cce5f85b7b25a1e5c58df1b613ca5a)สำหรับการจัดการความคิดเห็นในทุกด้าน รูปแบบ Excel ที่รองรับ ได้แก่ ODS, XLS, XLSX, XLSB และ XLSM
+[C++ เอกเซล API](/cells/th/cpp/) ให้การสนับสนุนในการจัดการคำอธิบายประกอบในระดับเซลล์โดยการเพิ่ม การเข้าถึง และการลบความคิดเห็น APIจัดให้[ความคิดเห็น](https://reference.aspose.com/cells/cpp/aspose.cells/comment/) และ[ความคิดเห็นคอลเลกชัน](https://reference.aspose.com/cells/cpp/aspose.cells/commentcollection/) เช่นเดียวกับ[GetComments()](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/getcomments/)เพื่อรับฟังความคิดเห็นในทุกด้าน รูปแบบ Excel ที่รองรับ ได้แก่ ODS, XLS, XLSX, XLSB และ XLSM
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="คำอธิบายประกอบข้อมูลไฟล์ Excel" %}}
- การจัดการความคิดเห็นในแผ่นงาน - ไม่จำกัดจำนวนความคิดเห็นในแผ่นงานใน MS Excel ใส่ได้มากเท่าที่ต้องการ ขั้นตอนการแทรกความคิดเห็นคือสร้าง[ไอเวิร์กบุ๊ก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) วัตถุคลาสเพื่อโหลดไฟล์ที่มีอยู่และเลือกแผ่นงานที่คุณต้องการเพิ่มความคิดเห็น รับความคิดเห็นทั้งหมดโดยใช้ getComments() เพิ่มความคิดเห็นโดยใช้[เพิ่ม](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection#a3f014415e292fa15c6220e9727dad384) (intrusive_ptr< Aspose::Cells::Systems::String > ชื่อเซลล์) เมธอด รับดัชนีเซลล์และใช้[ตั้งหมายเหตุ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment#a791b9d4e9bf3975709a7f93b5db09580) สำหรับการแทรกความคิดเห็น นอกจากนี้ API สามารถลบความคิดเห็นทั้งหมดได้ มีไม่กี่วิธี[ClearComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ad4e0ea291ae60fc1b5d815e520edc6c3) เพื่อล้างความคิดเห็นทั้งหมดในสเปรดชีตของนักออกแบบ นอกจากนี้,[ลบที่](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#addabcc7d7d76874694018fb3ba37b72c)(intrusive_ptr< Aspose::Cells::Systems::String > ชื่อ) วิธีลบองค์ประกอบที่ดัชนีที่ระบุหรือด้วยชื่อที่ระบุ
+ การจัดการความคิดเห็นในแผ่นงาน - ไม่จำกัดจำนวนความคิดเห็นในแผ่นงานใน MS Excel สามารถแทรกได้มากเท่าที่ต้องการ ขั้นตอนการใส่ความคิดเห็นคือการสร้าง[สมุดงาน](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) วัตถุคลาสเพื่อโหลดไฟล์ที่มีอยู่และเลือกแผ่นงานที่คุณต้องการเพิ่มความคิดเห็น รับความคิดเห็นทั้งหมดโดยใช้ getComments() เพิ่มความคิดเห็นโดยใช้[เพิ่ม(const char16_t* ชื่อเซลล์)](https://reference.aspose.com/cells/cpp/aspose.cells/commentcollection/add/) วิธี. รับดัชนีเซลล์และใช้งาน[เซ็ตโน้ต](https://reference.aspose.com/cells/cpp/aspose.cells/comment/setnote/) สำหรับการใส่ความคิดเห็น นอกจากนี้ API ยังสามารถลบความคิดเห็นทั้งหมดได้ มีวิธีการไม่กี่วิธี[ClearComments()](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/clearcomments/) เพื่อล้างความคิดเห็นทั้งหมดในสเปรดชีตของนักออกแบบ นอกจากนี้,***ลบที่*** วิธีการลบองค์ประกอบที่ดัชนีที่ระบุหรือด้วยชื่อที่ระบุ
 
-{{% blocks/products/pf/feature-page-code h3="C++ รหัสเพื่อเพิ่มความคิดเห็นภายในไฟล์ Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ โค้ดสำหรับเพิ่มความคิดเห็นภายในไฟล์ Excel" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-excel.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-excel.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 

@@ -1,10 +1,10 @@
 ---
 title:  .NET Java Python C++ PHP ve Android Excel Elektronik Tablo Ayrıştırma API'leri
 weight: 10
-description: .NET Java C++ Android ve SharePoint uygulamalarında Microsoft Excel dosyalarını okumak ve işlemek için kitaplıklar. Çalışma Sayfalarını SSRS ve JasperReports'ta Dışa Aktarma
+description: Okunacak kitaplıklar, Microsoft Excel dosyalarını .NET Java C++ Android ve SharePoint uygulamalarında yazar ve yönetir. Çalışma Sayfalarını SSRS ve JasperReports'ta Dışa Aktarma
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Birden Çok Platformda İşleyin" h2="Excel dosyalarını oluşturmak, düzenlemek, dönüştürmek ve işlemek için yerel API\'ler. Elektronik tabloları herhangi bir platformda birden çok biçime aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Çoklu Platformlarda İşleyin" h2="Excel dosyalarını oluşturmak, düzenlemek, dönüştürmek ve işlemek için yerel API\'ler. Elektronik tabloları herhangi bir platformda birden fazla formatta dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Yüksek Kod API\'leri Dahildir" >}}
@@ -14,27 +14,27 @@ description: .NET Java C++ Android ve SharePoint uygulamalarında Microsoft Exce
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Java SE veya EE'ye dayalı masaüstü, web veya her türlü uygulama için yerel Java API'leri.
+Masaüstü, web veya Java SE veya EE'yi temel alan her türlü uygulama için yerel Java API'leri.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-C++ uygulamalarından Excel elektronik tablo biçimleri oluşturun, okuyun, düzenleyin, dönüştürün veya işleyin.
+C++ uygulama içinden Excel elektronik tablo formatlarını oluşturun, okuyun, düzenleyin, dönüştürün veya işleyin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
-Android mobil uygulamalarınıza Excel elektronik tablo işleme yetenekleri ekleyin.
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
+Android mobil uygulamalarınıza Excel elektronik tablo işleme yeteneklerini ekleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Paylaşım Noktası" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
-Excel elektronik tablolarını SharePoint Services veya SharePoint Server'da dönüştürün ve birleştirin.
+SharePoint Services veya SharePoint Server'da Excel elektronik tablolarını dönüştürün ve birleştirin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Raporlama Hizmetleri" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
-RDL ve RDLC raporlarını SQL Server Raporlama Hizmetlerinden Excel dosya biçimlerine aktarın.
+RDL ve RDLC raporlarını SQL Server Raporlama Servislerinden Excel dosya formatlarına aktarın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Jasper Raporları" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
-Raporları JasperReports veya JasperServer'dan Excel dosya biçimlerine ve PDF'e aktarın.
+Raporları JasperReports veya JasperServer'dan Excel dosya formatlarına ve PDF'e aktarın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
@@ -42,7 +42,7 @@ Node.js aracılığıyla Excel elektronik tabloları oluşturun, değiştirin, d
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
-JavaBridge aracılığıyla PHP uygulamalarında Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve işleyin.
+JavaBridge aracılığıyla PHP uygulamalarında Excel elektronik tablolarını oluşturun, değiştirin, dönüştürün ve işleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
@@ -58,10 +58,10 @@ Python'i kullanarak Excel belgelerini yükleyin, oluşturun, değiştirin ve iş
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

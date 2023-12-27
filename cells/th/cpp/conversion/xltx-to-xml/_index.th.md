@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX เป็น XML - ออนไลน์ XLTX เป็น XML Converter
-description: Aspose เก่ง. C++ Aspose.Cells C++ Aspose Cells ออนไลน์ฟรี C++ แปลง XLTX เป็นรูปแบบ XML ที่บันทึก C++ XLTX เป็นรูปแบบ XML บันทึก XLTX เป็น XML C++
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to XML saveformat., Free Online XLTX to XML C++., C++ Convert XLTX to XML]
+title: C++ XLTX เป็น XML - XLTX เป็น XML Converter
+description: Aspose เอ็กเซล. แปลง XLTX เป็น XML อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells C++ XLTX เป็น XML C++ บันทึก XLTX ลงใน XML บันทึก XLTX เป็น XML โดยใช้ C++
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to XML in C++., Save XLTX to XML using C++., C++ XLTX to XML saveformat., XLTX to XML Converter., C++ Save XLTX as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLTX เป็น XML ใน C++" h2="การแปลง XLTX เป็น XML ประสิทธิภาพสูงโดยใช้ไลบรารี C++ โดยไม่จำเป็นต้องติดตั้ง Microsoft Excel, OpenOffice หรือ Adobe Acrobat" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to XML 
 
 {{% blocks/products/pf/agp/content h2="แปลง XLTX เป็น XML โดยใช้ C++" %}}
 
- ฉันจะแปลง XLTX เป็น XML ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XLTX เป็น XML ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะแปลง XLTX เป็น XML ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถแปลง XLTX เป็น XML โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="บันทึก XLTX เป็น XML ใน C++ ออนไลน์ฟรี" %}}
+{{% blocks/products/pf/agp/content h2="บันทึก XLTX ลงใน XML ใน C++" %}}
 
 ตัวอย่างต่อไปนี้สาธิตวิธีการแปลง XLTX เป็น XML ใน C++
 {{% blocks/products/pf/agp/text %}}
 
-ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XLTX เป็น XML อัปโหลดไฟล์ XLTX ของคุณ จากนั้นบันทึกเป็นไฟล์ XML สำหรับทั้งการอ่าน XLTX และการเขียน XML คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหา XML เอาต์พุตและการจัดรูปแบบจะเหมือนกับเอกสาร XLTX ต้นฉบับ
+ทำตามขั้นตอนง่าย ๆ เพื่อแปลง XLTX เป็น XML อัปโหลดไฟล์ XLTX ของคุณ จากนั้นบันทึกเป็นไฟล์ XML สำหรับทั้งการอ่าน XLTX และการเขียน XML คุณสามารถใช้ชื่อไฟล์แบบเต็มได้ เนื้อหาและการจัดรูปแบบ XML เอาต์พุตจะเหมือนกับเอกสาร XLTX ต้นฉบับ
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง XLTX เป็น XML ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLTX เป็น XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLTX เป็น XML ผ่าน C++" %}}
 
@@ -47,11 +47,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง 'Aspose.Cells for C++'
-1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
-1.  โหลดไฟล์ XLTX โดยใช้ Factory::CreateIWorkbook
-1.  แปลง XLTX เป็น XML โดยเรียกเมธอด Save()
-1.  รับผลการแปลง XLTX เป็น XML
+1.  ติดตั้ง 'Aspose.Cells for C++'.
+1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ให้กับโครงการ C++ ของคุณ
+1.  โหลดไฟล์ XLTX โดยใช้สมุดงาน
+1.  แปลง XLTX เป็น XML โดยการเรียกเมธอด Save()
+1.  รับผลลัพธ์การแปลง XLTX เป็น XML
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for C++" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- ก่อนเรียกใช้รหัสตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
+ ก่อนที่จะรันโค้ดตัวอย่างการแปลง C++ ตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,35 +84,34 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}ไฟล์ที่มีนามสกุล .xltx แสดงถึง Microsoft ไฟล์เทมเพลต Excel ที่ยึดตามข้อกำหนดรูปแบบไฟล์ Office OpenXML ใช้เพื่อสร้างไฟล์เทมเพลตมาตรฐานที่สามารถใช้สร้างไฟล์ XLSX ที่แสดงการตั้งค่าเดียวกันกับที่ระบุในไฟล์ XLTX{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML ย่อมาจาก Extensible Markup Language ซึ่งคล้ายกับ HTML แต่แตกต่างกันที่การใช้แท็กสำหรับกำหนดวัตถุ แนวคิดทั้งหมดที่อยู่เบื้องหลังการสร้างรูปแบบไฟล์ XML คือการจัดเก็บและส่งข้อมูลโดยไม่ต้องพึ่งพาเครื่องมือซอฟต์แวร์หรือฮาร์ดแวร์ ความนิยมของมันเกิดจากการที่มันสามารถอ่านได้ทั้งมนุษย์และเครื่อง สิ่งนี้ทำให้สามารถสร้างโปรโตคอลข้อมูลทั่วไปในรูปแบบของอ็อบเจกต์ที่จะจัดเก็บและแชร์ผ่านเครือข่าย เช่น เวิลด์ไวด์เว็บ (WWW) "X" ใน XML ใช้สำหรับขยายได้ ซึ่งหมายความว่าภาษาสามารถขยายเป็นสัญลักษณ์จำนวนเท่าใดก็ได้ตามความต้องการของผู้ใช้ สำหรับคุณสมบัติเหล่านี้รูปแบบไฟล์มาตรฐานจำนวนมากใช้ประโยชน์จากมันเช่น Microsoft Open XML, LibreOffice OpenDocument, XHTML และ SVG{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}ไฟล์ที่มีนามสกุล .xltx แสดงถึงไฟล์เทมเพลต Excel Microsoft ที่ยึดตามข้อกำหนดเฉพาะของรูปแบบไฟล์ Office OpenXML ใช้เพื่อสร้างไฟล์เทมเพลตมาตรฐานที่สามารถใช้สร้างไฟล์ XLSX ที่แสดงการตั้งค่าเดียวกันกับที่ระบุในไฟล์ XLTX{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML ย่อมาจาก Extensible Markup Language ที่คล้ายกับ HTML แต่ต่างกันในการใช้แท็กเพื่อกำหนดออบเจ็กต์ แนวคิดทั้งหมดที่อยู่เบื้องหลังการสร้างรูปแบบไฟล์ XML คือการจัดเก็บและขนส่งข้อมูลโดยไม่ต้องพึ่งซอฟต์แวร์หรือเครื่องมือฮาร์ดแวร์ ความนิยมนี้เกิดจากการที่ทั้งมนุษย์และเครื่องสามารถอ่านได้ ช่วยให้สามารถสร้างโปรโตคอลข้อมูลทั่วไปในรูปแบบของออบเจ็กต์ที่จะจัดเก็บและแบ่งปันผ่านเครือข่าย เช่น เวิลด์ไวด์เว็บ (WWW) "X" ใน XML มีไว้สำหรับการขยาย ซึ่งหมายความว่าภาษาสามารถขยายไปยังสัญลักษณ์จำนวนเท่าใดก็ได้ตามความต้องการของผู้ใช้ สำหรับคุณสมบัติเหล่านี้รูปแบบไฟล์มาตรฐานหลายรูปแบบได้นำไปใช้เช่น Microsoft Open XML, LibreOffice OpenDocument, XHTML และ SVG{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XLTX เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XLTX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-bmp/" name="XLTX ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-bmp/" name="XLTX ถึง BMP" description="รูปภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-emf/" name="XLTX ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-gif/" name="XLTX ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-html/" name="XLTX ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-md/" name="XLTX ถึง นพ" description="ภาษามาร์กดาวน์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-mhtml/" name="XLTX ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-mhtml/" name="XLTX ถึง MHTML" description="รูปแบบการเก็บถาวรหน้าเว็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-ods/" name="XLTX ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX ถึง PDF" description="รูปแบบเอกสารแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-png/" name="XLTX ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-svg/" name="XLTX ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tiff/" name="XLTX ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tsv/" name="XLTX ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-txt/" name="XLTX ถึง TXT" description="เอกสารข้อความ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xls/" name="XLTX ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xlsb/" name="XLTX ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xlsb/" name="XLTX ถึง XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xlsm/" name="XLTX ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xlsx/" name="XLTX ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xlt/" name="XLTX ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xltm/" name="XLTX ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xltm/" name="XLTX ถึง XLTM" description="เทมเพลตที่เปิดใช้งาน Excel Macro" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xml/" name="XLTX ถึง XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX ถึง XPS" description="ข้อมูลจำเพาะกระดาษ XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-json/" name="XLTX ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-jpeg/" name="XLTX ถึง JPEG" description="JPEG อิมเมจ" >}}
 

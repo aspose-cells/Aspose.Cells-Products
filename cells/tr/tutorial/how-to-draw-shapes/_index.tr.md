@@ -1,35 +1,35 @@
 ---
-title: Aspose.Cells üzerinden şekiller nasıl eklenir
+title: Aspose.Cells aracılığıyla şekiller nasıl eklenir?
 weight: 7700
 limit:
-description: Nasıl şekil ekleyeceğinizi öğrenin.
+description: Şekilleri nasıl ekleyeceğinizi öğrenin.
 keywords: [add shapes., how to add shapes in Aspose.Cells., how to add shapes using Aspose.Cells]
 url: /tr/tutorial/add-shapes-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Aspose.Cells ile şekil eklemeyi öğrenin" >}}
+{{< blocks/products/pf/feature-page-section h2="Aspose.Cells\'i kullanarak nasıl şekil ekleyeceğinizi öğrenin" >}}
 
 <p>
-Bu eğitimde, bir excel dosyasına şekiller ekleyeceğiz.
+Bu derste bir excel dosyasına şekiller ekleyeceğiz.
 </p>
 
 <p>
- Kullanarak yeni bir çalışma kitabı oluşturarak başlayacağız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kitaplık</a> ve şekiller ekleyin.
+ kullanarak yeni bir çalışma kitabı oluşturarak başlayacağız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kütüphane</a> ve şekiller ekleyin.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//Özet: Şekillerin nasıl ekleneceğini öğrenmek için lütfen aşağıdaki kodu kontrol edin.
-//ExStepSummary:0: Aşağıdaki kod, dikdörtgen şeklinin nasıl ekleneceğini gösterir.
+//ExSummary: Şekillerin nasıl ekleneceğini öğrenmek için lütfen aşağıdaki kodu kontrol edin.
+//ExStepSummary:0: Aşağıdaki kod dikdörtgen şeklinin nasıl ekleneceğini gösterir.
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: Aşağıdaki kod, çizgi şeklinin nasıl ekleneceğini gösterir.
+//ExStepSummary:1: Aşağıdaki kod çizgi şeklinin nasıl ekleneceğini gösterir.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: Aşağıdaki kod oval şeklin nasıl ekleneceğini gösterir.
-//ExStepImage:2:step-3.png
+//ExStepImage:2:adım-3.png
 //ExStart
 //ExStep:0-
-Aspose.Cells kullanarak;
+Aspose.Cells'i kullanarak;
 Aspose.Cells kullanarak.Çizim;
 
 
@@ -37,21 +37,21 @@ Aspose.Cells kullanarak.Çizim;
 
 
 Çalışma kitabı çalışma kitabı = yeni Çalışma Kitabı();
-Çalışma sayfası sayfası = çalışma kitabı.Çalışma Sayfaları[0];
-sheet.PageSetup.PrintGridlines = true;
-sheet.PageSetup.PrintArea = "A1:F20";
+Çalışma sayfası sayfası = çalışma kitabı.Çalışma sayfaları[0];
+Sheet.PageSetup.PrintGridlines = true;
+Sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection şekilleri = levha.Shapes;
+ShapeCollection şekilleri = sayfa.Şekiller;
 
-//dikdörtgen şekli ekle
+//Dikdörtgen şekli ekliyoruz
 şekiller.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStep:1-
-//çizgi şekli ekle
+//Çizgi şekli ekle
 şekiller.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
-//oval şekil ekle
+//Oval şekli ekliyoruz
 şekiller.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-

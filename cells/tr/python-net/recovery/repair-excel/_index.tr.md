@@ -1,8 +1,8 @@
 ---
-title: Python Excel Dosyasını Onar - Excel Dosyasını Çevrimiçi Ücretsiz Olarak Onar
+title: Python Excel'i Onar - Bozuk excel Dosyasını Kurtarın ve Onarın
 url: /tr/python-net/recovery/repair-excel/ 
-description: Aspose excel. Python Aspose.Cells. Python Excel dosyasını onarın. Ücretsiz Çevrimiçi excel onarım aracı. Bozuk bir excel dosyasını onarın. Python uygulamasında bozuk bir excel dosyasını kurtarın.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair excel file., Free Online Repair a corrupted excel file., Python Recover excel file.]
+description: Python Aspose.Cells. Excel'i onarın. Excel dosyasını düzeltin. excel kurtarma aracı. excel yolsuzluk. Excel verilerini geri yükleyin. excel dosya kurtarma. Bozuk excel dosyasını kurtarın.
+keywords: [Python Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'deki EXCEL dosyasını onarın" h2="Python\'i kullanarak excel dosyalarını onarmak için kendi Python uygulamanızı oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,34 +12,34 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Python Kullanarak EXCEL Dosyasını Onarın" %}}
 
- Excel dosyasını nasıl onarabilirim? Aspose.Cells for Python kütüphanesi ile EXCEL dosyasını birkaç satır kod ile programlı olarak kolayca onarabilirsiniz.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Aspose.Cells for Python via .NET adresinden yükleyebilirsiniz.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
+ Excel dosyasını nasıl onarırım? Aspose.Cells for Python kütüphanesi ile EXCEL dosyasını programlı olarak birkaç satır kodla kolayca onarabilirsiniz.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. Aspose.Cells for Python via .NET numaralı telefondan kurulum yapabilirsiniz.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python\'de excel dosyası nasıl onarılır" %}}
+{{% blocks/products/pf/agp/content h2="Python\'deki excel dosyası nasıl onarılır" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Excel dosyasını programlı olarak onarmanız mı gerekiyor? Python geliştiriciler, excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
+Excel dosyasını programlı olarak onarmanız mı gerekiyor? Python geliştiriciler excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
-+ Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
++ Yukarıdaki miras sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Çevrimiçi EXCEL dosyasını onarmak için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="EXCEL dosyasını onarmak için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="EXCEL dosyasını onarmak için Python kitaplığı" %}}
 
 Python paketlerimizi PyPi depolarında barındırıyoruz.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python'i şuradan yükleyin:<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -51,10 +51,10 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/content h2="sistem gereksinimleri" %}}
 
- Aspose.Cells for Python, tüm büyük işletim sistemlerinde desteklenir. Sadece aşağıdaki ön koşullara sahip olduğunuzdan emin olun.
+ Aspose.Cells for Python tüm önemli işletim sistemlerinde desteklenir. Sadece aşağıdaki önkoşullara sahip olduğunuzdan emin olun.
  
--  Düzenlemek[Python](https://www.python.org/downloads/) 3.7 veya üstü.
-- Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
+-  Düzenlemek[Python](https://www.python.org/downloads/) 3.7 veya daha yüksek.
+-  Aspose.Cells for Python'i şuradan yükleyin:<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. OOXML standardı ECMA-376'nın 2. Bölümünde özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak, yeni biçim şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Altta yatan yapı ve dosyalar, yalnızca .xlsx dosyasını açarak incelenebilir.
+XLSX, Microsoft tarafından Microsoft Office 2007 sürümüyle tanıtılan Microsoft Excel belgeleri için iyi bilinen bir formattır. OOXML standardı ECMA-376'nın 2. Kısmında özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak yeni format şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Temel yapı ve dosyalar, .xlsx dosyasının sıkıştırması açılarak incelenebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,13 +72,13 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Biçimlerini Onarın" subTitle="Python\'i kullanarak, diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Formatlarını Onarın" subTitle="Python\'i kullanarak diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Tamir ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Tamir XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Tamir XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Tamir XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Tamir XLSX" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Onarım ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Onarım XLS" description="Excel İkili Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Onarım XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Onarım XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Onarım XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

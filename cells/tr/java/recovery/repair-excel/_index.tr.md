@@ -1,8 +1,8 @@
 ---
-title: Java Excel Dosyasını Onar - Excel Dosyasını Çevrimiçi Ücretsiz Olarak Onar
+title: Java Excel'i Onar - Bozuk excel Dosyasını Kurtarın ve Onarın
 url: /tr/java/recovery/repair-excel/ 
-description: Aspose excel. Java Aspose.Cells. Java Excel dosyasını onarın. Ücretsiz Çevrimiçi excel onarım aracı. Bozuk bir excel dosyasını onarın. Java uygulamasında bozuk bir excel dosyasını kurtarın.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair excel file., Free Online Repair a corrupted excel file., Java Recover excel file.]
+description: Java Aspose.Cells. Excel'i onarın. Excel dosyasını düzeltin. excel kurtarma aracı. excel yolsuzluk. Excel verilerini geri yükleyin. excel dosya kurtarma. Bozuk excel dosyasını kurtarın.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java\'deki EXCEL dosyasını onarın" h2="Java\'i kullanarak excel dosyalarını onarmak için kendi Java uygulamanızı oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,9 +12,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak EXCEL Dosyasını Onarın" %}}
 
- Excel dosyasını nasıl onarabilirim? Aspose.Cells for Java kütüphanesi ile EXCEL dosyasını birkaç satır kod ile programlı olarak kolayca onarabilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ Excel dosyasını nasıl onarırım? Aspose.Cells for Java kütüphanesi ile EXCEL dosyasını programlı olarak birkaç satır kodla kolayca onarabilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
-{{% blocks/products/pf/agp/code-block title="havuz" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
 ```cs
 
@@ -46,27 +46,27 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Java\'de excel dosyası nasıl onarılır" %}}
+{{% blocks/products/pf/agp/content h2="Java\'deki excel dosyası nasıl onarılır" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Excel dosyasını programlı olarak onarmanız mı gerekiyor? Java geliştiriciler, excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
+Excel dosyasını programlı olarak onarmanız mı gerekiyor? Java geliştiriciler excel dosyasını yalnızca birkaç satır kodla kolayca yükleyebilir ve onarabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
-+ Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
++ Yukarıdaki miras sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Çevrimiçi EXCEL dosyasını onarmak için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="EXCEL dosyasını onarmak için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="EXCEL dosyasını onarmak için Java kitaplığı" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Java paketlerimizi şu adreste barındırıyoruz:[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) depolar. 'Aspose.Cells for Java' bayt kodu içeren yaygın bir JAR dosyasıdır. lütfen takip edin[adım adım talimatlar](https://docs.aspose.com/cells/java/installation/) Java geliştirici ortamınıza nasıl yükleyeceğiniz hakkında.
+ Java paketlerimizi barındırıyoruz[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) depolar. 'Aspose.Cells for Java', bayt kodunu içeren yaygın bir JAR dosyasıdır. Lütfen takip edin[adım adım talimatlar](https://docs.aspose.com/cells/java/installation/) Java geliştirici ortamınıza nasıl yükleneceğini öğrenin.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Excel dosyasını programlı olarak onarmanız mı gerekiyor? Java geliştiricil
 
 {{% blocks/products/pf/agp/content h2="sistem gereksinimleri" %}}
 
- Aspose.Cells for Java, tüm büyük işletim sistemlerinde desteklenir. Sadece aşağıdaki ön koşullara sahip olduğunuzdan emin olun.
+ Aspose.Cells for Java tüm önemli işletim sistemlerinde desteklenir. Sadece aşağıdaki önkoşullara sahip olduğunuzdan emin olun.
  
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.
-- Aspose.Cells for Java'in en son sürümünü doğrudan Maven'den alın.
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+- Aspose.Cells for Java'in en son sürümünü doğrudan Maven'den edinin.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -87,7 +87,7 @@ Excel dosyasını programlı olarak onarmanız mı gerekiyor? Java geliştiricil
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. OOXML standardı ECMA-376'nın 2. Bölümünde özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak, yeni biçim şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Altta yatan yapı ve dosyalar, yalnızca .xlsx dosyasını açarak incelenebilir.
+XLSX, Microsoft tarafından Microsoft Office 2007 sürümüyle tanıtılan Microsoft Excel belgeleri için iyi bilinen bir formattır. OOXML standardı ECMA-376'nın 2. Kısmında özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak yeni format şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Temel yapı ve dosyalar, .xlsx dosyasının sıkıştırması açılarak incelenebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,13 +95,13 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Biçimlerini Onarın" subTitle="Java\'i kullanarak, diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Formatlarını Onarın" subTitle="Java\'i kullanarak diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Tamir ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Tamir XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Tamir XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Tamir XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Tamir XLSX" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Onarım ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Onarım XLS" description="Excel İkili Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Onarım XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Onarım XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Onarım XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

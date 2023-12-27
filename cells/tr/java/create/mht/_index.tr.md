@@ -1,7 +1,7 @@
 ---
-title: MHT oluştur - Java'de MHT dosyası oluşturun
-description: Aspose excel. Java MHT Dosyası Oluşturun. MHT Java oluşturun. Java MHT Oluşturucu. Java'de MHT oluşturun. Java'i kullanarak MHT dosyası oluşturun.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater., Create MHT file in Java., Generate MHT file in Java]
+title: MHT Oluştur - Java'de MHT dosyası oluşturun
+description:  Aspose Excel'de. Java Aspose.Cells ile hızlı ve kolay bir şekilde MHT Dosyası oluşturun. Java'i kullanarak MHT dosyası oluşturun. Java'de MHT oluşturun. Java MHT Oluşturucu.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MHT file., Generate MHT file in Java., Create MHT file using Java., Write data to MHT file via Java., Create a MHT file in Java., Java Generate a MHT file., Java MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java\'de MHT Dosyası Oluşturun" h2="MHT dosyası oluşturmak için yüksek hızlı Java kitaplığı. Bu, XLSX, PDF ve diğer birçok formatı Java kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +11,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak MHT Dosyası Oluşturun" %}}
 
- MHT dosyası nasıl oluşturulur? Aspose.Cells for Java kütüphanesi ile birkaç satır kod ile MHT dosyasını programlı olarak kolayca oluşturabilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ MHT dosyası nasıl oluşturulur? Aspose.Cells for Java kütüphanesi ile birkaç satır kodla programlı olarak MHT dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
-{{% blocks/products/pf/agp/code-block title="havuz" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
 ```cs
 
@@ -50,14 +50,14 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/text %}}
 
-Geliştiricilerin, yalnızca birkaç kod satırında veri işleme için farklı raporlama uygulamalarını çalıştırırken MHT dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
+ Geliştiricilerin, veri işleme için farklı raporlama uygulamalarını çalıştırarak MHT dosyalarını yalnızca birkaç satır kodla oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Bir örneğini oluştur[Çalışma kitabı sınıfı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
-1.  İlgili çalışma sayfasına getWorksheets.get() yöntemini kullanarak erişin.
-1.  İlgili hücreyi seçin, A1, B3 gibi hücre adını kullanarak istediğiniz hücreye değeri girin.
-1.  Çalışma kitabını save() yöntemini kullanarak MHT biçiminde kaydedin.
+1.  Bir örneğini oluşturun[Çalışma kitabı sınıfı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1.  getWorksheets.get() yöntemini kullanarak ilgili çalışma sayfasına erişin.
+1.  İlgili hücreyi seçin, A1, B3 vb. gibi hücre adını kullanarak değeri istenen hücreye girin.
+1.  Save() yöntemini kullanarak çalışma kitabını MHT formatında kaydedin.
 
 {{% blocks/products/pf/agp/code-block title="Örnek kod, Java\'de MHT dosyasının nasıl oluşturulacağını gösterir." offSpacer="" %}}
 
@@ -92,7 +92,7 @@ wkb.save("Excel.mht");
 {{% blocks/products/pf/agp/content h2="MHT dosyası oluşturmak için Java kitaplığı" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Java paketlerimizi şu adreste barındırıyoruz:[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) depolar. 'Aspose.Cells for Java' bayt kodu içeren yaygın bir JAR dosyasıdır. lütfen takip edin[adım adım talimatlar](https://docs.aspose.com/cells/java/installation/) Java geliştirici ortamınıza nasıl yükleyeceğiniz hakkında.
+ Java paketlerimizi barındırıyoruz[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) depolar. 'Aspose.Cells for Java', bayt kodunu içeren yaygın bir JAR dosyasıdır. Lütfen takip edin[adım adım talimatlar](https://docs.aspose.com/cells/java/installation/) Java geliştirici ortamınıza nasıl yükleneceğini öğrenin.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -101,31 +101,31 @@ wkb.save("Excel.mht");
 
 {{% blocks/products/pf/agp/text %}}
 
-Java dönüştürme örnek kaynak kodunu çalıştırmadan önce aşağıdaki ön koşullara sahip olduğunuzdan emin olun.
+ Java dönüşüm örneği kaynak kodunu çalıştırmadan önce aşağıdaki önkoşullara sahip olduğunuzdan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.
-- Aspose.Cells for Java, şu Java sürümlerini destekler: J2SE 6.0 (1.6), J2SE 7.0 (1.7) veya üstü.
-- [Aspose.Cells for Java'in en son sürümünü doğrudan Maven'den alın.](https://docs.aspose.com/cells/java/installation/) 
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+- Aspose.Cells for Java, aşağıdaki Java sürümlerini destekler: J2SE 6.0 (1.6), J2SE 7.0 (1.7) veya üzeri.
+- [Aspose.Cells for Java'in en son sürümünü doğrudan Maven'den edinin.](https://docs.aspose.com/cells/java/installation/) 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht uzantılı bir dosya, farklı veri türlerini tek bir dosyada içeren, MIME özellikli bir arşivleme dosyası biçimidir. Metin, resimler, sayfa stili gibi verileri CSS dosyaları, JavaScript ve diğer kaynaklar biçimindeki gömülü kaynaklar olarak depolayabilir. MIME tipi mesaj/rfc822'ye sahip olan MHT dosyaları, bir HTML dosyasının tüm içeriğini, depolama aygıtlarında arşivlemede depolamak için tek bir arşiv dosyası olarak kapsüller. Microsoft Word gibi yazılım uygulamaları, WORD belgelerinizi MHT dosyası olarak dışa aktararak MHT'ye dönüştürmenizi sağlar. MHT dosyaları, Microsoft Internet Explorer ve Google Chrome gibi popüler tarayıcılar kullanılarak açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht uzantılı bir dosya, farklı veri türlerini tek bir dosyada içeren, MIME özellikli bir arşivleme dosyası formatıdır. Metin, resim, sayfa stili gibi verileri CSS dosyaları, JavaScript ve diğer kaynaklar biçiminde gömülü kaynaklar olarak depolayabilir. MIME tipi mesaj/rfc822'ye sahip MHT dosyaları, HTML dosyasının tüm içeriğini depolama aygıtlarında arşivlemede depolamak için tek bir arşiv dosyası olarak kapsüller. Microsoft Word gibi yazılım uygulamaları, WORD belgelerinizi MHT dosyası olarak dışa aktararak MHT'ye dönüştürmenizi sağlar. MHT dosyaları, Microsoft Internet Explorer ve Google Chrome gibi popüler tarayıcılar kullanılarak açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Elektronik Tablo Oluşturma" subTitle="Aşağıda listelenenlerden birkaçı dahil olmak üzere diğer Microsoft Excel biçimlerini de oluşturabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Elektronik Tablo Oluşturma" subTitle="Ayrıca aşağıda listelenenlerden birkaçı dahil olmak üzere diğer Microsoft Excel formatlarını da oluşturabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Makro özellikli Hesap Tablosu" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Excel 97 - 2003 Şablonu" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltx/" name="XLTX" description="Excel Şablonu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Makro Etkin Excel Şablonu" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Excel Makro Etkin Şablonu" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/csv/" name="CSV" description="Virgülle Ayrılmış Değerler" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="OpenDocument Elektronik Tablosu" >}}

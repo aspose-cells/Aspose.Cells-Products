@@ -1,10 +1,11 @@
 ---
-title:  Python Excel Tablosu API - Aspose
+title:  Python Excel Elektronik Tablosu API - Aspose
 weight: 2820
-description: Python okuma yazma oluşturmak ve Excel dosyalarını ayrıştırmak için elektronik tablo kitaplığı.
+description: Excel dosyalarını oluşturmak, onarmak, birleştirmek, ayrıştırmak ve dönüştürmek için Python kitaplığı. Excel'i PDF, JSON, HTML, TXT ve diğer popüler formatlara dönüştürün.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API\'leri Ayrıştıran Excel Elektronik Tabloları" h2="Python uygulamaları içinde elektronik tabloları oluşturun, okuyun, yazın veya değiştirin ve Excel dosyalarını birden çok formata dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel Elektronik Tablolarını Ayrıştırma API\'leri" h2="Python uygulamaları içinde elektronik tablolar oluşturun, okuyun, yazın veya değiştirin ve Excel dosyalarını birden çok formatta dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
@@ -12,7 +13,7 @@ description: Python okuma yazma oluşturmak ve Excel dosyalarını ayrıştırma
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler, basit veya karmaşık elektronik tablolar oluşturabilir, excel dosyalarından bilgi çıkarmanın yanı sıra manipüle edebilir. API, birden çok excel biçimini okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına işleyebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
+Aspose.Cells for Python via Java, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler basit veya karmaşık elektronik tablolar oluşturabilir, bunları değiştirebilir ve excel dosyalarından bilgi çıkarabilir. API, birden fazla excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına dönüştürebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,18 +21,18 @@ Aspose.Cells for Python via Java, elektronik tablo işleme görevleri için hız
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API özelliklerine genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API yeteneklerine genel bakış." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- &amp; İhracat
+ İçe aktar ve İhracat
    </header>
    <ul>
     <li>
- diziler
+ Diziler
     </li>
     <li>
  Sonuç kümesi
@@ -43,17 +44,17 @@ Koleksiyonlar
    <header>
     <i class="fa fa-cog">
     </i>
- oluşturma
+ İşleme
    </header>
    <ul>
     <li>
  Grafikten Görüntüye
     </li>
     <li>
- Çalışma Sayfasından Görüntüye
+ Görüntüye Çalışma Sayfası
     </li>
     <li>
- PDF e-tablo
+ PDF'e ait elektronik tablo
     </li>
    </ul>
   </div>
@@ -72,10 +73,10 @@ Koleksiyonlar
  Formülü Uygula
     </li>
     <li>
- Grafik Oluştur
+ Grafikler Oluşturun
     </li>
     <li>
- özetle
+ Özetle
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -104,7 +105,7 @@ Koleksiyonlar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Python via Java için ulaşabilirsiniz." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Python via Java için kullanılabilir." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +145,7 @@ Koleksiyonlar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Python excel kitaplığı, popüler Microsoft Excel biçimlerini, sabit düzen biçimlerini ve görüntüleri destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Python excel kitaplığı, popüler Microsoft Excel formatlarını, sabit düzen formatlarını ve görselleri destekler." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +157,7 @@ Koleksiyonlar
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -185,7 +186,7 @@ Koleksiyonlar
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıktı
+ Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -234,7 +235,7 @@ Koleksiyonlar
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Gelişmiş Python Excel API Özellikler
+ Gelişmiş Python Excel API Özellikler
    </h2>
    <p>
    </p>
@@ -242,35 +243,35 @@ Gelişmiş Python Excel API Özellikler
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Excel Elektronik Tablolarını Oku
+ Excel Elektronik Tablolarını Okuyun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Elektronik Tabloları PDF, EMF ve Görüntülere Dönüştürün
+ PDF, EMF'e E-Tabloları ve Görselleri İşleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma kitaplarının içindeki çalışma sayfalarını ayarlama
+ Çalışma kitaplarındaki çalışma sayfalarını ayarlama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfalarını koru / korumayı kaldır
+ Çalışma sayfalarını koruyun / korumayı kaldırın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Grafikler oluşturmanın yanı sıra resimler ekleyin
+ Grafikler oluşturmanın yanı sıra görseller ekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,7 +285,7 @@ Gelişmiş Python Excel API Özellikler
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hücre düzeyinde yorum ekleme ve düzenleme
+ Yorumları hücre düzeyinde ekleme ve düzenleme
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,21 +306,21 @@ Gelişmiş Python Excel API Özellikler
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Satırlara ve sütunlara gruplama ekleme veya kaldırma
+Satırlara ve sütunlara gruplandırma ekleme veya kaldırma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Numara biçimlendirmesini ayarla
+ Sayı biçimlendirmesini ayarlama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Formülleri okuyun ve ayarlayın
+ Formülleri okuma ve ayarlama
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +334,14 @@ Gelişmiş Python Excel API Özellikler
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa yönünü, ölçeklemeyi, kağıt boyutunu ayarlayın
+ Sayfa yönünü, ölçeklendirmeyi ve kağıt boyutunu ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oku &amp; koşullu biçimlendirme yaz
+ Oku ve oku koşullu biçimlendirme yaz
     </p>
    </div>
    <!--
@@ -412,14 +413,14 @@ Gelişmiş Python Excel API Özellikler
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Birden Çok Format Dönüştürme
+ Çoklu Format Dönüşümü
     </h2>
     <p>
- Python Excel kitaplığı, Excel dosyalarının PDF, XPS &amp; HTML biçimleri. API'in güvenilir bir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
+ Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Elektronik tabloyu farklı biçimlerde kaydetme - Java
+E-tabloyu farklı formatlarda kaydedin - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Esnek Ekran Seçenekleri
     </h2>
     <p>
- Aspose.Cells for Python via Java, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
+ Aspose.Cells for Python via Java sayfa kurulumu üzerinde tam kontrol sağlayarak sayfa sonlarının önizlemesi, yakınlaştırma düzeyini ayarlama, sayfa yönünü ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla görüntüleme seçeneğinin kullanılmasına olanak tanır. altbilgiler ve yazdırma alanı.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -483,15 +484,15 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Excel Sayfaları Veri Yönetimi
     </h2>
     <p>
- Aspose.Cells for Python via Java API, çalışma sayfası veri yönetimi için kapsamlı destek sağlar. Çalışma sayfasındaki herhangi bir hücre çalışma zamanında kolayca işlenebilir veya çeşitli veri kaynaklarından çalışma sayfalarına veri aktarılabilir.
+ Aspose.Cells for Python via Java API, çalışma sayfası veri yönetimi için kapsamlı destek sağlar. Çalışma zamanında çalışma sayfasındaki herhangi bir hücre kolayca işlenebilir veya çeşitli veri kaynaklarından çalışma sayfalarına veri aktarılabilir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Grafik Özelleştirme
+Grafikleri Özelleştirme
     </h2>
     <p>
-Aspose.Cells for Python via Java grafik için tam destek sağlar. Bu python kitaplığı aracılığıyla grafiği yenilemek için standart ve özelleştirilmiş grafikler veya dinamik olarak ayarlanmış grafik verileri kolayca eklenebilir.
+Aspose.Cells for Python via Java grafik konusunda tam destek sağlar. Bu python kütüphanesi aracılığıyla grafiği yenilemek için kolayca standart ve özelleştirilmiş grafikler eklenebilir veya grafik verileri dinamik olarak ayarlanabilir.
     </p>
    </div>
    <!--
@@ -515,10 +516,10 @@ Aspose.Cells for Python via Java grafik için tam destek sağlar. Bu python kita
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/pythonjava/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API Referanslar" href="https://reference.aspose.com/cells/python-java" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

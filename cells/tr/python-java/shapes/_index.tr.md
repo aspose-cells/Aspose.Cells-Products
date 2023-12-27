@@ -1,18 +1,19 @@
 ---
-title: Python via Java kullanarak Excel'de şekiller ekleyin
-description: Python via Java Aspose.Cells for Python via Java Kitaplığı kullanılarak Microsoft Excel dosyalarına nasıl şekil ekleneceğine dair kaynak kodları.
+title: Python via Java'i kullanarak Excel'e şekil ekleme
+description:  Python via Java kaynak kodları, Aspose.Cells for Python via Java Kütüphanesini kullanarak Microsoft Excel dosyalarına nasıl şekil ekleneceğini gösterir.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel, Python via Java\'i kullanarak eklemeyi şekillendirir" h2="Java tabanlı uygulamalar aracılığıyla python\'da sunucu tarafı API\'lerini kullanarak Excel belgeleri oluşturun ve şekiller ekleyin." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python via Java\'i kullanarak Excel şekilleri ekleme" h2="Java tabanlı uygulamalar aracılığıyla Python\'daki sunucu tarafı API\'lerini kullanarak Excel belgeleri oluşturun ve şekiller ekleyin." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Excel'de belgelere, e-postalara, slaytlara ve elektronik tablolara kutular, daireler ve oklar gibi şekiller ekleyebilirsiniz.[Aspose.Cells for Python-Java](https://releases.aspose.com/cells/python-java) API aynı işlevselliği sağlar. Bu API'lerin kullanımı çok kolaydır, belirli bir şekli eklemek için genellikle yalnızca bir satır kod gerekir ve birkaç satır kod, şekil gruplarının eklenmesini tamamlayabilir.
+ Excel'de belgelere, e-postalara, slaytlara ve elektronik tablolara kutular, daireler ve oklar gibi şekiller ekleyebilirsiniz. Sizi birçok manuel ekleme işleminden kurtarmak için,[Aspose.Cells for Python-Java](https://releases.aspose.com/cells/python-java) API aynı işlevselliği sağlar. Bu API'lerin kullanımı çok kolaydır; genellikle belirli bir şekli eklemek için yalnızca bir satır kod gerekir ve birkaç satır kod, şekil gruplarının eklenmesini tamamlayabilir.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel Dosyasına şekiller ekleme" %}}
 
- Bu API'leri kullanarak şekil eklemek basittir. İşlem, Yarat[Çalışma kitabı sınıfı](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) nesnesini seçin ve dizinini vererek ilk çalışma sayfasını veya ilgili sayfayı seçin. Kullanarak çalışma sayfasına bir şekil ekleyin.[şekil koleksiyonu](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)'nin Add yöntemi.
+ Bu API'leri kullanarak şekil eklemek basittir. Süreç şu: Yarat[Çalışma kitabı sınıfı](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook)nesneyi seçin ve ilk çalışma sayfasını veya ilgili sayfayı indeksini sağlayarak seçin. Kullanarak çalışma sayfasına bir şekil ekleyin[Şekil koleksiyonu](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)'ın Ekle yöntemi.
 
 {{% blocks/products/pf/feature-page-code h3="Python via Java Excel\'de Şekil Ekleme Kodu" %}}
 

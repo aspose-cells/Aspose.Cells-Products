@@ -1,8 +1,8 @@
 ---
-title: C# ซ่อมแซมไฟล์ xls - ซ่อมแซมไฟล์ xls ออนไลน์ฟรี
+title: C# ซ่อมแซม xls - กู้คืนและแก้ไขไฟล์ xls ที่เสียหาย
 url: /th/net/recovery/repair-xls/ 
-description: Aspose เก่ง. C# Aspose.Cells. C# ซ่อมไฟล์ xls. เครื่องมือซ่อมแซม xls ออนไลน์ฟรี ซ่อมแซมไฟล์ xls ที่เสียหาย กู้คืนไฟล์ xls ที่เสียหายภายในแอปพลิเคชัน .NET
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file., Free Online Repair a corrupted xls file., C# Recover xls file.]
+description: C# Aspose.Cells.ซ่อมxls. แก้ไขไฟล์ xls เครื่องมือการกู้คืน xls xls เสียหาย กู้คืนข้อมูล xls การกู้คืนไฟล์ xls กู้คืนไฟล์ xls ที่เสียหาย
+keywords: [C# Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ซ่อมไฟล์ XLS ใน C#" h2="สร้างแอปพลิเคชัน .NET ของคุณเองเพื่อซ่อมแซมไฟล์ xls โดยใช้ .NET" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file
 
 {{% blocks/products/pf/agp/content h2="ซ่อมแซมไฟล์ XLS โดยใช้ C#" %}}
 
- ฉันจะซ่อมแซมไฟล์ xls ได้อย่างไร ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถซ่อมแซมไฟล์ XLS โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะซ่อมแซมไฟล์ xls ได้อย่างไร ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถซ่อมแซมไฟล์ XLS โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="คำสั่งคอนโซลตัวจัดการแพ็คเกจ" offSpacer="true" %}}
 
@@ -36,34 +36,34 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
-+ โหลดไฟล์ XLS โดยสร้างอินสแตนซ์ของสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างอิงถึงรหัสด้านบน
++ โหลดไฟล์ XLS โดยการสร้างอินสแตนซ์ของ Workbook โดยใช้คลาสการสืบทอดด้านบนอ้างถึงโค้ดด้านบน
 + บันทึกสมุดงาน ไฟล์ xls ที่เสียหายจะได้รับการซ่อมแซม
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="แอพฟรีและโค้ดตัวอย่างเพื่อซ่อมแซมไฟล์ XLS ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="ตัวอย่างโค้ดการซ่อมแซมไฟล์ XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
     
-{{% blocks/products/pf/agp/content h2="ห้องสมุด .NET เพื่อซ่อมแซมไฟล์ XLS" %}}
+{{% blocks/products/pf/agp/content h2=".NET ไลบรารี่ เพื่อซ่อมแซมไฟล์ XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสองทางเลือกในการติดตั้ง "Aspose.Cells for .NET" ลงบนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสองทางเลือกอื่นในการติดตั้ง "Aspose.Cells for .NET" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells/) . ดู[เอกสาร](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  ติดตั้งไลบรารีโดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) ภายใน Visual Studio IDE
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
+1.  ติดตั้งไลบรารี่โดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) ภายใน Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ความต้องการของระบบ" %}}
 
- Aspose.Cells for .NET ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for .NET รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
  
 -  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับแพลตฟอร์ม .NET, .NET Core หรือ Mono
 -  สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio
--  ผลิตภัณฑ์ของเราเป็นแบบข้ามแพลตฟอร์มอย่างสมบูรณ์และรองรับ Windows, Linux, MacOS, Azure, AWS Lambda
+-  ผลิตภัณฑ์ของเราเป็นแพลตฟอร์มข้ามแพลตฟอร์มเต็มรูปแบบและรองรับ Windows, Linux, MacOS, Azure, AWS Lambda
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Cells
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งแต่ละสมุดงานสามารถมีแผ่นงานหนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้
+ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ Excel Binary ไฟล์ดังกล่าวสามารถสร้างได้โดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นที่คล้ายคลึงกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน โดยแต่ละสมุดงานสามารถมีแผ่นงานได้หนึ่งแผ่นขึ้นไป ข้อมูลจะถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีตและสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิได้ แอปพลิเคชันเช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลเวิร์กบุ๊กเป็นรูปแบบต่างๆ ได้หลากหลาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น คือ XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงให้การสนับสนุนสำหรับการสร้างและการอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกสำหรับการใช้งานในขณะนี้
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -80,13 +80,13 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่นๆ ที่รองรับ" subTitle="การใช้ C# ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
+{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่น ๆ ที่รองรับ" subTitle="การใช้ C# ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="ซ่อม ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="ซ่อม XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="ซ่อม XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="ซ่อม XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="ซ่อม XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="ซ่อมODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="ซ่อมXLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="ซ่อมXLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="ซ่อมXLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="ซ่อมXLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

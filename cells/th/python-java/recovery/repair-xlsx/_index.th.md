@@ -1,8 +1,8 @@
 ---
-title: Python ซ่อมแซมไฟล์ xlsx - ซ่อมแซมไฟล์ xlsx ออนไลน์ฟรี
+title: Python ซ่อมแซม xlsx - กู้คืนและแก้ไขไฟล์ xlsx ที่เสียหาย
 url: /th/python-java/recovery/repair-xlsx/ 
-description: Aspose เก่ง. Python Aspose.Cells. Python ซ่อมไฟล์ xlsx. เครื่องมือซ่อมแซม xlsx ออนไลน์ฟรี ซ่อมแซมไฟล์ xlsx ที่เสียหาย กู้คืนไฟล์ xlsx ที่เสียหายภายในแอปพลิเคชัน Python
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsx file., Free Online Repair a corrupted xlsx file., Python Recover xlsx file.]
+description: Python Aspose.Cells.ซ่อมxlsx. แก้ไขไฟล์ xlsx เครื่องมือการกู้คืน xlsx การทุจริต xlsx กู้คืนข้อมูล xlsx การกู้คืนไฟล์ xlsx กู้คืนไฟล์ xlsx ที่เสียหาย
+keywords: [Python Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ซ่อมไฟล์ XLSX ใน Python" h2="สร้างแอปพลิเคชัน Python ของคุณเองเพื่อซ่อมแซมไฟล์ xlsx โดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="ซ่อมแซมไฟล์ XLSX โดยใช้ Python" %}}
 
- ฉันจะซ่อมแซมไฟล์ xlsx ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถซ่อมแซมไฟล์ XLSX โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python via Java จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells</code>.
+ ฉันจะซ่อมแซมไฟล์ xlsx ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถซ่อมแซมไฟล์ XLSX โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม ท่านสามารถติดตั้ง Aspose.Cells for Python via Java จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งดังนี้:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -27,35 +27,35 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 {{% /blocks/products/pf/agp/text %}}
 
 + กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
-+ โหลดไฟล์ XLSX โดยสร้างอินสแตนซ์ของสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างอิงถึงรหัสด้านบน
++ โหลดไฟล์ XLSX โดยการสร้างอินสแตนซ์ของ Workbook โดยใช้คลาสการสืบทอดด้านบนอ้างถึงโค้ดด้านบน
 + บันทึกสมุดงาน ไฟล์ xlsx ที่เสียหายจะได้รับการซ่อมแซม
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="แอพฟรีและโค้ดตัวอย่างเพื่อซ่อมแซมไฟล์ XLSX ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="ตัวอย่างโค้ดการซ่อมแซมไฟล์ XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
     
-{{% blocks/products/pf/agp/content h2="ห้องสมุด Python เพื่อซ่อมแซมไฟล์ XLSX" %}}
+{{% blocks/products/pf/agp/content h2="Python ไลบรารี่ เพื่อซ่อมแซมไฟล์ XLSX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for Python via Java" บนระบบของคุณ โปรดเลือกแบบที่ตรงกับความต้องการของคุณและทำตามคำแนะนำทีละขั้นตอน:
+มีสามตัวเลือกในการติดตั้ง "Aspose.Cells for Python via Java" ลงในระบบของคุณ โปรดเลือกรายการที่ตรงกับความต้องการของคุณและปฏิบัติตามคำแนะนำทีละขั้นตอน:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน Windows ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#windows)
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#linux)
-1.  ติดตั้ง Aspose.Cells for Python via Java ใน macOS ดู[เอกสาร](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน Windows ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  ติดตั้ง Aspose.Cells for Python via Java ใน macOS ดู[เอกสารประกอบ](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ความต้องการของระบบ" %}}
 
- Aspose.Cells for Python ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for Python รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
  
--  ติดตั้ง Java 1.8 หรือสูงกว่าและเพิ่มลงในตัวแปรสภาพแวดล้อม PATH เช่น:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  ติดตั้ง Java 1.8 หรือสูงกว่า และเพิ่มลงในตัวแปรสภาพแวดล้อม PATH ตัวอย่างเช่น:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  ติดตั้ง[Python](https://www.python.org/downloads/) 3.5 หรือสูงกว่า
-- ติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells</code>.
+-  ติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งดังนี้:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -65,7 +65,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ซึ่งเปิดตัวโดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ตามที่ระบุไว้ในส่วนที่ 2 ของ OOXML มาตรฐาน ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างพื้นฐานและไฟล์ได้โดยการคลายซิปไฟล์ .xlsx
+XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ที่นำมาใช้โดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ดังที่ระบุไว้ในส่วนที่ 2 ของมาตรฐาน OOXML ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างและไฟล์พื้นฐานได้โดยการแตกไฟล์ .xlsx
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -73,13 +73,13 @@ XLSX เป็นรูปแบบที่รู้จักกันดีส
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่นๆ ที่รองรับ" subTitle="การใช้ Python ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
+{{< blocks/products/pf/agp/other-supported-section title="ซ่อมแซมรูปแบบ Excel อื่น ๆ ที่รองรับ" subTitle="การใช้ Python ทำให้สามารถซ่อมแซมไฟล์รูปแบบ Excel อื่นๆ ได้อย่างง่ายดาย" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="ซ่อม ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="ซ่อม XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="ซ่อม XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="ซ่อม XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="ซ่อม XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-ods/" name="ซ่อมODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xls/" name="ซ่อมXLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsb/" name="ซ่อมXLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsm/" name="ซ่อมXLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/recovery/repair-xlsx/" name="ซ่อมXLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

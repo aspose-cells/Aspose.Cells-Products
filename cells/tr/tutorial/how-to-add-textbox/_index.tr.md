@@ -2,49 +2,49 @@
 title: Aspose.Cells aracılığıyla TextBox nasıl eklenir?
 weight: 7700
 limit:
-description: TextBox'u nasıl ekleyeceğinizi öğrenin.
+description: TextBox'ı nasıl ekleyeceğinizi öğrenin.
 keywords: [Add TextBox., how to add TextBox in Aspose.Cells., how to add TextBox using Aspose.Cells]
 url: /tr/tutorial/add-textbox-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Aspose.Cells ile TextBox\'u nasıl ekleyeceğinizi öğrenin" >}}
+{{< blocks/products/pf/feature-page-section h2="Aspose.Cells ile TextBox\'ı nasıl ekleyeceğinizi öğrenin" >}}
 
 <p>
-Bu eğitimde, bir excel dosyasına TextBox ekleyeceğiz.
+Bu derste, bir excel dosyasına TextBox ekleyeceğiz.
 </p>
 
 <p>
- Kullanarak yeni bir çalışma kitabı oluşturarak başlayacağız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kitaplık</a> ve TextBox'u ekleyin.
+ kullanarak yeni bir çalışma kitabı oluşturarak başlayacağız.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells kütüphane</a> ve TextBox'ı ekleyin.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: TextBox'u nasıl ekleyeceğinizi öğrenmek için lütfen aşağıdaki kodu kontrol edin.
-//ExStepSummary:0: Aşağıdaki kod, TextBox'ın nasıl ekleneceğini ve metnin nasıl ayarlanacağını gösterir.
+//ExSummary: TextBox'un nasıl eklendiğini öğrenmek için lütfen aşağıdaki kodu kontrol edin.
+//ExStepSummary:0: Aşağıdaki kod, TextBox'un nasıl ekleneceğini ve metnin nasıl ayarlanacağını gösterir.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: Aşağıdaki kod, metnin renginin nasıl değiştirileceğini gösterir.
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: Aşağıdaki kod, TextBox'ın dönüş açısının nasıl değiştirileceğini gösterir.
-//ExStepImage:2:step-3.png
+//ExStepSummary:2: Aşağıdaki kod, TextBox'un dönüş açısının nasıl değiştirileceğini gösterir.
+//ExStepImage:2:adım-3.png
 //ExStart
 //ExStep:0-
-Aspose.Cells kullanarak;
+Aspose.Cells'i kullanarak;
 Aspose.Cells kullanarak.Çizim;
 
 Çalışma kitabı çalışma kitabı = yeni Çalışma Kitabı();
-Çalışma sayfası sayfası = çalışma kitabı.Çalışma Sayfaları[0];
-sheet.PageSetup.PrintGridlines = true;
-sheet.PageSetup.PrintArea = "A1:F20";
+Çalışma sayfası sayfası = çalışma kitabı.Çalışma sayfaları[0];
+Sheet.PageSetup.PrintGridlines = true;
+Sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection şekilleri = levha.Shapes;
+ShapeCollection şekilleri = sayfa.Şekiller;
 
-//TextBox ekleyin ve metni ayarlayın
-Metin Kutusu metin Kutusu = şekiller.AddTextBox(1, 0, 1, 0, 200, 200);
-textBox.Text = "Aspose.Cells for .NET, yazılım geliştiricilerin elektronik tablo dosyalarını kendi uygulamalarında değiştirmelerine ve işlemelerine olanak tanıyan bir programlama sınıfı kitaplığıdır.";
+//TextBox'ı ekleyip metni ayarladık
+TextBox textBox = şekiller.AddTextBox(1, 0, 1, 0, 200, 200);
+textBox.Text = "Aspose.Cells for .NET, yazılım geliştiricilerin elektronik tablo dosyalarını kendi uygulamaları içinde değiştirmelerine ve işlemelerine olanak tanıyan bir programlama sınıfı kitaplığıdır.";
 
 //ExStep:1-
-//metnin rengini değiştir
+//Metnin rengini değiştir
 textBox.Font.Color = Renk.Mavi;
 
 //ExStep:2-

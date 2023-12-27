@@ -1,16 +1,17 @@
 ---
-title: Excel Dosya Ek Açıklamaları via Java
-description: Java kitaplığıyla Excel ve OpenOffice elektronik tablolarına veri açıklaması ekleyin veya kaldırın.
+title: Excel Dosyası Ek Açıklamalarını Ekleme veya Kaldırma via Java
+description: Java kitaplığıyla Excel ve OpenOffice elektronik tablolarına veri ek açıklamaları ekleyin veya kaldırın.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosya Ek Açıklamalarını Yönet via Java" h2="Açıklama için basit notlar ekleyin veya Java tabanlı uygulamalarda Excel elektronik tablo hücre düzeyinde yorumları silin." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosyası Ek Açıklamalarını Yönet via Java" h2="Java tabanlı uygulamalarda açıklama eklemek için basit notlar ekleyin veya Excel elektronik tablosu hücre düzeyindeki yorumları silin." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel API](/cells/tr/java/) yorumlar ekleyerek, bunlara erişerek ve silerek ek açıklamaları hücre düzeyinde yönetme desteği sağlar. API sağlar[Yorum](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [Yorum Koleksiyonu](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [DişliYorum](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) Ve[KonuluYorum Koleksiyonu](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) tüm yönleriyle yorumları işlemek için.
-Desteklenen dosya biçimleri arasında ODS, XLS, XLSX, XLSB ve XLSM bulunur.
+[JavaExcel API](/cells/tr/java/) Yorumlar ekleyerek, bunlara erişerek ve silerek ek açıklamaları hücre düzeyinde yönetme desteği sağlar. API sağlar[Yorum](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [YorumKoleksiyonu](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [KonuluYorum](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) Ve[KonuluYorumKoleksiyon](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) Yorumları her yönüyle ele almak için.
+Desteklenen dosya formatları arasında ODS, XLS, XLSX, XLSB ve XLSM bulunur.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Excel Dosyaları Veri Açıklamaları" %}}
- Çalışma Sayfalarında Yorumları Yönetme - MS Excel'de bir sayfada kaç yorum olacağı konusunda herhangi bir sınır yoktur. Başvuru şartı kadar ekleme yapılabilir. Yorum ekleme süreci, oluşturmaktır[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)class nesnesini kullanın veya Workbook sınıfını kullanarak mevcut bir dosyayı yükleyin. getComments() kullanarak tüm yorumlarına erişin. Hücre dizinini alın ve kullanın[not ayarla](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) yorum eklemek için. Ayrıca API tüm yorumları silme özelliğine sahiptir.
+{{% blocks/products/pf/feature-page-section h2="Excel Dosyalarındaki Veri Ek Açıklamaları" %}}
+ Çalışma Sayfalarındaki Yorumları Yönetme - MS Excel'de bir sayfanın yorum sayısında herhangi bir sınırlama yoktur. Başvuru gereksinimi kadar ekleme yapılabilir. Yorum ekleme süreci şu şekildedir:[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)class nesnesini kullanın veya Workbook sınıfını kullanarak mevcut bir dosyayı yükleyin. GetComments()'ı kullanarak tüm yorumlarına erişin. Hücre indeksini alın ve kullanın[setNot](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) yorum eklemek için. Üstelik API tüm yorumları kaldırma özelliğine sahiptir.
 
 {{% blocks/products/pf/feature-page-code h3="Java Excel Dosyasına Yorum Ekleme Kodu" %}}
 

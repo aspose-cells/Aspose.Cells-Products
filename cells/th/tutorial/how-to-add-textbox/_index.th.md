@@ -1,5 +1,5 @@
 ---
-title: วิธีเพิ่ม TextBox ผ่าน Aspose.Cells
+title: วิธีเพิ่มกล่องข้อความทาง Aspose.Cells
 weight: 7700
 limit:
 description: เรียนรู้วิธีเพิ่มกล่องข้อความ
@@ -8,38 +8,38 @@ url: /th/tutorial/add-textbox-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="เรียนรู้การเพิ่ม TextBox ด้วย Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="เรียนรู้วิธีเพิ่มกล่องข้อความด้วย Aspose.Cells" >}}
 
 <p>
-ในบทช่วยสอนนี้ เราจะเพิ่ม TextBox ในไฟล์ excel
+ในบทช่วยสอนนี้ เราจะเพิ่มกล่องข้อความในไฟล์ Excel
 </p>
 
 <p>
- เราจะเริ่มต้นด้วยการสร้างสมุดงานใหม่โดยใช้<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells ห้องสมุด</a> และเพิ่ม TextBox
+ เราจะเริ่มต้นด้วยการสร้างสมุดงานใหม่โดยใช้<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells ห้องสมุด</a> และเพิ่มกล่องข้อความ
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: โปรดตรวจสอบโค้ดต่อไปนี้เพื่อดูวิธีการเพิ่ม TextBox
-//ExStepSummary:0: โค้ดต่อไปนี้แสดงวิธีการเพิ่ม TextBox และตั้งค่าข้อความ
+//ExSummary: โปรดตรวจสอบโค้ดต่อไปนี้เพื่อดูวิธีเพิ่มกล่องข้อความ
+//ExStepSummary:0: รหัสต่อไปนี้แสดงวิธีการเพิ่มกล่องข้อความและตั้งค่าข้อความ
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: รหัสต่อไปนี้แสดงวิธีการเปลี่ยนสีของข้อความ
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: รหัสต่อไปนี้แสดงวิธีการเปลี่ยนมุมการหมุนของ TextBox
+//ExStepSummary:2: รหัสต่อไปนี้แสดงวิธีการเปลี่ยนมุมการหมุนของกล่องข้อความ
 //ExStepImage:2:step-3.png
-// เอ็กซ์สตาร์ท
+//ExStart
 //ExStep:0-
-โดยใช้ Aspose.Cells;
-โดยใช้ Aspose.Cells.Drawing;
+ใช้ Aspose.Cells;
+ใช้ Aspose.Cells.วาดรูป;
 
 สมุดงานสมุดงาน = สมุดงานใหม่ ();
-แผ่นงาน = workbook.Worksheets[0];
+แผ่นงาน = สมุดงาน แผ่นงาน[0];
 sheet.PageSetup.PrintGridlines = จริง;
 sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection รูปร่าง = sheet.Shapes;
+รูปร่าง ShapeCollection = แผ่น รูปร่าง;
 
-// เพิ่ม TextBox และตั้งค่าข้อความ
+//เพิ่มกล่องข้อความและตั้งค่าข้อความ
 กล่องข้อความ textBox = รูปร่าง AddTextBox(1, 0, 1, 0, 200, 200);
 textBox.Text = "Aspose.Cells for .NET เป็นไลบรารีคลาสการเขียนโปรแกรมที่ช่วยให้นักพัฒนาซอฟต์แวร์จัดการและประมวลผลไฟล์สเปรดชีตภายในแอปพลิเคชันของตนเอง";
 
@@ -48,8 +48,8 @@ textBox.Text = "Aspose.Cells for .NET เป็นไลบรารีคลา
 textBox.Font.Color = Color.Blue;
 
 //ExStep:2-
-// เปลี่ยนมุมการหมุนของ TextBox
-textBox.RotationAngle = 90;
+//เปลี่ยนมุมการหมุนของกล่องข้อความ
+กล่องข้อความ RotationAngle = 90;
 
 //ExStep:0-
 
@@ -61,7 +61,7 @@ textBox.RotationAngle = 90;
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">งานติดตั้งAspose.Cells</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">ติดตั้งAspose.Cells</a></li>
         <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells บรรณาธิการ</a></li>
     </ul>
 </div>

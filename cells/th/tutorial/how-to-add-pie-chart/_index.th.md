@@ -1,5 +1,5 @@
 ---
-title: วิธีเพิ่มแผนภูมิวงกลม โดย Aspose.Cells
+title: วิธีเพิ่มแผนภูมิวงกลมทาง Aspose.Cells
 weight: 7700
 limit:
 description: เรียนรู้วิธีเพิ่มแผนภูมิวงกลม
@@ -8,10 +8,10 @@ url: /th/tutorial/add-pie-chart-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="เรียนรู้วิธีเพิ่มแผนภูมิวงกลมด้วย Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="เรียนรู้การเพิ่มแผนภูมิวงกลมกับ Aspose.Cells" >}}
 
 <p>
-ในบทช่วยสอนนี้ เราจะเพิ่มแผนภูมิวงกลมในไฟล์ excel
+ในบทช่วยสอนนี้ เราจะเพิ่มแผนภูมิวงกลมในไฟล์ Excel
 </p>
 
 <p>
@@ -21,46 +21,46 @@ url: /th/tutorial/add-pie-chart-in-excel
 <br />
 {{< app/cells/tutorial >}}
 //ExSummary: โปรดตรวจสอบโค้ดต่อไปนี้เพื่อดูวิธีเพิ่มแผนภูมิวงกลม
-//ExStepSummary:0: โค้ดต่อไปนี้แสดงวิธีเพิ่มแผนภูมิวงกลม ตั้งค่าช่วงข้อมูลชุดข้อมูล และตั้งค่าช่วงข้อมูลหมวดหมู่
+//ExStepSummary:0: รหัสต่อไปนี้แสดงวิธีการเพิ่มแผนภูมิวงกลม ตั้งค่าช่วงข้อมูลชุด และตั้งค่าช่วงข้อมูลหมวดหมู่
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: รหัสต่อไปนี้แสดงวิธีปิดคำอธิบายแผนภูมิ
+//ExStepSummary:1: รหัสต่อไปนี้แสดงวิธีการปิดคำอธิบายแผนภูมิ
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: โค้ดต่อไปนี้แสดงวิธีเข้าถึงป้ายข้อมูล เปิดชื่อหมวดหมู่ เปิดรูปแบบเปอร์เซ็นต์ และกำหนดตำแหน่ง
+//ExStepSummary:2: รหัสต่อไปนี้แสดงวิธีการเข้าถึงป้ายกำกับข้อมูล เปิดชื่อหมวดหมู่ เปิดรูปแบบเปอร์เซ็นต์ และกำหนดตำแหน่ง
 //ExStepImage:2:step-3.png
-// เอ็กซ์สตาร์ท
+//ExStart
 //ExStep:0-
-โดยใช้ Aspose.Cells;
-โดยใช้ Aspose.Cells.Drawing;
+ใช้ Aspose.Cells;
+ใช้ Aspose.Cells.วาดรูป;
 
 สมุดงานสมุดงาน = สมุดงานใหม่ ();
-แผ่นงาน = workbook.Worksheets[0];
-sheet.Name = "แผ่นงานแผนภูมิ";
-Cells เซลล์ = sheet.Cells;
+แผ่นงาน = สมุดงาน แผ่นงาน[0];
+sheet.Name = "แผนภูมิชีต";
+Cells เซลล์ = แผ่น Cells;
 เซลล์["A1"].Value = "ผลไม้";
-เซลล์ ["A2"].Value = "แอปเปิ้ล";
-เซลล์ ["A3"].Value = "ส้ม";
-เซลล์ ["A4"].Value = "บลูเบอร์รี่";
-เซลล์ ["A5"].Value = "กีวี";
+เซลล์["A2"].Value = "แอปเปิ้ล";
+เซลล์["A3"].Value = "สีส้ม";
+เซลล์["A4"].Value = "บลูเบอร์รี่";
+เซลล์["A5"].Value = "กีวี";
 
 เซลล์["B1"].Value = "ราคา";
-เซลล์["B2"].Value = 10;
-เซลล์["B3"].Value = 5;
-เซลล์["B4"].Value = 20;
-เซลล์["B5"].Value = 8;
+เซลล์["B2"].ค่า = 10;
+เซลล์["B3"].ค่า = 5;
+เซลล์["B4"].ค่า = 20;
+เซลล์["B5"].ค่า = 8;
 
 sheet.PageSetup.PrintGridlines = จริง;
 sheet.PageSetup.PrintArea = "A1:F20";
 
 แผนภูมิ ChartCollection = sheet.Charts;
 
-//เพิ่มแผนภูมิวงกลม กำหนดช่วงข้อมูลชุดข้อมูล และกำหนดช่วงข้อมูลหมวดหมู่
-ดัชนี int = sheet.Charts.Add (ChartType.Pie, 6, 0, 19, 5);
-แผนภูมิ แผนภูมิ = sheet.Charts[ดัชนี];
+//เพิ่มแผนภูมิวงกลม กำหนดช่วงข้อมูลอนุกรม และกำหนดช่วงข้อมูลหมวดหมู่
+ดัชนี int = sheet.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
+แผนภูมิแผนภูมิ = sheet.Charts[ดัชนี];
 chart.NSeries.Add("B2:B5", จริง);
 chart.NSeries.CategoryData = "A2:A5";
 
 //ExStep:1-
-// ปิดตำนาน
+//ปิดตำนาน
 chart.ShowLegend = เท็จ;
 
 //ExStep:2-
@@ -80,7 +80,7 @@ dataLabels.Position = LabelPositionType.OutsideEnd;
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">งานติดตั้งAspose.Cells</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">ติดตั้งAspose.Cells</a></li>
         <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells บรรณาธิการ</a></li>
     </ul>
 </div>

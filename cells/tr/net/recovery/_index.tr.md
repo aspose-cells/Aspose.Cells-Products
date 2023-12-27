@@ -1,6 +1,7 @@
 ---
-title: Excel dosyasını onarın via .NET
-description: C#'i kullanarak bozuk bir excel dosyasını onarın. .NET uygulamasında bozuk excel dosyasını onarmak için kurtarma aracı.
+title: C# Excel'i Onar - Bozuk excel Dosyasını Kurtarın ve Onarın
+description: C# Aspose.Cells. Excel'i onarın. Excel dosyasını düzeltin. excel kurtarma aracı. excel yolsuzluk. Excel verilerini geri yükleyin. excel dosya kurtarma. Bozuk excel dosyasını kurtarın.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL dosyasını C# aracılığıyla kurtarın" h2=".NET\'i kullanarak excel dosyalarını onarmak için kendi .NET uygulamanızı oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -14,16 +15,16 @@ description: C#'i kullanarak bozuk bir excel dosyasını onarın. .NET uygulamas
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API.
  
- Aspose.Cells API, Microsoft Excel formatlarını oluşturmak, düzenlemek, dönüştürmek ve farklı formatlara dönüştürmek için kullanılabilir. Ayrıca, yazılım uygulamalarında kapsamlı çizelgeleme, ölçeklenebilir raporlama ve güvenilir hesaplamalar için kullanılabilir. Aspose.Cells bağımsız bir API'dir ve Microsoft veya OpenOffice gibi herhangi bir yazılım gerektirmez.
+ Aspose.Cells API, Microsoft Excel formatlarını oluşturmak, düzenlemek, dönüştürmek ve farklı formatlara dönüştürmek için kullanılabilir. Ayrıca yazılım uygulamalarında kapsamlı grafik oluşturma, ölçeklenebilir raporlama ve güvenilir hesaplamalar için de kullanılabilir. Aspose.Cells bağımsız bir API'dir ve Microsoft veya OpenOffice gibi herhangi bir yazılım gerektirmez.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title=".NET kullanarak EXCEL dosyasını onarmak için Ücretsiz Uygulama" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}
+{{% cells-recovery title=".NET\'i kullanarak EXCEL dosyasını onarmak için Ücretsiz Uygulama" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# kullanarak excel dosyası nasıl onarılır" %}}
 
 + Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
-+ Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
++ Yukarıdaki miras sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -31,25 +32,25 @@ description: C#'i kullanarak bozuk bir excel dosyasını onarın. .NET uygulamas
 
 {{% blocks/products/pf/agp/content h2="Excel dosyasını onarmak için Aspose.Cells\'i yükleyin" %}}
 
-Aspose.Cells for .NET'i sisteminize yüklemek için üç alternatif seçenek vardır.
--  Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve kurun.
--  Visual Studio'da Aspose.Cells'i NuGet paket yöneticisi ile kurun. Görmek[Belgeler](https://docs.aspose.com/cells/net/getting-started/#install-asposecells-through-nuget). 
--  İndirmek[Aspose.Cells.msi](https://releases.aspose.com/cells/net/) ve pencerelere kurun.
+Sisteminize Aspose.Cells for .NET kurulumu için üç alternatif seçenek bulunmaktadır.
+-  Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve yükleyin.
+-  Visual Studio'da Aspose.Cells'i NuGet paket yöneticisiyle yükleyin. Görmek[Dokümantasyon](https://docs.aspose.com/cells/net/getting-started/#install-asposecells-through-nuget). 
+-  İndirmek[Aspose.Cells.msi](https://releases.aspose.com/cells/net/) ve Windows'a yükleyin.
 
 {{% /blocks/products/pf/agp/content %}}
 
     
 {{% blocks/products/pf/agp/content h2="sistem gereksinimleri" %}}
 
- Aspose.Cells for .NET, tüm büyük işletim sistemlerinde desteklenir. Sadece aşağıdaki ön koşullara sahip olduğunuzdan emin olun.
+ Aspose.Cells for .NET tüm önemli işletim sistemlerinde desteklenir. Sadece aşağıdaki önkoşullara sahip olduğunuzdan emin olun.
  
-Aspose.Cells tamamen platformlar arasıdır ve .NET Standard 2.0 spesifikasyonunu izleyen tüm önemli .NET uygulamalarını destekler:
--  .NET Çerçeve, en eski 2.0 sürümünden başlar ve en son .NET Çerçeve 4.8 ile biter.
--  .NET Core, en eski 2.0'dan başlayıp en son .NET 6 ile biten.
+Aspose.Cells tamamen platformlar arasıdır ve .NET Standart 2.0 spesifikasyonuna uygun tüm önemli .NET uygulamalarını destekler:
+-  .NET Çerçeve, en eski 2.0 sürümünden başlayıp en son .NET Çerçeve 4.8 ile bitiyor.
+-  .NET Çekirdek, en eski 2.0'dan başlayıp en son .NET 6 ile bitiyor.
 
-.NET kodunun altta yatan donanıma veya işletim sistemine bağlı olmadığı ve yalnızca bir Sanal Makinede bağlı olduğu sürece, Windows, Linux, macOS, Android ve iOS için her türlü yazılımı geliştirmekte özgürsünüz. Azure ve AWS Lambda da desteklenir. .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünü yüklediğinizden emin olun.
+.NET kodu, temel donanıma veya işletim sistemine bağlı değildir, yalnızca bir Sanal Makineye bağlıdır; Windows, Linux, macOS, Android ve iOS için her türlü yazılımı geliştirmekte özgürsünüz. Azure ve AWS Lambda da desteklenmektedir. .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin'in ilgili sürümünü yüklediğinizden emin olun.
 
-C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, VSCode kullanmanızı öneririz.
+C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, VSCode'u kullanmanızı öneririz.
 
 {{% /blocks/products/pf/agp/content %}}
     
@@ -59,7 +60,7 @@ C#, F#, VB.NET uygulamaları oluşturmak için Microsoft Visual Studio, VSCode k
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. OOXML standardı ECMA-376'nın 2. Bölümünde özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak, yeni biçim şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Altta yatan yapı ve dosyalar, yalnızca .xlsx dosyasını açarak incelenebilir.
+XLSX, Microsoft tarafından Microsoft Office 2007 sürümüyle tanıtılan Microsoft Excel belgeleri için iyi bilinen bir formattır. OOXML standardı ECMA-376'nın 2. Kısmında özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak yeni format şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Temel yapı ve dosyalar, .xlsx dosyasının sıkıştırması açılarak incelenebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -67,13 +68,13 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Biçimlerini Onarın" subTitle="C#\'i kullanarak, diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Excel Formatlarını Onarın" subTitle="C#\'i kullanarak diğer Excel formatındaki dosyaları kolayca onarabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Tamir ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Tamir XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Tamir XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Tamir XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Tamir XLSX" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Onarım ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Onarım XLS" description="Excel İkili Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Onarım XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Onarım XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Onarım XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

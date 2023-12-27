@@ -1,5 +1,5 @@
 ---
-title:  เปรียบเทียบสเปรดชีต Excel บน Windows, Linux & macOS
+title:  เปรียบเทียบสเปรดชีต Excel บน Windows, Linux และ macOS
 weight: 7730
 description: แอปและ API ฟรีสำหรับ Excel XLS, XLSX, CSV, TSV, ODS, SXC และ FODS การเปรียบเทียบไฟล์
 ---

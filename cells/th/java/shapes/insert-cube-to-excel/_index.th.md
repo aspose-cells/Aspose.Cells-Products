@@ -2,6 +2,7 @@
 title:  แทรก Cube ลงใน Excel via Java
 weight: 20
 description: แทรกวัตถุโดยใช้ Aspose.Cells' Java API โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF เป็นต้น
+keywords: [Java Aspose.Cells., Java add Cube shape., Java insert Cube shape., Java create Cube shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แทรก Cube ลงใน Excel via Java" h2="แทรก Cube โดยใช้ Aspose.Cells\' API โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF เป็นต้น" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: แทรกวัตถุโดยใช้ Aspose.Cells' Java AP
 
 {{% blocks/products/pf/agp/content h2="วิธีแทรก Cube ลงในไฟล์ Excel โดยใช้ Java" %}}
 
- ในการแทรก Cube ลงในไฟล์ excel เราจะใช้
+ เพื่อที่จะแทรก Cube ลงในไฟล์ Excel เราจะใช้
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ซึ่งเป็นแพลตฟอร์มที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย API for Java คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
+ API ซึ่งเป็นแพลตฟอร์ม API for Java ที่มีคุณสมบัติครบครัน ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- และติดตั้งภายในโครงการที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
+ และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
 
 {{% blocks/products/pf/agp/code-block title="พื้นที่เก็บข้อมูล" offSpacer="true" %}}
 
@@ -31,7 +32,7 @@ description: แทรกวัตถุโดยใช้ Aspose.Cells' Java AP
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{% blocks/products/pf/agp/code-block title="การพึ่งพา" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="การพึ่งพาอาศัยกัน" offSpacer="true" %}}
 
 ```cs
 
@@ -56,7 +57,7 @@ description: แทรกวัตถุโดยใช้ Aspose.Cells' Java AP
 
 {{% /blocks/products/pf/agp/text %}}
 
-การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX พร้อมเส้นทางแบบเต็ม)
++ การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX ด้วยเส้นทางแบบเต็ม)
 + เลือกแผ่นงานผ่านดัชนี
  + ใช้[เพิ่มวิธีการ](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) เพื่อแทรก Cube ในเวิร์กชีตที่เลือก
 + บันทึกสมุดงานในรูปแบบ XLSX
@@ -67,16 +68,16 @@ description: แทรกวัตถุโดยใช้ Aspose.Cells' Java AP
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java รองรับแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for Java รองรับแพลตฟอร์มและระบบปฏิบัติการหลักๆ ทั้งหมด โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
-- รับเวอร์ชันล่าสุดของ Aspose.Cells for Java โดยตรงจาก Maven
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+- รับเบอร์ล่าสุด Aspose.Cells for Java โดยตรงจาก Maven
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ใส่ลูกบาศก์ - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="ใส่คิวบ์ - Java" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertCubeIntoWorksheet.java" >}}
 
@@ -91,7 +92,7 @@ description: แทรกวัตถุโดยใช้ Aspose.Cells' Java AP
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells for Java API" %}}
 
- Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
+ Aspose.Cells API สามารถใช้สร้าง แก้ไข แปลง และเรนเดอร์รูปแบบ Excel Microsoft เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลน และไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
 
     {{% /blocks/products/pf/agp/content %}}

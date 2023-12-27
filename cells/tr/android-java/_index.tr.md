@@ -1,10 +1,10 @@
 ---
 title: Android Excel Elektronik Tablosu API - Aspose
 weight: 6510
-description: Okuma yazma oluşturmak ve Excel dosyalarını ayrıştırmak için Android elektronik tablo kitaplığı. Mobil Uygulama geliştirme için bir e-tablo API
+description: Excel dosyalarını okuma, yazma ve ayrıştırmaya yönelik Android elektronik tablo kitaplığı. Mobil Uygulama geliştirme için API elektronik tablosu
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Yönetmek için Android API\'leri" h2="Herhangi bir bağımlılık olmadan Android uygulamalarında Excel dosyaları oluşturun, okuyun, yazın veya değiştirin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Yönetmek için Android API\'leri" h2="Android uygulamalarında herhangi bir bağımlılık olmadan Excel dosyaları oluşturun, okuyun, yazın veya değiştirin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Okuma yazma oluşturmak ve Excel dosyalarını ayrıştırmak için
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java, elektronik tabloları programlı olarak oluşturmak, birleştirmek, değiştirmek ve ayrıştırmak için ölçeklenebilir bir API'dir. API, excel belge biçimlendirme ve sayfa kurulum görevleri, içe ve dışa aktarma yetenekleri, çalışma sayfası sayfalarını raster görüntülere dönüştürmenin yanı sıra görüntü çözünürlüğünü, kalitesini, sıkıştırmayı belirleme, farklı grafikler ekleme ve çok daha fazlasını içeren birçok işlev sunar. Android e-tablosu XLS, XLSX, CSV, SpreadsheetML, ODS, Sekmeyle Ayrılmış, HTML, PDF, XPS ve daha fazla formatı destekler.
+ Aspose.Cells for Android via Java, elektronik tabloları programlı olarak oluşturmak, birleştirmek, değiştirmek ve ayrıştırmak için ölçeklenebilir bir API'dir. API, excel belge biçimlendirme ve sayfa düzenleme görevleri, içe ve dışa aktarma yetenekleri, çalışma sayfası sayfalarını taramalı görüntülere dönüştürmenin yanı sıra görüntü çözünürlüğünü, kalitesini, sıkıştırmayı belirtme, farklı grafikler ekleme ve çok daha fazlasını içeren birçok işlev sunar. Android e-tablosu API, XLS, XLSX, CSV, SpreadsheetML, ODS, Sekmeyle Ayrılmış, HTML, PDF, XPS ve daha fazla formatı destekler.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,18 +20,18 @@ description: Okuma yazma oluşturmak ve Excel dosyalarını ayrıştırmak için
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API özelliklerine genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="API yeteneklerine genel bakış." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- &amp; İhracat
+ İçe aktar ve İhracat
    </header>
    <ul>
     <li>
- diziler
+ Diziler
     </li>
     <li>
  Sonuç kümesi
@@ -43,17 +43,17 @@ Koleksiyonlar
    <header>
     <i class="fa fa-cog">
     </i>
- oluşturma
+ İşleme
    </header>
    <ul>
     <li>
  Grafikten Görüntüye
     </li>
     <li>
- Çalışma Sayfasından Görüntüye
+ Görüntüye Çalışma Sayfası
     </li>
     <li>
- PDF e-tablo
+ PDF'e ait elektronik tablo
     </li>
    </ul>
   </div>
@@ -72,10 +72,10 @@ Koleksiyonlar
  Formülü Uygula
     </li>
     <li>
- Grafik Oluştur
+ Grafikler Oluşturun
     </li>
     <li>
- özetle
+ Özetle
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -95,7 +95,7 @@ Koleksiyonlar
     <em>
  için
     </em>
- android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -104,7 +104,7 @@ Koleksiyonlar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Android via Java for Android 2.0 ve üzeri mevcuttur." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Android via Java, for Android 2.0 veya üzeri mevcuttur." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -135,7 +135,7 @@ Koleksiyonlar
     <em>
  için
     </em>
- android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -144,7 +144,7 @@ Koleksiyonlar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Android e-tablosu API, popüler Microsoft Excel biçimlerini, resimleri ve sabit düzen biçimlerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Android elektronik tablosu API, popüler Microsoft Excel formatlarını, resimlerini ve sabit düzen formatlarını destekler." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +156,7 @@ Koleksiyonlar
    <ul>
     <li>
      <b>
- Microsoft excel:
+ Microsoft Excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -185,7 +185,7 @@ Koleksiyonlar
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıktı
+ Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -215,7 +215,7 @@ Koleksiyonlar
     <em>
  için
     </em>
- android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -249,42 +249,42 @@ Koleksiyonlar
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- ArrayList, Array, Recordset &amp; Sonuç kümesi
+ ArrayList, Array, Recordset ve amp; öğelerinden verileri dışa ve içe aktarın Sonuç kümesi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Şifrele &amp; Excel dosyalarının şifresini çözme
+ Şifrele ve Excel dosyalarının şifresini çözmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Numara biçimlendirmesini ayarla
+ Sayı biçimlendirmesini ayarlama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; çizelgeleri manipüle etmek
+ Oluştur ve oluştur grafikleri manipüle etmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; yorumları manipüle etmek
+ Oluştur ve oluştur yorumları değiştirmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Okuma, ayarlama &amp; formülleri hesapla
+ Okuyun, ayarlayın ve formülleri hesapla
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +298,14 @@ Koleksiyonlar
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; &amp; sayfa sonları
+ Ayarla ve ayarla otomatik filtreleri değiştir &amp; sayfa sonları
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oku &amp; koşullu biçimlendirme yaz
+ Oku ve oku koşullu biçimlendirme yaz
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,14 +319,14 @@ Koleksiyonlar
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Microsoft Excel XP'den beri sunulan koruma seçeneklerini ayarlayın
+ Microsoft Excel XP'den bu yana sunulan koruma seçeneklerini ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hücreleri manipüle et &amp; adlandırılmış aralıklar
+ Hücreleri yönetin ve yönetin adlandırılmış aralıklar
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Koleksiyonlar
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Çalışma sayfalarını dönüştürme &amp; grafiklerden resimlere
+ Çalışma sayfalarını dönüştürün ve dönüştürün. grafiklerden görüntülere
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,28 +419,28 @@ Koleksiyonlar
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; Pivot Tabloları manipüle etme
+ Oluştur ve oluştur Pivot Tabloları işlemek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; özel grafikleri işlemek
+ Oluştur ve oluştur özel grafikleri işleme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Emsalleri ve Bağımlıları İzleyin
+ Emsalleri ve Bağımlıları Takip Edin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; Senaryoları manipüle etmek
+ Oluştur ve oluştur Senaryoları manipüle etmek
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,19 +454,19 @@ Güçlü formül hesaplama motoru
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oku &amp; TSV, CSV &amp; HTML dosya
+ Oku ve oku TSV, CSV & amp; HTML dosyalar
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Farklı Formatlar Dönüşümü
+ Farklı Formatlara Dönüştürme
     </h2>
     <p>
- Android Excel kitaplığı, elektronik tabloların XPS, PDF &amp; HTML formatları en yüksek görsel doğruluğu korur. Güvenilir dönüştürme işlemi, API'i şirketler için endüstri standardı formatlarda dosya alışverişi yapmak için mükemmel bir seçim haline getirir.
+ Android Excel kitaplığı, e-tabloların XPS, PDF ve PDF'e dönüştürülmesini sağlar. En yüksek görsel doğruluğu koruyan HTML formatları. Güvenilir dönüştürme işlemi, API'i endüstri standardı formatlarda dosya alışverişi yapan şirketler için mükemmel bir seçim haline getiriyor.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Çalışma Kitabını çeşitli biçimlerde kaydetme - Java
+ Çalışma Kitabını çeşitli formatlarda kaydedin - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Elektronik Tablo Nesnelerini Farklı Formatlara Dönüştürün
+ Elektronik Tablo Nesnelerini Farklı Formatlara Dönüştürme
     </h2>
     <p>
- Aspose.Cells for Android via Java, çalışma sayfalarından resimlere, çizelgelerden resimlere &amp; PDF ve elektronik tabloları PDF'e belge biçimi dönüştürme. Esnek işlem, elektronik tablolar sırasında görüntülerin PDF'e yeniden örneklenmesi veya çalışma sayfalarını işlerken &amp; resim formatlarına grafikler.
+ Aspose.Cells for Android via Java çalışma sayfalarından resimlere, grafiklerden resimlere ve resimlere kadar bazı ayırt edici özellikler sunar. PDF ve elektronik tabloları PDF belge formatına dönüştürme. Esnek süreç, e-tablolar sırasında görüntülerin PDF'e yeniden örneklenmesi veya çalışma sayfaları ve çalışma sayfaları oluşturulurken ortaya çıkan görüntü boyutlarının ayarlanması gibi dönüştürme için bir dizi seçeneğe sahiptir. grafikleri görüntü formatlarına dönüştürün.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-E-tablo API Formül Hesaplama Motoru
+Elektronik Tablo API Formül Hesaplama Motoru
     </h2>
     <p>
- Android sayfaları API, gelişmiş ve standart Microsoft Excel işlevlerini ve formüllerini destekleyen güçlü bir Formül Hesaplama Motoru sağlar. Formül hesaplama motoru, yerleşik veya eklenti tipi, dizi ve R1C1 referans stili formüllerinin sonuçlarını okumayı, ayarlamayı ve hesaplamayı kolaylaştırır.
+ Android sayfaları API, gelişmiş ve standart Microsoft Excel işlevlerini ve formüllerini destekleyen güçlü bir Formül Hesaplama Motoru sağlar. Formül hesaplama motoru, yerleşik veya eklenti türü, dizi ve R1C1 referans stili formüllerinin sonuçlarını okumayı, ayarlamayı ve hesaplamayı kolaylaştırır.
     </p>
    </div>
    <!--
@@ -570,10 +570,10 @@ E-tablo API Formül Hesaplama Motoru
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/androidjava/" >}}
+{{< blocks/products/pf/slr-element name="Dokümantasyon" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}

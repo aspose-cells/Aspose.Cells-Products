@@ -2,6 +2,7 @@
 title:  สร้างรายงานในไฟล์ XLSB via .NET
 weight: 1690
 description: ซอร์สโค้ด C# เพื่อสร้างรายงานรูปแบบ XLSB บน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
+keywords: [C# Aspose.Cells., c# Create XLSB Reports Based on Predesigned Excel Template., c# Generate XLSB Reports Based on Predesigned Excel Template., c# Create XLSB Reports Based on Excel Template., C# Generate XLSB Reports Based on Excel Template., c# Create XLSB files Based on Excel Template., C# Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="การสร้างรายงานจำนวนมากในรูปแบบ XLSB ผ่าน C#" h2="สร้างรายงานในรูปแบบ XLSB โดยใช้แหล่งข้อมูลและเทมเพลต" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,13 +12,13 @@ description: ซอร์สโค้ด C# เพื่อสร้างรา
 
 {{% blocks/products/pf/agp/content h2="วิธีสร้างรายงานตาม XLSB โดยใช้ C#" %}}
 
- เพื่อสร้างรายงาน XLSB เราจะใช้
+ ในการสร้างรายงาน XLSB เราจะใช้
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นรายงานที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการสร้างรายงานที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  ผู้จัดการแพ็คเกจ ค้นหา
  **Aspose.Cells** 
- และติดตั้ง. คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -33,17 +34,17 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนประกอบ XLSB ผ่าน C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนการประกอบ XLSB ผ่าน C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  สร้างอินสแตนซ์คลาส WorkbookDesigner
-1.  ตั้งค่าเครื่องหมายในเซลล์ใดๆ ของเวิร์กชีตใดๆ
+1.  ตั้งค่าเครื่องหมายในเซลล์ใดก็ได้ของแผ่นงาน
 1.  ตั้งค่าแหล่งข้อมูลสำหรับวัตถุ WorkbookDesigner
-1.  เรียกใช้เมธอด WorkbookDesigner.Process เพื่อเติมเทมเพลตด้วยข้อมูล
-1. บันทึกผลลัพธ์ในรูปแบบ XLSB ผ่านเมธอด WorkbookDesigner.Worbook.Save
+1.  เรียกเมธอด WorkbookDesigner.Process เพื่อเติมข้อมูลให้กับเทมเพลต
+1. บันทึกผลลัพธ์ในรูปแบบ XLSB โดยใช้วิธี WorkbookDesigner.Worbook.Save
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -51,7 +52,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for .NET รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +77,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
+ Aspose.Cells API สามารถใช้สร้าง แก้ไข แปลง และเรนเดอร์รูปแบบ Excel Microsoft เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลน และไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
 
 
@@ -84,14 +85,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="แอพประกอบฟรี XLSB" sectionDescription=" ตรวจสอบการสาธิตสดของเราไปที่[สร้างไฟล์ XLSB](https://products.aspose.app/cells/assembly/xlsb) ด้วยสิทธิประโยชน์ดังต่อไปนี้" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนหรือคอมไพล์โค้ด" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ XLSB แล้วกดปุ่ม \"ประกอบ\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" ดาวน์โหลดไฟล์ผลลัพธ์ XLSB จากลิงค์" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="แอพประกอบฟรี XLSB" sectionDescription=" ตรวจสอบการสาธิตสดของเราไปที่[สร้างไฟล์ XLSB](https://products.aspose.app/cells/assembly/xlsb) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไรเลย" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนหรือคอมไพล์โค้ด" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ XLSB แล้วกดปุ่ม \"Assemble\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" ดาวน์โหลดไฟล์ผลลัพธ์ XLSB จากลิงก์" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นชุดของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความแบบไม่มีโครงสร้างหรือกึ่งโครงสร้าง สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพ ไม่เหมือนกับ XLSX (ซึ่งใช้รูปแบบไฟล์ Open XML) XLSB แทนไฟล์สมุดงาน Excel แบบไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้เร็วกว่าซึ่งทำให้มีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้คือ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้ทั่วไปเลือกสำหรับการบันทึกสมุดงาน สามารถเปิดได้โดย Microsoft Office 2007 ขึ้นไป
+รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นคอลเลกชันของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพที่ไม่มีโครงสร้างหรือกึ่งโครงสร้าง ต่างจาก XLSX (ซึ่งยึดตามรูปแบบไฟล์ Open XML) XLSB แสดงถึงไฟล์เวิร์กบุ๊ก Excel ไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้รวดเร็วยิ่งขึ้น ซึ่งมีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้เลือกบ่อยที่สุดสำหรับการบันทึกสมุดงาน สามารถเปิดได้ภายใน Microsoft Office 2007 ขึ้นไป
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -99,7 +100,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการสร้างรายงานอื่นๆ ที่รองรับ" subTitle="การใช้ C# สามารถสร้างรายงานได้หลายรูปแบบรวมถึง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการสร้างรายงานอื่นๆ ที่รองรับ" subTitle="การใช้ C# จะทำให้สามารถสร้างรายงานได้หลากหลายรูปแบบ รวมถึง" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}

@@ -1,7 +1,8 @@
 ---
 title:  แทรก/สร้าง FlowChart ลงใน Excel via .NET
 weight: 371
-description: ซอร์สโค้ด C# เพื่อแทรก/สร้าง FlowChart ลงใน Excel บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
+description: C# ตัวอย่างโค้ดเพื่อเพิ่มหรือแทรก FlowChart ลงใน Excel โดยใช้ .NET Library ใช้รหัสนี้เพื่อสร้าง FlowChart ใน MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
+keywords: [C# Aspose.Cells., c# add FlowChart., c# insert FlowChart., c# create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แทรก/สร้าง FlowChart ลงใน Excel via .NET" h2="แทรก /สร้าง FlowChart โดยใช้ Aspose.Cells\' API โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF เป็นต้น" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,13 +12,13 @@ description: ซอร์สโค้ด C# เพื่อแทรก/สร�
 
 {{% blocks/products/pf/agp/content h2="วิธีแทรก/สร้าง FlowChart ลงในไฟล์ Excel โดยใช้ C#" %}}
 
- ในการแทรก/สร้าง FlowChart ลงในไฟล์ excel เราจะใช้
+ เพื่อที่จะแทรก/สร้าง FlowChart ลงในไฟล์ Excel เราจะใช้
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นการจัดการและแยกเอกสารที่มีฟีเจอร์หลากหลาย ทรงพลังและใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและแยกเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  ผู้จัดการแพ็คเกจ ค้นหา
  Aspose.Cells 
- และติดตั้ง. คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -33,17 +34,17 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนการแทรก/สร้าง FlowChart เป็นไฟล์ Excel ผ่าน C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนการแทรก/สร้าง FlowChart เป็นไฟล์ Excel ผ่านทาง C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-คุณต้องใช้ aspose.cells.dll เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
+คุณต้องมี aspose.cells.dll เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
 
 {{% /blocks/products/pf/agp/text %}}
 
-การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX พร้อมเส้นทางแบบเต็ม)
++ การสร้างอินสแตนซ์ของวัตถุสมุดงาน (หรือ->โหลดไฟล์ XLSX ด้วยเส้นทางแบบเต็ม)
 + เลือกแผ่นงานผ่านดัชนี
- + ใช้[เพิ่มวิธีการ](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) เพื่อแทรก/สร้าง FlowChart ในเวิร์กชีตที่เลือก
+ + ใช้[เพิ่มวิธีการ](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) เพื่อแทรก/สร้าง FlowChart ในแผ่นงานที่เลือก
 + บันทึกสมุดงานในรูปแบบ XLSX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET ได้รับการสนับสนุนบนระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for .NET รองรับระบบปฏิบัติการหลักทั้งหมด เพียงตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,9 +63,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-โค้ดตัวอย่างด้านล่างแสดงวิธีการแทรก "เอกสารหลายรายการ" สำหรับประเภทอื่นๆ โปรดดูที่ "ภาพรวมของประเภท FlowChart" ด้านล่าง
+โค้ดตัวอย่างด้านล่างสาธิตวิธีการแทรก "หลายเอกสาร" สำหรับประเภทเพิ่มเติม โปรดดูที่ "ภาพรวมของประเภท FlowChart" ด้านล่าง
 
-{{% blocks/products/pf/agp/code-block title="แทรก/สร้างผังงาน - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="แทรก/สร้าง FlowChart - C#" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertFlowChartIntoWorksheet.cs" >}}
 
@@ -93,7 +94,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/decision.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartการตัดสินใจ
+ AutoShapeType.FlowChartDecision
     </p>
    </div>
    <div class="col-lg-4">
@@ -105,25 +106,25 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/predefined_process.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartPredefinedProcess
+ AutoShapeType.FlowChartPredefedProcess
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/internal_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartInternalStorage
+AutoShapeType.FlowChartInternalStorage
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/document.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartเอกสาร
+ AutoShapeType.FlowChartDocument
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/multidocument.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartหลายเอกสาร
+ AutoShapeType.FlowChartMultidocument
     </p>
    </div>
    <div class="col-lg-4">
@@ -141,7 +142,7 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/manual_input.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartการป้อนข้อมูลด้วยตนเอง
+ AutoShapeType.FlowChartManualInput
     </p>
    </div>
    <div class="col-lg-4">
@@ -201,13 +202,13 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/extract.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartแยก
+ AutoShapeType.FlowChartExtract
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/merge.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartผสาน
+ AutoShapeTypeFlowChartMerge
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/delay.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChart ดีเลย์
+ AutoShapeTypeFlowChartDelay
     </p>
    </div>
    <div class="col-lg-4">
@@ -237,13 +238,13 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/direct_access_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartDirectAccessStorage
+ AutoShapeType.FlowChartDirectAccessStorage
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/display.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartDisplay
+AutoShapeType.FlowChartDisplay
     </p>
    </div>
   </div>
@@ -259,7 +260,7 @@ AutoShapeType.FlowChartDirectAccessStorage
 
 {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
+Aspose.Cells API สามารถใช้สร้าง แก้ไข แปลง และเรนเดอร์รูปแบบ Excel Microsoft เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลน และไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
 {{% /blocks/products/pf/agp/content %}}
 

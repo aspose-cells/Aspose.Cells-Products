@@ -1,16 +1,17 @@
 ---
 title: Java'de Excel Elektronik Tablosunu Çalışma Sayfalarına Bölün
-description: Java Microsoft Excel dosyalarının Java Excel kitaplığı kullanılarak birden çok belgeye nasıl bölüneceğini açıklayan kaynak kodları
+description: Java Excel kitaplığını kullanarak Microsoft Excel dosyalarının birden çok belgeye nasıl bölüneceğini açıklayan kaynak kodları
+keywords: [Java Aspose.Cells., Java split excel files., Java how to split excel files into multiple files., Java excel splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosya Bölme via Java" h2="Excel elektronik tablosunu Java tabanlı uygulamalarda çalışma sayfalarına ayırın" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosya Bölme via Java" h2="Java tabanlı uygulamalarda Excel elektronik tablosunu çalışma sayfalarına bölme" >}}
 {{% blocks/products/pf/feature-page-summary %}}
- Çeşitli senaryolar vardır, Excel dosyalarını, öğrenci verilerini içeren bir elektronik tablo gibi, her öğrenci için tek bir sayfanın tahsis edilmesiyle bölmeye ihtiyaç duyulduğunda. Ve her sayfayı öğrenciye göre ayrı bir dosya olarak bölmeye ihtiyaç vardır. via Java uygulamasını otomatikleştirmek için,[Java Excel API](/cells/tr/java/) Excel belgesini sayfalara bölmek için var. Desteklenen biçimler arasında XLS, XLSX, XLSB, XLSM, ODS bulunur.
+Excel dosyalarını, öğrenci verilerini içeren bir elektronik tablo gibi bölmek gerektiğinde, her öğrenci için tek bir sayfa tahsis edilmesi gereken çeşitli senaryolar vardır. Ve her öğrenci sayfasını ayrı bir dosya halinde akıllıca bölmek gerekir. Otomatikleştirmek için via Java uygulamasını,[JavaExcel API](/cells/tr/java/) Excel belgesini sayfalar halinde bölmek için oradadır. Desteklenen formatlar arasında XLS, XLSX, XLSB, XLSM, ODS bulunur.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Excel Belgesini Birden Çok Dosyaya Böl" %}}
+{{% blocks/products/pf/feature-page-section h2="Excel Belgesini Birden Çok Dosyaya Bölme" %}}
 
-Excel dosyasını sayfalara bölmenin en basit yolu, Tüm sayfalara erişin, her sayfayı yineleyin ve istediğiniz biçimde tek tek kaydedin. Çalışma sayfasını yüklemek için API şunları sağlar:[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıf.[getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) yöntem toplam sayfa sayısını alır. Her sayfa boyunca yineleyin ve kullanın[getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) belirli bir sayfaya erişmek için. Seçili sayfa verilerini kullanarak yeni oluşturulan Workbook sınıfı nesnesine taşıyın.[Kopyalama yöntemi](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Son olarak gerekli biçimde kaydedin.
+ Excel dosyasını sayfalara bölmenin en basit yolu, Tüm sayfalara erişmek, her sayfayı yinelemek ve istediğiniz formatta birer birer kaydetmektir. Çalışma sayfasını yüklemek için API şunu sağlar:[Çalışma kitabı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) sınıf.[getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) yöntem toplam sayfa sayısını alır. Her sayfayı yineleyin ve kullanın[getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) Belirli bir sayfaya erişmek için. Seçilen sayfa verilerini kullanarak yeni oluşturulan Çalışma Kitabı sınıfı nesnesine taşıyın.[Kopyalama yöntemi](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Son olarak gerekli formatta kaydedin.
 
 {{% blocks/products/pf/feature-page-code h3="Java Excel Dosyalarını Bölme Kodu" %}}
 
@@ -23,7 +24,7 @@ Excel dosyasını sayfalara bölmenin en basit yolu, Tüm sayfalara erişin, her
 
 {{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfasını Bölmelere Böl" %}}
 
-API ayrıca Excel çalışma sayfasını farklı bölmelere bölme işlevi de sağlar. İşlem, Workbook sınıfını kullanarak dosyayı yükleyin. Dizini sağlayarak ilk çalışma sayfasını veya gerekli herhangi bir sayfayı seçin. Parametre olarak ilgili hücre indeksine sahip setActiveCell'i çağırın. Ve son olarak split() yöntemini çağırarak çalışma sayfası penceresini farklı bölmelere ayırın.
+API ayrıca Excel çalışma sayfasını farklı bölmelere bölme işlevini de sağlar. İşlem, dosyayı Workbook sınıfını kullanarak yüklemektir. Dizinini sağlayarak ilk çalışma sayfasını veya gerekli herhangi bir sayfayı seçin. Parametre olarak ilgili hücre indeksine sahip setActiveCell'i çağırın. Ve son olarak split() yöntemini çağırarak çalışma sayfası penceresini farklı bölmelere bölün.
 
 {{% blocks/products/pf/feature-page-code h3="Java Excel Sayfasını Bölme Görünümüne Bölme Kodu" %}}
 

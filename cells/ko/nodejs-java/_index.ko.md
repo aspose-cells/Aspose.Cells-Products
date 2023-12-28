@@ -1,10 +1,10 @@
 ---
 title:  Excel 스프레드시트용 Node.js API - Aspose
 weight: 3120
-description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합니다. 읽기 쓰기 렌더링 및 변환 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV 및 Windows, macOS 및 Linux의 Node.js를 통해 더 많은 형식
+description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합니다. 읽기 쓰기 렌더링 및 변환 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV Windows, macOS 및 Linux에서 Node.js를 통해 더 많은 형식
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 파일 형식 API" h2="Microsoft Excel이 없어도 Node.js를 사용하여 Excel 스프레드시트를 생성, 수정, 변환 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 파일 형식 API" h2="Microsoft Excel이 필요 없이 Node.js를 사용하여 Excel 스프레드시트를 생성, 수정, 변환 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드시트를 처리하기 위한 기능이 풍부하고 확장 가능한 API입니다. API은 Excel 파일 형식 변환, 워크시트 스타일을 가장 세분화된 수준으로 지정, 차트 생성 &amp; 렌더링, 신뢰할 수 있는 수식 계산 엔진 등.
+ Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드시트를 처리하는 기능이 풍부하고 확장 가능한 API입니다. API은 Excel 파일 형식 변환, 가장 세부적인 수준의 워크시트 스타일 지정, 차트 생성 및 분석 기능을 제공합니다. 렌더링, 신뢰할 수 있는 수식 계산 엔진 등이 있습니다.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for Node.js via Java 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for Node.js via Java 기능의 개요입니다." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -111,7 +111,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Node.js via Java은 Node.js를 기반으로 하는 서버 측 JavaScript API입니다. Windows, JDK 1.7 이상이 설치된 Unix/Linux 및 Mac 플랫폼에서 실행할 수 있습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Node.js via Java은 Node.js를 기반으로 하는 서버측 JavaScript API입니다. JDK 1.7 이상이 설치된 Windows, Unix/Linux 및 Mac 플랫폼에서 실행될 수 있습니다." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -183,7 +183,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
      <b>
  텍스트:
      </b>
- CSV, 탭 구분, TXT
+ CSV, 탭으로 구분, TXT
     </li>
     <li>
      <b>
@@ -198,7 +198,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -262,7 +262,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 기존 차트 새로고침 &amp; 차트를 이미지로 변환하거나 PDF
+ 기존 차트 새로 고침 &amp; 차트를 이미지 또는 PDF로 변환
     </p>
    </div>
    <div class="col-lg-4">
@@ -276,7 +276,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 복잡한 수식 설정 &amp; API을 통해 결과 계산
+ 복잡한 수식 설정 &amp; API을 통해 결과를 계산합니다.
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +319,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
  Excel 스프레드시트 렌더링
     </h2>
     <p>
- Aspose.Cells for Node.js via Java은 최고의 충실도로 Microsoft Excel로 렌더링하기 위해 자체 렌더링 엔진을 사용합니다. Node.js Excel 처리 라이브러리를 사용하는 동안 전체 시트, 개별 파일 또는 차트를 여러 이미지 및 고정 레이아웃 형식으로 변환할 수 있습니다.
+ Aspose.Cells for Node.js via Java은 렌더링 엔진을 사용하여 가장 충실도가 높은 Microsoft Excel로 렌더링합니다. Node.js Excel 처리 라이브러리를 사용하는 동안 전체 시트, 개별 파일 또는 차트를 여러 이미지 및 고정 레이아웃 형식으로 변환할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +327,7 @@ Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &am
  유연한 디스플레이 옵션
     </h2>
     <p>
-Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 제어할 수 있습니다. 페이지 방향, 나누기, 크기, 크기 조정, 머리글, 바닥글 및 확대/축소 수준과 같은 워크시트의 표시 옵션을 조작할 수 있습니다. 또한 개발자는 응용 프로그램 사양에 맞게 인쇄 영역 및 고정 창을 사용하여 데이터 가시성을 제어할 수 있습니다.
+Aspose.Cells for Node.js via Java은 워크시트의 페이지 설정에 대한 전체 제어 기능을 제공하며 페이지 방향, 나누기, 크기, 배율, 머리글, 바닥글 및 확대/축소 수준과 같은 워크시트의 표시 옵션을 조작할 수 있습니다. 또한 개발자는 인쇄 영역을 사용하여 데이터 가시성을 제어하고 창을 애플리케이션 사양에 맞게 고정할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 
  보안 옵션
     </h2>
     <p>
- Aspose.Cells for Node.js via Java은 스프레드시트 암호화/복호화, 콘텐츠, 객체 및 암호화를 포함한 광범위한 보안 기능을 제공합니다. 시나리오 보호뿐만 아니라 행, 열 &amp; 워크시트.
+ Aspose.Cells for Node.js via Java은 스프레드시트 암호화/암호 해독, 콘텐츠, 객체 및 암호 해독을 포함한 광범위한 보안 기능을 제공합니다. 시나리오 보호는 물론 행, 열 및 숨기기 해제 기능도 제공됩니다. 워크시트.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,23 +343,23 @@ Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 
  행 조작 &amp; 열
     </h2>
     <p>
- Aspose.Cells for Node.js via Java을 사용하면 다양한 방법으로 행과 열을 조작할 수 있습니다. 행 높이 &amp; 열 너비, 내용에 따라 셀 크기 자동 조정, &amp; 삭제, 숨기기 &amp; 숨기기 해제 및 그룹 &amp; 행 그룹 해제 &amp; 열.
+ Aspose.Cells for Node.js via Java을 사용하면 다양한 방법으로 행과 열을 조작할 수 있습니다. 행 높이와 높이를 쉽게 조정할 수 있습니다. 열 너비, 내용에 따라 셀 크기 자동 조정, 삽입 &amp; 삭제, 숨기기 &amp; 숨기기 해제 및 그룹 &amp; 행 그룹 해제 &amp; 열.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-워크시트 서식에 대한 종합적인 지원
+워크시트 서식에 대한 포괄적인 지원
     </h2>
     <p>
- Aspose.Cells for Node.js via Java은 데이터 표시를 제어할 수 있는 고급 서식 기능을 제공합니다. 워크시트, 열, 행 또는 셀에 서식을 적용하거나 서식 있는 텍스트를 단일 셀에 추가하고, 테두리를 적용하고, 배경 패턴 및 글꼴 스타일을 설정할 수 있습니다. API은 또한 추가, 조작 &amp; 즉석에서 조건부 서식 규칙을 계산합니다.
+ Aspose.Cells for Node.js via Java은 데이터 표시를 제어할 수 있는 고급 형식 지정 기능을 제공합니다. 워크시트, 열, 행 또는 셀에 서식을 적용하거나 단일 셀에 서식 있는 텍스트를 추가하고, 테두리를 적용하고, 배경 패턴 및 글꼴 스타일을 설정할 수 있습니다. API은 또한 추가, 조작 및 편집을 허용합니다. 즉석에서 조건부 서식 규칙을 계산합니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 차트 생성, 조작 &amp; 표현
+ 차트 생성, 조작 및 앰프; 표현
     </h2>
     <p>
- Aspose.Cells for Node.js via Java은 차트 작성을 완벽하게 지원합니다. API을 사용하여 사용자 지정 또는 표준 차트를 쉽게 추가하고 차트를 새로 고치기 위해 데이터를 동적으로 설정할 수 있습니다.
+ Aspose.Cells for Node.js via Java은 차트 작성을 완벽하게 지원합니다. API을 사용하여 사용자 정의 또는 표준 차트를 쉽게 추가하고 차트를 새로 고치기 위해 데이터를 동적으로 설정할 수 있습니다.
     </p>
    </div>
   </div>
@@ -371,10 +371,10 @@ Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/nodejs/cells" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -384,7 +384,7 @@ Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Node.js via Java인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

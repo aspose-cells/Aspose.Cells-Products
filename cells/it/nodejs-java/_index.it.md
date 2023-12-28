@@ -1,10 +1,10 @@
 ---
 title:  API Node.js per fogli di calcolo Excel - Aspose
 weight: 3120
-description: Elabora i formati di file Excel tramite la libreria Node.js. Leggi scrivi renderizza e converti XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e altri formati tramite Node.js su Windows, macOS e Linux
+description: Elabora formati di file Excel tramite la libreria Node.js. Leggi, scrivi, esegui il rendering e converti XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e altri formati tramite Node.js su Windows, macOS e Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API del formato di file Excel Node.js" h2="Genera, modifica, converti e visualizza fogli di calcolo Excel utilizzando Node.js senza richiedere Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API del formato file Excel Node.js" h2="Genera, modifica, converti ed esegui il rendering di fogli di calcolo Excel utilizzando Node.js senza richiedere Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Elabora i formati di file Excel tramite la libreria Node.js. Leggi 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java è un API ricco di funzionalità e scalabile per elaborare fogli di calcolo Excel utilizzando Node.js. API offre la conversione del formato di file Excel, lo stile dei fogli di lavoro al livello più granulare, la creazione di grafici e la creazione di grafici. rendering, affidabile motore di calcolo delle formule e molto altro.
+ Aspose.Cells for Node.js via Java è un API ricco di funzionalità e scalabile per elaborare fogli di calcolo Excel utilizzando Node.js. API offre la conversione del formato file Excel, lo styling dei fogli di lavoro al livello più granulare, la creazione di grafici e la creazione di grafici. rendering, motore di calcolo delle formule affidabile e molto altro.
 </p>
 
 <p>
@@ -111,7 +111,7 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for Node.js via Java è JavaScript lato server API basato su Node.js. Può essere eseguito su piattaforme Windows, Unix/Linux e Mac con JDK 1.7 o superiore." >}}
+{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for Node.js via Java è JavaScript lato server API basato su Node.js. Può essere eseguito su piattaforme Windows, Unix/Linux e Mac con JDK 1.7 o versioni successive." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -121,7 +121,7 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
    <header>
     <i class="fa fa-cubes">
     </i>
- Java Ambiente runtime
+ Java Ambiente Runtime
    </header>
    <!--
 
@@ -157,7 +157,7 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells for Node.js via Java supporta i formati di file di fogli di calcolo più diffusi insieme ai formati di immagine e layout fisso più comunemente utilizzati." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells for Node.js via Java supporta i formati di file di fogli di calcolo più diffusi insieme ai formati di immagine e a layout fisso più comunemente utilizzati." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -247,7 +247,7 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Funzioni avanzate del foglio di calcolo Excel Node.js API
+ Funzionalità avanzate del foglio di calcolo Excel Node.js API
    </h2>
    <p>
    </p>
@@ -262,14 +262,14 @@ Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più di
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiorna grafici esistenti &amp; convertire i grafici in immagini o PDF
+ Aggiorna grafici e amp; convertire grafici in immagini o PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
+Crea e crea manipolare commenti e commenti collegamenti ipertestuali
     </p>
    </div>
    <div class="col-lg-4">
@@ -290,28 +290,28 @@ Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare gli intervalli denominati
+ Crea e crea manipolare intervalli denominati
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Popola i fogli di lavoro utilizzando i marcatori intelligenti
+ Popolare i fogli di lavoro utilizzando gli indicatori intelligenti
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipola e aggiorna le tabelle pivot tramite API
+ Manipolare e aggiornare le tabelle pivot tramite API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converti i fogli di lavoro in PDF, XPS &amp; SVG formati
+ Converti fogli di lavoro in PDF, XPS e amp; formati SVG
     </p>
    </div>
    <div class="col-lg-12">
@@ -319,7 +319,7 @@ Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
  Rendering di fogli di calcolo Excel
     </h2>
     <p>
- Aspose.Cells for Node.js via Java utilizza il suo motore di rendering per il rendering in Excel Microsoft con la massima fedeltà. Durante l'utilizzo della libreria Node.js Excel Processing, è possibile convertire interi fogli, singoli file o grafici in più immagini e formati a layout fisso.
+ Aspose.Cells for Node.js via Java utilizza il suo motore di rendering per eseguire il rendering in Excel Microsoft con la massima fedeltà. Utilizzando la libreria di elaborazione Excel di Node.js, è possibile convertire interi fogli, singoli file o grafici in più immagini e formati a layout fisso.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +327,7 @@ Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
  Opzioni di visualizzazione flessibili
     </h2>
     <p>
-Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione della pagina del foglio di lavoro, è possibile manipolare le opzioni di visualizzazione del foglio di lavoro come orientamento della pagina, interruzioni, dimensioni, ridimensionamento, intestazioni, piè di pagina e livello di zoom. Inoltre, gli sviluppatori possono controllare la visibilità dei dati con l'aiuto dell'area di stampa e bloccare i riquadri per soddisfare le specifiche dell'applicazione.
+Aspose.Cells for Node.js via Java fornisce il controllo completo dell'impostazione della pagina del foglio di lavoro, è possibile manipolare le opzioni di visualizzazione del foglio di lavoro come orientamento della pagina, interruzioni, dimensioni, ridimensionamento, intestazioni, piè di pagina e livello di zoom. Inoltre, gli sviluppatori possono controllare la visibilità dei dati con l'aiuto dell'area di stampa e dei riquadri di blocco per adattarsi alle specifiche dell'applicazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione 
  Opzioni di sicurezza
     </h2>
     <p>
- Aspose.Cells for Node.js via Java offre un'ampia gamma di funzioni di sicurezza tra cui crittografia/decrittografia di fogli di calcolo, contenuti, oggetti e amp; protezione dello scenario, nonché la possibilità di nascondere e mostrare righe, colonne e amp; fogli di lavoro.
+ Aspose.Cells for Node.js via Java offre un'ampia gamma di funzionalità di sicurezza tra cui crittografia/decrittografia di fogli di calcolo, contenuto, oggetto e crittografia. protezione dello scenario, nonché la possibilità di nascondere e mostrare righe, colonne e amp; fogli di lavoro.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione 
  Manipola righe e amp; Colonne
     </h2>
     <p>
- Aspose.Cells for Node.js via Java consente di manipolare righe e colonne in molti modi diversi. Puoi facilmente regolare l'altezza della riga e l'amp; larghezza della colonna, ridimensiona automaticamente le celle in base al contenuto, inserisci &amp; elimina, nascondi &amp; un-hide così come raggruppare &amp; separa le righe &amp; colonne.
+ Aspose.Cells for Node.js via Java ti consente di manipolare righe e colonne in molti modi diversi. Puoi regolare facilmente l'altezza e l'altezza della fila. larghezza della colonna, ridimensiona automaticamente le celle in base al contenuto, inserisci e amp; elimina, nascondi e amp; scopri e raggruppa &amp; separa righe e amp; colonne.
     </p>
    </div>
    <div class="col-lg-12">
@@ -351,15 +351,15 @@ Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione 
 Supporto completo per la formattazione dei fogli di lavoro
     </h2>
     <p>
- Aspose.Cells for Node.js via Java offre funzionalità di formattazione avanzate che consentono di controllare la presentazione dei dati. Puoi applicare la formattazione a un foglio di lavoro, una colonna, una riga o una cella o aggiungere Rich Text a una singola cella, applicare bordi, impostare motivi di sfondo e stile del carattere. Lo API consente inoltre di aggiungere, manipolare e modificare; calcolare al volo le regole di formattazione condizionale.
+ Aspose.Cells for Node.js via Java fornisce funzionalità di formattazione avanzate che ti consentono di controllare la presentazione dei tuoi dati. Puoi applicare la formattazione a un foglio di lavoro, colonna, riga o cella oppure aggiungere Rich Text a una singola cella, applicare bordi, impostare motivi di sfondo e stili di carattere. Lo API consente inoltre di aggiungere, manipolare &amp; calcolare al volo le regole di formattazione condizionale.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Creazione di grafici, manipolazione e amp; Rendering
+ Creazione, manipolazione e amp; di grafici Rendering
     </h2>
     <p>
- Aspose.Cells for Node.js via Java fornisce supporto completo per la creazione di grafici. È possibile aggiungere facilmente grafici personalizzati o standard utilizzando lo API e impostare dinamicamente i dati per aggiornare i grafici.
+ Aspose.Cells for Node.js via Java fornisce pieno supporto per la creazione di grafici. È possibile aggiungere facilmente grafici personalizzati o standard utilizzando lo API e impostare dinamicamente i dati per aggiornare i grafici.
     </p>
    </div>
   </div>
@@ -374,18 +374,18 @@ Supporto completo per la formattazione dei fogli di lavoro
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://reference.aspose.com/nodejs/cells" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -393,7 +393,7 @@ Supporto completo per la formattazione dei fogli di lavoro
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

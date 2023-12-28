@@ -1,7 +1,7 @@
 ---
-title: HTM 만들기 - C++에 HTM 파일 만들기
-description: Aspose 엑셀. C++ HTM 파일 생성. HTM C++을 생성합니다. C++ HTM 생성기입니다. C++에 HTM을 생성합니다. C++을 사용하여 HTM 파일을 생성합니다.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create HTM C++., C++ HTM Creater., Create HTM file in C++., Generate HTM file in C++]
+title: HTM 생성 - C++에 HTM 파일 생성
+description:  Aspose 엑셀. C++ Aspose.Cells을 사용하여 빠르고 쉽게 HTM 파일을 생성합니다. C++을 사용하여 HTM 파일을 생성합니다. C++에서 HTM을 생성합니다. C++ HTM Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create HTM file., Generate HTM file in C++., Create HTM file using C++., Write data to HTM file via C++., Create a HTM file in C++., C++ Generate a HTM file., C++ HTM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++에 HTM 파일 생성" h2="C++ 라이브러리를 사용하여 Micorsoft Office 없이 프로그래밍 방식으로 기본 및 고성능 HTM 파일 생성." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create HTM C++., C++ HTM Creater., 
 
 {{% blocks/products/pf/agp/content h2="C++을 사용하여 HTM 파일 만들기" %}}
 
- HTM 파일을 만드는 방법? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTM 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 최신 버전을 직접 다운로드할 수 있습니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ HTM 파일을 만드는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTM 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -30,45 +30,51 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- 개발자는 몇 줄의 코드만으로 데이터 처리를 위해 실행 중인 보고 응용 프로그램 내에서 HTM 파일을 쉽게 생성, 로드, 수정 및 변환할 수 있습니다.
+ 개발자는 단 몇 줄의 코드만으로 데이터 처리를 위해 실행 중인 보고 애플리케이션 내에서 HTM 파일을 쉽게 생성, 로드, 수정 및 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  IWorkbook 클래스의 개체를 만듭니다.
-1.  첫 번째 시트를 IWorksheet 개체로 가져옵니다.
-1.  IWorksheet->GetICells() 메서드를 사용하여 워크시트의 셀을 ICells 개체로 가져옵니다.
-1. ICells->GetObjectByIndex() 메서드를 사용하여 워크시트의 원하는 셀에 ICell 개체에 액세스합니다.
-1.  ICell->PutValue() 메서드를 사용하여 셀에 값을 입력합니다.
+1.  Workbook 클래스의 개체를 만듭니다.
+1.  첫 번째 시트를 Worksheet 개체로 가져옵니다.
+1.  Worksheet.GetCells() 메서드를 사용하여 워크시트의 셀을 Cells 개체로 가져옵니다.
+1. Cells.Get() 메서드를 사용하여 워크시트의 원하는 셀에 Cell 개체에 액세스합니다.
+1.  Cell.PutValue() 메소드를 사용하여 셀에 값을 입력합니다.
 1.  Save() 메서드를 사용하여 통합 문서를 .htm 파일로 저장합니다.
 
 {{% blocks/products/pf/agp/code-block title="샘플 코드는 C++에서 HTM 파일을 생성하는 방법을 보여줍니다." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.htm"));
+wkb.Save(u"created_one.htm");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -79,12 +85,12 @@ wkb->Save(new String("created_one.htm"));
 
 {{% blocks/products/pf/agp/text %}}
 
-시스템에 "Aspose.Cells for C++"을 설치하는 세 가지 옵션이 있습니다. 필요에 맞는 것을 선택하고 단계별 지침을 따르십시오.
+시스템에 "Aspose.Cells for C++"을 설치하는 세 가지 옵션이 있습니다. 귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  설치[NuGet 패키지](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Include 및 lib 폴더를 사용하여 라이브러리를 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  설치하다[NuGet 패키지](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  include 및 lib 폴더를 사용하여 라이브러리를 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Linux에 Aspose.Cells for C++을 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -93,18 +99,18 @@ wkb->Save(new String("created_one.htm"));
 
 {{% blocks/products/pf/agp/text %}}
 
- C++ 변환 샘플 소스 코드를 실행하기 전에 다음과 같은 전제 조건이 있는지 확인하십시오.
+ C++ 변환 샘플 소스 코드를 실행하기 전에 다음 필수 구성 요소가 있는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows 또는 Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경과 호환되는 OS.
-- 프로젝트에서 Aspose.Cells for C++ DLL에 대한 참조를 추가합니다.
+- 프로젝트에 Aspose.Cells for C++ DLL에 대한 참조를 추가합니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 만들기 위한 Hypertext Markup Language를 나타냅니다. 다른 사람이 액세스할 수 있도록 WWW(World Wide Web)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 내용을 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹 페이지가 게시되면 해당 페이지 소스를 확인하여 그 뒤에 있는 마크업 코드를 볼 수 있습니다. 최신 브라우저를 사용하면 HTM 소스의 각 하위 구분 또는 마크업 요소가 정교한 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 생성하기 위한 하이퍼텍스트 마크업 언어를 나타냅니다. 이는 다른 사람이 액세스할 수 있도록 World Wide Web(WWW)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 콘텐츠를 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹페이지가 게시되면 해당 페이지 소스를 보면 그 뒤에 있는 마크업 코드를 살펴볼 수 있습니다. 최신 브라우저에서는 HTM 소스의 각 하위 구분이나 마크업 요소가 자세히 설명되어 있는 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -112,8 +118,8 @@ wkb->Save(new String("created_one.htm"));
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft Excel 스프레드시트(레거시)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="XML 통합 문서 열기" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsb/" name="XLSB" description="Excel 이진 통합 문서" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="매크로 사용 스프레드시트" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsb/" name="XLSB" description="Excel 바이너리 통합 문서" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="매크로 지원 스프레드시트" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="엑셀 97 - 2003 템플릿" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltx/" name="XLTX" description="엑셀 템플릿" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}} 
@@ -121,7 +127,7 @@ wkb->Save(new String("created_one.htm"));
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="탭으로 구분된 값" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="OpenDocument 스프레드시트" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="휴대용 문서 형식" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="하이퍼텍스트 마크업 언어" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

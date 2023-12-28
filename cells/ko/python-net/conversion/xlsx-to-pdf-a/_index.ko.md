@@ -1,6 +1,6 @@
 ---
 title: Python을 통해 XLSX을 PDF로 변환
-description: xlsx에서 pdf Python로 변환하는 샘플 코드입니다. API 응용 프로그램 내에서 배치 xlsx 파일을 pdf로 변환하려면 API 예제 코드를 사용하십시오.
+description: xlsx의 샘플 코드를 pdf Python로 변환합니다. Python 애플리케이션 내에서 배치 xlsx 파일을 PDF로 변환하려면 API 예제 코드를 사용하세요.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python을 통해 XLSX을 PDF로 변환" h2="Python API를 사용하여 Excel 스프레드시트를 PDF 형식으로 내보냅니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,9 +10,9 @@ description: xlsx에서 pdf Python로 변환하는 샘플 코드입니다. API �
 
 {{% blocks/products/pf/agp/content h2="Python을 사용하여 XLSX을 PDF로 변환하는 방법" %}}
 
- XLSX을 PDF로 변환하기 위해 다음을 사용합니다.
+XLSX을 PDF로 변환하려면 다음을 사용합니다.
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) 
- API 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환 플랫폼입니다.
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환 API for Python 플랫폼입니다.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -21,14 +21,14 @@ description: xlsx에서 pdf Python로 변환하는 샘플 코드입니다. API �
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 XLSX 파일을 PDF로 쉽게 로드하고 변환할 수 있습니다.
+ Python 개발자는 단 몇 줄의 코드만으로 XLSX 파일을 PDF로 쉽게 로드하고 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  통합 문서 인스턴스가 있는 XLSX 파일 로드
+1.  통합 문서 인스턴스로 XLSX 파일 로드
 1.  Workbook.Save 메서드를 호출합니다.
-1.  PDF 확장자를 매개변수로 출력 경로 전달
-1.  결과 PDF 파일의 지정된 경로를 확인하십시오.
+1.  PDF 확장자를 가진 출력 경로를 매개변수로 전달합니다.
+1.  결과 PDF 파일의 지정된 경로를 확인하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -36,16 +36,16 @@ description: xlsx에서 pdf Python로 변환하는 샘플 코드입니다. API �
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다. 시스템에[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 
-- 에서 Aspose.Cells for Python 설치<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , 명령을 다음과 같이 사용하십시오.<code>$ pip install aspose-cells-python</code>.
+-  에서 Aspose.Cells for Python을 설치합니다.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , 다음과 같이 명령을 사용하십시오.<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSX을 PDF-A - Python로 변환" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,48 +57,48 @@ description: xlsx에서 pdf Python로 변환하는 샘플 코드입니다. API �
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능과 함께 교차 플랫폼 애플리케이션을 구축할 수 있는 Excel 스프레드시트 프로그래밍 라이브러리입니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있는 Excel 스프레드시트 프로그래밍 라이브러리입니다. Python Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.
+XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 2부에 요약된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새로운 형식은 다음과 같습니다. 다수의 XML 파일을 포함하는 zip 패키지입니다. .xlsx 파일의 압축을 풀면 기본 구조와 파일을 검사할 수 있습니다.
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}
-Portable Document Format(PDF)은 Adobe에서 1990년대에 만든 문서 유형입니다. 이 파일 형식의 목적은 응용 프로그램 소프트웨어, 하드웨어 및 운영 체제와 독립적인 형식으로 문서 및 기타 참조 자료를 표현하기 위한 표준을 도입하는 것이었습니다. PDF 파일 형식은 원본 문서의 일부가 될 수 있는 텍스트, 이미지, 하이퍼링크, 양식 필드, 리치 미디어, 디지털 서명, 첨부 파일, 메타데이터, 지형 공간 기능 및 3D 개체와 같은 정보를 포함할 수 있는 완전한 기능을 가지고 있습니다.
+Portable Document Format(PDF)은 Adobe가 1990년대에 만든 문서 유형입니다. 이 파일 형식의 목적은 응용 프로그램 소프트웨어, 하드웨어 및 운영 체제에 독립적인 형식으로 문서 및 기타 참조 자료를 표현하기 위한 표준을 도입하는 것이었습니다. PDF 파일 형식은 소스 문서의 일부가 될 수 있는 텍스트, 이미지, 하이퍼링크, 양식 필드, 리치 미디어, 디지털 서명, 첨부 파일, 메타데이터, 지리 공간 기능 및 3D 개체와 같은 정보를 포함할 수 있는 모든 기능을 갖추고 있습니다.
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 XLSX을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 XLSX을 아래 나열된 몇 가지 파일 형식을 포함하여 다양한 다른 파일 형식으로 변환할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-bmp/" name="XLSX ~ BMP" description="비트맵 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX ~ EMF" description="향상된 메타파일 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-gif/" name="XLSX ~ GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX ~ HTML" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX ~ HTML" description="하이퍼텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-mhtml/" name="XLSX ~ MHTML" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-mhtml/" name="XLSX ~ MHTML" description="웹페이지 아카이브 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-ods/" name="XLSX ~ ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-pdf/" name="XLSX ~ PDF" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-png/" name="XLSX ~ PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-svg/" name="XLSX ~ SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tiff/" name="XLSX ~ TIFF" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tiff/" name="XLSX ~ TIFF" description="태그된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-tsv/" name="XLSX ~ TSV" description="탭으로 구분된 값" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-txt/" name="XLSX ~ TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX ~ XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX ~ XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX ~ XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX ~ XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX ~ XLSM" description="스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsx/" name="XLSX ~ XLSX" description="OOXML 엑셀 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX ~ XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX ~ XLTM" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX ~ XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX ~ XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX XML로" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX ~ XPS" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX TO XML" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX ~ XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX ~ JSON" description="자바스크립트 객체 표기법" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

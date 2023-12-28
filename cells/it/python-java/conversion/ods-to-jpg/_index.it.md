@@ -1,7 +1,7 @@
 ---
-title: Python ODS a JPG - Convertitore online da ODS a JPG
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online gratuito Python Converti ODS in formato di salvataggio JPG. Python ODS in formato JPG. Salva ODS in JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to JPG saveformat., Free Online ODS to JPG Python., Python Convert ODS to JPG]
+title: Python ODS in JPG - ODS in JPG Convertitore
+description: Aspose Excel. Converti ODS in JPG in modo rapido e semplice con Aspose.Cells. Python ODS in JPG. Python Salva ODS in JPG. Salva ODS come JPG utilizzando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to JPG in Python., Save ODS to JPG using Python., Python ODS to JPG saveformat., ODS to JPG Converter., Python Save ODS as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti ODS in JPG in Python" h2="Libreria Python ad alta velocità per convertire ODS in JPG. Questa è una soluzione software professionale per importare ed esportare ODS, JPG e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="Converti ODS in JPG utilizzando Python" %}}
 
- Come posso convertire ODS in JPG? Con la libreria Aspose.Cells for Python, puoi facilmente convertire ODS in JPG a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come converto ODS in JPG? Con la libreria Aspose.Cells for Python, puoi convertire facilmente ODS in JPG a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva ODS in JPG in Python online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva ODS in JPG in Python" %}}
 
 L'esempio seguente mostra come convertire ODS in JPG in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,29 +27,29 @@ Segui i semplici passaggi per convertire ODS in JPG. Carica il tuo file ODS, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice campione per convertire ODS in JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire ODS in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire ODS in JPG tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file ODS in JPG a livello di codice? Gli sviluppatori di Python possono facilmente caricare e convertire ODS in JPG in poche righe di codice.
+Hai bisogno di convertire i file ODS in JPG a livello di codice? Gli sviluppatori di Python possono caricare e convertire facilmente ODS in JPG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file ODS con un'istanza di Workbook.
 1.  Converti ODS in JPG chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di ODS in JPG.
+1.  Ottieni il risultato della conversione da ODS a JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per convertire ODS in JPG" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per convertire ODS in JPG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,47 +63,47 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}file con estensione .ods rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}file con estensione .ods indicano il formato del documento OpenDocument Spreadsheet modificabile dall'utente. I dati vengono archiviati nel file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e mantenute da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore sarà il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire ODS in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire ODS in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-bmp/" name="ODS ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-emf/" name="ODS ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-gif/" name="ODS ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="ODS ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-md/" name="ODS A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-mhtml/" name="ODS ALLO MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-bmp/" name="dallo ODS allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-emf/" name="dallo ODS allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-gif/" name="dallo ODS allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="dallo ODS allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-md/" name="ODS AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-mhtml/" name="dallo ODS allo MHTML" description="Formato di archivio delle pagine Web" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-pdf/" name="ODS ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-png/" name="ODS ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-svg/" name="ODS ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-tiff/" name="ODS ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-tsv/" name="ODS ALLO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-txt/" name="ODS ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xls/" name="ODS ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsb/" name="ODS ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsm/" name="ODS ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsx/" name="ODS ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlt/" name="ODS ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xltm/" name="ODS ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xltx/" name="ODS ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xml/" name="ODS A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xps/" name="ODS ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-json/" name="ODS ALLO JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-pdf/" name="dallo ODS allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-png/" name="dallo ODS allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-svg/" name="dallo ODS allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-tiff/" name="dallo ODS allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-tsv/" name="dallo ODS allo TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-txt/" name="dallo ODS allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xls/" name="dallo ODS allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsb/" name="dallo ODS allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsm/" name="dallo ODS allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlsx/" name="dallo ODS allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xlt/" name="dallo ODS allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xltm/" name="dallo ODS allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xltx/" name="dallo ODS allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xml/" name="ODS A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-xps/" name="dallo ODS allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-json/" name="dallo ODS allo JSON" description="Notazione oggetto JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

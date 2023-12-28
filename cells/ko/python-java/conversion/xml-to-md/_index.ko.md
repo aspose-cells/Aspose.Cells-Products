@@ -1,7 +1,7 @@
 ---
-title: Python XML to MD - 온라인 XML to MD 변환기
-description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python XML을 MD 저장 형식으로 변환합니다. Python XML에서 MD 형식으로. XML을 MD Python에 저장합니다.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to MD saveformat., Free Online XML to MD Python., Python Convert XML to MD]
+title: Python XML을 MD로 - XML을 MD로 변환기
+description: Aspose 엑셀. Aspose.Cells을 사용하여 XML을 MD로 빠르고 쉽게 변환하세요. Python XML을 MD로. Python XML을 MD에 저장합니다. Python을 사용하여 XML을 MD로 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to MD in Python., Save XML to MD using Python., Python XML to MD saveformat., XML to MD Converter., Python Save XML as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python에서 XML을 MD로 변환" h2="XML을 MD로 변환하기 위한 고속 Python 라이브러리. 이것은 Python을 사용하여 XML, MD 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,34 +12,34 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/content h2="Python을 사용하여 XML을 MD로 변환" %}}
 
- XML을 MD로 어떻게 변환합니까? Aspose.Cells for Python 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XML을 MD로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ XML을 MD로 어떻게 변환합니까? Aspose.Cells for Python 라이브러리를 사용하면 몇 줄의 코드만으로 프로그래밍 방식으로 XML을 MD로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="무료로 온라인에서 Python의 MD에 XML 저장" %}}
+{{% blocks/products/pf/agp/content h2="Python의 MD에 XML을 저장합니다." %}}
 
-다음 예는 Python에서 XML을 MD로 변환하는 방법을 보여줍니다.
+다음 예에서는 Python에서 XML을 MD로 변환하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-간단한 단계에 따라 XML을 MD로 변환하십시오. XML 파일을 업로드한 다음 간단히 MD 파일로 저장하십시오. XML 읽기 및 MD 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 MD 콘텐츠 및 형식은 원본 XML 문서와 동일합니다.
+XML을 MD로 변환하는 쉬운 단계를 따르십시오. XML 파일을 업로드한 다음 간단히 MD 파일로 저장하세요. XML 읽기와 MD 쓰기 모두에 정규화된 파일 이름을 사용할 수 있습니다. 출력되는 MD 내용과 형식은 원본 XML 문서와 동일합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XML을 MD 온라인으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XML을 MD로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python을 통해 XML을 MD로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-프로그래밍 방식으로 XML 파일을 MD로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 XML을 MD로 쉽게 로드하고 변환할 수 있습니다.
+프로그래밍 방식으로 XML 파일을 MD로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드만으로 XML을 MD로 쉽게 로드하고 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via Java'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  Workbook 인스턴스가 있는 XML 파일을 로드합니다.
+1.  Workbook 인스턴스를 사용하여 XML 파일을 로드합니다.
 1.  Workbook.save 메서드를 호출하여 XML을 MD로 변환합니다.
 1.  XML을 MD로 변환한 결과를 가져옵니다.
 
@@ -49,11 +49,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/text %}}
 
-시스템에 "Aspose.Cells for Python via Java"을 설치하는 세 가지 옵션이 있습니다. 필요에 맞는 것을 선택하고 단계별 지침을 따르십시오.
+시스템에 "Aspose.Cells for Python via Java"을 설치하는 세 가지 옵션이 있습니다. 귀하의 요구 사항과 유사한 것을 선택하고 단계별 지침을 따르십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Aspose.Cells for Python via Java을 Windows에 설치합니다. 참조[선적 서류 비치](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Windows에 Aspose.Cells for Python via Java을 설치합니다. 참조[선적 서류 비치](https://docs.aspose.com/cells/python-java/getting-started/#windows)
 1.  Linux에 Aspose.Cells for Python via Java을 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/python-java/getting-started/#linux)
 1.  macOS에 Aspose.Cells for Python via Java을 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
@@ -63,46 +63,46 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux 및 MacOS)에서 사용할 수 있습니다. 시스템에 Java 1.8 이상이 있는지 확인하십시오.[Python](https://www.python.org/downloads/) 3.5 이상.
+ Aspose.Cells for Python via Java은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux 및 MacOS)에서 사용할 수 있습니다. 시스템에 Java 1.8 이상이 있는지 확인하세요.[Python](https://www.python.org/downloads/) 3.5 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java을 설치하고 PATH 환경 변수에 추가합니다. 예를 들면 다음과 같습니다.<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 에서 Aspose.Cells for Python 설치<a href="https://pypi.org/project/aspose-cells/">pypi</a> , 명령을 다음과 같이 사용하십시오.<code>$ pip install aspose-cells</code>.
+-  에서 Aspose.Cells for Python을 설치합니다.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , 다음과 같이 명령을 사용하십시오.<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 Extensible Markup Language의 약자로 HTML과 유사하지만 객체를 정의하기 위해 태그를 사용한다는 점에서 다릅니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계 모두 읽을 수 있기 때문입니다. 이를 통해 WWW(World Wide Web)와 같은 네트워크를 통해 저장 및 공유할 객체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있음을 의미하는 확장 가능을 나타냅니다. Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 이러한 기능을 사용합니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Markdown 언어 방언으로 생성된 텍스트 파일은 .md 또는 .MARKDOWN 파일 확장자로 저장됩니다. MD 파일은 인라인 텍스트 기호를 포함하는 Markdown 언어를 사용하는 일반 텍스트 형식으로 저장되어 들여쓰기, 테이블 서식, 글꼴 및 헤더와 같은 텍스트 서식 지정 방법을 정의합니다. MD 파일은 Markdown이라는 프로그램으로 HTML로 변환할 수 있습니다. Markdown 언어는 John Gruber가 발표했습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 HTML과 유사하지만 객체 정의에 태그를 사용한다는 점에서 다른 Extensible Markup Language를 의미합니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람이 읽을 수 있을 뿐만 아니라 기계가 읽을 수 있기 때문입니다. 이를 통해 World Wide Web(WWW)과 같은 네트워크를 통해 저장되고 공유될 개체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 확장성을 의미하며, 이는 언어가 사용자 요구 사항에 따라 원하는 수의 기호로 확장될 수 있음을 의미합니다. 이러한 기능을 위해 Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 사용됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Markdown 언어 방언으로 생성된 텍스트 파일은 .md 또는 .MARKDOWN 파일 확장자로 저장됩니다. MD 파일은 인라인 텍스트 기호도 포함하는 Markdown 언어를 사용하는 일반 텍스트 형식으로 저장되어 들여쓰기, 표 형식, 글꼴 및 헤더와 같은 텍스트 형식을 정의하는 방법을 정의합니다. MD 파일은 Markdown이라는 프로그램을 사용하여 HTML로 변환할 수 있습니다. Markdown 언어는 John Gruber가 출시했습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="XML을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 아래에 나열된 몇 가지 파일 형식을 포함하여 XML을 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-bmp/" name="XML TO BMP" description="비트맵 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-emf/" name="XML TO EMF" description="향상된 메타파일 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-gif/" name="XML TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-html/" name="XML TO HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML에서 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-html/" name="XML TO HTML" description="하이퍼텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML을 MD로" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="웹페이지 아카이브 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-ods/" name="XML TO ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML TO PDF" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-png/" name="XML TO PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-svg/" name="XML TO SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tiff/" name="XML TO TIFF" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tiff/" name="XML TO TIFF" description="태그된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tsv/" name="XML TO TSV" description="탭으로 구분된 값" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-txt/" name="XML TO TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xls/" name="XML TO XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xls/" name="XML TO XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsm/" name="XML TO XLSM" description="스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlsx/" name="XML TO XLSX" description="OOXML 엑셀 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltx/" name="XML TO XLTX" description="Office OpenXML 엑셀 템플릿" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xps/" name="XML TO XPS" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xps/" name="XML TO XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-json/" name="XML TO JSON" description="자바스크립트 객체 표기법" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

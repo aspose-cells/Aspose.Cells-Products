@@ -1,7 +1,7 @@
 ---
-title: C++ MHT a MHTML - Online MHT a MHTML Convertitore
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Converti MHT in MHTML saveformat. C++ MHT al formato MHTML. Salva MHT allo MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to MHTML saveformat., Free Online MHT to MHTML C++., C++ Convert MHT to MHTML]
+title: Convertitore da C++ MHT a MHTML - Convertitore da MHT a MHTML
+description: Aspose Excel. Converti MHT in MHTML in modo rapido e semplice con Aspose.Cells. C++ MHT in MHTML. C++ Salva MHT in MHTML. Salva MHT come MHTML utilizzando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to MHTML in C++., Save MHT to MHTML using C++., C++ MHT to MHTML saveformat., MHT to MHTML Converter., C++ Save MHT as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHT in MHTML in C++" h2="Conversione da MHT a MHTML ad alte prestazioni utilizzando la libreria C++ senza la necessità di installare Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to MHTML
 
 {{% blocks/products/pf/agp/content h2="Converti MHT in MHTML utilizzando C++" %}}
 
- Come posso convertire MHT in MHTML? Con la libreria Aspose.Cells for C++, puoi facilmente convertire MHT in MHTML a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Come posso convertire MHT in MHTML? Con la libreria Aspose.Cells for C++, puoi convertire facilmente MHT in MHTML a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva MHT a MHTML in C++ online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva MHT allo MHTML in C++" %}}
 
 L'esempio seguente mostra come convertire MHT in MHTML in C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,21 +37,21 @@ Segui i semplici passaggi per convertire MHT in MHTML. Carica il tuo file MHT, q
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice campione per convertire MHT in MHTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Codice di esempio per convertire MHT in MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHT in MHTML tramite C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file MHT in MHTML a livello di programmazione? Gli sviluppatori C++ possono facilmente convertire MHT in MHTML in poche righe di codice.
+È necessario convertire i file MHT in MHTML a livello di codice? Gli sviluppatori di C++ possono convertire facilmente MHT in MHTML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for C++'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto C++.
-1.  Carica il file MHT usando Factory::CreateIWorkbook.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto C++.
+1. Carica il file MHT utilizzando la cartella di lavoro.
 1.  Converti MHT in MHTML chiamando il metodo Save().
-1.  Ottieni il risultato della conversione di MHT in MHTML.
+1.  Ottieni il risultato della conversione da MHT a MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,12 +59,12 @@ Hai bisogno di convertire i file MHT in MHTML a livello di programmazione? Gli s
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa un[NuGet Pacco](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Installa la libreria usando Include e lib Folders. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Installa un[NuGet Pacchetto](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Installa la libreria utilizzando le cartelle Include e lib. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Installa Aspose.Cells for C++ su Linux. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,45 +73,44 @@ Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice di esempio di conversione C++, assicurarsi di disporre dei seguenti prerequisiti.
+ Prima di eseguire il codice di esempio di conversione C++, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
-- Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+- Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un singolo file. Può memorizzare dati come testo, immagini, stile della pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate in esso. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explore e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}file con estensione MHTML rappresentano un formato di archivio di pagine Web che può essere creato da diverse applicazioni. Il formato è noto come formato di archivio perché salva il codice web HTML e le risorse associate in un unico file. Queste risorse includono tutto ciò che è collegato alla pagina Web come immagini, applet, animazioni, file audio e così via. I file MHTML possono essere aperti in una varietà di applicazioni come Internet Explorer e Microsoft Word. Microsoft Windows utilizza il formato di file MHTML per la registrazione di scenari di problemi osservati durante l'utilizzo di qualsiasi applicazione su Windows che solleva problemi. Il formato di file MHTML codifica i contenuti della pagina in modo simile alle specifiche definite in message/rfc822 che sono specifiche relative alle e-mail in testo normale.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un unico file. Può archiviare dati come testo, immagini, stili di pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate al suo interno. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}file con estensione MHTML rappresentano un formato di archivio di pagine Web che può essere creato da numerose applicazioni diverse. Il formato è noto come formato archivio perché salva il codice web HTML e le risorse associate in un unico file. Queste risorse includono qualsiasi cosa collegata alla pagina web come immagini, applet, animazioni, file audio e così via. I file MHTML possono essere aperti in una varietà di applicazioni come Internet Explorer e Microsoft Word. Microsoft Windows utilizza il formato file MHTML per registrare scenari di problemi osservati durante l'utilizzo di qualsiasi applicazione su Windows che solleva problemi. Il formato file MHTML codifica il contenuto della pagina in modo simile alle specifiche definite in message/rfc822 che sono specifiche relative alle e-mail in testo semplice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire MHT in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-bmp/" name="MHT AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-gif/" name="MHT AL GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-html/" name="MHT AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-md/" name="MHT A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-ods/" name="MHT AL ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-md/" name="MHT A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-ods/" name="MHT AL ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-pdf/" name="MHT AL PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-png/" name="MHT AL PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-svg/" name="MHT AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato immagine con tag" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xml/" name="MHT A XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xml/" name="MHT IN XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xps/" name="MHT AL XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-json/" name="MHT AL JSON" description="Notazione oggetto JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-jpeg/" name="MHT AL JPEG" description="JPEG Immagine" >}}

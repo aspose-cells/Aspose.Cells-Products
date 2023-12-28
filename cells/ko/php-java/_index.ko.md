@@ -1,10 +1,10 @@
 ---
 title:  Excel 스프레드시트 PHP API - Aspose
 weight: 3660
-description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX CSV TSV HTML ODS SpreadsheetML 및 모든 Excel 97-2016 형식. 스프레드시트를 여러 형식으로 내보내기
+description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX CSV TSV HTML ODS SpreadsheetML 및 모든 Excel 97-2016 형식. 스프레드시트를 다양한 형식으로 내보내기
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP 엑셀 스프레드시트 API" h2="스프레드시트 조작 작업을 수행하고 Microsoft Excel 종속성 없이 Excel 파일을 여러 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 스프레드시트 API" h2="스프레드시트 조작 작업을 수행하고 Excel 파일을 Microsoft Excel 종속성 없이 여러 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -12,7 +12,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java은 확장 가능하고 기능이 풍부한 Excel 스프레드시트 관리 및 처리 API입니다. 응용 프로그램은 스프레드시트 형식 변환, 차트 관리 및 렌더링, 수식 구현, 가장 세분화된 수준으로 워크시트 스타일 지정 등을 수행할 수 있습니다. API은 XLS, XLSX, ODS, SpreadsheetML, CSV, 탭 구분, HTML/MHTML, PDF, XPS 및 기타 형식을 지원합니다. 개발자는 JavaBridge를 사용하는 동안 PHP 애플리케이션에서 Excel 파일을 생성, 편집, 변환 및 렌더링하는 기능을 쉽게 추가할 수 있습니다.
+ Aspose.Cells for PHP via Java은 확장 가능하고 기능이 풍부한 Excel 스프레드시트 관리 및 처리 API입니다. 응용 프로그램은 스프레드시트 형식 변환, 차트 관리 및 렌더링, 수식 구현, 가장 세부적인 수준의 워크시트 스타일 지정 등을 수행할 수 있습니다. API은 XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS 및 기타 형식을 지원합니다. 개발자는 JavaBridge를 사용하는 동안 PHP 애플리케이션에서 Excel 파일을 생성, 편집, 변환 및 렌더링하는 기능을 쉽게 추가할 수 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for PHP via Java 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for PHP via Java 기능의 개요입니다." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -191,7 +191,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
      <b>
  텍스트:
      </b>
- CSV, 탭 구분, TXT
+ CSV, 탭으로 구분, TXT
     </li>
     <li>
      <b>
@@ -206,7 +206,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -278,7 +278,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기, 조작 &amp; 렌더 차트
+ 생성, 조작 및 차트 렌더링
     </p>
    </div>
    <div class="col-lg-4">
@@ -313,7 +313,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 세트 &amp; 복잡한 공식 계산
+ 세트 &amp; 복잡한 수식 계산
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기, 조작 &amp; 피벗 테이블 새로 고침
+ 생성, 조작 및 피벗 테이블 새로 고침
     </p>
    </div>
    <div class="col-lg-4">
@@ -362,7 +362,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 렌더링 스파크라인
+ 만들기 &amp; 스파크라인 렌더링
     </p>
    </div>
    <div class="col-lg-12">
@@ -370,11 +370,11 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
  Excel 파일을 XPS, PDF &amp; HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API은 Excel 파일을 XPS, XPS 및 HTML 형식으로 변환할 수 있을 뿐만 아니라 최고의 시각적 충실도를 유지할 수 있습니다. 변환 프로세스는 안정적이며 개발자는 단 몇 줄만으로 필요한 형식을 얻을 수 있습니다.
+Aspose.Cells for PHP via Java API은 Excel 파일을 XPS, XPS 및 HTML 형식으로 변환하고 최고의 시각적 충실도를 유지할 수 있습니다. 변환 프로세스는 안정적이며 개발자는 단 몇 줄만으로 필요한 형식을 얻을 수 있습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-여러 형식으로 스프레드시트 저장 - PHP
+ 다양한 형식으로 스프레드시트 저장 - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -396,7 +396,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Excel 스프레드시트 렌더링 &amp; PDF &amp; 이미지
     </h2>
     <p>
- Aspose.Cells for PHP via Java에는 Microsoft Excel에 대한 최고의 충실도로 렌더링하도록 특별히 설계된 자체 렌더링 엔진이 있습니다. Aspose.Cells for PHP via Java을 사용하는 동안 전체 스프레드시트, 개별 워크시트 &amp; 여러 이미지 &amp; 고정 레이아웃 형식.
+ Aspose.Cells for PHP via Java에는 Microsoft Excel에 가장 충실하게 렌더링하도록 특별히 설계된 자체 렌더링 엔진이 있습니다. Aspose.Cells for PHP via Java을 사용하면서 전체 스프레드시트, 개별 워크시트 &amp; 차트를 여러 이미지 및 amp; 고정 레이아웃 형식.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,26 +404,26 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  유연한 워크시트 표시 옵션
     </h2>
     <p>
- Aspose.Cells for PHP via Java을 사용하면 워크시트의 페이지 설정을 완벽하게 제어할 수 있으므로 페이지 나누기, 페이지 방향, 배율 조정, 용지 크기, 머리글/바닥글 &amp; 줌 레벨. 고정 창 &amp; 응용 프로그램 요구 사항에 맞는 인쇄 영역.
+Aspose.Cells for PHP via Java은 워크시트의 페이지 설정을 완벽하게 제어할 수 있으므로 페이지 나누기, 페이지 방향, 크기 조정, 용지 크기, 머리글/바닥글 및 amp; 확대/축소 수준. 고정 창 &amp;을 사용하여 데이터 가시성을 제어할 수도 있습니다. 귀하의 응용 프로그램 요구 사항에 맞게 인쇄 영역을 선택하십시오.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 효율적이고 견고하며 &amp; 신뢰할 수 있는 수식 계산 엔진
+ 효율적이고 견고하며 신뢰할 수 있는 수식 계산 엔진
     </h2>
     <p>
-Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 함수를 지원하는 강력한 수식 계산 엔진이 장착되어 있습니다. 내장 또는 추가 유형, 배열 및 R1C1 참조 스타일 수식의 결과를 읽고 설정하고 계산할 수 있습니다.
+ Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 기능을 지원하는 강력한 수식 계산 엔진이 장착되어 있습니다. 내장 또는 추가 유형, 배열 및 R1C1 참조 스타일 수식의 결과를 읽고 설정하고 계산할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 서식 지정, 차트 &amp; 제도법
+ 형식 지정, 차트 및 앰프를 사용하여 데이터 시각화 제도법
     </h2>
     <p>
- 라이브러리는 매우 유연하여 스프레드시트에 모든 종류의 시각 효과를 제공할 수 있을 뿐만 아니라 워크시트, 행, 열 또는 셀에 서식을 적용하고, 속성이 있는 글꼴을 설정하고, 셀 스타일을 정의할 수 있습니다. 숫자 서식, 서식 있는 텍스트 추가 및 조건부 서식 규칙 정의.
+ 라이브러리는 매우 유연하여 스프레드시트에 모든 종류의 시각적 효과를 제공할 수 있을 뿐만 아니라 워크시트, 행, 열 또는 셀에 서식을 적용하고, 속성으로 글꼴을 설정하고, 셀 스타일을 정의하고 &amp; 숫자 형식, 서식 있는 텍스트를 추가하고 조건부 서식 규칙을 정의합니다.
     </p>
     <p>
- 마찬가지로 전문적인 모양과 이해하기 쉬운 차트와 그래픽을 위해 필수적인 부분입니다. Aspose.Cells for PHP via Java API는 모든 유형의 표준 및 사용자 지정 차트를 만들고 조작할 수 있습니다. 또한 셀에 다른 유형의 그리기 개체를 쉽게 추가할 수 있습니다.
+마찬가지로, 전문적인 모양과 이해하기 쉬운 차트와 그래픽은 필수적인 부분입니다. Aspose.Cells for PHP via Java API는 모든 유형의 표준 및 사용자 정의 차트를 생성하고 조작할 수 있습니다. 또한 셀에 다양한 유형의 그리기 개체를 쉽게 추가할 수 있습니다.
     </p>
    </div>
   </div>
@@ -435,10 +435,10 @@ Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Ex
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/php/cells" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/php/cells" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -448,7 +448,7 @@ Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Ex
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for PHP via Java인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,7 +1,7 @@
 ---
-title: C++ PRN to SPREADSHEETML - Convertitore online da PRN a SPREADSHEETML
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Converti PRN in SPREADSHEETML saveformat. C++ PRN nel formato SPREADSHEETML. Salva PRN su SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to SPREADSHEETML saveformat., Free Online PRN to SPREADSHEETML C++., C++ Convert PRN to SPREADSHEETML]
+title: C++ PRN in FOGLIO DI CALCOLO - Convertitore da PRN a FOGLIO DI CALCOLO
+description: Aspose Excel. Converti PRN in SPREADSHEETML in modo rapido e semplice con Aspose.Cells. C++ PRN in SPREADSHEETML. C++ Salva PRN in SPREADSHEETML. Salva PRN come SPREADSHEETML utilizzando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to SPREADSHEETML in C++., Save PRN to SPREADSHEETML using C++., C++ PRN to SPREADSHEETML saveformat., PRN to SPREADSHEETML Converter., C++ Save PRN as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti PRN in SPREADSHEETML in C++" h2="Conversione da PRN a SPREADSHEETML ad alte prestazioni utilizzando la libreria C++ senza la necessità di installare Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to SPREA
 
 {{% blocks/products/pf/agp/content h2="Converti PRN in SPREADSHEETML utilizzando C++" %}}
 
- Come posso convertire PRN in SPREADSHEETML? Con la libreria Aspose.Cells for C++, puoi facilmente convertire PRN in SPREADSHEETML a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Come posso convertire PRN in SPREADSHEETML? Con la libreria Aspose.Cells for C++, puoi convertire facilmente PRN in SPREADSHEETML a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva PRN su SPREADSHEETML in C++ online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva PRN in SPREADSHEETML in C++" %}}
 
-L'esempio seguente mostra come convertire PRN in SPREADSHEETML in C++.
+L'esempio seguente dimostra come convertire PRN in SPREADSHEETML in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire PRN in SPREADSHEETML. Carica il tuo file PRN, quindi salvalo semplicemente come file SPREADSHEETML. Sia per la lettura PRN che per la scrittura SPREADSHEETML è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SPREADSHEETML di output saranno identici al documento PRN originale.
+Segui i semplici passaggi per convertire PRN in SPREADSHEETML. Carica il tuo file PRN, quindi salvalo semplicemente come file SPREADSHEETML. Sia per la lettura PRN che per la scrittura SPREADSHEETML è possibile utilizzare nomi file completi. Il contenuto e la formattazione dell'output SPREADSHEETML saranno identici al documento PRN originale.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire PRN in SPREADSHEETML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Codice di esempio per convertire PRN in SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire PRN in SPREADSHEETML tramite C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file PRN in SPREADSHEETML a livello di programmazione? C++ possono facilmente convertire PRN in SPREADSHEETML in poche righe di codice.
+Hai bisogno di convertire i file PRN in SPREADSHEETML a livello di codice? C++ gli sviluppatori possono convertire facilmente PRN in SPREADSHEETML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for C++'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto C++.
-1.  Carica il file PRN utilizzando Factory::CreateIWorkbook.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto C++.
+1. Carica il file PRN utilizzando la cartella di lavoro.
 1.  Converti PRN in SPREADSHEETML chiamando il metodo Save().
-1.  Ottieni il risultato della conversione di PRN in SPREADSHEETML.
+1.  Ottieni il risultato della conversione da PRN a SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ libreria per convertire PRN in SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="Libreria C++ per convertire PRN in SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa un[NuGet Pacco](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Installa la libreria usando Include e lib Folders. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Installa un[NuGet Pacchetto](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Installa la libreria utilizzando le cartelle Include e lib. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Installa Aspose.Cells for C++ su Linux. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,48 +73,47 @@ Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice di esempio di conversione C++, assicurarsi di disporre dei seguenti prerequisiti.
+ Prima di eseguire il codice di esempio di conversione C++, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
-- Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+- Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file che appare in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file visualizzata in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML sta per Extensible Markup Language che è simile a HTML ma diverso nell'utilizzo dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò gli consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su reti come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste funzionalità che molti formati di file standard lo utilizzano come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire PRN in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-bmp/" name="PRN AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-emf/" name="PRN AL EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-gif/" name="PRN AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-html/" name="PRN AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-md/" name="PRN A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-mhtml/" name="PRN AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-ods/" name="PRN AL ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PRN AL PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PRN AL PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="PRN AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="PRN AL TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="PRN AL TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="PRN AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="PRN AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsb/" name="PRN AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsm/" name="PRN AL XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsx/" name="PRN AL XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlt/" name="PRN AL XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltm/" name="PRN AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltx/" name="PRN AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xml/" name="PRN A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xps/" name="PRN AL XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-json/" name="PRN AL JSON" description="Notazione oggetto JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-jpeg/" name="PRN AL JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-bmp/" name="PRN BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-emf/" name="PRN EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-gif/" name="PRN GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-html/" name="PRN HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-md/" name="PRN A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-mhtml/" name="PRN MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-ods/" name="PRN ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PRN PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PRN PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="PRN SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="PRN TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="PRN TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="PRN XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsb/" name="PRN XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsm/" name="PRN XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlsx/" name="PRN XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xlt/" name="PRN XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltm/" name="PRN XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltx/" name="PRN XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xml/" name="PRN IN XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xps/" name="PRN XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-json/" name="PRN JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-jpeg/" name="PRN JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

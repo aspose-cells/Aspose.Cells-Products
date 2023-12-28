@@ -11,52 +11,52 @@ url: /it/tutorial/add-shapes-in-excel
 {{< blocks/products/pf/feature-page-section h2="Scopri come aggiungere forme con Aspose.Cells" >}}
 
 <p>
-In questo tutorial, aggiungeremo forme in un file excel.
+In questo tutorial, aggiungeremo forme in un file Excel.
 </p>
 
 <p>
- Inizieremo creando una nuova cartella di lavoro utilizzando il file<a href="https://www.nuget.org/packages/Aspose.Cells">biblioteca Aspose.Cells</a> e aggiungi forme.
+ Inizieremo creando una nuova cartella di lavoro utilizzando il file<a href="https://www.nuget.org/packages/Aspose.Cells">Biblioteca Aspose.Cells</a> e aggiungere forme.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: controllare il codice seguente per scoprire come aggiungere forme.
-//ExStepSummary:0: il codice seguente mostra come aggiungere una forma rettangolare.
+//ExSummary: controlla il codice seguente per scoprire come aggiungere forme.
+//ExStepSummary:0: il codice seguente mostra come aggiungere la forma rettangolare.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: il codice seguente mostra come aggiungere la forma della linea.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: il codice seguente mostra come aggiungere una forma ovale.
 //ExStepImage:2:step-3.png
 //ExStart
-//ExPasso:0-
-utilizzando il numero Aspose.Cells;
-utilizzando Aspose.Cells.Drawing;
+//PassoEx:0-
+utilizzando Aspose.Cells;
+utilizzando Aspose.Cells.Disegno;
 
 
 
 
 
 Cartella di lavoro cartella di lavoro = nuova cartella di lavoro();
-Foglio di lavoro = workbook.Worksheets[0];
+Foglio di lavoro = cartella di lavoro.Fogli di lavoro[0];
 sheet.PageSetup.PrintGridlines = true;
-sheet.PageSetup.PrintArea = "A1:F20";
+foglio.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection forme = foglio.Forme;
+ShapeCollection forme = sheet.Shapes;
 
-//Aggiungi forma rettangolare
+//Aggiunge la forma rettangolare
 forme.AddRectangle(1, 0, 1, 0, 100, 150);
 
-//ExStep:1-
-//Aggiungi la forma della linea
+//ExPassaggio:1-
+//Aggiunge la forma della linea
 forme.AddLine(8, 0, 1, 0, 100, 150);
 
-//ExStep:2-
+//ExPassaggio:2-
 //Aggiungi forma ovale
-forme.AddOval(13, 0, 1, 0, 100, 150);
+forme.AddOvale(13, 0, 1, 0, 100, 150);
 
-//ExPasso:0-
+//PassoEx:0-
 cartella di lavoro
-//ExFine
+//Exend
 {{< /app/cells/tutorial >}}
 <br />
 
@@ -64,8 +64,8 @@ cartella di lavoro
 <br />
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Installazione di Aspose.Cells</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editore</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Installazione dello Aspose.Cells</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Redattore</a></li>
     </ul>
 </div>
 

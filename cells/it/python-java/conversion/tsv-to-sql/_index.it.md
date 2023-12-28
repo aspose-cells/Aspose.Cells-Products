@@ -1,7 +1,7 @@
 ---
-title: Python TSV a SQL - Convertitore online da TSV a SQL
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online gratuito Python Converti TSV in formato di salvataggio SQL. Python TSV in formato SQL. Salva TSV in SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to SQL saveformat., Free Online TSV to SQL Python., Python Convert TSV to SQL]
+title: Python TSV in SQL - TSV in SQL Convertitore
+description: Aspose Excel. Converti TSV in SQL in modo rapido e semplice con Aspose.Cells. Python TSV in SQL. Python Salva TSV in SQL. Salva TSV come SQL utilizzando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to SQL in Python., Save TSV to SQL using Python., Python TSV to SQL saveformat., TSV to SQL Converter., Python Save TSV as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TSV in SQL in Python" h2="Libreria Python ad alta velocità per la conversione di TSV in SQL. Questa è una soluzione software professionale per importare ed esportare TSV, SQL e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 {{% blocks/products/pf/agp/content h2="Converti TSV in SQL utilizzando Python" %}}
 
- Come posso convertire TSV in SQL? Con la libreria Aspose.Cells for Python, puoi facilmente convertire TSV in SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come converto TSV in SQL? Con la libreria Aspose.Cells for Python, puoi convertire facilmente TSV in SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva TSV in SQL in Python online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva TSV in SQL in Python" %}}
 
-L'esempio seguente mostra come convertire TSV in SQL in Python.
+L'esempio seguente dimostra come convertire TSV in SQL in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire TSV in SQL. Carica il tuo file TSV, quindi salvalo semplicemente come file SQL. Sia per la lettura TSV che per la scrittura SQL è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SQL di output saranno identici al documento TSV originale.
+Segui i semplici passaggi per convertire TSV in SQL. Carica il tuo file TSV, quindi salvalo semplicemente come file SQL. Sia per la lettura TSV che per la scrittura SQL è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SQL di output saranno identici al documento originale TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire TSV in SQL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire TSV in SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TSV in SQL tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file TSV in SQL a livello di programmazione? Gli sviluppatori di Python possono facilmente caricare e convertire TSV in SQL in poche righe di codice.
+È necessario convertire i file TSV in SQL a livello di codice? Gli sviluppatori di Python possono caricare e convertire facilmente TSV in SQL in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file TSV con un'istanza di Workbook.
 1.  Converti TSV in SQL chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di TSV in SQL.
+1.  Ottieni il risultato della conversione da TSV a SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per convertire TSV in SQL" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per convertire TSV in SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,47 +63,47 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato di file con valori separati da tabulazioni (TSV) rappresenta i dati separati da tabulazioni in formato testo normale. Il formato del file, simile a CSV, viene utilizzato per l'organizzazione dei dati in modo strutturato al fine di importare ed esportare tra diverse applicazioni. Il formato viene utilizzato principalmente per l'importazione/esportazione di dati e lo scambio in applicazioni di fogli di calcolo e database. Ogni record in un file TSV è contenuto in una singola riga di file di testo in cui ogni valore di campo è separato da un carattere di tabulazione. Il tipo di supporto per il formato file TSV è testo/valori separati da tabulazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file SQL (Structured Query Language) che contiene il codice per lavorare con i database relazionali. Viene utilizzato per scrivere istruzioni SQL per le operazioni CRUD (Create, Read, Update e Delete) sui database. I file SQL sono comuni mentre si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato file Valori separati da tabulazioni (TSV) rappresenta i dati separati da tabulazioni in formato testo normale. Il formato file, simile a CSV, viene utilizzato per organizzare i dati in modo strutturato al fine di importarli ed esportarli tra diverse applicazioni. Il formato viene utilizzato principalmente per l'importazione/esportazione e lo scambio di dati in applicazioni e database di fogli di calcolo. Ogni record in un file TSV è contenuto in una singola riga di file di testo in cui ciascun valore di campo è separato da un carattere di tabulazione. Il tipo di supporto per il formato file TSV è testo/valori separati da tabulazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file Structured Query Language (SQL) che contiene codice per funzionare con database relazionali. Viene utilizzato per scrivere istruzioni SQL per operazioni CRUD (Crea, Leggi, Aggiorna ed Elimina) sui database. I file SQL sono comuni quando si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire TSV in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire TSV in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-bmp/" name="TSV ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-emf/" name="TSV ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-gif/" name="TSV ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-html/" name="TSV ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-md/" name="TSV A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-mhtml/" name="TSV ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-ods/" name="TSV ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-pdf/" name="TSV ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-png/" name="TSV ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-svg/" name="TSV ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-tiff/" name="TSV ALLO TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-bmp/" name="dallo TSV allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-emf/" name="dallo TSV allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-gif/" name="dallo TSV allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-html/" name="dallo TSV allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-md/" name="TSV AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-mhtml/" name="dallo TSV allo MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-ods/" name="dallo TSV allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-pdf/" name="dallo TSV allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-png/" name="dallo TSV allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-svg/" name="dallo TSV allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-tiff/" name="dallo TSV allo TIFF" description="Formato immagine contrassegnato" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-txt/" name="TSV ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xls/" name="TSV ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsb/" name="TSV ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsm/" name="TSV ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsx/" name="TSV ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlt/" name="TSV ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xltm/" name="TSV ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xltx/" name="TSV ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xml/" name="TSV A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xps/" name="TSV ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-json/" name="TSV ALLO JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-txt/" name="dallo TSV allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xls/" name="dallo TSV allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsb/" name="dallo TSV allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsm/" name="dallo TSV allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlsx/" name="dallo TSV allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xlt/" name="dallo TSV allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xltm/" name="dallo TSV allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xltx/" name="dallo TSV allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xml/" name="TSV A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-xps/" name="dallo TSV allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-json/" name="dallo TSV allo JSON" description="Notazione oggetto JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED to HTM - 온라인 TABDELIMITED to HTM 변환기
-description: Aspose 엑셀. Java Aspose.Cells. Java Aspose Cells. 무료 온라인 Java TABDELIMITED를 HTM saveformat으로 변환합니다. Java HTM 형식으로 TABDELIMITED. TABDELIMITED를 HTM Java로 저장합니다.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to HTM saveformat., Free Online TABDELIMITED to HTM Java., Java Convert TABDELIMITED to HTM]
+title: Java HTM으로 TABDELIMITED - HTM으로 TABDELIMITED 변환기
+description: Aspose 엑셀. Aspose.Cells을 사용하여 TABDELIMITED를 HTM으로 빠르고 쉽게 변환하세요. Java TABDELIMITED를 HTM으로 변환하세요. Java HTM에 TABDELIMITED를 저장합니다. Java을 사용하여 TABDELIMITED를 HTM으로 저장합니다.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to HTM in Java., Save TABDELIMITED to HTM using Java., Java TABDELIMITED to HTM saveformat., TABDELIMITED to HTM Converter., Java Save TABDELIMITED as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java에서 TABDELIMITED를 HTM으로 변환" h2="TABDELIMITED를 HTM으로 변환하기 위한 고속 Java 라이브러리. 이것은 Java을 사용하여 TABDELIMITED, HTM 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 TABDELIMITED를 HTM으로 변환" %}}
 
- TABDELIMITED를 HTM으로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 TABDELIMITED를 HTM으로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ TABDELIMITED를 HTM으로 어떻게 변환하나요? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드만으로 프로그래밍 방식으로 TABDELIMITED를 HTM으로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -45,30 +45,30 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="TABDELIMITED를 Java 온라인에서 HTM에 무료로 저장" %}}
+{{% blocks/products/pf/agp/content h2="Java에서 TABDELIMITED를 HTM에 저장합니다." %}}
 
-다음 예는 Java에서 TABDELIMITED를 HTM으로 변환하는 방법을 보여줍니다.
+다음 예에서는 Java에서 TABDELIMITED를 HTM으로 변환하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-TABDELIMITED를 HTM으로 변환하는 쉬운 단계를 따르십시오. TABDELIMITED 파일을 업로드한 다음 HTM 파일로 저장하기만 하면 됩니다. TABDELIMITED 읽기 및 HTM 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 HTM 내용 및 형식은 원본 TABDELIMITED 문서와 동일합니다.
+TABDELIMITED를 HTM으로 변환하는 쉬운 단계를 따르세요. TABDELIMITED 파일을 업로드한 다음 간단히 HTM 파일로 저장하세요. TABDELIMITED 읽기와 HTM 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 HTM 콘텐츠 및 형식은 원본 TABDELIMITED 문서와 동일합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITED를 HTM Online으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="TABDELIMITED를 HTM으로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED를 HTM via Java로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-프로그래밍 방식으로 TABDELIMITED 파일을 HTM으로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드로 TABDELIMITED를 HTM으로 쉽게 변환할 수 있습니다.
+프로그래밍 방식으로 TABDELIMITED 파일을 HTM으로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드만으로 TABDELIMITED를 HTM으로 쉽게 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Java'을 설치합니다.
 1.  Java 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  Workbook 클래스의 인스턴스와 함께 TABDELIMITED 파일을 로드합니다.
+1.  Workbook 클래스의 인스턴스를 사용하여 TABDELIMITED 파일을 로드합니다.
 1.  Workbook.save 메서드를 호출하여 TABDELIMITED를 HTM으로 변환합니다.
 1.  TABDELIMITED를 HTM으로 변환한 결과를 가져옵니다.
 
@@ -77,7 +77,7 @@ TABDELIMITED를 HTM으로 변환하는 쉬운 단계를 따르십시오. TABDELI
 {{% blocks/products/pf/agp/content h2="TABDELIMITED를 HTM으로 변환하는 Java 라이브러리" %}}
 {{% blocks/products/pf/agp/text %}}
 
- 우리는 Java 패키지를 다음에서 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 공통 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법.
+ 우리는 Java 패키지를 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 일반적인 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법에 대해 알아보세요.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ TABDELIMITED를 HTM으로 변환하는 쉬운 단계를 따르십시오. TABDELI
 
 {{% blocks/products/pf/agp/text %}}
 
- Java 변환 소스 코드를 실행하기 전에 다음과 같은 전제 조건이 있는지 확인하십시오.
+ Java 변환 소스 코드를 실행하기 전에 다음 전제 조건이 있는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 - Maven에서 직접 Aspose.Cells for Java의 최신 버전을 받으세요.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}탭으로 구분된 값(TSV) 파일 형식은 탭으로 구분된 데이터를 일반 텍스트 형식으로 나타냅니다. CSV과 유사한 파일 형식은 서로 다른 응용 프로그램 간에 가져오기 및 내보내기를 위해 구조화된 방식으로 데이터를 구성하는 데 사용됩니다. 이 형식은 스프레드시트 응용 프로그램 및 데이터베이스에서 데이터 가져오기/내보내기 및 교환에 주로 사용됩니다. TSV 파일의 각 레코드는 각 필드 값이 탭 문자로 구분되는 한 줄의 텍스트 파일에 포함됩니다. TSV 파일 형식의 미디어 유형은 text/tab-separated-values입니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 만들기 위한 Hypertext Markup Language를 나타냅니다. 다른 사람이 액세스할 수 있도록 WWW(World Wide Web)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 내용을 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹 페이지가 게시되면 해당 페이지 소스를 확인하여 그 뒤에 있는 마크업 코드를 볼 수 있습니다. 최신 브라우저를 사용하면 HTM 소스의 각 하위 구분 또는 마크업 요소가 정교한 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Tab-Separated Values(TSV) 파일 형식은 일반 텍스트 형식의 탭으로 구분된 데이터를 나타냅니다. CSV과 유사한 파일 형식은 서로 다른 응용 프로그램 간에 가져오고 내보내기 위해 구조화된 방식으로 데이터를 구성하는 데 사용됩니다. 이 형식은 주로 스프레드시트 응용 프로그램 및 데이터베이스에서 데이터 가져오기/내보내기 및 교환에 사용됩니다. TSV 파일의 각 레코드는 각 필드 값이 탭 문자로 구분되는 단일 텍스트 파일 줄에 포함되어 있습니다. TSV 파일 형식의 미디어 유형은 텍스트/탭으로 구분된 값입니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 생성하기 위한 하이퍼텍스트 마크업 언어를 나타냅니다. 이는 다른 사람이 액세스할 수 있도록 World Wide Web(WWW)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 콘텐츠를 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹페이지가 게시되면 해당 페이지 소스를 보면 그 뒤에 있는 마크업 코드를 살펴볼 수 있습니다. 최신 브라우저에서는 HTM 소스의 각 하위 구분이나 마크업 요소가 자세히 설명되어 있는 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="TABDELIMITED를 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 TABDELIMITED를 아래 나열된 몇 가지 파일 형식을 포함하여 다양한 다른 파일 형식으로 변환할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED BMP" description="비트맵 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABDELIMITED EMF" description="향상된 메타파일 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABDELIMITED GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABDELIMITED HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABDELIMITED TO MD" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABDELIMITED ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABDELIMITED PDF" description="휴대용 문서 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="TABDELIMITED PNG" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABDELIMITED SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TIFF" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABDELIMITED XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="TABDELIMITED XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="TABDELIMITED XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABDELIMITED XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABDELIMITED XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="TABDELIMITED TO XML" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED XPS" description="XML 문서 사양" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABDELIMITED JSON" description="자바스크립트 객체 표기법" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED JPEG" description="JPEG 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-bmp/" name="탭으로 구분: BMP" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="탭으로 구분: EMF" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="탭으로 구분: GIF" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="탭으로 구분: HTML" description="하이퍼텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="탭으로 MD로 제한됨" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="탭으로 구분: MHTML" description="웹페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="탭으로 구분: ODS" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="탭으로 구분: PDF" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-png/" name="탭으로 구분: PNG" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="탭으로 구분: SVG" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="탭으로 구분: TIFF" description="태그된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="탭으로 구분: TSV" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="탭으로 구분: TXT" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="탭으로 구분: XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="탭으로 구분: XLSB" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="탭으로 구분: XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsx/" name="탭으로 구분: XLSX" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlt/" name="탭으로 구분: XLT" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="탭으로 구분: XLTM" description="Excel 매크로 지원 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="탭으로 구분: XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="XML로 탭으로 제한됨" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="탭으로 구분: XPS" description="XML 용지 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="탭으로 구분: JSON" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="탭으로 구분: JPEG" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

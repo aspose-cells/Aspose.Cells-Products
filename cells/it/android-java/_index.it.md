@@ -1,10 +1,10 @@
 ---
 title: Foglio di calcolo Excel Android API - Aspose
 weight: 6510
-description: Libreria di fogli di calcolo Android per creare file di lettura, scrittura e analisi di Excel. Un foglio di calcolo API per lo sviluppo di App mobili
+description: Libreria di fogli di calcolo Android per creare, leggere, scrivere e analizzare file Excel. Un foglio di calcolo API per lo sviluppo di app mobili
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android per manipolare fogli di calcolo Excel" h2="Crea, leggi, scrivi o manipola file Excel all\'interno delle app Android senza dipendenze." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android per manipolare fogli di calcolo Excel" h2="Crea, leggi, scrivi o manipola file Excel all\'interno delle app Android senza alcuna dipendenza." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Libreria di fogli di calcolo Android per creare file di lettura, sc
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java è un API scalabile per generare, combinare, modificare e analizzare in modo programmatico fogli di calcolo. API offre molte funzioni tra cui formattazione di documenti Excel e attività di impostazione della pagina, capacità di importazione ed esportazione, rendering di pagine di fogli di lavoro in immagini raster, nonché specifica della risoluzione dell'immagine, qualità, compressione, aggiunta di diversi grafici e molto altro. Il foglio di calcolo Android API supporta XLS, XLSX, CSV, SpreadsheetML, ODS, delimitato da tabulazioni, HTML, PDF, XPS e altri formati.
+ Aspose.Cells for Android via Java è un API scalabile per generare, combinare, modificare e analizzare a livello di codice fogli di calcolo. API offre molte funzioni tra cui la formattazione dei documenti Excel e le attività di impostazione della pagina, funzionalità di importazione ed esportazione, rendering delle pagine dei fogli di lavoro in immagini raster, nonché la specifica di risoluzione, qualità, compressione dell'immagine, aggiunta di grafici diversi e molto altro. Il foglio di calcolo Android API supporta XLS, XLSX, CSV, SpreadsheetML, ODS, delimitato da tabulazioni, HTML, PDF, XPS e altri formati.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -27,7 +27,7 @@ description: Libreria di fogli di calcolo Android per creare file di lettura, sc
    <header>
     <i class="fa fa-refresh">
     </i>
- Importa &amp; Esportare
+ Importa e Esportare
    </header>
    <ul>
     <li>
@@ -47,10 +47,10 @@ Collezioni
    </header>
    <ul>
     <li>
- Da grafico a immagine
+ Dal grafico all'immagine
     </li>
     <li>
- Foglio di lavoro per immagine
+ Foglio di lavoro per l'immagine
     </li>
     <li>
  Foglio di calcolo allo PDF
@@ -69,7 +69,7 @@ Collezioni
  Applica formattazione
     </li>
     <li>
- Applica Formula
+ Applicare la formula
     </li>
     <li>
  Crea grafici
@@ -104,7 +104,7 @@ Collezioni
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for Android via Java è disponibile for Android 2.0 o superiore." >}}
+{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for Android via Java è disponibile for Android 2.0 o successiva." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +114,7 @@ Collezioni
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Ambiente di runtime Android
+ Ambiente runtime Android
    </header>
    <ul>
     <li>
@@ -156,7 +156,7 @@ Collezioni
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -249,14 +249,14 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Esporta e importa dati da ArrayList, Array, Recordset &amp; Set di risultati
+ Esporta e importa dati da ArrayList, Array, Recordset e amp; Set di risultati
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crittografa &amp; decifrare i file di Excel
+ Crittografa e amp; decrittografare i file Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -270,21 +270,21 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare i grafici
+ Crea e crea manipolare i grafici
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare i commenti
+ Crea e crea manipolare i commenti
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggi, imposta &amp; calcolare le formule
+ Leggi, imposta e amp; calcolare le formule
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,35 +298,35 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Imposta & amp; manipolare filtri automatici e amp; interruzioni di pagina
+ Imposta e manipolare filtri automatici e amp; interruzioni di pagina
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggi &amp; scrivere la formattazione condizionale
+ Leggi e scrivere la formattazione condizionale
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea copie di fogli di lavoro esistenti
+ Creare copie di fogli di lavoro esistenti
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Impostare le opzioni di protezione introdotte da Microsoft Excel XP
+ Imposta le opzioni di protezione introdotte a partire da Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipola celle e amp; intervalli denominati
+ Manipolare cellule e amp; intervalli denominati
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converti fogli di lavoro &amp; grafici alle immagini
+ Converti fogli di lavoro e amp; grafici alle immagini
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,14 +419,14 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare le tabelle pivot
+ Crea e crea manipolare tabelle pivot
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare grafici personalizzati
+ Crea e crea manipolare grafici personalizzati
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,7 +440,7 @@ Applica la formattazione a foglio di lavoro, riga, colonna, cella e intervallo
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare gli scenari
+ Crea e crea manipolare gli scenari
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,19 +454,19 @@ Potente motore di calcolo delle formule
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggi &amp; scrivi TSV, CSV &amp; HTML file
+ Leggi e scrivi TSV, CSV &amp; HTML file
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Conversione di diversi formati
+ Conversione di formati diversi
     </h2>
     <p>
- La libreria Android Excel offre la conversione di fogli di calcolo in XPS, PDF e amp; HTML mantenendo la massima fedeltà visiva. L'affidabile processo di conversione rende API una scelta perfetta per le aziende per lo scambio di file in formati standard del settore.
+ La libreria Excel Android offre la conversione di fogli di calcolo in XPS, PDF e amp; HTML mantenendo la massima fedeltà visiva. L'affidabile processo di conversione rende API una scelta perfetta per le aziende per lo scambio di file in formati standard del settore.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salva la cartella di lavoro in vari formati - Java
+ Salva cartella di lavoro in vari formati - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Converti oggetti foglio di calcolo in diversi formati
+ Converti oggetti del foglio di calcolo in diversi formati
     </h2>
     <p>
- Aspose.Cells for Android via Java offrono alcune caratteristiche distintive come fogli di lavoro per immagini, grafici per immagini e amp; PDF e fogli di calcolo alla conversione del formato del documento PDF. Il processo flessibile ha una serie di scelte per la conversione, come il ricampionamento delle immagini durante i fogli di calcolo a PDF o l'impostazione delle dimensioni dell'immagine risultante durante il rendering dei fogli di lavoro e dell'ampli; grafici ai formati immagine.
+ Aspose.Cells for Android via Java offrono alcune caratteristiche distintive come fogli di lavoro per immagini, grafici per immagini e amp; Conversione formato documento PDF e fogli di calcolo in PDF. Il processo flessibile prevede una serie di scelte per la conversione, come il ricampionamento delle immagini durante i fogli di calcolo su PDF o l'impostazione delle dimensioni dell'immagine risultante durante il rendering di fogli di lavoro e amp; grafici in formati immagine.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Foglio di calcolo API Motore di calcolo delle formule
+Foglio di calcolo API Motore di calcolo della formula
     </h2>
     <p>
- I fogli Android API forniscono un potente motore di calcolo delle formule che supporta le funzioni e le formule avanzate e standard di Excel Microsoft. Il motore di calcolo delle formule semplifica la lettura, l'impostazione e il calcolo dei risultati del tipo integrato o aggiuntivo, dell'array e delle formule dello stile di riferimento R1C1.
+ I fogli Android API forniscono un potente motore di calcolo delle formule che supporta le funzioni e le formule avanzate e standard di Excel Microsoft. Il motore di calcolo delle formule semplifica la lettura, l'impostazione e il calcolo dei risultati delle formule di tipo, array e stile di riferimento R1C1 integrate o aggiuntive.
     </p>
    </div>
    <!--
@@ -572,18 +572,18 @@ Foglio di calcolo API Motore di calcolo delle formule
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for Android via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -591,7 +591,7 @@ Foglio di calcolo API Motore di calcolo delle formule
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

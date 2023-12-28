@@ -1,7 +1,7 @@
 ---
-title: Java JSON a HTM - Convertitore online da JSON a HTM
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti JSON in HTM saveformat. Java JSON in formato HTM. Salva JSON su HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to HTM saveformat., Free Online JSON to HTM Java., Java Convert JSON to HTM]
+title: Convertitore da Java a JSON in HTM - JSON in HTM
+description: Aspose Excel. Converti JSON in HTM in modo rapido e semplice con Aspose.Cells. Java JSON in HTM. Java Salva JSON su HTM. Salva JSON come HTM utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to HTM in Java., Save JSON to HTM using Java., Java JSON to HTM saveformat., JSON to HTM Converter., Java Save JSON as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti JSON in HTM in Java" h2="Libreria Java ad alta velocità per la conversione di JSON in HTM. Questa è una soluzione software professionale per importare ed esportare JSON, HTM e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to H
 
 {{% blocks/products/pf/agp/content h2="Converti JSON in HTM utilizzando Java" %}}
 
- Come posso convertire JSON in HTM? Con la libreria Aspose.Cells for Java, puoi facilmente convertire JSON in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire JSON in HTM? Con la libreria Aspose.Cells for Java, puoi convertire facilmente JSON in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva JSON su HTM in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva JSON su HTM in Java" %}}
 
 L'esempio seguente mostra come convertire JSON in HTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire JSON in HTM. Carica il tuo file JSON, quindi salvalo semplicemente come file HTM. Sia per la lettura JSON che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento JSON originale.
+Segui i semplici passaggi per convertire JSON in HTM. Carica il tuo file JSON, quindi salvalo semplicemente come file HTM. Sia per la lettura JSON che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento originale JSON.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire JSON in HTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire JSON in HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire JSON in HTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file JSON in HTM a livello di programmazione? Gli sviluppatori di Java possono facilmente convertire JSON in HTM in poche righe di codice.
+È necessario convertire i file JSON in HTM a livello di codice? Gli sviluppatori di Java possono convertire facilmente JSON in HTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
-1.  Carica il file JSON con un'istanza della classe Workbook.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
+1. Carica il file JSON con un'istanza della classe Workbook.
 1.  Converti JSON in HTM chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di JSON in HTM.
+1.  Ottieni il risultato della conversione da JSON a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire JSON in HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire JSON in HTM" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ Hai bisogno di convertire i file JSON in HTM a livello di programmazione? Gli sv
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) è un formato di file standard aperto per la condivisione di dati che utilizza testo leggibile dall'uomo per archiviare e trasmettere dati. I file JSON vengono archiviati con l'estensione .json. JSON richiede meno formattazione ed è una buona alternativa per XML. JSON deriva da JavaScript ma è un formato di dati indipendente dalla lingua. La generazione e l'analisi di JSON è supportata da molti linguaggi di programmazione moderni. application/json è il tipo di supporto utilizzato per JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) è un formato file standard aperto per la condivisione di dati che utilizza testo leggibile dall'uomo per archiviare e trasmettere dati. I file JSON vengono archiviati con l'estensione .json. JSON richiede meno formattazione ed è una buona alternativa a XML. JSON deriva da JavaScript ma è un formato dati indipendente dalla lingua. La generazione e l'analisi di JSON sono supportate da molti linguaggi di programmazione moderni. application/json è il tipo di supporto utilizzato per JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire JSON in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire JSON in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-bmp/" name="JSON ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-emf/" name="JSON ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-gif/" name="JSON ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-html/" name="JSON ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-md/" name="JSON A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-mhtml/" name="JSON ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-ods/" name="JSON ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-pdf/" name="JSON ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-png/" name="JSON ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-svg/" name="JSON ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-tiff/" name="JSON ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-tsv/" name="JSON ALLO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-txt/" name="JSON ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xls/" name="JSON ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsb/" name="JSON ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsm/" name="JSON ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsx/" name="JSON ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlt/" name="JSON ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltm/" name="JSON ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="JSON ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON ALLO XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-bmp/" name="dallo JSON allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-emf/" name="dallo JSON allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-gif/" name="dallo JSON allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-html/" name="dallo JSON allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-md/" name="JSON AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-mhtml/" name="dallo JSON allo MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-ods/" name="dallo JSON allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-pdf/" name="dallo JSON allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-png/" name="dallo JSON allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-svg/" name="dallo JSON allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-tiff/" name="dallo JSON allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-tsv/" name="dallo JSON allo TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-txt/" name="dallo JSON allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xls/" name="dallo JSON allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsb/" name="dallo JSON allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsm/" name="dallo JSON allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlsx/" name="dallo JSON allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xlt/" name="dallo JSON allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltm/" name="dallo JSON allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="dallo JSON allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="dallo JSON allo XPS" description="Specifiche della carta XML" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="JSON ALLO JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="dallo JSON allo JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

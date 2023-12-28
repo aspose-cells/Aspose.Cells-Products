@@ -1,7 +1,7 @@
 ---
-title: Java TXT a HTM - Convertitore online da TXT a HTM
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti TXT in HTM saveformat. Java TXT in formato HTM. Salva TXT su HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to HTM saveformat., Free Online TXT to HTM Java., Java Convert TXT to HTM]
+title: Convertitore da Java a TXT in HTM - TXT in HTM
+description: Aspose Excel. Converti TXT in HTM in modo rapido e semplice con Aspose.Cells. Java TXT in HTM. Java Salva TXT su HTM. Salva TXT come HTM utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to HTM in Java., Save TXT to HTM using Java., Java TXT to HTM saveformat., TXT to HTM Converter., Java Save TXT as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TXT in HTM in Java" h2="Libreria Java ad alta velocità per la conversione di TXT in HTM. Questa è una soluzione software professionale per importare ed esportare TXT, HTM e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to HT
 
 {{% blocks/products/pf/agp/content h2="Converti TXT in HTM utilizzando Java" %}}
 
- Come posso convertire TXT in HTM? Con la libreria Aspose.Cells for Java, puoi facilmente convertire TXT in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire TXT in HTM? Con la libreria Aspose.Cells for Java, puoi convertire facilmente TXT in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to HT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva TXT su HTM in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva TXT su HTM in Java" %}}
 
 L'esempio seguente mostra come convertire TXT in HTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire TXT in HTM. Carica il tuo file TXT, quindi salvalo semplicemente come file HTM. Sia per la lettura TXT che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento TXT originale.
+Segui i semplici passaggi per convertire TXT in HTM. Carica il tuo file TXT, quindi salvalo semplicemente come file HTM. Sia per la lettura TXT che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento originale TXT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire TXT in HTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire TXT in HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TXT in HTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file TXT in HTM a livello di programmazione? Gli sviluppatori di Java possono facilmente convertire TXT in HTM in poche righe di codice.
+È necessario convertire i file TXT in HTM a livello di codice? Gli sviluppatori di Java possono convertire facilmente TXT in HTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
-1.  Carica il file TXT con un'istanza della classe Workbook.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
+1. Carica il file TXT con un'istanza della classe Workbook.
 1.  Converti TXT in HTM chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di TXT in HTM.
+1.  Ottieni il risultato della conversione da TXT a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire TXT in HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire TXT in HTM" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ Hai bisogno di convertire i file TXT in HTM a livello di programmazione? Gli svi
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un file con estensione .TXT rappresenta un documento di testo che contiene testo normale sotto forma di linee. I paragrafi in un documento di testo sono riconosciuti dai ritorni a capo e vengono utilizzati per una migliore disposizione dei contenuti del file. Un documento di testo standard può essere aperto in qualsiasi editor di testo o applicazione di elaborazione testi su diversi sistemi operativi. Tutto il testo contenuto in tale file è in formato leggibile dall'uomo e rappresentato da una sequenza di caratteri.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un file con estensione .TXT rappresenta un documento di testo che contiene testo semplice sotto forma di righe. I paragrafi in un documento di testo vengono riconosciuti dai ritorni a capo e vengono utilizzati per una migliore disposizione del contenuto del file. Un documento di testo standard può essere aperto in qualsiasi editor di testo o applicazione di elaborazione testi su diversi sistemi operativi. Tutto il testo contenuto in tale file è in formato leggibile dall'uomo e rappresentato da una sequenza di caratteri.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire TXT in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire TXT in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-bmp/" name="TXT ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-emf/" name="TXT ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-gif/" name="TXT ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-html/" name="TXT ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-md/" name="TXT A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-mhtml/" name="TXT ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-ods/" name="TXT ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-pdf/" name="TXT ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-png/" name="TXT ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-svg/" name="TXT ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-tiff/" name="TXT ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-tsv/" name="TXT ALLO TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-bmp/" name="dallo TXT allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-emf/" name="dallo TXT allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-gif/" name="dallo TXT allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-html/" name="dallo TXT allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-md/" name="TXT AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-mhtml/" name="dallo TXT allo MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-ods/" name="dallo TXT allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-pdf/" name="dallo TXT allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-png/" name="dallo TXT allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-svg/" name="dallo TXT allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-tiff/" name="dallo TXT allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-tsv/" name="dallo TXT allo TSV" description="Valori separati da tabulazioni" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xls/" name="TXT ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsb/" name="TXT ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsm/" name="TXT ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsx/" name="TXT ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlt/" name="TXT ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltm/" name="TXT ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltx/" name="TXT ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xml/" name="TXT A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xps/" name="TXT ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-json/" name="TXT ALLO JSON" description="Notazione oggetto JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-jpeg/" name="TXT ALLO JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xls/" name="dallo TXT allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsb/" name="dallo TXT allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsm/" name="dallo TXT allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlsx/" name="dallo TXT allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xlt/" name="dallo TXT allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltm/" name="dallo TXT allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltx/" name="dallo TXT allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xml/" name="TXT A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xps/" name="dallo TXT allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-json/" name="dallo TXT allo JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-jpeg/" name="dallo TXT allo JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

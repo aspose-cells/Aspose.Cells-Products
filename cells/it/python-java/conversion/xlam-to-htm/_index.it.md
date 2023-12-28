@@ -1,6 +1,6 @@
 ---
 title: XLAM in HTM - Converti XLAM in HTM Python via Python
-description: Aspose Excel. Converti online gratuito XLAM in HTM saveformat. Python XLAM in formato HTM. Salva XLAM come HTM in Python.
+description: Aspose Excel. Converti online gratuitamente XLAM nel formato di salvataggio HTM. Python XLAM in formato HTM. Salva XLAM come HTM in Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to HTM saveformat., Free Online XLAM to HTM Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to HTM saveformat., 
 
 {{% blocks/products/pf/agp/content h2="Converti XLAM in HTM utilizzando Python" %}}
 
- Come posso convertire XLAM in HTM? Con la libreria Aspose.Cells for Python, puoi facilmente convertire XLAM in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire XLAM in HTM? Con la libreria Aspose.Cells for Python, puoi convertire facilmente XLAM in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,35 +21,35 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to HTM saveformat., 
 L'esempio seguente mostra come convertire XLAM in HTM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire XLAM in HTM. Carica il tuo file XLAM, quindi salvalo semplicemente come file HTM. Sia per la lettura XLAM che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento XLAM originale.
+Segui i semplici passaggi per convertire XLAM in HTM. Carica il tuo file XLAM, quindi salvalo semplicemente come file HTM. Sia per la lettura XLAM che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento originale XLAM.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire XLAM in HTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire XLAM in HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XLAM in HTM tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file XLAM in HTM a livello di programmazione? Gli sviluppatori di Python possono facilmente caricare e convertire XLAM in HTM in poche righe di codice.
+È necessario convertire i file XLAM in HTM a livello di codice? Gli sviluppatori di Python possono caricare e convertire facilmente XLAM in HTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file XLAM con un'istanza di Workbook.
 1.  Converti XLAM in HTM chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di XLAM in HTM.
+1.  Ottieni il risultato della conversione da XLAM a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per convertire XLAM in HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per convertire XLAM in HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,41 +63,41 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XLAM in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XLAM in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-bmp/" name="XLAM ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-emf/" name="XLAM ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-gif/" name="XLAM ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-html/" name="XLAM ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-md/" name="XLAM A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-mhtml/" name="XLAM ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-ods/" name="XLAM ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-pdf/" name="XLAM ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-png/" name="XLAM ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-svg/" name="XLAM ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tiff/" name="XLAM ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tsv/" name="XLAM ALLO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-txt/" name="XLAM ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xls/" name="XLAM ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsb/" name="XLAM ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsm/" name="XLAM ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsx/" name="XLAM ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlt/" name="XLAM ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltm/" name="XLAM ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltx/" name="XLAM ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xml/" name="XLAM A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xps/" name="XLAM ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-json/" name="XLAM ALLO JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-bmp/" name="dallo XLAM allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-emf/" name="dallo XLAM allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-gif/" name="dallo XLAM allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-html/" name="dallo XLAM allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-md/" name="XLAM AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-mhtml/" name="dallo XLAM allo MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-ods/" name="dallo XLAM allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-pdf/" name="dallo XLAM allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-png/" name="dallo XLAM allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-svg/" name="dallo XLAM allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tiff/" name="dallo XLAM allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tsv/" name="dallo XLAM allo TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-txt/" name="dallo XLAM allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xls/" name="dallo XLAM allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsb/" name="dallo XLAM allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsm/" name="dallo XLAM allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsx/" name="dallo XLAM allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlt/" name="dallo XLAM allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltm/" name="dallo XLAM allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltx/" name="dallo XLAM allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xml/" name="XLAM A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xps/" name="dallo XLAM allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-json/" name="dallo XLAM allo JSON" description="Notazione oggetto JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

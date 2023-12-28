@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML in TABDELIMITED - Convertitore online da SPREADSHEETML a TABDELIMITED
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti SPREADSHEETML in TABDELIMITED saveformat. Python SPREADSHEETML nel formato TABDELIMITED. Salva SPREADSHEETML in TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to TABDELIMITED saveformat., Free Online SPREADSHEETML to TABDELIMITED Python., Python Convert SPREADSHEETML to TABDELIMITED]
+title: Python SPREADSHEETML in TABDELIMITED - Convertitore SPREADSHEETML in TABDELIMITED
+description: Aspose Excel. Converti SPREADSHEETML in TABDELIMITED in modo rapido e semplice con Aspose.Cells. Python SPREADSHEETML in TABDELIMITED. Python Salva SPREADSHEETML in TABDELIMITED. Salva SPREADSHEETML come TABDELIMITED utilizzando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to TABDELIMITED in Python., Save SPREADSHEETML to TABDELIMITED using Python., Python SPREADSHEETML to TABDELIMITED saveformat., SPREADSHEETML to TABDELIMITED Converter., Python Save SPREADSHEETML as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti SPREADSHEETML in TABDELIMITED in Python" h2="Libreria Python ad alta velocità per convertire SPREADSHEETML in TABDELIMITED. Questa è una soluzione software professionale per importare ed esportare SPREADSHEETML, TABDELIMITED e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/content h2="Converti SPREADSHEETML in TABDELIMITED utilizzando Python" %}}
 
- Come posso convertire SPREADSHEETML in TABDELIMITED? Con la libreria Aspose.Cells for Python, puoi facilmente convertire SPREADSHEETML in TABDELIMITED a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come converto SPREADSHEETML in TABDELIMITED? Con la libreria Aspose.Cells for Python, puoi convertire facilmente SPREADSHEETML in TABDELIMITED a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva SPREADSHEETML in TABDELIMITED in Python online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva SPREADSHEETML in TABDELIMITED in Python" %}}
 
-L'esempio seguente mostra come convertire SPREADSHEETML in TABDELIMITED in Python.
+L'esempio seguente dimostra come convertire SPREADSHEETML in TABDELIMITED in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire SPREADSHEETML in TABDELIMITED. Carica il tuo file SPREADSHEETML, quindi salvalo semplicemente come file TABDELIMITED. Sia per la lettura SPREADSHEETML che per la scrittura TABDELIMITED è possibile utilizzare nomi di file completi. Il contenuto e la formattazione TABDELIMITED di output saranno identici al documento SPREADSHEETML originale.
+Segui i semplici passaggi per convertire SPREADSHEETML in TABDELIMITED. Carica il tuo file SPREADSHEETML, quindi salvalo semplicemente come file TABDELIMITED. Sia per la lettura SPREADSHEETML che per la scrittura TABDELIMITED è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output TABDELIMITED saranno identici al documento SPREADSHEETML originale.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire SPREADSHEETML in TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire SPREADSHEETML in TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire SPREADSHEETML in TABDELIMITED tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Devi convertire i file SPREADSHEETML in TABDELIMITED a livello di codice? Python gli sviluppatori possono facilmente caricare e convertire SPREADSHEETML in TABDELIMITED in poche righe di codice.
+È necessario convertire i file SPREADSHEETML in TABDELIMITED a livello di codice? Python gli sviluppatori possono caricare e convertire facilmente SPREADSHEETML in TABDELIMITED in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file SPREADSHEETML con un'istanza di Workbook.
 1.  Converti SPREADSHEETML in TABDELIMITED chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di SPREADSHEETML in TABDELIMITED.
+1.  Ottieni il risultato della conversione da SPREADSHEETML a TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python per convertire SPREADSHEETML in TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per convertire SPREADSHEETML in TABDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,47 +63,47 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato di file con valori separati da tabulazioni (TSV) rappresenta i dati separati da tabulazioni in formato testo normale. Il formato del file, simile a CSV, viene utilizzato per l'organizzazione dei dati in modo strutturato al fine di importare ed esportare tra diverse applicazioni. Il formato viene utilizzato principalmente per l'importazione/esportazione di dati e lo scambio in applicazioni di fogli di calcolo e database. Ogni record in un file TSV è contenuto in una singola riga di file di testo in cui ogni valore di campo è separato da un carattere di tabulazione. Il tipo di supporto per il formato file TSV è testo/valori separati da tabulazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML sta per Extensible Markup Language che è simile a HTML ma diverso nell'utilizzo dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò gli consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su reti come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste funzionalità che molti formati di file standard lo utilizzano come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato file Valori separati da tabulazioni (TSV) rappresenta i dati separati da tabulazioni in formato testo normale. Il formato file, simile a CSV, viene utilizzato per organizzare i dati in modo strutturato al fine di importarli ed esportarli tra diverse applicazioni. Il formato viene utilizzato principalmente per l'importazione/esportazione e lo scambio di dati in applicazioni e database di fogli di calcolo. Ogni record in un file TSV è contenuto in una singola riga di file di testo in cui ciascun valore di campo è separato da un carattere di tabulazione. Il tipo di supporto per il formato file TSV è testo/valori separati da tabulazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire SPREADSHEETML in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire SPREADSHEETML in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="FOGLIO DI ESECUZIONE ML AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="FOGLIO DI ESECUZIONE ML AL EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-gif/" name="FOGLIO DI ESECUZIONE ML AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="FOGLIO DI ESECUZIONE ML AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="FOGLIO DI CALCOLO ML A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="FOGLIO DI ESECUZIONE ML AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="FOGLIO DI ESECUZIONE ML AL ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="FOGLIO DI ESECUZIONE ML AL PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-png/" name="FOGLIO DI ESECUZIONE ML AL PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-svg/" name="FOGLIO DI ESECUZIONE ML AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tiff/" name="FOGLIO DI ESECUZIONE ML AL TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tsv/" name="FOGLIO DI ESECUZIONE ML AL TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-txt/" name="FOGLIO DI ESECUZIONE ML AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xls/" name="FOGLIO DI ESECUZIONE ML AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsb/" name="FOGLIO DI ESECUZIONE ML AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsm/" name="FOGLIO DI ESECUZIONE ML AL XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsx/" name="FOGLIO DI ESECUZIONE ML AL XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlt/" name="FOGLIO DI ESECUZIONE ML AL XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltm/" name="FOGLIO DI ESECUZIONE ML AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltx/" name="FOGLIO DI ESECUZIONE ML AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xml/" name="FOGLIO DI CALCOLO IN XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xps/" name="FOGLIO DI ESECUZIONE ML AL XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-json/" name="FOGLIO DI ESECUZIONE ML AL JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="FOGLIO DI CALCOLOML A BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="FOGLIO DI CALCOLOML A EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-gif/" name="FOGLIO DI CALCOLOML A GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="FOGLIO DI CALCOLOML A HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="FOGLIO DI CALCOLOML A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="FOGLIO DI CALCOLOML A MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="FOGLIO DI CALCOLOML A ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="FOGLIO DI CALCOLOML A PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-png/" name="FOGLIO DI CALCOLOML A PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-svg/" name="FOGLIO DI CALCOLOML A SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tiff/" name="FOGLIO DI CALCOLOML A TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tsv/" name="FOGLIO DI CALCOLOML A TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-txt/" name="FOGLIO DI CALCOLOML A TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xls/" name="FOGLIO DI CALCOLOML A XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsb/" name="FOGLIO DI CALCOLOML A XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsm/" name="FOGLIO DI CALCOLOML A XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlsx/" name="FOGLIO DI CALCOLOML A XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlt/" name="FOGLIO DI CALCOLOML A XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltm/" name="FOGLIO DI CALCOLOML A XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltx/" name="FOGLIO DI CALCOLOML A XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xml/" name="FOGLIO DI CALCOLOML IN XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xps/" name="FOGLIO DI CALCOLOML A XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-json/" name="FOGLIO DI CALCOLOML A JSON" description="Notazione oggetto JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

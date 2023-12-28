@@ -1,7 +1,8 @@
 ---
 title:  C++을 통해 XLSM 문서 잠금 해제
 weight: 6070
-description: C++ 예제 코드는 C++ 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 암호로 보호된 XLSM 파일을 잠금 해제합니다.
+description: C++ C++ 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경의 비밀번호로 보호된 XLSM 파일을 잠금 해제하는 예제 코드입니다.
+keywords: [C++ Aspose.Cells., C++ unlock XLSM files., C++ how to unlock XLSM document., C++ unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++을 통해 XLSM 파일 잠금 해제" h2="C++ 라이브러리를 사용하여 XLSM 파일을 포함한 Excel 스프레드시트에서 보호를 제거합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -13,11 +14,11 @@ description: C++ 예제 코드는 C++ 32비트, Windows 64비트 및 Linux 64비
 
  XLSM 파일의 잠금을 해제하기 위해 다음을 사용합니다.
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 보호 플랫폼입니다. 최신 버전을 직접 다운로드할 수 있습니다.
+ 기능이 풍부하고 강력하며 사용하기 쉬운 문서 보호 플랫폼인 API API for C++ 플랫폼입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  **Aspose.Cells.Cpp** 
- 그리고 설치하십시오. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -39,14 +40,15 @@ PM> Install-Package Aspose.Cells.Cpp
 
  당신은 필요
  [aspose.cells.dll](https://downloads.aspose.com/cells/cpp) 
- 프로젝트에서 참조하여 다음 워크플로를 실행합니다.
+ 다음 워크플로를 실행하기 위해 프로젝트에서 참조됩니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  CreateIWorkbook을 사용하여 XLSM 잠긴 파일을 로드합니다.
-1.  Unprotect() 함수를 호출하여 잠금을 해제합니다.
-1.  SetPassword를 사용하여 암호를 NULL로 설정합니다.
-1.  XLSM 파일을 지정된 위치에 저장합니다.
+1.  보호된 XLSM 파일에 대한 경로를 사용하여 통합 문서 클래스를 인스턴스화합니다.
+1.  보호를 제거하려면 기본 또는 워크시트를 가져오세요.
+1.  Worksheet.Unprotect 메서드를 사용하여 워크시트 보호를 제거합니다.
+1.  Workbook.Unprotect 메서드를 사용하여 통합 문서 보호 제거
+1.  결과를 XLSM 형식으로 저장
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,7 +61,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows 또는 Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경과 호환되는 OS.
--  프로젝트에서 Aspose.Cells for C++ DLL에 대한 참조를 추가합니다.
+-  프로젝트에 Aspose.Cells for C++ DLL에 대한 참조를 추가합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSM file
+Workbook workbook(u"protected.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsm")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsm")));
+// save the result back in XLSM format
+workbook.Save("unprotected.xlsm", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -98,7 +101,7 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{% blocks/products/pf/agp/content h2="약 Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
+ Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 애플리케이션 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
 
 
 
@@ -106,14 +109,14 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="무료 앱 잠금 해제 XLSM" sectionDescription=" 라이브 데모를 확인하십시오[XLSM 파일 잠금 해제](https://products.aspose.app/cells/unlock/xlsm) 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="잠금 해제할 수 있는 무료 앱 XLSM" sectionDescription=" 라이브 데모를 확인해보세요[XLSM 파일 잠금 해제](https://products.aspose.app/cells/unlock/xlsm) 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성하거나 컴파일할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM 파일을 업로드하고 \"잠금 해제\" 버튼을 누르기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSM 파일을 다운로드합니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM 파일을 업로드하고 \"잠금 해제\" 버튼을 누르세요." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSM 파일을 다운로드하세요." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램의 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업 수행을 용이하게 합니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Application)로 프로그래밍되며 거기에서 직접 실행/디버그할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -121,11 +124,11 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 잠금 해제 형식" subTitle="C++을 사용하여 다양한 형식의 보호/잠금 해제를 쉽게 제거할 수 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 잠금 해제 형식" subTitle="C++을 사용하면 다음을 포함한 다양한 형식의 보호/잠금 해제를 쉽게 제거할 수 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,7 @@
 ---
-title: Crea SQL - Crea file SQL in Python
-description: Aspose Excel. Python Crea file SQL. Crea SQL Python. Python SQL Creator. Crea SQL in Python. Genera file SQL utilizzando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL Creater., Create SQL file in Python., Generate SQL file in Python]
+title: "Crea SQL: crea il file SQL in Python"
+description:  Aspose Excel. Python Crea file SQL in modo rapido e semplice con Aspose.Cells. Genera file SQL utilizzando Python. Crea SQL in Python. Python SQL Creator.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Create SQL file using Python., Write data to SQL file via Python., Create a SQL file in Python., Python Generate a SQL file., Python SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file SQL in Python" h2="Libreria Python ad alta velocità per la creazione di file SQL. Questa è una soluzione software professionale per importare ed esportare XLSX, PDF e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/content h2="Crea file SQL utilizzando Python" %}}
 
- Come creare un file SQL? Con la libreria Aspose.Cells for Python via Java, puoi facilmente creare file SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come creare un file SQL? Con la libreria Aspose.Cells for Python via Java, puoi facilmente creare file SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,17 +21,17 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/text %}}
 
-È facile per gli sviluppatori creare, caricare, modificare e convertire i file SQL all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori creare, caricare, modificare e convertire file SQL eseguendo diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Importa asposecells nel tuo file di codice.
-1.  Crea un'istanza della classe della cartella di lavoro.
+1.  Crea un'istanza della classe Workbook.
 1.  Accedi al primo foglio di lavoro della cartella di lavoro.
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
 1.  Utilizzare il metodo Save per salvare la cartella di lavoro come file SQL.
 
-{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare un file SQL in Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file SQL in Python." offSpacer="" %}}
 
 ```cs
 
@@ -62,11 +62,11 @@ jpype.shutdownJVM()
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per creare file SQL" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per creare file SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,21 +91,21 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file SQL (Structured Query Language) che contiene il codice per lavorare con i database relazionali. Viene utilizzato per scrivere istruzioni SQL per le operazioni CRUD (Create, Read, Update e Delete) sui database. I file SQL sono comuni mentre si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file Structured Query Language (SQL) che contiene codice per funzionare con database relazionali. Viene utilizzato per scrivere istruzioni SQL per operazioni CRUD (Crea, Leggi, Aggiorna ed Elimina) sui database. I file SQL sono comuni quando si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre generazioni di fogli di calcolo supportate" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altra generazione di fogli di calcolo supportata" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo con attivazione macro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Excel 97 - Modello 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Modello Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltx/" name="XLTX" description="Modello Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="valori separati da virgola" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazione" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 

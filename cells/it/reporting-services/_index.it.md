@@ -1,10 +1,10 @@
 ---
 title:  Esporta report RDL in Excel XLS XLSX e SpreadsheetML in SQL Server
 weight: 3460
-description: Estensione per il rendering di SQL Server Reporting Services - Esporta i formati Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS e TXT
+description: "Estensione per il rendering di SQL Server Reporting Services: esporta i formati Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS e TXT"
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Estensione di Reporting Services per fornire report come file Excel" h2="Esporta facilmente i report RDL e RDLC nei formati di file di fogli di calcolo Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Estensione di Reporting Services per fornire report come file Excel" h2="Esporta facilmente report RDL e RDLC in formati di file di fogli di calcolo Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -12,7 +12,7 @@ description: Estensione per il rendering di SQL Server Reporting Services - Espo
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Reporting Services consente di fornire report Excel dall'interno di Microsoft SQL Server Reporting Services e Microsoft Report Viewer. A differenza dell'esportatore nativo per report basati su Excel, Aspose.Cells for Reporting Services consente la conversione di RDL &amp; RDLC riporta in una serie di formati di file di fogli di calcolo Excel.
+ Aspose.Cells for Reporting Services consente di inviare report Excel da Microsoft SQL Server Reporting Services e Microsoft Report Viewer. A differenza dell'esportatore nativo per report basati su Excel: Aspose.Cells for Reporting Services consente la conversione di RDL e amp; RDLC riporta in una serie di formati di file di fogli di calcolo Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,19 +40,19 @@ description: Estensione per il rendering di SQL Server Reporting Services - Espo
  Caselle di testo
     </li>
     <li>
-immagini
+ immagini
     </li>
     <li>
- Sotto-report
+ Sottorapporti
     </li>
     <li>
  Grafici
     </li>
     <li>
- Liste
+ Elenchi
     </li>
     <li>
- Tabelle
+Tabelle
     </li>
     <li>
  Misura
@@ -77,7 +77,7 @@ immagini
    </header>
    <ul>
     <li>
- Formule dei servizi di segnalazione
+ Formule di Report Services
     </li>
     <li>
  Formule dinamiche
@@ -86,13 +86,13 @@ immagini
  Tabelle con righe raggruppate
     </li>
     <li>
- Tabelle con piè di pagina raggruppato
+ Tabelle con piè di pagina raggruppati
     </li>
     <li>
- MS Query
+ Domanda MS
     </li>
     <li>
- Origine dati specifica del report
+ Segnala origine dati specifica
     </li>
     <li>
  Origine dati condivisa
@@ -104,7 +104,7 @@ immagini
    <header>
     <i class="fa fa-table">
     </i>
- Progettista di rapporti
+ Progettista di report
    </header>
    <ul>
     <li>
@@ -150,14 +150,14 @@ immagini
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- Servizi di report di SQL Server
+ Servizi di reporting di SQL Server
    </header>
    <ul>
     <li>
      2005
     </li>
     <li>
- 2008 e 2008 R2
+ 2008 e 2008R2
     </li>
     <li>
      2012
@@ -193,7 +193,7 @@ immagini
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for Reporting Services supporta il foglio di calcolo comunemente usato[formati di file](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for Reporting Services supporta i fogli di calcolo di uso comune[formati di file](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -221,7 +221,7 @@ immagini
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
  XLS, XLSX, XLSM, XLSB, XML
     </li>
@@ -283,7 +283,7 @@ immagini
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Funzioni avanzate di Reporting Services
+ Funzionalità avanzate di Reporting Services
    </h2>
    <p>
    </p>
@@ -291,7 +291,7 @@ immagini
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Esporta file in formato MarkDown
+ Esporta il file in formato MarkDown
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,14 +312,14 @@ immagini
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Comprimi o espandi i campi della tabella pivot
+ Comprimi o espandi i campi della tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Supporta l'esecuzione di calcoli meno
+ Supporta l'esecuzione dei calcoli Meno
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Comprimi o espandi i campi della tabella pivot
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Regola le impostazioni dei margini della pagina in Fogli Excel
+ Regola le impostazioni del margine della pagina in Fogli Excel
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,26 +348,26 @@ Comprimi o espandi i campi della tabella pivot
  Aspose.Cells' Strumento di progettazione report
     </h2>
     <p>
- Gli sviluppatori possono progettare e fornire report direttamente da Microsoft Excel utilizzando Aspose.Cells.Report.Designer, un semplice strumento di progettazione che utilizza Microsoft Excel come modello di report. Questa funzione consente di sfruttare tutte le potenti funzionalità e caratteristiche disponibili all'interno dell'applicazione Excel Microsoft, tra cui tabelle pivot, grafici interattivi, formule e così via.
+Gli sviluppatori possono progettare e fornire report direttamente da Microsoft Excel utilizzando Aspose.Cells.Report.Designer, un semplice strumento di progettazione che utilizza Microsoft Excel come modello di report. Questa funzione consente di sfruttare tutte le potenti funzionalità e caratteristiche disponibili nell'applicazione Excel Microsoft, comprese tabelle pivot, grafici interattivi, formule e così via.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Esporta report in formato foglio di calcolo
+ Esporta report in formati di foglio di calcolo
     </h2>
     <p>
-Aspose.Cells for Reporting Services supporta tutti i formati di file Excel Microsoft più diffusi (97 - 2016), inclusi i formati Excel “nativi” Microsoft come XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited e HTML. Aspose.Cells for Reporting Services supporta anche il formato file ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services supporta tutti i formati di file Excel Microsoft più diffusi (97 - 2016), inclusi i formati Excel "nativi" Microsoft come XLS, XLSX, XLSM, SpreadsheetML, CSV, delimitato da tabulazioni e HTML. Aspose.Cells for Reporting Services supportano anche il formato file ODS (OpenDocument Spreadsheet).
     </p>
     <p>
- Inoltre, Aspose.Cells for Reporting Services esporta i documenti Excel come fogli di calcolo completamente modificabili, ovvero; l'utente finale può modificare manualmente i fogli di calcolo risultanti nell'applicazione Excel Microsoft, se necessario.
+ Inoltre, Aspose.Cells for Reporting Services esporta documenti Excel come fogli di calcolo completamente modificabili, ovvero; se necessario, l'utente finale può modificare manualmente i fogli di calcolo risultanti nell'applicazione Excel Microsoft.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Alta fedeltà: identica a Report Design
+ Alta fedeltà: identico al design del report
     </h2>
     <p>
- Aspose.Cells for Reporting Services esportare i report in Microsoft fogli di calcolo Excel in modo che il risultato appaia identico a quello originale generato dal report designer di Reporting Services integrato. Tutte le funzionalità del rapporto vengono convertite con il massimo grado di precisione per rendere i fogli di calcolo Excel Microsoft il più simili possibile a quello originale.
+Aspose.Cells for Reporting Services esporta i report in Microsoft fogli di calcolo Excel in modo che il risultato appaia identico a quello originale generato dal designer di report integrato di Reporting Services. Tutte le funzionalità del report vengono convertite al massimo grado di precisione per rendere i fogli di calcolo Excel Microsoft il più simili possibile a quello originale.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services supporta tutti i formati di file Excel Micro
  Varie opzioni di gestione dei dati
     </h2>
     <p>
-Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagina raggruppati mentre il raggruppamento può essere impostato in fase di progettazione come altri elementi del report. Aspose.Cells for Reporting Services supporta anche parametri e variabili globali come origini dati del report. Gli sviluppatori possono anche utilizzare la query Microsoft per creare origini dati e query; questo è uno strumento ampiamente utilizzato e familiare alla maggior parte degli utenti.
+ Aspose.Cells for Reporting Services supportano tabelle con righe e piè di pagina raggruppati mentre il raggruppamento può essere impostato in fase di progettazione come altri elementi del report. Aspose.Cells for Reporting Services supporta anche parametri e variabili globali come origini dati del report. Gli sviluppatori possono anche utilizzare Microsoft Query per creare origini dati e query; questo è uno strumento ampiamente utilizzato e familiare alla maggior parte degli utenti.
     </p>
     <p>
- Inoltre, Aspose.Cells for Reporting Services supporta sia le origini dati specifiche dei report sia le origini dati condivise create in precedenza sul server di report. Gli sviluppatori possono utilizzare origini dati specifiche del report in fase di progettazione e specificare origini dati condivise come origini dati del report durante la pubblicazione dei report.
+Oltre a ciò, Aspose.Cells for Reporting Services supporta sia origini dati specifiche dei report che origini dati condivise create in anticipo su Report Server. Gli sviluppatori possono utilizzare origini dati specifiche del report in fase di progettazione e specificare origini dati condivise come origini dati del report durante la pubblicazione dei report.
     </p>
    </div>
    <!-- 
@@ -421,10 +421,10 @@ Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagi
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Domotica – Non necessaria
+ Microsoft Automazione d'ufficio – Non necessaria
     </h2>
     <p>
- Aspose.Cells for Reporting Services è costruito utilizzando codice gestito che non necessita mai di Microsoft Office o Microsoft Excel da installare sulla macchina per lavorare con i formati di documento Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di funzionalità supportate, sicurezza, stabilità, scalabilità, velocità e prezzo.
+ Aspose.Cells for Reporting Services è costruito utilizzando codice gestito che non necessita mai dell'installazione di Microsoft Office o Microsoft Excel sulla macchina per funzionare con i formati di documenti Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di funzionalità supportate, sicurezza, stabilità, scalabilità, velocità e prezzo.
     </p>
    </div>
   </div>
@@ -439,18 +439,18 @@ Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagi
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -458,7 +458,7 @@ Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagi
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

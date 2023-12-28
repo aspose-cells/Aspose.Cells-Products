@@ -1,7 +1,7 @@
 ---
-title: Java OTS to XML - 온라인 OTS to XML 변환기
-description: Aspose 엑셀. Java Aspose.Cells. Java Aspose Cells. 무료 온라인 Java OTS를 XML 저장 형식으로 변환합니다. Java OTS를 XML 형식으로. OTS를 XML Java로 저장합니다.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XML saveformat., Free Online OTS to XML Java., Java Convert OTS to XML]
+title: Java OTS를 XML로 - OTS를 XML로 변환기
+description: Aspose 엑셀. Aspose.Cells을 사용하여 OTS를 XML로 빠르고 쉽게 변환하세요. Java OTS를 XML로. Java OTS를 XML로 저장합니다. Java을 사용하여 OTS를 XML로 저장합니다.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to XML in Java., Save OTS to XML using Java., Java OTS to XML saveformat., OTS to XML Converter., Java Save OTS as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java에서 OTS를 XML로 변환" h2="OTS를 XML로 변환하기 위한 고속 Java 라이브러리. 이것은 Java을 사용하여 OTS, XML 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XM
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 OTS를 XML로 변환" %}}
 
- OTS를 XML로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 OTS를 XML로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ OTS를 XML로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드만으로 프로그래밍 방식으로 OTS를 XML로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java 온라인에서 무료로 OTS를 XML로 저장" %}}
+{{% blocks/products/pf/agp/content h2="Java에 OTS를 XML로 저장합니다." %}}
 
-다음 예는 Java에서 OTS를 XML로 변환하는 방법을 보여줍니다.
+다음 예에서는 Java에서 OTS를 XML로 변환하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-OTS를 XML로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업로드한 다음 XML 파일로 저장하기만 하면 됩니다. OTS 읽기와 XML 쓰기 모두에 정규화된 파일 이름을 사용할 수 있습니다. 출력 XML 콘텐츠 및 형식은 원본 OTS 문서와 동일합니다.
+OTS를 XML로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업로드한 다음 XML 파일로 저장하면 됩니다. OTS 읽기와 XML 쓰기 모두에 정규화된 파일 이름을 사용할 수 있습니다. 출력 XML 콘텐츠 및 형식은 원본 OTS 문서와 동일합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="온라인에서 OTS를 XML로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="OTS를 XML로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS를 XML via Java로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-프로그래밍 방식으로 OTS 파일을 XML로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드로 OTS를 XML로 쉽게 변환할 수 있습니다.
+프로그래밍 방식으로 OTS 파일을 XML로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드만으로 OTS를 XML로 쉽게 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -77,7 +77,7 @@ OTS를 XML로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업�
 {{% blocks/products/pf/agp/content h2="Java OTS를 XML로 변환하는 라이브러리" %}}
 {{% blocks/products/pf/agp/text %}}
 
- 우리는 Java 패키지를 다음에서 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 공통 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법.
+ 우리는 Java 패키지를 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 일반적인 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법에 대해 알아보세요.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,46 +86,46 @@ OTS를 XML로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업�
 
 {{% blocks/products/pf/agp/text %}}
 
- Java 변환 소스 코드를 실행하기 전에 다음과 같은 전제 조건이 있는지 확인하십시오.
+ Java 변환 소스 코드를 실행하기 전에 다음 전제 조건이 있는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 - Maven에서 직접 Aspose.Cells for Java의 최신 버전을 받으세요.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}확장자가 .ots인 파일은 Apache OpenOffice에 포함된 Calc 응용 프로그램 소프트웨어로 생성되는 OpenDocument 스프레드시트 템플릿 파일입니다. Calc 응용 프로그램 소프트웨어는 Microsoft Office에서 사용할 수 있는 Excel과 유사합니다. OTS 파일 형식은 스타일, 글꼴, 데이터, 스프레드시트 레이아웃 및 서식과 관련된 미리 정의된 설정이 포함된 템플릿을 만드는 데 사용됩니다. OTF 파일에는 mime 유형 application/vnd.oasis.opendocument.spreadsheet-template이 있습니다. 이러한 템플릿 파일은 ODS 파일 형식으로 저장되는 실제 데이터 파일을 생성하고 저장하기 위한 시작점으로 사용할 수 있습니다. OTS 파일은 OpenOffice 및 LibreOffice와 같은 응용 프로그램에서 사용할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 Extensible Markup Language의 약자로 HTML과 유사하지만 객체를 정의하기 위해 태그를 사용한다는 점에서 다릅니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계 모두 읽을 수 있기 때문입니다. 이를 통해 WWW(World Wide Web)와 같은 네트워크를 통해 저장 및 공유할 객체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있음을 의미하는 확장 가능을 나타냅니다. Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 이러한 기능을 사용합니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}확장자가 .ots인 파일은 Apache OpenOffice에 포함된 Calc 응용 소프트웨어로 생성된 OpenDocument 스프레드시트 템플릿 파일입니다. Calc 응용 프로그램 소프트웨어는 Microsoft Office에서 사용할 수 있는 Excel과 유사합니다. OTS 파일 형식은 스타일, 글꼴, 데이터, 스프레드시트 레이아웃 및 서식과 관련된 사전 정의된 설정이 포함된 템플릿을 만드는 데 사용됩니다. OTF 파일에는 MIME 유형 application/vnd.oasis.opendocument.spreadsheet-template이 있습니다. 이러한 템플릿 파일은 ODS 파일 형식으로 저장되는 실제 데이터 파일을 생성하고 저장하기 위한 시작점으로 사용할 수 있습니다. OTS 파일은 OpenOffice 및 LibreOffice와 같은 응용 프로그램에서 사용할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 HTML과 유사하지만 객체 정의에 태그를 사용한다는 점에서 다른 Extensible Markup Language를 의미합니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람이 읽을 수 있을 뿐만 아니라 기계가 읽을 수 있기 때문입니다. 이를 통해 World Wide Web(WWW)과 같은 네트워크를 통해 저장되고 공유될 개체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 확장성을 의미하며, 이는 언어가 사용자 요구 사항에 따라 원하는 수의 기호로 확장될 수 있음을 의미합니다. 이러한 기능을 위해 Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 사용됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="아래 나열된 몇 가지를 포함하여 OTS를 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 아래 나열된 몇 가지 파일 형식을 포함하여 OTS를 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-bmp/" name="OTS TO BMP" description="비트맵 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-emf/" name="OTS TO EMF" description="향상된 메타파일 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-gif/" name="OTS TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-html/" name="OTS TO HTML" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-html/" name="OTS TO HTML" description="하이퍼텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-md/" name="OTS에서 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-mhtml/" name="OTS TO MHTML" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-mhtml/" name="OTS TO MHTML" description="웹페이지 아카이브 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-ods/" name="OTS TO ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-pdf/" name="OTS TO PDF" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-png/" name="OTS TO PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-svg/" name="OTS TO SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tiff/" name="OTS TO TIFF" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tiff/" name="OTS TO TIFF" description="태그된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tsv/" name="OTS TO TSV" description="탭으로 구분된 값" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-txt/" name="OTS TO TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xls/" name="OTS TO XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsb/" name="OTS TO XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xls/" name="OTS TO XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsb/" name="OTS TO XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsm/" name="OTS TO XLSM" description="스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsx/" name="OTS TO XLSX" description="OOXML 엑셀 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlt/" name="OTS TO XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltm/" name="OTS TO XLTM" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltm/" name="OTS TO XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltx/" name="OTS TO XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xml/" name="OTS에서 XML로" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xps/" name="OTS TO XPS" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xml/" name="OTS를 XML로" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xps/" name="OTS TO XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-json/" name="OTS TO JSON" description="자바스크립트 객체 표기법" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-jpeg/" name="OTS TO JPEG" description="JPEG 이미지" >}}
 

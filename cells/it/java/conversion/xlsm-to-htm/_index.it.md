@@ -1,7 +1,7 @@
 ---
-title: Java XLSM a HTM - Convertitore online da XLSM a HTM
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti XLSM in HTM saveformat. Java XLSM in formato HTM. Salva XLSM su HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to HTM saveformat., Free Online XLSM to HTM Java., Java Convert XLSM to HTM]
+title: Convertitore da Java a XLSM in HTM - XLSM in HTM
+description: Aspose Excel. Converti XLSM in HTM in modo rapido e semplice con Aspose.Cells. Java XLSM in HTM. Java Salva XLSM su HTM. Salva XLSM come HTM utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to HTM in Java., Save XLSM to HTM using Java., Java XLSM to HTM saveformat., XLSM to HTM Converter., Java Save XLSM as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XLSM in HTM in Java" h2="Libreria Java ad alta velocità per la conversione di XLSM in HTM. Questa è una soluzione software professionale per importare ed esportare XLSM, HTM e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to H
 
 {{% blocks/products/pf/agp/content h2="Converti XLSM in HTM utilizzando Java" %}}
 
- Come posso convertire XLSM in HTM? Con la libreria Aspose.Cells for Java, puoi facilmente convertire XLSM in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire XLSM in HTM? Con la libreria Aspose.Cells for Java, puoi convertire facilmente XLSM in HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva XLSM su HTM in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva XLSM su HTM in Java" %}}
 
 L'esempio seguente mostra come convertire XLSM in HTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire XLSM in HTM. Carica il tuo file XLSM, quindi salvalo semplicemente come file HTM. Sia per la lettura XLSM che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento XLSM originale.
+Segui i semplici passaggi per convertire XLSM in HTM. Carica il tuo file XLSM, quindi salvalo semplicemente come file HTM. Sia per la lettura XLSM che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione HTM di output saranno identici al documento originale XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire XLSM in HTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire XLSM in HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XLSM in HTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file XLSM in HTM a livello di programmazione? Gli sviluppatori di Java possono facilmente convertire XLSM in HTM in poche righe di codice.
+È necessario convertire i file XLSM in HTM a livello di codice? Gli sviluppatori di Java possono convertire facilmente XLSM in HTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
-1.  Carica il file XLSM con un'istanza della classe Workbook.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
+1. Carica il file XLSM con un'istanza della classe Workbook.
 1.  Converti XLSM in HTM chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di XLSM in HTM.
+1.  Ottieni il risultato della conversione da XLSM a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire XLSM in HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire XLSM in HTM" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ Hai bisogno di convertire i file XLSM in HTM a livello di programmazione? Gli sv
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}I file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi che vengono eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro sono programmate con Visual Basic for Applications (VBA) di Microsoft dall'interno della cartella di lavoro di Excel utilizzando Visual Basic Editor e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}I file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro vengono programmate con Visual Basic for Applications (VBA) di Microsoft dalla cartella di lavoro di Excel utilizzando l'editor di Visual Basic e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XLSM in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XLSM in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-bmp/" name="XLSM ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-emf/" name="XLSM ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-gif/" name="XLSM ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-html/" name="XLSM ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-md/" name="XLSM A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-mhtml/" name="XLSM ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-ods/" name="XLSM ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-pdf/" name="XLSM ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-png/" name="XLSM ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-svg/" name="XLSM ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tiff/" name="XLSM ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tsv/" name="XLSM ALLO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-txt/" name="XLSM ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xls/" name="XLSM ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsb/" name="XLSM ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-bmp/" name="dallo XLSM allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-emf/" name="dallo XLSM allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-gif/" name="dallo XLSM allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-html/" name="dallo XLSM allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-md/" name="XLSM AL MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-mhtml/" name="dallo XLSM allo MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-ods/" name="dallo XLSM allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-pdf/" name="dallo XLSM allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-png/" name="dallo XLSM allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-svg/" name="dallo XLSM allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tiff/" name="dallo XLSM allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-tsv/" name="dallo XLSM allo TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-txt/" name="dallo XLSM allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xls/" name="dallo XLSM allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsb/" name="dallo XLSM allo XLSB" description="File binario della cartella di lavoro Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsx/" name="XLSM ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlt/" name="XLSM ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="XLSM ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="XLSM ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xml/" name="XLSM A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-json/" name="XLSM ALLO JSON" description="Notazione oggetto JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-jpeg/" name="XLSM ALLO JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlsx/" name="dallo XLSM allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xlt/" name="dallo XLSM allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="dallo XLSM allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="dallo XLSM allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xml/" name="XLSM A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="dallo XLSM allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-json/" name="dallo XLSM allo JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-jpeg/" name="dallo XLSM allo JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

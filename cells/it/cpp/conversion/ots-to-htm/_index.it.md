@@ -1,7 +1,7 @@
 ---
-title: C++ OTS a HTM - Convertitore online da OTS a HTM
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Converti OTS in HTM saveformat. C++ OTS in formato HTM. Salva OTS su HTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to HTM saveformat., Free Online OTS to HTM C++., C++ Convert OTS to HTM]
+title: C++ Da OTS a HTM - Convertitore da OTS a HTM
+description: Aspose Excel. Converti OTS in HTM in modo rapido e semplice con Aspose.Cells. C++ OTS in HTM. C++ Salva OTS su HTM. Salva OTS come HTM utilizzando C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to HTM in C++., Save OTS to HTM using C++., C++ OTS to HTM saveformat., OTS to HTM Converter., C++ Save OTS as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti OTS in HTM in C++" h2="Conversione da OTS a HTM ad alte prestazioni utilizzando la libreria C++ senza la necessità di installare Microsoft Excel, OpenOffice o Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to HTM s
 
 {{% blocks/products/pf/agp/content h2="Converti OTS in HTM utilizzando C++" %}}
 
- Come posso convertire OTS in HTM? Con la libreria Aspose.Cells for C++, puoi convertire facilmente OTS in HTM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Come posso convertire OTS in HTM? Con la libreria Aspose.Cells for C++, puoi convertire facilmente OTS in HTM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva OTS su HTM in C++ online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva OTS su HTM allo C++" %}}
 
 L'esempio seguente mostra come convertire OTS in HTM in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire OTS in HTM. Carica il tuo file OTS, quindi salvalo semplicemente come file HTM. Sia per la lettura OTS che per la scrittura HTM è possibile utilizzare nomi di file completi. Il contenuto HTM di output e la formattazione saranno identici al documento OTS originale.
+Segui i semplici passaggi per convertire OTS in HTM. Carica il tuo file OTS, quindi salvalo semplicemente come file HTM. Sia per la lettura OTS che per la scrittura HTM è possibile utilizzare nomi file completi. Il contenuto e la formattazione HTM di output saranno identici al documento OTS originale.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire OTS in HTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Codice di esempio per convertire OTS in HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire OTS in HTM tramite C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file OTS in HTM a livello di programmazione? C++ gli sviluppatori possono facilmente convertire OTS in HTM in poche righe di codice.
+Hai bisogno di convertire i file OTS in HTM a livello di codice? C++ gli sviluppatori possono convertire facilmente OTS in HTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for C++'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto C++.
-1.  Carica il file OTS usando Factory::CreateIWorkbook.
-1. Converti OTS in HTM chiamando il metodo Save().
-1.  Ottieni il risultato della conversione di OTS in HTM.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto C++.
+1.  Carica il file OTS utilizzando la cartella di lavoro.
+1.  Converti OTS in HTM chiamando il metodo Save().
+1.  Ottieni il risultato della conversione da OTS a HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ libreria per convertire OTS in HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria C++ per convertire OTS in HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa un[NuGet Pacco](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Installa la libreria usando Include e lib Folders. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Installa un[NuGet Pacchetto](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Installa la libreria utilizzando le cartelle Include e lib. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Installa Aspose.Cells for C++ su Linux. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,45 +73,44 @@ Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice di esempio di conversione C++, assicurarsi di disporre dei seguenti prerequisiti.
+ Prima di eseguire il codice di esempio di conversione C++, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
-- Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+- Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un file con estensione .ots è un file modello di foglio di calcolo OpenDocument creato con il software applicativo Calc incluso in Apache OpenOffice. Il software applicativo Calc è simile a Excel disponibile in Office Microsoft. Il formato di file OTS viene utilizzato per creare modelli che contengono impostazioni predefinite relative a stili, caratteri, dati, layout del foglio di calcolo e formattazione. I file OTF hanno application/vnd.oasis.opendocument.spreadsheet-template di tipo mime. Questi file modello possono essere utilizzati come punto di partenza per generare e salvare file di dati effettivi che vengono salvati nel formato file ODS. I file OTS possono essere utilizzati con applicazioni come OpenOffice e LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un file con estensione .ots è un file modello di foglio di calcolo OpenDocument creato con il software applicativo Calc incluso in Apache OpenOffice. Il software applicativo Calc è simile a Excel disponibile in Office Microsoft. Il formato file OTS viene utilizzato per creare modelli che contengono impostazioni predefinite relative a stili, caratteri, dati, layout del foglio di calcolo e formattazione. I file OTF hanno application/vnd.oasis.opendocument.spreadsheet-template di tipo MIME. Questi file modello possono essere utilizzati come punto di partenza per generare e salvare file di dati effettivi salvati nel formato file ODS. I file OTS possono essere utilizzati con applicazioni come OpenOffice e LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire OTS in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-bmp/" name="OTS ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-emf/" name="OTS ALLO EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-emf/" name="OTS ALLO EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-gif/" name="OTS ALLO GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-html/" name="OTS ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-md/" name="OTS A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-mhtml/" name="OTS ALLO MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-ods/" name="OTS ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-md/" name="OTS A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-mhtml/" name="OTS ALLO MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-ods/" name="OTS ALLO ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-pdf/" name="OTS ALLO PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-png/" name="OTS ALLO PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-svg/" name="OTS ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tiff/" name="OTS ALLO TIFF" description="Formato immagine con tag" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tsv/" name="OTS ALLO TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-txt/" name="OTS ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xls/" name="OTS ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlsb/" name="OTS ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlsm/" name="OTS ALLO XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xls/" name="OTS ALLO XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlsb/" name="OTS ALLO XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlsm/" name="OTS ALLO XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlsx/" name="OTS ALLO XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xlt/" name="OTS ALLO XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xltm/" name="OTS ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xltx/" name="OTS ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xml/" name="OTS A XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xltx/" name="OTS ALLO XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xml/" name="OTS IN XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xps/" name="OTS ALLO XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-json/" name="OTS ALLO JSON" description="Notazione oggetto JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-jpeg/" name="OTS ALLO JPEG" description="JPEG Immagine" >}}

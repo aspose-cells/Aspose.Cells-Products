@@ -1,7 +1,7 @@
 ---
-title: Java HTM to SPREADSHEETML - Convertitore online da HTM a SPREADSHEETML
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti HTM in SPREADSHEETML saveformat. Java da HTM a SPREADSHEETML. Salva HTM su SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to SPREADSHEETML saveformat., Free Online HTM to SPREADSHEETML Java., Java Convert HTM to SPREADSHEETML]
+title: Java HTM in SPREADSHEETML - Convertitore da HTM a SPREADSHEETML
+description: Aspose Excel. Converti HTM in SPREADSHEETML in modo rapido e semplice con Aspose.Cells. Java HTM in SPREADSHEETML. Java Salva HTM in SPREADSHEETML. Salva HTM come SPREADSHEETML utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to SPREADSHEETML in Java., Save HTM to SPREADSHEETML using Java., Java HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML Converter., Java Save HTM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti HTM in SPREADSHEETML in Java" h2="Libreria Java ad alta velocità per convertire HTM in SPREADSHEETML. Questa è una soluzione software professionale per importare ed esportare HTM, SPREADSHEETML e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to SP
 
 {{% blocks/products/pf/agp/content h2="Converti HTM in SPREADSHEETML utilizzando Java" %}}
 
- Come posso convertire HTM in SPREADSHEETML? Con la libreria Aspose.Cells for Java, puoi convertire facilmente HTM in SPREADSHEETML a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire HTM in SPREADSHEETML? Con la libreria Aspose.Cells for Java, puoi convertire facilmente HTM in SPREADSHEETML a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to SP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva HTM in SPREADSHEETML in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva HTM in SPREADSHEETML in Java" %}}
 
-L'esempio seguente mostra come convertire HTM in SPREADSHEETML in Java.
+L'esempio seguente dimostra come convertire HTM in SPREADSHEETML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire HTM in SPREADSHEETML. Carica il tuo file HTM, quindi salvalo semplicemente come file SPREADSHEETML. Sia per la lettura HTM che per la scrittura SPREADSHEETML è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SPREADSHEETML di output saranno identici al documento HTM originale.
+Segui i semplici passaggi per convertire HTM in SPREADSHEETML. Carica il tuo file HTM, quindi salvalo semplicemente come file SPREADSHEETML. Sia per la lettura HTM che per la scrittura SPREADSHEETML è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output SPREADSHEETML saranno identici al documento HTM originale.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire HTM in SPREADSHEETML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire HTM in SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire HTM in SPREADSHEETML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Devi convertire i file HTM in SPREADSHEETML a livello di programmazione? Java gli sviluppatori possono facilmente convertire HTM in SPREADSHEETML in poche righe di codice.
+Hai bisogno di convertire i file HTM in SPREADSHEETML a livello di codice? Java gli sviluppatori possono convertire facilmente HTM in SPREADSHEETML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file HTM con un'istanza della classe Workbook.
 1.  Converti HTM in SPREADSHEETML chiamando il metodo Workbook.save.
 1.  Ottieni il risultato della conversione da HTM a SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire HTM in SPREADSHEETML" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire HTM in SPREADSHEETML" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,45 +86,45 @@ Devi convertire i file HTM in SPREADSHEETML a livello di programmazione? Java gl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML sta per Extensible Markup Language che è simile a HTML ma diverso nell'utilizzo dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò gli consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su reti come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste funzionalità che molti formati di file standard lo utilizzano come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire HTM in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-bmp/" name="HTM AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-emf/" name="HTM AL EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-emf/" name="HTM AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-gif/" name="HTM AL GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-html/" name="HTM AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-md/" name="HTM A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-mhtml/" name="HTM AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-ods/" name="HTM AL ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-md/" name="HTM A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-mhtml/" name="HTM AL MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-ods/" name="HTM AL ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-pdf/" name="HTM AL PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-png/" name="HTM AL PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-svg/" name="HTM AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-tiff/" name="HTM AL TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-tiff/" name="HTM AL TIFF" description="Formato immagine contrassegnato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-tsv/" name="HTM AL TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-txt/" name="HTM AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xls/" name="HTM AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsb/" name="HTM AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsm/" name="HTM AL XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xls/" name="HTM AL XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsb/" name="HTM AL XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsm/" name="HTM AL XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsx/" name="HTM AL XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlt/" name="HTM AL XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xltm/" name="HTM AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xltx/" name="HTM AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xml/" name="HTM A XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xltx/" name="HTM AL XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xml/" name="HTM IN XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xps/" name="HTM AL XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-json/" name="HTM AL JSON" description="Notazione oggetto JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-jpeg/" name="HTM AL JPEG" description="JPEG Immagine" >}}

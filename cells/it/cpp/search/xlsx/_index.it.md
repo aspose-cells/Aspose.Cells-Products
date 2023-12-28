@@ -1,7 +1,8 @@
 ---
-title:  Cerca documento XLSX senza aprire tramite C++
+title:  Cerca il documento XLSX senza aprire tramite C++
 weight: 9280
 description: C++ codice di esempio per cercare parole con pattern nel file XLSX su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Cerca i formati XLSX in C++" h2="Ricerca di documenti XLSX nativa e ad alte prestazioni utilizzando le API Aspose.Cells for C++ lato server, senza l\'uso di software come Microsoft o Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,13 +12,13 @@ description: C++ codice di esempio per cercare parole con pattern nel file XLSX 
 
 {{% blocks/products/pf/agp/content h2="Come cercare il file XLSX utilizzando C++" %}}
 
- Per cercare il file XLSX, useremo
+ Per cercare il file XLSX, utilizzeremo
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API che è una piattaforma ricca di funzionalità, potente e facile da usare per la ricerca di documenti API for C++. Puoi scaricare direttamente la sua ultima versione, basta aprirla
+API che è una piattaforma di ricerca di documenti ricca di funzionalità, potente e facile da usare API for C++. Puoi scaricare direttamente la sua ultima versione, basta aprirla
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells.Cpp** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Carica il file XLSX istanziando una classe IWorkbook.
-+ Crea un'istanza della classe IReplaceOptions.
-+ Imposta Pattern richiesto come SetCaseSensitive(bool value), SetMatchEntireCellContents(bool value) .
-+ Usa il metodo IWorkbook->Replace(..) con le relative opzioni.
-+ Salva il file XLSX usando il metodo IWorkbook->Save(.).
++ Carica il file XLSX istanziando una classe Workbook.
++ Istanzia la classe replaceOptions.
++ Imposta il modello richiesto come SetCaseSensitive(valore bool), SetMatchEntireCellContents(valore bool) .
+Utilizza il metodo Workbook::Replace(...) con le opzioni pertinenti.
++ Salva il file XLSX utilizzando il metodo Workbook::Save(...).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -53,12 +54,12 @@ Carica il file XLSX istanziando una classe IWorkbook.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ supporta su tutte le principali piattaforme e sistemi operativi. Assicurati di avere i seguenti prerequisiti.
+ Aspose.Cells for C++ supporta tutte le principali piattaforme e sistemi operativi. Assicurati di possedere i seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
--  Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+-  Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Carica il file XLSX istanziando una classe IWorkbook.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -101,9 +106,9 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for C++ API" %}}
+{{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -111,15 +116,15 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Cerca demo live" sectionDescription=" Cerca testo, parole, frasi all\'interno di XLSX documenti in questo momento visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/search). La demo dal vivo ha i seguenti vantaggi" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Cerca demo live" sectionDescription=" Cerca subito testo, parole e frasi all\'interno dei documenti XLSX visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/search). La demo live presenta i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file XLSX." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato all\'istante." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato immediatamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le Open Packaging Conventions come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene un numero di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx
+ XLSX è un formato noto per i documenti Excel Microsoft introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le convenzioni Open Packaging come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene una serie di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,14 +132,14 @@ XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdo
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri documenti di ricerca supportati" subTitle="Utilizzando C++, è anche possibile cercare altri file inclusi." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri documenti di ricerca supportati" subTitle="Utilizzando C++, è possibile cercare anche altri file, inclusi." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/csv/" name="CSV" description="valori separati da virgola" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

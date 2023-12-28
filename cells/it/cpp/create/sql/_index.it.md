@@ -1,7 +1,7 @@
 ---
-title: Crea SQL - Crea file SQL in C++
-description: Aspose Excel. C++ Crea file SQL. Crea SQL C++. C++ SQL Creator. Crea SQL in C++. Genera file SQL utilizzando C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create SQL C++., C++ SQL Creater., Create SQL file in C++., Generate SQL file in C++]
+title: "Crea SQL: crea il file SQL in C++"
+description:  Aspose Excel. C++ Crea file SQL in modo rapido e semplice con Aspose.Cells. Genera file SQL utilizzando C++. Crea SQL in C++. C++ SQL Creator.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SQL file., Generate SQL file in C++., Create SQL file using C++., Write data to SQL file via C++., Create a SQL file in C++., C++ Generate a SQL file., C++ SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file SQL in C++" h2="Creazione di file SQL nativi e ad alte prestazioni a livello di codice senza Micorsoft Office utilizzando la libreria C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create SQL C++., C++ SQL Creater., 
 
 {{% blocks/products/pf/agp/content h2="Crea file SQL utilizzando C++" %}}
 
- Come creare un file SQL? Con la libreria Aspose.Cells for C++, puoi facilmente creare file SQL a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Come creare un file SQL? Con la libreria Aspose.Cells for C++, puoi facilmente creare file SQL a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -30,61 +30,67 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- È facile per gli sviluppatori creare, caricare, modificare e convertire i file SQL all'interno delle applicazioni di reporting in esecuzione per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori creare, caricare, modificare e convertire file SQL all'interno dell'esecuzione di applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crea un oggetto della classe IWorkbook.
-1.  Ottieni il primo foglio in un oggetto IWorksheet.
-1.  Utilizzare il metodo IWorksheet->GetICells() per ottenere le celle del foglio di lavoro in un oggetto ICells.
-1. Utilizzare il metodo ICells->GetObjectByIndex() per accedere alla cella desiderata del foglio di lavoro in un oggetto ICell.
-1.  Utilizzare il metodo ICell->PutValue() per inserire il valore nella cella.
-1.  Salva la cartella di lavoro come file .sql usando il metodo Save().
+1.  Crea un oggetto della classe Workbook.
+1.  Inserisci il primo foglio in un oggetto Foglio di lavoro.
+1.  Utilizzare il metodo Worksheet.GetCells() per inserire le celle del foglio di lavoro in un oggetto Cells.
+1. Utilizzare il metodo Cells.Get() per accedere alla cella desiderata del foglio di lavoro in un oggetto Cell.
+1.  Utilizzare il metodo Cell.PutValue() per inserire il valore nella cella.
+1.  Salva la cartella di lavoro come file .sql utilizzando il metodo Save().
 
-{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare un file SQL in C++." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file SQL in C++." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.sql"));
+wkb.Save(u"created_one.sql");
+
+Aspose::Cells::Cleanup();
 
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ libreria per creare file SQL" %}}
+{{% blocks/products/pf/agp/content h2="Libreria C++ per creare file SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa un[NuGet Pacco](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Installa la libreria usando Include e lib Folders. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Installa un[NuGet Pacchetto](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Installa la libreria utilizzando le cartelle Include e lib. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Installa Aspose.Cells for C++ su Linux. Vedere[Documentazione](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -93,32 +99,32 @@ Ci sono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Scegl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente dell'esempio di conversione C++, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente dell'esempio di conversione C++, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
-- Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+- Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file SQL (Structured Query Language) che contiene il codice per lavorare con i database relazionali. Viene utilizzato per scrivere istruzioni SQL per le operazioni CRUD (Create, Read, Update e Delete) sui database. I file SQL sono comuni mentre si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file Structured Query Language (SQL) che contiene codice per funzionare con database relazionali. Viene utilizzato per scrivere istruzioni SQL per operazioni CRUD (Crea, Leggi, Aggiorna ed Elimina) sui database. I file SQL sono comuni quando si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Generazione di altri fogli supportati" subTitle="Puoi anche creare altri file Excel Microsoft inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre generazioni di fogli supportate" subTitle="Puoi anche creare altri file Excel Microsoft inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="Foglio di calcolo con attivazione macro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="Excel 97 - Modello 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="Modello Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltx/" name="XLTX" description="Modello Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/csv/" name="CSV" description="valori separati da virgola" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valori separati da tabulazione" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 

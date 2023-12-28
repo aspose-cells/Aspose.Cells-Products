@@ -1,7 +1,7 @@
 ---
-title: Java JPG a ETT - Convertitore online da JPG a ETT
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti JPG in ETT saveformat. Java JPG in formato ETT. Salva JPG in ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to ETT saveformat., Free Online JPG to ETT Java., Java Convert JPG to ETT]
+title: Java JPG in ETT - Convertitore JPG in ETT
+description: Aspose Excel. Converti JPG in ETT in modo rapido e semplice con Aspose.Cells. Java JPG in ETT. Java Salva JPG in ETT. Salva JPG come ETT utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to ETT in Java., Save JPG to ETT using Java., Java JPG to ETT saveformat., JPG to ETT Converter., Java Save JPG as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti JPG in ETT in Java" h2="Libreria Java ad alta velocità per convertire JPG in ETT. Questa è una soluzione software professionale per importare ed esportare JPG, ETT e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to ET
 
 {{% blocks/products/pf/agp/content h2="Converti JPG in ETT utilizzando Java" %}}
 
- Come posso convertire JPG in ETT? Con la libreria Aspose.Cells for Java, puoi facilmente convertire JPG in ETT a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire JPG in ETT? Con la libreria Aspose.Cells for Java, puoi convertire facilmente JPG in ETT a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to ET
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva JPG in ETT in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva JPG in ETT allo Java" %}}
 
 L'esempio seguente mostra come convertire JPG in ETT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire JPG in ETT. Carica il tuo file JPG, quindi salvalo semplicemente come file ETT. Sia per la lettura JPG che per la scrittura ETT è possibile utilizzare nomi di file completi. Il contenuto e la formattazione ETT di output saranno identici al documento JPG originale.
+Segui i semplici passaggi per convertire JPG in ETT. Carica il tuo file JPG, quindi salvalo semplicemente come file ETT. Sia per la lettura JPG che per la scrittura ETT è possibile utilizzare nomi file completi. Il contenuto e la formattazione dell'ETT di output saranno identici al documento JPG originale.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire JPG in ETT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire JPG in ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire JPG in ETT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Devi convertire i file JPG in ETT in modo programmatico? Java gli sviluppatori possono facilmente convertire JPG in ETT in poche righe di codice.
+Hai bisogno di convertire i file JPG in ETT a livello di codice? Java gli sviluppatori possono convertire facilmente JPG in ETT in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file JPG con un'istanza della classe Workbook.
 1.  Converti JPG in ETT chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di JPG in ETT.
+1.  Ottieni il risultato della conversione da JPG a ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Java libreria per convertire JPG in ETT" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,45 +86,45 @@ Devi convertire i file JPG in ETT in modo programmatico? Java gli sviluppatori p
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un file ETT è un modello di foglio di calcolo creato da Kingsoft Spreadsheets, un programma di fogli di calcolo incluso nella suite WPS Office. Memorizza un modello che può essere utilizzato come punto di partenza per la creazione di nuovi fogli di calcolo Kingsoft (file .ET). I file ETT vengono spesso utilizzati per creare budget finanziari e organizzare i dati.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore sarà il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un file ETT è un modello di foglio di calcolo creato da Kingsoft Spreadsheets, un programma di fogli di calcolo incluso nella suite WPS Office. Memorizza un modello che può essere utilizzato come punto di partenza per creare nuovi fogli di calcolo Kingsoft (file .ET). I file ETT vengono spesso utilizzati per creare budget finanziari e organizzare i dati.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire JPG in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire JPG in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-bmp/" name="JPG AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG AL EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-gif/" name="JPG AL GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-html/" name="JPG AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-mhtml/" name="JPG AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-ods/" name="JPG AL ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-md/" name="JPG A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-mhtml/" name="JPG AL MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-ods/" name="JPG AL ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-pdf/" name="JPG AL PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-png/" name="JPG AL PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-svg/" name="JPG AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tiff/" name="JPG AL TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tiff/" name="JPG AL TIFF" description="Formato immagine contrassegnato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-tsv/" name="JPG AL TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-txt/" name="JPG AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xls/" name="JPG AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsb/" name="JPG AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsm/" name="JPG AL XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xls/" name="JPG AL XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsb/" name="JPG AL XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsm/" name="JPG AL XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlsx/" name="JPG AL XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xlt/" name="JPG AL XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xml/" name="JPG IN XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG AL XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xml/" name="DA JPG A XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG AL XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-json/" name="JPG AL JSON" description="Notazione oggetto JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-jpeg/" name="JPG AL JPEG" description="JPEG Immagine" >}}

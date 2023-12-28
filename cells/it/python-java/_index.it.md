@@ -1,10 +1,11 @@
 ---
-title:  Python Foglio Excel API - Aspose
+title:  Python Foglio di calcolo Excel API - Aspose
 weight: 2820
-description: Python libreria di fogli di calcolo per creare leggere scrivere e analizzare file Excel.
+description: Libreria Python per creare, riparare, unire, analizzare e convertire file Excel. Converti Excel in PDF, JSON, HTML, TXT e altri formati popolari.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Fogli di calcolo Excel Analisi delle API" h2="Genera, leggi, scrivi o manipola fogli di calcolo ed esporta file Excel in più formati all\'interno delle applicazioni Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API di analisi dei fogli di calcolo Excel" h2="Genera, leggi, scrivi o manipola fogli di calcolo nonché esporta file Excel in più formati all\'interno delle applicazioni Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
@@ -12,7 +13,7 @@ description: Python libreria di fogli di calcolo per creare leggere scrivere e a
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java è uno API veloce e affidabile per le attività di elaborazione dei fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering di fogli di lavoro in XPS, PDF, MHTML, HTML, testo normale, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
+Aspose.Cells for Python via Java è un numero API veloce e affidabile per attività di elaborazione di fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering dei fogli di lavoro in XPS, PDF, MHTML, HTML, testo semplice, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -27,7 +28,7 @@ Aspose.Cells for Python via Java è uno API veloce e affidabile per le attività
    <header>
     <i class="fa fa-refresh">
     </i>
- Importa &amp; Esportare
+ Importa e Esportare
    </header>
    <ul>
     <li>
@@ -47,10 +48,10 @@ Collezioni
    </header>
    <ul>
     <li>
- Da grafico a immagine
+ Dal grafico all'immagine
     </li>
     <li>
- Foglio di lavoro per immagine
+ Foglio di lavoro per l'immagine
     </li>
     <li>
  Foglio di calcolo allo PDF
@@ -69,7 +70,7 @@ Collezioni
  Applica formattazione
     </li>
     <li>
- Applica Formula
+ Applicare la formula
     </li>
     <li>
  Crea grafici
@@ -114,7 +115,7 @@ Collezioni
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python Ambiente runtime
+ Python Ambiente Runtime
    </header>
    <!--<ul>
 
@@ -144,7 +145,7 @@ Collezioni
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="La libreria Excel Python supporta i popolari formati Excel Microsoft, i formati a layout fisso e le immagini." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="La libreria Excel Python supporta i popolari formati Excel Microsoft, formati a layout fisso e immagini." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +157,7 @@ Collezioni
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -234,7 +235,7 @@ Collezioni
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Funzioni avanzate Python Excel API
+ Avanzate Python Excel API Funzionalità
    </h2>
    <p>
    </p>
@@ -242,7 +243,7 @@ Funzioni avanzate Python Excel API
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggi fogli di calcolo Excel
+ Leggere fogli di calcolo Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -256,14 +257,14 @@ Funzioni avanzate Python Excel API
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Regola i fogli di lavoro all'interno delle cartelle di lavoro
+ Modificare i fogli di lavoro all'interno delle cartelle di lavoro
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Proteggi / rimuovi la protezione dei fogli di lavoro
+ Proteggi/rimuovi la protezione dei fogli di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +299,14 @@ Funzioni avanzate Python Excel API
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dividi e unisci le celle
+ Dividere e unire le celle
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Aggiungi o rimuovi il raggruppamento a righe e colonne
+Aggiungi o rimuovi il raggruppamento in righe e colonne
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +320,7 @@ Funzioni avanzate Python Excel API
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggere e impostare le formule
+ Leggere e impostare formule
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +334,14 @@ Funzioni avanzate Python Excel API
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Regola l'orientamento della pagina, il ridimensionamento, il formato della carta
+ Regola l'orientamento della pagina, il ridimensionamento e il formato della carta
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Leggi &amp; scrivere la formattazione condizionale
+ Leggi e scrivere la formattazione condizionale
     </p>
    </div>
    <!--
@@ -415,7 +416,7 @@ Funzioni avanzate Python Excel API
  Conversione di più formati
     </h2>
     <p>
- Python La libreria Excel fornisce la conversione dei file Excel in PDF, XPS &amp; HTML formati. La conversione affidabile di API lo rende una soluzione perfetta per le aziende che richiedono lo scambio di file in formati standard del settore.
+ Python La libreria Excel fornisce la conversione dei file Excel in PDF, XPS &amp; formati HTML. La conversione affidabile di API lo rende una soluzione perfetta per le aziende che necessitano di scambiare file in formati standard del settore.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -460,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opzioni di visualizzazione flessibili
     </h2>
     <p>
- Aspose.Cells for Python via Java fornisce il controllo completo sull'impostazione della pagina consentendo di manipolare più opzioni di visualizzazione come l'anteprima delle interruzioni di pagina, impostare il livello di zoom, impostare l'orientamento della pagina, controllare la visibilità dei dati con blocchi di riquadri, dimensioni della carta, ridimensionamento, intestazioni e amp; piè di pagina e area di stampa.
+ Aspose.Cells for Python via Java fornisce il controllo completo sull'impostazione della pagina consentendo di manipolare più opzioni di visualizzazione come anteprima interruzioni di pagina, impostazione del livello di zoom, impostazione dell'orientamento della pagina, controllo della visibilità dei dati con riquadri di blocco, dimensioni della carta, ridimensionamento, intestazioni e amp; piè di pagina e area di stampa.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -480,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Gestione dei dati dei fogli Excel
+ Gestione dati fogli Excel
     </h2>
     <p>
- Aspose.Cells for Python via Java API fornisce un ampio supporto per la gestione dei dati del foglio di lavoro. Si può facilmente manipolare qualsiasi cella nel foglio di lavoro in fase di esecuzione o importare dati nei fogli di lavoro da varie fonti di dati.
+ Aspose.Cells for Python via Java API fornisce un ampio supporto per la gestione dei dati del foglio di lavoro. È possibile manipolare facilmente qualsiasi cella del foglio di lavoro in fase di esecuzione o importare dati nei fogli di lavoro da varie origini dati.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Personalizzazione dei grafici
+Personalizzazione dei grafici
     </h2>
     <p>
-Aspose.Cells for Python via Java fornisce supporto completo per la creazione di grafici. È possibile aggiungere facilmente grafici standard e personalizzati o impostare dinamicamente i dati del grafico per aggiornare il grafico in questa libreria Python.
+Aspose.Cells for Python via Java fornisce pieno supporto per la creazione di grafici. È possibile aggiungere facilmente grafici standard e personalizzati o impostare dinamicamente i dati del grafico per aggiornare il grafico in questa libreria Python.
     </p>
    </div>
    <!--
@@ -518,17 +519,17 @@ Aspose.Cells for Python via Java fornisce supporto completo per la creazione di 
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API Riferimenti" href="https://reference.aspose.com/cells/python-java" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for Python via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -536,7 +537,7 @@ Aspose.Cells for Python via Java fornisce supporto completo per la creazione di 
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

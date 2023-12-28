@@ -1,10 +1,11 @@
 ---
 title:  Java 엑셀 API - Aspose
 weight: 6830
-description: Java 스프레드시트 처리용 Excel 라이브러리. 읽기 쓰기 렌더링 및 변환 XLS XLSX XLSM ODS CSV TSV 및 기타 형식. Windows Linux 및 Unix와 호환 가능
+description:  Aspose.Cells for Java Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환하는 라이브러리입니다. Excel을 PDF, JSON, CSV, HTML 등으로 변환합니다.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Excel 스프레드시트 처리 API" h2="Microsoft Excel에 의존하지 않고 스프레드시트를 생성, 조작, 변환, 보호 또는 인쇄합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 엑셀 스프레드시트 처리 API" h2="Microsoft Excel을 사용하지 않고도 스프레드시트를 생성, 조작, 변환, 보호 또는 인쇄할 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -12,11 +13,11 @@ description: Java 스프레드시트 처리용 Excel 라이브러리. 읽기 쓰
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java은 수상 경력에 빛나는 Excel 스프레드시트 처리 API로, 개발자가 읽고, 쓰고, 조작하고, 변환 및 변환할 수 있는 기능을 내장할 수 있습니다. Microsoft Excel 응용 프로그램 없이 자체 응용 프로그램에서 스프레드시트를 인쇄합니다.
+ Aspose.Cells for Java은 수상 경력이 있는 Excel 스프레드시트 처리 API로 개발자가 읽기, 쓰기, 조작, 변환 및 변환 기능을 내장할 수 있습니다. Microsoft Excel 응용 프로그램이 필요 없이 자체 응용 프로그램에서 스프레드시트를 인쇄합니다.
 </p>
 
 <p>
-Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, 시중에서 구할 수 있는 다른 구성 요소의 단순한 데이터 내보내기 기능을 뛰어넘는 많은 기능을 제공합니다. API은 데이터를 내보내고 스프레드시트를 가장 세분화된 수준으로 포맷하고 가져오기 및 가져오기 기능을 제공합니다. 이미지 내보내기, 차트 만들기 &amp; 피벗 테이블, 적용 &amp; 수식 계산 엔진, 스트림 Excel 데이터를 사용하여 복잡한 수식을 계산합니다. 결과를 다양한 형식으로 저장합니다.
+Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, 시중에서 판매되는 다른 구성 요소의 단순한 데이터 내보내기 기능을 뛰어넘는 많은 기능을 제공합니다. API은 데이터 내보내기, 가장 세부적인 수준으로 스프레드시트 형식 지정, 가져오기 및 내보내기 기능을 제공합니다. 이미지 내보내기, 차트 만들기 및 피벗 테이블, 적용 &amp; 수식 계산 엔진을 사용하여 복잡한 수식을 계산하고 Excel 데이터를 스트리밍합니다. 결과를 다양한 형식으로 저장합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -24,7 +25,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="일반적인 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="일반적인 개요." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -75,7 +76,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
    <header>
     <i class="fa fa-table">
     </i>
- GridWeb 컨트롤
+ 그리드웹 컨트롤
    </header>
    <ul>
     <li>
@@ -85,7 +86,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
  Excel 파일 로드
     </li>
     <li>
- 엑셀 문서 저장
+ Excel 문서 저장
     </li>
     <li>
  편집 기능 제공
@@ -117,7 +118,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="라이브러리 for Java 기반 응용 프로그램은 Windows Unix/Linux 및 Mac 플랫폼에서 개발되었습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="라이브러리 for Java 기반 애플리케이션은 Windows Unix/Linux 및 Mac 플랫폼에서 개발되었습니다." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -134,7 +135,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
  JSP/JSF 애플리케이션
     </li>
     <li>
- 데스크톱 애플리케이션
+ 데스크탑 애플리케이션
     </li>
    </ul>
   </div>
@@ -210,7 +211,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -305,7 +306,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 실제 프린터로 스프레드시트 인쇄
+ 스프레드시트를 실제 프린터로 인쇄
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,14 +320,14 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 댓글 조작
+ 만들기 &amp; 댓글을 조작하다
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 세트 &amp; Excel &amp; 맞춤 수식
+ 세트 &amp; Excel &amp; 계산 맞춤 수식
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +348,7 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기, 조작 &amp; 새로 고침 피벗 테이블 &amp; 피벗 차트
+ 생성, 조작 및 피벗 테이블 새로 고침 &amp; 피벗 차트
     </p>
    </div>
    <div class="col-lg-4">
@@ -361,14 +362,14 @@ Aspose.Cells for Java은 성숙하고 기능이 풍부한 라이브러리로, �
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 경량 모드에서 큰 파일 읽기 및 쓰기
+ 경량 모드에서 대용량 파일 읽기 및 쓰기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Excel에서 이미지를 PDF 변환으로 다시 샘플링
+Excel에서 이미지를 PDF로 다시 샘플링합니다.
     </p>
    </div>
    <div class="col-lg-4">
@@ -383,7 +384,7 @@ Excel에서 이미지를 PDF 변환으로 다시 샘플링
  Excel 파일을 다른 형식으로 저장
     </h2>
     <p>
- Excel API은 최고의 시각적 충실도를 유지하면서 스프레드시트를 PDF, XPS, HTML 및 기타 형식으로 변환할 수 있습니다. 안정적이고 유연한 변환 프로세스를 통해 Aspose.Cells은 대부분 산업 표준 형식 내에서 파일을 교환하는 조직에 완벽한 선택입니다.
+ Excel API은 최고의 시각적 충실도를 유지하면서 스프레드시트를 PDF, XPS, HTML 및 기타 형식으로 변환하는 기능을 제공합니다. 안정적이고 유연한 변환 프로세스를 통해 Aspose.Cells은 주로 업계 표준 형식으로 파일을 교환하는 조직에 완벽한 선택입니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -404,10 +405,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 가장 세분화된 수준으로 워크시트 서식 지정
+ 가장 세부적인 수준으로 워크시트 형식 지정
     </h2>
     <p>
-라이브러리는 행, 열 및 셀 수준의 워크시트 서식 지정, 조건부 서식 규칙 추가, 숫자 서식 정의 및 속성으로 글꼴 설정을 포함하되 이에 국한되지 않는 스프레드시트 스타일을 제공합니다. 마찬가지로 API은 OLE 개체, 그림, 주석, 모양 및 셀에 대한 컨트롤과 같은 다양한 그리기 개체뿐만 아니라 모든 유형의 사용자 지정 및 표준 차트를 조작하고 생성하는 것을 지원합니다.
+라이브러리는 행, 열 및 셀 수준의 워크시트 서식 지정, 조건부 서식 규칙 추가, 숫자 서식 정의 및 속성을 사용한 글꼴 설정을 포함하되 이에 국한되지 않는 스프레드시트 스타일을 제공합니다. 마찬가지로 API은 모든 유형의 사용자 정의 및 표준 차트는 물론 OLE 개체, 그림, 설명, 모양 및 셀 컨트롤과 같은 다양한 그리기 개체를 조작하고 생성하는 것을 지원합니다.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,10 +420,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- 차트 변환 &amp; 시트를 이미지 &amp; PDF 형식
+ 차트 변환 &amp; 시트를 이미지로 &amp; PDF 형식
     </h2>
     <p>
- Aspose.Cells for Java은 차트를 이미지로, PDF, 워크시트를 이미지로, 워크시트 인쇄, 스프레드시트를 PDF 파일 형식으로 변환과 같은 특수 변환 기능을 제공합니다. 변환 프로세스는 매우 유연하고 쉬우므로 스프레드시트에서 PDF 변환으로 이미지를 다시 샘플링하거나 워크시트 및 차트를 이미지로 렌더링하는 동안 결과 이미지 크기를 조정하는 등 다양한 변환 방법을 선택할 수 있습니다.
+ Aspose.Cells for Java은 차트를 이미지로, PDF, 워크시트를 이미지로, 워크시트를 인쇄하고 스프레드시트를 PDF 파일 형식으로 변환하는 등의 특수 변환 기능을 제공합니다. 변환 프로세스는 매우 유연하고 쉬우므로 스프레드시트에서 PDF 변환으로 이미지를 다시 샘플링하거나 워크시트 및 차트를 이미지로 렌더링하는 동안 결과 이미지 크기를 조정하는 등 다양한 변환 방법을 선택할 수 있습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -450,15 +451,15 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Excel 행 조작 &amp; 열
     </h2>
     <p>
- Aspose.Cells for Java을 사용하면 다양한 방법으로 행과 열을 수정할 수 있습니다. 열 너비와 행 높이를 쉽게 조정할 수 있으며 내용에 따라 셀의 너비/높이를 자동으로 조정하고 &amp; 삭제, 숨기기 &amp; 숨기기 해제 및 그룹 &amp; 행과 열의 그룹을 해제합니다.
+ Aspose.Cells for Java을 사용하면 다양한 방법으로 행과 열을 수정할 수 있습니다. 열 너비와 행 높이를 쉽게 조정하고, 내용에 따라 셀의 너비/높이를 자동으로 조정하고, 삽입 및 삽입할 수 있습니다. 삭제, 숨기기 &amp; 숨기기 해제 및 그룹 &amp; 행과 열의 그룹을 해제합니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 차트로 데이터 요약 &amp; 피벗 테이블
+ 차트로 데이터를 요약합니다. 피벗 테이블
     </h2>
     <p>
- 매우 큰 스프레드시트에서는 요약된 정보를 얻기 어려울 수 있습니다. 플랫 데이터를 빠르게 설명하고 필요에 따라 관련 정보를 얻기 위해 피벗 테이블이 있습니다. API은 피벗 테이블과 차트를 동적으로 생성합니다. 피벗 테이블 소스 데이터를 동적으로 변경할 수 있습니다. 또한 이 라이브러리의 또 다른 주요 기능인 Smart Markers는 데이터 소스를 통해 워크시트를 채우고 시각적으로 효과적인 보고서를 생성합니다.
+ 매우 큰 스프레드시트에서는 요약된 정보를 얻는 것이 어려울 수 있습니다. 피벗 테이블은 플랫 데이터를 신속하게 설명하고 필요에 따라 관련 정보를 얻기 위해 존재합니다. API은 피벗 테이블과 차트를 동적으로 생성합니다. 피벗 테이블 소스 데이터를 동적으로 변경하는 것이 가능합니다. 또한 이 라이브러리의 또 다른 주요 기능인 스마트 마커는 데이터 소스를 통해 워크시트를 채우고 시각적으로 효과적인 보고서를 생성합니다.
     </p>
    </div>
    <!--
@@ -484,10 +485,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- 스프레드시트용 웹 기반 비주얼 컨트롤
+ 스프레드시트에 대한 웹 기반 시각적 제어
     </h2>
     <p>
-Aspose.Cells for Java은 또한 JSP 웹 애플리케이션에 내장할 수 있고 Chrome, Firefox, Internet Explorer 및 Opera와 같은 모든 최신 웹 브라우저와 호환되는 UI 컨트롤을 제공합니다. 최종 사용자는 이를 사용하여 웹 애플리케이션의 프런트 엔드에서 Excel 파일을 로드, 편집 및 저장할 수 있습니다.
+Aspose.Cells for Java은 또한 JSP 웹 애플리케이션에 내장할 수 있고 Chrome, Firefox, Internet Explorer 및 Opera와 같은 모든 최신 웹 브라우저와 호환되는 UI 컨트롤을 제공합니다. 최종 사용자는 이를 사용하여 웹 애플리케이션의 프런트엔드에서 Excel 파일을 로드, 편집 및 저장할 수 있습니다.
     </p>
    </div>
   </div>
@@ -497,20 +498,20 @@ Aspose.Cells for Java은 또한 JSP 웹 애플리케이션에 내장할 수 있�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말을 그대로 받아들이지 마십시오. 스프레드시트 API에 대한 사용자 의견을 확인하십시오." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="사람들이 말하는 것" subTitle="우리의 말만 받아들이지 마십시오. 스프레드시트 API에 대한 사용자의 의견을 확인하세요." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Aspose.cells for Java은 구현하기 쉽고 API은 이해하기 쉽고 매우 유창하기 때문에 사용을 권장합니다.
+ 구현하기 쉽고 API은 이해하기 쉽고 매우 유창하므로 Aspose.cells for Java을 사용하는 것이 좋습니다.
  <em>
- 피에르 에릭 오딘 | Advizeo by Setec, 프랑스
+ 피에르 에릭 우댕 | 프랑스 Setec의 Advizeo
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose 제품에 대한 전반적인 경험은 매우 긍정적이었습니다. 이 구성 요소는 Xpand IT 제품인 Xporter Plugin for JIRA의 비즈니스 가치를 높여 데이터 내보내기를 위한 참조 솔루션을 개발할 수 있도록 했습니다.
+ Aspose 제품에 대한 전반적인 경험은 매우 긍정적이었습니다. 이 구성 요소는 Xpand IT 제품(JIRA용 Xporter 플러그인)의 비즈니스 가치를 높여 데이터 내보내기를 위한 참조 솔루션을 개발할 수 있게 했습니다.
  <em>
  파울로 로페스 | Xpand IT, 영국
  </em>
@@ -520,10 +521,10 @@ Aspose.Cells for Java은 또한 JSP 웹 애플리케이션에 내장할 수 있�
 {{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -534,7 +535,7 @@ Aspose.Cells for Java은 또한 JSP 웹 애플리케이션에 내장할 수 있�
 {{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Java입니까?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Java인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

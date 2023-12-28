@@ -1,7 +1,8 @@
 ---
-title:  Cerca documento ODS senza aprire via .NET
+title:  Cerca il documento ODS senza aprire via .NET
 weight: 160
-description: C# codice sorgente per cercare parole con pattern nel file ODS su .NET Framework, .NET Core, Mono o Xamarin Platforms.
+description: Codice sorgente C# per cercare parole con pattern nel file ODS su .NET Framework, .NET Core, Mono o piattaforme Xamarin.
+keywords: [C# Aspose.Cells., c# search words with pattern in ods file., c# find words with pattern in ods file., c# search string with pattern in ods file., c# find words with pattern in ods file., c# search words in ods file., c# find words in ods file., c# search string in ods file., c# find string in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Cerca i formati ODS in C#" h2="Ricerca di documenti ODS nativa e ad alte prestazioni utilizzando le API Aspose.Cells for .NET lato server, senza l\'uso di software come Microsoft o Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -11,13 +12,13 @@ description: C# codice sorgente per cercare parole con pattern nel file ODS su .
 
 {{% blocks/products/pf/agp/content h2="Come cercare il file ODS utilizzando C#" %}}
 
- Per cercare il file ODS, useremo
+ Per cercare il file ODS, utilizzeremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API che è un documento ricco di funzionalità, potente e facile da usare che cerca API per la piattaforma C#. Aprire
+ API che è un documento ricco di funzionalità, potente e facile da usare per la ricerca di documenti API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Carica il file ODS utilizzando la classe Cartella di lavoro.
++ Carica il file ODS utilizzando la classe Workbook.
 + Ottieni le celle nel foglio pertinente.
 + Cerca Numbers, data e testo utilizzando il metodo Trova
 
@@ -57,7 +58,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o piattaforme Xamarin
 -  Ambiente di sviluppo come Microsoft Visual Studio
 -  Aggiungi riferimento alla DLL Aspose.Cells for .NET nel tuo progetto - Installa da NuGet utilizzando il pulsante Download in alto
 
@@ -115,9 +116,9 @@ if (cell3 != null){
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -125,14 +126,14 @@ if (cell3 != null){
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Cerca demo live" sectionDescription=" Cerca testo, parole, frasi all\'interno di ODS documenti in questo momento visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/search). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Cerca demo live" sectionDescription=" Cerca subito testo, parole e frasi all\'interno dei documenti ODS visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/search). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file ODS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato all\'istante." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato immediatamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS " readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- file con estensione ODS rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
+ file con estensione ODS indicano il formato del documento OpenDocument Spreadsheet modificabile dall'utente. I dati vengono archiviati nel file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e mantenute da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -140,14 +141,14 @@ if (cell3 != null){
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di ricerca supportati" subTitle="Utilizzando C#, è anche possibile cercare altri formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di ricerca supportati" subTitle="Utilizzando C#, è possibile cercare anche altri formati, inclusi." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/csv/" name="CSV" description="valori separati da virgola" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

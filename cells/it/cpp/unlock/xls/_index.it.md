@@ -2,6 +2,7 @@
 title:  Sblocca il documento XLS tramite C++
 weight: 2380
 description: C++ codice di esempio per sbloccare il file XLS protetto da password su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLS files., C++ how to unlock XLS document., C++ unprotect XLS files., remove protection from XLS files., decrypt XLS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sblocca i file XLS tramite C++" h2="Rimuovi la protezione dai fogli di calcolo Excel incluso il file XLS utilizzando la libreria C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,13 +12,13 @@ description: C++ codice di esempio per sbloccare il file XLS protetto da passwor
 
 {{% blocks/products/pf/agp/content h2="Come rimuovere la protezione del file XLS utilizzando C++" %}}
 
- Per sbloccare il file XLS, useremo
+ Per sbloccare il file XLS, utilizzeremo
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API che è una piattaforma di protezione dei documenti API for C++ ricca di funzionalità, potente e facile da usare. Puoi scaricare direttamente la sua ultima versione, basta aprirla
+ API che è una piattaforma di protezione dei documenti ricca di funzionalità, potente e facile da usare API for C++. Puoi scaricare direttamente la sua ultima versione, basta aprirla
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells.Cpp** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -39,14 +40,15 @@ PM> Install-Package Aspose.Cells.Cpp
 
  Hai bisogno
  [aspose.cells.dll](https://downloads.aspose.com/cells/cpp) 
- referenziato nel progetto per eseguire il flusso di lavoro seguente.
+ riferimento nel progetto per eseguire il seguente flusso di lavoro.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Carica il file bloccato XLS usando CreateIWorkbook.
-1.  Chiama la funzione Unprotect() per sbloccare.
-1.  Impostare la password su NULL utilizzando SetPassword.
-1.  Salva il file XLS in una posizione specificata.
+1.  Crea un'istanza della classe Workbook con il percorso del file protetto XLS
+1.  Ottieni il foglio di lavoro predefinito o qualsiasi altro per rimuovere la protezione
+1.  Rimuovi la protezione del foglio di lavoro con il metodo Worksheet.Unprotect
+1.  Rimuovere la protezione della cartella di lavoro con il metodo Workbook.Unprotect
+1.  Salva il risultato nel formato XLS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,12 +56,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ supporta su tutte le principali piattaforme e sistemi operativi. Assicurati di avere i seguenti prerequisiti.
+ Aspose.Cells for C++ supporta tutte le principali piattaforme e sistemi operativi. Assicurati di possedere i seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows o un sistema operativo compatibile con C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
--  Aggiungere il riferimento alla DLL Aspose.Cells for C++ nel progetto.
+-  Aggiungi il riferimento alla DLL Aspose.Cells for C++ nel tuo progetto.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLS file
+Workbook workbook(u"protected.xls");
 
-// Load XLS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xls")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLS file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xls")));
+// save the result back in XLS format
+workbook.Save("unprotected.xls", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -96,9 +99,9 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -106,14 +109,14 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLS" sectionDescription=" Dai un\'occhiata alle nostre demo live per[sbloccare i file XLS](https://products.aspose.app/cells/unlock/xls) con i seguenti benefici." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLS" sectionDescription=" Controlla le nostre demo dal vivo per[sbloccare i file XLS](https://products.aspose.app/cells/unlock/xls) con i seguenti vantaggi." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere o compilare codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il file XLS e premere il pulsante \"Sblocca\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scarica il file XLS risultante dal link" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scaricare il file XLS risultante dal collegamento" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-file con estensione XLS rappresentano il formato di file binario di Excel. Tali file possono essere creati da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ogni cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono includere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato di file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora il supporto per la creazione e la lettura di file XLS, sebbene XLSX sia la prima scelta di utilizzo ora.
+file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -121,11 +124,11 @@ file con estensione XLS rappresentano il formato di file binario di Excel. Tali 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C++, è possibile rimuovere facilmente la protezione / sblocco di diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C++, è possibile rimuovere facilmente la protezione/sblocco di diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

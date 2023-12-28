@@ -1,7 +1,8 @@
 ---
 title:  XLSX 문서 via .NET 잠금 해제
 weight: 2040
-description: C# 소스 코드는 .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에서 암호로 보호된 XLSX 파일을 잠금 해제합니다.
+description: C# 소스 코드는 .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에서 비밀번호로 보호된 XLSX 파일을 잠금 해제합니다.
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 XLSX 스프레드시트 잠금 해제" h2=".NET 라이브러리를 사용하여 XLSX에서 보호를 제거합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -13,11 +14,11 @@ description: C# 소스 코드는 .NET 프레임워크, .NET 코어, Mono 또는 
 
  보호 XLSX 파일을 제거하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 C# 플랫폼을 위한 기능이 풍부하고 강력하며 사용하기 쉬운 문서 보호 API입니다. 열려 있는
+ C# 플랫폼을 위한 기능이 풍부하고 강력하며 사용하기 쉬운 문서 보호 API인 API입니다. 열려 있는
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  **Aspose.Cells** 
- 그리고 설치하십시오. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -39,14 +40,14 @@ PM> Install-Package Aspose.Cells
 
  당신은 필요
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
- 프로젝트에서 참조하여 다음 워크플로를 실행합니다.
+ 다음 워크플로를 실행하기 위해 프로젝트에서 참조됩니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  보호된 XLSX 파일에 대한 경로로 통합 문서 클래스 인스턴스화
-1.  기본 또는 워크시트를 가져와서 보호를 제거하십시오.
-1.  Worksheet.Unprotect 메서드로 워크시트 보호 제거
-1.  Workbook.Unprotect 메서드로 통합 문서 보호 제거
+1.  보호된 XLSX 파일에 대한 경로를 사용하여 통합 문서 클래스를 인스턴스화합니다.
+1.  보호를 제거하려면 기본 또는 워크시트를 가져오세요.
+1.  Worksheet.Unprotect 메서드를 사용하여 워크시트 보호를 제거합니다.
+1.  Workbook.Unprotect 메서드를 사용하여 통합 문서 보호 제거
 1.  결과를 XLSX 형식으로 저장
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -55,13 +56,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET은 모든 주요 운영 체제에서 지원됩니다. 다음 전제 조건이 있는지 확인하십시오.
+ Aspose.Cells for .NET은 모든 주요 운영 체제에서 지원됩니다. 다음 전제조건이 충족되었는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 또는 .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼과 호환되는 OS
+-  Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼과 호환되는 OS
 -  Microsoft Visual Studio와 같은 개발 환경
--  프로젝트에서 Aspose.Cells for .NET DLL에 대한 참조 추가
+-  프로젝트에 Aspose.Cells for .NET DLL에 대한 참조를 추가하세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -97,7 +98,7 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
     {{% blocks/products/pf/agp/content h2="약 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
+ Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 애플리케이션 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
 
 
 
@@ -105,14 +106,14 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="무료 앱 잠금 해제 XLSX" sectionDescription=" 라이브 데모를 확인하십시오[XLSX 파일 잠금 해제](https://products.aspose.app/cells/unlock/xlsx) 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="잠금 해제할 수 있는 무료 앱 XLSX" sectionDescription=" 라이브 데모를 확인해보세요[XLSX 파일 잠금 해제](https://products.aspose.app/cells/unlock/xlsx) 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성하거나 컴파일할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSX 파일을 업로드하고 \"잠금 해제\" 버튼을 누르기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSX 파일을 다운로드합니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSX 파일을 업로드하고 \"잠금 해제\" 버튼을 누르세요." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSX 파일을 다운로드하세요." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.
+XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 2부에 요약된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새로운 형식은 다음과 같습니다. 다수의 XML 파일을 포함하는 zip 패키지입니다. .xlsx 파일의 압축을 풀면 기본 구조와 파일을 검사할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,11 +121,11 @@ XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 잠금 해제 형식" subTitle="C#을 사용하여 다양한 형식의 보호/잠금 해제를 쉽게 제거할 수 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 잠금 해제 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식의 보호/잠금 해제를 쉽게 제거할 수 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML in JPG - Convertitore online di SPREADSHEETML in JPG
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti SPREADSHEETML in formato di salvataggio JPG. Java SPREADSHEETML in formato JPG. Salva SPREADSHEETML in JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to JPG saveformat., Free Online SPREADSHEETML to JPG Java., Java Convert SPREADSHEETML to JPG]
+title: Java FOGLIO DI CALCOLO da JPG - Convertitore da FOGLIO DI CALCOLO a JPG
+description: Aspose Excel. Converti SPREADSHEETML in JPG in modo rapido e semplice con Aspose.Cells. Java SPREADSHEETML in JPG. Java Salva FOGLIO DI CALCOLOML in JPG. Salva SPREADSHEETML come JPG utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to JPG in Java., Save SPREADSHEETML to JPG using Java., Java SPREADSHEETML to JPG saveformat., SPREADSHEETML to JPG Converter., Java Save SPREADSHEETML as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti SPREADSHEETML in JPG in Java" h2="Libreria Java ad alta velocità per convertire SPREADSHEETML in JPG. Questa è una soluzione software professionale per importare ed esportare SPREADSHEETML, JPG e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Converti SPREADSHEETML in JPG utilizzando Java" %}}
 
- Come posso convertire SPREADSHEETML in JPG? Con la libreria Aspose.Cells for Java, puoi facilmente convertire SPREADSHEETML in JPG a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Come converto SPREADSHEETML in JPG? Con la libreria Aspose.Cells for Java, puoi convertire facilmente SPREADSHEETML in JPG a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva SPREADSHEETML in JPG in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva SPREADSHEETML in JPG in Java" %}}
 
-L'esempio seguente mostra come convertire SPREADSHEETML in JPG in Java.
+L'esempio seguente dimostra come convertire SPREADSHEETML in JPG in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per convertire SPREADSHEETML in JPG. Carica il tuo file SPREADSHEETML, quindi salvalo semplicemente come file JPG. Sia per la lettura SPREADSHEETML che per la scrittura JPG è possibile utilizzare nomi di file completi. Il contenuto e la formattazione JPG di output saranno identici al documento SPREADSHEETML originale.
@@ -56,28 +56,28 @@ Segui i semplici passaggi per convertire SPREADSHEETML in JPG. Carica il tuo fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire SPREADSHEETML in JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire SPREADSHEETML in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire SPREADSHEETML in JPG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file SPREADSHEETML in JPG a livello di programmazione? Java gli sviluppatori possono facilmente convertire SPREADSHEETML in JPG in poche righe di codice.
+Hai bisogno di convertire i file SPREADSHEETML in JPG a livello di codice? Java gli sviluppatori possono convertire facilmente SPREADSHEETML in JPG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file SPREADSHEETML con un'istanza della classe Workbook.
 1.  Converti SPREADSHEETML in JPG chiamando il metodo Workbook.save.
 1.  Ottieni il risultato della conversione di SPREADSHEETML in JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire SPREADSHEETML in JPG" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire SPREADSHEETML in JPG" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ Hai bisogno di convertire i file SPREADSHEETML in JPG a livello di programmazion
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML sta per Extensible Markup Language che è simile a HTML ma diverso nell'utilizzo dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò gli consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su reti come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste funzionalità che molti formati di file standard lo utilizzano come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore sarà il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire SPREADSHEETML in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire SPREADSHEETML in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-bmp/" name="FOGLIO DI ESECUZIONE ML AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-emf/" name="FOGLIO DI ESECUZIONE ML AL EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-gif/" name="FOGLIO DI ESECUZIONE ML AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-html/" name="FOGLIO DI ESECUZIONE ML AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-md/" name="FOGLIO DI CALCOLO ML A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-mhtml/" name="FOGLIO DI ESECUZIONE ML AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-ods/" name="FOGLIO DI ESECUZIONE ML AL ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-pdf/" name="FOGLIO DI ESECUZIONE ML AL PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-png/" name="FOGLIO DI ESECUZIONE ML AL PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-svg/" name="FOGLIO DI ESECUZIONE ML AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tiff/" name="FOGLIO DI ESECUZIONE ML AL TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tsv/" name="FOGLIO DI ESECUZIONE ML AL TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-txt/" name="FOGLIO DI ESECUZIONE ML AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xls/" name="FOGLIO DI ESECUZIONE ML AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsb/" name="FOGLIO DI ESECUZIONE ML AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsm/" name="FOGLIO DI ESECUZIONE ML AL XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsx/" name="FOGLIO DI ESECUZIONE ML AL XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlt/" name="FOGLIO DI ESECUZIONE ML AL XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltm/" name="FOGLIO DI ESECUZIONE ML AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltx/" name="FOGLIO DI ESECUZIONE ML AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xml/" name="FOGLIO DI CALCOLO IN XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xps/" name="FOGLIO DI ESECUZIONE ML AL XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-json/" name="FOGLIO DI ESECUZIONE ML AL JSON" description="Notazione oggetto JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-jpeg/" name="FOGLIO DI ESECUZIONE ML AL JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-bmp/" name="FOGLIO DI CALCOLOML A BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-emf/" name="FOGLIO DI CALCOLOML A EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-gif/" name="FOGLIO DI CALCOLOML A GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-html/" name="FOGLIO DI CALCOLOML A HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-md/" name="FOGLIO DI CALCOLOML A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-mhtml/" name="FOGLIO DI CALCOLOML A MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-ods/" name="FOGLIO DI CALCOLOML A ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-pdf/" name="FOGLIO DI CALCOLOML A PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-png/" name="FOGLIO DI CALCOLOML A PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-svg/" name="FOGLIO DI CALCOLOML A SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tiff/" name="FOGLIO DI CALCOLOML A TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tsv/" name="FOGLIO DI CALCOLOML A TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-txt/" name="FOGLIO DI CALCOLOML A TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xls/" name="FOGLIO DI CALCOLOML A XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsb/" name="FOGLIO DI CALCOLOML A XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsm/" name="FOGLIO DI CALCOLOML A XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsx/" name="FOGLIO DI CALCOLOML A XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlt/" name="FOGLIO DI CALCOLOML A XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltm/" name="FOGLIO DI CALCOLOML A XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltx/" name="FOGLIO DI CALCOLOML A XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xml/" name="FOGLIO DI CALCOLOML IN XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xps/" name="FOGLIO DI CALCOLOML A XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-json/" name="FOGLIO DI CALCOLOML A JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-jpeg/" name="FOGLIO DI CALCOLOML A JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

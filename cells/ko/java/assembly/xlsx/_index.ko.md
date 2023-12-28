@@ -1,7 +1,8 @@
 ---
-title:  XLSX 파일에서 보고서 생성 via Java
+title:  XLSX 파일 via Java에서 보고서 생성
 weight: 7710
-description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용 Java 런타임 환경에 대한 XLSX 형식 보고서를 생성하는 Java 샘플 코드.
+description: JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 Java 런타임 환경에 대한 XLSX 형식 보고서를 생성하기 위한 Java 샘플 코드입니다.
+keywords: [Java Aspose.Cells., Java Create XLSX Reports Based on Predesigned Excel Template., Java Generate XLSX Reports Based on Predesigned Excel Template., Java Create XLSX Reports Based on Excel Template., Java Generate XLSX Reports Based on Excel Template., Java Create xlsx files Based on Excel Template., Java Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX 형식의 대량 보고서 생성 via Java" h2="데이터 소스 및 템플릿을 사용하여 XLSX 형식으로 보고서를 생성합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -13,9 +14,9 @@ description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용
 
  XLSX 파일 보고서를 생성하기 위해 다음을 사용합니다.
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 조립 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 어셈블리 API for Java 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -57,8 +58,8 @@ description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용
 
 1.  WorkbookDesigner 클래스 인스턴스화
 1. ArrayList에 Datasouce 개체 추가
-1.  WorkbookDesigner 개체에 대한 데이터 소스 및 프로세스 설정
-1.  Worbook.save 메소드를 통해 결과를 XLSX 형식으로 저장
+1.  WorkbookDesigner 개체에 대한 데이터 원본 및 프로세스 설정
+1.  Worbook.save 메소드를 통해 결과를 XLSX 형식으로 저장합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,14 +71,14 @@ description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 - Maven에서 직접 Aspose.Cells for Java의 최신 버전을 받으세요.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XLSX 형식의 Excel 보고서 생성 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSX 형식 - Java로 Excel 보고서 생성" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
@@ -109,7 +110,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="약 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
+ Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 애플리케이션 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
 
 
 
@@ -117,14 +118,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="무료 앱 조립 XLSX" sectionDescription=" 라이브 데모를 확인하십시오[XLSX 파일 생성](https://products.aspose.app/cells/assembly/xlsx) 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="무료 조립 앱 XLSX" sectionDescription=" 라이브 데모를 확인해보세요[XLSX 파일 생성](https://products.aspose.app/cells/assembly/xlsx) 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성하거나 컴파일할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSX 파일을 업로드하고 \"조립\" 버튼을 누르기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSX 파일을 다운로드합니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSX 파일을 업로드하고 \"조립\" 버튼을 누르세요." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSX 파일을 다운로드하세요." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.
+XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 2부에 요약된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새로운 형식은 다음과 같습니다. 다수의 XML 파일을 포함하는 zip 패키지입니다. .xlsx 파일의 압축을 풀면 기본 구조와 파일을 검사할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,11 +133,11 @@ XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 보고서 생성 형식" subTitle="Java을 사용하면 다음을 포함한 여러 형식의 보고서를 쉽게 생성할 수 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 보고서 생성 형식" subTitle="Java을 사용하면 다음을 포함한 다양한 형식의 보고서를 쉽게 생성할 수 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

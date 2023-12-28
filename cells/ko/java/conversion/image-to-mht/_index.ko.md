@@ -1,7 +1,7 @@
 ---
-title: Java 이미지를 MHT로 - 온라인 이미지를 MHT로 변환
-description: Aspose 엑셀. Java Aspose.Cells. Java Aspose Cells. 무료 온라인 Java 이미지를 MHT 저장 형식으로 변환합니다. Java 이미지를 MHT 형식으로. 이미지를 MHT Java에 저장합니다.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to MHT saveformat., Free Online IMAGE to MHT Java., Java Convert IMAGE to MHT]
+title: Java 이미지를 MHT로 - 이미지를 MHT로 변환기
+description: Aspose 엑셀. Aspose.Cells을 사용하여 IMAGE를 MHT로 빠르고 쉽게 변환하세요. Java IMAGE를 MHT로 변환하세요. Java MHT에 이미지를 저장합니다. Java을 사용하여 IMAGE를 MHT로 저장합니다.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to MHT in Java., Save IMAGE to MHT using Java., Java IMAGE to MHT saveformat., IMAGE to MHT Converter., Java Save IMAGE as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java에서 IMAGE를 MHT로 변환" h2="IMAGE를 MHT로 변환하기 위한 고속 Java 라이브러리. 이것은 Java을 사용하여 IMAGE, MHT 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 IMAGE를 MHT로 변환" %}}
 
- IMAGE를 MHT로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 IMAGE를 MHT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ IMAGE를 MHT로 어떻게 변환하나요? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드만으로 프로그래밍 방식으로 IMAGE를 MHT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="무료로 온라인에서 Java의 MHT에 이미지 저장" %}}
+{{% blocks/products/pf/agp/content h2="Java의 MHT에 이미지 저장" %}}
 
-다음 예는 Java에서 IMAGE를 MHT로 변환하는 방법을 보여줍니다.
+다음 예에서는 Java에서 IMAGE를 MHT로 변환하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-IMAGE를 MHT로 변환하는 쉬운 단계를 따르십시오. IMAGE 파일을 업로드한 다음 MHT 파일로 저장하기만 하면 됩니다. IMAGE 읽기 및 MHT 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 MHT 콘텐츠 및 형식은 원본 IMAGE 문서와 동일합니다.
+IMAGE를 MHT로 변환하는 쉬운 단계를 따르세요. IMAGE 파일을 업로드한 다음 MHT 파일로 저장하면 됩니다. IMAGE 읽기와 MHT 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 MHT 콘텐츠 및 형식은 원본 IMAGE 문서와 동일합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="IMAGE를 MHT 온라인으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="IMAGE를 MHT로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE를 MHT via Java로 변환하는 방법" %}}
+{{% blocks/products/pf/agp/content h2="이미지를 MHT via Java로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-프로그래밍 방식으로 IMAGE 파일을 MHT로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드로 IMAGE를 MHT로 쉽게 변환할 수 있습니다.
+프로그래밍 방식으로 IMAGE 파일을 MHT로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드만으로 IMAGE를 MHT로 쉽게 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Java'을 설치합니다.
 1.  Java 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  Workbook 클래스의 인스턴스로 IMAGE 파일을 로드합니다.
+1.  Workbook 클래스의 인스턴스로 이미지 파일을 로드합니다.
 1.  Workbook.save 메서드를 호출하여 IMAGE를 MHT로 변환합니다.
 1.  IMAGE를 MHT로 변환한 결과를 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java IMAGE를 MHT로 변환하는 라이브러리" %}}
+{{% blocks/products/pf/agp/content h2="Java 이미지를 MHT로 변환하는 라이브러리" %}}
 {{% blocks/products/pf/agp/text %}}
 
- 우리는 Java 패키지를 다음에서 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 공통 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법.
+ 우리는 Java 패키지를 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 일반적인 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법에 대해 알아보세요.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,48 +86,48 @@ IMAGE를 MHT로 변환하는 쉬운 단계를 따르십시오. IMAGE 파일을 �
 
 {{% blocks/products/pf/agp/text %}}
 
- Java 변환 소스 코드를 실행하기 전에 다음과 같은 전제 조건이 있는지 확인하십시오.
+ Java 변환 소스 코드를 실행하기 전에 다음 전제 조건이 있는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 - Maven에서 직접 Aspose.Cells for Java의 최신 버전을 받으세요.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG(Portable Network Graphics) 파일은 무손실 압축을 사용하는 래스터 이미지 파일 형식입니다. 이 파일 형식은 Graphics Interchange Format(GIF)을 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 사용자들 사이에서 인기 있는 무손실 이미지 압축을 지원합니다. 시간이 지남에 따라 PNG은 널리 사용되는 이미지 파일 형식 중 하나로 발전했습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}확장자가 .mht인 파일은 다양한 유형의 데이터를 단일 파일에 포함하는 MIME 지원 아카이빙 파일 형식입니다. CSS 파일 형태의 텍스트, 이미지, 페이지 스타일, JavaScript 및 기타 리소스와 같은 데이터를 임베디드 리소스로 저장할 수 있습니다. MIME 유형이 message/rfc822인 MHT 파일은 HTML 파일의 모든 내용을 저장 장치에 보관할 때 저장하기 위한 단일 보관 파일로 캡슐화합니다. Microsoft Word와 같은 소프트웨어 응용 프로그램을 사용하면 MHT 파일로 내보내어 WORD 문서를 MHT로 변환할 수 있습니다. MHT 파일은 Microsoft Internet Explorer 및 Google Chrome과 같은 널리 사용되는 브라우저를 사용하여 열 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG(Portable Network Graphics) 파일은 무손실 압축을 사용하는 래스터 이미지 파일 형식입니다. 이 파일 형식은 Graphics Interchange Format(GIF)을 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 단, PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하므로 사용자들 사이에서 인기가 높습니다. 시간이 지남에 따라 PNG은 널리 사용되는 이미지 파일 형식 중 하나로 발전했습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht 확장자를 가진 파일은 다양한 유형의 데이터를 단일 파일에 포함하는 MIME 지원 보관 파일 형식입니다. 텍스트, 이미지, 페이지 스타일 등의 데이터를 CSS 파일, JavaScript 및 기타 리소스의 형태로 포함된 리소스로 저장할 수 있습니다. MIME 유형 메시지/rfc822를 갖는 MHT 파일은 HTML 파일의 모든 내용을 저장 장치에 보관하기 위한 단일 보관 파일로 캡슐화합니다. Microsoft Word와 같은 소프트웨어 응용 프로그램을 사용하면 MHT 파일로 내보내 WORD 문서를 MHT로 변환할 수 있습니다. MHT 파일은 Microsoft Internet Explorer 및 Google Chrome과 같은 널리 사용되는 브라우저를 사용하여 열 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="IMAGE를 아래 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 아래 나열된 몇 가지 파일 형식을 포함하여 IMAGE를 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-bmp/" name="이미지를 BMP로" description="비트맵 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-emf/" name="이미지를 EMF로" description="향상된 메타파일 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-gif/" name="이미지를 GIF로" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-html/" name="이미지를 HTML로" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-bmp/" name="BMP에 대한 이미지" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-emf/" name="EMF에 대한 이미지" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-gif/" name="GIF에 대한 이미지" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-html/" name="HTML에 대한 이미지" description="하이퍼텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-md/" name="이미지를 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-mhtml/" name="이미지를 MHTML로" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-ods/" name="이미지를 ODS로" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-pdf/" name="이미지를 PDF로" description="휴대용 문서 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-png/" name="이미지를 PNG로" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-svg/" name="이미지를 SVG로" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-tiff/" name="이미지를 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-tsv/" name="이미지를 TSV로" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-txt/" name="이미지를 TXT로" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xls/" name="이미지를 XLS로" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsb/" name="이미지를 XLSB로" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsm/" name="이미지를 XLSM로" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsx/" name="이미지를 XLSX로" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlt/" name="이미지를 XLT로" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="이미지를 XLTM로" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="이미지를 XLTX로" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-mhtml/" name="MHTML에 대한 이미지" description="웹페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-ods/" name="ODS에 대한 이미지" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-pdf/" name="PDF에 대한 이미지" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-png/" name="PNG에 대한 이미지" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-svg/" name="SVG에 대한 이미지" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-tiff/" name="TIFF에 대한 이미지" description="태그된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-tsv/" name="TSV에 대한 이미지" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-txt/" name="TXT에 대한 이미지" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xls/" name="XLS에 대한 이미지" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsb/" name="XLSB에 대한 이미지" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsm/" name="XLSM에 대한 이미지" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlsx/" name="XLSX에 대한 이미지" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xlt/" name="XLT에 대한 이미지" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="XLTM에 대한 이미지" description="Excel 매크로 지원 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="XLTX에 대한 이미지" description="Office OpenXML 엑셀 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xml/" name="이미지를 XML로" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="이미지를 XPS로" description="XML 문서 사양" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="이미지를 JSON로" description="자바스크립트 객체 표기법" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="이미지를 JPEG로" description="JPEG 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="XPS에 대한 이미지" description="XML 용지 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="JSON에 대한 이미지" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="JPEG에 대한 이미지" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

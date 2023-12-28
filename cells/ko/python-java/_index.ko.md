@@ -1,10 +1,11 @@
 ---
 title:  Python 엑셀 스프레드시트 API - Aspose
 weight: 2820
-description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스프레드시트 라이브러리.
+description: Python Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환하는 라이브러리입니다. Excel을 PDF, JSON, HTML, TXT 및 기타 널리 사용되는 형식으로 변환합니다.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 스프레드시트 구문 분석 API" h2="Python 애플리케이션 내에서 Excel 파일을 여러 형식으로 내보낼 뿐만 아니라 스프레드시트를 생성, 읽기, 쓰기 또는 조작합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 스프레드시트 구문 분석 API" h2="Python 애플리케이션 내에서 스프레드시트를 생성, 읽기, 쓰기 또는 조작하고 Excel 파일을 여러 형식으로 내보낼 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
@@ -12,7 +13,7 @@ description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 추출할 뿐만 아니라 조작할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최상의 솔루션입니다.
+Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 조작 및 추출할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,21 +21,21 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="API 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="API 기능의 개요입니다." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- 가져오기 및 가져오기 내보내다
+ 수입 &amp; 내보내다
    </header>
    <ul>
     <li>
  배열
     </li>
     <li>
- 결과 집합
+ 결과세트
     </li>
     <li>
 컬렉션
@@ -104,7 +105,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Python via Java에 사용할 수 있습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Python via Java 에 사용 가능합니다." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +145,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Python excel 라이브러리는 널리 사용되는 Microsoft Excel 형식, 고정 레이아웃 형식 및 이미지를 지원합니다." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Python Excel 라이브러리는 널리 사용되는 Microsoft Excel 형식, 고정 레이아웃 형식 및 이미지를 지원합니다." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -185,7 +186,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -234,7 +235,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-고급 Python Excel API 기능
+ 고급 Python 엑셀 API 기능
    </h2>
    <p>
    </p>
@@ -256,7 +257,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 통합 문서 내에서 워크시트 조정
+ 통합 문서 내의 워크시트 조정
     </p>
    </div>
    <div class="col-lg-4">
@@ -284,7 +285,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 셀 수준에서 주석 추가 및 편집
+ 셀 수준에서 설명 추가 및 편집
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,14 +306,14 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 행과 열에 그룹화 추가 또는 제거
+행과 열에 그룹화 추가 또는 제거
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 숫자 형식 설정
+ 숫자 서식 설정
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +334,14 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 페이지 방향, 크기 조정, 용지 크기 조정
+ 페이지 방향, 배율, 용지 크기 조정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 읽기 및 읽기 조건부 서식 작성
+ 읽기 &amp; 조건부 서식 작성
     </p>
    </div>
    <!--
@@ -415,11 +416,11 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
  여러 형식 변환
     </h2>
     <p>
- Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환은 업계 표준 형식으로 파일을 교환해야 하는 회사를 위한 완벽한 솔루션입니다.
+ Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환을 통해 업계 표준 형식으로 파일을 교환해야 하는 기업에 완벽한 솔루션이 됩니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-다른 형식으로 스프레드시트 저장 - Java
+스프레드시트를 다양한 형식으로 저장 - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  유연한 디스플레이 옵션
     </h2>
     <p>
- Aspose.Cells for Python via Java 페이지 나누기 미리보기, 확대/축소 수준 설정, 페이지 방향 설정, 창 고정으로 데이터 가시성 제어, 용지 크기, 배율 조정, 머리글 &amp; 바닥글 및 인쇄 영역.
+ Aspose.Cells for Python via Java은 페이지 나누기 미리보기, 확대/축소 레벨 설정, 페이지 방향 설정, 고정 창을 통한 데이터 가시성 제어, 용지 크기, 배율, 헤더 및 헤더와 같은 여러 표시 옵션을 조작할 수 있는 페이지 설정에 대한 전체 제어 기능을 제공합니다. 바닥글 및 인쇄 영역.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -483,15 +484,15 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Excel 시트 데이터 관리
     </h2>
     <p>
- Aspose.Cells for Python via Java API은 워크시트 데이터 관리를 위한 광범위한 지원을 제공합니다. 런타임에 워크시트의 모든 셀을 쉽게 조작하거나 다양한 데이터 소스에서 워크시트로 데이터를 가져올 수 있습니다.
+ Aspose.Cells for Python via Java API은 워크시트 데이터 관리에 대한 광범위한 지원을 제공합니다. 런타임 시 워크시트의 모든 셀을 쉽게 조작하거나 다양한 데이터 소스에서 워크시트로 데이터를 가져올 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 차트 사용자 정의
+차트 사용자 정의
     </h2>
     <p>
-Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 사용하여 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
+Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 통해 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
     </p>
    </div>
    <!--
@@ -514,10 +515,10 @@ Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니�
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API 참조" href="https://reference.aspose.com/cells/python-java" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API 참고자료" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -527,7 +528,7 @@ Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니�
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Python via Java인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

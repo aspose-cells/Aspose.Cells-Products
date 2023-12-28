@@ -1,7 +1,8 @@
 ---
 title:  Sblocca il documento XLSB via .NET
 weight: 6410
-description: C# codice sorgente per sbloccare il file XLSB protetto da password su .NET Framework, .NET Core, Mono o Xamarin Platforms.
+description: Codice sorgente C# per sbloccare il file XLSB protetto da password su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
+keywords: [C# Aspose.Cells., c# unlock XLSB files., c# how to unlock XLSB document., c# unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sblocca il foglio di calcolo XLSB tramite C#" h2="Rimuovere la protezione da XLSB utilizzando la libreria .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,13 +12,13 @@ description: C# codice sorgente per sbloccare il file XLSB protetto da password 
 
 {{% blocks/products/pf/agp/content h2="Come sbloccare il file XLSB utilizzando C#" %}}
 
- Per rimuovere il file di protezione XLSB, useremo
+ Per rimuovere la protezione del file XLSB, utilizzeremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che è una protezione dei documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -39,14 +40,14 @@ PM> Install-Package Aspose.Cells
 
  Hai bisogno
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
- referenziato nel progetto per eseguire il flusso di lavoro seguente.
+ riferimento nel progetto per eseguire il seguente flusso di lavoro.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crea un'istanza della classe Workbook con il percorso del file XLSB protetto
-1.  Ottieni il foglio di lavoro predefinito o qualsiasi per rimuovere la protezione
+1.  Crea un'istanza della classe Workbook con il percorso del file protetto XLSB
+1.  Ottieni il foglio di lavoro predefinito o qualsiasi altro per rimuovere la protezione
 1.  Rimuovi la protezione del foglio di lavoro con il metodo Worksheet.Unprotect
-1.  Rimuovi la protezione della cartella di lavoro con il metodo Workbook.Unprotect
+1.  Rimuovere la protezione della cartella di lavoro con il metodo Workbook.Unprotect
 1.  Salva il risultato nel formato XLSB
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -59,7 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o piattaforme Xamarin
 -  Ambiente di sviluppo come Microsoft Visual Studio
 -  Aggiungi riferimento alla DLL Aspose.Cells for .NET nel tuo progetto
 
@@ -95,9 +96,9 @@ workbook.Save("unprotected.xlsb", Aspose.Cells.SaveFormat.Auto);
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -105,14 +106,14 @@ workbook.Save("unprotected.xlsb", Aspose.Cells.SaveFormat.Auto);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLSB" sectionDescription=" Dai un\'occhiata alle nostre demo live per[sbloccare i file XLSB](https://products.aspose.app/cells/unlock/xlsb) con i seguenti benefici." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLSB" sectionDescription=" Controlla le nostre demo dal vivo per[sbloccare i file XLSB](https://products.aspose.app/cells/unlock/xlsb) con i seguenti vantaggi." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere o compilare codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il file XLSB e premere il pulsante \"Sblocca\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scarica il file XLSB risultante dal link" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scaricare il file XLSB risultante dal collegamento" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Il formato di file XLSB specifica il formato di file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semi-strutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (basato sul formato di file Open XML), XLSB rappresenta il file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e superiori.
+Il formato file XLSB specifica il formato file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semistrutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (che si basa sul formato file Open XML), XLSB rappresenta un file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e versioni successive.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,11 +121,11 @@ Il formato di file XLSB specifica il formato di file binario di Excel, ovvero un
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C#, è possibile rimuovere facilmente la protezione / sblocco di diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C#, è possibile rimuovere facilmente la protezione/sblocco di diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

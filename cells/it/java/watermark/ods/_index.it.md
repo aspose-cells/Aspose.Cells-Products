@@ -1,7 +1,8 @@
 ---
-title:  Filigrana ODS documento via Java
+title: Filigrana ODS documento via Java
 weight: 1040
-description: Java codice di esempio per aggiungere o rimuovere la filigrana al file ODS in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+description: Codice di esempio Java per aggiungere o rimuovere la filigrana nel file ODS nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
+keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Aggiungi filigrana di testo a ODS via Java" h2="Crea le tue app Java per filigranare i file ODS utilizzando le API lato server." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file ODS utilizzando Java" %}}
 
- Per filigranare il file ODS, useremo
+ Per filigranare il file ODS, utilizzeremo
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di watermarking API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare l'ultima versione direttamente da
+ API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -49,7 +50,7 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere filigrana a ODS via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere la filigrana a ODS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -58,7 +59,7 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 1.  Crea un nuovo oggetto cartella di lavoro
 1.  Seleziona Foglio di lavoro tramite il suo indice
 1.  Crea una forma e usa la sua funzione addTextEffect
-1.  Imposta colori, trasparenza e altro
+1.  Imposta colori, trasparenza e altro ancora
 1.  Salva la cartella di lavoro nel formato ODS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,11 +68,11 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java supporta su tutte le principali piattaforme e sistemi operativi. Assicurati di avere i seguenti prerequisiti.
+ Aspose.Cells for Java supporta tutte le principali piattaforme e sistemi operativi. Assicurati di possedere i seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -117,9 +118,9 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for Java API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -127,14 +128,14 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana ODS tramite app online" sectionDescription=" Aggiungi filigrana ai documenti ODS visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/watermark). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana ODS tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti ODS visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file ODS, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il link per il download del file risultante" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-file con estensione ODS rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
+file con estensione ODS indicano il formato del documento OpenDocument Spreadsheet modificabile dall'utente. I dati vengono archiviati nel file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e mantenute da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,11 +143,11 @@ file con estensione ODS rappresentano il formato del documento OpenDocument Spre
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando Java, è possibile filigranare facilmente diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando Java, è possibile filigranare facilmente diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,10 +1,10 @@
 ---
 title: Esporta report in Excel XLS XLSX PDF ODS in JasperReports e JasperServer
 weight: 9460
-description: Esporta i report da Jasper Reports e JasperServer in formato Excel XLS XLSX PDF ODS TXT e SpreadsheetML. Stampa anche report come fogli di calcolo Excel
+description: Esporta report da Jasper Reports e JasperServer nel formato Excel XLS XLSX PDF ODS TXT e SpreadsheetML. Stampa anche i report come fogli di calcolo Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Estensione JasperReports per esportare report come formati Excel" h2="Esporta report in Microsoft Foglio di calcolo Excel in più formati." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Estensione JasperReports per esportare report in formato Excel" h2="Esporta report in fogli di calcolo Excel Microsoft in più formati." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports è un'affidabile estensione JasperReports e JasperServer che offre l'esportazione di report nei formati Microsoft Excel XLS, XLSX, PDF, ODS, TXT e SpreadsheetML senza utilizzare 0 76193481 Excel. Funziona come alternativa all'exporter Excel Microsoft originale di JasperReports ed elimina la dipendenza dalla libreria POI.
+ Aspose.Cells for JasperReports è un'estensione JasperReports e JasperServer affidabile che offre l'esportazione di report nei formati Microsoft Excel XLS, XLSX, PDF, ODS, TXT e SpreadsheetML senza utilizzare 076 193481 Excel. Funziona come alternativa all'esportatore Excel originale Microsoft di JasperReports ed elimina la dipendenza dalla libreria POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle caratteristiche di Aspose.Cells for JasperReports\'." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità di Aspose.Cells for JasperReports\'." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,7 +33,7 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
    <header>
     <i class="fa fa-table">
     </i>
- Elevata fedeltà alla progettazione dei report
+ Alta fedeltà alla progettazione dei report
    </header>
   </div>
   <!--/left-->
@@ -82,13 +82,13 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- J2SE 1.6 o superiore
+ J2SE 1.6 o successiva
    </header>
    <br/>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
- JasperReports 6.3.0 o superiore
+ JasperReports 6.3.0 o successiva
    </header>
   </div>
   <!--/right-->
@@ -113,7 +113,7 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for JasperReports consente di esportare i report direttamente sul[seguenti formati](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for JasperReports permette di esportare i report direttamente sul[seguenti formati](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
      XLS, XLSX
     </li>
@@ -205,14 +205,14 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Stampa report come fogli di calcolo
+ Stampa i report come fogli di calcolo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Esporta i file Excel come fogli di calcolo modificabili
+ Esporta file Excel come fogli di calcolo modificabili
     </p>
    </div>
    <div class="col-lg-12">
@@ -220,15 +220,15 @@ description: Esporta i report da Jasper Reports e JasperServer in formato Excel 
  Esporta report nei formati Excel Microsoft
     </h2>
     <p>
- Aspose.Cells for JasperReports fornisce la funzionalità di esportazione dei report direttamente nei formati Excel Microsoft come XLS &amp; XLSX. Inoltre, puoi anche esportare i report in SpreadsheetML, ODS, CSV &amp; Formati delimitati da tabulazioni per soddisfare le tue esigenze aziendali.
+ Aspose.Cells for JasperReports fornisce la funzionalità di esportazione dei report direttamente nei formati Excel Microsoft come XLS &amp; XLSX. Inoltre, puoi anche esportare i rapporti in SpreadsheetML, ODS, CSV &amp; Formati delimitati da tabulazioni per soddisfare le vostre esigenze aziendali.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Elevata fedeltà alla progettazione dei report
+ Alta fedeltà alla progettazione dei report
     </h2>
     <p>
-Aspose.Cells for JasperReports esporta report nei formati supportati con la massima precisione, ovvero; sembra report identici esportati dalle funzioni di esportazione native di JasperReports.
+Aspose.Cells for JasperReports esporta report nei formati supportati con la massima precisione, ovvero; sembrano report identici esportati dalle funzioni di esportazione native di JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
@@ -236,15 +236,15 @@ Aspose.Cells for JasperReports esporta report nei formati supportati con la mass
  Fogli di calcolo Excel modificabili
     </h2>
     <p>
- Aspose.Cells for JasperReports esporta i documenti Excel come fogli di calcolo completamente modificabili. Supporta i grafici Excel Microsoft e qualsiasi grafico esportato tramite il motore di rendering Aspose sarà disponibile come grafico modificabile piuttosto che come immagine statica, consentendo così agli utenti finali di modificare manualmente i grafici in Microsoft Excel.
+ Aspose.Cells for JasperReports esporta documenti Excel come fogli di calcolo completamente modificabili. Supporta i grafici Excel Microsoft e qualsiasi grafico esportato tramite il motore di rendering Aspose sarà disponibile come grafico modificabile anziché come immagine statica, consentendo così agli utenti finali di modificare manualmente i grafici in Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Domotica – Non necessaria
+ Microsoft Automazione d'ufficio – Non necessaria
     </h2>
     <p>
- Aspose.Cells for JasperReports esportatore sviluppato utilizzando codice gestito che non ha mai bisogno di Microsoft Excel o Microsoft Office da installare sulla macchina per lavorare con formati di documenti Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di stabilità, scalabilità, funzionalità supportate, sicurezza, prezzo e velocità.
+ Aspose.Cells for JasperReports esportatore sviluppato utilizzando codice gestito che non necessita mai di Microsoft Excel o Microsoft Office da installare sulla macchina per lavorare con documenti in formato Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di stabilità, scalabilità, funzionalità supportate, sicurezza, prezzo e velocità.
     </p>
    </div>
   </div>
@@ -259,18 +259,18 @@ Aspose.Cells for JasperReports esporta report nei formati supportati con la mass
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for JasperReports?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -278,7 +278,7 @@ Aspose.Cells for JasperReports esporta report nei formati supportati con la mass
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

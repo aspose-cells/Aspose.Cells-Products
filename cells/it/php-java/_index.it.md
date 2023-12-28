@@ -1,10 +1,10 @@
 ---
 title:  Foglio di calcolo Excel PHP API - Aspose
 weight: 3660
-description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire XLS XLSX CSV TSV HTML ODS SpreadsheetML e tutti i formati Excel 97-2016. Esporta fogli di calcolo in più formati
+description: Foglio di calcolo PHP Excel API per leggere, scrivere e convertire XLS XLSX CSV TSV HTML ODS SpreadsheetML e tutti i formati Excel 97-2016. Esporta fogli di calcolo in più formati
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Foglio di calcolo PHP Excel API" h2="Esegui attività di manipolazione del foglio di calcolo ed esporta file Excel in più formati senza dipendenze Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Foglio di calcolo Excel PHP API" h2="Esegui attività di manipolazione dei fogli di calcolo ed esporta file Excel in più formati senza alcuna dipendenza da Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -12,7 +12,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java è una gestione ed elaborazione di fogli di calcolo Excel scalabile e ricca di funzionalità API. Le applicazioni possono eseguire la conversione del formato del foglio di calcolo, la gestione e il rendering dei grafici, l'implementazione di formule, lo stile dei fogli di lavoro al livello più granulare e molto altro. API supporta XLS, XLSX, ODS, SpreadsheetML, CSV, delimitato da tabulazioni, HTML/MHTML, PDF, XPS e altri formati. Gli sviluppatori possono facilmente aggiungere la possibilità di creare, modificare, convertire e rendere i file Excel nelle loro applicazioni PHP durante l'utilizzo di JavaBridge.
+ Aspose.Cells for PHP via Java è un programma di gestione ed elaborazione di fogli di calcolo Excel scalabile e ricco di funzionalità API. Le applicazioni possono eseguire la conversione del formato del foglio di calcolo, la gestione e il rendering dei grafici, l'implementazione di formule, lo stile dei fogli di lavoro al livello più granulare e molto altro ancora. API supporta XLS, XLSX, ODS, SpreadsheetML, CSV, delimitato da tabulazioni, HTML/MHTML, PDF, XPS e altri formati. Gli sviluppatori possono facilmente aggiungere la possibilità di creare, modificare, convertire ed eseguire il rendering di file Excel nelle loro applicazioni PHP durante l'utilizzo di JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -98,7 +98,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em>
  per
     </em>
- PHP via Java
+ PHPvia Java
    </small>
   </footer>
  </div>
@@ -107,7 +107,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for PHP via Java richiede PHP 7.1 (o superiore) e JavaBridge. Può essere eseguito su qualsiasi piattaforma in cui questi requisiti possono essere soddisfatti." >}}
+{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Cells for PHP via Java richiede PHP 7.1 (o superiore) e JavaBridge. Può essere eseguito su qualsiasi piattaforma in cui è possibile soddisfare questi requisiti." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -156,7 +156,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em>
  per
     </em>
- PHP via Java
+ PHPvia Java
    </small>
   </footer>
  </div>
@@ -165,7 +165,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells for PHP via Java supporta i formati di foglio di calcolo più diffusi insieme ai formati di immagine e layout fisso più comunemente utilizzati." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells for PHP via Java supporta i formati di fogli di calcolo più diffusi insieme ai formati di immagine e a layout fisso più comunemente utilizzati." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -177,7 +177,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ MicrosoftExcel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -236,7 +236,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em>
  per
     </em>
- PHP via Java
+ PHPvia Java
    </small>
   </footer>
  </div>
@@ -255,7 +255,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Funzioni avanzate del foglio di calcolo PHP API
+ Foglio di calcolo PHP avanzato API Caratteristiche
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -264,28 +264,28 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Supporto per CSV, delimitato da tabulazioni e amp; HTML formati
+ Supporto per CSV, delimitato da tabulazioni e amp; formati HTML
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Carica & amp; salva il formato OpenDocument Spreadsheet (ODS).
+ Carica e salva il formato del foglio di calcolo OpenDocument (ODS).
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea, manipola e amp; grafici di rendering
+ Crea, manipola e amp; eseguire il rendering dei grafici
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Importa le formule da un foglio di calcolo del designer
+ Importa formule da un foglio di calcolo del designer
     </p>
    </div>
    <div class="col-lg-4">
@@ -313,14 +313,14 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Imposta & amp; calcolare formule complesse
+ Imposta e calcolare formule complesse
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare le regole di formattazione condizionale
+ Crea e crea manipolare le regole di formattazione condizionale
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,14 +334,14 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare gli intervalli denominati
+ Crea e crea manipolare intervalli denominati
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Popola i fogli di lavoro tramite i marcatori intelligenti
+ Popola i fogli di lavoro tramite gli indicatori intelligenti
     </p>
    </div>
    <div class="col-lg-4">
@@ -355,26 +355,26 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Esporta i fogli di lavoro nel formato SVG
+ Esporta fogli di lavoro nel formato SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; rendere gli sparkline
+ Crea e crea eseguire il rendering delle linee sparkline
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Converti file Excel in XPS, PDF &amp; HTML
+ Converti file Excel in XPS, PDF e amp; HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API è in grado di convertire i file Excel nei formati XPS, XPS e HTML oltre a mantenere la massima fedeltà visiva. Il processo di conversione è affidabile e gli sviluppatori possono ottenere il formato richiesto con poche righe.
+Aspose.Cells for PHP via Java API è in grado di convertire file Excel nei formati XPS, XPS e HTML oltre a mantenere la massima fedeltà visiva. Il processo di conversione è affidabile e gli sviluppatori possono ottenere il formato richiesto con poche righe.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Salva foglio di calcolo in più formati - PHP
+ Salva il foglio di calcolo in più formati - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -393,10 +393,10 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Rendering di fogli di calcolo Excel &amp; Oggetti a PDF &amp; immagini
+ Rendering di fogli di calcolo Excel e amp; Oggetti a PDF &amp; immagini
     </h2>
     <p>
- Aspose.Cells for PHP via Java dispone di un proprio motore di rendering appositamente progettato per il rendering con la massima fedeltà a Microsoft Excel. Durante l'utilizzo di Aspose.Cells for PHP via Java, puoi convertire interi fogli di lavoro, singoli fogli di lavoro e amp; grafici a una serie di immagini e amp; formati a layout fisso.
+ Aspose.Cells for PHP via Java ha il proprio motore di rendering appositamente progettato per il rendering con la massima fedeltà a Microsoft Excel. Durante l'utilizzo di Aspose.Cells for PHP via Java, puoi convertire interi fogli di calcolo, fogli di lavoro individuali e amp; grafici a una serie di immagini e amp; formati a layout fisso.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,15 +404,15 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Opzioni flessibili di visualizzazione del foglio di lavoro
     </h2>
     <p>
- Aspose.Cells for PHP via Java ti offre il controllo completo sull'impostazione della pagina del foglio di lavoro, consentendoti così di manipolare le opzioni di visualizzazione del foglio di lavoro Excel come interruzioni di pagina, orientamento della pagina, ridimensionamento, dimensioni della carta, intestazioni/piè di pagina e amp; livello di ingrandimento. Puoi anche controllare la visibilità dei dati utilizzando i riquadri di blocco e amp; area di stampa per soddisfare i requisiti dell'applicazione.
+Aspose.Cells for PHP via Java ti dà il controllo completo sull'impostazione della pagina del foglio di lavoro permettendoti così di manipolare le opzioni di visualizzazione del foglio di lavoro Excel come interruzioni di pagina, orientamento della pagina, ridimensionamento, dimensioni della carta, intestazioni/piè di pagina e amp; livello di zoom. Puoi anche controllare la visibilità dei dati utilizzando i riquadri di blocco e amp; area di stampa in base ai requisiti dell'applicazione.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Efficiente, Robusto &amp; Motore affidabile per il calcolo delle formule
+ Efficiente, robusto e affidabile Motore di calcolo della formula affidabile
     </h2>
     <p>
-Aspose.Cells for PHP via Java è dotato di un potente motore di calcolo delle formule che supporta quasi tutte le formule e le funzioni di Excel Microsoft standard e avanzate. È possibile leggere, impostare e calcolare i risultati di formule di tipo, matrice e stile di riferimento R1C1 integrate o aggiuntive.
+ Aspose.Cells for PHP via Java è dotato di un potente motore di calcolo delle formule che supporta quasi tutte le formule e le funzioni Excel standard e avanzate di Microsoft. È possibile leggere, impostare e calcolare i risultati di formule di tipo integrato o aggiuntivo, matrice e stile di riferimento R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -420,10 +420,10 @@ Aspose.Cells for PHP via Java è dotato di un potente motore di calcolo delle fo
  Visualizza i dati con formattazione, grafici e amp; Grafica
     </h2>
     <p>
- La libreria è così flessibile che è possibile fornire fogli di calcolo con tutti i tipi di effetti visivi, nonché applicare la formattazione a un foglio di lavoro, riga, colonna o cella, impostare i caratteri con attributi, definire lo stile della cella e il software. formati numerici, aggiungere Rich Text e definire regole di formattazione condizionale.
+ La libreria è così flessibile che è possibile fornire fogli di calcolo con tutti i tipi di effetti visivi, nonché applicare la formattazione a un foglio di lavoro, riga, colonna o cella, impostare caratteri con attributi, definire stili di cella e amp; formati numerici, aggiungere Rich Text e definire regole di formattazione condizionale.
     </p>
     <p>
- Allo stesso modo, per un aspetto professionale e una facile comprensione, tabelle e grafici sono parti integranti. Aspose.Cells for PHP via Java Le API possono creare e manipolare tutti i tipi di grafici standard e personalizzati. Inoltre, è possibile aggiungere facilmente diversi tipi di oggetti di disegno alle celle.
+Allo stesso modo, per un aspetto professionale e una facile comprensione, grafici e grafici sono parti integranti. Aspose.Cells for PHP via Java Le API possono creare e manipolare tutti i tipi di grafici standard e personalizzati. Inoltre, è possibile aggiungere facilmente diversi tipi di oggetti di disegno alle celle.
     </p>
    </div>
   </div>
@@ -438,18 +438,18 @@ Aspose.Cells for PHP via Java è dotato di un potente motore di calcolo delle fo
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referenze" href="https://reference.aspose.com/php/cells" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://reference.aspose.com/php/cells" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco Clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -457,7 +457,7 @@ Aspose.Cells for PHP via Java è dotato di un potente motore di calcolo delle fo
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/php" pricingInformationLink="https://purchase.aspose.com/pricing/cells/php-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre singole API di Excel per altri ambienti di sviluppo popolari come elencato di seguito:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offre API Excel individuali per altri ambienti di sviluppo popolari elencati di seguito:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

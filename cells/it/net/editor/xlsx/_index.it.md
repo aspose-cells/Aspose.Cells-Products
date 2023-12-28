@@ -1,6 +1,7 @@
 ---
-title:  Modifica XLSX file via .NET
-description: C# codice sorgente per modificare il documento XLSX su .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
+title:  Modifica file XLSX via .NET
+description: Codice sorgente C# per modificare il documento XLSX su .NET Framework, .NET Core, Windows Azure, Mono o piattaforme Xamarin.
+keywords: [C# Aspose.Cells., c# edit xlsx document., c# load xlsx file., c# modify xlsx file., c# save file to xlsx format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Modifica i formati XLSX in C#" h2="Modifica di documenti XLSX nativa e ad alte prestazioni utilizzando le API Aspose.Cells for .NET lato server, senza l\'uso di software come Microsoft o Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -10,7 +11,7 @@ description: C# codice sorgente per modificare il documento XLSX su .NET Framewo
 
 {{% blocks/products/pf/agp/content h2="Come modificare il file XLSX utilizzando C#" %}}
 
- Per modificare il file XLSX, useremo<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API che è una piattaforma ricca di funzionalità, potente e facile da usare API per C# per qualsiasi editor. Aprire<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestore pacchetti, cerca<b>Aspose.Cells</b> e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Per modificare il file XLSX, utilizzeremo<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API che è una piattaforma API per C# ricca di funzionalità, potente e facile da usare per qualsiasi editor. Aprire<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestore pacchetti, cerca<b>Aspose.Cells</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -26,17 +27,20 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passaggi per la modifica dei file XLSX in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Passaggi per modificare i file XLSX in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Una modifica di base del documento con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Le API possono essere eseguite con poche righe di codice.
+ Una modifica di base dei documenti con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Includi lo spazio dei nomi nel file della classe
+1.  Carica il file di esempio.
+1. Aggiungi e accedi al nuovo foglio di lavoro della cartella di lavoro.
+1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
+1.  Inserisci la tabella pivot e imposta lo stile
+1.  Utilizzare il metodo Salva per salvare la cartella di lavoro come file XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Modifica file XLSX - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xlsx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +73,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -80,14 +81,14 @@ code here
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Editor Live Demo" sectionDescription=" Modifica subito i documenti XLSX visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/editor). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Editor demo live" sectionDescription=" Modifica i documenti XLSX in questo momento visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/editor). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica i tuoi file XLSX, usa l\'editor online per modificarli all\'istante." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file XLSX, utilizzare l\'editor online per la modifica istantanea." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Quindi salva e scarica." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
- XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le Open Packaging Conventions come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene un numero di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.
+ XLSX è un formato noto per i documenti Excel Microsoft introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le convenzioni Open Packaging come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene una serie di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

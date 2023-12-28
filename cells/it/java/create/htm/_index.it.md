@@ -1,7 +1,7 @@
 ---
-title: Crea HTM - Crea file HTM in Java
-description: Aspose Excel. Java Crea file HTM. Crea HTM Java. Java HTM Creator. Crea HTM in Java. Genera file HTM utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create HTM Java., Java HTM Creater., Create HTM file in Java., Generate HTM file in Java]
+title: "Crea HTM: crea il file HTM in Java"
+description:  Aspose Excel. Java Crea file HTM in modo rapido e semplice con Aspose.Cells. Genera file HTM utilizzando Java. Crea HTM in Java. Java HTM Creator.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create HTM file., Generate HTM file in Java., Create HTM file using Java., Write data to HTM file via Java., Create a HTM file in Java., Java Generate a HTM file., Java HTM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file HTM in Java" h2="Libreria Java ad alta velocità per la creazione di file HTM. Questa è una soluzione software professionale per importare ed esportare XLSX, PDF e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create HTM Java., Java HTM Creater
 
 {{% blocks/products/pf/agp/content h2="Crea file HTM utilizzando Java" %}}
 
- Come creare un file HTM? Con la libreria Aspose.Cells for Java, puoi facilmente creare file HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come creare un file HTM? Con la libreria Aspose.Cells for Java, puoi creare facilmente file HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -50,16 +50,16 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create HTM Java., Java HTM Creater
 
 {{% blocks/products/pf/agp/text %}}
 
- È facile per gli sviluppatori creare, caricare, modificare e convertire i file HTM all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori creare, caricare, modificare e convertire file HTM eseguendo diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crea un'istanza di[Classe di cartella di lavoro](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1.  Crea un'istanza di[Classe cartella di lavoro](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Accedi al foglio di lavoro pertinente utilizzando il metodo getWorksheets.get().
 1.  Seleziona la cella pertinente, inserisci il valore nella cella desiderata utilizzando il nome della cella, come A1, B3, ecc.
-1.  Salva la cartella di lavoro in formato HTM usando il metodo save().
+1.  Salva la cartella di lavoro in formato HTM utilizzando il metodo save().
 
-{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare un file HTM in Java." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file HTM in Java." offSpacer="" %}}
 
 ```cs
 
@@ -89,10 +89,10 @@ wkb.save("Excel.htm");
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per creare file HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per creare file HTM" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -101,33 +101,33 @@ wkb.save("Excel.htm");
 
 {{% blocks/products/pf/agp/text %}}
 
-Prima di eseguire il codice sorgente dell'esempio di conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente dell'esempio di conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
-- Aspose.Cells for Java supporta le seguenti versioni Java: J2SE 6.0 (1.6), J2SE 7.0 (1.7) o superiore.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
+- Aspose.Cells for Java supporta le seguenti versioni Java: J2SE 6.0 (1.6), J2SE 7.0 (1.7) o successiva.
 - [Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.](https://docs.aspose.com/cells/java/installation/) 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre generazioni di fogli di calcolo supportate" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altra generazione di fogli di calcolo supportata" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Foglio di calcolo con attivazione macro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Excel 97 - Modello 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xlt/" name="XLT" description="Modello Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltx/" name="XLTX" description="Modello Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/csv/" name="CSV" description="valori separati da virgola" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/tsv/" name="TSV" description="Valori separati da tabulazione" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 

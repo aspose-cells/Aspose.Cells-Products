@@ -1,7 +1,7 @@
 ---
-title: Python MHTML a SQL - Convertitore online da MHTML a SQL
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online gratuito Python Converti MHTML in formato di salvataggio SQL. Python MHTML in formato SQL. Salva MHTML in SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to SQL saveformat., Free Online MHTML to SQL Python., Python Convert MHTML to SQL]
+title: Python MHTML in SQL - MHTML in SQL Convertitore
+description: Aspose Excel. Converti MHTML in SQL in modo rapido e semplice con Aspose.Cells. Python MHTML in SQL. Python Salva MHTML in SQL. Salva MHTML come SQL utilizzando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to SQL in Python., Save MHTML to SQL using Python., Python MHTML to SQL saveformat., MHTML to SQL Converter., Python Save MHTML as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHTML in SQL in Python" h2="Libreria Python ad alta velocità per la conversione di MHTML in SQL. Questa è una soluzione software professionale per importare ed esportare MHTML, SQL e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Converti MHTML in SQL utilizzando Python" %}}
 
- Come posso convertire MHTML in SQL? Con la libreria Aspose.Cells for Python, puoi facilmente convertire MHTML in SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come converto MHTML in SQL? Con la libreria Aspose.Cells for Python, puoi convertire facilmente MHTML in SQL a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva MHTML in SQL in Python online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva MHTML in SQL in Python" %}}
 
-L'esempio seguente mostra come convertire MHTML in SQL in Python.
+L'esempio seguente dimostra come convertire MHTML in SQL in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Segui i semplici passaggi per convertire MHTML in SQL. Carica il tuo file MHTML, quindi salvalo semplicemente come file SQL. Sia per la lettura MHTML che per la scrittura SQL è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SQL di output saranno identici al documento MHTML originale.
+Segui i semplici passaggi per convertire MHTML in SQL. Carica il tuo file MHTML, quindi salvalo semplicemente come file SQL. Sia per la lettura MHTML che per la scrittura SQL è possibile utilizzare nomi di file completi. Il contenuto e la formattazione SQL di output saranno identici al documento originale MHTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire MHTML in SQL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire MHTML in SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHTML in SQL tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file MHTML in SQL a livello di programmazione? Gli sviluppatori di Python possono facilmente caricare e convertire MHTML in SQL in poche righe di codice.
+È necessario convertire i file MHTML in SQL a livello di codice? Gli sviluppatori di Python possono caricare e convertire facilmente MHTML in SQL in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file MHTML con un'istanza di Workbook.
 1.  Converti MHTML in SQL chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di MHTML in SQL.
+1.  Ottieni il risultato della conversione da MHTML a SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per convertire MHTML in SQL" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per convertire MHTML in SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,47 +63,47 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}file con estensione MHTML rappresentano un formato di archivio di pagine Web che può essere creato da diverse applicazioni. Il formato è noto come formato di archivio perché salva il codice web HTML e le risorse associate in un unico file. Queste risorse includono tutto ciò che è collegato alla pagina Web come immagini, applet, animazioni, file audio e così via. I file MHTML possono essere aperti in una varietà di applicazioni come Internet Explorer e Microsoft Word. Microsoft Windows utilizza il formato di file MHTML per la registrazione di scenari di problemi osservati durante l'utilizzo di qualsiasi applicazione su Windows che solleva problemi. Il formato di file MHTML codifica i contenuti della pagina in modo simile alle specifiche definite in message/rfc822 che sono specifiche relative alle e-mail in testo normale.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file SQL (Structured Query Language) che contiene il codice per lavorare con i database relazionali. Viene utilizzato per scrivere istruzioni SQL per le operazioni CRUD (Create, Read, Update e Delete) sui database. I file SQL sono comuni mentre si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}file con estensione MHTML rappresentano un formato di archivio di pagine Web che può essere creato da numerose applicazioni diverse. Il formato è noto come formato archivio perché salva il codice web HTML e le risorse associate in un unico file. Queste risorse includono qualsiasi cosa collegata alla pagina web come immagini, applet, animazioni, file audio e così via. I file MHTML possono essere aperti in una varietà di applicazioni come Internet Explorer e Microsoft Word. Microsoft Windows utilizza il formato file MHTML per registrare scenari di problemi osservati durante l'utilizzo di qualsiasi applicazione su Windows che solleva problemi. Il formato file MHTML codifica il contenuto della pagina in modo simile alle specifiche definite in message/rfc822 che sono specifiche relative alle e-mail in testo semplice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un file con estensione .sql è un file Structured Query Language (SQL) che contiene codice per funzionare con database relazionali. Viene utilizzato per scrivere istruzioni SQL per operazioni CRUD (Crea, Leggi, Aggiorna ed Elimina) sui database. I file SQL sono comuni quando si lavora con database desktop e basati sul Web. Esistono diverse alternative a SQL come Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e molti altri. I file SQL possono essere aperti dagli editor di query di Microsoft SQL Server, MySQL e altri editor di testo semplice come Blocco note sul sistema operativo Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire MHTML in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire MHTML in molti altri formati di file inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="MHTML ALLO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="MHTML ALLO EMF" description="Formato Metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-gif/" name="MHTML ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="MHTML ALLO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-md/" name="MHTML A MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="dallo MHTML allo BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="dallo MHTML allo EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-gif/" name="dallo MHTML allo GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="dallo MHTML allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-md/" name="MHTML AL MD" description="Linguaggio di ribasso" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-ods/" name="MHTML ALLO ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-pdf/" name="MHTML ALLO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-png/" name="MHTML ALLO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-svg/" name="MHTML ALLO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-tiff/" name="MHTML ALLO TIFF" description="Formato immagine con tag" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-tsv/" name="MHTML ALLO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-txt/" name="MHTML ALLO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xls/" name="MHTML ALLO XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsb/" name="MHTML ALLO XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsm/" name="MHTML ALLO XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsx/" name="MHTML ALLO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlt/" name="MHTML ALLO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltm/" name="MHTML ALLO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltx/" name="MHTML ALLO XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xml/" name="MHTML A XML" description="Linguaggio di marcatura estensibile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xps/" name="MHTML ALLO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-json/" name="MHTML ALLO JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-ods/" name="dallo MHTML allo ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-pdf/" name="dallo MHTML allo PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-png/" name="dallo MHTML allo PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-svg/" name="dallo MHTML allo SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-tiff/" name="dallo MHTML allo TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-tsv/" name="dallo MHTML allo TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-txt/" name="dallo MHTML allo TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xls/" name="dallo MHTML allo XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsb/" name="dallo MHTML allo XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsm/" name="dallo MHTML allo XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlsx/" name="dallo MHTML allo XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlt/" name="dallo MHTML allo XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltm/" name="dallo MHTML allo XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltx/" name="dallo MHTML allo XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xml/" name="MHTML A XML" description="Linguaggio di markup estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xps/" name="dallo MHTML allo XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-json/" name="dallo MHTML allo JSON" description="Notazione oggetto JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

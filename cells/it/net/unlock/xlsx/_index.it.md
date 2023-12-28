@@ -1,7 +1,8 @@
 ---
 title:  Sblocca il documento XLSX via .NET
 weight: 2040
-description: C# codice sorgente per sbloccare il file XLSX protetto da password su .NET Framework, .NET Core, Mono o Xamarin Platforms.
+description: Codice sorgente C# per sbloccare il file XLSX protetto da password su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sblocca il foglio di calcolo XLSX tramite C#" h2="Rimuovere la protezione da XLSX utilizzando la libreria .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,13 +12,13 @@ description: C# codice sorgente per sbloccare il file XLSX protetto da password 
 
 {{% blocks/products/pf/agp/content h2="Come sbloccare il file XLSX utilizzando C#" %}}
 
- Per rimuovere il file di protezione XLSX, useremo
+ Per rimuovere la protezione del file XLSX, utilizzeremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che è una protezione dei documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -39,14 +40,14 @@ PM> Install-Package Aspose.Cells
 
  Hai bisogno
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
- referenziato nel progetto per eseguire il flusso di lavoro seguente.
+ riferimento nel progetto per eseguire il seguente flusso di lavoro.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Crea un'istanza della classe Workbook con il percorso del file XLSX protetto
-1.  Ottieni il foglio di lavoro predefinito o qualsiasi per rimuovere la protezione
+1.  Crea un'istanza della classe Workbook con il percorso del file protetto XLSX
+1.  Ottieni il foglio di lavoro predefinito o qualsiasi altro per rimuovere la protezione
 1.  Rimuovi la protezione del foglio di lavoro con il metodo Worksheet.Unprotect
-1.  Rimuovi la protezione della cartella di lavoro con il metodo Workbook.Unprotect
+1.  Rimuovere la protezione della cartella di lavoro con il metodo Workbook.Unprotect
 1.  Salva il risultato nel formato XLSX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -59,7 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o piattaforme Xamarin
 -  Ambiente di sviluppo come Microsoft Visual Studio
 -  Aggiungi riferimento alla DLL Aspose.Cells for .NET nel tuo progetto
 
@@ -95,9 +96,9 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -105,14 +106,14 @@ workbook.Save("unprotected.xlsx", Aspose.Cells.SaveFormat.Auto);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLSX" sectionDescription=" Dai un\'occhiata alle nostre demo live per[sbloccare i file XLSX](https://products.aspose.app/cells/unlock/xlsx) con i seguenti benefici." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per sbloccare XLSX" sectionDescription=" Controlla le nostre demo dal vivo per[sbloccare i file XLSX](https://products.aspose.app/cells/unlock/xlsx) con i seguenti vantaggi." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere o compilare codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il file XLSX e premere il pulsante \"Sblocca\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scarica il file XLSX risultante dal link" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scaricare il file XLSX risultante dal collegamento" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le Open Packaging Conventions come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene un numero di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.
+XLSX è un formato noto per i documenti Excel Microsoft introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le convenzioni Open Packaging come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene una serie di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,12 +121,12 @@ XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdo
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C#, è possibile rimuovere facilmente la protezione / sblocco di diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di sblocco supportati" subTitle="Utilizzando C#, è possibile rimuovere facilmente la protezione/sblocco di diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

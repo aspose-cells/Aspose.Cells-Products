@@ -1,23 +1,24 @@
 ---
 title: Crea grafici Excel e converti in immagini tramite C++
-description: C++ codice sorgente per disegnare e convertire grafici o diagrammi in Microsoft Excel utilizzando la libreria C++
+description: Codice sorgente C++ per disegnare e convertire un grafico o un diagramma in Excel Microsoft utilizzando la Libreria C++
+keywords: [C++ Aspose.Cells., C++ Convert chart to image., C++ Save chart to image., C++ chart to image., create charts in C++., insert charts in C++., manage charts in C++]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Crea grafici Excel Microsoft<sup>&reg;</sup> e converti in immagini tramite C++" h2="Converti grafici di documenti Excel in immagini e crea grafici tra cui grafici a torta, a piramide, a linee ea bolle all\'interno di applicazioni basate su C++." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Crea grafici Excel Microsoft<sup>&reg;</sup> e convertili in immagini tramite C++" h2="Converti grafici di documenti Excel in immagini e crea grafici tra cui grafici a torta, a piramide, a linee e a bolle all\'interno di applicazioni basate su C++." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
- Utilizzando i grafici di Excel, è possibile ottenere un quadro più ampio e analizzare facilmente i dati per prendere le giuste decisioni.[C++ Libreria Excel](/cells/it/cpp/) supporta la creazione di diversi grafici elencati da[enum Aspose::Cells::Grafici::TipoGrafico
-](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) inclusi grafici ad area, a barre, a torta, a piramide, a linee ea bolle. Inoltre, per la conversione dei grafici in immagini, API fornisce a[ToImage mehtod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) nel formato immagine richiesto.
+ Utilizzando i grafici Excel, è possibile ottenere un quadro più ampio e analizzare facilmente i dati per prendere le giuste decisioni.[C++ Libreria Excel](/cells/it/cpp/) supporta la creazione di diversi grafici elencati per[enum Aspose::Cells::Grafici::ChartType
+](https://reference.aspose.com/cells/cpp/aspose.cells.charts/charttype/) inclusi grafici ad area, a barre, a torta, a piramide, a linee e a bolle. Inoltre, per la conversione dei grafici in immagini, lo API mette a disposizione un[Immaginare](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chart/toimage/) mehtod nel formato immagine richiesto.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Crea grafici Excel" %}}
 
- Il processo di creazione del grafico di Excel consiste nel creare un'istanza del file[Classe IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e selezionare quello desiderato[Foglio di lavoro](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . Aggiungi il grafico usando[Aggiungi metodo](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)con parametri rilevanti incluso il tipo di grafico. Accedi al grafico tramite indice e[Aggiungere](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) l'origine dati per il grafico.
+ Il processo di creazione del grafico Excel consiste nel creare un'istanza del file[Classe cartella di lavoro](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) e selezionare quello desiderato[Foglio di lavoro](https://reference.aspose.com/cells/cpp/aspose.cells/worksheet/) . Aggiungi il grafico utilizzando[Aggiungi metodo](https://reference.aspose.com/cells/cpp/aspose.cells.charts/chartcollection/add/)con parametri rilevanti incluso il tipo di grafico. Accedi al grafico tramite indice e[Aggiungere](https://reference.aspose.com/cells/cpp/aspose.cells.charts/seriescollection/add/) l'origine dati per il grafico.
 
-{{% blocks/products/pf/feature-page-code h3="C++ Codice per creare grafici Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Codice per Creare Grafici Excel" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-chart.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -25,12 +26,12 @@ description: C++ codice sorgente per disegnare e convertire grafici o diagrammi 
 {{% blocks/products/pf/feature-page-section h2="Converti grafici in immagini" %}}
 
 
-Per convertire i grafici il processo è, prima crea un grafico come del tipo pertinente usando il codice sopra o accedi ad esso dal foglio pertinente. Definire il percorso di salvataggio dell'output per l'immagine e utilizzare il metodo ToImage per la conversione.
+Per convertire i grafici, il processo consiste nel creare innanzitutto un grafico del tipo pertinente utilizzando il codice riportato sopra o accedervi dal foglio pertinente. Definire il percorso di salvataggio dell'output per l'immagine e utilizzare il metodo ToImage per la conversione.
 
  
-{{% blocks/products/pf/feature-page-code h3="C++ Codice per convertire grafici Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Codice per Convertire Grafici Excel" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "convert-excel-chart-to-image.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "convert-excel-chart-to-image.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

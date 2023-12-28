@@ -1,7 +1,7 @@
 ---
-title: Crea HTM - Crea file HTM in Python
-description: Aspose Excel. Python Crea file HTM. Crea HTM Python. Python HTM Creator. Crea HTM in Python. Genera file HTM utilizzando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create HTM Python., Python HTM Creater., Create HTM file in Python., Generate HTM file in Python]
+title: "Crea HTM: crea il file HTM in Python"
+description:  Aspose Excel. Python Crea file HTM in modo rapido e semplice con Aspose.Cells. Genera file HTM utilizzando Python. Crea HTM in Python. Python HTM Creator.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create HTM file., Generate HTM file in Python., Create HTM file using Python., Write data to HTM file via Python., Create a HTM file in Python., Python Generate a HTM file., Python HTM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file HTM in Python" h2="Libreria Python ad alta velocità per la creazione di file HTM. Questa è una soluzione software professionale per importare ed esportare XLSX, PDF e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create HTM Python., Python HTM C
 
 {{% blocks/products/pf/agp/content h2="Crea file HTM utilizzando Python" %}}
 
- Come creare un file HTM? Con la libreria Aspose.Cells for Python via Java, puoi facilmente creare file HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come creare un file HTM? Con la libreria Aspose.Cells for Python via Java, puoi creare facilmente file HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,17 +21,17 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create HTM Python., Python HTM C
 
 {{% blocks/products/pf/agp/text %}}
 
- È facile per gli sviluppatori creare, caricare, modificare e convertire i file HTM all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori creare, caricare, modificare e convertire file HTM eseguendo diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Importa asposecells nel tuo file di codice.
-1.  Crea un'istanza della classe della cartella di lavoro.
+1.  Crea un'istanza della classe Workbook.
 1.  Accedi al primo foglio di lavoro della cartella di lavoro.
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
 1.  Utilizzare il metodo Salva per salvare la cartella di lavoro come file HTM.
 
-{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare un file HTM in Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file HTM in Python." offSpacer="" %}}
 
 ```cs
 
@@ -62,11 +62,11 @@ jpype.shutdownJVM()
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per creare file HTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per creare file HTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,21 +91,21 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare in browser Web come Google Chrome, Internet Explorer, Firefox e numerosi altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando l'origine della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina web in cui viene elaborato ogni suddivisione o elemento di markup nel sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre generazioni di fogli di calcolo supportate" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altra generazione di fogli di calcolo supportata" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo con attivazione macro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Excel 97 - Modello 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Modello Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltx/" name="XLTX" description="Modello Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="valori separati da virgola" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazione" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 

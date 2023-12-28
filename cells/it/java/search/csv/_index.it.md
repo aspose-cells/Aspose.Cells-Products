@@ -1,7 +1,8 @@
 ---
-title:  Cerca documento CSV senza aprire via Java
+title:  Cerca il documento CSV senza aprire via Java
 weight: 390
-description: Java codice di esempio per cercare parole con pattern nel file CSV su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+description: Codice di esempio Java per cercare parole con pattern nel file CSV nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
+keywords: [Java Aspose.Cells., Java search words with pattern in csv file., Java find words with pattern in csv file., Java search string with pattern in csv file., Java find words with pattern in csv file., Java search words in csv file., Java find words in csv file., Java search string in csv file., Java find string in csv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Cerca i formati CSV in Java" h2="Ricerca di documenti CSV nativa e ad alte prestazioni utilizzando le API Aspose.Cells for Java lato server, senza l\'uso di software come Microsoft o Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
@@ -11,11 +12,11 @@ description: Java codice di esempio per cercare parole con pattern nel file CSV 
 
 {{% blocks/products/pf/agp/content h2="Come cercare il file CSV utilizzando Java" %}}
 
- Per cercare il file CSV, useremo
+ Per cercare il file CSV, utilizzeremo
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di ricerca API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare l'ultima versione direttamente da
+ API che è una piattaforma di ricerca API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -60,9 +61,9 @@ description: Java codice di esempio per cercare parole con pattern nel file CSV 
 + Carica il file CSV istanziando un oggetto Workbook.
 + Accedi al primo foglio di lavoro nel file CSV.
 + Trova la cella contenente la formula specificata.
-+ Crea un'istanza FindOptions.
++ Istanzia FindOptions.
 + Trova la cella contenente un valore stringa
-+ Stampa le celle trovate dopo il risultato della ricerca
+Stampa le celle trovate dopo il risultato della ricerca
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,11 +71,11 @@ description: Java codice di esempio per cercare parole con pattern nel file CSV 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java supporta su tutte le principali piattaforme e sistemi operativi. Assicurati di avere i seguenti prerequisiti.
+ Aspose.Cells for Java supporta tutte le principali piattaforme e sistemi operativi. Assicurati di possedere i seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+-  Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 -  Ottieni l'ultima versione di Aspose.Cells for Java direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -114,9 +115,9 @@ System.out.println("Name of the cell containing String: " + cell.getName());
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for Java API" %}}
+{{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for Java API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -124,15 +125,15 @@ System.out.println("Name of the cell containing String: " + cell.getName());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online CSV Cerca demo live" sectionDescription=" Cerca testo, parole, frasi all\'interno di CSV documenti in questo momento visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/search). La demo dal vivo ha i seguenti vantaggi" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online CSV Cerca demo live" sectionDescription=" Cerca subito testo, parole e frasi all\'interno dei documenti CSV visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/search). La demo live presenta i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file CSV." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato all\'istante." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il risultato della ricerca viene visualizzato immediatamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV " readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
- file con estensione CSV (Comma Separated Values) rappresentano file di testo normale che contengono record di dati con valori separati da virgola. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando si intende trasferire i dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono disposti in celle di un foglio di calcolo per la rappresentazione all'utente.
+ file con estensione CSV (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando è previsto il trasferimento dei dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono organizzati in celle di un foglio di calcolo per essere rappresentati dall'utente.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -140,14 +141,14 @@ System.out.println("Name of the cell containing String: " + cell.getName());
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri documenti di ricerca supportati" subTitle="Utilizzando Java, è anche possibile cercare altri file inclusi." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri documenti di ricerca supportati" subTitle="Utilizzando Java, è possibile cercare anche altri file, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

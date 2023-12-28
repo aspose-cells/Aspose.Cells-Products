@@ -1,7 +1,8 @@
 ---
-title:  Filigrana XLSB documento via .NET
+title: Filigrana XLSB documento via .NET
 weight: 5410
-description: C# codice sorgente per aggiungere o rimuovere filigrana al file XLSB su .NET Framework, .NET Core, Mono o Xamarin Platforms.
+description: Codice sorgente C# per aggiungere o rimuovere la filigrana nel file XLSB su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Aggiungi filigrana di testo a XLSB tramite C#" h2="Crea le tue app .NET per filigranare i file XLSB utilizzando le API lato server." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,13 +12,13 @@ description: C# codice sorgente per aggiungere o rimuovere filigrana al file XLS
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file XLSB utilizzando C#" %}}
 
- Per filigranare il file XLSB, useremo
+ Per filigranare il file XLSB, utilizzeremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che è una manipolazione di documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells** 
- e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -33,13 +34,13 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere filigrana a XLSB tramite C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere la filigrana a XLSB tramite C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Hai bisogno del
+ Hai bisogno di
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
- per provare il seguente flusso di lavoro nel proprio ambiente.
+ per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -58,9 +59,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o Xamarin Platforms.
+- Microsoft Windows o un sistema operativo compatibile con .NET Framework, .NET Core, Mono o piattaforme Xamarin.
 -  Ambiente di sviluppo come Microsoft Visual Studio.
--  Aggiungere il riferimento alla DLL Aspose.Cells for .NET nel progetto.
+-  Aggiungi il riferimento alla DLL Aspose.Cells for .NET nel tuo progetto.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,9 +78,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLSB tramite app online" sectionDescription=" Aggiungi filigrana ai documenti XLSB visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/watermark). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLSB tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti XLSB visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file XLSB, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il link per il download del file risultante" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Il formato di file XLSB specifica il formato di file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semi-strutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (basato sul formato di file Open XML), XLSB rappresenta il file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e superiori.
+Il formato file XLSB specifica il formato file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semistrutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (che si basa sul formato file Open XML), XLSB rappresenta un file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e versioni successive.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,11 +103,11 @@ Il formato di file XLSB specifica il formato di file binario di Excel, ovvero un
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando C#, è possibile filigranare facilmente diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando C#, è possibile filigranare facilmente diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

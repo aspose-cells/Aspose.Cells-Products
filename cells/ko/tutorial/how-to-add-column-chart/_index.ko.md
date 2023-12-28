@@ -11,11 +11,11 @@ url: /ko/tutorial/add-column-chart-in-excel
 {{< blocks/products/pf/feature-page-section h2="Aspose.Cells로 세로 막대형 차트를 추가하는 방법 알아보기" >}}
 
 <p>
-이 자습서에서는 Excel 파일에 세로 막대형 차트를 추가합니다.
+이번 튜토리얼에서는 엑셀 파일에 세로 막대형 차트를 추가해 보겠습니다.
 </p>
 
 <p>
- 다음을 사용하여 새 통합 문서를 만드는 것으로 시작합니다.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 도서관</a> 세로 막대형 차트를 추가합니다.
+ 다음을 사용하여 새 통합 문서를 만드는 것부터 시작하겠습니다.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 도서관</a> 그리고 세로 막대형 차트를 추가하세요.
 </p>
 
 <br />
@@ -25,51 +25,51 @@ url: /ko/tutorial/add-column-chart-in-excel
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: 다음 코드는 범례를 왼쪽으로 이동하고 범례의 글꼴 색상을 설정하는 방법을 보여줍니다.
 //ExStepImage:1:step-2.png
-//ExStepSummary:2: 다음 코드는 차트의 제목을 설정하고 글꼴 색상을 파란색으로 변경하는 방법을 보여줍니다.
+//ExStepSummary:2: 다음 코드는 차트 제목을 설정하고 글꼴 색상을 파란색으로 변경하는 방법을 보여줍니다.
 //ExStepImage:2:step-3.png
 //ExStart
 //ExStep:0-
 Aspose.Cells 사용;
-Aspose.Cells.도면 사용;
+Aspose.Cells.드로잉 사용;
 
-통합 문서 통합 문서 = new Workbook();
+통합 문서 통합 문서 = 새 통합 문서();
 워크시트 시트 = workbook.Worksheets[0];
 sheet.Name = "차트시트";
 Cells 셀 = 시트.Cells;
-cells["A1"].Value = "과일";
-cells["A2"].Value = "사과";
-cells["A3"].Value = "주황색";
-cells["A4"].Value = "블루베리";
-cells["A5"].Value = "키위";
+세포["A1"].Value = "과일";
+셀["A2"].Value = "사과";
+셀["A3"].Value = "주황색";
+셀["A4"].Value = "블루베리";
+셀["A5"].Value = "키위";
 
-cells["B1"].Value = "가격";
+셀["B1"].Value = "가격";
 셀["B2"].값 = 10;
 셀["B3"].값 = 5;
 셀["B4"].값 = 20;
 셀["B5"].값 = 8;
 
-sheet.PageSetup.PrintGridlines = 참;
+sheet.PageSetup.PrintGridlines = true;
 sheet.PageSetup.PrintArea = "A1:F20";
 
 ChartCollection 차트 = sheet.Charts;
 
-//컬럼 차트 추가
-int index = chart.Add(ChartType.Column, "=ChartSheet!A1:B5", false, 6, 0, 19, 5);
-차트 차트 = 차트[인덱스];
+//열 차트 추가
+int index =charts.Add(ChartType.Column, "=ChartSheet!A1:B5", false, 6, 0, 19, 5);
+차트 차트 = 차트[색인];
 
-//Ex단계:1-
+//ExStep:1-
 //범례를 왼쪽으로 이동하고 범례의 글꼴 색상을 설정합니다.
-chart.Legend.Font.Color = Color.Blue;
-chart.Legend.Position = LegendPositionType.Left;
+Chart.Legend.Font.Color = Color.Blue;
+차트.Legend.Position = LegendPositionType.Left;
 
-//Ex단계:2-
-//차트의 제목을 설정하고 글자색을 파란색으로 변경
-chart.Title.Text = "과일 가격 기둥형 차트";
-chart.Title.Font.Color = Color.Blue;
+//ExStep:2-
+//차트 제목을 설정하고 글꼴 색상을 파란색으로 변경합니다.
+Chart.Title.Text = "과일 가격 컬럼 차트";
+Chart.Title.Font.Color = Color.Blue;
 
 //ExStep:0-
 
-//ExEnd
+//종료
 {{< /app/cells/tutorial >}}
 <br />
 

@@ -1,7 +1,7 @@
 ---
-title: Java XML to MHT - 온라인 XML to MHT 변환기
-description: Aspose 엑셀. Java Aspose.Cells. Java Aspose Cells. 무료 온라인 Java XML을 MHT 저장 형식으로 변환합니다. Java XML에서 MHT 형식으로. XML을 MHT Java로 저장합니다.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MHT saveformat., Free Online XML to MHT Java., Java Convert XML to MHT]
+title: Java XML을 MHT로 - XML을 MHT로 변환기
+description: Aspose 엑셀. Aspose.Cells을 사용하여 XML을 MHT로 빠르고 쉽게 변환하세요. Java XML을 MHT로 변환하세요. Java XML을 MHT에 저장합니다. Java을 사용하여 XML을 MHT로 저장합니다.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to MHT in Java., Save XML to MHT using Java., Java XML to MHT saveformat., XML to MHT Converter., Java Save XML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java에서 XML을 MHT로 변환" h2="XML을 MHT로 변환하기 위한 고속 Java 라이브러리. 이것은 Java을 사용하여 XML, MHT 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MH
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 XML을 MHT로 변환" %}}
 
- XML을 MHT로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XML을 MHT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ XML을 MHT로 어떻게 변환합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드만으로 프로그래밍 방식으로 XML을 MHT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -45,30 +45,30 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="무료로 온라인에서 Java의 MHT에 XML 저장" %}}
+{{% blocks/products/pf/agp/content h2="Java에 XML을 MHT에 저장합니다." %}}
 
-다음 예는 Java에서 XML을 MHT로 변환하는 방법을 보여줍니다.
+다음 예에서는 Java에서 XML을 MHT로 변환하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-간단한 단계에 따라 XML을 MHT로 변환하십시오. XML 파일을 업로드한 다음 MHT 파일로 저장하기만 하면 됩니다. XML 읽기 및 MHT 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 MHT 콘텐츠 및 형식은 원본 XML 문서와 동일합니다.
+XML을 MHT로 변환하는 쉬운 단계를 따르십시오. XML 파일을 업로드한 다음 MHT 파일로 저장하면 됩니다. XML 읽기와 MHT 쓰기 모두에 대해 정규화된 파일 이름을 사용할 수 있습니다. 출력 MHT 콘텐츠 및 형식은 원본 XML 문서와 동일합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XML을 온라인에서 MHT로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="XML을 MHT로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XML을 MHT via Java로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-프로그래밍 방식으로 XML 파일을 MHT로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드로 XML을 MHT로 쉽게 변환할 수 있습니다.
+프로그래밍 방식으로 XML 파일을 MHT로 변환해야 합니까? Java 개발자는 단 몇 줄의 코드만으로 XML을 MHT로 쉽게 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Java'을 설치합니다.
 1.  Java 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  Workbook 클래스의 인스턴스로 XML 파일을 로드합니다.
+1.  Workbook 클래스의 인스턴스를 사용하여 XML 파일을 로드합니다.
 1.  Workbook.save 메서드를 호출하여 XML을 MHT로 변환합니다.
 1.  XML을 MHT로 변환한 결과를 가져옵니다.
 
@@ -77,7 +77,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MH
 {{% blocks/products/pf/agp/content h2="Java XML을 MHT로 변환하는 라이브러리" %}}
 {{% blocks/products/pf/agp/text %}}
 
- 우리는 Java 패키지를 다음에서 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 공통 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법.
+ 우리는 Java 패키지를 호스팅합니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 저장소. 'Aspose.Cells for Java'은 바이트 코드를 포함하는 일반적인 JAR 파일입니다. 다음을 따르십시오.[단계별 지침](https://docs.aspose.com/cells/java/installation/) Java 개발자 환경에 설치하는 방법에 대해 알아보세요.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,46 +86,46 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MH
 
 {{% blocks/products/pf/agp/text %}}
 
- Java 변환 소스 코드를 실행하기 전에 다음과 같은 전제 조건이 있는지 확인하십시오.
+ Java 변환 소스 코드를 실행하기 전에 다음 전제 조건이 있는지 확인하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 - Maven에서 직접 Aspose.Cells for Java의 최신 버전을 받으세요.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 Extensible Markup Language의 약자로 HTML과 유사하지만 객체를 정의하기 위해 태그를 사용한다는 점에서 다릅니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계 모두 읽을 수 있기 때문입니다. 이를 통해 WWW(World Wide Web)와 같은 네트워크를 통해 저장 및 공유할 객체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있음을 의미하는 확장 가능을 나타냅니다. Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 이러한 기능을 사용합니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}확장자가 .mht인 파일은 다양한 유형의 데이터를 단일 파일에 포함하는 MIME 지원 아카이빙 파일 형식입니다. CSS 파일 형태의 텍스트, 이미지, 페이지 스타일, JavaScript 및 기타 리소스와 같은 데이터를 임베디드 리소스로 저장할 수 있습니다. MIME 유형이 message/rfc822인 MHT 파일은 HTML 파일의 모든 내용을 저장 장치에 보관할 때 저장하기 위한 단일 보관 파일로 캡슐화합니다. Microsoft Word와 같은 소프트웨어 응용 프로그램을 사용하면 MHT 파일로 내보내어 WORD 문서를 MHT로 변환할 수 있습니다. MHT 파일은 Microsoft Internet Explorer 및 Google Chrome과 같은 널리 사용되는 브라우저를 사용하여 열 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 HTML과 유사하지만 객체 정의에 태그를 사용한다는 점에서 다른 Extensible Markup Language를 의미합니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람이 읽을 수 있을 뿐만 아니라 기계가 읽을 수 있기 때문입니다. 이를 통해 World Wide Web(WWW)과 같은 네트워크를 통해 저장되고 공유될 개체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 확장성을 의미하며, 이는 언어가 사용자 요구 사항에 따라 원하는 수의 기호로 확장될 수 있음을 의미합니다. 이러한 기능을 위해 Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 사용됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht 확장자를 가진 파일은 다양한 유형의 데이터를 단일 파일에 포함하는 MIME 지원 보관 파일 형식입니다. 텍스트, 이미지, 페이지 스타일 등의 데이터를 CSS 파일, JavaScript 및 기타 리소스의 형태로 포함된 리소스로 저장할 수 있습니다. MIME 유형 메시지/rfc822를 갖는 MHT 파일은 HTML 파일의 모든 내용을 저장 장치에 보관하기 위한 단일 보관 파일로 캡슐화합니다. Microsoft Word와 같은 소프트웨어 응용 프로그램을 사용하면 MHT 파일로 내보내 WORD 문서를 MHT로 변환할 수 있습니다. MHT 파일은 Microsoft Internet Explorer 및 Google Chrome과 같은 널리 사용되는 브라우저를 사용하여 열 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="XML을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 아래에 나열된 몇 가지 파일 형식을 포함하여 XML을 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-bmp/" name="XML TO BMP" description="비트맵 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML TO EMF" description="향상된 메타파일 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-gif/" name="XML TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML TO HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML에서 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML TO HTML" description="하이퍼텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML을 MD로" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="웹페이지 아카이브 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-ods/" name="XML TO ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-pdf/" name="XML TO PDF" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-png/" name="XML TO PNG" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-svg/" name="XML TO SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML TO TIFF" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML TO TIFF" description="태그된 이미지 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML TO TSV" description="탭으로 구분된 값" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-txt/" name="XML TO TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML TO XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML TO XLS" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsm/" name="XML TO XLSM" description="스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsx/" name="XML TO XLSX" description="OOXML 엑셀 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML TO XLTX" description="Office OpenXML 엑셀 템플릿" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML TO XPS" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML TO XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML TO JSON" description="자바스크립트 객체 표기법" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML TO JPEG" description="JPEG 이미지" >}}
 

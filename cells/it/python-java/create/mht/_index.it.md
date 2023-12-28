@@ -1,7 +1,7 @@
 ---
-title: Crea MHT - Crea file MHT in Python
-description: Aspose Excel. Python Crea file MHT. Crea MHT Python. Python MHT Creator. Crea MHT in Python. Genera file MHT utilizzando Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
+title: "Crea MHT: crea il file MHT in Python"
+description:  Aspose Excel. Python Crea file MHT in modo rapido e semplice con Aspose.Cells. Genera file MHT utilizzando Python. Crea MHT in Python. Python MHT Creatore.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Create MHT file using Python., Write data to MHT file via Python., Create a MHT file in Python., Python Generate a MHT file., Python MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file MHT in Python" h2="Libreria Python ad alta velocità per la creazione di file MHT. Questa è una soluzione software professionale per importare ed esportare XLSX, PDF e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,27 +11,27 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/content h2="Crea file MHT utilizzando Python" %}}
 
- Come creare un file MHT? Con la libreria Aspose.Cells for Python via Java, puoi facilmente creare file MHT a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come creare il file MHT? Con la libreria Aspose.Cells for Python via Java, puoi facilmente creare file MHT a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 
-{{% blocks/products/pf/agp/content h2="Come creare MHT in Python" %}}
+{{% blocks/products/pf/agp/content h2="Come creare MHT nello Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È facile per gli sviluppatori creare, caricare, modificare e convertire i file MHT all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori creare, caricare, modificare e convertire file MHT eseguendo diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Importa asposecells nel tuo file di codice.
-1.  Crea un'istanza della classe della cartella di lavoro.
+1.  Crea un'istanza della classe Workbook.
 1.  Accedi al primo foglio di lavoro della cartella di lavoro.
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
-1.  Utilizzare il metodo Save per salvare la cartella di lavoro come file MHT.
+1.  Utilizzare il metodo Salva per salvare la cartella di lavoro come file MHT.
 
-{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare un file MHT in Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file MHT in Python." offSpacer="" %}}
 
 ```cs
 
@@ -62,11 +62,11 @@ jpype.shutdownJVM()
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python libreria per creare file MHT" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Python per creare file MHT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,21 +91,21 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un singolo file. Può memorizzare dati come testo, immagini, stile della pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate in esso. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explore e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un unico file. Può archiviare dati come testo, immagini, stili di pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate al suo interno. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altre generazioni di fogli di calcolo supportate" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altra generazione di fogli di calcolo supportata" subTitle="Puoi anche creare altri formati Excel Microsoft inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo con attivazione macro" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Excel 97 - Modello 2003" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xlt/" name="XLT" description="Modello Excel 97-2003" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltx/" name="XLTX" description="Modello Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="valori separati da virgola" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazione" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 

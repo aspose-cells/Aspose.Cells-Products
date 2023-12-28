@@ -1,6 +1,7 @@
 ---
-title:  Modifica XLT file via .NET
-description: C# codice sorgente per modificare il documento XLT su .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
+title:  Modifica file XLT via .NET
+description: Codice sorgente C# per modificare il documento XLT su .NET Framework, .NET Core, Windows Azure, Mono o piattaforme Xamarin.
+keywords: [C# Aspose.Cells., c# edit xlt document., c# load xlt file., c# modify xlt file., c# save file to xlt format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Modifica i formati XLT in C#" h2="Modifica di documenti XLT nativa e ad alte prestazioni utilizzando le API Aspose.Cells for .NET lato server, senza l\'uso di software come Microsoft o Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -10,7 +11,7 @@ description: C# codice sorgente per modificare il documento XLT su .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Come modificare il file XLT utilizzando C#" %}}
 
- Per modificare il file XLT, useremo<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API che è una piattaforma ricca di funzionalità, potente e facile da usare API per C# per qualsiasi editor. Aprire<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestore pacchetti, cerca<b>Aspose.Cells</b> e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Per modificare il file XLT, utilizzeremo<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API che è una piattaforma API per C# ricca di funzionalità, potente e facile da usare per qualsiasi editor. Aprire<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestore pacchetti, cerca<b>Aspose.Cells</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -26,17 +27,20 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passaggi per la modifica dei file XLT in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Passaggi per modificare i file XLT in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Una modifica di base del documento con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Le API possono essere eseguite con poche righe di codice.
+ Una modifica di base dei documenti con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Includi lo spazio dei nomi nel file della classe
+1.  Carica il file di esempio.
+1. Aggiungi e accedi al nuovo foglio di lavoro della cartella di lavoro.
+1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
+1.  Inserisci la tabella pivot e imposta lo stile
+1.  Utilizzare il metodo Salva per salvare la cartella di lavoro come file XLT.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Modifica file XLT - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xlt.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +73,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -80,14 +81,14 @@ code here
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLT Editor Live Demo" sectionDescription=" Modifica subito i documenti XLT visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/editor). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLT Editor demo live" sectionDescription=" Modifica i documenti XLT in questo momento visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/editor). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica i tuoi file XLT, usa l\'editor online per modificarli all\'istante." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file XLT, utilizzare l\'editor online per la modifica istantanea." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Quindi salva e scarica." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
- I file con estensione .XLT sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo che fa parte della suite Office Microsoft. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e l'apertura di questi. L'ultima versione di Excel è ancora in grado di aprire i file modello di questo vecchio formato. Tale file modello viene utilizzato per creare rapidamente nuovi file Excel con dati e impostazioni predefiniti come formattazione della pagina, dimensione del carattere, margini, grafici, ecc. che possono essere ulteriormente salvati come nuovi file .XLS.
+ I file con estensione .XLT sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo fornita come parte della suite Office Microsoft. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e la loro apertura. L'ultima versione di Excel è ancora in grado di aprire i file modello di questo vecchio formato. Tale file modello viene utilizzato per creare rapidamente nuovi file Excel con dati e impostazioni predefiniti come formattazione della pagina, dimensione del carattere, margini, grafici, ecc. che possono essere ulteriormente salvati come nuovi file .XLS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

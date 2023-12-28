@@ -1,7 +1,8 @@
 ---
-title:  Filigrana XLSB documento via Java
+title: Filigrana XLSB documento via Java
 weight: 5900
-description: Java codice di esempio per aggiungere o rimuovere la filigrana al file XLSB in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+description: Codice di esempio Java per aggiungere o rimuovere la filigrana nel file XLSB nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Aggiungi filigrana di testo a XLSB via Java" h2="Crea le tue app Java per filigranare i file XLSB utilizzando le API lato server." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file XLSB utilizzando Java" %}}
 
- Per filigranare il file XLSB, useremo
+ Per filigranare il file XLSB, utilizzeremo
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di watermarking API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare l'ultima versione direttamente da
+ API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -49,7 +50,7 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere filigrana a XLSB via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Passaggi per aggiungere la filigrana a XLSB via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -58,7 +59,7 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 1.  Crea un nuovo oggetto cartella di lavoro
 1.  Seleziona Foglio di lavoro tramite il suo indice
 1.  Crea una forma e usa la sua funzione addTextEffect
-1.  Imposta colori, trasparenza e altro
+1.  Imposta colori, trasparenza e altro ancora
 1.  Salva la cartella di lavoro nel formato XLSB
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -67,11 +68,11 @@ description: Java codice di esempio per aggiungere o rimuovere la filigrana al f
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java supporta su tutte le principali piattaforme e sistemi operativi. Assicurati di avere i seguenti prerequisiti.
+ Aspose.Cells for Java supporta tutte le principali piattaforme e sistemi operativi. Assicurati di possedere i seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -117,9 +118,9 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Informazioni Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Cells for Java API" %}}
 
- Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
+ Aspose.Cells API può essere utilizzato per creare, modificare, convertire ed eseguire il rendering dei formati Excel Microsoft in diversi formati. Inoltre, può essere utilizzato per grafici completi, reporting scalabile e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
 
 
@@ -127,14 +128,14 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLSB tramite app online" sectionDescription=" Aggiungi filigrana ai documenti XLSB visitando il nostro[Sito web di dimostrazioni dal vivo](https://products.aspose.app/cells/watermark). La demo dal vivo ha i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLSB tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti XLSB visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file XLSB, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il link per il download del file risultante" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Il formato di file XLSB specifica il formato di file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semi-strutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (basato sul formato di file Open XML), XLSB rappresenta il file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e superiori.
+Il formato file XLSB specifica il formato file binario di Excel, ovvero una raccolta di record e strutture che specificano il contenuto della cartella di lavoro di Excel. Il contenuto può includere tabelle di numeri non strutturate o semistrutturate, testo o sia numeri che testo, formule, connessioni dati esterne, grafici e immagini. A differenza di XLSX (che si basa sul formato file Open XML), XLSB rappresenta un file binario della cartella di lavoro di Excel. I file XLSB possono essere letti e scritti più velocemente, il che li rende utili per lavorare con file di grandi dimensioni. XLSB viene utilizzato raramente per archiviare le cartelle di lavoro poiché XLSX (e in precedenza XLS) sono i formati di file selezionati dall'utente più comuni per il salvataggio delle cartelle di lavoro. Può essere aperto da Microsoft Office 2007 e versioni successive.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,11 +143,11 @@ Il formato di file XLSB specifica il formato di file binario di Excel, ovvero un
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando Java, è possibile filigranare facilmente diversi formati tra cui." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Utilizzando Java, è possibile filigranare facilmente diversi formati, inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

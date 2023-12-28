@@ -1,10 +1,10 @@
 ---
-title: Excel 보고서 내보내기 XLS XLSX PDF ODS JasperReports 및 JasperServer
+title: JasperReports 및 JasperServer에서 Excel XLS XLSX PDF ODS로 보고서 내보내기
 weight: 9460
-description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX PDF ODS TXT 및 SpreadsheetML 형식으로 내보냅니다. 보고서를 Excel 스프레드시트로도 인쇄
+description: Jasper Reports 및 JasperServer에서 Excel XLS XLSX PDF ODS TXT 및 SpreadsheetML 형식으로 보고서를 내보냅니다. 보고서를 Excel 스프레드시트로 인쇄할 수도 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="보고서를 Excel 형식으로 내보내는 JasperReports 확장" h2="보고서를 Microsoft Excel 스프레드시트 여러 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="보고서를 Excel 형식으로 내보내는 JasperReports 확장" h2="보고서를 Microsoft Excel 스프레드시트의 다양한 형식으로 내보냅니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports은 0을 사용하지 않고 Microsoft Excel XLS, XLSX, PDF, ODS, TXT 및 SpreadsheetML 형식으로 보고서 내보내기를 제공하는 신뢰할 수 있는 JasperReports 및 JasperServer 확장입니다. 76193481 엑셀. JasperReports의 원래 Microsoft Excel 내보내기 프로그램의 대안으로 작동하며 POI 라이브러리에 대한 종속성을 제거합니다.
+ Aspose.Cells for JasperReports은 Microsoft Excel XLS, XLSX, PDF, ODS, ODS, TXT 및 SpreadsheetML 형식으로 보고서 내보내기를 제공하는 안정적인 JasperReports 및 JasperServer 확장 프로그램입니다. 193481 엑셀. JasperReports의 원본 Microsoft Excel 내보내기에 대한 대안으로 작동할 뿐만 아니라 POI 라이브러리에 대한 종속성을 제거합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for JasperReports\' 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells for JasperReports\' 기능의 개요입니다." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -63,7 +63,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
     <em>
  ~을 위한
     </em>
- 재스퍼 보고서
+ 재스퍼 리포트
    </small>
   </footer>
  </div>
@@ -104,7 +104,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
     <em>
  ~을 위한
     </em>
- 재스퍼 보고서
+ 재스퍼 리포트
    </small>
   </footer>
  </div>
@@ -113,7 +113,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description=" Aspose.Cells for JasperReports을 사용하면 보고서를[다음 형식](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description=" Aspose.Cells for JasperReports을 사용하면 보고서를 직접[다음 형식](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -123,7 +123,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -154,7 +154,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
      <b>
  텍스트:
      </b>
- CSV, TSV, 탭 구분
+ CSV, TSV, 탭으로 구분
     </li>
    </ul>
   </div>
@@ -171,7 +171,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
     <em>
  ~을 위한
     </em>
- 재스퍼 보고서
+ 재스퍼 리포트
    </small>
   </footer>
  </div>
@@ -190,7 +190,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Excel 내보내기 기능으로 고급 JasperReports
+ Excel 내보내기 기능에 대한 고급 JasperReports
    </h2>
    <p>
    </p>
@@ -198,7 +198,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Microsoft Excel 파일로 보고서 생성
+ 보고서를 Microsoft Excel 파일로 생성
     </p>
    </div>
    <div class="col-lg-4">
@@ -220,7 +220,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
  보고서를 Microsoft Excel 형식으로 내보내기
     </h2>
     <p>
- Aspose.Cells for JasperReports은 보고서를 XLS &amp; XLSX. 또한 SpreadsheetML, ODS, CSV &amp; 비즈니스 요구 사항에 맞는 탭으로 구분된 형식.
+ Aspose.Cells for JasperReports은 보고서를 Microsoft Excel 형식(예: XLS &amp; XLSX. 또한 SpreadsheetML, ODS, CSV &amp; 귀하의 비즈니스 요구 사항에 맞는 탭으로 구분된 형식입니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -228,7 +228,7 @@ description: Jasper Reports 및 JasperServer에서 보고서를 Excel XLS XLSX P
  보고서 디자인에 대한 높은 충실도
     </h2>
     <p>
-Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으로 보고서를 내보냅니다. JasperReports의 기본 내보내기 기능으로 내보낸 것과 동일한 보고서인 것 같습니다.
+Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으로 보고서를 내보냅니다. JasperReports의 기본 내보내기 기능으로 내보낸 동일한 보고서인 것 같습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -236,7 +236,7 @@ Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으
  편집 가능한 Excel 스프레드시트
     </h2>
     <p>
- Aspose.Cells for JasperReports Excel 문서를 완전히 편집 가능한 스프레드시트로 내보냅니다. Microsoft Excel 차트를 지원하며 Aspose 렌더링 엔진을 통해 내보낸 모든 차트는 정적 그림이 아닌 편집 가능한 차트로 사용할 수 있으므로 최종 사용자가 Microsoft Excel에서 수동으로 차트를 변경할 수 있습니다.
+ Aspose.Cells for JasperReports Excel 문서를 완전히 편집 가능한 스프레드시트로 내보냅니다. Microsoft Excel 차트를 지원하며 Aspose 렌더링 엔진을 통해 내보낸 모든 차트는 정적 그림이 아닌 편집 가능한 차트로 제공되므로 최종 사용자가 Microsoft Excel에서 차트를 수동으로 변경할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -244,7 +244,7 @@ Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으
  Microsoft 사무 자동화 – 필요하지 않음
     </h2>
     <p>
- Aspose.Cells for JasperReports 내보내기 프로그램은 Excel 문서 형식으로 작업하기 위해 시스템에 설치할 Microsoft Excel 또는 Microsoft Office가 전혀 필요하지 않은 관리 코드를 사용하여 개발되었습니다. 안정성, 확장성, 지원되는 기능, 보안, 가격 및 속도 측면에서 완벽한 Microsoft Excel 자동화 대안입니다.
+ Aspose.Cells for JasperReports 내보내기는 Excel 문서 형식으로 작업하기 위해 컴퓨터에 Microsoft Excel 또는 Microsoft Office를 설치할 필요가 없는 관리 코드를 사용하여 개발되었습니다. 안정성, 확장성, 지원되는 기능, 보안, 가격 및 속도 측면에서 완벽한 Microsoft Excel 자동화 대안입니다.
     </p>
    </div>
   </div>
@@ -256,10 +256,10 @@ Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -269,7 +269,7 @@ Aspose.Cells for JasperReports 가장 높은 정밀도로 지원되는 형식으
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for JasperReports입니까?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for JasperReports인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

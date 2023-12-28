@@ -1,7 +1,7 @@
 ---
-title: Python MHT a EMF - Online MHT a EMF Convertitore
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti MHT in EMF saveformat. Python MHT al formato EMF. Salva MHT allo EMF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to EMF saveformat., Free Online MHT to EMF Python., Python Convert MHT to EMF]
+title: Convertitore da Python MHT a EMF - Convertitore da MHT a EMF
+description: Aspose Excel. Converti MHT in EMF in modo rapido e semplice con Aspose.Cells. Python MHT in EMF. Python Salva MHT in EMF. Salva MHT come EMF utilizzando Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to EMF in Python., Save MHT to EMF using Python., Python MHT to EMF saveformat., MHT to EMF Converter., Python Save MHT as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHT in EMF in Python" h2="Libreria Python ad alta velocità per convertire MHT in EMF. Si tratta di una soluzione software professionale per importare ed esportare MHT, EMF e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Converti MHT in EMF utilizzando Python" %}}
 
- Come posso convertire MHT in EMF? Con la libreria Aspose.Cells for Python, puoi facilmente convertire MHT in EMF a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire MHT in EMF? Con la libreria Aspose.Cells for Python, puoi convertire facilmente MHT in EMF a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Python Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva MHT a EMF in Python online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva MHT allo EMF in Python" %}}
 
 L'esempio seguente mostra come convertire MHT in EMF in Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,21 +27,21 @@ Segui i semplici passaggi per convertire MHT in EMF. Carica il tuo file MHT, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice campione per convertire MHT in EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="emf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire MHT in EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="emf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHT in EMF tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file MHT in EMF a livello di programmazione? Gli sviluppatori Python possono facilmente caricare e convertire MHT in EMF in poche righe di codice.
+È necessario convertire i file MHT in EMF a livello di codice? Gli sviluppatori di Python possono caricare e convertire facilmente MHT in EMF in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Python.
 1.  Carica il file MHT con un'istanza di Workbook.
 1.  Converti MHT in EMF chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di MHT in EMF.
+1.  Ottieni il risultato della conversione da MHT a EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -49,7 +49,7 @@ Hai bisogno di convertire i file MHT in EMF a livello di programmazione? Gli svi
 
 {{% blocks/products/pf/agp/text %}}
 
-Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che rispecchi le tue esigenze e segui le istruzioni dettagliate:
+Esistono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo sistema. Scegline uno che soddisfi le tue esigenze e segui le istruzioni passo passo:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,18 +63,18 @@ Ci sono tre opzioni per installare "Aspose.Cells for Python via Java" sul tuo si
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o superiore,[Python](https://www.python.org/downloads/) 3,5 o superiore.
+ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux e MacOS), assicurati solo che il sistema abbia Java 1.8 o versione successiva,[Python](https://www.python.org/downloads/) 3.5 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installa Java e aggiungilo alla variabile di ambiente PATH, ad esempio:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+-  Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un singolo file. Può memorizzare dati come testo, immagini, stile della pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate in esso. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explore e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un unico file. Può archiviare dati come testo, immagini, stili di pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate al suo interno. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine memorizzata dopo l'analisi su qualsiasi dispositivo di output. Questi record di lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e le altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -82,26 +82,26 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire MHT in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-bmp/" name="MHT AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-gif/" name="MHT AL GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT AL ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT AL ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-pdf/" name="MHT AL PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-png/" name="MHT AL PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-svg/" name="MHT AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato immagine contrassegnato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT A XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT IN XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xps/" name="MHT AL XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-json/" name="MHT AL JSON" description="Notazione oggetto JavaScript" >}}
 

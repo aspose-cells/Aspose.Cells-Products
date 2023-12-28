@@ -1,10 +1,11 @@
 ---
-title:  C++ Excel 스프레드시트 프로그래밍 API - Aspose
+title: C++ Excel 스프레드시트 프로그래밍 API - Aspose
 weight: 7140
-description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포함하여 쓰기 및 구문 분석 파일을 읽습니다. 스프레드시트를 PDF, CSV 및 기타 형식으로 변환
+description: Aspose.Cells for C++ Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환하는 라이브러리입니다. Excel을 PDF, JSON, XML, TSV 등으로 변환합니다.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel 스프레드시트 API" h2="모든 기능을 갖춘 C++ 애플리케이션 내에서 Microsoft Excel 종속성 없이 스프레드시트를 만들고, 읽고, 쓰고, 구문 분석합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel 스프레드시트 API" h2="모든 기능을 갖춘 C++ 애플리케이션 내에서 Microsoft Excel 종속성 없이 스프레드시트를 만들고, 읽고, 쓰고, 구문 분석할 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +13,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++은 스프레드시트 조작을 위한 기본 C++ API입니다. 응용 프로그램은 사무 자동화에 의존하지 않고 스프레드시트의 내장 및 사용자 지정 속성, 테마, 스타일 및 서식 지정, 데이터 유효성 검사, 조건부 서식 지정, 읽기, 쓰기 및 공식 계산, 행 및 열 그룹화 등의 기능을 생성, 변환 및 편집할 수 있습니다. 또는 Microsoft 엑셀. API은 XLS, XLSX, XLSM 및 XLSB과 같이 가장 일반적으로 사용되는 스프레드시트 형식을 지원합니다.
+ Aspose.Cells for C++은 스프레드시트 조작을 위한 기본 C++ API입니다. 응용 프로그램은 Office 자동화에 의존하지 않고도 스프레드시트의 기본 제공 및 사용자 정의 속성, 테마, 스타일 및 서식 지정, 데이터 유효성 검사, 조건부 서식 지정, 수식 읽기, 쓰기 및 계산, 행 및 열 그룹화 등의 생성, 변환 및 편집과 같은 기능을 수행할 수 있습니다. 또는 Microsoft 엑셀. API은 XLS, XLSX, XLSM 및 XLSB과 같이 가장 일반적으로 사용되는 스프레드시트 형식을 지원합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,13 +41,13 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
  피벗 테이블
     </li>
     <li>
- 테이블
+테이블
     </li>
     <li>
  차트
     </li>
     <li>
-수식 계산
+ 수식 계산
     </li>
     <li>
  데이터 유효성 검사
@@ -74,13 +75,13 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
  내장 속성
     </li>
     <li>
- 사용자 지정 속성
+ 사용자 정의 속성
     </li>
     <li>
  테마
     </li>
     <li>
- 스타일 &amp; 포맷팅
+ 스타일 &amp; 서식 지정
     </li>
     <li>
  하이퍼링크
@@ -92,7 +93,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
  페이지 설정
     </li>
     <li>
- 읽기, 공식 쓰기
+ 읽기, 수식 쓰기
     </li>
     <li>
  행 그룹화 &amp; 열
@@ -208,7 +209,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -227,7 +228,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
      <b>
  이미지:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -263,7 +264,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- 고급 C++ 스프레드시트 API 특징
+ 고급 C++ 스프레드시트 API 기능
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -274,35 +275,35 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 로드 &amp; 스트림을 사용하여 Excel 파일 저장
+로드 &amp; 스트림을 사용하여 Excel 파일 저장
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 차트 조작
+ 만들기 &amp; 차트를 조작하다
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-입력을 제한하도록 데이터 유효성 검사 설정
+ 입력을 제한하도록 데이터 유효성 검사 설정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 행을 그룹화하여 데이터 구성 &amp; 열
+ 행을 그룹화하여 데이터를 정리합니다. 기둥
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 내장 &amp; 사용자 정의 속성
+ 내장된 &amp; 사용자 정의 속성
     </p>
    </div>
    <div class="col-lg-4">
@@ -337,7 +338,7 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 그리기 개체 조작
+ 도면 객체 조작
     </p>
    </div>
    <div class="col-lg-4">
@@ -351,14 +352,14 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 선례 추적 &amp; 피부양자
+ 선례 추적 &amp; 부양가족
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 읽기, 쓰기 &amp; 복잡한 공식 계산
+ 읽기, 쓰기 &amp; 복잡한 수식 계산
     </p>
    </div>
    <div class="col-lg-4">
@@ -398,42 +399,42 @@ description: C++ Excel 라이브러리는 XLS, XLSX, XLSM 및 XLSB 형식을 포
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Excel에 대한 의존성 없음
+ Microsoft Excel에 대한 종속성 없음
     </h2>
     <p>
-Aspose API는 완전히 독립적이며 Microsoft Corporation과 관련이 없으며 승인, 후원 또는 기타 승인을 받지 않습니다. Aspose.Cells for C++은 Excel 문서 형식으로 작업하기 위해 컴퓨터에 Microsoft Office 또는 Microsoft Excel을 설치할 필요가 없습니다.
+Aspose API는 완전히 독립적이며 Microsoft Corporation과 제휴, 승인, 후원 또는 기타 승인을 받지 않습니다. Aspose.Cells for C++은 Excel 문서 형식으로 작업하기 위해 컴퓨터에 Microsoft Office 또는 Microsoft Excel을 설치할 필요가 없습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 심플 &amp; Excel 형식의 안정적인 변환
+ 심플&amp; Excel 형식의 안정적인 변환
     </h2>
     <p>
- Aspose.Cells for C++은 형식별 세부 정보에 대한 걱정 없이 Excel 파일 형식을 로드, 편집, 작성 및 상호 변환할 수 있는 기능을 제공하는 강력한 API 집합입니다. API을 사용하면 단 두 줄의 코드로 스프레드시트를 지원되는 모든 형식에서 지원되는 다른 형식으로 변환할 수 있습니다. 그렇게 간단합니다!
+ Aspose.Cells for C++은 형식별 세부 사항에 대해 걱정하지 않고 Excel 파일 형식을 로드, 편집, 작성 및 상호 변환할 수 있는 기능을 제공하는 강력한 API 세트입니다. API을 사용하면 단 두 줄의 코드만으로 스프레드시트를 지원되는 형식에서 다른 지원되는 형식으로 변환할 수 있습니다. 그것은 매우 간단합니다!
     </p>
     <div class="codeblock" id="code">
      <h3>
- Excel 파일을 여러 형식으로 변환 - C++
+ 다양한 형식의 Excel 파일 변환 - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 포괄적인 스프레드시트 서식
+ 포괄적인 스프레드시트 형식
     </h2>
     <p>
-Aspose.Cells for C++은 고급 서식 기능을 제공하여 데이터를 워크시트에 표시하는 방법을 완벽하게 제어할 수 있습니다. 개별 행, 열, 셀에 서식을 적용하거나 셀 범위를 생성하고 서식을 적용할 수 있습니다. 또한 셀에 서식 있는 텍스트를 추가하고, 테두리를 적용하고, 배경 패턴을 설정하거나 글꼴 관련 스타일을 조정할 수 있습니다.
+Aspose.Cells for C++은 고급 서식 기능을 제공하여 워크시트에 데이터를 표시하는 방법을 완벽하게 제어할 수 있습니다. 개별 행, 열, 셀에 서식을 적용하거나 셀 범위를 만들어 서식을 적용할 수 있습니다. 셀에 서식 있는 텍스트를 추가하고, 테두리를 적용하고, 배경 패턴을 설정하거나 글꼴 관련 스타일 측면을 조정할 수도 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -441,7 +442,7 @@ Aspose.Cells for C++은 고급 서식 기능을 제공하여 데이터를 워크
  차트로 데이터 시각화
     </h2>
     <p>
- Aspose.Cells for C++은 Excel 응용 프로그램에서 지원하는 모든 표준 및 사용자 정의 차트 유형을 동적으로 생성하는 포괄적인 API 세트를 제공합니다. API은 기존 차트의 데이터 소스를 업데이트하고 새로 고치는 기능도 제공합니다.
+ Aspose.Cells for C++은 Excel 애플리케이션에서 지원하는 모든 표준 및 사용자 정의 차트 유형을 동적으로 생성할 수 있는 포괄적인 API 세트를 제공합니다. API은 기존 차트의 데이터 소스를 업데이트하고 새로 고치는 기능도 제공합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++은 고급 서식 기능을 제공하여 데이터를 워크
  워크시트를 이미지로 렌더링
     </h2>
     <p>
-라이브러리는 자체 렌더링 엔진을 사용하여 Microsoft Excel에 대한 최고의 충실도로 렌더링합니다. BMP, TIFF, PNG, JPEG &amp; EMF. Sheet2Image 프로세스는 유연하므로 결과 이미지의 해상도 제어와 같은 옵션을 선택할 수 있습니다.
+라이브러리는 자체 렌더링 엔진을 사용하여 Microsoft Excel에 대한 최고 충실도로 렌더링합니다. BMP, PNG, JPEG &amp; EMF. Sheet2Image 프로세스는 유연하므로 결과 이미지의 해상도 제어와 같은 옵션을 선택할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -457,7 +458,7 @@ Aspose.Cells for C++은 고급 서식 기능을 제공하여 데이터를 워크
  열과 행 조작
     </h2>
     <p>
- Aspose.Cells for C++은 다양한 방법으로 행 및 열 조작을 제공합니다. 내용에 따라 행 높이와 열 너비를 조정하거나 셀 크기를 자동으로 조정하는 것은 너무 쉽습니다. API은 행 및 열 그룹화 또는 그룹화 해제뿐만 아니라 삭제 및 삽입, 숨기기 또는 표시 수단도 제공합니다.
+ Aspose.Cells for C++은 다양한 방법으로 행과 열 조작을 제공합니다. 행 높이와 열 너비를 조정하거나 내용에 따라 셀 크기를 자동으로 조정하는 것은 너무 쉽습니다. API은 행과 열을 그룹화하거나 그룹 해제하는 것뿐만 아니라 삭제 및 삽입, 숨기기 또는 표시 기능도 제공합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -465,7 +466,7 @@ Aspose.Cells for C++은 고급 서식 기능을 제공하여 데이터를 워크
  스프레드시트를 PDF로 정확하게 변환
     </h2>
     <p>
-Excel C++ 라이브러리는 원본 문서와 동일한 품질을 유지하면서 스프레드시트를 PDF 형식으로 변환하는 기능을 제공합니다. 이러한 사실 때문에 Aspose.Cells for C++은 PDF과 같은 산업 표준 형식의 문서를 교환해야 하는 조직에 완벽한 선택입니다.
+Excel C++ 라이브러리는 원본 문서와 동일한 품질을 유지하면서 스프레드시트를 PDF 형식으로 변환하는 기능을 제공합니다. 이러한 사실로 인해 Aspose.Cells for C++은 PDF과 같은 업계 표준 형식의 문서를 교환해야 하는 조직에 완벽한 선택이 됩니다.
     </p>
    </div>
    <!-- 
@@ -498,10 +499,10 @@ Excel C++ 라이브러리는 원본 문서와 동일한 품질을 유지하면�
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -512,7 +513,7 @@ Excel C++ 라이브러리는 원본 문서와 동일한 품질을 유지하면�
 {{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for C++입니까?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for C++인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

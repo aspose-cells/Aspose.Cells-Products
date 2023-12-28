@@ -1,10 +1,10 @@
 ---
 title: Android Excel 스프레드시트 API - Aspose
 weight: 6510
-description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위한 Android 스프레드시트 라이브러리입니다. 모바일 앱 개발용 스프레드시트 API
+description: 읽기 쓰기 및 Excel 파일 구문 분석을 위한 Android 스프레드시트 라이브러리입니다. 모바일 앱 개발을 위한 스프레드시트 API
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel 스프레드시트를 조작하는 Android API" h2="종속성 없이 Android 앱 내에서 Excel 파일을 생성, 읽기, 쓰기 또는 조작합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel 스프레드시트를 조작하는 Android API" h2="종속성 없이 Android 앱 내에서 Excel 파일을 생성, 읽기, 쓰기 또는 조작할 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java은 프로그래밍 방식으로 스프레드시트를 생성, 결합, 수정 및 구문 분석할 수 있는 확장 가능한 API입니다. API은 Excel 문서 서식 지정 및 페이지 설정 작업, 가져오기 및 내보내기 기능, 워크시트 페이지를 래스터 이미지로 렌더링, 이미지 해상도, 품질, 압축 지정, 다양한 차트 추가 등 많은 기능을 제공합니다. Android 스프레드시트 API은 XLS, XLSX, CSV, SpreadsheetML, ODS, 탭 구분, HTML, PDF, XPS 및 기타 형식을 지원합니다.
+ Aspose.Cells for Android via Java은 스프레드시트를 프로그래밍 방식으로 생성, 결합, 수정 및 구문 분석할 수 있는 확장 가능한 API입니다. API은 Excel 문서 서식 지정 및 페이지 설정 작업, 가져오기 및 내보내기 기능, 워크시트 페이지를 래스터 이미지로 렌더링, 이미지 해상도, 품질, 압축 지정, 다양한 차트 추가 등을 포함한 다양한 기능을 제공합니다. Android 스프레드시트 API은 XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS 등의 형식을 지원합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,21 +20,21 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="한눈에" description="API 기능에 대한 개요입니다." >}}
+{{< blocks/products/pf/carousel-item h3="한눈에" description="API 기능의 개요입니다." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- 가져오기 및 가져오기 내보내다
+ 수입 &amp; 내보내다
    </header>
    <ul>
     <li>
  배열
     </li>
     <li>
- 결과 집합
+ 결과세트
     </li>
     <li>
 컬렉션
@@ -104,7 +104,7 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Android via Java은 for Android 2.0 이상에서 사용할 수 있습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Android via Java for Android 2.0 이상에서 사용 가능합니다." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +114,7 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Android 런타임 환경
+ 안드로이드 런타임 환경
    </header>
    <ul>
     <li>
@@ -185,7 +185,7 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력 전용
+ 출력만
    </header>
    <ul>
     <li>
@@ -256,35 +256,35 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 암호화 및 엑셀 파일 복호화
+ 암호화 &amp; Excel 파일 암호 해독
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 숫자 형식 설정
+ 숫자 서식 설정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 차트 조작
+ 만들기 &amp; 차트를 조작하다
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 댓글 조작
+ 만들기 &amp; 댓글을 조작하다
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 읽기, 설정 &amp; 공식을 계산하다
+ 읽기, 설정 &amp; 수식을 계산하다
     </p>
    </div>
    <div class="col-lg-4">
@@ -298,14 +298,14 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 세트 &amp; 자동 필터 조작 &amp; 페이지 나누기
+ 세트 &amp; 자동 필터를 조작하고 &amp; 페이지 나누기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 읽기 및 읽기 조건부 서식 작성
+ 읽기 &amp; 조건부 서식 작성
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +319,7 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Microsoft Excel XP부터 도입된 보호 옵션 설정
+ Microsoft Excel XP 이후 도입된 보호 옵션 설정
     </p>
    </div>
    <div class="col-lg-4">
@@ -426,14 +426,14 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 맞춤 차트 조작
+ 만들기 &amp; 사용자 정의 차트 조작
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 선례 및 부양가족 추적
+ 추적 선례 및 종속 항목
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,15 +454,15 @@ description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위�
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 읽기 및 읽기 쓰기 TSV, CSV &amp; HTML 파일
+ 읽기 &amp; TSV, CSV &amp;를 쓰세요. HTML 파일
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 다른 형식 변환
+ 다양한 형식 변환
     </h2>
     <p>
- Android Excel 라이브러리는 스프레드시트를 XPS, PDF &amp; HTML 형식은 최고의 시각적 충실도를 유지합니다. 신뢰할 수 있는 변환 프로세스를 통해 API은 업계 표준 형식으로 파일을 교환하는 회사에 완벽한 선택입니다.
+ Android Excel 라이브러리는 스프레드시트를 XPS, PDF &amp; HTML 형식은 최고의 시각적 충실도를 유지합니다. 안정적인 변환 프로세스를 통해 API은 업계 표준 형식으로 파일을 교환하려는 회사에 완벽한 선택입니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +493,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
  스프레드시트 개체를 다른 형식으로 변환
     </h2>
     <p>
- Aspose.Cells for Android via Java은 워크시트를 이미지로, 차트를 이미지로 &amp; PDF 및 스프레드시트를 PDF 문서 형식으로 변환합니다. 유연한 프로세스에는 스프레드시트 중에 이미지를 PDF로 다시 샘플링하거나 워크시트 &amp; 차트를 이미지 형식으로.
+ Aspose.Cells for Android via Java은 워크시트를 이미지로, 차트를 이미지로, &amp; PDF 및 스프레드시트를 PDF 문서 형식으로 변환합니다. 유연한 프로세스에는 스프레드시트 중 이미지를 PDF로 다시 샘플링하거나 워크시트를 렌더링할 때 결과 이미지 크기를 설정하는 등 다양한 변환 선택 사항이 있습니다. 차트를 이미지 형식으로 변환합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -569,10 +569,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -582,7 +582,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Android via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Android via Java인가요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,7 +1,7 @@
 ---
-title: Java da MHT a PRN - Convertitore online da MHT a PRN
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Converti MHT in PRN saveformat. Java MHT in formato PRN. Salva MHT a PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to PRN saveformat., Free Online MHT to PRN Java., Java Convert MHT to PRN]
+title: Java Convertitore da MHT a PRN - Convertitore da MHT a PRN
+description: Aspose Excel. Converti MHT in PRN in modo rapido e semplice con Aspose.Cells. Java MHT in PRN. Java Salva MHT su PRN. Salva MHT come PRN utilizzando Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to PRN in Java., Save MHT to PRN using Java., Java MHT to PRN saveformat., MHT to PRN Converter., Java Save MHT as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHT in PRN in Java" h2="Libreria Java ad alta velocità per la conversione di MHT in PRN. Questa è una soluzione software professionale per importare ed esportare MHT, PRN e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to PR
 
 {{% blocks/products/pf/agp/content h2="Converti MHT in PRN utilizzando Java" %}}
 
- Come posso convertire MHT in PRN? Con la libreria Aspose.Cells for Java, puoi convertire facilmente MHT in PRN a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso convertire MHT in PRN? Con la libreria Aspose.Cells for Java, puoi convertire facilmente MHT in PRN a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. Java Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to PR
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva MHT in PRN in Java online gratuitamente" %}}
+{{% blocks/products/pf/agp/content h2="Salva MHT nel PRN allo Java" %}}
 
 L'esempio seguente mostra come convertire MHT in PRN in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,28 +56,28 @@ Segui i semplici passaggi per convertire MHT in PRN. Carica il tuo file MHT, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire MHT in PRN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire MHT in PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHT in PRN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file MHT in PRN a livello di programmazione? Java gli sviluppatori possono facilmente convertire MHT in PRN in poche righe di codice.
+Hai bisogno di convertire i file MHT in PRN a livello di codice? Java gli sviluppatori possono convertire facilmente MHT in PRN in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Java'.
-1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
+1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file MHT con un'istanza della classe Workbook.
 1.  Converti MHT in PRN chiamando il metodo Workbook.save.
-1.  Ottieni il risultato della conversione di MHT in PRN.
+1.  Ottieni il risultato della conversione da MHT a PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java libreria per convertire MHT in PRN" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire MHT in PRN" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un comune file JAR contenente byte-code. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
+ Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -86,45 +86,45 @@ Hai bisogno di convertire i file MHT in PRN a livello di programmazione? Java gl
 
 {{% blocks/products/pf/agp/text %}}
 
- Prima di eseguire il codice sorgente della conversione Java, assicurati di avere i seguenti prerequisiti.
+ Prima di eseguire il codice sorgente della conversione Java, assicurati di disporre dei seguenti prerequisiti.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 - Ottieni l'ultima versione di Aspose.Cells for Java direttamente da Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un singolo file. Può memorizzare dati come testo, immagini, stile della pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate in esso. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explore e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file che appare in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un file con estensione .mht è un formato di file di archiviazione abilitato MIME che contiene diversi tipi di dati in un unico file. Può archiviare dati come testo, immagini, stili di pagina sotto forma di file CSS, JavaScript e altre risorse come risorse incorporate al suo interno. I file MHT, con tipo MIME message/rfc822, incapsulano tutto il contenuto di un file HTML come un singolo file di archivio per l'archiviazione su dispositivi di archiviazione. Applicazioni software come Microsoft Word ti consentono di convertire i tuoi documenti WORD in MHT esportandoli come file MHT. I file MHT possono essere aperti utilizzando i browser più diffusi come Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file visualizzata in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire MHT in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-bmp/" name="MHT AL BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-gif/" name="MHT AL GIF" description="Formato di interscambio grafico" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-html/" name="MHT AL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-md/" name="MHT A MD" description="Lingua di markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-ods/" name="MHT AL ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-md/" name="MHT A MD" description="Linguaggio di ribasso" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-ods/" name="MHT AL ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-pdf/" name="MHT AL PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-png/" name="MHT AL PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-svg/" name="MHT AL SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tiff/" name="MHT AL TIFF" description="Formato immagine contrassegnato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tsv/" name="MHT AL TSV" description="Valori separati da tabulazioni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-txt/" name="MHT AL TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xls/" name="MHT AL XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsb/" name="MHT AL XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsm/" name="MHT AL XLSM" description="File di foglio di calcolo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsx/" name="MHT AL XLSX" description="File Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlt/" name="MHT AL XLT" description="Microsoft Modello Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltm/" name="MHT AL XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel Office OpenXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xml/" name="MHT A XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltx/" name="MHT AL XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xml/" name="MHT IN XML" description="Linguaggio di markup estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xps/" name="MHT AL XPS" description="Specifiche della carta XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-json/" name="MHT AL JSON" description="Notazione oggetto JavaScript" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-jpeg/" name="MHT AL JPEG" description="JPEG Immagine" >}}

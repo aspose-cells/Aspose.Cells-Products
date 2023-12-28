@@ -11,11 +11,11 @@ url: /ko/tutorial/add-textbox-in-excel
 {{< blocks/products/pf/feature-page-section h2="Aspose.Cells로 TextBox를 추가하는 방법 알아보기" >}}
 
 <p>
-이 자습서에서는 Excel 파일에 TextBox를 추가합니다.
+이 튜토리얼에서는 Excel 파일에 TextBox를 추가하겠습니다.
 </p>
 
 <p>
- 다음을 사용하여 새 통합 문서를 만드는 것으로 시작합니다.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 도서관</a> TextBox를 추가합니다.
+ 다음을 사용하여 새 통합 문서를 만드는 것부터 시작하겠습니다.<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells 도서관</a> 그리고 TextBox를 추가하세요.
 </p>
 
 <br />
@@ -30,30 +30,30 @@ url: /ko/tutorial/add-textbox-in-excel
 //ExStart
 //ExStep:0-
 Aspose.Cells 사용;
-Aspose.Cells.도면 사용;
+Aspose.Cells.드로잉 사용;
 
-통합 문서 통합 문서 = new Workbook();
+통합 문서 통합 문서 = 새 통합 문서();
 워크시트 시트 = workbook.Worksheets[0];
-sheet.PageSetup.PrintGridlines = 참;
+sheet.PageSetup.PrintGridlines = true;
 sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection 도형 = sheet.Shapes;
+ShapeCollection 모양 = sheet.Shapes;
 
 //TextBox 추가 및 텍스트 설정
-TextBox textBox = shapes.AddTextBox(1, 0, 1, 0, 200, 200);
+TextBox textBox = 모양.AddTextBox(1, 0, 1, 0, 200, 200);
 textBox.Text = "Aspose.Cells for .NET은 소프트웨어 개발자가 자신의 응용 프로그램 내에서 스프레드시트 파일을 조작하고 처리할 수 있도록 하는 프로그래밍 클래스 라이브러리입니다.";
 
-//Ex단계:1-
+//ExStep:1-
 //텍스트 색상 변경
-textBox.Font.Color = 색상.파란색;
+textBox.Font.Color = Color.Blue;
 
-//Ex단계:2-
-//TextBox의 회전 각도 변경
+//ExStep:2-
+//TextBox의 회전 각도를 변경합니다.
 textBox.RotationAngle = 90;
 
 //ExStep:0-
 
-//ExEnd
+//종료
 {{< /app/cells/tutorial >}}
 <br />
 

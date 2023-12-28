@@ -2,6 +2,7 @@
 title:  Wstaw kształty równań do programu Excel via Java
 weight: 360
 description: Wstaw obiekty za pomocą Aspose.Cells' Java API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp.
+keywords: [Java Aspose.Cells., Java add equation shapes., Java insert equation shapes., Java create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wstaw kształty równań do programu Excel via Java" h2="Wstaw kształty równań za pomocą Aspose.Cells\' API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Wstaw obiekty za pomocą Aspose.Cells' Java API bez żadnego oprogr
 
 {{% blocks/products/pf/agp/content h2="Jak wstawić kształty równań do pliku Excel za pomocą Java" %}}
 
- Aby wstawić kształty równań do pliku programu Excel, użyjemy
+ Aby wstawić kształty równań do pliku Excel, użyjemy
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
+ API, która jest bogatą w funkcje, wydajną i łatwą w obsłudze platformą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -50,14 +51,14 @@ description: Wstaw obiekty za pomocą Aspose.Cells' Java API bez żadnego oprogr
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić kształty równań do pliku Excel via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki wstawiania kształtów równań do pliku Excel via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
-+ Wybierz arkusz roboczy za pomocą jego indeksu.
++ Tworzenie instancji obiektu skoroszytu. (lub-> Załaduj plik XLSX z pełną ścieżką.)
++ Wybierz Arkusz poprzez jego indeks.
  + Użyj[dodaj metodę](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) , aby wstawić kształty równań w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
@@ -71,12 +72,12 @@ Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną śc
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typów można znaleźć w sekcji „Przegląd typów kształtów równań” poniżej.
+Przykładowy kod poniżej pokazuje, jak wstawić „plus matematyczny”. Więcej typów można znaleźć w sekcji „Przegląd typów kształtów równań” poniżej.
 
 {{% blocks/products/pf/agp/code-block title="Wstaw kształty równań — Java" offSpacer="" %}}
 
@@ -103,7 +104,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typó
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Typ autokształtu.MATH_MINUS
+Typ autokształtu.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">
@@ -143,7 +144,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typó
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Cells for Java API" %}}
 
- Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
+ Aspose.Cells API można używać do tworzenia, edytowania, konwertowania i renderowania formatów Excel Microsoft do różnych formatów. Co więcej, można go używać do kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Numer Aspose.Cells jest samodzielnym numerem API i nie wymaga żadnego oprogramowania takiego jak Microsoft czy OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

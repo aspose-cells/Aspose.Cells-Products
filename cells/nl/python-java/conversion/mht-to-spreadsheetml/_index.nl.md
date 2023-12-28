@@ -1,7 +1,7 @@
 ---
-title: Python MHT naar SPREADSHEETML - Online MHT naar SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer MHT naar SPREADSHEETML opslagformaat. Python MHT naar SPREADSHEETML-indeling. Sla MHT op in SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to SPREADSHEETML saveformat., Free Online MHT to SPREADSHEETML Python., Python Convert MHT to SPREADSHEETML]
+title: Python MHT naar SPREADSHEETML - MHT naar SPREADSHEETML-converter
+description: Aspose Excel. Converteer MHT snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Python MHT naar SPREADSHEETML. Python MHT opslaan in SPREADSHEETML. Sla MHT op als SPREADSHEETML met Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHT to SPREADSHEETML in Python., Save MHT to SPREADSHEETML using Python., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Python Save MHT as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHT naar SPREADSHEETML in Python" h2="Snelle Python-bibliotheek voor het converteren van MHT naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van MHT, SPREADSHEETML en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Converteer MHT naar SPREADSHEETML met behulp van Python" %}}
 
- Hoe converteer ik MHT naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Python kunt u MHT eenvoudig programmatisch naar SPREADSHEETML converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik MHT naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Python kunt u MHT eenvoudig programmatisch naar SPREADSHEETML converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla MHT gratis op naar SPREADSHEETML in Python Online" %}}
+{{% blocks/products/pf/agp/content h2="Sla MHT op in SPREADSHEETML in Python" %}}
 
-Het volgende voorbeeld laat zien hoe u MHT converteert naar SPREADSHEETML in Python.
+In het volgende voorbeeld ziet u hoe u MHT naar SPREADSHEETML converteert in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om MHT naar SPREADSHEETML te converteren. Upload uw MHT-bestand en sla het eenvoudig op als SPREADSHEETML-bestand. Voor zowel MHT-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SPREADSHEETML zijn identiek aan het originele MHT-document.
+Volg de eenvoudige stappen om MHT naar SPREADSHEETML te converteren. Upload uw MHT-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel MHT-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer van de SPREADSHEETML-inhoud en -opmaak zijn identiek aan het originele MHT-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om MHT online naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om MHT naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe MHT naar SPREADSHEETML te converteren via Python" %}}
+{{% blocks/products/pf/agp/content h2="MHT naar SPREADSHEETML converteren via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u MHT-bestanden programmatisch naar SPREADSHEETML converteren? Python-ontwikkelaars kunnen MHT eenvoudig laden en converteren naar SPREADSHEETML in slechts een paar regels code.
+Wilt u MHT-bestanden programmatisch naar SPREADSHEETML converteren? Python-ontwikkelaars kunnen MHT eenvoudig in slechts een paar regels code laden en converteren naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad MHT-bestand met een instantie van Workbook.
-1.  Converteer MHT naar SPREADSHEETML door de methode Workbook.save aan te roepen.
+1.  Laad het MHT-bestand met een exemplaar van Workbook.
+1.  Converteer MHT naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van MHT naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python bibliotheek om MHT naar SPREADSHEETML te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Python-bibliotheek om MHT naar SPREADSHEETML te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,35 +63,35 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Een bestand met de extensie .mht is een door MIME ingeschakelde bestandsindeling voor archivering die verschillende soorten gegevens in één bestand bevat. Het kan gegevens opslaan zoals tekst, afbeeldingen, pagina-opmaak in de vorm van CSS-bestanden, JavaScript en andere bronnen als ingebedde bronnen. MHT-bestanden, met MIME-type message/rfc822, kapselen alle inhoud van een HTML-bestand in als een enkel archiefbestand voor opslag bij archivering op opslagapparaten. Met softwaretoepassingen zoals Microsoft Word kunt u uw WORD-documenten naar MHT converteren door ze als MHT-bestand te exporteren. MHT-bestanden kunnen worden geopend met populaire browsers zoals Microsoft Internet Explore en Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language en is vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het maken van het XML-bestandsformaat was om gegevens op te slaan en te transporteren zonder afhankelijk te zijn van software- of hardwaretools. Zijn populariteit is te danken aan het feit dat het zowel door mensen als door machines leesbaar is. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals World Wide Web (WWW). De "X" in XML staat voor uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen volgens de vereisten van de gebruiker. Het is voor deze functies dat veel standaard bestandsindelingen er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Een bestand met de extensie .mht is een MIME-compatibel archiveringsbestandsformaat dat verschillende soorten gegevens in één bestand bevat. Het kan gegevens zoals tekst, afbeeldingen, paginastijlen in de vorm van CSS-bestanden, JavaScript en andere bronnen opslaan als ingebedde bronnen. MHT-bestanden, met het MIME-type message/rfc822, kapselen de volledige inhoud van een HTML-bestand in als een enkel archiefbestand voor opslag tijdens archivering op opslagapparaten. Met softwaretoepassingen zoals Microsoft Word kunt u uw WORD-documenten naar MHT converteren door ze als MHT-bestand te exporteren. MHT-bestanden kunnen worden geopend met populaire browsers zoals Microsoft Internet Explore en Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language, vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het creëren van het XML-bestandsformaat was het opslaan en transporteren van gegevens zonder afhankelijk te zijn van software- of hardwaretools. De populariteit is te danken aan het feit dat het zowel door mensen als door machines kan worden gelezen. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals het World Wide Web (WWW). De "X" in XML is uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen, afhankelijk van de gebruikersvereisten. Het is voor deze functies dat veel standaard bestandsformaten er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt MHT ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt MHT ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-bmp/" name="MHT NAAR BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT NAAR EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-gif/" name="MHT NAAR GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT NAAR HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT NAAR HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT NAAR MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT NAAR ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT NAAR MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT NAAR ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-pdf/" name="MHT NAAR PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-png/" name="MHT NAAR PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-svg/" name="MHT NAAR SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT NAAR TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tiff/" name="MHT NAAR TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-tsv/" name="MHT NAAR TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-txt/" name="MHT NAAR TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xls/" name="MHT NAAR XLS" description="Excel binair formaat" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk plat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsm/" name="MHT NAAR XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlsx/" name="MHT NAAR XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlt/" name="MHT NAAR XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT NAAR XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT NAAR XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT NAAR XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xps/" name="MHT NAAR XPS" description="XML-papierspecificaties" >}}

@@ -1,17 +1,18 @@
 ---
-title:  Microsoft Konwersja plików programu Excel za pośrednictwem C#
-description: Konwertuj Excel XLS, XLSX, ODS, CSV na PDF, XPS, HTML, JPEG, HTML i wiele innych popularnych formatów za pomocą zaledwie kilku linii kodu C# .
+title:  Microsoft Konwersja plików Excel za pośrednictwem C#
+description: Aspose.Cells for .NET biblioteka. Konwertuj formaty EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG i więcej za pomocą zaledwie kilku linii kodu C#.
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konwersja formatu programu Excel via .NET" h2="Importuj i eksportuj pliki Excel jako formaty arkuszy kalkulacyjnych, stron internetowych, obrazów i o stałym układzie" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konwersja formatu Excel via .NET" h2="Importuj i eksportuj pliki Excel w formacie arkusza kalkulacyjnego, Internetu, obrazu i formatu o stałym układzie" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel Library przyspiesza procesy programowania i konwersji arkuszy kalkulacyjnych, jednocześnie obsługując popularne formaty, w tym XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761934 81. Umożliwia także eksport plików Excel na numery PDF, XPS, HTML, MHTML, zwykły Tekst i popularne formaty graficzne, takie jak TIFF, JPG, PNG, BMP i SVG.
+.NET Biblioteka Excel przyspiesza programowanie arkuszy kalkulacyjnych i procesy konwersji, obsługując jednocześnie popularne formaty, w tym XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS Umożliwia także eksport plików Excel do numerów PDF, XPS, HTML, MHTML, Zwykły Tekst i popularne formaty obrazów, takie jak TIFF, JPG, PNG, BMP i SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj Excel na XLSX, ODS, SXC i FODS" %}}
- Wzajemna konwersja formatu arkusza kalkulacyjnego wymaga jedynie załadowania arkusza kalkulacyjnego z instancją[zeszyt ćwiczeń](https://reference.aspose.com/cells/net/aspose.cells/workbook) i zapisywanie z powrotem w żądanym formacie, wybierając odpowiednią wartość z[ZapiszFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) wyliczenie.
-{{% blocks/products/pf/feature-page-code h3="C# Kod do konwersji formatu pliku programu Excel" %}}
+ Wzajemna konwersja formatu arkusza kalkulacyjnego wymaga jedynie załadowania arkusza kalkulacyjnego z instancją[zeszyt ćwiczeń](https://reference.aspose.com/cells/net/aspose.cells/workbook) i zapisz ponownie w żądanym formacie, wybierając odpowiednią wartość z[ZapiszFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) wyliczenie.
+{{% blocks/products/pf/feature-page-code h3="C# Kod do konwersji formatu pliku Excel" %}}
 
 ```cs
 // load the template file
@@ -27,9 +28,9 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Konwertuj Excel na PDF, XPS, HTML & MD" %}}
- Dostępne są wyspecjalizowane klasy do sterowania procesem konwersji dla określonych formatów wyjściowych, takich jak[PdfZapiszOpcje](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) eksportować pliki Excel jako PDF,[XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) do konwersji Excela na XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) renderować program Excel jako HTML i[Opcje zapisu Markdown](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) do konwersji Excela na Markdown.
-{{% blocks/products/pf/feature-page-code h3="C# Kod programu Excel na numer PDF i formaty internetowe" %}}
+{{% blocks/products/pf/feature-page-section h2="Konwertuj Excel na PDF, XPS, HTML i MD" %}}
+ Dostępne są wyspecjalizowane klasy kontrolujące proces konwersji dla określonych formatów wyjściowych, takich jak[Opcje zapisywania PDF](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) aby wyeksportować pliki Excel pod numerem PDF,[Opcje XpsSave](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) dla konwersji Excela na XPS,[Opcje HTMLSave](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) aby renderować Excel jako HTML i[Opcje zapisywania Markdown](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) do konwersji Excela na Markdown.
+{{% blocks/products/pf/feature-page-code h3="C# Kod dla programu Excel do PDF i formatów internetowych" %}}
 
 ```cs
 // load template Excel file from disc
@@ -49,8 +50,8 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj JSON na Excel i Excel na JSON" %}}
- JSON dane mogą być importowane do instancji[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klasa z pomocą[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)do dalszego przetwarzania lub prostej konwersji do dowolnego obsługiwanego formatu. Podobnie,[Karta pracy](https://reference.aspose.com/cells/net/aspose.cells/worksheet) dane można wyeksportować jako JSON, tworząc plik[Zakres](https://reference.aspose.com/cells/net/aspose.cells/range) lub komórki i dzwoniąc pod numer[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metoda.
-{{% blocks/products/pf/feature-page-code h3="C# Kod do konwersji JSON do programu Excel" %}}
+ Dane JSON można zaimportować do instancji[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) zajęcia przy pomocy[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) do dalszego przetwarzania lub prostej konwersji do dowolnego obsługiwanego formatu. Podobnie,[Arkusz](https://reference.aspose.com/cells/net/aspose.cells/worksheet) dane można wyeksportować jako JSON, tworząc plik[Zakres](https://reference.aspose.com/cells/net/aspose.cells/range) lub komórek i wywołanie[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metoda.
+{{% blocks/products/pf/feature-page-code h3="C# Kod do konwersji JSON na Excel" %}}
 ```cs
 // create a Workbook object
 var workbook = new Cells.Workbook();
@@ -67,7 +68,7 @@ workbook.Save("output.xlsx", Cells.SaveFormat.Auto);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# Kod programu Excel do konwersji JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod dla programu Excel do konwersji JSON" %}}
 ```cs
 // load XLSX file with an instance of Workbook
 var workbook = new Workbook("template.xlsx", new LoadOptions(Cells.LoadFormat.Auto));
@@ -88,7 +89,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj arkusze programu Excel na JPG, BMP, PNG i GIF" %}}
- Każdy arkusz kalkulacyjny pliku programu Excel można przekonwertować na różne formaty obrazu ustawione przez program[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) nieruchomość. Wartość domyślna to `ImageFormat.Bmp`.
+ Każdy arkusz pliku Excel można przekonwertować na różne formaty obrazu określone przez[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) nieruchomość. Wartość domyślna to `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Kod do konwersji programu Excel na obraz" %}}
 ```cs
 // load template spreadsheet
@@ -109,8 +110,8 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj Excel na Word i PowerPoint" %}}
- Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i przekonwertowanie go na pliki Word DOCX & PowerPoint PPTX podczas używania[Opcje DocxSave](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [Opcje PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)klasy, jak pokazano poniżej.
-{{% blocks/products/pf/feature-page-code h3="C# kod do konwersji programu Excel na Word i PowerPoint" %}}
+Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i konwersja go do plików Word DOCX i PowerPoint PPTX podczas korzystania[Opcje DocxSave](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [Opcje PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) klas, jak pokazano poniżej.
+{{% blocks/products/pf/feature-page-code h3="Kod C# dla programu Excel do Word i konwersji PowerPoint" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

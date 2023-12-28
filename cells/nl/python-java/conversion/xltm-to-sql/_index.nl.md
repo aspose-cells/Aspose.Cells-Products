@@ -1,7 +1,7 @@
 ---
-title: Python XLTM naar SQL - Online XLTM naar SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer XLTM naar SQL-opslagformaat. Python XLTM naar SQL-indeling. Sla XLTM op in SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to SQL saveformat., Free Online XLTM to SQL Python., Python Convert XLTM to SQL]
+title: Python XLTM naar SQL - XLTM naar SQL-converter
+description: Aspose Excel. Converteer XLTM snel en eenvoudig naar SQL met Aspose.Cells. Python XLTM naar SQL. Python Sla XLTM op in SQL. Sla XLTM op als SQL met behulp van Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to SQL in Python., Save XLTM to SQL using Python., Python XLTM to SQL saveformat., XLTM to SQL Converter., Python Save XLTM as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar SQL in Python" h2="Snelle Python-bibliotheek voor het converteren van XLTM naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, SQL en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Converteer XLTM naar SQL met behulp van Python" %}}
 
- Hoe converteer ik XLTM naar SQL? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig XLTM programmatisch converteren naar SQL met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik XLTM naar SQL? Met de bibliotheek Aspose.Cells for Python kunt u XLTM eenvoudig programmatisch naar SQL converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLTM op naar SQL in Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLTM op in SQL in Python" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTM converteert naar SQL in Python.
+In het volgende voorbeeld ziet u hoe u XLTM naar SQL converteert in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om XLTM naar SQL te converteren. Upload uw XLTM-bestand en sla het eenvoudig op als SQL-bestand. Voor zowel het lezen van XLTM als het schrijven van SQL kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLTM-document.
+Volg de eenvoudige stappen om XLTM naar SQL te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLTM-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLTM-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLTM naar SQL Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLTM naar SQL te converteren via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar SQL converteren? Python-ontwikkelaars kunnen eenvoudig XLTM laden en converteren naar SQL in slechts een paar regels code.
+Wilt u XLTM-bestanden programmatisch naar SQL converteren? Python-ontwikkelaars kunnen XLTM eenvoudig in slechts een paar regels code laden en converteren naar SQL.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand XLTM met een instantie van Workbook.
-1.  Converteer XLTM naar SQL door de methode Workbook.save aan te roepen.
-1.  Verkrijg het conversieresultaat van XLTM naar SQL.
+1.  Laad het bestand XLTM met een exemplaar van Workbook.
+1.  Converteer XLTM naar SQL door de Workbook.save-methode aan te roepen.
+1.  Haal het conversieresultaat van XLTM naar SQL op.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python-bibliotheek om XLTM naar SQL te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Python bibliotheek om XLTM naar SQL te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,35 +63,35 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}De bestandsextensie XLTM vertegenwoordigt bestanden die zijn gegenereerd door Microsoft Excel als sjabloonbestanden met macro's. XLTM-bestanden zijn qua structuur vergelijkbaar met XLTX, behalve dat de laatste geen ondersteuning biedt voor het maken van sjabloonbestanden met macro's. Dergelijke sjabloonbestanden worden gebruikt om de lay-out, opmaak en andere instellingen samen met de macro's te genereren en in te stellen om het maken van vergelijkbare XLSX-bestanden te vergemakkelijken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een Structured Query Language (SQL)-bestand dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) op databases. SQL-bestanden komen vaak voor bij het werken met desktop- en webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere platte-teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}De bestandsextensie XLTM vertegenwoordigt bestanden die door Microsoft Excel worden gegenereerd als sjabloonbestanden met macro's. XLTM-bestanden zijn qua structuur vergelijkbaar met XLTX, behalve dat de laatste geen ondersteuning biedt voor het maken van sjabloonbestanden met macro's. Dergelijke sjabloonbestanden worden gebruikt om de lay-out, opmaak en andere instellingen samen met de macro's te genereren en in te stellen, zodat het maken van vergelijkbare XLSX-bestanden vervolgens wordt vergemakkelijkt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een SQL-bestand (Structured Query Language) dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) in databases. SQL-bestanden komen vaak voor bij het werken met zowel desktop- als webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLTM ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLTM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-bmp/" name="XLTM TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-gif/" name="XLTM TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-html/" name="XLTM TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-html/" name="XLTM TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-md/" name="XLTM NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-mhtml/" name="XLTM TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-ods/" name="XLTM TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-mhtml/" name="XLTM TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-ods/" name="XLTM TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-pdf/" name="XLTM TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-png/" name="XLTM TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-svg/" name="XLTM TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-tiff/" name="XLTM TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-tiff/" name="XLTM TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-tsv/" name="XLTM TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-txt/" name="XLTM TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-xls/" name="XLTM TOT XLS" description="Excel binair formaat" >}}

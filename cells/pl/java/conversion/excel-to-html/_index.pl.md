@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL na HTML - Konwerter online EXCEL na HTML
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Bezpłatnie online Java Konwertuj EXCEL na format zapisu HTML. Java EXCEL do formatu HTML. Zapisz EXCEL pod numerem HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to HTML saveformat., Free Online EXCEL to HTML Java., Java Convert EXCEL to HTML]
+title: Java EXCEL do HTML - Konwerter EXCEL do HTML
+description: Aspose Excel. Konwertuj EXCEL na HTML szybko i łatwo za pomocą Aspose.Cells. Java EXCEL na HTML. Java Zapisz EXCEL na HTML. Zapisz EXCEL jako HTML używając Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to HTML in Java., Save EXCEL to HTML using Java., Java EXCEL to HTML saveformat., EXCEL to HTML Converter., Java Save EXCEL as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na HTML w Java" h2="Szybka biblioteka Java do konwersji EXCEL na HTML. Jest to profesjonalne oprogramowanie do importowania i eksportowania EXCEL, HTML i wielu innych formatów przy użyciu Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Konwertuj EXCEL na HTML za pomocą Java" %}}
 
- Jak przekonwertować EXCEL na HTML? Dzięki bibliotece Aspose.Cells for Java możesz łatwo przekonwertować program EXCEL na HTML za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak przekonwertować EXCEL na HTML? Dzięki bibliotece Aspose.Cells for Java możesz łatwo przekonwertować programowo EXCEL na HTML za pomocą kilku linijek kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz EXCEL pod numerem HTML w Java Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz EXCEL pod numerem HTML w Java" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować EXCEL na HTML w Java.
+Poniższy przykład ilustruje, jak przekonwertować program EXCEL na HTML w Java.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować plik EXCEL na HTML. Prześlij plik EXCEL, a następnie po prostu zapisz go jako plik HTML. Zarówno do odczytu EXCEL, jak i zapisu HTML można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie HTML będą identyczne z oryginalnym dokumentem EXCEL.
+Wykonaj proste kroki, aby przekonwertować plik EXCEL na HTML. Prześlij plik EXCEL, a następnie po prostu zapisz go jako plik HTML. Zarówno do odczytu w formacie EXCEL, jak i do zapisu HTML można używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego HTML będą identyczne z oryginalnym dokumentem EXCEL.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na HTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Przykładowy kod do konwersji programu Excel na HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na HTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki EXCEL na HTML? Java programiści mogą łatwo przekonwertować EXCEL na HTML w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki EXCEL na HTML? Programiści Java mogą łatwo przekonwertować EXCEL na HTML w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Chcesz programowo przekonwertować pliki EXCEL na HTML? Java programiści mogą 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java biblioteka do konwersji EXCEL na HTML" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Java do konwersji programu EXCEL na HTML" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Hostujemy nasze paczki Java w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w swoim środowisku deweloperskim Java.
+ Nasze pakiety Java hostujemy w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w środowisku programistycznym Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,44 +90,44 @@ Chcesz programowo przekonwertować pliki EXCEL na HTML? Java programiści mogą 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) to rozszerzenie dla stron internetowych stworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań informacyjnych, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant jest znany jako HTML 5, co daje dużą elastyczność w pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być ładowane również z systemu lokalnego. Każda strona HTML składa się z HTML elementów, takich jak formularze, tekst, obrazy, animacje, linki itp. Elementy te są reprezentowane przez znaczniki i kilka innych, gdzie każdy znacznik ma początek i koniec. Może również osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i arkusze stylów (CSS) w celu ogólnej reprezentacji układu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Nowy format opiera się na strukturze zorganizowanej zgodnie z konwencjami Open Packaging Convention jak opisano w części 2 standardu OOXML ECMA-376. pakiet zip zawierający wiele plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) to rozszerzenie stron internetowych stworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań informacyjnych, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant jest znany jako HTML 5 i zapewnia dużą elastyczność pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być ładowane również z systemu lokalnego. Każda strona HTML składa się z HTML elementów, takich jak formularze, tekst, obrazy, animacje, linki itp. Elementy te są reprezentowane przez znaczniki i kilka innych, gdzie każdy znacznik ma początek i koniec. Może także osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i arkusze stylów (CSS), w celu ogólnej reprezentacji układu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować EXCEL na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-bmp/" name="EXCEL DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-emf/" name="EXCEL DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-emf/" name="EXCEL DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-gif/" name="EXCEL DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-html/" name="EXCEL DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-md/" name="EXCEL DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-mhtml/" name="EXCEL DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-md/" name="EXCEL DLA MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-mhtml/" name="EXCEL DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-ods/" name="EXCEL DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-pdf/" name="EXCEL DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-png/" name="EXCEL DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-svg/" name="EXCEL DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-tiff/" name="EXCEL DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-tsv/" name="EXCEL DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-tsv/" name="EXCEL DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-txt/" name="EXCEL DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xls/" name="EXCEL DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlsb/" name="EXCEL DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlsm/" name="EXCEL DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlsx/" name="EXCEL DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlt/" name="EXCEL DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlt/" name="EXCEL DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xltm/" name="EXCEL DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xltx/" name="EXCEL DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xltx/" name="EXCEL DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xml/" name="EXCEL DO XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xps/" name="EXCEL DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-json/" name="EXCEL DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-jpeg/" name="EXCEL DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-jpeg/" name="EXCEL DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

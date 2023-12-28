@@ -1,10 +1,11 @@
 ---
-title:  C++ Programowanie arkusza kalkulacyjnego Excel API - Aspose
+title: C++ Programowanie arkusza kalkulacyjnego Excel API - Aspose
 weight: 7140
-description: C++ Biblioteka programu Excel do odczytu i analizy plików, w tym formatów XLS, XLSX, XLSM i XLSB. Konwertuj arkusze kalkulacyjne na formaty PDF, CSV i więcej
+description: Aspose.Cells for C++ biblioteka do tworzenia, naprawy, scalania, analizowania i konwertowania plików Excel. Konwertuj program Excel na PDF, JSON, XML, TSV i tak dalej.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Interfejsy API arkuszy kalkulacyjnych programu Excel" h2="Twórz, czytaj, zapisuj i analizuj arkusze kalkulacyjne bez żadnych zależności Microsoft Excel w ramach w pełni funkcjonalnych aplikacji C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Interfejsy API arkuszy kalkulacyjnych Excel" h2="Twórz, czytaj, zapisuj i analizuj arkusze kalkulacyjne bez żadnych zależności Excela Microsoft w ramach w pełni funkcjonalnych aplikacji C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +13,7 @@ description: C++ Biblioteka programu Excel do odczytu i analizy plików, w tym f
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ jest natywnym C++ API do manipulacji arkuszem kalkulacyjnym. Aplikacje mogą wykonywać funkcje, takie jak tworzenie, konwertowanie i edytowanie wbudowanych i niestandardowych właściwości arkuszy kalkulacyjnych, motywów, stylów i formatowania, sprawdzanie poprawności danych, formatowanie warunkowe, odczytywanie, zapisywanie i obliczanie formuł, grupowanie wierszy i kolumn oraz wiele innych bez polegania na automatyzacji pakietu Office lub Microsoft Excel. API obsługuje najczęściej używane formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX, XLSM i XLSB.
+ Aspose.Cells for C++ to natywny numer C++ API do manipulacji arkuszem kalkulacyjnym. Aplikacje mogą wykonywać takie funkcje, jak tworzenie, konwertowanie i edytowanie wbudowanych i niestandardowych właściwości arkusza kalkulacyjnego, motywów, stylów i formatowania, sprawdzanie poprawności danych, formatowanie warunkowe, odczytywanie, pisanie i obliczanie formuł, grupowanie wierszy i kolumn oraz wiele więcej bez polegania na automatyzacji pakietu Office lub Microsoft Excel. API obsługuje najczęściej używane formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX, XLSM i XLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +21,7 @@ description: C++ Biblioteka programu Excel do odczytu i analizy plików, w tym f
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd API." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -40,13 +41,13 @@ description: C++ Biblioteka programu Excel do odczytu i analizy plików, w tym f
  Stół obrotowy
     </li>
     <li>
- Stoły
+Stoły
     </li>
     <li>
  Wykresy
     </li>
     <li>
-Obliczanie formuł
+ Obliczanie formuł
     </li>
     <li>
  Walidacji danych
@@ -80,10 +81,10 @@ Obliczanie formuł
  Motywy
     </li>
     <li>
- Style &amp; Formatowanie
+ Style i amp; Formatowanie
     </li>
     <li>
- hiperłącza
+ Hiperłącza
     </li>
     <li>
  Autofiltry
@@ -121,7 +122,7 @@ Obliczanie formuł
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description=" API w pełni obsługuje aplikacje C++ na następujących platformach z[wymagania systemowe](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description=" API w pełni obsługuje aplikacje C++ na następujących platformach[wymagania systemowe](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -142,7 +143,7 @@ Obliczanie formuł
    <header>
     <i class="fa fa-cubes">
     </i>
- Linuks 64-bitowy
+ Linux 64-bitowy
    </header>
   </div>
   <!--/right-->
@@ -227,7 +228,7 @@ Obliczanie formuł
      <b>
  Obrazy:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ Obliczanie formuł
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Załaduj & amp; zapisywać pliki Excela za pomocą strumieni
+Załaduj &amp; zapisuj pliki Excel za pomocą strumieni
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,7 +289,7 @@ Obliczanie formuł
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie
+ Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie danych
     </p>
    </div>
    <div class="col-lg-4">
@@ -302,7 +303,7 @@ Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipuluj wbudowanymi &amp; niestandardowe właściwości
+ Manipuluj wbudowanymi &amp; właściwości niestandardowe
     </p>
    </div>
    <div class="col-lg-4">
@@ -337,7 +338,7 @@ Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Manipulowanie obiektami rysunkowymi
+ Manipuluj obiektami rysunkowymi
     </p>
    </div>
    <div class="col-lg-4">
@@ -358,7 +359,7 @@ Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Czytaj, pisz i amp; obliczać złożone formuły
+ Czytaj, pisz i &amp; obliczać złożone formuły
     </p>
    </div>
    <div class="col-lg-4">
@@ -398,34 +399,34 @@ Ustaw sprawdzanie poprawności danych, aby ograniczyć wprowadzanie
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Zero zależności od Microsoft Excel
+ Zerowa zależność od Microsoft Excel
     </h2>
     <p>
-Aspose API są całkowicie niezależne i nie są powiązane, nie są autoryzowane, sponsorowane ani w żaden inny sposób zatwierdzone przez Microsoft Corporation. Aspose.Cells for C++ nigdy nie potrzebuje Microsoft Office lub Microsoft Excel do zainstalowania na komputerze do pracy z formatami dokumentów Excel.
+Aspose Interfejsy API są całkowicie niezależne i nie są powiązane z firmą Microsoft Corporation, nie są autoryzowane, sponsorowane ani w żaden inny sposób przez nią zatwierdzane. Aspose.Cells for C++ nigdy nie potrzebuje Microsoft Office lub Microsoft Excel do zainstalowania na komputerze, aby pracować z formatami dokumentów Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- proste & amp; Niezawodna konwersja formatów Excel
+ Proste &amp; Niezawodna konwersja formatów Excel
     </h2>
     <p>
- Aspose.Cells for C++ to potężny zestaw interfejsów API, które umożliwiają ładowanie, edytowanie, zapisywanie i konwersję formatów plików programu Excel bez martwienia się o szczegóły specyficzne dla formatu. API umożliwia konwersję arkuszy kalkulacyjnych z dowolnego obsługiwanego formatu na dowolny inny obsługiwany format za pomocą zaledwie dwóch wierszy kodu. To takie proste!
+ Aspose.Cells for C++ to potężny zestaw interfejsów API, które zapewniają możliwość ładowania, edytowania, zapisywania i wzajemnej konwersji formatów plików Excel bez martwienia się o szczegóły specyficzne dla formatu. API umożliwia konwersję arkuszy kalkulacyjnych z dowolnego obsługiwanego formatu na dowolny inny obsługiwany format za pomocą zaledwie dwóch linii kodu. To takie proste!
     </p>
     <div class="codeblock" id="code">
      <h3>
  Konwertuj pliki Excel w wielu formatach - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -433,7 +434,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  Kompleksowe formatowanie arkusza kalkulacyjnego
     </h2>
     <p>
-Aspose.Cells for C++ daje pełną kontrolę nad sposobem prezentacji danych w arkuszu, oferując zaawansowane funkcje formatowania. Możesz zastosować formatowanie do pojedynczego wiersza, kolumny, komórki lub utworzyć zakres komórek i zastosować do niego formatowanie. Możesz także dodać tekst sformatowany do komórki, zastosować obramowania, ustawić wzory tła lub dostosować aspekty stylistyczne czcionek.
+Aspose.Cells for C++ zapewnia pełną kontrolę nad sposobem prezentacji danych w arkuszu, oferując zaawansowane funkcje formatowania. Możesz zastosować formatowanie do poszczególnych wierszy, kolumn, komórek lub utworzyć zakres komórek i zastosować do nich formatowanie. Możesz także dodać tekst sformatowany do komórki, zastosować obramowania, ustawić wzory tła lub dostosować aspekty stylistyczne związane z czcionką.
     </p>
    </div>
    <div class="col-lg-12">
@@ -441,23 +442,23 @@ Aspose.Cells for C++ daje pełną kontrolę nad sposobem prezentacji danych w ar
  Wizualizuj dane za pomocą wykresów
     </h2>
     <p>
- Aspose.Cells for C++ oferuje kompleksowy zestaw interfejsów API do dynamicznego tworzenia wszystkich standardowych i niestandardowych typów wykresów obsługiwanych przez aplikację Excel. API zapewnia również możliwość aktualizacji źródła danych dla istniejącego wykresu i odświeżenia go.
+ Aspose.Cells for C++ oferuje kompleksowy zestaw interfejsów API do dynamicznego tworzenia wszystkich standardowych i niestandardowych typów wykresów obsługiwanych przez aplikację Excel. API zapewnia również możliwość aktualizacji źródła danych dla istniejącego wykresu i jego odświeżenia.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Renderuj arkusze robocze jako obrazy
+ Renderuj arkusze jako obrazy
     </h2>
     <p>
-Biblioteka renderuje z najwyższą wiernością do Microsoft Excel przy użyciu własnego silnika renderującego. Oferuje charakterystyczne funkcje, takie jak renderowanie arkuszy roboczych do obrazów w popularnych formatach, w tym BMP, TIFF, PNG, JPEG &amp; EMF. Proces Sheet2Image jest elastyczny, co pozwala na wybór opcji, takich jak sterowanie rozdzielczością wynikowego obrazu.
+Biblioteka renderuje z najwyższą wiernością do Microsoft Excel przy użyciu własnego silnika renderującego. Oferuje charakterystyczne funkcje, takie jak renderowanie arkuszy do obrazów w popularnych formatach, w tym BMP, PNG, JPEG &amp; EMF. Proces Sheet2Image jest elastyczny, co pozwala na wybór opcji, takich jak kontrolowanie rozdzielczości wynikowego obrazu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Manipulowanie kolumnami i wierszami
+ Manipuluj kolumnami i wierszami
     </h2>
     <p>
- Aspose.Cells for C++ oferuje manipulację wierszami i kolumnami na wiele sposobów. Dostosowanie wysokości wiersza i szerokości kolumny lub automatyczna zmiana rozmiaru komórki zgodnie z jej zawartością jest zbyt łatwe. API oferuje również środki do usuwania i wstawiania, ukrywania lub pokazywania, a także grupowania lub rozgrupowywania wierszy i kolumn.
+ Aspose.Cells for C++ umożliwia manipulowanie wierszami i kolumnami na wiele sposobów. Dostosowywanie wysokości wiersza i szerokości kolumny lub automatyczna zmiana rozmiaru komórki zgodnie z jej zawartością jest zbyt łatwa. Model API umożliwia także usuwanie i wstawianie, ukrywanie lub wyświetlanie, a także grupowanie lub rozgrupowywanie wierszy i kolumn.
     </p>
    </div>
    <div class="col-lg-12">
@@ -465,7 +466,7 @@ Biblioteka renderuje z najwyższą wiernością do Microsoft Excel przy użyciu 
  Dokładnie konwertuj arkusze kalkulacyjne na PDF
     </h2>
     <p>
-Biblioteka programu Excel C++ umożliwia konwersję arkuszy kalkulacyjnych do formatu PDF przy zachowaniu tej samej jakości co oryginalny dokument. Fakt ten sprawia, że Aspose.Cells for C++ jest idealnym wyborem dla organizacji, które wymagają wymiany dokumentów w formatach branżowych, takich jak PDF.
+Biblioteka Excel C++ umożliwia konwersję arkuszy kalkulacyjnych do formatu PDF przy zachowaniu tej samej jakości co oryginalny dokument. Fakt ten sprawia, że numer Aspose.Cells for C++ jest idealnym wyborem dla organizacji, które wymagają wymiany dokumentów w standardowych formatach branżowych, takich jak PDF.
     </p>
    </div>
    <!-- 

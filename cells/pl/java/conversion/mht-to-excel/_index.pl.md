@@ -1,7 +1,7 @@
 ---
-title: Java MHT to EXCEL — internetowy konwerter MHT na EXCEL
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Bezpłatnie online Java Konwersja formatu zapisu MHT do EXCEL. Java MHT do formatu EXCEL. Zapisz MHT w EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to EXCEL saveformat., Free Online MHT to EXCEL Java., Java Convert MHT to EXCEL]
+title: Java MHT na EXCEL - Konwerter MHT na EXCEL
+description: Aspose Excel. Szybko i łatwo przekonwertuj MHT na EXCEL za pomocą Aspose.Cells. Java MHT na EXCEL. Java Zapisz MHT w formacie EXCEL. Zapisz MHT jako EXCEL, używając numeru Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to EXCEL in Java., Save MHT to EXCEL using Java., Java MHT to EXCEL saveformat., MHT to EXCEL Converter., Java Save MHT as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHT na EXCEL w Java" h2="Szybka biblioteka Java do konwersji MHT na EXCEL. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHT, EXCEL i wielu innych formatów przy użyciu numeru Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to EX
 
 {{% blocks/products/pf/agp/content h2="Konwertuj MHT na EXCEL za pomocą Java" %}}
 
- Jak przekonwertować MHT na EXCEL? Dzięki bibliotece Aspose.Cells for Java możesz łatwo przekonwertować programowo MHT na EXCEL za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak przekonwertować MHT na EXCEL? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo przekonwertować MHT na EXCEL za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz MHT do EXCEL pod numerem Java online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz MHT w EXCEL pod numerem Java" %}}
 
 Poniższy przykład pokazuje, jak przekonwertować MHT na EXCEL w Java.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować MHT na EXCEL. Prześlij swój plik MHT, a następnie po prostu zapisz go jako plik EXCEL. Zarówno do odczytu MHT, jak i zapisu EXCEL można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie EXCEL będą identyczne z oryginalnym dokumentem MHT.
+Wykonaj proste kroki, aby przekonwertować MHT na EXCEL. Prześlij plik MHT, a następnie po prostu zapisz go jako plik EXCEL. Zarówno do odczytu MHT, jak i zapisu w programie EXCEL można używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego programu EXCEL będą identyczne z oryginalnym dokumentem MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji MHT na EXCEL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHT na EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHT na EXCEL via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki MHT do EXCEL? Java programiści mogą łatwo przekonwertować MHT na EXCEL w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki MHT na EXCEL? Programiści Java mogą z łatwością przekonwertować MHT na EXCEL w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Chcesz programowo przekonwertować pliki MHT do EXCEL? Java programiści mogą �
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java biblioteka do konwersji MHT na EXCEL" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Java do konwersji MHT na EXCEL" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Hostujemy nasze paczki Java w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w swoim środowisku deweloperskim Java.
+ Nasze pakiety Java hostujemy w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w środowisku programistycznym Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,44 +90,44 @@ Chcesz programowo przekonwertować pliki MHT do EXCEL? Java programiści mogą �
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Plik z rozszerzeniem .mht to format pliku archiwizacji obsługujący MIME, który zawiera różne typy danych w jednym pliku. Może przechowywać dane, takie jak tekst, obrazy, style strony w postaci plików CSS, JavaScript i inne zasoby jako osadzone w nim zasoby. Pliki MHT, mające komunikat typu MIME/rfc822, zawierają całą zawartość pliku HTML jako pojedynczy plik archiwum do przechowywania podczas archiwizacji na urządzeniach pamięci masowej. Aplikacje, takie jak Microsoft Word, umożliwiają konwersję dokumentów WORD do formatu MHT poprzez eksportowanie ich jako pliku MHT. Pliki MHT można otwierać za pomocą popularnych przeglądarek, takich jak Microsoft Internet Explorer i Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Plik z rozszerzeniem .mht to format pliku archiwizacji obsługujący MIME, który zawiera różne typy danych w jednym pliku. Może przechowywać dane, takie jak tekst, obrazy, styl strony w postaci plików CSS, JavaScript i innych zasobów jako zasoby osadzone w nim. Pliki MHT, posiadające komunikat typu MIME/rfc822, hermetyzują całą zawartość pliku HTML jako pojedynczy plik archiwum do przechowywania w archiwizacji na urządzeniach pamięci masowej. Aplikacje takie jak Microsoft Word umożliwiają konwersję dokumentów WORD do formatu MHT poprzez eksportowanie jako plik MHT. Pliki MHT można otwierać za pomocą popularnych przeglądarek, takich jak Microsoft Internet Explore i Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Nowy format opiera się na strukturze zorganizowanej zgodnie z konwencjami Open Packaging Convention jak opisano w części 2 standardu OOXML ECMA-376. pakiet zip zawierający wiele plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować MHT na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-bmp/" name="MHT DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-emf/" name="MHT DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-emf/" name="MHT DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-gif/" name="MHT DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-html/" name="MHT DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-md/" name="MHT DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-mhtml/" name="MHT DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-md/" name="MHT DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-mhtml/" name="MHT DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-ods/" name="MHT DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-pdf/" name="MHT DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-png/" name="MHT DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-svg/" name="MHT DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tiff/" name="MHT DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tsv/" name="MHT DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-tsv/" name="MHT DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-txt/" name="MHT DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xls/" name="MHT DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsb/" name="MHT DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsm/" name="MHT DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlsx/" name="MHT DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlt/" name="MHT DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xlt/" name="MHT DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltm/" name="MHT DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltx/" name="MHT DO XLTX" description="Szablon Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xml/" name="MHT DO XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xltx/" name="MHT DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xml/" name="MHT do XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-xps/" name="MHT DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-json/" name="MHT DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-jpeg/" name="MHT DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mht-to-jpeg/" name="MHT DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

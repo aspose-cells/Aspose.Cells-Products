@@ -4,7 +4,7 @@ weight: 6510
 description: Android-spreadsheetbibliotheek om Excel-bestanden te lezen, schrijven en parseren. Een spreadsheet API voor de ontwikkeling van mobiele apps
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Android API\'s om Excel-spreadsheets te manipuleren" h2="Maak, lees, schrijf of manipuleer Excel-bestanden binnen Android-apps zonder afhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android API\'s om Excel-spreadsheets te manipuleren" h2="Creëer, lees, schrijf of manipuleer Excel-bestanden binnen Android-apps zonder enige afhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -12,7 +12,7 @@ description: Android-spreadsheetbibliotheek om Excel-bestanden te lezen, schrijv
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Android via Java is een schaalbare API om spreadsheets programmatisch te genereren, combineren, wijzigen en ontleden. API biedt vele functies, waaronder Excel-documentopmaak en pagina-instellingstaken, import- en exportmogelijkheden, render werkbladpagina's naar rasterafbeeldingen en specificeert de beeldresolutie, kwaliteit, compressie, het toevoegen van verschillende grafieken en nog veel meer. Android-spreadsheet API ondersteunt XLS, XLSX, CSV, SpreadsheetML, ODS, door tabs gescheiden, HTML, PDF, XPS en meer indelingen.
+ Aspose.Cells for Android via Java is een schaalbare API om spreadsheets programmatisch te genereren, combineren, wijzigen en parseren. API biedt vele functies, waaronder Excel-documentopmaak en pagina-instellingstaken, import- en exportmogelijkheden, werkbladpagina's weergeven in rasterafbeeldingen en de afbeeldingsresolutie, kwaliteit, compressie specificeren, verschillende grafieken toevoegen en nog veel meer. Android-spreadsheet API ondersteunt XLS, XLSX, CSV, SpreadsheetML, ODS, door tabs gescheiden, HTML, PDF, XPS en meer formaten.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -95,7 +95,7 @@ Collecties
     <em>
  voor
     </em>
- Androïde via Java
+ Android-via Java
    </small>
   </footer>
  </div>
@@ -135,7 +135,7 @@ Collecties
     <em>
  voor
     </em>
- Androïde via Java
+ Android-via Java
    </small>
   </footer>
  </div>
@@ -144,7 +144,7 @@ Collecties
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Android-spreadsheet API ondersteunt de populaire Microsoft Excel-indelingen, afbeeldingen en indelingen met een vaste lay-out." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description="Android-spreadsheet API ondersteunt de populaire Microsoft Excel-formaten, afbeeldingen en formaten met een vaste lay-out." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -215,7 +215,7 @@ Collecties
     <em>
  voor
     </em>
- Androïde via Java
+ Android-via Java
    </small>
   </footer>
  </div>
@@ -249,7 +249,7 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Exporteer en importeer gegevens uit ArrayList, Array, Recordset &amp; Resultatenset
+ Gegevens exporteren en importeren uit ArrayList, Array, Recordset &amp; Resultatenset
     </p>
    </div>
    <div class="col-lg-4">
@@ -263,21 +263,21 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Stel de opmaak van getallen in
+ Getallenopmaak instellen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; grafieken manipuleren
+ Creëer &amp; grafieken manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; commentaren manipuleren
+ Creëer &amp; opmerkingen manipuleren
     </p>
    </div>
    <div class="col-lg-4">
@@ -291,14 +291,14 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Configureer de pagina-instelling
+ Configureer pagina-instellingen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Instellen &amp; automatische filters manipuleren &amp; pagina-einden
+ Instellen &amp; manipuleer automatische filters &amp; pagina-einden
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,14 +312,14 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak kopieën van bestaande werkbladen
+ Kopieën maken van bestaande werkbladen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Stel beveiligingsopties in die zijn geïntroduceerd sinds Microsoft Excel XP
+ Beveiligingsopties instellen die zijn geïntroduceerd sinds Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converteer werkbladen &amp; kaarten naar afbeeldingen
+ Werkbladen converteren &amp; grafieken naar afbeeldingen
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -419,14 +419,14 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; Draaitabellen manipuleren
+ Creëer &amp; draaitabellen manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; aangepaste grafieken manipuleren
+ Creëer &amp; aangepaste grafieken manipuleren
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,7 +440,7 @@ Pas opmaak toe op werkblad, rij, kolom, cel en bereik
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; manipuleren van scenario's
+ Creëer &amp; Scenario's manipuleren
     </p>
    </div>
    <div class="col-lg-4">
@@ -454,7 +454,7 @@ Krachtige formuleberekeningsengine
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lees &amp; schrijf TSV, CSV &amp; HTML bestanden
+ Lees &amp; schrijf TSV, CSV &amp; HTML-bestanden
     </p>
    </div>
    <div class="col-lg-12">
@@ -462,11 +462,11 @@ Krachtige formuleberekeningsengine
  Conversie van verschillende formaten
     </h2>
     <p>
- Android Excel-bibliotheek biedt conversie van spreadsheets naar XPS, PDF &amp; HTML formaten die de hoogste visuele getrouwheid behouden. Het betrouwbare conversieproces maakt API een perfecte keuze voor bedrijven voor het uitwisselen van bestanden in industriestandaard formaten.
+ Android Excel-bibliotheek biedt conversie van spreadsheets naar XPS, PDF &amp; HTML-formaten met de hoogste visuele betrouwbaarheid. Het betrouwbare conversieproces maakt API een perfecte keuze voor bedrijven voor het uitwisselen van bestanden in industriestandaardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Bewaar werkmap in verschillende formaten - Java
+ Werkmap opslaan in verschillende formaten - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -490,10 +490,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Converteer spreadsheetobjecten naar verschillende indelingen
+ Converteer spreadsheetobjecten naar verschillende formaten
     </h2>
     <p>
- Aspose.Cells for Android via Java bieden enkele onderscheidende kenmerken, zoals werkbladen voor afbeeldingen, grafieken voor afbeeldingen &amp; PDF en spreadsheets naar PDF conversie van documentformaat. Het flexibele proces heeft een aantal keuzes voor de conversie, zoals het opnieuw samplen van afbeeldingen tijdens spreadsheets naar PDF of het instellen van de resulterende afbeeldingsafmetingen bij het renderen van werkbladen &amp; grafieken naar afbeeldingsindelingen.
+ Aspose.Cells for Android via Java bieden een aantal onderscheidende kenmerken, zoals werkbladen bij afbeeldingen, grafieken bij afbeeldingen &amp; PDF en spreadsheets naar PDF documentformaatconversie. Het flexibele proces biedt een aantal keuzes voor de conversie, zoals het opnieuw samplen van afbeeldingen tijdens spreadsheets naar PDF of het instellen van de resulterende afbeeldingsafmetingen bij het renderen van werkbladen &amp; grafieken naar afbeeldingsformaten.
     </p>
    </div>
    <div class="col-lg-12">
@@ -501,7 +501,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 Spreadsheet API Formuleberekeningsengine
     </h2>
     <p>
- Android-bladen API biedt een krachtige Formula Calculation Engine die de geavanceerde en standaard Microsoft Excel-functies en -formules ondersteunt. Formuleberekeningsengine maakt het gemakkelijk om de resultaten van de ingebouwde of invoegtoepassing, array en R1C1-referentiestijlformules te lezen, in te stellen en te berekenen.
+ Android-bladen API biedt een krachtige formuleberekeningsengine die de geavanceerde en standaard Microsoft Excel-functies en formules ondersteunt. De formuleberekeningsengine maakt het gemakkelijk om de resultaten van de ingebouwde of invoegtoepassingstype-, array- en R1C1-referentiestijlformules te lezen, in te stellen en te berekenen.
     </p>
    </div>
    <!--
@@ -569,7 +569,7 @@ Spreadsheet API Formuleberekeningsengine
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referenties" href="https://reference.aspose.com/" >}}
@@ -579,11 +579,11 @@ Spreadsheet API Formuleberekeningsengine
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for Android via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -591,7 +591,7 @@ Spreadsheet API Formuleberekeningsengine
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python XLS naar ETT - Online XLS naar ETT Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer XLS naar ETT-opslagformaat. Python XLS naar ETT-formaat. Bewaar XLS naar ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to ETT saveformat., Free Online XLS to ETT Python., Python Convert XLS to ETT]
+title: Python XLS naar ETT - XLS naar ETT-converter
+description: Aspose Excel. Converteer XLS snel en eenvoudig naar ETT met Aspose.Cells. Python XLS naar ETT. Python Bewaar XLS in ETT. Sla XLS op als ETT met Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to ETT in Python., Save XLS to ETT using Python., Python XLS to ETT saveformat., XLS to ETT Converter., Python Save XLS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar ETT in Python" h2="Snelle Python-bibliotheek voor het converteren van XLS naar ETT. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, ETT en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Converteer XLS naar ETT met behulp van Python" %}}
 
- Hoe converteer ik XLS naar ETT? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig XLS programmatisch converteren naar ETT met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+Hoe converteer ik XLS naar ETT? Met de bibliotheek Aspose.Cells en for Python kunt u XLS eenvoudig programmatisch naar ETT converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bespaar XLS naar ETT in Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLS op in ETT in Python" %}}
 
-Het volgende voorbeeld laat zien hoe u XLS converteert naar ETT in Python.
+Het volgende voorbeeld laat zien hoe u XLS naar ETT converteert in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om XLS naar ETT te converteren. Upload uw XLS-bestand en sla het eenvoudig op als ETT-bestand. Voor zowel XLS lezen als ETT schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ETT-inhoud en -opmaak zullen identiek zijn aan het originele XLS-document.
+Volg de eenvoudige stappen om XLS naar ETT te converteren. Upload uw XLS-bestand en sla het vervolgens eenvoudig op als ETT-bestand. Voor zowel XLS-lezen als ETT-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ETT-inhoud en opmaak zijn identiek aan het originele XLS-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLS online naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLS naar ETT te converteren via Python" %}}
+{{% blocks/products/pf/agp/content h2="Hoe u XLS naar ETT kunt converteren via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLS-bestanden programmatisch naar ETT converteren? Python-ontwikkelaars kunnen eenvoudig XLS laden en converteren naar ETT in slechts een paar regels code.
+Wilt u XLS-bestanden programmatisch naar ETT converteren? Python-ontwikkelaars kunnen XLS eenvoudig in slechts een paar regels code laden en converteren naar ETT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand XLS met een instantie van Workbook.
-1.  Converteer XLS naar ETT door de methode Workbook.save aan te roepen.
+1.  Laad het bestand XLS met een exemplaar van Workbook.
+1.  Converteer XLS naar ETT door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLS naar ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python-bibliotheek om XLS naar ETT te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Python bibliotheek om XLS naar ETT te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,35 +63,35 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen de binaire bestandsindeling van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel, evenals andere vergelijkbare spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat is opgeslagen door Excel staat bekend als werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling in werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens exporteren naar verschillende indelingen, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Een ETT-bestand is een spreadsheetsjabloon gemaakt door Kingsoft Spreadsheets, een spreadsheetprogramma dat is opgenomen in de WPS Office-suite. Het slaat een sjabloon op dat kan worden gebruikt als startpunt voor het maken van nieuwe Kingsoft-spreadsheets (.ET-bestanden). ETT-bestanden worden vaak gebruikt voor het maken van financiële budgetten en het organiseren van gegevens.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLS ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-bmp/" name="XLS TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-emf/" name="XLS TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-gif/" name="XLS TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-html/" name="XLS TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-html/" name="XLS TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-md/" name="XLS NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-mhtml/" name="XLS TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-ods/" name="XLS TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-mhtml/" name="XLS TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-ods/" name="XLS TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-pdf/" name="XLS TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-png/" name="XLS TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-svg/" name="XLS TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-tiff/" name="XLS TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-tiff/" name="XLS TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-tsv/" name="XLS TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-txt/" name="XLS TOT TXT" description="Tekstdocument" >}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk plat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xlsm/" name="XLS TOT XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xlsx/" name="XLS TOT XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xlt/" name="XLS TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xltm/" name="XLS TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xltm/" name="XLS TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xltx/" name="XLS TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xml/" name="XLS NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-xps/" name="XLS TOT XPS" description="XML-papierspecificaties" >}}

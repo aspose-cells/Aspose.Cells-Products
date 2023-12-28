@@ -1,5 +1,5 @@
 ---
-title: Hoe TextBox toe te voegen via Aspose.Cells
+title: Hoe u TextBox kunt toevoegen via Aspose.Cells
 weight: 7700
 limit:
 description: Leer hoe u TextBox kunt toevoegen.
@@ -20,35 +20,35 @@ In deze zelfstudie voegen we TextBox toe aan een Excel-bestand.
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: controleer de volgende code om te zien hoe u TextBox kunt toevoegen.
-//ExStepSummary:0: De volgende code laat zien hoe u TextBox toevoegt en tekst instelt.
+//ExSummary: Controleer de volgende code om te zien hoe u TextBox kunt toevoegen.
+//ExStepSummary:0: De volgende code laat zien hoe u TextBox kunt toevoegen en tekst kunt instellen.
 //ExStepImage:0:stap-1.png
-//ExStepSummary:1: De volgende code laat zien hoe de kleur van tekst kan worden veranderd.
-//ExStepImage:1:step-2.png
-//ExStepSummary:2: De volgende code laat zien hoe de rotatiehoek van TextBox kan worden gewijzigd.
-//ExStepImage:2:step-3.png
+//ExStepSummary:1: De volgende code laat zien hoe u de kleur van tekst kunt wijzigen.
+//ExStepImage:1:stap-2.png
+//ExStepSummary:2: De volgende code laat zien hoe u de rotatiehoek van TextBox kunt wijzigen.
+//ExStepImage:2:stap-3.png
 //ExStart
 //ExStep:0-
-met behulp van Aspose.Cells;
-met behulp van Aspose.Cells.Tekening;
+via Aspose.Cells;
+via Aspose.Cells.Tekening;
 
 Werkmap werkmap = nieuwe werkmap();
-Werkblad = werkboek. Werkbladen [0];
-blad.PageSetup.PrintGridlines = waar;
-blad.PageSetup.PrintArea = "A1:F20";
+Werkbladblad = werkmap.Werkbladen[0];
+sheet.PageSetup.PrintGridlines = waar;
+sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection-vormen = blad.Vormen;
+ShapeCollection-vormen = vel.Shapes;
 
-// Voeg TextBox toe en stel tekst in
-TextBox textBox = vormen.AddTextBox(1, 0, 1, 0, 200, 200);
-textBox.Text = "Aspose.Cells for .NET is een bibliotheek met programmeerklassen waarmee softwareontwikkelaars spreadsheetbestanden in hun eigen toepassingen kunnen manipuleren en verwerken.";
+//Voeg TextBox toe en stel tekst in
+TextBox tekstBox = vormen.AddTextBox(1, 0, 1, 0, 200, 200);
+textBox.Text = "Aspose.Cells for .NET is een programmeerklassebibliotheek waarmee softwareontwikkelaars spreadsheetbestanden binnen hun eigen toepassingen kunnen manipuleren en verwerken.";
 
 //ExStap:1-
-// Verander de kleur van de tekst
+//Verander de kleur van de tekst
 textBox.Font.Color = Kleur.Blauw;
 
-//ExStep:2-
-// Wijzig de rotatiehoek van TextBox
+//ExStap:2-
+//Wijzig de rotatiehoek van TextBox
 textBox.RotationAngle = 90;
 
 //ExStep:0-

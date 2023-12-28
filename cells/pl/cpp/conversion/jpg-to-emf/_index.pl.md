@@ -1,7 +1,7 @@
 ---
-title: C++ JPG na EMF - Konwerter online JPG na EMF
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Bezpłatnie online C++ Konwersja JPG do formatu zapisu EMF. C++ JPG do formatu EMF. Zapisz JPG pod numerem EMF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to EMF saveformat., Free Online JPG to EMF C++., C++ Convert JPG to EMF]
+title: C++ JPG do EMF - JPG do EMF Konwerter
+description: Aspose Excel. Konwertuj JPG na EMF szybko i łatwo za pomocą Aspose.Cells. C++ JPG na EMF. C++ Zapisz JPG na EMF. Zapisz JPG jako EMF używając C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to EMF in C++., Save JPG to EMF using C++., C++ JPG to EMF saveformat., JPG to EMF Converter., C++ Save JPG as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj JPG na EMF w C++" h2="Wysokowydajna konwersja JPG do EMF przy użyciu biblioteki C++ bez konieczności instalacji Microsoft Excel, OpenOffice lub Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to EMF s
 
 {{% blocks/products/pf/agp/content h2="Konwertuj JPG na EMF za pomocą C++" %}}
 
- Jak przekonwertować JPG na EMF? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo przekonwertować JPG na EMF programowo za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak przekonwertować JPG na EMF? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo przekonwertować JPG na EMF za pomocą kilku linijek kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz JPG pod numerem EMF w C++ Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz JPG pod numerem EMF w C++" %}}
 
 Poniższy przykład pokazuje, jak przekonwertować JPG na EMF w C++.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować JPG na EMF. Prześlij swój plik JPG, a następnie po prostu zapisz go jako plik EMF. Zarówno do odczytu JPG, jak i zapisu EMF można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie EMF będą identyczne z oryginalnym dokumentem JPG.
+Wykonaj proste kroki, aby przekonwertować plik JPG na EMF. Prześlij plik JPG, a następnie po prostu zapisz go jako plik EMF. Zarówno do odczytu JPG, jak i do zapisu EMF, możesz używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego EMF będą identyczne z oryginalnym dokumentem JPG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JPG na EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Przykładowy kod do konwersji JPG na EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPG na EMF przez C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki JPG na EMF? Programiści C++ mogą łatwo przekonwertować JPG na EMF w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki JPG na EMF? Programiści C++ mogą z łatwością przekonwertować JPG na EMF w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for C++”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
-1.  Załaduj plik JPG za pomocą Factory::CreateIWorkbook.
+1.  Załaduj plik JPG za pomocą skoroszytu.
 1.  Konwertuj JPG na EMF, wywołując metodę Save().
 1.  Uzyskaj wynik konwersji JPG na EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ biblioteka do konwersji JPG na EMF" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka C++ do konwersji JPG na EMF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Zainstaluj bibliotekę za pomocą opcji Dołącz i lib Foldery. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -77,44 +77,43 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub kompatybilny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
+- Microsoft Windows lub zgodny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 - Dodaj odwołanie do biblioteki DLL Aspose.Cells for C++ w swoim projekcie.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy, będący wynikiem kompresji, jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć żądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu jest pomijalnie ograniczona, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większe pogorszenie jakości obrazu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Rozszerzony format metaplików (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować zapisany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi, które mają kluczowe znaczenie dla dokładnego renderowania obrazu. Kiedy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG to typ formatu obrazu zapisywanego przy użyciu metody kompresji stratnej. Obraz wyjściowy będący wynikiem kompresji jest kompromisem pomiędzy rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jeśli do obrazu zostanie zastosowana kompresja 10:1, jakość obrazu ulegnie nieznacznemu pogorszeniu. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki numeru EMF składają się z rekordów o zmiennej długości, ułożonych w porządku chronologicznym, które umożliwiają wyrenderowanie zapisanego obrazu po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą obejmować definicje zamkniętych obiektów, polecenia dotyczące rysowania i właściwości graficzne krytyczne dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować JPG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-bmp/" name="JPG DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-emf/" name="JPG DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-emf/" name="JPG DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-gif/" name="JPG DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-html/" name="JPG DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-md/" name="JPG DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-mhtml/" name="JPG DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-md/" name="JPG DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-mhtml/" name="JPG DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-ods/" name="JPG DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-pdf/" name="JPG DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-png/" name="JPG DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-svg/" name="JPG DO SVG" description="Skalowalna Grafika wektorowa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tiff/" name="JPG DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPG DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPG DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-txt/" name="JPG DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xls/" name="JPG DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsb/" name="JPG DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsm/" name="JPG DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlsx/" name="JPG DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlt/" name="JPG DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xlt/" name="JPG DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltm/" name="JPG DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltx/" name="JPG DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltx/" name="JPG DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xml/" name="JPG DO XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xps/" name="JPG DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-json/" name="JPG DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-jpeg/" name="JPG DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-jpeg/" name="JPG DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

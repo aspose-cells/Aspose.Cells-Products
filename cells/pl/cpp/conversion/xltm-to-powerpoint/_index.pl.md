@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM do POWERPOINT - Konwerter online XLTM do POWERPOINT
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Bezpłatnie online C++ Konwersja XLTM do formatu zapisu POWERPOINT. C++ XLTM do formatu POWERPOINT. Zapisz XLTM do POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to POWERPOINT saveformat., Free Online XLTM to POWERPOINT C++., C++ Convert XLTM to POWERPOINT]
+title: C++ XLTM na POWERPOINT - XLTM na konwerter POWERPOINT
+description: Aspose Excel. Szybko i łatwo przekonwertuj XLTM na POWERPOINT za pomocą Aspose.Cells. C++ XLTM na POWERPOINT. C++ Zapisz XLTM w POWERPOINT. Zapisz XLTM jako POWERPOINT, używając C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to POWERPOINT in C++., Save XLTM to POWERPOINT using C++., C++ XLTM to POWERPOINT saveformat., XLTM to POWERPOINT Converter., C++ Save XLTM as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLTM na POWERPOINT w C++" h2="Wysokowydajna konwersja XLTM do POWERPOINT przy użyciu biblioteki C++ bez konieczności instalacji Microsoft Excel, OpenOffice lub Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to POWE
 
 {{% blocks/products/pf/agp/content h2="Konwertuj XLTM na POWERPOINT za pomocą C++" %}}
 
- Jak przekonwertować XLTM na POWERPOINT? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo przekonwertować programowo XLTM na POWERPOINT za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak przekonwertować XLTM na POWERPOINT? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo przekonwertować XLTM na POWERPOINT za pomocą kilku linijek kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zaoszczędź XLTM w POWERPOINT pod numerem C++ Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz XLTM w POWERPOINT w C++" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować XLTM na POWERPOINT w C++.
+Poniższy przykład ilustruje, jak przekonwertować XLTM na POWERPOINT w C++.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować XLTM na POWERPOINT. Prześlij swój plik XLTM, a następnie po prostu zapisz go jako plik POWERPOINT. Zarówno do odczytu XLTM, jak i do zapisu w programie POWERPOINT można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie programu POWERPOINT będą identyczne z oryginalnym dokumentem XLTM.
+Wykonaj proste kroki, aby przekonwertować XLTM na POWERPOINT. Prześlij plik XLTM, a następnie po prostu zapisz go jako plik POWERPOINT. Zarówno do odczytu XLTM, jak i do zapisu w programie POWERPOINT można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie programu POWERPOINT będą identyczne z oryginalnym dokumentem XLTM.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLTM na POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLTM na POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLTM na POWERPOINT przez C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki XLTM na POWERPOINT? C++ programiści mogą łatwo przekonwertować XLTM na POWERPOINT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki XLTM na POWERPOINT? Programiści C++ mogą z łatwością przekonwertować XLTM na POWERPOINT w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for C++”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
-1.  Załaduj plik XLTM za pomocą Factory::CreateIWorkbook.
-1.  Konwertuj XLTM na POWERPOINT, wywołując metodę Save().
-1.  Uzyskaj wynik konwersji XLTM do POWERPOINT.
+1.  Załaduj plik XLTM za pomocą skoroszytu.
+1.  Przekonwertuj XLTM na POWERPOINT, wywołując metodę Save().
+1.  Uzyskaj wynik konwersji XLTM na POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ do konwersji biblioteki XLTM na POWERPOINT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka C++ do konwersji XLTM do POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Zainstaluj bibliotekę za pomocą opcji Dołącz i lib Foldery. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -77,44 +77,43 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub kompatybilny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
+- Microsoft Windows lub zgodny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 - Dodaj odwołanie do biblioteki DLL Aspose.Cells for C++ w swoim projekcie.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacyjne utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane publiczności w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Rozszerzenie pliku XLTM reprezentuje pliki wygenerowane przez Microsoft Excel jako pliki szablonów z obsługą makr. Pliki XLTM mają podobną strukturę do XLTX, z tą różnicą, że te późniejsze nie obsługują tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić następnie tworzenie podobnych plików XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacji utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane odbiorcom w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować XLTM na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-bmp/" name="XLTM DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-emf/" name="XLTM DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-emf/" name="XLTM DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-gif/" name="XLTM DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-html/" name="XLTM DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-md/" name="XLTM DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-mhtml/" name="XLTM DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-md/" name="XLTM DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-mhtml/" name="XLTM DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-ods/" name="XLTM DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-pdf/" name="XLTM DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-png/" name="XLTM DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-svg/" name="XLTM DO SVG" description="Skalowalna Grafika wektorowa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tiff/" name="XLTM DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-txt/" name="XLTM DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xls/" name="XLTM DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlsb/" name="XLTM DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlsm/" name="XLTM DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlsx/" name="XLTM DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlt/" name="XLTM DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xlt/" name="XLTM DO XLT" description="Microsoft Szablon Excela" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xltx/" name="XLTM DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xltx/" name="XLTM DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xml/" name="XLTM DO XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xps/" name="XLTM DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-json/" name="XLTM DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-jpeg/" name="XLTM DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-jpeg/" name="XLTM DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

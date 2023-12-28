@@ -1,17 +1,18 @@
 ---
 title:  Microsoft Excel-bestandsconversie via Java
-description: Converteer Excel XLS, XLSX, ODS, CSV naar PDF, XPS, HTML, JPEG, HTML en vele andere populaire formaten met slechts enkele regels code Java .
+description: Aspose.Cells for Java bibliotheek. Converteer EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG en meer formaten met slechts enkele regels Java-code.
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversie van Excel-bestanden via Java" h2="Sla Microsoft Excel-documenten op als spreadsheet-, web-, afbeeldings- en vaste lay-outindelingen" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversie van Excel-bestanden via Java" h2="Bewaar Microsoft Excel-documenten als spreadsheet-, web-, afbeeldings- en vaste lay-outformaten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Voor enige**Excel-converter**toepassing of oplossing, Java Excel Library versnelt spreadsheetprogrammering en conversieprocessen terwijl meerdere formaten worden verwerkt, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 93481. Hiermee kunt u ook *Excel-bestanden converteren naar PDF**, XPS, HTML, MHTML, platte tekst en populaire beeldformaten zoals TIFF, JPG, PNG, BMP en SVG.
+ Voor enige**Excel-converter** applicatie of oplossing, Java Excel Library versnelt het programmeren en converteren van spreadsheets terwijl het meerdere formaten verwerkt, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619 3481. Hiermee kunt u ook *Excel-bestanden converteren naar PDF**, XPS, HTML, MHTML, platte tekst en populaire afbeeldingsformaten zoals TIFF, JPG, PNG, BMP en SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Interconversie van Microsoft Excel-indelingen" %}}
- Inter-conversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van[Werkboek](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) en opslaan in het gewenste formaat terwijl u de juiste waarde selecteert uit[Formaat opslaan](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) opsomming.
-{{% blocks/products/pf/feature-page-code h3="Java Voorbeeldcode voor conversie van Excel-bestandsindelingen" %}}
+{{% blocks/products/pf/feature-page-section h2="Interconversie van Microsoft Excel-formaten" %}}
+ Voor de onderlinge conversie van het spreadsheetformaat is alleen het laden van een spreadsheet nodig met een exemplaar van[Werkboek](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) en weer opslaan in het gewenste formaat terwijl u de juiste waarde selecteert[Formaat opslaan](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) opsomming.
+{{% blocks/products/pf/feature-page-code h3="Java Voorbeeldcode voor conversie van Excel-bestandsindeling" %}}
 
 ```cs
 // load the source file
@@ -27,9 +28,9 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-json xlsx-to-pdf xlsx-to-html xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar PDF, XPS, HTML & MD" %}}
- Gespecialiseerde klassen zijn beschikbaar om het conversieproces voor specifieke uitvoerformaten zoals[PdfSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) om Excel-bestanden te converteren als PDF,[XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) om Excel te exporteren als XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) om Excel weer te geven als HTML en[MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) voor conversie van Excel naar Markdown.
-{{% blocks/products/pf/feature-page-code h3="Java Voorbeeldcode voor Excel naar PDF en webindelingen" %}}
+{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar PDF, XPS, HTML en MD" %}}
+ Er zijn gespecialiseerde klassen beschikbaar om het conversieproces voor specifieke uitvoerformaten zoals[PdfSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) om Excel-bestanden te converteren als PDF,[XpsSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) om Excel te exporteren als XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) om Excel weer te geven als HTML en[MarkdownSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) voor conversie van Excel naar Markdown.
+{{% blocks/products/pf/feature-page-code h3="Java Voorbeeldcode voor Excel naar PDF en webformaten" %}}
 
 ```cs
 // load template Excel file from disc
@@ -56,7 +57,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer JSON naar Excel en Excel naar JSON" %}}
- JSON-gegevens kunnen worden geïmporteerd in een exemplaar van de Workbook-klasse met behulp van[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) voor verdere verwerking of eenvoudige conversie naar een van de ondersteunde formaten. Evenzo kunnen werkbladgegevens worden geëxporteerd als JSON door een[Bereik](https://reference.aspose.com/cells/java/com.aspose.cells/range) of cellen en bel de[exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) methode.
+ JSON-gegevens kunnen worden geïmporteerd in een exemplaar van de Workbook-klasse met behulp van[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) voor verdere verwerking of eenvoudige conversie naar een van de ondersteunde formaten. Op dezelfde manier kunnen werkbladgegevens worden geëxporteerd als JSON door een[Bereik](https://reference.aspose.com/cells/java/com.aspose.cells/range) of cellen en bel de[exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) methode.
 {{% blocks/products/pf/feature-page-code h3="Java Code voor JSON naar Excel-conversie" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -107,8 +108,8 @@ writer.close();
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Bewaar Excel-werkbladen in afbeeldingen" %}}
- Elk werkblad kan worden geconverteerd naar verschillende afbeeldingsindelingen, waaronder JPG, BMP, PNG en GIF, ingesteld door de eigenschap ImageType. Voor enige**Converteer Excel naar afbeeldingen** geval, selecteer het relevante geval uit de links.
+{{% blocks/products/pf/feature-page-section h2="Sla Excel-werkbladen op in afbeeldingen" %}}
+ Elk werkblad kan worden geconverteerd naar verschillende afbeeldingsformaten, waaronder JPG, BMP, PNG en GIF, ingesteld door de eigenschap ImageType. Voor enige**Converteer Excel naar afbeeldingen** zaak, selecteer de relevante zaak uit de links.
 {{% blocks/products/pf/feature-page-code h3="Java Code voor conversie van Excel naar afbeelding" %}}
 ```cs
 // load template spreadsheet
@@ -136,8 +137,8 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Microsoft Excel naar Word en PowerPoint" %}}
- Het is mogelijk om elke spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)klassen zoals hieronder aangetoond.
-{{% blocks/products/pf/feature-page-code h3="Java Code voor Excel naar Word & PowerPoint Conversie" %}}
+Het is mogelijk om elk spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klassen zoals hieronder gedemonstreerd.
+{{% blocks/products/pf/feature-page-code h3="Java Code voor Excel naar Word en PowerPoint Conversie" %}}
 ```cs
 // load the template file
 var wkb = new Workbook("template.xlsx");

@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE to ETT — Konwerter OBRAZ online na ETT
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Bezpłatnie online C++ Konwersja obrazu do formatu zapisu ETT. C++ OBRAZ do formatu ETT. Zapisz OBRAZ pod ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to ETT saveformat., Free Online IMAGE to ETT C++., C++ Convert IMAGE to ETT]
+title: C++ OBRAZ na ETT - Konwerter OBRAZU na ETT
+description: Aspose Excel. Szybko i łatwo przekonwertuj IMAGE na ETT za pomocą Aspose.Cells. C++ IMAGE na ETT. C++ Zapisz OBRAZ w ETT. Zapisz OBRAZ jako ETT, używając numeru C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to ETT in C++., Save IMAGE to ETT using C++., C++ IMAGE to ETT saveformat., IMAGE to ETT Converter., C++ Save IMAGE as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj OBRAZ na ETT w C++" h2="Wysokowydajna konwersja IMAGE do ETT przy użyciu biblioteki C++ bez konieczności instalacji Microsoft Excel, OpenOffice lub Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to ETT
 
 {{% blocks/products/pf/agp/content h2="Konwertuj OBRAZ na ETT za pomocą C++" %}}
 
-Jak przekonwertować OBRAZ na ETT? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo przekonwertować IMAGE na ETT za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak przekonwertować OBRAZ na ETT? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo przekonwertować IMAGE na ETT za pomocą kilku linijek kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -26,45 +26,45 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz OBRAZ w ETT pod numerem C++ Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz OBRAZ w ETT pod numerem C++" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować IMAGE na ETT w C++.
+Poniższy przykład pokazuje, jak przekonwertować OBRAZ na ETT w C++.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować OBRAZ na ETT. Prześlij swój plik IMAGE, a następnie po prostu zapisz go jako plik ETT. Zarówno do odczytu IMAGE, jak i zapisu ETT można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie ETT będą identyczne z oryginalnym dokumentem IMAGE.
+Wykonaj proste kroki, aby przekonwertować OBRAZ na ETT. Prześlij plik IMAGE, a następnie po prostu zapisz go jako plik ETT. Zarówno do odczytu OBRAZU, jak i zapisu ETT, można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie ETT będą identyczne z oryginalnym dokumentem IMAGE.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji IMAGE na ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Przykładowy kod do konwersji OBRAZU na ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
-{{% blocks/products/pf/agp/content h2="Jak przekonwertować OBRAZ na ETT przez C++" %}}
+{{% blocks/products/pf/agp/content h2="Jak przekonwertować OBRAZ na ETT za pomocą C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki IMAGE na ETT? C++ programiści mogą łatwo przekonwertować IMAGE na ETT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki IMAGE na ETT? Programiści C++ mogą z łatwością przekonwertować IMAGE na ETT w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for C++”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
-1.  Załaduj plik IMAGE za pomocą Factory::CreateIWorkbook.
-1.  Konwertuj IMAGE na ETT, wywołując metodę Save().
-1.  Uzyskaj wynik konwersji IMAGE na ETT.
+1.  Załaduj plik IMAGE za pomocą skoroszytu.
+1.  Konwertuj OBRAZ na ETT, wywołując metodę Save().
+1.  Uzyskaj wynik konwersji OBRAZU na ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ do konwersji IMAGE na ETT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka C++ do konwersji OBRAZU na ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Zainstaluj bibliotekę za pomocą opcji Dołącz i lib Foldery. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
@@ -77,44 +77,43 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub kompatybilny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
+- Microsoft Windows lub zgodny system operacyjny z C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 - Dodaj odwołanie do biblioteki DLL Aspose.Cells for C++ w swoim projekcie.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Plik ETT to szablon arkusza kalkulacyjnego stworzony przez Kingsoft Spreadsheets, program arkusza kalkulacyjnego zawarty w pakiecie WPS Office. Przechowuje szablon, który może służyć jako punkt wyjścia do tworzenia nowych arkuszy kalkulacyjnych Kingsoft (pliki .ET). Pliki ETT są często używane do tworzenia budżetów finansowych i organizowania danych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został stworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma żadnych ograniczeń praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Plik ETT to szablon arkusza kalkulacyjnego stworzony przez Kingsoft Spreadsheets, program do obsługi arkuszy kalkulacyjnych zawarty w pakiecie WPS Office. Przechowuje szablon, który może służyć jako punkt wyjścia do tworzenia nowych arkuszy kalkulacyjnych Kingsoft (pliki .ET). Pliki ETT są często używane do tworzenia budżetów finansowych i organizowania danych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować IMAGE na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować OBRAZ na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-bmp/" name="ZDJĘCIE DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-emf/" name="ZDJĘCIE DO EMF" description="Rozszerzony format metaplików" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-gif/" name="ZDJĘCIE DO GIF" description="Graficzny format wymiany" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-html/" name="ZDJĘCIE DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-md/" name="ZDJĘCIE DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-mhtml/" name="ZDJĘCIE DO MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-ods/" name="ZDJĘCIE DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="ZDJĘCIE DO PDF" description="format dokumentu przenośnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="ZDJĘCIE DO PNG" description="Przenośna Grafika Sieciowa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="ZDJĘCIE DO SVG" description="Skalowalna Grafika wektorowa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tiff/" name="ZDJĘCIE DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="ZDJĘCIE DO TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="ZDJĘCIE DO TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="ZDJĘCIE DO XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsb/" name="ZDJĘCIE DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsm/" name="ZDJĘCIE DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsx/" name="ZDJĘCIE DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlt/" name="ZDJĘCIE DO XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltm/" name="ZDJĘCIE DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltx/" name="ZDJĘCIE DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-bmp/" name="OBRAZ DO BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-emf/" name="OBRAZ DO EMF" description="Ulepszony format metapliku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-gif/" name="OBRAZ DO GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-html/" name="OBRAZ DO HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-md/" name="ZDJĘCIE DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-mhtml/" name="OBRAZ DO MHTML" description="Format archiwum stron internetowych" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-ods/" name="OBRAZ DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="OBRAZ DO PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="OBRAZ DO PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="OBRAZ DO SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="OBRAZ DO TSV" description="Wartości rozdzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="OBRAZ DO TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="OBRAZ DO XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsb/" name="OBRAZ DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsm/" name="OBRAZ DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlsx/" name="OBRAZ DO XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xlt/" name="OBRAZ DO XLT" description="Microsoft Szablon Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltm/" name="OBRAZ DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xltx/" name="OBRAZ DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xml/" name="OBRAZ DO XML" description="Rozszerzalny język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xps/" name="ZDJĘCIE DO XPS" description="Specyfikacje papieru XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-json/" name="ZDJĘCIE DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-jpeg/" name="ZDJĘCIE DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xps/" name="OBRAZ DO XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-json/" name="OBRAZ DO JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-jpeg/" name="OBRAZ DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

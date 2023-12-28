@@ -1,7 +1,7 @@
 ---
-title: Python OTS na MD — internetowy konwerter OTS na MD
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj OTS na format zapisu MD. Python OTS do formatu MD. Zapisz OTS do MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to MD saveformat., Free Online OTS to MD Python., Python Convert OTS to MD]
+title: Python OTS na MD - Konwerter OTS na MD
+description: Aspose Excel. Szybko i łatwo przekonwertuj OTS na MD za pomocą Aspose.Cells. Python OTS na MD. Python Zapisz OTS na MD. Zapisz OTS jako MD, używając numeru Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to MD in Python., Save OTS to MD using Python., Python OTS to MD saveformat., OTS to MD Converter., Python Save OTS as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj OTS na MD w Python" h2="Szybka biblioteka Python do konwersji OTS na MD. Jest to profesjonalne oprogramowanie do importowania i eksportowania OTS, MD i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Konwertuj OTS na MD za pomocą Python" %}}
 
- Jak przekonwertować OTS na MD? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo przekonwertować OTS na MD za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować OTS na MD? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo przekonwertować OTS na MD za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz OTS na MD pod numerem Python Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz OTS na MD pod numerem Python" %}}
 
 Poniższy przykład pokazuje, jak przekonwertować OTS na MD w Python.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować OTS na MD. Prześlij swój plik OTS, a następnie po prostu zapisz go jako plik MD. Zarówno do odczytu OTS, jak i zapisu MD można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie MD będą identyczne z oryginalnym dokumentem OTS.
+Wykonaj proste kroki, aby przekonwertować OTS na MD. Prześlij plik OTS, a następnie po prostu zapisz go jako plik MD. Zarówno do odczytu OTS, jak i zapisu na MD można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie MD będą identyczne z oryginalnym dokumentem OTS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji OTS na MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji OTS na MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Jak przekonwertować OTS na MD przez Python" %}}
+{{% blocks/products/pf/agp/content h2="Jak przekonwertować OTS na MD poprzez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki OTS na MD? Python programiści mogą łatwo załadować i przekonwertować OTS na MD w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki OTS na MD? Programiści Python mogą łatwo załadować i przekonwertować OTS na MD w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via Java”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik OTS z instancją Workbook.
+1.  Załaduj plik OTS z instancją skoroszytu.
 1.  Konwertuj OTS na MD, wywołując metodę Workbook.save.
-1.  Uzyskaj wynik konwersji OTS do MD.
+1.  Uzyskaj wynik konwersji OTS na MD.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python do konwersji OTS na MD" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Python do konwersji OTS na MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją trzy opcje instalacji „Aspose.Cells for Python via Java” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją trzy możliwości zainstalowania w systemie „Aspose.Cells for Python via Java”. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,45 +63,45 @@ Istnieją trzy opcje instalacji „Aspose.Cells for Python via Java” w systemi
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), po prostu upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub więcej.
+ Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), tylko upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Zainstaluj Java i dodaj go do zmiennej środowiskowej PATH, na przykład:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+-  Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Pliki tekstowe utworzone za pomocą dialektów języka Markdown są zapisywane z rozszerzeniem .md lub .MARKDOWN. Pliki MD są zapisywane w formacie zwykłego tekstu, który wykorzystuje język Markdown, który zawiera również wbudowane symbole tekstowe, określające sposób formatowania tekstu, taki jak wcięcia, formatowanie tabeli, czcionki i nagłówki. Pliki MD można konwertować na HTML za pomocą programu o nazwie Markdown. Język Markdown został wydany przez Johna Grubera.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument utworzony za pomocą oprogramowania Calc zawartego w pakiecie Apache OpenOffice. Oprogramowanie aplikacji Calc jest podobne do programu Excel dostępnego w pakiecie Office pod numerem Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają aplikację typu MIME/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów można wykorzystać jako punkt wyjścia do wygenerowania i zapisania rzeczywistych plików danych zapisanych w formacie pliku ODS. Plików OTS można używać w aplikacjach takich jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Pliki tekstowe utworzone w dialektach języka Markdown są zapisywane z rozszerzeniem .md lub .MARKDOWN. Pliki MD są zapisywane w formacie zwykłego tekstu wykorzystującym język Markdown, który zawiera również symbole tekstu wbudowanego, definiujące sposób formatowania tekstu, taki jak wcięcia, formatowanie tabeli, czcionki i nagłówki. Pliki MD można przekonwertować na numer HTML za pomocą programu o nazwie Markdown. Język Markdown został wydany przez Johna Grubera.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować OTS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsb/" name="OTS DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS DO XLTX" description="Szablon Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xml/" name="OTS DO XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xml/" name="OTS do XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-json/" name="OTS DO JSON" description="Notacja obiektu JavaScript" >}}
 

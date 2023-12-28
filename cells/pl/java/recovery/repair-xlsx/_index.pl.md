@@ -1,8 +1,8 @@
 ---
-title: Java Napraw plik xlsx - Napraw plik xlsx online za darmo
+title: Java Napraw xlsx — odzyskaj i napraw uszkodzony plik xlsx
 url: /pl/java/recovery/repair-xlsx/ 
-description: Aspose Excel. Java Aspose.Cells. Java Napraw plik xlsx. Darmowe narzędzie online do naprawy xlsx. Napraw uszkodzony plik xlsx. Odzyskaj uszkodzony plik xlsx w aplikacji Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsx file., Free Online Repair a corrupted xlsx file., Java Recover xlsx file.]
+description: Java Aspose.Cells. Naprawa xlsx. Napraw plik xlsx. Narzędzie do odzyskiwania xlsx. uszkodzenie xlsx. Przywróć dane xlsx. odzyskiwanie plików xlsx. Odzyskaj uszkodzony plik xlsx.
+keywords: [Java Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Napraw plik XLSX w Java" h2="Zbuduj własną aplikację Java do naprawy plików xlsx przy użyciu Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Napraw plik XLSX za pomocą Java" %}}
 
- Jak naprawić plik xlsx? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo naprawić plik XLSX za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak naprawić plik xlsx? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo naprawić plik XLSX za pomocą kilku linijek kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -50,23 +50,23 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo naprawić plik xlsx? Java programiści mogą łatwo załadować i naprawić plik xlsx w zaledwie kilku wierszach kodu.
+Chcesz programowo naprawić plik xlsx? Programiści Java mogą łatwo załadować i naprawić plik xlsx w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
-+ Załaduj plik XLSX, tworząc instancję Workbook, używając powyższej klasy dziedziczenia, zapoznaj się z powyższym kodem.
++ Załaduj plik XLSX, tworząc instancję skoroszytu, korzystając z powyższej klasy dziedziczenia, patrz powyższy kod.
 + Zapisz skoroszyt, uszkodzony plik xlsx zostanie naprawiony.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezpłatna aplikacja i przykładowy kod do naprawy pliku XLSX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Przykładowy kod do naprawy pliku XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Biblioteka Java do naprawy pliku XLSX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Hostujemy nasze paczki Java w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w swoim środowisku deweloperskim Java.
+ Nasze pakiety Java hostujemy w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w środowisku programistycznym Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +76,7 @@ Chcesz programowo naprawić plik xlsx? Java programiści mogą łatwo załadowa�
 
  Aspose.Cells for Java jest obsługiwany we wszystkich głównych systemach operacyjnych. Upewnij się tylko, że spełniasz następujące wymagania wstępne.
  
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 
@@ -87,7 +87,7 @@ Chcesz programowo naprawić plik xlsx? Java programiści mogą łatwo załadowa�
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.
+XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Nowy format opiera się na strukturze zorganizowanej zgodnie z konwencjami Open Packaging Convention jak opisano w części 2 standardu OOXML ECMA-376. pakiet zip zawierający wiele plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,13 +95,13 @@ XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadz
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą Java można łatwo naprawić inne pliki w formacie Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą numeru Java można łatwo naprawić inne pliki w formacie Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Napraw ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Napraw XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Napraw XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Napraw XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Napraw XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Naprawa ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Naprawa XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Naprawa XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Naprawa XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Naprawa XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

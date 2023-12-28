@@ -1,7 +1,7 @@
 ---
-title: Java OTS na PNG - Online OTS na PNG Konwerter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Bezpłatnie online Java Konwersja OTS do formatu zapisu PNG. Java OTS do formatu PNG. Zapisz OTS pod numerem PNG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to PNG saveformat., Free Online OTS to PNG Java., Java Convert OTS to PNG]
+title: Java OTS na PNG - OTS na PNG Konwerter
+description: Aspose Excel. Konwertuj OTS na PNG szybko i łatwo za pomocą Aspose.Cells. Java OTS na PNG. Java Zapisz OTS na PNG. Zapisz OTS jako PNG, używając Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to PNG in Java., Save OTS to PNG using Java., Java OTS to PNG saveformat., OTS to PNG Converter., Java Save OTS as PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj OTS na PNG w Java" h2="Szybka biblioteka Java do konwersji OTS na PNG. Jest to profesjonalne oprogramowanie do importowania i eksportowania OTS, PNG i wielu innych formatów przy użyciu Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to PN
 
 {{% blocks/products/pf/agp/content h2="Konwertuj OTS na PNG za pomocą Java" %}}
 
- Jak przekonwertować OTS na PNG? Dzięki bibliotece Aspose.Cells for Java możesz łatwo przekonwertować programowo OTS na PNG za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak przekonwertować OTS na PNG? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo przekonwertować OTS na PNG za pomocą kilku linijek kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to PN
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz OTS pod numerem PNG w Java Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz OTS pod numerem PNG w Java" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować OTS na PNG w Java.
+Poniższy przykład ilustruje sposób konwersji OTS na PNG w Java.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować OTS na PNG. Prześlij swój plik OTS, a następnie po prostu zapisz go jako plik PNG. Zarówno do odczytu OTS, jak i zapisu PNG można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie PNG będą identyczne z oryginalnym dokumentem OTS.
+Wykonaj proste kroki, aby przekonwertować OTS na PNG. Prześlij plik OTS, a następnie po prostu zapisz go jako plik PNG. Zarówno do odczytu OTS, jak i do zapisu PNG, możesz używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego numeru PNG będą identyczne z oryginalnym dokumentem OTS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji OTS na PNG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Przykładowy kod do konwersji OTS na PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować OTS na PNG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki OTS na PNG? Programiści Java mogą łatwo przekonwertować OTS na PNG w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki OTS na PNG? Programiści Java mogą z łatwością przekonwertować OTS na PNG w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Chcesz programowo przekonwertować pliki OTS na PNG? Programiści Java mogą ła
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java biblioteka do konwersji OTS na PNG" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Java do konwersji OTS na PNG" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Hostujemy nasze paczki Java w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w swoim środowisku deweloperskim Java.
+ Nasze pakiety Java hostujemy w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w środowisku programistycznym Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,44 +90,44 @@ Chcesz programowo przekonwertować pliki OTS na PNG? Programiści Java mogą ła
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument utworzony za pomocą oprogramowania Calc zawartego w pakiecie Apache OpenOffice. Oprogramowanie aplikacji Calc jest podobne do programu Excel dostępnego w pakiecie Office pod numerem Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają aplikację typu MIME/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów można wykorzystać jako punkt wyjścia do wygenerowania i zapisania rzeczywistych plików danych zapisanych w formacie pliku ODS. Plików OTS można używać w aplikacjach takich jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został stworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma żadnych ograniczeń praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować OTS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-bmp/" name="OTS DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-emf/" name="OTS DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-emf/" name="OTS DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-gif/" name="OTS DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-html/" name="OTS DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-md/" name="OTS DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-mhtml/" name="OTS DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-md/" name="OTS DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-mhtml/" name="OTS DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-ods/" name="OTS DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-pdf/" name="OTS DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-png/" name="OTS DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-svg/" name="OTS DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tiff/" name="OTS DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tsv/" name="OTS DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-tsv/" name="OTS DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-txt/" name="OTS DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xls/" name="OTS DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsb/" name="OTS DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsm/" name="OTS DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlsx/" name="OTS DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlt/" name="OTS DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xlt/" name="OTS DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltm/" name="OTS DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltx/" name="OTS DO XLTX" description="Szablon Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xml/" name="OTS DO XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xltx/" name="OTS DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xml/" name="OTS do XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-xps/" name="OTS DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-json/" name="OTS DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-jpeg/" name="OTS DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ots-to-jpeg/" name="OTS DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

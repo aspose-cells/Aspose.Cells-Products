@@ -1,8 +1,8 @@
 ---
-title: Python Napraw plik xlsm — Napraw plik xlsm online za darmo
+title: Python Napraw xlsm — odzyskaj i napraw uszkodzony plik xlsm
 url: /pl/python-net/recovery/repair-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Python Napraw plik xlsm. Darmowe narzędzie online do naprawy xlsm. Napraw uszkodzony plik xlsm. Odzyskaj uszkodzony plik xlsm w aplikacji Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells. Naprawa xlsm. Napraw plik xlsm. narzędzie do odzyskiwania xlsm. uszkodzenie pliku xlsm. Przywróć dane xlsm. odzyskiwanie plików xlsm. Odzyskaj uszkodzony plik xlsm.
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Napraw plik XLSM w Python" h2="Zbuduj własną aplikację Python do naprawy plików xlsm przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Napraw plik XLSM za pomocą Python" %}}
 
- Jak naprawić plik xlsm? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo naprawić plik XLSM za pomocą kilku linii kodu.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
+ Jak naprawić plik xlsm? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo naprawić plik XLSM za pomocą kilku linijek kodu.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz zainstalować Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,28 +22,28 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo naprawić plik xlsm? Python programiści mogą łatwo załadować i naprawić plik xlsm w zaledwie kilku wierszach kodu.
+Chcesz programowo naprawić plik xlsm? Programiści Python mogą łatwo załadować i naprawić plik xlsm w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
-+ Załaduj plik XLSM, tworząc instancję Workbook, używając powyższej klasy dziedziczenia, zapoznaj się z powyższym kodem.
++ Załaduj plik XLSM, tworząc instancję skoroszytu, korzystając z powyższej klasy dziedziczenia, patrz powyższy kod.
 + Zapisz skoroszyt, uszkodzony plik xlsm zostanie naprawiony.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezpłatna aplikacja i przykładowy kod do naprawy pliku XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Przykładowy kod do naprawy pliku XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Biblioteka Python do naprawy pliku XLSM" %}}
 
-Hostujemy nasze pakiety Python w repozytoriach PyPi.
+Nasze pakiety Python hostujemy w repozytoriach PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
+ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programistycznym.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -53,8 +53,8 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
  Aspose.Cells for Python jest obsługiwany we wszystkich głównych systemach operacyjnych. Upewnij się tylko, że spełniasz następujące wymagania wstępne.
  
--  zainstalować[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
-- Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
+-  zainstalować[Python](https://www.python.org/downloads/) 3.7 lub wyższy.
+-  Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -64,7 +64,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Pliki z rozszerzeniem XLSM to rodzaj plików Arkusz kalkulacyjny obsługujący Makra. Z punktu widzenia aplikacji makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się czynności i ułatwia wykonywanie czynności poprzez ponowne uruchomienie makra. Makra są programowane za pomocą języka Visual Basic for Applications (VBA) firmy Microsoft z poziomu skoroszytu programu Excel przy użyciu edytora Visual Basic i można je uruchamiać/debugować bezpośrednio z tego miejsca.
+Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługujących makra. Z aplikacyjnego punktu widzenia Makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się kroków i ułatwia wykonanie czynności poprzez ponowne uruchomienie makra. Makra są programowane w języku Visual Basic for Applications (VBA) Microsoft z poziomu skoroszytu programu Excel za pomocą edytora Visual Basic i można je bezpośrednio z niego uruchamiać/debugować.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -72,13 +72,13 @@ Pliki z rozszerzeniem XLSM to rodzaj plików Arkusz kalkulacyjny obsługujący M
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą Python można łatwo naprawić inne pliki w formacie Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą numeru Python można łatwo naprawić inne pliki w formacie Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Napraw ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Napraw XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Napraw XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Napraw XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Napraw XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-ods/" name="Naprawa ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xls/" name="Naprawa XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsb/" name="Naprawa XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsm/" name="Naprawa XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/recovery/repair-xlsx/" name="Naprawa XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,17 +1,18 @@
 ---
 title:  Microsoft Excel-bestandsconversie via C#
-description: Converteer Excel XLS, XLSX, ODS, CSV naar PDF, XPS, HTML, JPEG, HTML en vele andere populaire formaten met slechts enkele regels code C# .
+description: Aspose.Cells for .NET bibliotheek. Converteer EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG en meer formaten met slechts enkele regels C#-code.
+keywords: [C# Aspose.Cells., excel to pdf., excel to json., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversie Excel-indeling via .NET" h2="Importeer en exporteer Excel-bestanden als spreadsheet-, web-, afbeeldings- en vaste lay-outindelingen" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversie van Excel-indeling via .NET" h2="Importeer en exporteer Excel-bestanden als spreadsheet-, web-, afbeeldings- en vaste lay-outformaten" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel Library versnelt het programmeren en converteren van spreadsheets en ondersteunt populaire indelingen, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619348 1. Het maakt het ook mogelijk om Excel-bestanden te exporteren naar PDF, XPS, HTML, MHTML, gewoon Tekst en populaire beeldformaten zoals TIFF, JPG, PNG, BMP en SVG.
+.NET Excel Library versnelt het programmeren en converteren van spreadsheets en ondersteunt populaire formaten, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS Het maakt het ook mogelijk om Excel-bestanden te exporteren naar PDF, XPS, HTML, MHTML, Normaal Tekst en populaire afbeeldingsformaten zoals TIFF, JPG, PNG, BMP en SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar XLSX, ODS, SXC & FODS" %}}
- Inter-conversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van[Werkboek](https://reference.aspose.com/cells/net/aspose.cells/workbook) en opslaan in het gewenste formaat terwijl u de juiste waarde selecteert uit[Formaat opslaan](https://reference.aspose.com/cells/net/aspose.cells/saveformat) opsomming.
-{{% blocks/products/pf/feature-page-code h3="C# Code voor conversie van Excel-bestandsindelingen" %}}
+{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar XLSX, ODS, SXC en FODS" %}}
+ Voor de onderlinge conversie van het spreadsheetformaat is alleen het laden van een spreadsheet nodig met een exemplaar van[Werkboek](https://reference.aspose.com/cells/net/aspose.cells/workbook) en weer opslaan in het gewenste formaat terwijl u de juiste waarde selecteert[Formaat opslaan](https://reference.aspose.com/cells/net/aspose.cells/saveformat) opsomming.
+{{% blocks/products/pf/feature-page-code h3="C# Code voor conversie van Excel-bestandsindeling" %}}
 
 ```cs
 // load the template file
@@ -27,8 +28,8 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar PDF, XPS, HTML & MD" %}}
- Gespecialiseerde klassen zijn beschikbaar om het conversieproces voor specifieke uitvoerformaten zoals[PdfSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) om Excel-bestanden te exporteren als PDF,[XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) voor Excel naar XPS conversie,[HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) om Excel weer te geven als HTML en[MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) voor conversie van Excel naar Markdown.
+{{% blocks/products/pf/feature-page-section h2="Converteer Excel naar PDF, XPS, HTML en MD" %}}
+ Er zijn gespecialiseerde klassen beschikbaar om het conversieproces voor specifieke uitvoerformaten zoals[PdfSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) om Excel-bestanden te exporteren als PDF,[XpsSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) voor conversie van Excel naar XPS,[HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) om Excel weer te geven als HTML en[MarkdownSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) voor conversie van Excel naar Markdown.
 {{% blocks/products/pf/feature-page-code h3="C# Code voor Excel naar PDF en webformaten" %}}
 
 ```cs
@@ -49,7 +50,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer JSON naar Excel en Excel naar JSON" %}}
- JSON-gegevens kunnen worden geïmporteerd in een exemplaar van[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klasse met behulp van[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)voor verdere verwerking of eenvoudige conversie naar een van de ondersteunde formaten. Evenzo,[Werkblad](https://reference.aspose.com/cells/net/aspose.cells/worksheet) gegevens kunnen worden geëxporteerd als JSON door een[Bereik](https://reference.aspose.com/cells/net/aspose.cells/range) of cellen en bel de[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) methode.
+ JSON-gegevens kunnen worden geïmporteerd in een exemplaar van[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klas met behulp van[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) voor verdere verwerking of eenvoudige conversie naar een van de ondersteunde formaten. Op dezelfde manier,[Werkblad](https://reference.aspose.com/cells/net/aspose.cells/worksheet) gegevens kunnen worden geëxporteerd als JSON door een[Bereik](https://reference.aspose.com/cells/net/aspose.cells/range) of cellen en bel de[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) methode.
 {{% blocks/products/pf/feature-page-code h3="C# Code voor JSON naar Excel-conversie" %}}
 ```cs
 // create a Workbook object
@@ -87,8 +88,8 @@ System.IO.File.WriteAllText("output.json", jsonData);
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Converteer Excel-werkbladen naar JPG, BMP, PNG & GIF" %}}
- Elk werkblad van een Excel-bestand kan worden geconverteerd naar verschillende afbeeldingsindelingen die zijn ingesteld door de[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) eigendom. Standaardwaarde is `ImageFormat.Bmp`.
+{{% blocks/products/pf/feature-page-section h2="Converteer Excel-werkbladen naar JPG, BMP, PNG en GIF" %}}
+ Elk werkblad van een Excel-bestand kan worden geconverteerd naar verschillende afbeeldingsformaten die zijn ingesteld door de[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) eigendom. De standaardwaarde is `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Code voor conversie van Excel naar afbeelding" %}}
 ```cs
 // load template spreadsheet
@@ -109,8 +110,8 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel naar Word & PowerPoint" %}}
- Het is mogelijk om elke spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)klassen zoals hieronder aangetoond.
-{{% blocks/products/pf/feature-page-code h3="C# code voor Excel naar Word & PowerPoint Conversie" %}}
+Het is mogelijk om elk spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOpties](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) klassen zoals hieronder gedemonstreerd.
+{{% blocks/products/pf/feature-page-code h3="C#-code voor Excel naar Word en PowerPoint-conversie" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

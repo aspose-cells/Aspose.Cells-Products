@@ -1,10 +1,11 @@
 ---
 title:  Python Arkusz kalkulacyjny Excel API - Aspose
 weight: 2800
-description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików Excel do odczytu i zapisu oraz analizy.
+description: Python biblioteka do tworzenia, naprawiania, scalania, analizowania i konwertowania plików Excel. Konwertuj Excel na PDF, JSON, HTML, TXT i inne popularne formaty.
+keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Arkusze kalkulacyjne programu Excel analizujące interfejsy API" h2="Generuj, czytaj, pisz lub manipuluj arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów w aplikacjach Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Interfejsy API analizowania arkuszy kalkulacyjnych Excel" h2="Generuj, czytaj, zapisuj lub manipuluj arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów w aplikacjach Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
@@ -12,7 +13,7 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować oraz wydobywać informacje z plików programu Excel. API odczytuje wiele formatów programu Excel i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela za pomocą Pythona.
+Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować i wyodrębniać informacje z plików Excel. API odczytuje wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela przy użyciu Pythona.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,14 +21,14 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików Excel
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd możliwości API." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd możliwości API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
- Importuj & amp; Eksport
+ Importuj &amp; Eksport
    </header>
    <ul>
     <li>
@@ -72,7 +73,7 @@ Kolekcje
  Zastosuj formułę
     </li>
     <li>
- Twórz wykresy
+ Utwórz wykresy
     </li>
     <li>
  Podsumować
@@ -234,7 +235,7 @@ Kolekcje
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Zaawansowane Python Funkcje programu Excel API
+ Zaawansowane Python Excel API Funkcje
    </h2>
    <p>
    </p>
@@ -242,7 +243,7 @@ Zaawansowane Python Funkcje programu Excel API
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Czytaj arkusze kalkulacyjne Excela
+ Czytaj arkusze kalkulacyjne Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -256,14 +257,14 @@ Zaawansowane Python Funkcje programu Excel API
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dostosuj arkusze robocze w skoroszytach
+ Dostosuj arkusze w skoroszytach
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Chroń / usuwaj ochronę arkuszy
+ Chroń / wyłącz ochronę arkuszy
     </p>
    </div>
    <div class="col-lg-4">
@@ -305,7 +306,7 @@ Zaawansowane Python Funkcje programu Excel API
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dodaj lub usuń grupowanie do wierszy i kolumn
+Dodaj lub usuń grupowanie wierszy i kolumn
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +320,7 @@ Zaawansowane Python Funkcje programu Excel API
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Odczytywanie i ustawianie formuł
+ Przeczytaj i ustaw formuły
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +341,7 @@ Zaawansowane Python Funkcje programu Excel API
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Czytaj & amp; napisz formatowanie warunkowe
+ Przeczytaj &amp; napisz formatowanie warunkowe
     </p>
    </div>
    <!--
@@ -415,7 +416,7 @@ Zaawansowane Python Funkcje programu Excel API
  Konwersja wielu formatów
     </h2>
     <p>
- Python Biblioteka programu Excel umożliwia konwersję plików programu Excel do formatu PDF, XPS &amp; HTML formatów. Niezawodna konwersja API sprawia, że jest to idealne rozwiązanie dla firm, które wymagają wymiany plików w formatach branżowych.
+ Python Biblioteka Excel umożliwia konwersję plików Excel do PDF, XPS &amp; HTML formatów. Niezawodna konwersja numeru API sprawia, że jest to idealne rozwiązanie dla firm, które potrzebują wymiany plików w standardowych formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -464,7 +465,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Elastyczne opcje wyświetlania
     </h2>
     <p>
- Aspose.Cells for Python via .NET zapewnia pełną kontrolę nad ustawieniami strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrolowanie widoczności danych za pomocą zamrożonych okienek, rozmiaru papieru, skalowania, nagłówków &amp; stopki i obszar drukowania.
+ Aspose.Cells for Python via .NET zapewnia pełną kontrolę nad konfiguracją strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrolowanie widoczności danych za pomocą okienek zamrażania, rozmiaru papieru, skalowania, nagłówków i amp; stopki i obszar drukowania.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -484,18 +485,18 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Zarządzanie danymi arkuszy Excel
+ Zarządzanie danymi w arkuszach Excel
     </h2>
     <p>
- Aspose.Cells for Python via .NET API zapewnia szerokie wsparcie dla zarządzania danymi w arkuszach. Można łatwo manipulować dowolną komórką w arkuszu w czasie wykonywania lub importować dane do arkuszy z różnych źródeł danych.
+ Aspose.Cells for Python via .NET API zapewnia rozbudowaną obsługę zarządzania danymi arkusza. Można łatwo manipulować dowolną komórką w arkuszu w czasie wykonywania lub importować dane do arkuszy z różnych źródeł danych.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Dostosowanie wykresów
+Dostosowywanie wykresów
     </h2>
     <p>
-Aspose.Cells for Python via .NET zapewnia pełne wsparcie dla wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
+Aspose.Cells for Python via .NET zapewnia pełną obsługę wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
     </p>
    </div>
    <!--

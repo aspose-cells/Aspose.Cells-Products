@@ -1,7 +1,7 @@
 ---
-title: Python JSON naar SQL - Online JSON naar SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer JSON naar SQL-opslagformaat. Python JSON naar SQL-indeling. Sla JSON op in SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to SQL saveformat., Free Online JSON to SQL Python., Python Convert JSON to SQL]
+title: Python JSON naar SQL - JSON naar SQL-converter
+description: Aspose Excel. Converteer JSON snel en eenvoudig naar SQL met Aspose.Cells. Python JSON naar SQL. Python Sla JSON op in SQL. Sla JSON op als SQL met behulp van Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to SQL in Python., Save JSON to SQL using Python., Python JSON to SQL saveformat., JSON to SQL Converter., Python Save JSON as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JSON naar SQL in Python" h2="Snelle Python-bibliotheek voor het converteren van JSON naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van JSON, SQL en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,44 +12,44 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSO
 
 {{% blocks/products/pf/agp/content h2="Converteer JSON naar SQL met behulp van Python" %}}
 
- Hoe converteer ik JSON naar SQL? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig JSON programmatisch converteren naar SQL met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik JSON naar SQL? Met de bibliotheek Aspose.Cells for Python kunt u JSON eenvoudig programmatisch naar SQL converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JSON op naar SQL in Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla JSON op in SQL in Python" %}}
 
-Het volgende voorbeeld laat zien hoe u JSON converteert naar SQL in Python.
+In het volgende voorbeeld ziet u hoe u JSON naar SQL converteert in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om JSON naar SQL te converteren. Upload uw JSON-bestand en sla het eenvoudig op als SQL-bestand. Voor zowel het lezen van JSON als het schrijven van SQL kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele JSON-document.
+Volg de eenvoudige stappen om JSON naar SQL te converteren. Upload uw JSON-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel JSON-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele JSON-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om JSON naar SQL Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JSON naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JSON naar SQL te converteren via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JSON-bestanden programmatisch naar SQL converteren? Python-ontwikkelaars kunnen eenvoudig JSON laden en converteren naar SQL in slechts een paar regels code.
+Wilt u JSON-bestanden programmatisch naar SQL converteren? Python-ontwikkelaars kunnen JSON eenvoudig in slechts een paar regels code laden en converteren naar SQL.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand JSON met een instantie van Workbook.
-1.  Converteer JSON naar SQL door de methode Workbook.save aan te roepen.
-1.  Verkrijg het conversieresultaat van JSON naar SQL.
+1.  Laad het bestand JSON met een exemplaar van Workbook.
+1.  Converteer JSON naar SQL door de Workbook.save-methode aan te roepen.
+1.  Haal het conversieresultaat van JSON naar SQL op.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python-bibliotheek om JSON naar SQL te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Python bibliotheek om JSON naar SQL te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,35 +63,35 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is een open standaard bestandsindeling voor het delen van gegevens die voor mensen leesbare tekst gebruikt om gegevens op te slaan en te verzenden. JSON-bestanden worden opgeslagen met de extensie .json. JSON vereist minder opmaak en is een goed alternatief voor XML. JSON is afgeleid van JavaScript maar is een taalonafhankelijk gegevensformaat. Het genereren en parseren van JSON wordt ondersteund door veel moderne programmeertalen. application/json is het mediatype dat wordt gebruikt voor JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een Structured Query Language (SQL)-bestand dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) op databases. SQL-bestanden komen vaak voor bij het werken met desktop- en webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere platte-teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is een open standaardbestandsindeling voor het delen van gegevens waarbij voor mensen leesbare tekst wordt gebruikt om gegevens op te slaan en te verzenden. JSON-bestanden worden opgeslagen met de .json-extensie. JSON vereist minder opmaak en is een goed alternatief voor XML. JSON is afgeleid van JavaScript, maar is een taalonafhankelijk gegevensformaat. Het genereren en parseren van JSON wordt ondersteund door veel moderne programmeertalen. application/json is het mediatype dat wordt gebruikt voor JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een SQL-bestand (Structured Query Language) dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) in databases. SQL-bestanden komen vaak voor bij het werken met zowel desktop- als webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt JSON ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt JSON ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-bmp/" name="JSON TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-emf/" name="JSON TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-gif/" name="JSON TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-html/" name="JSON TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-html/" name="JSON TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-md/" name="JSON NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-mhtml/" name="JSON TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-ods/" name="JSON TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-mhtml/" name="JSON TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-ods/" name="JSON TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-pdf/" name="JSON TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-png/" name="JSON TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-svg/" name="JSON TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-tiff/" name="JSON TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-tiff/" name="JSON TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-tsv/" name="JSON TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-txt/" name="JSON TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xls/" name="JSON TOT XLS" description="Excel binair formaat" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk plat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsm/" name="JSON TOT XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlsx/" name="JSON TOT XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xlt/" name="JSON TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltm/" name="JSON TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltm/" name="JSON TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xltx/" name="JSON TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xml/" name="JSON NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-xps/" name="JSON TOT XPS" description="XML-papierspecificaties" >}}

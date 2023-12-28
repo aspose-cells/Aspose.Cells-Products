@@ -1,7 +1,7 @@
 ---
-title: Java XLSX naar SPREADSHEETML - Online XLSX naar SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Converteer XLSX naar SPREADSHEETML-opslagindeling. Java XLSX naar SPREADSHEETML-formaat. Sla XLSX op in SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to SPREADSHEETML saveformat., Free Online XLSX to SPREADSHEETML Java., Java Convert XLSX to SPREADSHEETML]
+title: Java XLSX naar SPREADSHEETML - XLSX naar SPREADSHEETML-converter
+description: Aspose Excel. Converteer XLSX snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Java XLSX naar SPREADSHEETML. Java Sla XLSX op in SPREADSHEETML. Sla XLSX op als SPREADSHEETML met behulp van Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SPREADSHEETML in Java., Save XLSX to SPREADSHEETML using Java., Java XLSX to SPREADSHEETML saveformat., XLSX to SPREADSHEETML Converter., Java Save XLSX as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSX naar SPREADSHEETML in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSX naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSX, SPREADSHEETML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to S
 
 {{% blocks/products/pf/agp/content h2="Converteer XLSX naar SPREADSHEETML met behulp van Java" %}}
 
-Hoe converteer ik XLSX naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig XLSX programmatisch converteren naar SPREADSHEETML met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLSX naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Java kunt u XLSX eenvoudig programmatisch naar SPREADSHEETML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,31 +45,31 @@ Hoe converteer ik XLSX naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bespaar XLSX naar SPREADSHEETML in Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLSX op in SPREADSHEETML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSX converteert naar SPREADSHEETML in Java.
+In het volgende voorbeeld ziet u hoe u XLSX converteert naar SPREADSHEETML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om XLSX naar SPREADSHEETML te converteren. Upload uw XLSX-bestand en sla het eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLSX lezen als SPREADSHEETML schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De output SPREADSHEETML inhoud en opmaak zal identiek zijn aan het originele XLSX document.
+Volg de eenvoudige stappen om XLSX naar SPREADSHEETML te converteren. Upload uw XLSX-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLSX-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele XLSX-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLSX online naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSX naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSX naar SPREADSHEETML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="XLSX converteren naar SPREADSHEETML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSX-bestanden programmatisch converteren naar SPREADSHEETML? Java-ontwikkelaars kunnen XLSX eenvoudig converteren naar SPREADSHEETML in slechts een paar regels code.
+Wilt u XLSX-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwikkelaars kunnen XLSX eenvoudig in slechts een paar regels code naar SPREADSHEETML converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het bestand XLSX met een exemplaar van de klasse Workbook.
-1.  Converteer XLSX naar SPREADSHEETML door de methode Workbook.save aan te roepen.
+1. Laad bestand XLSX met een exemplaar van de klasse Workbook.
+1.  Converteer XLSX naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSX naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -77,7 +77,7 @@ Wilt u XLSX-bestanden programmatisch converteren naar SPREADSHEETML? Java-ontwik
 {{% blocks/products/pf/agp/content h2="Java bibliotheek om XLSX naar SPREADSHEETML te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -91,30 +91,30 @@ Wilt u XLSX-bestanden programmatisch converteren naar SPREADSHEETML? Java-ontwik
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
-- Download de nieuwste versie van Aspose.Cells for Java rechtstreeks van Maven.
+- Ontvang de nieuwste versie van Aspose.Cells for Java rechtstreeks via Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX is een bekend formaat voor Microsoft Excel-documenten dat werd geïntroduceerd door Microsoft met de release van Microsoft Office 2007. Gebaseerd op structuur georganiseerd volgens de Open Packaging-conventies zoals uiteengezet in deel 2 van de OOXML-standaard ECMA-376, is het nieuwe formaat een zip-pakket dat een aantal XML-bestanden bevat. De onderliggende structuur en bestanden kunnen worden onderzocht door simpelweg het .xlsx-bestand uit te pakken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language en is vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het maken van het XML-bestandsformaat was om gegevens op te slaan en te transporteren zonder afhankelijk te zijn van software- of hardwaretools. Zijn populariteit is te danken aan het feit dat het zowel door mensen als door machines leesbaar is. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals World Wide Web (WWW). De "X" in XML staat voor uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen volgens de vereisten van de gebruiker. Het is voor deze functies dat veel standaard bestandsindelingen er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX is een bekend formaat voor Microsoft Excel-documenten dat werd geïntroduceerd door Microsoft met de release van Microsoft Office 2007. Gebaseerd op de structuur georganiseerd volgens de Open Packaging Conventions zoals uiteengezet in Deel 2 van de OOXML-standaard ECMA-376, is het nieuwe formaat een zip-pakket dat een aantal XML-bestanden bevat. De onderliggende structuur en bestanden kunnen worden onderzocht door eenvoudigweg het .xlsx-bestand uit te pakken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language, vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het creëren van het XML-bestandsformaat was het opslaan en transporteren van gegevens zonder afhankelijk te zijn van software- of hardwaretools. De populariteit is te danken aan het feit dat het zowel door mensen als door machines kan worden gelezen. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals het World Wide Web (WWW). De "X" in XML is uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen, afhankelijk van de gebruikersvereisten. Het is voor deze functies dat veel standaard bestandsformaten er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLSX ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLSX ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-bmp/" name="XLSX TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-emf/" name="XLSX TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-gif/" name="XLSX TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-html/" name="XLSX TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-html/" name="XLSX TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-md/" name="XLSX NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-mhtml/" name="XLSX TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-ods/" name="XLSX TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-mhtml/" name="XLSX TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-ods/" name="XLSX TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-pdf/" name="XLSX TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-png/" name="XLSX TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-svg/" name="XLSX TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-tiff/" name="XLSX TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-tiff/" name="XLSX TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-tsv/" name="XLSX TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-txt/" name="XLSX TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xls/" name="XLSX TOT XLS" description="Excel binair formaat" >}}
@@ -122,12 +122,12 @@ Wilt u XLSX-bestanden programmatisch converteren naar SPREADSHEETML? Java-ontwik
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlsm/" name="XLSX TOT XLSM" description="Spreadsheet-bestand" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlt/" name="XLSX TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltm/" name="XLSX TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltm/" name="XLSX TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltx/" name="XLSX TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xml/" name="XLSX NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xps/" name="XLSX TOT XPS" description="XML-papierspecificaties" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-json/" name="XLSX TOT JSON" description="JavaScript-objectnotatie" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-jpeg/" name="XLSX TOT JPEG" description="JPEG Afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-jpeg/" name="XLSX TOT JPEG" description="JPEG Afb" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

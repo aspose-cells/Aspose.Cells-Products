@@ -1,7 +1,7 @@
 ---
-title: Java FODS naar PRN - Online FODS naar PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Converteer FODS naar PRN-opslagformaat. Java FODS naar PRN-formaat. Bewaar FODS naar PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to PRN saveformat., Free Online FODS to PRN Java., Java Convert FODS to PRN]
+title: Java FODS naar PRN - FODS naar PRN-converter
+description: Aspose Excel. Converteer FODS snel en eenvoudig naar PRN met Aspose.Cells. Java FODS naar PRN. Java Bewaar FODS in PRN. Sla FODS op als PRN met behulp van Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to PRN in Java., Save FODS to PRN using Java., Java FODS to PRN saveformat., FODS to PRN Converter., Java Save FODS as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer FODS naar PRN in Java" h2="Snelle Java-bibliotheek voor het converteren van FODS naar PRN. Dit is een professionele softwareoplossing voor het importeren en exporteren van FODS, PRN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to P
 
 {{% blocks/products/pf/agp/content h2="Converteer FODS naar PRN met behulp van Java" %}}
 
- Hoe converteer ik FODS naar PRN? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig FODS programmatisch converteren naar PRN met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik FODS naar PRN? Met de bibliotheek Aspose.Cells en for Java kunt u FODS eenvoudig programmatisch naar PRN converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bespaar FODS naar PRN in Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla FODS op in PRN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u FODS converteert naar PRN in Java.
+Het volgende voorbeeld laat zien hoe u FODS naar PRN converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om FODS naar PRN te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel FODS lezen als PRN schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De output PRN-inhoud en opmaak zullen identiek zijn aan het originele FODS-document.
+Volg de eenvoudige stappen om FODS naar PRN te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel het lezen van FODS als het schrijven van PRN kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-PRN-inhoud en -opmaak zijn identiek aan het originele FODS-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om FODS online naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om FODS naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="prn" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe FODS te converteren naar PRN via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe FODS naar PRN via Java te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u FODS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen FODS gemakkelijk converteren naar PRN in slechts een paar regels code.
+Wilt u FODS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen FODS eenvoudig met slechts een paar regels code naar PRN converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het bestand FODS met een exemplaar van de klasse Workbook.
-1.  Converteer FODS naar PRN door de methode Workbook.save aan te roepen.
+1. Laad bestand FODS met een exemplaar van de klasse Workbook.
+1.  Converteer FODS naar PRN door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van FODS naar PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om FODS naar PRN te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om FODS naar PRN te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -91,30 +91,30 @@ Wilt u FODS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars ku
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
-- Download de nieuwste versie van Aspose.Cells for Java rechtstreeks van Maven.
+- Ontvang de nieuwste versie van Aspose.Cells for Java rechtstreeks via Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat wordt weergegeven in sommige afdrukdialoogvensters op Windows. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met behulp van LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat in sommige afdrukdialoogvensters op Windows verschijnt. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt FODS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt FODS ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-bmp/" name="FODS TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-emf/" name="FODS TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-gif/" name="FODS TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-html/" name="FODS TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-html/" name="FODS TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-md/" name="FODS NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-mhtml/" name="FODS TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-mhtml/" name="FODS TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-pdf/" name="FODS TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-png/" name="FODS TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-svg/" name="FODS TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tiff/" name="FODS TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tiff/" name="FODS TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tsv/" name="FODS TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-txt/" name="FODS TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xls/" name="FODS TOT XLS" description="Excel binair formaat" >}}
@@ -122,12 +122,12 @@ Wilt u FODS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars ku
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsm/" name="FODS TOT XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsx/" name="FODS TOT XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlt/" name="FODS TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xml/" name="FODS NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS TOT XPS" description="XML-papierspecificaties" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-json/" name="FODS TOT JSON" description="JavaScript-objectnotatie" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS TOT JPEG" description="JPEG Afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS TOT JPEG" description="JPEG Afb" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

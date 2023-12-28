@@ -1,10 +1,10 @@
 ---
-title:  Eksportuj raporty RDL do programu Excel XLS XLSX i SpreadsheetML w SQL Server
+title:  Eksportuj raporty RDL do programu Excel XLS XLSX i SpreadsheetML w programie SQL Server
 weight: 3460
-description: Rozszerzenie renderowania usług SQL Server Reporting Services — eksportowanie formatów Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS i TXT
+description: Rozszerzenie renderowania usług SQL Server Reporting Services — eksportuj formaty Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS i TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozszerzenie usług Reporting Services umożliwiające dostarczanie raportów w postaci plików programu Excel" h2="Z łatwością eksportuj raporty RDL i RDLC do formatów arkuszy kalkulacyjnych Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozszerzenie usług raportowania umożliwiające dostarczanie raportów w postaci plików Excel" h2="łatwością eksportuj raporty RDL i RDLC do formatów plików arkuszy kalkulacyjnych Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -12,7 +12,7 @@ description: Rozszerzenie renderowania usług SQL Server Reporting Services — 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Reporting Services umożliwia dostarczanie raportów Excel z poziomu Microsoft SQL Server Reporting Services i Microsoft Report Viewer. W przeciwieństwie do natywnego eksportera raportów opartych na Excelu - Aspose.Cells for Reporting Services umożliwia konwersję RDL &amp; Raporty RDLC do wielu formatów plików arkuszy kalkulacyjnych programu Excel.
+ Aspose.Cells for Reporting Services umożliwia dostarczanie raportów Excel z poziomu usług raportowania SQL Server Microsoft i przeglądarki raportów Microsoft. W przeciwieństwie do natywnego eksportera raportów opartych na programie Excel - Aspose.Cells for Reporting Services umożliwia konwersję RDL &amp; RDLC raportuje do wielu formatów plików arkuszy kalkulacyjnych Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Rozszerzenie renderowania usług SQL Server Reporting Services — 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd Aspose.Cells for Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd Aspose.Cells for Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -40,7 +40,7 @@ description: Rozszerzenie renderowania usług SQL Server Reporting Services — 
  Pola tekstowe
     </li>
     <li>
-Obrazy
+ Obrazy
     </li>
     <li>
  Podraporty
@@ -52,16 +52,16 @@ Obrazy
  Listy
     </li>
     <li>
- Stoły
+Stoły
     </li>
     <li>
  Miernik
     </li>
     <li>
- macierze
+ Matryce
     </li>
     <li>
- Prostokąty/Linie
+ Prostokąty/linie
     </li>
     <li>
  Style
@@ -77,7 +77,7 @@ Obrazy
    </header>
    <ul>
     <li>
- Formuły usług raportów
+ Formuły usług raportowania
     </li>
     <li>
  Formuły dynamiczne
@@ -86,7 +86,7 @@ Obrazy
  Tabele z zgrupowanymi wierszami
     </li>
     <li>
- Tabele z pogrupowaną stopką
+ Tabele z zgrupowaną stopką
     </li>
     <li>
  Zapytanie MS
@@ -111,7 +111,7 @@ Obrazy
  Tabele przestawne
     </li>
     <li>
- Wykresy interaktywne
+ Interaktywne wykresy
     </li>
     <li>
  Formuły
@@ -140,7 +140,7 @@ Obrazy
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for Reporting Services obsługuje Microsoft SQL Server Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for Reporting Services obsługuje usługi raportowania SQL Server Microsoft." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -193,7 +193,7 @@ Obrazy
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description=" Aspose.Cells for Reporting Services obsługuje często używane arkusze kalkulacyjne[formaty plików](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description=" Aspose.Cells for Reporting Services obsługuje powszechnie używany arkusz kalkulacyjny[formaty plików](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -298,7 +298,7 @@ Obrazy
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Wsparcie podziału strony grupy Tablix
+ Obsługa podziału strony grupy Tablix
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,14 +312,14 @@ Obrazy
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Zwiń lub rozwiń pola tabeli przestawnej
+ Zwiń lub rozwiń pola tabeli przestawnej
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Wsparcie wykonywania obliczeń Minus
+ Wsparcie w wykonywaniu obliczeń Minus
     </p>
    </div>
    <div class="col-lg-4">
@@ -340,7 +340,7 @@ Zwiń lub rozwiń pola tabeli przestawnej
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dostosuj ustawienia marginesów strony w Arkuszach programu Excel
+ Dostosuj ustawienia marginesów strony w arkuszach programu Excel
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,7 +348,7 @@ Zwiń lub rozwiń pola tabeli przestawnej
  Aspose.Cells' Narzędzie do projektowania raportów
     </h2>
     <p>
- Programiści mogą projektować i dostarczać raporty bezpośrednio z Microsoft Excel, korzystając z Aspose.Cells.Report.Designer — prostego narzędzia do projektowania, które wykorzystuje Microsoft Excel jako szablon raportu. Ta funkcja umożliwia korzystanie ze wszystkich zaawansowanych funkcji i funkcji dostępnych w aplikacji Excel Microsoft, w tym tabel przestawnych, interaktywnych wykresów, formuł i tak dalej.
+Programiści mogą projektować i dostarczać raporty bezpośrednio z Microsoft Excel, korzystając z Aspose.Cells.Report.Designer - prostego narzędzia do projektowania, które wykorzystuje Microsoft Excel jako szablon raportu. Ta funkcja umożliwia wykorzystanie wszystkich zaawansowanych funkcji i funkcji dostępnych w aplikacji Excel Microsoft, w tym tabel przestawnych, interaktywnych wykresów, formuł i tak dalej.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,10 +356,10 @@ Zwiń lub rozwiń pola tabeli przestawnej
  Eksportuj raporty do formatów arkuszy kalkulacyjnych
     </h2>
     <p>
-Aspose.Cells for Reporting Services obsługuje wszystkie popularne formaty plików Microsoft Excel (97 - 2016), w tym „natywne” Microsoft formaty Excel, takie jak XLS, XLSX, XLSM, SpreadsheetML, CSV, Rozdzielany tabulatorami i HTML. Aspose.Cells for Reporting Services obsługuje również format pliku ODS (Arkusz kalkulacyjny OpenDocument).
+ Aspose.Cells for Reporting Services obsługuje wszystkie popularne formaty plików Microsoft Excel (97 - 2016), w tym „natywne” Microsoft formaty Excel, takie jak XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De ograniczony i HTML. Aspose.Cells for Reporting Services obsługuje również format pliku ODS (Arkusz kalkulacyjny OpenDocument).
     </p>
     <p>
- Ponadto Aspose.Cells for Reporting Services eksportuj dokumenty Excel jako w pełni edytowalne arkusze kalkulacyjne, to znaczy; użytkownik końcowy może w razie potrzeby edytować wynikowe arkusze kalkulacyjne ręcznie w aplikacji Excel Microsoft.
+ Ponadto Aspose.Cells for Reporting Services eksportuje dokumenty Excel jako w pełni edytowalne arkusze kalkulacyjne, czyli; użytkownik końcowy może w razie potrzeby ręcznie edytować powstałe arkusze kalkulacyjne w aplikacji Excel Microsoft.
     </p>
    </div>
    <div class="col-lg-12">
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services obsługuje wszystkie popularne formaty plik�
  Wysoka wierność — identyczna z projektem raportu
     </h2>
     <p>
- Aspose.Cells for Reporting Services wyeksportować raporty do Microsoft arkuszy kalkulacyjnych programu Excel w taki sposób, aby wynik był identyczny z oryginalnym wygenerowanym przez wbudowanego projektanta raportów usług Reporting Services. Wszystkie funkcje raportów są konwertowane z najwyższą precyzją, aby arkusze Excel Microsoft wyglądały jak najbardziej podobnie do oryginału.
+Aspose.Cells for Reporting Services wyeksportuj raporty do Microsoft arkuszy kalkulacyjnych Excel w taki sposób, że wynik będzie identyczny z oryginalnym wygenerowanym przez wbudowanego projektanta raportów Reporting Services. Wszystkie funkcje raportów są konwertowane z najwyższym stopniem precyzji, aby arkusze kalkulacyjne Excel Microsoft wyglądały jak najbardziej podobnie do oryginału.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services obsługuje wszystkie popularne formaty plik�
  Różne opcje przetwarzania danych
     </h2>
     <p>
-Aspose.Cells for Reporting Services obsługują tabele z pogrupowanymi wierszami i stopkami, przy czym grupowanie można skonfigurować w czasie projektowania, podobnie jak inne elementy raportu. Aspose.Cells for Reporting Services obsługuje również parametry i zmienne globalne jako źródła danych raportu. Deweloperzy mogą również skorzystać z Microsoft Query do tworzenia źródeł danych i zapytań; jest to powszechnie używane narzędzie, znane większości użytkowników.
+ Aspose.Cells for Reporting Services obsługuje tabele z pogrupowanymi wierszami i stopkami, przy czym grupowanie można skonfigurować w czasie projektowania, podobnie jak inne pozycje raportu. Aspose.Cells for Reporting Services obsługuje również parametry i zmienne globalne jako źródła danych raportów. Programiści mogą również skorzystać z Microsoft Query do tworzenia źródeł danych i zapytań; jest to powszechnie używane narzędzie i znane większości użytkowników.
     </p>
     <p>
- Oprócz tego Aspose.Cells for Reporting Services obsługuje zarówno określone źródła danych raportów, jak i udostępnione wcześniej źródła danych utworzone na serwerze raportów. Programiści mogą korzystać ze źródeł danych określonych w raporcie w czasie projektowania i określać udostępnione źródła danych jako źródła danych raportu podczas publikowania raportów.
+Oprócz tego Aspose.Cells for Reporting Services obsługuje zarówno źródła danych specyficzne dla raportów, jak i udostępnione źródła danych utworzone wcześniej na serwerze raportów. Deweloperzy mogą używać źródeł danych specyficznych dla raportu w czasie projektowania i określać udostępnione źródła danych jako źródła danych raportu podczas publikowania raportów.
     </p>
    </div>
    <!-- 
@@ -421,10 +421,10 @@ Aspose.Cells for Reporting Services obsługują tabele z pogrupowanymi wierszami
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Automatyzacja biura — niepotrzebna
+ Microsoft Automatyzacja biura – nie jest potrzebna
     </h2>
     <p>
- Aspose.Cells for Reporting Services jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga instalacji pakietu Office Microsoft lub programu Excel Microsoft na komputerze do pracy z formatami dokumentów programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
+ Aspose.Cells for Reporting Services jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga instalacji pakietu Office Microsoft lub programu Excel Microsoft na komputerze w celu pracy z formatami dokumentów Excel. Jest to doskonała alternatywa automatyzacji programu Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
     </p>
    </div>
   </div>

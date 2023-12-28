@@ -1,7 +1,7 @@
 ---
-title: Java FODS naar ETT - Online FODS naar ETT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Converteer FODS naar ETT-opslagformaat. Java FODS naar ETT-formaat. Bewaar FODS naar ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to ETT saveformat., Free Online FODS to ETT Java., Java Convert FODS to ETT]
+title: Java FODS naar ETT - FODS naar ETT-converter
+description: Aspose Excel. Converteer FODS snel en eenvoudig naar ETT met Aspose.Cells. Java FODS naar ETT. Java Bewaar FODS in ETT. Sla FODS op als ETT met Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to ETT in Java., Save FODS to ETT using Java., Java FODS to ETT saveformat., FODS to ETT Converter., Java Save FODS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer FODS naar ETT in Java" h2="Snelle Java-bibliotheek voor het converteren van FODS naar ETT. Dit is een professionele softwareoplossing voor het importeren en exporteren van FODS, ETT en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% blocks/products/pf/agp/content h2="Converteer FODS naar ETT met behulp van Java" %}}
 
- Hoe converteer ik FODS naar ETT? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig FODS programmatisch converteren naar ETT met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Hoe converteer ik FODS naar ETT? Met de bibliotheek Aspose.Cells en for Java kunt u FODS eenvoudig programmatisch naar ETT converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,39 +45,39 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bespaar FODS naar ETT in Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla FODS op in ETT in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u FODS converteert naar ETT in Java.
+Het volgende voorbeeld laat zien hoe u FODS naar ETT converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om FODS naar ETT te converteren. Upload uw FODS-bestand en sla het eenvoudig op als ETT-bestand. Voor zowel FODS lezen als ETT schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ETT-inhoud en -opmaak zullen identiek zijn aan het originele FODS-document.
+Volg de eenvoudige stappen om FODS naar ETT te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als ETT-bestand. Voor zowel FODS-lezen als ETT-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ETT-inhoud en opmaak zijn identiek aan het originele FODS-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om FODS online naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om FODS naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe FODS naar ETT via Java te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u FODS-bestanden programmatisch naar ETT converteren? Java-ontwikkelaars kunnen FODS eenvoudig converteren naar ETT in slechts een paar regels code.
+Wilt u FODS-bestanden programmatisch naar ETT converteren? Java-ontwikkelaars kunnen FODS eenvoudig met slechts een paar regels code naar ETT converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het bestand FODS met een exemplaar van de klasse Workbook.
-1.  Converteer FODS naar ETT door de methode Workbook.save aan te roepen.
+1. Laad bestand FODS met een exemplaar van de klasse Workbook.
+1.  Converteer FODS naar ETT door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van FODS naar ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om FODS naar ETT te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om FODS naar ETT te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -91,30 +91,30 @@ Wilt u FODS-bestanden programmatisch naar ETT converteren? Java-ontwikkelaars ku
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
-- Download de nieuwste versie van Aspose.Cells for Java rechtstreeks van Maven.
+- Ontvang de nieuwste versie van Aspose.Cells for Java rechtstreeks via Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met behulp van LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Een ETT-bestand is een spreadsheetsjabloon gemaakt door Kingsoft Spreadsheets, een spreadsheetprogramma dat is opgenomen in de WPS Office-suite. Het slaat een sjabloon op dat kan worden gebruikt als startpunt voor het maken van nieuwe Kingsoft-spreadsheets (.ET-bestanden). ETT-bestanden worden vaak gebruikt voor het maken van financiële budgetten en het organiseren van gegevens.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt FODS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt FODS ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-bmp/" name="FODS TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-emf/" name="FODS TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-gif/" name="FODS TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-html/" name="FODS TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-html/" name="FODS TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-md/" name="FODS NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-mhtml/" name="FODS TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-mhtml/" name="FODS TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-ods/" name="FODS TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-pdf/" name="FODS TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-png/" name="FODS TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-svg/" name="FODS TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tiff/" name="FODS TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tiff/" name="FODS TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-tsv/" name="FODS TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-txt/" name="FODS TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xls/" name="FODS TOT XLS" description="Excel binair formaat" >}}
@@ -122,12 +122,12 @@ Wilt u FODS-bestanden programmatisch naar ETT converteren? Java-ontwikkelaars ku
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsm/" name="FODS TOT XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlsx/" name="FODS TOT XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xlt/" name="FODS TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xml/" name="FODS NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS TOT XPS" description="XML-papierspecificaties" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-json/" name="FODS TOT JSON" description="JavaScript-objectnotatie" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS TOT JPEG" description="JPEG Afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS TOT JPEG" description="JPEG Afb" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

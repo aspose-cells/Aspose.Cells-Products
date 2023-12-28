@@ -1,7 +1,7 @@
 ---
-title: Python OTS naar FODS - Online OTS naar FODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer OTS naar FODS opslagformaat. Python OTS naar FODS formaat. Sla OTS op naar FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to FODS saveformat., Free Online OTS to FODS Python., Python Convert OTS to FODS]
+title: Python OTS naar FODS - OTS naar FODS Converter
+description: Aspose Excel. Converteer OTS snel en eenvoudig naar FODS met Aspose.Cells. Python OTS naar FODS. Python Bewaar OTS naar FODS. Sla OTS op als FODS met Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to FODS in Python., Save OTS to FODS using Python., Python OTS to FODS saveformat., OTS to FODS Converter., Python Save OTS as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar FODS in Python" h2="Snelle Python-bibliotheek voor het converteren van OTS naar FODS. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, FODS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,36 +12,36 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Converteer OTS naar FODS met behulp van Python" %}}
 
- Hoe converteer ik OTS naar FODS? Met de bibliotheek Aspose.Cells for Python kunt u OTS eenvoudig programmatisch converteren naar FODS met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik OTS naar FODS? Met de bibliotheek Aspose.Cells for Python kunt u OTS eenvoudig programmatisch naar FODS converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar OTS naar FODS in Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Bewaar OTS op FODS in Python" %}}
 
 Het volgende voorbeeld laat zien hoe u OTS converteert naar FODS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om OTS naar FODS te converteren. Upload uw OTS-bestand en sla het op als FODS-bestand. Voor zowel OTS-lezen als FODS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer FODS inhoud en opmaak zal identiek zijn aan het originele OTS-document.
+Volg de eenvoudige stappen om OTS naar FODS te converteren. Upload uw OTS-bestand en sla het vervolgens eenvoudig op als FODS-bestand. Voor zowel OTS-lezen als FODS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer FODS zullen identiek zijn aan het originele OTS-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om OTS online naar FODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar FODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe OTS naar FODS te converteren via Python" %}}
+{{% blocks/products/pf/agp/content h2="OTS converteren naar FODS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u OTS-bestanden programmatisch converteren naar FODS? Python-ontwikkelaars kunnen OTS eenvoudig laden en converteren naar FODS in slechts een paar regels code.
+Wilt u OTS-bestanden programmatisch naar FODS converteren? Python-ontwikkelaars kunnen OTS eenvoudig laden en converteren naar FODS in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad OTS-bestand met een instantie van Workbook.
-1.  Converteer OTS naar FODS door de methode Workbook.save aan te roepen.
-1.  Verkrijg het conversieresultaat van OTS naar FODS.
+1.  Laad het OTS-bestand met een exemplaar van Workbook.
+1.  Converteer OTS naar FODS door de Workbook.save-methode aan te roepen.
+1.  Ontvang het conversieresultaat van OTS naar FODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -49,7 +49,7 @@ Wilt u OTS-bestanden programmatisch converteren naar FODS? Python-ontwikkelaars 
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,35 +63,35 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Een bestand met de extensie .ots is een OpenDocument Spreadsheet-sjabloonbestand dat is gemaakt met de Calc-toepassingssoftware die is opgenomen in Apache OpenOffice. Calc-toepassingssoftware is vergelijkbaar met Excel beschikbaar in Microsoft Office. OTS-bestandsindeling wordt gebruikt om sjablonen te maken die vooraf gedefinieerde instellingen bevatten met betrekking tot stijlen, lettertype, gegevens, spreadsheetlay-out en opmaak. OTF-bestanden hebben het mime-type application/vnd.oasis.opendocument.spreadsheet-template. Deze sjabloonbestanden kunnen worden gebruikt als uitgangspunt voor het genereren en opslaan van daadwerkelijke gegevensbestanden die zijn opgeslagen in de bestandsindeling ODS. OTS-bestanden kunnen worden gebruikt met toepassingen zoals OpenOffice en LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Een bestand met de extensie .ots is een OpenDocument Spreadsheet-sjabloonbestand dat is gemaakt met de Calc-toepassingssoftware die is meegeleverd met Apache OpenOffice. Calc-toepassingssoftware is vergelijkbaar met Excel en beschikbaar in Microsoft Office. Het OTS-bestandsformaat wordt gebruikt om sjablonen te maken die vooraf gedefinieerde instellingen bevatten met betrekking tot stijlen, lettertype, gegevens, spreadsheetindeling en opmaak. OTF-bestanden hebben het mime-type application/vnd.oasis.opendocument.spreadsheet-template. Deze sjabloonbestanden kunnen als uitgangspunt worden gebruikt voor het genereren en opslaan van daadwerkelijke gegevensbestanden die zijn opgeslagen in de bestandsindeling ODS. OTS-bestanden kunnen worden gebruikt met toepassingen zoals OpenOffice en LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Een bestand met de extensie .fods is een type OpenDocument Spreadsheet-documentindeling waarin gegevens in rijen en kolommen worden opgeslagen. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. FODS-bestanden kunnen niet worden geopend met Excel, een andere Spreadsheet-softwaretoepassing van Microsoft. FODS-bestanden kunnen worden opgeslagen als ODS met behulp van LibreOffice en kunnen worden geconverteerd naar andere formaten zoals XLS en XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt OTS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt OTS ook naar vele andere bestandsformaten converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS NAAR BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS NAAR EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS NAAR GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS NAAR HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS NAAR HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS NAAR MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS NAAR ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS NAAR MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS NAAR ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS NAAR PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS NAAR PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS NAAR SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS NAAR TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS NAAR TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS NAAR TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS NAAR TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS NAAR XLS" description="Excel binair formaat" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk plat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS NAAR XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS NAAR XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS NAAR XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS NAAR XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS NAAR XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS NAAR XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xml/" name="OTS NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS NAAR XPS" description="XML-papierspecificaties" >}}

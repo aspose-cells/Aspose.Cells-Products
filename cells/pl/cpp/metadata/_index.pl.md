@@ -1,45 +1,46 @@
 ---
-title: Zarządzaj metadanymi plików programu Excel pod numerem C++
+title: Zarządzaj metadanymi plików Excel pod numerem C++
 description: Przeglądaj, dodawaj, edytuj, usuwaj lub wyodrębniaj metadane plików Excel za pomocą biblioteki C++
+keywords: [C++ Aspose.Cells., C++ view excel metadata., C++ add excel metadata., C++ insert excel metadata., C++ edit excel metadata., C++ remove excel metadata., C++ extract excel metadata., C++ modify excel metadata]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Zarządzaj metadanymi dokumentu Excel Microsoft<sup>&reg;</sup> za pośrednictwem C++" h2="Przeglądaj, wstawiaj, aktualizuj, usuwaj lub wyodrębniaj niestandardowe i wbudowane właściwości dokumentów programu Excel w aplikacjach C++." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Zarządzaj metadanymi dokumentu Excel Microsoft<sup>&reg;</sup> pod numerem C++" h2="Przeglądaj, wstawiaj, aktualizuj, usuwaj lub wyodrębniaj niestandardowe i wbudowane właściwości dokumentów Excel w aplikacjach C++." >}}
 {{% blocks/products/pf/feature-page-summary %}}
- Metadane w programie Excel — jak przeglądać, wstawiać i usuwać metadane plików programu Excel.[C++ Biblioteka programu Excel](/cells/pl/cpp/) ułatwia to w łatwy sposób poprzez obsługę wbudowanych/zdefiniowanych przez system właściwości, takich jak nazwisko autora, tytuł, statystyki dokumentu itp. pary nazwa/wartość. Aby zautomatyzować ten proces, biblioteka obsługuje tworzenie i utrzymywanie dużych plików metadanych Excel.[Metoda CreateIWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory#a93f7282b976d2a001d44198dedaceee8) z[Klasa fabryczna](https://reference.aspose.com/cells/cpp/class/aspose.cells.factory)Otwórz skoroszyt według ścieżki, strumienia i specjalnego typu FileFormatType. Więc załaduj plik odpowiednią metodą do dalszego przetwarzania. Kilka z wymienionych poniżej możliwości, a programiści mogą łatwo ulepszyć swój kod zgodnie z wymaganiami aplikacji.
+ Metadane w Excelu - Jak przeglądać, wstawiać i usuwać metadane pliku Excel.[C++ Biblioteka Excela](/cells/pl/cpp/) ułatwia to w łatwy sposób poprzez obsługę wbudowanych/zdefiniowanych przez system właściwości, takich jak imię i nazwisko autora, tytuł, statystyki dokumentu itp. potrzebnych czasami do sprawdzania, kiedy plik został ostatnio zmodyfikowany lub zapisany wraz z właściwościami niestandardowymi/zdefiniowanymi przez użytkownika w formie pary nazwa/wartość. Aby zautomatyzować proces, biblioteka umożliwia tworzenie i utrzymywanie dużych plików Excel z metadanymi.[zeszyt ćwiczeń](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/)class Otwiera skoroszyt według ścieżki, strumienia i specjalnego FileFormatType. Zatem załaduj plik odpowiednią metodą w celu dalszego przetwarzania. Niewiele z możliwości wymienionych poniżej pozwala programistom łatwo ulepszyć swój kod zgodnie z wymaganiami aplikacji.
  
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Odczytywanie i aktualizowanie właściwości wbudowanych" %}}
+{{% blocks/products/pf/feature-page-section h2="Przeczytaj i zaktualizuj wbudowane właściwości" %}}
 
- Do automatyzacji wbudowanych właściwości zapewnia API[GetIBuiltInDocumentProperties()](https://reference.aspose.com/cells/cpp/class/aspose.cells.metadata.i_workbook_metadata) metoda, która zwraca kolekcję DocumentProperties reprezentującą wszystkie wbudowane właściwości dokumentu arkusza kalkulacyjnego. Po uzyskaniu dostępu do wszystkich wbudowanych właściwości, uzyskaj dostęp do odpowiednich właściwości za pomocą odpowiedniej metody, takiej jak GetTitle(), GetSubject() itp. Aby zaktualizować właściwości, API zapewnia metodę, taką jak SetTitle, SetSubject, SetAuthor, SetComments itp. Zobacz[wbudowana kolekcja właściwości dokumentu](https://reference.aspose.com/cells/cpp/class/aspose.cells.properties.i_built_in_document_property_collection) dla wymaganej funkcji.
+ Do automatyzacji wbudowanych właściwości zapewnia API[GetBuiltInDocumentProperties()](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/getbuiltindocumentproperties/) metoda zwracająca kolekcję DocumentProperties reprezentującą wszystkie wbudowane właściwości dokumentu arkusza kalkulacyjnego. Po uzyskaniu dostępu do wszystkich wbudowanych właściwości, uzyskaj dostęp do odpowiednich właściwości za pomocą odpowiednich metod, takich jak GetTitle(), GetSubject() itp. Aby zaktualizować właściwości, API udostępnia metody takie jak SetTitle, SetSubject, SetAuthor, SetComments itp. Zobacz[wbudowana kolekcja właściwości dokumentu](https://reference.aspose.com/cells/cpp/aspose.cells.properties/builtindocumentpropertycollection/) dla wymaganej funkcji.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kod do odczytu właściwości zdefiniowanych przez system" %}}
 
-{{< gist "aspose-com-gists" "d3c95be1fcfce10bd88c9cf1be2f923e" "read-system-defined-properties.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "read-system-defined-properties.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C++ Kod aktualizujący wbudowane właściwości" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Kod do aktualizacji wbudowanych właściwości" %}}
 
-{{< gist "aspose-com-gists" "d3c95be1fcfce10bd88c9cf1be2f923e" "update-built-in-properties.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "update-built-in-properties.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Metadata" >}}
-{{% blocks/products/pf/feature-page-section h2="Wyświetl i dodaj niestandardowe właściwości zdefiniowane" %}}
+{{% blocks/products/pf/feature-page-section h2="Przeglądaj i dodawaj niestandardowe zdefiniowane właściwości" %}}
 
-Do obsługi właściwości niestandardowych służy numer API[IWorkbookMetadata::GetICustomDocumentProperties](https://reference.aspose.com/cells/cpp/class/aspose.cells.metadata.i_workbook_metadata#a69f0226813ce18c03ebc13b8ca691e79) która zwraca całą kolekcję niestandardowych właściwości dokumentu arkusza kalkulacyjnego. Po pierwsze, uzyskując dostęp do właściwości niestandardowych za pomocą tej metody, programiści mogą użyć odpowiednich metod, aby dodać właściwości, takie jak AddIDocumentProperty, AddLinkToContentProperty i podobnie użyć UpdateLinkedPropertyValue, UpdateLinkedRange, aby zaktualizować niestandardową wartość właściwości dokumentu, która łączy się odpowiednio z treścią i połączonym zakresem. Deweloperzy mogą użyć odpowiedniej metody z[zbiór niestandardowych właściwości dokumentu](https://reference.aspose.com/cells/cpp/class/aspose.cells.properties.i_custom_document_property_collection).
+Do obsługi właściwości niestandardowych udostępnia numer API[Skoroszyt::GetCustomDocumentProperties](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/getcustomdocumentproperties/) która zwraca całą kolekcję niestandardowych właściwości dokumentu arkusza kalkulacyjnego. Po pierwsze, uzyskując dostęp do właściwości niestandardowych za pomocą tej metody, programiści mogą użyć odpowiednich metod, aby dodać właściwości, takie jak AddIDocumentProperty, AddLinkToContentProperty i w podobny sposób użyć UpdateLinkedPropertyValue, UpdateLinkedRange do aktualizacji wartości niestandardowej właściwości dokumentu, która łączy się odpowiednio z treścią i połączonym zakresem. Programiści mogą użyć odpowiedniej metody z[zbiór niestandardowych właściwości dokumentu](https://reference.aspose.com/cells/cpp/aspose.cells.properties/customdocumentpropertycollection/).
 
-{{% blocks/products/pf/feature-page-code h3="C++ Kod do przeglądania właściwości niestandardowych" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Kod umożliwiający wyświetlenie właściwości niestandardowych" %}}
 
-{{< gist "aspose-com-gists" "d3c95be1fcfce10bd88c9cf1be2f923e" "view-custom-properties.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "view-custom-properties.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
-{{% blocks/products/pf/feature-page-code h3="C++ Kod dodawania metadanych w pliku Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Kod do dodania metadanych w pliku Excel" %}}
 
-{{< gist "aspose-com-gists" "d3c95be1fcfce10bd88c9cf1be2f923e" "add-custom-property.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-custom-property.cpp" >}}
 
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,7 +1,7 @@
 ---
-title: Java XML na MARKDOWN - Konwerter online XML na MARKDOWN
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Bezpłatnie online Java Konwersja XML do formatu zapisu MARKDOWN. Java Format XML do MARKDOWN. Zapisz XML pod numerem MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MARKDOWN saveformat., Free Online XML to MARKDOWN Java., Java Convert XML to MARKDOWN]
+title: Java XML na MARKDOWN - Konwerter XML na MARKDOWN
+description: Aspose Excel. Konwertuj XML na MARKDOWN szybko i łatwo za pomocą Aspose.Cells. Java XML na MARKDOWN. Java Zapisz XML na MARKDOWN. Zapisz XML jako MARKDOWN używając Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to MARKDOWN in Java., Save XML to MARKDOWN using Java., Java XML to MARKDOWN saveformat., XML to MARKDOWN Converter., Java Save XML as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XML na MARKDOWN w Java" h2="Szybka biblioteka Java do konwersji XML na MARKDOWN. Jest to profesjonalne oprogramowanie do importowania i eksportowania XML, MARKDOWN i wielu innych formatów przy użyciu Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MA
 
 {{% blocks/products/pf/agp/content h2="Konwertuj XML na MARKDOWN, używając Java" %}}
 
- Jak przekonwertować XML na MARKDOWN? Dzięki bibliotece Aspose.Cells for Java możesz łatwo przekonwertować XML na MARKDOWN programowo za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak przekonwertować XML na MARKDOWN? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo przekonwertować XML na MARKDOWN za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -45,24 +45,24 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to MA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz XML do MARKDOWN w Java Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz XML pod numerem MARKDOWN w Java" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować XML na MARKDOWN w Java.
+Poniższy przykład ilustruje, jak przekonwertować kod XML na MARKDOWN w Java.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować XML na MARKDOWN. Prześlij swój plik XML, a następnie po prostu zapisz go jako plik MARKDOWN. Zarówno do odczytu XML, jak i zapisu MARKDOWN można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie MARKDOWN będą identyczne z oryginalnym dokumentem XML.
+Wykonaj proste kroki, aby przekonwertować plik XML na MARKDOWN. Prześlij plik XML, a następnie po prostu zapisz go jako plik MARKDOWN. Zarówno do odczytu XML, jak i do zapisu MARKDOWN można używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego MARKDOWN będą identyczne z oryginalnym dokumentem XML.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XML na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XML na MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XML na MARKDOWN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki XML na MARKDOWN? Java programiści mogą łatwo przekonwertować XML na MARKDOWN w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki XML na MARKDOWN? Programiści Java mogą łatwo przekonwertować XML na MARKDOWN w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,10 +74,10 @@ Chcesz programowo przekonwertować pliki XML na MARKDOWN? Java programiści mog�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java biblioteka do konwersji XML na MARKDOWN" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Java do konwersji XML na MARKDOWN" %}}
 {{% blocks/products/pf/agp/text %}}
 
- Hostujemy nasze paczki Java w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w swoim środowisku deweloperskim Java.
+ Nasze pakiety Java hostujemy w[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repozytoria. „Aspose.Cells for Java” to popularny plik JAR zawierający kod bajtowy. Proszę postępować zgodnie z[instrukcje krok po kroku](https://docs.aspose.com/cells/java/installation/) jak zainstalować go w środowisku programistycznym Java.
 
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
@@ -90,44 +90,44 @@ Chcesz programowo przekonwertować pliki XML na MARKDOWN? Java programiści mog�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML oznacza Extensible Markup Language, który jest podobny do HTML, ale różni się używaniem znaczników do definiowania obiektów. Cała idea stworzenia formatu plików XML polegała na przechowywaniu i przesyłaniu danych bez uzależnienia od oprogramowania lub narzędzi sprzętowych. Jego popularność wynika z tego, że jest czytelny zarówno dla ludzi, jak i dla maszyn. Umożliwia to tworzenie wspólnych protokołów danych w postaci obiektów, które mają być przechowywane i udostępniane w sieci, takiej jak World Wide Web (WWW). „X” w XML oznacza rozszerzalny, co oznacza, że język można rozszerzyć do dowolnej liczby symboli, zgodnie z wymaganiami użytkownika. Właśnie dla tych funkcji korzysta z niego wiele standardowych formatów plików, takich jak Microsoft Open XML, LibreOffice OpenDocument, XHTML i SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Pliki tekstowe utworzone za pomocą dialektów języka Markdown są zapisywane z rozszerzeniem .md lub .MARKDOWN. Pliki MD są zapisywane w formacie zwykłego tekstu, który wykorzystuje język Markdown, który zawiera również wbudowane symbole tekstowe, określające sposób formatowania tekstu, taki jak wcięcia, formatowanie tabeli, czcionki i nagłówki. Pliki MD można konwertować na HTML za pomocą programu o nazwie Markdown. Język Markdown został wydany przez Johna Grubera.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML oznacza Extensible Markup Language, który jest podobny do HTML, ale różni się pod względem używania znaczników do definiowania obiektów. Cała idea stworzenia formatu pliku XML polegała na przechowywaniu i transporcie danych bez uzależnienia od oprogramowania lub narzędzi sprzętowych. Jego popularność wynika z tego, że jest czytelny zarówno dla ludzi, jak i maszyn. Umożliwia to tworzenie wspólnych protokołów danych w postaci obiektów, które można przechowywać i udostępniać w sieci, takiej jak sieć WWW (WWW). „X” w formacie XML oznacza rozszerzalny, co oznacza, że język można rozszerzyć do dowolnej liczby symboli zgodnie z wymaganiami użytkownika. To właśnie dla tych funkcji wykorzystuje go wiele standardowych formatów plików, takich jak Microsoft Open XML, LibreOffice OpenDocument, XHTML i SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Pliki tekstowe utworzone w dialektach języka Markdown są zapisywane z rozszerzeniem .md lub .MARKDOWN. Pliki MD są zapisywane w formacie zwykłego tekstu wykorzystującym język Markdown, który zawiera również symbole tekstu wbudowanego, definiujące sposób formatowania tekstu, taki jak wcięcia, formatowanie tabeli, czcionki i nagłówki. Pliki MD można przekonwertować na numer HTML za pomocą programu o nazwie Markdown. Język Markdown został wydany przez Johna Grubera.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także konwertować XML na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-bmp/" name="XML DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-gif/" name="XML DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML TO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML DO MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-ods/" name="XML DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-pdf/" name="XML DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-png/" name="XML DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-svg/" name="XML DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-txt/" name="XML DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsm/" name="XML DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsx/" name="XML DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML DO JSON" description="Notacja obiektu JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML DO JPEG" description="JPEG Obraz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML DO JPEG" description="JPEG Zdjęcie" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

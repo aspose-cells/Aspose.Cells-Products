@@ -1,7 +1,8 @@
 ---
 title:  Wstaw kształty równań do programu Excel via .NET
 weight: 360
-description: C# kod źródłowy do wstawiania kształtów równań do programu Excel na platformach .NET, .NET Core, Mono lub platformach Xamarin.
+description: C# Przykładowy kod umożliwiający dodawanie lub wstawianie kształtów równań do programu Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć kształty równań w programie MS Excel w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+keywords: [C# Aspose.Cells., c# add equation shapes., c# insert equation shapes., c# create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wstaw kształty równań do programu Excel via .NET" h2="Wstaw kształty równań za pomocą Aspose.Cells\' API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# kod źródłowy do wstawiania kształtów równań do programu E
 
 {{% blocks/products/pf/agp/content h2="Jak wstawić kształty równań do pliku Excel za pomocą C#" %}}
 
- Aby wstawić kształty równań do pliku programu Excel, użyjemy
+ Aby wstawić kształty równań do pliku Excel, użyjemy
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji i rozdzielania dokumentów API dla platformy C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -33,16 +34,16 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić kształty równań do pliku Excel za pośrednictwem C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić kształty równań do pliku Excel za pomocą C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz aspose.cells.dll, aby wypróbować następujący przepływ pracy we własnym środowisku.
+Aby wypróbować następujący przepływ pracy we własnym środowisku, potrzebujesz pliku aspose.cells.dll.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
-+ Wybierz arkusz roboczy za pomocą jego indeksu.
++ Tworzenie instancji obiektu skoroszytu. (lub-> Załaduj plik XLSX z pełną ścieżką.)
++ Wybierz Arkusz poprzez jego indeks.
  + Użyj[dodaj metodę](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) , aby wstawić kształty równań w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
@@ -56,13 +57,13 @@ Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną śc
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Mono lub Xamarin Platforms
+-  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Mono lub platformami Xamarin
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
--  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
+-  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj od NuGet, korzystając z przycisku Pobierz powyżej
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typów można znaleźć w sekcji „Przegląd typów kształtów równań” poniżej.
+Przykładowy kod poniżej pokazuje, jak wstawić „plus matematyczny”. Więcej typów można znaleźć w sekcji „Przegląd typów kształtów równań” poniżej.
 
 {{% blocks/products/pf/agp/code-block title="Wstaw kształty równań — C#" offSpacer="" %}}
 
@@ -87,7 +88,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typó
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MathMinus
+ Autokształt Typ.MathMinus
     </p>
    </div>
    <div class="col-lg-4">
@@ -127,7 +128,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „math plus”. Więcej typó
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
+Aspose.Cells API można używać do tworzenia, edytowania, konwertowania i renderowania formatów Excel Microsoft do różnych formatów. Co więcej, można go używać do kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Numer Aspose.Cells jest samodzielnym numerem API i nie wymaga żadnego oprogramowania takiego jak Microsoft czy OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

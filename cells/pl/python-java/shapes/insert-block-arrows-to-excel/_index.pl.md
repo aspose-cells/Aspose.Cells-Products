@@ -1,7 +1,8 @@
 ---
 title: Wstaw strzałki blokowe do Excela, używając Python via Java
 weight: 338
-description: Python via Java kod źródłowy do wstawiania strzałek blokowych do programu Excel.
+description: Python via Java kod źródłowy umożliwiający wstawianie strzałek blokowych do programu Excel.
+keywords: [Python Aspose.Cells., Python add block arrows., Python insert block arrows., Python create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wstaw strzałki blokowe do Excela, używając Python via Java" h2="Wstaw strzałki blokowe za pomocą Aspose.Cells\' API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via Java kod źródłowy do wstawiania strzałek blokowych d
 
 {{% blocks/products/pf/agp/content h2="Jak wstawić strzałki blokowe do pliku Excel za pomocą Python via Java" %}}
 
-Aby wstawić strzałki blokowe do pliku Excela, użyjemy
+ Aby wstawić strzałki blokowe do pliku Excel, użyjemy
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do manipulacji dokumentami API for Python via Java. API umożliwia tworzenie, manipulowanie, konwersję i renderowanie plików programu Excel. Wszystko bez polegania na aplikacjach Office lub Excel Microsoft. Możesz zainstalować z konsoli za pomocą następującego polecenia.
+ API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do manipulacji dokumentami API for Python via Java. API umożliwia tworzenie, manipulowanie, konwersję i renderowanie plików Excel. Wszystko bez polegania na aplikacjach Microsoft Office lub Excel. Możesz zainstalować z konsoli za pomocą następującego polecenia.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -33,12 +34,12 @@ Aby wstawić strzałki blokowe do pliku Excela, użyjemy
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz aspose.cells, aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz pliku aspose.cells, aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
-+ Wybierz arkusz roboczy za pomocą jego indeksu.
++ Tworzenie instancji obiektu skoroszytu. (lub-> Załaduj plik XLSX z pełną ścieżką.)
++ Wybierz Arkusz poprzez jego indeks.
  + Użyj[dodaj metodę](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)), aby wstawić strzałki blokowe w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
@@ -48,17 +49,17 @@ Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną śc
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), po prostu upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub więcej.
+ Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), tylko upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Dowolny system operacyjny, który może uruchamiać skrypty Python via Java, taki jak Windows, Linux i MacOS
--  Zainstaluj Java i dodaj go do zmiennej środowiskowej PATH, na przykład:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Dowolny system operacyjny, który może uruchamiać skrypty Python via Java, np. Windows, Linux i MacOS
+- Zainstaluj Java i dodaj go do zmiennej środowiskowej PATH, na przykład:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Zainstaluj Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby uzyskać więcej informacji, zapoznaj się z „Omówieniem typów kształtów strzałek blokowych” poniżej.
+Przykładowy kod poniżej pokazuje, jak wstawić „strzałkę w prawo”. Więcej typów można znaleźć w artykule „Przegląd typów kształtów strzałek blokowych” poniżej.
 
 {{% blocks/products/pf/agp/code-block title="Wstaw strzałki blokowe - Python via Java" offSpacer="" %}}
 
@@ -72,7 +73,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Omówienie typów kształtów strzałek blokowych
+ Przegląd typów kształtów strzałek blokowych
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
@@ -115,7 +116,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.QUAD_ARROW
+ Typ Autokształtu.QUAD_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -127,13 +128,13 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.BENT_ARROW
+ Typ Autokształtu.BENT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.U_TURN_ARROW
+Typ Autokształtu.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -151,31 +152,31 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_right.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_RIGHT_ARROW
+ Typ Autokształtu.CURVED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_LEFT_ARROW
+ Typ Autokształtu.CURVED_LEFT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_up.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_UP_ARROW
+ Typ Autokształtu.CURVED_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_down.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_DOWN_ARROW
+ Typ Autokształtu.CURVED_DOWN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_striped_right.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.STRIPED_RIGHT_ARROW
+ Typ Autokształtu.STRIPED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -187,19 +188,19 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_home_plate.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.HOME_PLATE
+ Typ Autokształtu.HOME_PLATE
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_chevron.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Autokształt.Typ.CHEVRON
+ Typ Autokształtu.CHEVRON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-Typ autokształtu.RIGHT_ARROW_CALLOUT
+ Typ autokształtu.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.UP_ARROW_CALLOUT
+ Typ Autokształtu.UP_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -229,13 +230,13 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.QUAD_ARROW_CALLOUT
+ Typ Autokształtu.QUAD_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_circular.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CIRCULAR_ARROW
+ Typ Autokształtu.CIRCULAR_ARROW
     </p>
    </div>
   </div>
@@ -249,9 +250,9 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="O Aspose.Cells for Python via Java API" %}}
+{{% blocks/products/pf/agp/content h2="Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
+Aspose.Cells API można używać do tworzenia, edytowania, konwertowania i renderowania formatów Excel Microsoft do różnych formatów. Co więcej, można go używać do kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Numer Aspose.Cells jest samodzielnym numerem API i nie wymaga żadnego oprogramowania takiego jak Microsoft czy OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

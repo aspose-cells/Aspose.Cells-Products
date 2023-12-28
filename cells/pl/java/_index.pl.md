@@ -1,10 +1,11 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Biblioteka programu Excel do przetwarzania arkuszy kalkulacyjnych. Czytaj, pisz, renderuj i konwertuj XLS XLSX XLSM ODS CSV TSV i więcej formatów. Kompatybilny z Windows Linux i Unix
+description:  Aspose.Cells for Java biblioteka do tworzenia, naprawy, scalania, analizowania i konwertowania plików Excel. Konwertuj program Excel na PDF, JSON, CSV, HTML i tak dalej.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Przetwarzanie arkusza kalkulacyjnego Excel API" h2="Twórz, manipuluj, konwertuj, chroń lub drukuj arkusze kalkulacyjne bez polegania na Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Przetwarzanie arkusza kalkulacyjnego Excel API" h2="Twórz, manipuluj, konwertuj, chroń i drukuj arkusze kalkulacyjne bez polegania na programie Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -12,11 +13,11 @@ description: Java Biblioteka programu Excel do przetwarzania arkuszy kalkulacyjn
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java to wielokrotnie nagradzany program do przetwarzania arkuszy kalkulacyjnych Excel API, który umożliwia programistom osadzenie funkcji czytania, pisania, manipulowania, konwertowania &amp; drukować arkusze kalkulacyjne we własnych aplikacjach, bez konieczności używania aplikacji Excel Microsoft.
+ Aspose.Cells for Java to wielokrotnie nagradzany program do przetwarzania arkuszy kalkulacyjnych Excel API, który umożliwia programistom osadzanie funkcji czytania, pisania, manipulowania, konwertowania i &amp; drukuj arkusze kalkulacyjne we własnych aplikacjach, bez konieczności korzystania z aplikacji Excel Microsoft.
 </p>
 
 <p>
-Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wiele funkcji znacznie wykraczających poza proste możliwości eksportu danych innych komponentów dostępnych na rynku. API zapewnia możliwości eksportowania danych, formatowania arkuszy kalkulacyjnych na najbardziej szczegółowym poziomie, importowania &amp; eksportuj obrazy, twórz wykresy &amp; Tabele przestawne, zastosuj &amp; obliczać złożone formuły za pomocą silnika obliczania formuł, przesyłać strumieniowo dane Excel &amp; zapisać wynik w różnych formatach.
+Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wiele funkcji, które znacznie wykraczają poza proste możliwości eksportu danych innych komponentów dostępnych na rynku. API zapewnia możliwości eksportowania danych, formatowania arkuszy kalkulacyjnych do najbardziej szczegółowego poziomu, importowania i amp; eksportuj obrazy, twórz wykresy i &amp; Tabele przestawne, zastosuj &amp; obliczaj złożone formuły za pomocą silnika obliczania formuł, przesyłaj strumieniowo dane Excel &amp; zapisz wynik w różnych formatach.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -24,7 +25,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="w skrócie" description="Ogólny przegląd." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Ogólny przegląd." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -57,7 +58,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
  Zastosuj formatowanie
     </li>
     <li>
- Twórz wykresy
+ Utwórz wykresy
     </li>
     <li>
  Zastosuj formuły
@@ -75,14 +76,14 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
    <header>
     <i class="fa fa-table">
     </i>
- Kontrola GridWeb
+ Kontrola sieci GridWeb
    </header>
    <ul>
     <li>
  Obsługuje aplikację internetową JSP
     </li>
     <li>
- Załaduj pliki Excela
+ Załaduj pliki Excel
     </li>
     <li>
  Zapisz dokumenty Excela
@@ -117,7 +118,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aplikacje oparte na bibliotece for Java opracowane na platformach Unix/Linux i Mac Windows." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aplikacje oparte na bibliotece for Java opracowane na platformach Windows Unix/Linux i Mac." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -198,7 +199,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
      <b>
       Numbers:
      </b>
- Dokumenty aplikacji Apple iWork Office Suite Numbers
+ Dokumenty aplikacji pakietu biurowego Apple iWork Numbers
     </li>
     <li>
      SXC, FODS
@@ -268,7 +269,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Zaawansowana obsługa bibliotek programu Excel Java
+ Zaawansowana obsługa bibliotek Excel Java
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -284,7 +285,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tworzenie wykresów &amp; manipulacji za pomocą API
+ Tworzenie wykresów &amp; manipulację za pomocą interfejsów API
     </p>
    </div>
    <div class="col-lg-4">
@@ -326,7 +327,7 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ustaw & amp; obliczyć Excel & amp; niestandardowe formuły
+ Ustaw &amp; oblicz Excel &amp; niestandardowe formuły
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,47 +348,47 @@ Aspose.Cells for Java to dojrzała i bogata w funkcje biblioteka, oferująca wie
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Twórz, manipuluj &amp; odśwież tabele przestawne &amp; Wykresy przestawne
+ Twórz, manipuluj i &amp; odśwież tabele przestawne &amp; Wykresy przestawne
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Renderowanie wykresów &amp; karty pracy
+ Renderowanie wykresów &amp; arkusze ćwiczeń
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Odczytuj i zapisuj duże pliki w lekkim trybie
+ Odczytuj i zapisuj duże pliki w trybie lekkim
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ponowne próbkowanie obrazów w programie Excel do konwersji PDF
+Ponownie próbkuj obrazy w programie Excel do konwersji PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Zmodyfikuj kod VBA lub Makra w dokumencie szablonu
+ Zmodyfikuj kod VBA lub makra w dokumencie szablonu
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Zapisz pliki Excela w różnych formatach
+ Zapisuj pliki Excel w różnych formatach
     </h2>
     <p>
- Program Excel API umożliwia konwersję arkuszy kalkulacyjnych do formatów PDF, XPS, HTML i innych przy zachowaniu najwyższej wierności wizualnej. Niezawodny i elastyczny proces konwersji sprawia, że numer Aspose.Cells jest idealnym wyborem dla organizacji, które wymieniają głównie pliki w formatach zgodnych ze standardami branżowymi.
+ Excel API oferuje konwersję arkuszy kalkulacyjnych do formatów PDF, XPS, HTML i innych przy zachowaniu najwyższej wierności wizualnej. Niezawodny i elastyczny proces konwersji sprawia, że Aspose.Cells jest idealnym wyborem dla organizacji, które głównie wymieniają pliki w standardowych formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Konwersja arkusza kalkulacyjnego w wielu formatach - Java
+ Konwersja arkuszy kalkulacyjnych w wielu formatach - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -404,10 +405,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formatuj arkusze robocze na najbardziej szczegółowym poziomie
+ Sformatuj arkusze kalkulacyjne do najbardziej szczegółowego poziomu
     </h2>
     <p>
-Biblioteka zapewnia stylizację arkuszy kalkulacyjnych, w tym między innymi formatowanie arkuszy na poziomie wierszy, kolumn i komórek, dodawanie reguł formatowania warunkowego, definiowanie formatów liczb i ustawianie czcionek z atrybutami. Podobnie API obsługuje manipulowanie i tworzenie wszystkich typów niestandardowych i standardowych wykresów, a także różnych obiektów rysunkowych, takich jak obiekty OLE, obrazy, komentarze, kształty i elementy sterujące do komórek.
+Biblioteka zapewnia stylizację arkuszy kalkulacyjnych, w tym między innymi formatowanie arkusza na poziomie wiersza, kolumny i komórki, dodawanie reguł formatowania warunkowego, definiowanie formatów liczb i ustawianie czcionek za pomocą atrybutów. Podobnie API obsługuje manipulowanie i tworzenie wszelkiego rodzaju niestandardowych i standardowych wykresów, a także różnych obiektów rysunkowych, takich jak obiekty OLE, obrazy, komentarze, kształty i kontrolki w komórkach.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -422,11 +423,11 @@ Biblioteka zapewnia stylizację arkuszy kalkulacyjnych, w tym między innymi for
  Konwertuj wykresy &amp; Arkusze do obrazu &amp; PDF Formaty
     </h2>
     <p>
- Aspose.Cells for Java oferuje specjalne funkcje konwersji, takie jak wykresy do obrazów i PDF, arkusze do obrazów, drukowanie arkuszy i konwertowanie arkuszy kalkulacyjnych do formatu pliku PDF. Proces konwersji jest bardzo elastyczny i łatwy, umożliwiając wybór wielu sposobów konwersji, takich jak ponowne próbkowanie obrazów podczas przekształcania arkuszy kalkulacyjnych do PDF lub dostosowywanie wynikowych wymiarów obrazu podczas renderowania arkuszy roboczych i wykresów do obrazów.
+ Aspose.Cells for Java oferuje specjalne funkcje konwersji, takie jak wykresy na obrazy i PDF, arkusze kalkulacyjne na obrazy, drukowanie arkuszy kalkulacyjnych i konwertowanie arkuszy kalkulacyjnych do formatu pliku PDF. Proces konwersji jest bardzo elastyczny i łatwy, pozwala wybrać wiele sposobów konwersji, takich jak ponowne próbkowanie obrazów podczas transformacji arkuszy kalkulacyjnych do transformacji PDF lub dostosowywanie wynikowych wymiarów obrazu podczas renderowania arkuszy i wykresów do obrazów.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Renderuj wykres programu Excel jako obraz &amp; PDF - Java
+Renderuj wykres Excela jako obraz &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -450,7 +451,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Manipuluj wierszami programu Excel &amp; Kolumny
     </h2>
     <p>
- Aspose.Cells for Java pozwala modyfikować wiersze i kolumny na różne sposoby. Można łatwo dostosować szerokość kolumny i wysokość wiersza, automatycznie dopasować szerokość/wysokość komórek od zawartości, wstawić &amp; usuń, ukryj &amp; odkryj, a także grupuj &amp; rozgrupuj wiersze i kolumny.
+ Aspose.Cells for Java umożliwia modyfikowanie wierszy i kolumn na różne sposoby. Można łatwo dostosować szerokość kolumny i wysokość wiersza, automatycznie dopasować szerokość/wysokość komórek do zawartości, wstawiać &amp; usuń, ukryj &amp; odkryj i grupuj &amp; rozgrupuj wiersze i kolumny.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +459,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Podsumuj dane za pomocą wykresów &amp; Tabele przestawne
     </h2>
     <p>
- Uzyskanie podsumowanych informacji w bardzo dużych arkuszach kalkulacyjnych może być trudne. Tabela przestawna służy do szybkiego opisu płaskich danych i uzyskiwania odpowiednich informacji w zależności od potrzeb. API dynamicznie tworzy tabele przestawne i wykresy. Możliwa jest dynamiczna zmiana danych źródłowych tabeli przestawnej. Ponadto Inteligentne znaczniki, kolejna najlepsza funkcja tej biblioteki do wypełniania arkuszy za pomocą źródeł danych i generowania efektywnych wizualnie raportów.
+ Uzyskanie podsumowania informacji w bardzo dużych arkuszach kalkulacyjnych może być trudne. Tabela przestawna służy do szybkiego opisu płaskich danych i uzyskania odpowiednich informacji w zależności od potrzeb. API dynamicznie tworzy tabele przestawne i wykresy. Możliwa jest dynamiczna zmiana danych źródłowych tabeli przestawnej. Ponadto inteligentne znaczniki, kolejna najważniejsza funkcja tej biblioteki, umożliwiająca wypełnianie arkuszy za pomocą źródeł danych i generowanie efektownych wizualnie raportów.
     </p>
    </div>
    <!--
@@ -484,10 +485,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Internetowa kontrola wizualna dla arkuszy kalkulacyjnych
+ Internetowa kontrola wizualna arkuszy kalkulacyjnych
     </h2>
     <p>
-Aspose.Cells for Java zapewnia również kontrolę interfejsu użytkownika, którą można osadzić w aplikacjach internetowych JSP i jest kompatybilna ze wszystkimi nowoczesnymi przeglądarkami internetowymi, takimi jak Chrome, Firefox, Internet Explorer i Opera. Użytkownik końcowy może go używać do ładowania, edytowania i zapisywania plików Excela z poziomu frontonu Twojej aplikacji internetowej.
+Aspose.Cells for Java zapewnia również kontrolę interfejsu użytkownika, którą można osadzić w aplikacjach internetowych JSP i jest kompatybilna ze wszystkimi nowoczesnymi przeglądarkami internetowymi, takimi jak Chrome, Firefox, Internet Explorer i Opera. Użytkownik końcowy może go używać do ładowania, edytowania i zapisywania plików Excel z interfejsu aplikacji internetowej.
     </p>
    </div>
   </div>
@@ -497,11 +498,11 @@ Aspose.Cells for Java zapewnia również kontrolę interfejsu użytkownika, któ
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API arkuszy kalkulacyjnych." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Co ludzie mówią" subTitle="Nie wierz nam tylko na słowo. Zobacz, co użytkownicy mają do powiedzenia na temat interfejsów API arkuszy kalkulacyjnych." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Zalecamy użycie Aspose.cells for Java, ponieważ jest łatwy do wdrożenia, a API jest łatwy do zrozumienia i bardzo płynny.
+ Zalecamy użycie numeru Aspose.cells for Java, ponieważ jest łatwy do wdrożenia, a numer API jest prosty do zrozumienia i bardzo płynny.
  <em>
  Pierre-Eric Oudin | Advizeo firmy Setec, Francja
  </em>
@@ -510,7 +511,7 @@ Aspose.Cells for Java zapewnia również kontrolę interfejsu użytkownika, któ
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Nasze ogólne wrażenia z produktów Aspose były bardzo pozytywne. Komponent ten zwiększył wartość biznesową produktu Xpand IT - Xporter Plugin for JIRA, pozwalając nam opracować referencyjne rozwiązanie do eksportu danych.
+ Nasze ogólne doświadczenia z produktami Aspose były bardzo pozytywne. Komponent ten zwiększył wartość biznesową produktu Xpand IT – Xporter Plugin dla JIRA, pozwalając nam na opracowanie referencyjnego rozwiązania do eksportu danych.
  <em>
  Paulo Lopes | Xpand IT, Wielka Brytania
  </em>

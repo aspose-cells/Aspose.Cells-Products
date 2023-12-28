@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL na XLT - Konwerter online EXCEL na XLT
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj EXCEL na format zapisu XLT. Python EXCEL do formatu XLT. Zapisz EXCEL pod numerem XLT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to XLT saveformat., Free Online EXCEL to XLT Python., Python Convert EXCEL to XLT]
+title: Python EXCEL do XLT - Konwerter EXCEL do XLT
+description: Aspose Excel. Konwertuj EXCEL na XLT szybko i łatwo za pomocą Aspose.Cells. Python EXCEL na XLT. Python Zapisz EXCEL na XLT. Zapisz EXCEL jako XLT używając Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to XLT in Python., Save EXCEL to XLT using Python., Python EXCEL to XLT saveformat., EXCEL to XLT Converter., Python Save EXCEL as XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na XLT w Python" h2="Szybka biblioteka Python do konwersji EXCEL na XLT. Jest to profesjonalne oprogramowanie do importowania i eksportowania EXCEL, XLT i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,28 +12,28 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Konwertuj EXCEL na XLT za pomocą Python" %}}
 
- Jak przekonwertować EXCEL na XLT? Dzięki bibliotece Aspose.Cells for Python możesz łatwo przekonwertować program EXCEL na XLT za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować EXCEL na XLT? Dzięki bibliotece Aspose.Cells for Python możesz łatwo przekonwertować programowo EXCEL na XLT za pomocą kilku linijek kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Zapisz EXCEL pod numerem XLT w Python Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz EXCEL pod numerem XLT w Python" %}}
 
-Poniższy przykład pokazuje, jak przekonwertować EXCEL na XLT w Python.
+Poniższy przykład ilustruje, jak przekonwertować program EXCEL na XLT w Python.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować plik EXCEL na XLT. Prześlij plik EXCEL, a następnie po prostu zapisz go jako plik XLT. Zarówno do odczytu EXCEL, jak i zapisu XLT można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość i formatowanie XLT będą identyczne z oryginalnym dokumentem EXCEL.
+Wykonaj proste kroki, aby przekonwertować plik EXCEL na XLT. Prześlij plik EXCEL, a następnie po prostu zapisz go jako plik XLT. Zarówno do odczytu w formacie EXCEL, jak i do zapisu XLT można używać w pełni kwalifikowanych nazw plików. Treść i formatowanie wyjściowego XLT będą identyczne z oryginalnym dokumentem EXCEL.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na XLT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji programu Excel na XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na XLT przez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo przekonwertować pliki EXCEL na XLT? Python programiści mogą łatwo załadować i przekonwertować EXCEL na XLT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki EXCEL na XLT? Programiści Python mogą łatwo załadować i przekonwertować EXCEL na XLT w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -45,11 +45,11 @@ Chcesz programowo przekonwertować pliki EXCEL na XLT? Python programiści mogą
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python biblioteka do konwersji EXCEL na XLT" %}}
+{{% blocks/products/pf/agp/content h2="Biblioteka Python do konwersji programu EXCEL na XLT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją trzy opcje instalacji „Aspose.Cells for Python via Java” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją trzy możliwości zainstalowania w systemie „Aspose.Cells for Python via Java”. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,44 +63,44 @@ Istnieją trzy opcje instalacji „Aspose.Cells for Python via Java” w systemi
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), po prostu upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub więcej.
+ Aspose.Cells for Python via Java jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux i MacOS), tylko upewnij się, że system ma Java 1.8 lub nowszy,[Python](https://www.python.org/downloads/) 3,5 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Zainstaluj Java i dodaj go do zmiennej środowiskowej PATH, na przykład:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+-  Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Pliki z rozszerzeniem .xlt to pliki szablonów utworzone za pomocą programu Excel Microsoft, który jest aplikacją arkusza kalkulacyjnego, która jest częścią pakietu Office Microsoft. Microsoft Pakiet Office 97-2003 obsługiwał tworzenie nowych plików XLT oraz otwieranie ich. Najnowsza wersja programu Excel nadal umożliwia otwieranie plików szablonów starego formatu. Taki plik szablonu służy do szybkiego tworzenia nowych plików Excel z domyślnymi danymi i ustawieniami, takimi jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp., które można dalej zapisać jako nowe pliki .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Nowy format opiera się na strukturze zorganizowanej zgodnie z konwencjami Open Packaging Convention jak opisano w części 2 standardu OOXML ECMA-376. pakiet zip zawierający wiele plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Pliki z rozszerzeniem .xlt to pliki szablonów utworzone za pomocą programu Microsoft Excel, który jest aplikacją arkusza kalkulacyjnego wchodzącą w skład pakietu Office Microsoft. Microsoft Pakiet Office 97-2003 obsługiwał tworzenie nowych plików XLT oraz ich otwieranie. Najnowsza wersja programu Excel nadal umożliwia otwieranie plików szablonów w starym formacie. Taki plik szablonu służy do szybkiego tworzenia nowych plików Excel z domyślnymi danymi i ustawieniami, takimi jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp., które można później zapisać jako nowe pliki .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować EXCEL na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-bmp/" name="EXCEL DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-emf/" name="EXCEL DO EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-emf/" name="EXCEL DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-gif/" name="EXCEL DO GIF" description="Graficzny format wymiany" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-html/" name="EXCEL DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-md/" name="EXCEL DO MD" description="język Markdowna" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-mhtml/" name="EXCEL DO MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-md/" name="EXCEL DLA MD" description="Język Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-mhtml/" name="EXCEL DO MHTML" description="Format archiwum stron internetowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-ods/" name="EXCEL DO ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-pdf/" name="EXCEL DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-png/" name="EXCEL DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-svg/" name="EXCEL DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-tiff/" name="EXCEL DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-tsv/" name="EXCEL DO TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-tsv/" name="EXCEL DO TSV" description="Wartości rozdzielone tabulatorami" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-txt/" name="EXCEL DO TXT" description="Dokument tekstowy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xls/" name="EXCEL DO XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlsb/" name="EXCEL DO XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlsm/" name="EXCEL DO XLSM" description="Plik arkusza kalkulacyjnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlsx/" name="EXCEL DO XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlt/" name="EXCEL DO XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlt/" name="EXCEL DO XLT" description="Microsoft Szablon Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltm/" name="EXCEL DO XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltx/" name="EXCEL DO XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltx/" name="EXCEL DO XLTX" description="Szablon programu Excel pakietu Office OpenXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xml/" name="EXCEL DO XML" description="Rozszerzalny język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xps/" name="EXCEL DO XPS" description="Specyfikacje papieru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-json/" name="EXCEL DO JSON" description="Notacja obiektu JavaScript" >}}

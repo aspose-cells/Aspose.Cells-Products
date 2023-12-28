@@ -1,40 +1,40 @@
 ---
-title: Kolomdiagram toevoegen via Aspose.Cells
+title: Kolomdiagram toevoegen doe je via Aspose.Cells
 weight: 7700
 limit:
-description: Meer informatie over het toevoegen van een kolomdiagram.
+description: Leer hoe u een kolomdiagram toevoegt.
 keywords: [Add column chart., how to add column chart in Aspose.Cells., how to add column chart using Aspose.Cells]
 url: /nl/tutorial/add-column-chart-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Leer hoe u een kolomdiagram kunt toevoegen met Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Leer hoe u een kolomdiagram toevoegt met Aspose.Cells" >}}
 
 <p>
 In deze zelfstudie voegen we een kolomdiagram toe aan een Excel-bestand.
 </p>
 
 <p>
- We beginnen met het maken van een nieuwe werkmap met behulp van de<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells bibliotheek</a> en kolomdiagram toevoegen.
+ We beginnen met het maken van een nieuwe werkmap met behulp van de<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells bibliotheek</a> en voeg een kolomdiagram toe.
 </p>
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: controleer de volgende code om erachter te komen hoe u een kolomdiagram kunt toevoegen.
-//ExStepSummary:0: de volgende code laat zien hoe u een kolomdiagram toevoegt.
+//ExSummary: Controleer de volgende code om te zien hoe u een kolomdiagram toevoegt.
+//ExStepSummary:0: De volgende code laat zien hoe u een kolomdiagram toevoegt.
 //ExStepImage:0:stap-1.png
 //ExStepSummary:1: De volgende code laat zien hoe u de legenda naar links verplaatst en de lettertypekleur van de legenda instelt.
-//ExStepImage:1:step-2.png
-//ExStepSummary:2: De volgende code laat zien hoe u de titel van een diagram instelt en de lettertypekleur in blauw wijzigt.
-//ExStepImage:2:step-3.png
+//ExStepImage:1:stap-2.png
+//ExStepSummary:2: De volgende code laat zien hoe u de titel van een diagram instelt en de kleur van het lettertype in blauw wijzigt.
+//ExStepImage:2:stap-3.png
 //ExStart
 //ExStep:0-
-met behulp van Aspose.Cells;
-met behulp van Aspose.Cells.Tekening;
+via Aspose.Cells;
+via Aspose.Cells.Tekening;
 
 Werkmap werkmap = nieuwe werkmap();
-Werkblad = werkboek. Werkbladen [0];
-blad.Naam = "Kaartblad";
+Werkbladblad = werkmap.Werkbladen[0];
+sheet.Name = "Grafiekblad";
 Cells cellen = blad.Cells;
 cellen["A1"].Waarde = "Fruit";
 cellen["A2"].Waarde = "appel";
@@ -48,24 +48,24 @@ cellen["B3"].Waarde = 5;
 cellen["B4"].Waarde = 20;
 cellen["B5"].Waarde = 8;
 
-blad.PageSetup.PrintGridlines = waar;
-blad.PageSetup.PrintArea = "A1:F20";
+sheet.PageSetup.PrintGridlines = waar;
+sheet.PageSetup.PrintArea = "A1:F20";
 
-ChartCollection charts = blad.Diagrammen;
+ChartCollection-grafieken = blad. Grafieken;
 
 //Kolomdiagram toevoegen
 int index = charts.Add(ChartType.Column, "=ChartSheet!A1:B5", false, 6, 0, 19, 5);
 Grafiekgrafiek = grafieken[index];
 
 //ExStap:1-
-// Verplaats de legenda naar links en stel de letterkleur van de legenda in
+//Verplaats de legenda naar links en stel de letterkleur van de legenda in
 chart.Legend.Font.Color = Kleur.Blauw;
 chart.Legend.Position = LegendPositionType.Left;
 
-//ExStep:2-
-// Stel de titel van een diagram in en wijzig de letterkleur in blauw
-chart.Title.Text = "Fruitprijskolomgrafiek";
-chart.Title.Font.Color = Color.Blue;
+//ExStap:2-
+//Stel de titel van een diagram in en verander de kleur van het lettertype in blauw
+chart.Title.Text = "Fruitprijskolomdiagram";
+chart.Title.Font.Color = Kleur.Blauw;
 
 //ExStep:0-
 

@@ -1,8 +1,8 @@
 ---
-title: C# Napraw plik xlsb — Napraw plik xlsb online za darmo
+title: C# Napraw xlsb — odzyskaj i napraw uszkodzony plik xlsb
 url: /pl/net/recovery/repair-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. C# Napraw plik xlsb. Darmowe narzędzie do naprawy xlsb online. Napraw uszkodzony plik xlsb. Odzyskaj uszkodzony plik xlsb w aplikacji .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb file., Free Online Repair a corrupted xlsb file., C# Recover xlsb file.]
+description: C# Aspose.Cells. Naprawa xlsb. Napraw plik xlsb. narzędzie do odzyskiwania xlsb. uszkodzenie xlsb. Przywróć dane xlsb. odzyskiwanie plików xlsb. Odzyskaj uszkodzony plik xlsb.
+keywords: [C# Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Napraw plik XLSB w C#" h2="Zbuduj własną aplikację .NET do naprawy plików xlsb przy użyciu .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsb fil
 
 {{% blocks/products/pf/agp/content h2="Napraw plik XLSB za pomocą C#" %}}
 
-Jak naprawić plik xlsb? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo programowo naprawić plik XLSB za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak naprawić plik xlsb? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo programowo naprawić plik XLSB za pomocą kilku linijek kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 
@@ -31,28 +31,28 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Chcesz programowo naprawić plik xlsb? .NET programiści mogą łatwo załadować i naprawić plik xlsb w zaledwie kilku wierszach kodu.
+Chcesz programowo naprawić plik xlsb? Programiści .NET mogą łatwo załadować i naprawić plik xlsb w zaledwie kilku linijkach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
-+ Załaduj plik XLSB, tworząc instancję Workbook, używając powyższej klasy dziedziczenia, zapoznaj się z powyższym kodem.
++ Załaduj plik XLSB, tworząc instancję skoroszytu, korzystając z powyższej klasy dziedziczenia, patrz powyższy kod.
 + Zapisz skoroszyt, uszkodzony plik xlsb zostanie naprawiony.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Bezpłatna aplikacja i przykładowy kod do naprawy pliku XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Przykładowy kod do naprawy pliku XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2="Biblioteka .NET do naprawy pliku XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w systemie. Wybierz taki, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
+Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w systemie. Wybierz ten, który odpowiada Twoim potrzebom i postępuj zgodnie z instrukcjami krok po kroku:
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) w Visual Studio IDE
+1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) w środowisku Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -61,7 +61,7 @@ Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w syste
 
  Aspose.Cells for .NET jest obsługiwany we wszystkich głównych systemach operacyjnych. Upewnij się tylko, że spełniasz następujące wymagania wstępne.
  
--  Microsoft Windows lub zgodny system operacyjny z platformami .NET, .NET Core lub Mono.
+-  Microsoft Windows lub kompatybilny system operacyjny z platformami .NET, .NET Core lub Mono.
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio.
 -  Nasz produkt jest w pełni wieloplatformowy i obsługuje Windows, Linux, MacOS, Azure, AWS Lambda.
 
@@ -72,7 +72,7 @@ Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w syste
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Format pliku XLSB określa binarny format pliku programu Excel, który jest zbiorem rekordów i struktur określających zawartość skoroszytu programu Excel. Zawartość może obejmować nieustrukturyzowane lub częściowo ustrukturyzowane tabele liczb, tekst lub zarówno liczby, jak i tekst, formuły, połączenia danych zewnętrznych, wykresy i obrazy. W przeciwieństwie do XLSX (który jest oparty na formacie pliku Open XML), XLSB reprezentuje binarny plik skoroszytu programu Excel. XLSB można szybciej odczytywać i zapisywać pliki, co czyni je przydatnymi do pracy z dużymi plikami. XLSB jest rzadko używany do przechowywania skoroszytów, ponieważ XLSX (a wcześniej XLS) to najczęściej wybierane przez użytkowników formaty plików do zapisywania skoroszytów. Można go otworzyć za pomocą Microsoft Office 2007 i nowszych.
+Format pliku XLSB określa format pliku binarnego programu Excel, który jest zbiorem rekordów i struktur określających zawartość skoroszytu programu Excel. Treść może obejmować nieustrukturyzowane lub częściowo ustrukturyzowane tabele liczb, tekst lub zarówno liczby, jak i tekst, formuły, zewnętrzne połączenia danych, wykresy i obrazy. W przeciwieństwie do XLSX (opartego na formacie pliku Open XML), XLSB reprezentuje binarny plik skoroszytu programu Excel. Pliki XLSB można szybciej odczytywać i zapisywać, co czyni je przydatnymi do pracy z dużymi plikami. Numer XLSB jest rzadko używany do przechowywania skoroszytów, ponieważ XLSX (a wcześniej XLS) to najpopularniejsze formaty plików wybierane przez użytkowników do zapisywania skoroszytów. Można go otworzyć pod numerem Microsoft Office 2007 i nowszych.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -80,13 +80,13 @@ Format pliku XLSB określa binarny format pliku programu Excel, który jest zbio
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą C# można łatwo naprawić inne pliki w formacie Excel." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Napraw inne obsługiwane formaty programu Excel" subTitle="Za pomocą numeru C# można łatwo naprawić inne pliki w formacie Excel." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Napraw ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Napraw XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Napraw XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Napraw XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Napraw XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Naprawa ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Naprawa XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Naprawa XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Naprawa XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Naprawa XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

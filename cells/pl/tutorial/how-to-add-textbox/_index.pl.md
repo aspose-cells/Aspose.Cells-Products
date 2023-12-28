@@ -1,5 +1,5 @@
 ---
-title: Jak dodać TextBox przez Aspose.Cells
+title: Jak dodać TextBox pod numerem Aspose.Cells
 weight: 7700
 limit:
 description: Dowiedz się, jak dodać TextBox.
@@ -8,14 +8,14 @@ url: /pl/tutorial/add-textbox-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Dowiedz się, jak dodać TextBox z numerem Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Dowiedz się, jak dodać TextBox za pomocą numeru Aspose.Cells" >}}
 
 <p>
-W tym samouczku dodamy TextBox do pliku programu Excel.
+W tym samouczku dodamy TextBox do pliku Excela.
 </p>
 
 <p>
- Zaczniemy od utworzenia nowego skoroszytu przy użyciu<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells biblioteka</a> i dodaj pole tekstowe.
+ Zaczniemy od utworzenia nowego skoroszytu za pomocą metody<a href="https://www.nuget.org/packages/Aspose.Cells">Biblioteka Aspose.Cells</a> i dodaj TextBox.
 </p>
 
 <br />
@@ -27,20 +27,20 @@ W tym samouczku dodamy TextBox do pliku programu Excel.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: Poniższy kod pokazuje, jak zmienić kąt obrotu TextBox.
 //ExStepImage:2:step-3.png
-//Rozpocznij
+//ExStart
 //ExStep:0-
-za pomocą Aspose.Cells;
+używając numeru Aspose.Cells;
 za pomocą Aspose.Cells. Rysunek;
 
-skoroszyt skoroszyt = nowy skoroszyt();
-Arkusz roboczy = skoroszyt.Worksheets[0];
-sheet.PageSetup.PrintGridlines = prawda;
-sheet.PageSetup.PrintArea = "A1:F20";
+Skoroszyt skoroszyt = nowy skoroszyt();
+Arkusz arkusza = skoroszyt.Arkusze[0];
+arkusz.PageSetup.PrintGridlines = true;
+arkusz.PageSetup.PrintArea = "A1:F20";
 
-kształty ShapeCollection = arkusz.Kształty;
+Kształty ShapeCollection = arkusz.Kształty;
 
 //Dodaj pole tekstowe i ustaw tekst
-TextBox textBox = Shapes.AddTextBox(1, 0, 1, 0, 200, 200);
+TextBox tekstBox = kształty.AddTextBox(1, 0, 1, 0, 200, 200);
 textBox.Text = "Aspose.Cells for .NET to biblioteka klas programistycznych, która umożliwia programistom manipulowanie i przetwarzanie plików arkuszy kalkulacyjnych w ich własnych aplikacjach.";
 
 //ExStep:1-
@@ -49,11 +49,11 @@ textBox.Font.Color = Kolor.Niebieski;
 
 //ExStep:2-
 //Zmień kąt obrotu TextBox
-textBox.RotationAngle = 90;
+tekstBox.RotationAngle = 90;
 
 //ExStep:0-
 
-//ExEnd
+//RozwińKoniec
 {{< /app/cells/tutorial >}}
 <br />
 

@@ -2,6 +2,7 @@
 title: Wstaw strzałki blokowe do programu Excel via Java
 weight: 338
 description: Wstaw obiekty za pomocą Aspose.Cells' Java API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wstaw strzałki blokowe do programu Excel via Java" h2="Wstaw strzałki blokowe za pomocą Aspose.Cells\' API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,11 +12,11 @@ description: Wstaw obiekty za pomocą Aspose.Cells' Java API bez żadnego oprogr
 
 {{% blocks/products/pf/agp/content h2="Jak wstawić strzałki blokowe do pliku Excel za pomocą Java" %}}
 
-Aby wstawić strzałki blokowe do pliku Excela, użyjemy
+ Aby wstawić strzałki blokowe do pliku Excel, użyjemy
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
+ API, która jest bogatą w funkcje, wydajną i łatwą w obsłudze platformą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -50,15 +51,15 @@ Aby wstawić strzałki blokowe do pliku Excela, użyjemy
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić strzałki blokowe do pliku Excel via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki wstawiania strzałek blokowych do pliku Excel via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
-+ Wybierz arkusz roboczy za pomocą jego indeksu.
- + Użyj[dodaj metodę](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) , aby wstawić blokujące strzałki w wybranym arkuszu
++ Tworzenie instancji obiektu skoroszytu. (lub-> Załaduj plik XLSX z pełną ścieżką.)
++ Wybierz Arkusz poprzez jego indeks.
+ + Użyj[dodaj metodę](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) , aby wstawić strzałki blokowe w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -71,12 +72,12 @@ Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną śc
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 - Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z Maven.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby uzyskać więcej informacji, zapoznaj się z „Omówieniem typów kształtów strzałek blokowych” poniżej.
+Przykładowy kod poniżej pokazuje, jak wstawić „strzałkę w prawo”. Więcej typów można znaleźć w artykule „Przegląd typów kształtów strzałek blokowych” poniżej.
 
 {{% blocks/products/pf/agp/code-block title="Wstaw strzałki blokowe - Java" offSpacer="" %}}
 
@@ -90,7 +91,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Omówienie typów kształtów strzałek blokowych
+ Przegląd typów kształtów strzałek blokowych
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
@@ -133,7 +134,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.QUAD_ARROW
+ Typ Autokształtu.QUAD_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -145,13 +146,13 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.BENT_ARROW
+ Typ Autokształtu.BENT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.U_TURN_ARROW
+Typ Autokształtu.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -169,31 +170,31 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_right.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_RIGHT_ARROW
+ Typ Autokształtu.CURVED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_LEFT_ARROW
+ Typ Autokształtu.CURVED_LEFT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_up.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_UP_ARROW
+ Typ Autokształtu.CURVED_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_down.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CURVED_DOWN_ARROW
+ Typ Autokształtu.CURVED_DOWN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_striped_right.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.STRIPED_RIGHT_ARROW
+ Typ Autokształtu.STRIPED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -205,19 +206,19 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_home_plate.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.HOME_PLATE
+ Typ Autokształtu.HOME_PLATE
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_chevron.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Autokształt.Typ.CHEVRON
+ Typ Autokształtu.CHEVRON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-Typ autokształtu.RIGHT_ARROW_CALLOUT
+ Typ autokształtu.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +236,7 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.UP_ARROW_CALLOUT
+ Typ Autokształtu.UP_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -247,13 +248,13 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.QUAD_ARROW_CALLOUT
+ Typ Autokształtu.QUAD_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_circular.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- Typ autokształtu.CIRCULAR_ARROW
+ Typ Autokształtu.CIRCULAR_ARROW
     </p>
    </div>
   </div>
@@ -269,7 +270,7 @@ Typ autokształtu.RIGHT_ARROW_CALLOUT
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Cells for Java API" %}}
 
- Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
+ Aspose.Cells API można używać do tworzenia, edytowania, konwertowania i renderowania formatów Excel Microsoft do różnych formatów. Co więcej, można go używać do kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Numer Aspose.Cells jest samodzielnym numerem API i nie wymaga żadnego oprogramowania takiego jak Microsoft czy OpenOffice.
 
 
     {{% /blocks/products/pf/agp/content %}}

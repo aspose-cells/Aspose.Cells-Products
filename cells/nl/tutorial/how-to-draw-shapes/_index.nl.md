@@ -1,14 +1,14 @@
 ---
-title: Vormen toevoegen via Aspose.Cells
+title: Vormen toevoegen doe je via Aspose.Cells
 weight: 7700
 limit:
-description: Leer hoe u vormen kunt toevoegen.
+description: Leer hoe u vormen toevoegt.
 keywords: [add shapes., how to add shapes in Aspose.Cells., how to add shapes using Aspose.Cells]
 url: /nl/tutorial/add-shapes-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Leer hoe je vormen toevoegt met Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Leer hoe u vormen toevoegt met Aspose.Cells" >}}
 
 <p>
 In deze zelfstudie voegen we vormen toe aan een Excel-bestand.
@@ -20,37 +20,37 @@ In deze zelfstudie voegen we vormen toe aan een Excel-bestand.
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: controleer de volgende code om erachter te komen hoe u vormen kunt toevoegen.
-//ExStepSummary:0: De volgende code laat zien hoe een rechthoekige vorm kan worden toegevoegd.
+//ExSummary: Controleer de volgende code om te zien hoe u vormen kunt toevoegen.
+//ExStepSummary:0: De volgende code laat zien hoe u een rechthoekige vorm toevoegt.
 //ExStepImage:0:stap-1.png
-//ExStepSummary:1: De volgende code laat zien hoe een lijnvorm kan worden toegevoegd.
-//ExStepImage:1:step-2.png
-//ExStepSummary:2: De volgende code laat zien hoe je een ovale vorm kunt toevoegen.
-//ExStepImage:2:step-3.png
+//ExStepSummary:1: De volgende code laat zien hoe u een lijnvorm toevoegt.
+//ExStepImage:1:stap-2.png
+//ExStepSummary:2: De volgende code laat zien hoe u een ovale vorm toevoegt.
+//ExStepImage:2:stap-3.png
 //ExStart
 //ExStep:0-
-met behulp van Aspose.Cells;
-met behulp van Aspose.Cells.Tekening;
+via Aspose.Cells;
+via Aspose.Cells.Tekening;
 
 
 
 
 
 Werkmap werkmap = nieuwe werkmap();
-Werkblad = werkboek. Werkbladen [0];
-blad.PageSetup.PrintGridlines = waar;
-blad.PageSetup.PrintArea = "A1:F20";
+Werkbladblad = werkmap.Werkbladen[0];
+sheet.PageSetup.PrintGridlines = waar;
+sheet.PageSetup.PrintArea = "A1:F20";
 
-ShapeCollection-vormen = blad.Vormen;
+ShapeCollection-vormen = vel.Shapes;
 
-// Voeg een rechthoekige vorm toe
-vormen.ToevoegenRechthoek(1, 0, 1, 0, 100, 150);
+// Rechthoekige vorm toevoegen
+vormen.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStap:1-
-// Lijnvorm toevoegen
+//Voeg lijnvorm toe
 vormen.AddLine(8, 0, 1, 0, 100, 150);
 
-//ExStep:2-
+//ExStap:2-
 //Voeg ovale vorm toe
 vormen.AddOval(13, 0, 1, 0, 100, 150);
 

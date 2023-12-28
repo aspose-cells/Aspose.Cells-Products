@@ -1,6 +1,6 @@
 ---
 title: XLAM naar SPREADSHEETML - Converteer XLAM naar SPREADSHEETML Python via Python
-description: Aspose Excel. Gratis online Converteer XLAM naar SPREADSHEETML-opslagformaat. Python XLAM naar SPREADSHEETML-indeling. Bewaar XLAM als SPREADSHEETML in Python.
+description: Aspose Excel. Gratis online converteer XLAM naar het SPREADSHEETML-opslagformaat. Python XLAM naar SPREADSHEETML-formaat. Sla XLAM op als SPREADSHEETML in Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML saveformat., Free Online XLAM to SPREADSHEETML Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,16 +12,16 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to SPREADSHEETML sav
 
 {{% blocks/products/pf/agp/content h2="Converteer XLAM naar SPREADSHEETML met behulp van Python" %}}
 
-Hoe converteer ik XLAM naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig XLAM programmatisch converteren naar SPREADSHEETML met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik XLAM naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for Python kunt u XLAM eenvoudig programmatisch naar SPREADSHEETML converteren met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bespaar XLAM naar SPREADSHEETML in Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM gratis op in SPREADSHEETML in Python online" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM converteert naar SPREADSHEETML in Python.
+In het volgende voorbeeld ziet u hoe u XLAM converteert naar SPREADSHEETML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om XLAM naar SPREADSHEETML te converteren. Upload uw XLAM-bestand en sla het eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLAM lezen als SPREADSHEETML schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De output SPREADSHEETML inhoud en opmaak zal identiek zijn aan het originele XLAM document.
+Volg de eenvoudige stappen om XLAM naar SPREADSHEETML te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLAM-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele XLAM-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -33,14 +33,14 @@ Volg de eenvoudige stappen om XLAM naar SPREADSHEETML te converteren. Upload uw 
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch converteren naar SPREADSHEETML? Python-ontwikkelaars kunnen eenvoudig XLAM laden en converteren naar SPREADSHEETML in slechts een paar regels code.
+Wilt u XLAM-bestanden programmatisch naar SPREADSHEETML converteren? Python-ontwikkelaars kunnen XLAM eenvoudig in slechts een paar regels code laden en converteren naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand XLAM met een instantie van Workbook.
-1.  Converteer XLAM naar SPREADSHEETML door de methode Workbook.save aan te roepen.
+1.  Laad het bestand XLAM met een exemplaar van Workbook.
+1.  Converteer XLAM naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -49,7 +49,7 @@ Wilt u XLAM-bestanden programmatisch converteren naar SPREADSHEETML? Python-ontw
 
 {{% blocks/products/pf/agp/text %}}
 
-Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die overeenkomt met uw behoeften en volg de stapsgewijze instructies:
+Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te installeren. Kies er een die aan uw behoeften voldoet en volg de stapsgewijze instructies:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,29 +63,29 @@ Er zijn drie opties om "Aspose.Cells for Python via Java" op uw systeem te insta
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er gewoon voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
+ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux en MacOS), zorg er wel voor dat het systeem Java 1.8 of hoger heeft,[Python](https://www.python.org/downloads/) 3,5 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installeer Java en voeg deze toe aan de omgevingsvariabele PATH, bijvoorbeeld:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+-  Installeer Aspose.Cells for Python van<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik de opdracht als:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-bmp/" name="XLAM TOT BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-emf/" name="XLAM TOT EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-gif/" name="XLAM TOT GIF" description="Grafisch uitwisselingsformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-html/" name="XLAM TOT HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-html/" name="XLAM TOT HTML" description="HyperText-opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-md/" name="XLAM NAAR MD" description="Markdown-taal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-mhtml/" name="XLAM TOT MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-ods/" name="XLAM TOT ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-mhtml/" name="XLAM TOT MHTML" description="Archiefformaat webpagina" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-ods/" name="XLAM TOT ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-pdf/" name="XLAM TOT PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-png/" name="XLAM TOT PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-svg/" name="XLAM TOT SVG" description="Schaalbare vectorafbeeldingen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tiff/" name="XLAM TOT TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tiff/" name="XLAM TOT TIFF" description="Getagd beeldformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-tsv/" name="XLAM TOT TSV" description="Door tabs gescheiden waarden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-txt/" name="XLAM TOT TXT" description="Tekstdocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xls/" name="XLAM TOT XLS" description="Excel binair formaat" >}}
@@ -93,7 +93,7 @@ Aspose.Cells for Python via Java is platformonafhankelijk API en kan op elk plat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsm/" name="XLAM TOT XLSM" description="Spreadsheet-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlsx/" name="XLAM TOT XLSX" description="OOXML Excel-bestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xlt/" name="XLAM TOT XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltm/" name="XLAM TOT XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltm/" name="XLAM TOT XLTM" description="Excel-sjabloon met macro\'s" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltx/" name="XLAM TOT XLTX" description="Office OpenXML Excel-sjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xml/" name="XLAM NAAR XML" description="Uitbreidbare opmaaktaal" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xps/" name="XLAM TOT XPS" description="XML-papierspecificaties" >}}

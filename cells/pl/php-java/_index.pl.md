@@ -1,11 +1,10 @@
 ---
-title: Arkusz kalkulacyjny Excel PHP API – Aspose 
+title:  Arkusz kalkulacyjny Excel PHP API - Aspose
 weight: 3660
-
-description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XLS XLSX CSV TSV HTML Arkusz kalkulacyjny ODSML i wszystkie formaty Excel 97-2016. Eksportuj arkusze kalkulacyjne do wielu formatów
+description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XLS XLSX CSV TSV HTML ODS SpreadsheetML i wszystkie formaty Excel 97-2016. Eksportuj arkusze kalkulacyjne do wielu formatów
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Arkusz kalkulacyjny PHP Excel API" h2="Wykonuj zadania manipulacji arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów bez żadnych zależności Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Arkusz kalkulacyjny PHP Excel API" h2="Wykonuj zadania manipulacyjne w arkuszach kalkulacyjnych, a także eksportuj pliki Excel do wielu formatów bez żadnych zależności Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -13,7 +12,7 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells dla PHP przez Java to skalowalne i bogate w funkcje zarządzanie i przetwarzanie arkuszy kalkulacyjnych programu Excel API. Aplikacje mogą wykonywać konwersję formatu arkusza kalkulacyjnego, zarządzanie i renderowanie wykresów, implementować formuły, stylizować arkusze do najbardziej szczegółowego poziomu i wiele więcej. API obsługuje formaty XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS i inne. Programiści mogą łatwo dodać możliwość tworzenia, edytowania, konwertowania i renderowania plików Excel w swoich aplikacjach PHP podczas korzystania z JavaBridge.
+ Aspose.Cells for PHP via Java to skalowalny i bogaty w funkcje program do zarządzania i przetwarzania arkuszy kalkulacyjnych Excel API. Aplikacje mogą wykonywać konwersję formatu arkusza kalkulacyjnego, zarządzanie wykresami i renderowanie, wdrażanie formuł, stylizowanie arkuszy kalkulacyjnych do najbardziej szczegółowego poziomu i wiele więcej. API obsługuje XLS, XLSX, ODS, SpreadsheetML, CSV, rozdzielane tabulatorami, HTML/MHTML, PDF, XPS i inne formaty. Programiści mogą łatwo dodać możliwość tworzenia, edytowania, konwertowania i renderowania plików Excel w swoich aplikacjach PHP podczas korzystania z JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd możliwości Aspose.Cells dla PHP przez Java." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd możliwości Aspose.Cells for PHP via Java." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Wykonanie
+ Wykonanie
    </header>
    <ul>
     <li>
-     Konwertuj wykres na obraz
+ Konwertuj wykres na obraz
     </li>
     <li>
-     Konwertuj arkusz na obraz
+ Konwertuj arkusz na obraz
     </li>
     <li>
-     Konwertuj arkusz kalkulacyjny na PDF
+ Konwertuj arkusz kalkulacyjny na PDF
     </li>
    </ul>
   </div>
@@ -47,23 +46,23 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
    <header>
     <i class="fa fa-cogs">
     </i>
-    Przetwarzanie danych
+ Przetwarzanie danych
    </header>
    <ul>
     <li>
-     Wykresy
+ Wykresy
     </li>
     <li>
-     Obliczanie formuł
+ Obliczanie formuły
     </li>
     <li>
-     Inteligentne znaczniki
+ Inteligentne znaczniki
     </li>
     <li>
-     Tabele przestawne
+ Tabele przestawne
     </li>
     <li>
-     Formatowanie warunkowe
+ Formatowanie warunkowe
     </li>
    </ul>
    <!--
@@ -97,9 +96,9 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    PHP przez Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -108,7 +107,7 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność od platformy" description="Aspose.Cells dla PHP przez Java wymaga PHP 7.1 (lub nowszego) i JavaBridge. Może działać na dowolnej platformie, na której można spełnić te wymagania." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for PHP via Java wymaga PHP 7.1 (lub nowszego) i JavaBridge. Może działać na dowolnej platformie, na której można spełnić te wymagania." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -118,19 +117,19 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
    <header>
     <i class="fa fa-cubes">
     </i>
-    Okna
+    Windows
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux
+ Linuksa
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    System operacyjny Mac
+ System operacyjny Mac
    </header>
    <!--
 
@@ -155,9 +154,9 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    PHP przez Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -166,37 +165,37 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Cells dla PHP przez Java obsługuje popularne formaty arkuszy kalkulacyjnych wraz z najczęściej używanymi formatami graficznymi i stałym układem." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Cells for PHP via Java obsługuje popularne formaty arkuszy kalkulacyjnych wraz z najczęściej używanymi formatami obrazów i stałych układów." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Wejście wyjście
+ Wejście wyjście
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
-     SZWO
+     ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
-     CSV, rozdzielany tabulatorami, TXT
+ CSV, rozdzielany tabulatorami, TXT
     </li>
     <li>
      <b>
-      Sieć:
+ Sieć:
      </b>
      HTML, MHTML
     </li>
@@ -207,18 +206,18 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Tylko wyjście
+ Tylko wyjście
    </header>
    <ul>
     <li>
      <b>
-      Naprawiono układ:
+ Naprawiono układ:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Obrazy:
+ Obrazy:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -235,9 +234,9 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    PHP przez Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -256,7 +255,7 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Zaawansowane funkcje arkusza kalkulacyjnego PHP API
+ Zaawansowane funkcje arkusza kalkulacyjnego PHP API
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -265,117 +264,117 @@ description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XL
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obsługa plików CSV, rozdzielanych tabulatorami i amp; formaty HTML
+ Obsługa numeru CSV, rozdzielanego tabulatorami i amp; HTML formatów
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Załaduj &amp; zapisz format arkusza kalkulacyjnego OpenDocument (ODS)
+ Załaduj &amp; zapisz format arkusza kalkulacyjnego OpenDocument (ODS).
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Twórz, manipuluj i renderowanie wykresów
+ Twórz, manipuluj i &amp; renderuj wykresy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importuj formuły z arkusza kalkulacyjnego projektanta
+ Importuj formuły z arkusza kalkulacyjnego projektanta
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skonfiguruj ustawienia strony
+ Skonfiguruj ustawienia strony
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Twórz i manipuluj komentarzami
+ Twórz komentarze i manipuluj nimi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw automatyczne filtry i amp; podziały stron
+ Ustaw automatyczne filtry &amp; przerwy na stronie
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw &amp; obliczyć złożone formuły
+ Ustaw &amp; obliczać złożone formuły
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować regułami formatowania warunkowego
+ Utwórz &amp; manipulować regułami formatowania warunkowego
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw opcje bezpieczeństwa/ochrony
+ Ustaw opcje zabezpieczeń/ochrony
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować nazwanymi zakresami
+ Utwórz &amp; manipulować nazwanymi zakresami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wypełnij arkusze za pomocą inteligentnych znaczników
+ Wypełniaj arkusze za pomocą inteligentnych znaczników
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Twórz, manipuluj i odśwież tabele przestawne
+ Twórz, manipuluj i &amp; odśwież tabele przestawne
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Eksportuj arkusze robocze w formacie SVG
+ Eksportuj arkusze w formacie SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; renderuj linie iskrzenia
+ Utwórz &amp; renderuj linie czasu
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwertuj pliki Excela na XPS, PDF i amp; HTML
+ Konwertuj pliki Excel na XPS, PDF &amp; HTML
     </h2>
     <p>
-     Aspose.Cells dla PHP przez Java API umożliwia konwersję plików Excela do formatów XPS, XPS i HTML, a także zapewnia najwyższą wierność wizualną. Proces konwersji jest niezawodny, a programiści mogą uzyskać wymagany format za pomocą zaledwie kilku linijek.
+Aspose.Cells for PHP via Java API umożliwia konwersję plików Excel do formatów XPS, XPS i HTML przy zachowaniu najwyższej wierności wizualnej. Proces konwersji jest niezawodny, a programiści mogą uzyskać wymagany format za pomocą zaledwie kilku linii.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Zapisz arkusz kalkulacyjny w wielu formatach - PHP
+ Zapisz arkusz kalkulacyjny w wielu formatach - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -394,37 +393,37 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Renderuj arkusze kalkulacyjne Excel i Obiekty w formacie PDF &amp; Obrazy
+ Renderuj arkusze kalkulacyjne Excel &amp; Obiekty do PDF &amp; Obrazy
     </h2>
     <p>
-     Aspose.Cells dla PHP przez Java ma własny silnik renderujący, specjalnie zaprojektowany do renderowania z najwyższą wiernością Microsoft Excel. Używając Aspose.Cells dla PHP przez Java, możesz konwertować całe arkusze kalkulacyjne, pojedyncze arkusze i amp; wykresy do wielu obrazów i amp; formaty o stałym układzie.
+ Aspose.Cells for PHP via Java ma własny silnik renderujący specjalnie zaprojektowany do renderowania z najwyższą wiernością do Microsoft Excel. Używając Aspose.Cells for PHP via Java, możesz konwertować całe arkusze kalkulacyjne, pojedyncze arkusze &amp; wykresy do wielu obrazów &amp; formaty o stałym układzie.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Elastyczne opcje wyświetlania arkusza roboczego
+ Elastyczne opcje wyświetlania arkusza
     </h2>
     <p>
-     Aspose.Cells dla PHP przez Java zapewnia pełną kontrolę nad ustawieniami strony arkusza, co pozwala na manipulowanie opcjami wyświetlania arkusza programu Excel, takimi jak podziały stron, orientacja strony, skalowanie, rozmiar papieru, nagłówki/stopki &amp; Poziom przybliżenia. Możesz także kontrolować widoczność danych za pomocą okienek zamrażania i amp; obszar drukowania dostosowany do wymagań aplikacji.
+Aspose.Cells for PHP via Java zapewnia pełną kontrolę nad konfiguracją strony arkusza, umożliwiając w ten sposób manipulowanie opcjami wyświetlania arkusza programu Excel, takimi jak podziały stron, orientacja strony, skalowanie, rozmiar papieru, nagłówki/stopki &amp; Poziom przybliżenia. Możesz także kontrolować widoczność danych za pomocą okienek blokujących &amp; obszar drukowania dostosowany do wymagań aplikacji.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Wydajne, wytrzymałe i Niezawodny silnik obliczania formuł
+ Wydajny, solidny i amp; Niezawodny silnik obliczający formuły
     </h2>
     <p>
-     Aspose.Cells dla PHP przez Java jest wyposażony w zaawansowany silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje programu Microsoft Excel. Można odczytywać, ustawiać i obliczać wyniki wbudowanych lub dodatkowych formuł typu, tablic i stylów odwołań W1K1.
+ Aspose.Cells for PHP via Java jest wyposażony w potężny silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje Excela Microsoft. Można odczytywać, ustawiać i obliczać wyniki formuł wbudowanych lub dodatkowych, tablicowych i stylów referencyjnych R1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Wizualizuj dane za pomocą formatowania, wykresów i amp; Grafika
+ Wizualizuj dane za pomocą formatowania, wykresów i amp; Grafika
     </h2>
     <p>
-     Biblioteka jest tak elastyczna, że można wyposażyć arkusze kalkulacyjne we wszelkiego rodzaju efekty wizualne, a także zastosować formatowanie do arkusza, wiersza, kolumny lub komórki, ustawić czcionki z atrybutami, zdefiniować styl komórek i amp; formaty liczb, dodaj Rich Text i zdefiniuj reguły formatowania warunkowego.
+ Biblioteka jest tak elastyczna, że można dodawać do arkuszy kalkulacyjnych wszelkiego rodzaju efekty wizualne, a także stosować formatowanie do arkusza, wiersza, kolumny lub komórki, ustawiać czcionki z atrybutami, definiować styl komórek &amp; formaty liczb, dodaj tekst sformatowany i zdefiniuj reguły formatowania warunkowego.
     </p>
     <p>
-     Podobnie, dla profesjonalnego wyglądu i łatwego zrozumienia, integralnymi częściami są wykresy i grafika. Aspose.Cells dla PHP za pośrednictwem Java Interfejsy API mogą tworzyć i manipulować wszystkimi typami standardowych i niestandardowych wykresów. Co więcej, do komórek można łatwo dodawać różne typy obiektów rysunkowych.
+Podobnie, aby zapewnić profesjonalny wygląd i łatwe zrozumienie wykresy i grafiki są integralną częścią. Aspose.Cells for PHP via Java Interfejsy API umożliwiają tworzenie i manipulowanie wszystkimi typami wykresów standardowych i niestandardowych. Co więcej, do komórek można łatwo dodawać różne typy obiektów rysunkowych.
     </p>
    </div>
   </div>
@@ -444,12 +443,12 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells dla PHP przez Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

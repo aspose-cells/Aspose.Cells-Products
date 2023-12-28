@@ -1,10 +1,11 @@
 ---
-title:  C++ Excel-spreadsheetprogrammering API - Aspose
+title: C++ Excel-spreadsheetprogrammering API - Aspose
 weight: 7140
-description: C++ Excel-bibliotheek om schrijf- en parseerbestanden te lezen, inclusief de formaten XLS, XLSX, XLSM en XLSB. Converteer spreadsheets naar PDF, CSV en meer formaten
+description: Aspose.Cells for C++ bibliotheek voor het maken, repareren, samenvoegen, parseren en converteren van Excel-bestanden. Converteer Excel naar PDF, JSON, XML, TSV enzovoort.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets-API\'s" h2="Spreadsheets maken, lezen, schrijven en parseren zonder Microsoft Excel-afhankelijkheden binnen volledig functionele C++-applicaties." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets-API\'s" h2="Creëer, lees, schrijf en parseer spreadsheets zonder enige Microsoft Excel-afhankelijkheden binnen volledig functionele C++-applicaties." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +13,7 @@ description: C++ Excel-bibliotheek om schrijf- en parseerbestanden te lezen, inc
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ is een native C++ API voor spreadsheetmanipulatie. Applicaties kunnen functies uitvoeren zoals het maken, converteren en bewerken van de ingebouwde en aangepaste eigenschappen van spreadsheets, thema's, stijlen en opmaak, gegevensvalidatie, voorwaardelijke opmaak, het lezen, schrijven en berekenen van formules, het groeperen van rijen en kolommen en nog veel meer zonder afhankelijk te zijn van kantoorautomatisering of Microsoft Excel. API ondersteunt de meest gebruikte spreadsheetformaten zoals XLS, XLSX, XLSM en XLSB.
+ Aspose.Cells for C++ is een native C++ API voor spreadsheetmanipulatie. Toepassingen kunnen functies uitvoeren zoals het maken, converteren en bewerken van de ingebouwde en aangepaste eigenschappen van spreadsheets, thema's, stijlen en opmaak, gegevensvalidatie, voorwaardelijke opmaak, formules lezen, schrijven en berekenen, rijen en kolommen groeperen en nog veel meer zonder afhankelijk te zijn van kantoorautomatisering of Microsoft Excel. API ondersteunt de meest gebruikte spreadsheetformaten zoals XLS, XLSX, XLSM en XLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -27,7 +28,7 @@ description: C++ Excel-bibliotheek om schrijf- en parseerbestanden te lezen, inc
    <header>
     <i class="fa fa-retweet">
     </i>
- Formaat Conversie
+ Formaatconversie
    </header>
    <br/>
    <header>
@@ -40,13 +41,13 @@ description: C++ Excel-bibliotheek om schrijf- en parseerbestanden te lezen, inc
  Draaitabel
     </li>
     <li>
- Tafels
+Tafels
     </li>
     <li>
  Grafieken
     </li>
     <li>
-Formules Berekening
+ Formules Berekening
     </li>
     <li>
  Gegevensvalidatie
@@ -86,7 +87,7 @@ Formules Berekening
  Hyperlinks
     </li>
     <li>
- AutoFilters
+ Automatische filters
     </li>
     <li>
  Pagina instellingen
@@ -128,13 +129,13 @@ Formules Berekening
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 32 bit
+ Windows 32-bits
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 64 bit
+ Windows 64-bits
    </header>
   </div>
   <!--/left-->
@@ -167,7 +168,7 @@ Formules Berekening
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description=" Aspose.Cells for C++ ondersteunt de meest gebruikte spreadsheet[bestandsformaten](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description=" Aspose.Cells for C++ ondersteunt de meest gebruikte spreadsheet[bestandsformaten](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -197,7 +198,7 @@ Formules Berekening
     </li>
     <li>
      <strong>
- anderen:
+ Anderen:
      </strong>
      HTML, MHTML
     </li>
@@ -213,7 +214,7 @@ Formules Berekening
    <ul>
     <li>
      <b>
- Excelleren:
+ Excel:
      </b>
      XLSM, XLTX, XLTM, XLAM
     </li>
@@ -227,7 +228,7 @@ Formules Berekening
      <b>
  Afbeeldingen:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,21 +275,21 @@ Formules Berekening
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Laad &amp; sla Excel-bestanden op met behulp van streams
+Laden &amp; sla Excel-bestanden op met behulp van streams
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; grafieken manipuleren
+ Creëer &amp; grafieken manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Stel gegevensvalidatie in om invoer te beperken
+ Stel gegevensvalidatie in om invoer te beperken
     </p>
    </div>
    <div class="col-lg-4">
@@ -316,7 +317,7 @@ Stel gegevensvalidatie in om invoer te beperken
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; Draaitabellen manipuleren
+ Creëer &amp; draaitabellen manipuleren
     </p>
    </div>
    <div class="col-lg-4">
@@ -330,14 +331,14 @@ Stel gegevensvalidatie in om invoer te beperken
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tabellen maken &amp; lijst objecten
+ Maak tabellen &amp; lijst objecten
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tekenobjecten manipuleren
+ Manipuleer tekenobjecten
     </p>
    </div>
    <div class="col-lg-4">
@@ -351,7 +352,7 @@ Stel gegevensvalidatie in om invoer te beperken
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Trace Precedenten &amp; afhankelijke personen
+ Traceer precedenten &amp; Afhankelijken
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,21 +373,21 @@ Stel gegevensvalidatie in om invoer te beperken
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Regels voor voorwaardelijke opmaak maken
+ Maak voorwaardelijke opmaakregels
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak en implementeer door de gebruiker gedefinieerde functies
+ Creëer en implementeer door de gebruiker gedefinieerde functies
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Converteer de grafiek naar het formaat PDF
+ Converteer de grafiek naar het PDF-formaat
     </p>
    </div>
    <div class="col-lg-4">
@@ -401,31 +402,31 @@ Stel gegevensvalidatie in om invoer te beperken
  Geen afhankelijkheid van Microsoft Excel
     </h2>
     <p>
-Aspose API's zijn volledig onafhankelijk en zijn niet gelieerd aan, noch geautoriseerd, gesponsord of anderszins goedgekeurd door Microsoft Corporation. Aspose.Cells for C++ heeft nooit Microsoft Office of Microsoft Excel nodig om op de machine te worden geïnstalleerd om met Excel-documentindelingen te werken.
+Aspose API's zijn volledig onafhankelijk en zijn niet gelieerd aan, noch geautoriseerd, gesponsord of anderszins goedgekeurd door Microsoft Corporation. Aspose.Cells for C++ hoeft nooit Microsoft Office of Microsoft Excel op de machine te installeren om met Excel-documentformaten te werken.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Eenvoudig &amp; Betrouwbare conversie van Excel-indelingen
+ Eenvoudig &amp; Betrouwbare conversie van Excel-formaten
     </h2>
     <p>
- Aspose.Cells for C++ is een krachtige set API's die de mogelijkheid bieden om Excel-bestandsindelingen te laden, bewerken, schrijven en onderling te converteren zonder dat u zich zorgen hoeft te maken over de indelingsspecifieke details. Met de API kunt u spreadsheets van elk ondersteund formaat naar elk ander ondersteund formaat converteren met slechts twee regels code. Zo simpel is het!
+ Aspose.Cells for C++ is een krachtige set API's die de mogelijkheid bieden om Excel-bestandsformaten te laden, bewerken, schrijven en onderling te converteren zonder dat u zich zorgen hoeft te maken over de formaatspecifieke details. Met de API kunt u spreadsheets van elk ondersteund formaat naar elk ander ondersteund formaat converteren met slechts twee regels code. Zo simpel is het!
     </p>
     <div class="codeblock" id="code">
      <h3>
  Converteer Excel-bestanden in meerdere formaten - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -433,7 +434,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  Uitgebreide spreadsheetopmaak
     </h2>
     <p>
-Aspose.Cells for C++ geeft u volledige controle over hoe u uw gegevens op het werkblad wilt presenteren, door geavanceerde opmaakfuncties aan te bieden. U kunt opmaak toepassen op afzonderlijke rijen, kolommen of cellen, of u kunt een reeks cellen maken en daar opmaak op toepassen. U kunt ook RTF-tekst aan een cel toevoegen, randen toepassen, achtergrondpatronen instellen of lettertype-gerelateerde stijlaspecten aanpassen.
+Aspose.Cells for C++ geeft u volledige controle over hoe u uw gegevens op het werkblad wilt presenteren, door geavanceerde opmaakfuncties aan te bieden. U kunt opmaak toepassen op afzonderlijke rijen, kolommen of cellen, of u kunt een celbereik maken en daar opmaak op toepassen. U kunt ook rijke tekst aan een cel toevoegen, randen toepassen, achtergrondpatronen instellen of lettertype-gerelateerde stijlaspecten aanpassen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -441,7 +442,7 @@ Aspose.Cells for C++ geeft u volledige controle over hoe u uw gegevens op het we
  Visualiseer gegevens met grafieken
     </h2>
     <p>
- Aspose.Cells for C++ biedt een uitgebreide set API's om dynamisch alle standaard en aangepaste diagramtypen te maken die worden ondersteund door de Excel-toepassing. De API biedt ook de mogelijkheid om de gegevensbron voor een bestaand diagram bij te werken en te vernieuwen.
+ Aspose.Cells for C++ biedt een uitgebreide set API's om op dynamische wijze alle standaard- en aangepaste grafiektypen te maken die door de Excel-applicatie worden ondersteund. De API biedt ook de mogelijkheid om de gegevensbron voor een bestaand diagram bij te werken en te vernieuwen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -449,23 +450,23 @@ Aspose.Cells for C++ geeft u volledige controle over hoe u uw gegevens op het we
  Geef werkbladen weer als afbeeldingen
     </h2>
     <p>
-De bibliotheek wordt weergegeven met de hoogste getrouwheid aan Microsoft Excel met behulp van zijn eigen rendering-engine. Het biedt onderscheidende functies zoals het renderen van werkbladen naar afbeeldingen in populaire formaten, waaronder BMP, TIFF, PNG, JPEG &amp; EMF. Het Sheet2Image-proces is flexibel, waardoor opties kunnen worden geselecteerd, zoals het regelen van de resolutie van de resulterende afbeelding.
+De bibliotheek rendert met de hoogste betrouwbaarheid voor Microsoft Excel met behulp van zijn eigen rendering-engine. Het biedt onderscheidende functies, zoals het renderen van werkbladen naar afbeeldingen in populaire formaten, waaronder BMP, PNG, JPEG &amp; EMF. Het Sheet2Image-proces is flexibel, waardoor opties kunnen worden geselecteerd, zoals het regelen van de resolutie van de resulterende afbeelding.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Kolommen en rijen manipuleren
+ Manipuleer kolommen en rijen
     </h2>
     <p>
- Aspose.Cells for C++ biedt manipulatie van rijen en kolommen op meerdere manieren. Rijhoogte en kolombreedte aanpassen of de celafmetingen automatisch aanpassen aan de inhoud ervan, is te gemakkelijk. De API biedt ook de mogelijkheid om te verwijderen en in te voegen, te verbergen of weer te geven, evenals het groeperen of de-groeperen van rijen en kolommen.
+ Aspose.Cells for C++ biedt manipulatie van rijen en kolommen op meerdere manieren. Het aanpassen van de rijhoogte en kolombreedte of het automatisch aanpassen van de celafmetingen aan de hand van de inhoud ervan, is te gemakkelijk. De API biedt ook de mogelijkheid om te verwijderen en in te voegen, te verbergen of weer te geven, evenals het groeperen of degroeperen van rijen en kolommen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Spreadsheets nauwkeurig converteren naar PDF
+ Converteer spreadsheets nauwkeurig naar PDF
     </h2>
     <p>
-De Excel C++-bibliotheek biedt de mogelijkheid om spreadsheets te converteren naar PDF-indeling met behoud van dezelfde kwaliteit als het originele document. Dit feit maakt Aspose.Cells for C++ een perfecte keuze voor organisaties die documenten moeten uitwisselen in industriestandaard formaten als PDF.
+De Excel C++-bibliotheek biedt de mogelijkheid om spreadsheets naar het PDF-formaat te converteren met behoud van dezelfde kwaliteit als het originele document. Dit feit maakt Aspose.Cells for C++ een perfecte keuze voor organisaties die documenten moeten uitwisselen in industriestandaardformaten als PDF.
     </p>
    </div>
    <!-- 
@@ -498,7 +499,7 @@ De Excel C++-bibliotheek biedt de mogelijkheid om spreadsheets te converteren na
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
 {{< blocks/products/pf/slr-element name="API Referenties" href="https://reference.aspose.com/cpp/cells" >}}
@@ -508,12 +509,12 @@ De Excel C++-bibliotheek biedt de mogelijkheid om spreadsheets te converteren na
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -521,7 +522,7 @@ De Excel C++-bibliotheek biedt de mogelijkheid om spreadsheets te converteren na
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

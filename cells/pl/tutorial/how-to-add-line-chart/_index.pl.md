@@ -8,14 +8,14 @@ url: /pl/tutorial/add-line-chart-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Dowiedz się, jak dodać wykres liniowy z numerem Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Dowiedz się, jak dodać wykres liniowy za pomocą numeru Aspose.Cells" >}}
 
 <p>
-W tym samouczku dodamy wykres liniowy w pliku programu Excel.
+W tym samouczku dodamy wykres liniowy w pliku Excel.
 </p>
 
 <p>
- Zaczniemy od utworzenia nowego skoroszytu przy użyciu<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells biblioteka</a> i dodaj wykres liniowy.
+ Zaczniemy od utworzenia nowego skoroszytu za pomocą metody<a href="https://www.nuget.org/packages/Aspose.Cells">Biblioteka Aspose.Cells</a> i dodaj wykres liniowy.
 </p>
 
 <br />
@@ -27,52 +27,52 @@ W tym samouczku dodamy wykres liniowy w pliku programu Excel.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: Poniższy kod pokazuje, jak uzyskać dostęp do etykiet danych, włączyć nazwy kategorii i ustawić pozycję.
 //ExStepImage:2:step-3.png
-//Rozpocznij
+//ExStart
 //ExStep:0-
-za pomocą Aspose.Cells;
+używając numeru Aspose.Cells;
 za pomocą Aspose.Cells. Rysunek;
 
-skoroszyt skoroszyt = nowy skoroszyt();
-Arkusz roboczy = skoroszyt.Worksheets[0];
-sheet.Name = "Arkusz Wykresu";
+Skoroszyt skoroszyt = nowy skoroszyt();
+Arkusz arkusza = skoroszyt.Arkusze[0];
+arkusz.Name = "Arkusz Wykresu";
 Cells komórek = arkusz.Cells;
-komórki ["A1"].Wartość = "Owoc";
-komórki ["A2"].Wartość = "jabłko";
-komórki ["A3"].Wartość = "pomarańczowy";
-komórki ["A4"].Wartość = "borówka";
-komórki ["A5"].Wartość = "kiwi";
+komórki["A1"].Wartość = "Owoc";
+komórki["A2"].Wartość = "jabłko";
+komórki["A3"].Wartość = "pomarańczowy";
+komórki["A4"].Wartość = "borówka";
+komórki["A5"].Wartość = "kiwi";
 
-komórki ["B1"].Wartość = "Cena";
-komórki ["B2"].Wartość = 10;
-komórki ["B3"]. Wartość = 5;
-komórki ["B4"]. Wartość = 20;
-komórki ["B5"]. Wartość = 8;
+komórki["B1"].Wartość = "Cena";
+komórki["B2"].Wartość = 10;
+komórki["B3"].Wartość = 5;
+komórki["B4"].Wartość = 20;
+komórki["B5"].Wartość = 8;
 
-sheet.PageSetup.PrintGridlines = prawda;
-sheet.PageSetup.PrintArea = "A1:F20";
+arkusz.PageSetup.PrintGridlines = true;
+arkusz.PageSetup.PrintArea = "A1:F20";
 
 Wykresy ChartCollection = arkusz.Wykresy;
 
 //Dodaj wykres liniowy, ustaw zakres danych serii i ustaw zakres danych kategorii
-int index = sheet.Charts.Add(ChartType.Line, 6, 0, 19, 5);
-Chart chart = arkusz.Wykresy[indeks];
-chart.NSeries.Add("B2:B5", prawda);
-chart.NSeries.CategoryData = "A2:A5";
+int indeks = arkusz.Wykresy.Add(TypWykresu.Linia, 6, 0, 19, 5);
+Wykres wykres = arkusz.Wykresy[indeks];
+wykres.NSeries.Add("B2:B5", prawda);
+wykres.NSeries.CategoryData = "A2:A5";
 
 //ExStep:1-
-//Przenieś legendę na dół i ustaw kolor czcionki legendy
-chart.Legend.Font.Color = Kolor.Niebieski;
-chart.Legend.Position = LegendPositionType.Bottom;
+//Przesuń legendę na dół i ustaw kolor czcionki legendy
+wykres.Legend.Font.Color = Kolor.Niebieski;
+wykres.Legend.Position = LegendPositionType.Bottom;
 
 //ExStep:2-
 //Uzyskaj dostęp do etykiet danych, włącz nazwy kategorii i ustaw pozycję
-DataLabels dataLabels = chart.NSeries[0].DataLabels;
-dataLabels.ShowCategoryName = prawda;
+DataLabels dataLabels = wykres.NSeries[0].DataLabels;
+dataLabels.ShowCategoryName = true;
 dataLabels.Position = LabelPositionType.Center;
 
 //ExStep:0-
 
-//ExEnd
+//RozwińKoniec
 {{< /app/cells/tutorial >}}
 <br />
 

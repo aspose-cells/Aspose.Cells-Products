@@ -1,10 +1,10 @@
 ---
-title:  Exporteer RDL-rapporten naar Excel XLS XLSX en SpreadsheetML in SQL Server
+title:  RDL-rapporten exporteren naar Excel XLS XLSX en SpreadsheetML in SQL Server
 weight: 3460
-description: SQL Server Reporting Services rendering-extensie - Excel exporteren XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS en TXT formaten
+description: Weergave-extensie SQL Server Reporting Services - Excel-indelingen XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS en TXT exporteren
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Reporting Services-extensie om rapporten als Excel-bestanden te leveren" h2="Exporteer eenvoudig RDL- en RDLC-rapporten naar Excel-spreadsheetbestandsindelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Reporting Services-extensie om rapporten als Excel-bestanden te leveren" h2="Exporteer RDL- en RDLC-rapporten eenvoudig naar Excel-spreadsheetbestandsformaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -12,7 +12,7 @@ description: SQL Server Reporting Services rendering-extensie - Excel exporteren
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Met Aspose.Cells for Reporting Services kunt u Excel-rapporten leveren vanuit de Microsoft SQL Server Reporting Services en Microsoft Report Viewer. In tegenstelling tot de native exporter voor op Excel gebaseerde rapporten - Aspose.Cells for Reporting Services staat de conversie van RDL &amp; RDLC rapporteert aan een aantal Excel-spreadsheetbestandsindelingen.
+ Met Aspose.Cells for Reporting Services kunt u Excel-rapporten leveren vanuit de Microsoft SQL Server Reporting Services en Microsoft Report Viewer. In tegenstelling tot de native exporteur voor Excel-gebaseerde rapporten - Aspose.Cells for Reporting Services staat de conversie toe van RDL &amp; RDLC rapporteert naar een aantal Excel-spreadsheetbestandsformaten.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,10 +40,10 @@ description: SQL Server Reporting Services rendering-extensie - Excel exporteren
  Tekstvakken
     </li>
     <li>
-Afbeeldingen
+ Afbeeldingen
     </li>
     <li>
- Deelrapporten
+ Subrapporten
     </li>
     <li>
  Grafieken
@@ -52,7 +52,7 @@ Afbeeldingen
  Lijsten
     </li>
     <li>
- Tafels
+Tafels
     </li>
     <li>
  Graadmeter
@@ -61,10 +61,10 @@ Afbeeldingen
  Matrices
     </li>
     <li>
- Rechthoeken/Lijnen
+ Rechthoeken/lijnen
     </li>
     <li>
- stijlen
+ Stijlen
     </li>
    </ul>
   </div>
@@ -89,16 +89,16 @@ Afbeeldingen
  Tabellen met gegroepeerde voettekst
     </li>
     <li>
- MS-vraag
+ MS-query
     </li>
     <li>
- Rapporteer specifieke gegevensbron
+ Rapportspecifieke gegevensbron
     </li>
     <li>
  Gedeelde gegevensbron
     </li>
     <li>
- Versleuteling
+ Encryptie
     </li>
    </ul>
    <header>
@@ -193,7 +193,7 @@ Afbeeldingen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description=" Aspose.Cells for Reporting Services ondersteunt veelgebruikte spreadsheets[bestandsformaten](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description=" Aspose.Cells for Reporting Services ondersteunt veelgebruikte spreadsheets[bestandsformaten](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -291,14 +291,14 @@ Afbeeldingen
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Bestand in MarkDown-indeling exporteren
+ MarkDown-formaatbestand exporteren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ondersteuning Tablix Group Page Break
+ Ondersteuning Tablix Group Pagina-einde
     </p>
    </div>
    <div class="col-lg-4">
@@ -312,28 +312,28 @@ Afbeeldingen
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Draaitabelvelden samenvouwen of uitvouwen
+ Draaitabelvelden samenvouwen of uitvouwen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ondersteuning bij het uitvoeren van Minus-berekeningen
+ Ondersteuning bij het uitvoeren van minberekeningen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Roep MS Excel-afdrukformaat aan
+ Roep het MS Excel-afdrukformaat op
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- MS Excel 2016 grafieken ondersteund
+ MS Excel 2016-grafieken ondersteund
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,21 +345,21 @@ Draaitabelvelden samenvouwen of uitvouwen
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Aspose.Cells' Rapporten Designer Tool
+ Aspose.Cells' Hulpprogramma voor het ontwerpen van rapporten
     </h2>
     <p>
- Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en leveren terwijl ze Aspose.Cells.Report.Designer gebruiken - een eenvoudige ontwerptool die Microsoft Excel als rapportsjabloon gebruikt. Met deze functie kunt u profiteren van alle krachtige functionaliteit en functies die beschikbaar zijn in de Excel-toepassing Microsoft, waaronder draaitabellen, interactieve grafieken, formules enzovoort.
+Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en leveren terwijl ze Aspose.Cells.Report.Designer gebruiken - een eenvoudige ontwerptool die Microsoft Excel als rapportsjabloon gebruikt. Met deze functie kunt u profiteren van alle krachtige functionaliteit en functies die beschikbaar zijn in de Excel-toepassing Microsoft, waaronder draaitabellen, interactieve grafieken, formules enzovoort.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Rapporten exporteren naar spreadsheetindelingen
+ Rapporten exporteren naar spreadsheetformaten
     </h2>
     <p>
-Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (97 - 2016) bestandsindelingen, inclusief "native" Microsoft Excel-indelingen zoals XLS, XLSX, XLSM, SpreadsheetML, CSV, Door tabs gescheiden en HTML. Aspose.Cells for Reporting Services ondersteunen ook de bestandsindeling ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (97 - 2016) bestandsformaten, inclusief “native” Microsoft Excel-formaten zoals XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited en HTML. Aspose.Cells for Reporting Services ondersteunen ook de bestandsindeling ODS (OpenDocument Spreadsheet).
     </p>
     <p>
- Bovendien exporteert Aspose.Cells for Reporting Services Excel-documenten als volledig bewerkbare spreadsheets, dat wil zeggen; de eindgebruiker kan de resulterende spreadsheets indien nodig handmatig bewerken in de Excel-toepassing Microsoft.
+ Bovendien exporteert Aspose.Cells for Reporting Services Excel-documenten als volledig bewerkbare spreadsheets, dat wil zeggen; de eindgebruiker kan de resulterende spreadsheets indien nodig handmatig bewerken in de Excel-applicatie Microsoft.
     </p>
    </div>
    <div class="col-lg-12">
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (
  High Fidelity - Identiek aan rapportontwerp
     </h2>
     <p>
- Aspose.Cells for Reporting Services exporteer de rapporten naar Microsoft Excel-spreadsheets op een manier dat het resultaat identiek lijkt aan het origineel zoals gegenereerd door de ingebouwde Reporting Services-rapportontwerper. Alle rapportfuncties worden geconverteerd naar de hoogste graad van precisie om Microsoft Excel-spreadsheets er zo veel mogelijk uit te laten zien als de originele.
+Aspose.Cells for Reporting Services exporteer de rapporten naar Microsoft Excel-spreadsheets op een manier dat het resultaat identiek lijkt aan het origineel zoals gegenereerd door de ingebouwde Reporting Services-rapportontwerper. Alle rapportfuncties zijn met de hoogste nauwkeurigheid geconverteerd om ervoor te zorgen dat Microsoft Excel-spreadsheets zo veel mogelijk op het origineel lijken.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (
  Verschillende opties voor gegevensverwerking
     </h2>
     <p>
-Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen en voetteksten, terwijl de groepering tijdens het ontwerp kan worden ingesteld, net als andere rapportitems. Aspose.Cells for Reporting Services ondersteunt ook parameters en globale variabelen als rapportgegevensbronnen. Ontwikkelaars kunnen ook gebruikmaken van Microsoft Query voor het maken van gegevensbronnen en query's; dit is een veelgebruikte tool en bekend bij de meeste gebruikers.
+ Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen en voetteksten, terwijl de groepering net als andere rapportitems tijdens de ontwerptijd kan worden ingesteld. Aspose.Cells for Reporting Services ondersteunt ook parameters en globale variabelen als rapportgegevensbronnen. Ontwikkelaars kunnen ook gebruik maken van Microsoft Query voor het maken van gegevensbronnen en queries; dit is een veelgebruikte tool en bekend bij de meeste gebruikers.
     </p>
     <p>
- Daarnaast ondersteunt Aspose.Cells for Reporting Services zowel rapportspecifieke gegevensbronnen als gedeelde gegevensbronnen die vooraf op Report Server zijn gemaakt. Ontwikkelaars kunnen rapportspecifieke gegevensbronnen tijdens het ontwerpen gebruiken en gedeelde gegevensbronnen specificeren als rapportgegevensbronnen tijdens het publiceren van rapporten.
+Daarnaast ondersteunt Aspose.Cells for Reporting Services zowel rapportspecifieke gegevensbronnen als gedeelde gegevensbronnen die vooraf op Report Server zijn gemaakt. Ontwikkelaars kunnen tijdens het ontwerp rapportspecifieke gegevensbronnen gebruiken en gedeelde gegevensbronnen opgeven als rapportgegevensbronnen tijdens het publiceren van rapporten.
     </p>
    </div>
    <!-- 
@@ -421,10 +421,10 @@ Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Kantoorautomatisering – niet nodig
+ Microsoft Kantoorautomatisering – Niet nodig
     </h2>
     <p>
- Aspose.Cells for Reporting Services is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Office of Microsoft Excel op de machine hoeft te worden geïnstalleerd om met Excel-documentindelingen te werken. Het is een perfect Microsoft Excel-automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
+ Aspose.Cells for Reporting Services is gebouwd met beheerde code waarvoor nooit Microsoft Office of Microsoft Excel op de machine hoeft te worden geïnstalleerd om met Excel-documentformaten te kunnen werken. Het is een perfect alternatief voor Excel-automatisering in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>
@@ -436,7 +436,7 @@ Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen 
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API Referenties" href="https://reference.aspose.com/" >}}
@@ -446,11 +446,11 @@ Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -458,7 +458,7 @@ Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen 
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

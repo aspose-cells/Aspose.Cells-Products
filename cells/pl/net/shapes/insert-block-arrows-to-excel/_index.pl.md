@@ -1,7 +1,8 @@
 ---
 title:  Wstaw strzałki blokowe do programu Excel via .NET
 weight: 338
-description: C# kod źródłowy do wstawiania strzałek blokowych do programu Excel na platformach .NET, .NET Core, Mono lub platformach Xamarin.
+description: C# Przykładowy kod umożliwiający dodanie lub wstawienie strzałek blokowych do programu Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć strzałki blokowe w programie MS Excel w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wstaw strzałki blokowe do programu Excel via .NET" h2="Wstaw strzałki blokowe za pomocą Aspose.Cells\' API bez żadnego oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF itp." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# kod źródłowy do wstawiania strzałek blokowych do programu Ex
 
 {{% blocks/products/pf/agp/content h2="Jak wstawić strzałki blokowe do pliku Excel za pomocą C#" %}}
 
-Aby wstawić strzałki blokowe do pliku Excela, użyjemy
+ Aby wstawić strzałki blokowe do pliku Excel, użyjemy
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji i rozdzielania dokumentów API dla platformy C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -33,17 +34,17 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić strzałki blokowe do pliku Excel za pośrednictwem C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby wstawić strzałki blokowe do pliku Excel za pomocą C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz aspose.cells.dll, aby wypróbować następujący przepływ pracy we własnym środowisku.
+Aby wypróbować następujący przepływ pracy we własnym środowisku, potrzebujesz pliku aspose.cells.dll.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
-+ Wybierz arkusz roboczy za pomocą jego indeksu.
- + Użyj[dodaj metodę](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) , aby wstawić blokujące strzałki w wybranym arkuszu
++ Tworzenie instancji obiektu skoroszytu. (lub-> Załaduj plik XLSX z pełną ścieżką.)
++ Wybierz Arkusz poprzez jego indeks.
+ + Użyj[dodaj metodę](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) , aby wstawić strzałki blokowe w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -56,13 +57,13 @@ Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną śc
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Mono lub Xamarin Platforms
+-  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Mono lub platformami Xamarin
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
--  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
+-  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj od NuGet, korzystając z przycisku Pobierz powyżej
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby uzyskać więcej informacji, zapoznaj się z „Omówieniem typów kształtów strzałek blokowych” poniżej.
+Przykładowy kod poniżej pokazuje, jak wstawić „strzałkę w prawo”. Więcej typów można znaleźć w artykule „Przegląd typów kształtów strzałek blokowych” poniżej.
 
 {{% blocks/products/pf/agp/code-block title="Wstaw strzałki blokowe - C#" offSpacer="" %}}
 
@@ -76,7 +77,7 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Omówienie typów kształtów strzałek blokowych
+ Przegląd typów kształtów strzałek blokowych
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right.png" align="left" width="28" height="28">
@@ -87,91 +88,91 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftArrow
+ Typ autokształtu. Strzałka w lewo
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Typ Autokształtu. Strzałka w górę
+ Typ autokształtu.UpArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_down.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.DownArrow
+ Typ Autokształtu.DownArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_right.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftRightArrow
+ Typ autokształtu.LeftRightArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_down.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.UpDownArrow
+ Typ Autokształtu.UpDownArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.QuadArrow
+ Typ Autokształtu.QuadArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_right_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftRightUpArrow
+ Typ Autokształtu.LeftRightUpArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.BentArrow
+ Typ Autokształtu.BentArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.UTurnArrow
+ Typ Autokształtu.UTurnArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftUpArrow
+ Typ autokształtu.LeftUpArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.BentUpArrow
+ Typ Autokształtu.BentUpArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_right.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedRightArrow
+ Typ Autokształtu.CurvedRightArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedLeftArrow
+Typ Autokształtu.CurvedLeftArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_up.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedUpArrow
+ Typ Autokształtu.CurvedUpArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_down.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedDownArrow
+ Typ Autokształtu.CurvedDownArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -183,19 +184,19 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_notched_right.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.NotchedRightArrow
+ Typ Autokształtu.NotchedRightArrow
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_home_plate.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.HomePlate
+ Typ Autokształtu.Płyta główna
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_chevron.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- Typ Autokształtu. Szewron
+ Typ Autokształtu.Chevron
     </p>
    </div>
    <div class="col-lg-4">
@@ -213,13 +214,13 @@ Poniższy przykładowy kod pokazuje, jak wstawić „strzałkę w prawo”. Aby 
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftArrowCallout
+ Typ Autokształtu.LeftArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,13 +232,13 @@ AutoShapeType.UpArrowCallout
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.QuadArrowCallout
+ Typ Autokształtu.QuadArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_circular.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CircularArrow
+ Typ Autokształtu.CircularArrow
     </p>
    </div>
   </div>
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
+Aspose.Cells API można używać do tworzenia, edytowania, konwertowania i renderowania formatów Excel Microsoft do różnych formatów. Co więcej, można go używać do kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Numer Aspose.Cells jest samodzielnym numerem API i nie wymaga żadnego oprogramowania takiego jak Microsoft czy OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -2,13 +2,13 @@
 title: Cirkeldiagram toevoegen via Aspose.Cells
 weight: 7700
 limit:
-description: Meer informatie over het toevoegen van een cirkeldiagram.
+description: Leer hoe u een cirkeldiagram toevoegt.
 keywords: [Add pie chart., how to add pie chart in Aspose.Cells., how to add pie chart using Aspose.Cells]
 url: /nl/tutorial/add-pie-chart-in-excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Leer hoe u een cirkeldiagram kunt toevoegen met Aspose.Cells" >}}
+{{< blocks/products/pf/feature-page-section h2="Leer hoe u een cirkeldiagram toevoegt met Aspose.Cells" >}}
 
 <p>
 In deze zelfstudie voegen we een cirkeldiagram toe aan een Excel-bestand.
@@ -20,21 +20,21 @@ In deze zelfstudie voegen we een cirkeldiagram toe aan een Excel-bestand.
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: controleer de volgende code om erachter te komen hoe u een cirkeldiagram kunt toevoegen.
-//ExStepSummary:0: de volgende code laat zien hoe u een cirkeldiagram kunt toevoegen, het reeksgegevensbereik kunt instellen en het categoriegegevensbereik kunt instellen.
+//ExSummary: Controleer de volgende code om te zien hoe u een cirkeldiagram kunt toevoegen.
+//ExStepSummary:0: De volgende code laat zien hoe u een cirkeldiagram toevoegt, het reeksgegevensbereik instelt en het categoriegegevensbereik instelt.
 //ExStepImage:0:stap-1.png
 //ExStepSummary:1: De volgende code laat zien hoe u de legenda uitschakelt.
-//ExStepImage:1:step-2.png
-//ExStepSummary:2: De volgende code laat zien hoe u toegang krijgt tot gegevenslabels, categorienamen inschakelt, percentageformaat inschakelt en positie instelt.
-//ExStepImage:2:step-3.png
+//ExStepImage:1:stap-2.png
+//ExStepSummary:2: De volgende code laat zien hoe u toegang krijgt tot gegevenslabels, categorienamen inschakelt, het percentageformaat inschakelt en de positie instelt.
+//ExStepImage:2:stap-3.png
 //ExStart
 //ExStep:0-
-met behulp van Aspose.Cells;
-met behulp van Aspose.Cells.Tekening;
+via Aspose.Cells;
+via Aspose.Cells.Tekening;
 
 Werkmap werkmap = nieuwe werkmap();
-Werkblad = werkboek. Werkbladen [0];
-blad.Naam = "Kaartblad";
+Werkbladblad = werkmap.Werkbladen[0];
+sheet.Name = "Grafiekblad";
 Cells cellen = blad.Cells;
 cellen["A1"].Waarde = "Fruit";
 cellen["A2"].Waarde = "appel";
@@ -48,23 +48,23 @@ cellen["B3"].Waarde = 5;
 cellen["B4"].Waarde = 20;
 cellen["B5"].Waarde = 8;
 
-blad.PageSetup.PrintGridlines = waar;
-blad.PageSetup.PrintArea = "A1:F20";
+sheet.PageSetup.PrintGridlines = waar;
+sheet.PageSetup.PrintArea = "A1:F20";
 
-ChartCollection charts = blad.Diagrammen;
+ChartCollection-grafieken = blad. Grafieken;
 
-// Voeg een cirkeldiagram toe, stel reeksgegevensbereik in en stel categoriegegevensbereik in
+//Voeg een cirkeldiagram toe, stel het reeksgegevensbereik in en stel het categoriegegevensbereik in
 int index = blad.Charts.Add(ChartType.Pie, 6, 0, 19, 5);
-Grafiek grafiek = blad. Grafieken [index];
-grafiek.NSeries.Add("B2:B5", waar);
-grafiek.NSeries.CategoryData = "A2:A5";
+Grafiekdiagram = blad. Grafieken [index];
+chart.NSeries.Add("B2:B5", waar);
+chart.NSeries.CategoryData = "A2:A5";
 
 //ExStap:1-
-// Legenda uitschakelen
-grafiek.ShowLegend = onwaar;
+// Schakel de legenda uit
+chart.ShowLegend = false;
 
-//ExStep:2-
-// Toegang tot gegevenslabels, categorienamen inschakelen, procentuele indeling inschakelen en positie instellen
+//ExStap:2-
+// Krijg toegang tot gegevenslabels, schakel categorienamen in, schakel het percentageformaat in en stel de positie in
 DataLabels dataLabels = grafiek.NSeries[0].DataLabels;
 dataLabels.ShowCategoryName = waar;
 dataLabels.ShowPercentage = waar;
